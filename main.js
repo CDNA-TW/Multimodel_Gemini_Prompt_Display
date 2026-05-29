@@ -10,11 +10,25 @@ document.addEventListener("DOMContentLoaded", () => {
     const navFeatures = document.getElementById("nav-features");
     const navVideo = document.getElementById("nav-video");
 
-    // 目前所在的視圖狀態: 'cluster' 或 'features'
     let currentView = "video";
 
     /**
-     * 更新 UI 按鈕樣式
+     * 初始化 Type 下拉選單。
+     * 注意：這件事只能做一次，不可以放在 refreshContent() 裡。
+     */
+    function initTypeSelector() {
+        selector.innerHTML = "";
+
+        APP_CONFIG.MODES.forEach((mode) => {
+            const opt = document.createElement("option");
+            opt.value = mode.key;
+            opt.innerText = mode.label;
+            selector.appendChild(opt);
+        });
+    }
+
+    /**
+     * 更新上方頁籤按鈕樣式。
      */
     function updateNavUI() {
         [navCluster, navFeatures, navVideo].forEach((btn) => {
@@ -30,17 +44,43 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     /**
-     * 依照目前狀態切換渲染內容
+     * 只負責依照目前狀態渲染內容。
+     * 不在這裡初始化 option，也不在這裡綁定事件，避免重複綁定造成效能問題。
      */
     function refreshContent() {
         const type = selector.value;
+
         if (currentView === "cluster") {
             renderClusterView(type);
         } else if (currentView === "features") {
             renderFeaturesView(type);
         } else if (currentView === "video") {
-            renderVideoView(); // 新增調用
+            renderVideoView();
         }
+    }
+
+    /**
+     * 初始化所有事件。
+     * 注意：事件只綁定一次。
+     */
+    function bindGlobalEvents() {
+        selector.addEventListener("change", () => {
+            refreshContent();
+        });
+
+        navCluster.addEventListener("click", () => {
+            if (currentView === "cluster") return;
+            currentView = "cluster";
+            updateNavUI();
+            refreshContent();
+        });
+
+        navFeatures.addEventListener("click", () => {
+            if (currentView === "features") return;
+            currentView = "features";
+            updateNavUI();
+            refreshContent();
+        });
 
         navVideo.addEventListener("click", () => {
             if (currentView === "video") return;
@@ -50,35 +90,8 @@ document.addEventListener("DOMContentLoaded", () => {
         });
     }
 
-    // 初始化下拉選單
-    APP_CONFIG.MODES.forEach((mode) => {
-        const opt = document.createElement("option");
-        opt.value = mode.key;
-        opt.innerText = mode.label;
-        selector.appendChild(opt);
-    });
-
-    // 監聽 Type 切換
-    selector.addEventListener("change", () => {
-        refreshContent();
-    });
-
-    // 監聽導覽按鈕：切換到 Cluster
-    navCluster.addEventListener("click", () => {
-        if (currentView === "cluster") return;
-        currentView = "cluster";
-        updateNavUI();
-        refreshContent();
-    });
-
-    // 監聽導覽按鈕：切換到 Features
-    navFeatures.addEventListener("click", () => {
-        if (currentView === "features") return;
-        currentView = "features";
-        updateNavUI();
-        refreshContent();
-    });
-
-    // 預設執行
+    initTypeSelector();
+    bindGlobalEvents();
+    updateNavUI();
     refreshContent();
 });

@@ -1,13 +1,5 @@
 // all_video.js
 import { APP_CONFIG } from "./config.js";
-import {
-    cleanHeader,
-    splitCsvRow,
-    yieldToBrowser,
-    runAfterFirstPaint,
-    cssEscape,
-} from "./all_video_utils.js";
-import { renderVideoDashboard } from "./all_video_dashboard.js";
 
 const container = document.getElementById("cluster-container");
 
@@ -26,7 +18,6 @@ let mediaIdIndex = new Map(); // media_id -> media record，用於模式 1 O(1) 
 let isFilterActive = false; // 是否正在套用模式 2 條件篩選
 let matchedMediaIds = new Set(); // 模式 2：符合條件的 media_id
 let matchedInfluencerIds = new Set(); // 模式 2：符合條件的 post_owner.username；對應 influencer_all_info.csv 的 ig_id
-let activeFilterMode = null; // 篩選模式："video" 代表影片層級篩選；"category" 代表網紅類別篩選
 
 // ==========================================
 // 效能優化：模組層級快取
@@ -45,6 +36,50 @@ let videoSnapshotTimer = null; // 避免 MutationObserver 連續觸發時大量 
 let videoCsvCache = {}; // 快取第二層單一網紅影片 CSV 解析結果：{ ig_id: videos[] }
 
 /**
+ * 清除 CSV header 可能出現的 BOM、引號與空白。
+ */
+function cleanHeader(header) {
+    return String(header || "")
+        .replace(/^[\uFEFF\xEF\xBB\xBF]+/, "")
+        .replace(/^uFEFF/, "")
+        .trim()
+        .replace(/"/g, "");
+}
+
+/**
+ * 簡易 CSV row parser：保留原本專案使用的正則切法，處理欄位內逗號。
+ */
+function splitCsvRow(row) {
+    return row.split(/,(?=(?:(?:[^"]*"){2})*[^"]*$)/);
+}
+
+/**
+ * 讓出主執行緒給瀏覽器。
+ *
+ * 用於大量 CSV parsing 時，避免長時間卡住 UI，
+ * 讓使用者仍然可以點擊下方手風琴。
+ */
+function yieldToBrowser() {
+    return new Promise((resolve) => setTimeout(resolve, 0));
+}
+
+/**
+ * 等第一畫面真正 paint 出來後，再開始背景處理大型 CSV。
+ * 這可以避免「手風琴剛出現但點不動」的感覺。
+ */
+function runAfterFirstPaint(callback) {
+    requestAnimationFrame(() => {
+        requestAnimationFrame(() => {
+            if ("requestIdleCallback" in window) {
+                window.requestIdleCallback(callback, { timeout: 1200 });
+            } else {
+                setTimeout(callback, 80);
+            }
+        });
+    });
+}
+
+/**
  * 核心進入點：渲染網紅列表視圖。
  *
  * 效能優化重點：
@@ -60,9 +95,6 @@ export async function renderVideoView() {
 
         // innerHTML 還原後，addEventListener 綁定會消失，因此需要重新綁定搜尋 / 篩選 UI。
         bindSearchEvents();
-
-        // innerHTML 還原後，to top 按鈕事件也會消失，因此需要重新綁定。
-        bindVideoTopButton();
 
         // 重新啟動 DOM 快照監聽，確保後續展開手風琴、篩選、搜尋後都能保存狀態。
         startVideoDomSnapshotObserver();
@@ -374,7 +406,6 @@ async function parseGlobalMediaData(csvText) {
     mediaIdIndex = nextMediaIdIndex;
 }
 
-
 /**
  * 渲染主 Layout。
  */
@@ -383,19 +414,11 @@ function renderMainLayout() {
     <div id="video-view-root" class="w-full p-6 space-y-6">
         ${renderSearchFilterPanel()}
         <div id="influencer-list-container"></div>
-
-        <button id="btn-video-to-top" class="video-to-top-btn" type="button" title="回到頂部" aria-label="回到頂部">
-            <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.4" d="M5 15l7-7 7 7"></path>
-            </svg>
-        </button>
     </div>`;
 
     if (isGlobalMediaDataLoaded) {
         bindSearchEvents();
     }
-
-    bindVideoTopButton();
 
     renderInfluencerList();
     cacheVideoViewSnapshot();
@@ -423,9 +446,9 @@ function renderSearchFilterPanel() {
         <div id="search-filter-panel" class="bg-slate-950/60 border border-slate-800/80 rounded-xl p-5 shadow-xl backdrop-blur-md">
             <div class="flex items-center justify-center gap-4 min-h-[96px]">
                 <div class="w-7 h-7 rounded-full border-2 border-slate-700 border-t-blue-500 animate-spin"></div>
-                <div class = "text-center">
+                <div>
                     <div class="text-slate-200 font-bold text-sm">資料載入中，請稍後...</div>
-                    <div class="text-slate-300 text-xs mt-1">大約等個十幾秒，手風琴稍後才能展開 <br>閒著也是閒著，來看首唐詩：朱熹《春日》<br> 勝日尋芳泗水濱，無邊光景一時新。等閒識得東風面，萬紫千紅總是春。</div>
+                    <div class="text-slate-500 text-xs mt-1">大約等個十幾秒，手風琴稍後才能展開</div>
                 </div>
             </div>
         </div>`;
@@ -436,32 +459,31 @@ function renderSearchFilterPanel() {
             <div class="flex flex-wrap items-center gap-4 border-b border-slate-800/40 pb-4">
                 <div class="flex items-center gap-2 min-w-[130px]">
                     <span class="w-2 h-2 rounded-full bg-blue-500"></span>
-                    <span class="text-sm font-bold text-slate-300">Media ID 搜尋</span>
+                    <span class="text-sm font-bold text-slate-300">模式 1 (ID 搜尋)</span>
                 </div>
                 <input type="text" id="search-media-id" placeholder="請輸入完整的 media_id" 
                     class="bg-slate-900 border border-slate-700/80 rounded-lg px-4 py-1.5 text-sm text-slate-200 outline-none focus:border-blue-500 transition w-64 font-mono">
-                <button id="btn-mode1-search" class="bg-blue-600 hover:bg-blue-500 text-white text-sm px-5 py-1.5 rounded-lg font-medium transition shadow-md shadow-blue-900/20">搜 尋</button>
+                <button id="btn-mode1-search" class="bg-blue-600 hover:bg-blue-500 text-white text-sm px-5 py-1.5 rounded-lg font-medium transition shadow-md shadow-blue-900/20">搜尋</button>
             </div>
 
             <div class="flex flex-wrap items-center gap-4">
                 <div class="flex items-center gap-2 min-w-[130px]">
                     <span class="w-2 h-2 rounded-full bg-emerald-500"></span>
-                    <span class="text-sm font-bold text-slate-300">條件篩選目標</span>
+                    <span class="text-sm font-bold text-slate-300">模式 2 (條件篩選)</span>
                 </div>
                 <select id="filter-condition-select" class="bg-slate-900 border border-slate-700/80 rounded-lg px-3 py-1.5 text-sm text-emerald-400 outline-none focus:border-emerald-500 transition cursor-pointer">
                     <option value="" selected>-- 請選擇條件 --</option>
-                    <option value="duration">依【影片長度】 篩選</option>
-                    <option value="comment_count">依【留言數量】篩選</option>
-                    <option value="like_count">依【按讚數量】 篩選</option>
-                    <option value="creation_time_tw">依【建立時間】 篩選</option>
-                    <option value="modified_time_tw">依【修改時間】 篩選</option>
-                    <option value="category">依【網紅類別】 篩選</option>
+                    <option value="duration">條件1：依照 "影片長度" 篩選</option>
+                    <option value="comment_count">條件2：依照 "留言數量" 篩選</option>
+                    <option value="like_count">條件3：依照 "按讚數量" 篩選</option>
+                    <option value="creation_time_tw">條件4：依照 "建立時間" 篩選</option>
+                    <option value="modified_time_tw">條件5：依照 "修改時間" 篩選</option>
                 </select>
 
                 <div id="filter-input-wrapper" class="flex items-center gap-2"></div>
 
-                <button id="btn-mode2-filter" class="bg-emerald-600 hover:bg-emerald-500 text-white text-sm px-7 py-1.5 rounded-lg font-medium transition shadow-md shadow-emerald-900/20">篩 選</button>
-                <button id="btn-search-reset" class="bg-slate-800 hover:bg-slate-700 text-slate-300 text-sm px-3 py-1.5 rounded-lg font-medium transition border border-slate-700">♻️ 清除重設</button>
+                <button id="btn-mode2-filter" class="bg-emerald-600 hover:bg-emerald-500 text-white text-sm px-5 py-1.5 rounded-lg font-medium transition shadow-md shadow-emerald-900/20">篩選</button>
+                <button id="btn-search-reset" class="bg-slate-800 hover:bg-slate-700 text-slate-300 text-sm px-4 py-1.5 rounded-lg font-medium transition border border-slate-700">清除重設</button>
                 
                 <span id="search-error-msg" class="text-rose-500 font-bold text-sm hidden">⚠️ 查無結果</span>
             </div>
@@ -563,18 +585,6 @@ function bindSearchEvents() {
                 <span class="text-slate-500 text-xs">到</span>
                 <input type="date" id="filter-date-end" class="bg-slate-900 border border-slate-700/80 rounded-lg px-3 py-1.5 text-sm text-slate-200 outline-none focus:border-emerald-500 transition w-36">
             `;
-        } else if (val === "category") {
-            const categoryOptions = Object.keys(APP_CONFIG.CATEGORY_COLORS)
-                .filter((key) => key !== "default")
-                .map((key) => `<option value="${key}">${key}</option>`)
-                .join("");
-
-            inputWrapper.innerHTML = `
-                <select id="filter-category-select" class="bg-slate-900 border border-slate-700/80 rounded-lg px-3 py-1.5 text-sm text-slate-200 outline-none focus:border-emerald-500 transition cursor-pointer min-w-[160px]">
-                    <option value="" selected>-- 請選擇網紅類別 --</option>
-                    ${categoryOptions}
-                </select>
-            `;
         } else {
             inputWrapper.innerHTML = `
                 <input type="number" id="filter-val-min" placeholder="Min" class="bg-slate-900 border border-slate-700/80 rounded-lg px-3 py-1.5 text-sm text-slate-200 outline-none focus:border-emerald-500 transition w-24">
@@ -624,44 +634,10 @@ function bindSearchEvents() {
 }
 
 /**
- * 綁定右下角 To Top 按鈕。
- *
- * 注意：
- * - 頁面主要捲動容器是 #cluster-container，不是 window。
- * - 因此這裡讓 #cluster-container 回到頂部。
- * - 若未來結構改變，才 fallback 到 nav-video。
- */
-function bindVideoTopButton() {
-    const btn = document.getElementById("btn-video-to-top");
-    if (!btn) return;
-
-    btn.addEventListener("click", () => {
-        const scrollContainer = document.getElementById("cluster-container");
-
-        if (scrollContainer) {
-            scrollContainer.scrollTo({
-                top: 0,
-                behavior: "smooth",
-            });
-            return;
-        }
-
-        const navVideo = document.getElementById("nav-video");
-        if (navVideo) {
-            navVideo.scrollIntoView({
-                behavior: "smooth",
-                block: "center",
-            });
-        }
-    });
-}
-
-/**
  * 清空搜尋狀態，但不動到 DOM 欄位。
  */
 function resetSearchStateOnly() {
     isFilterActive = false;
-    activeFilterMode = null;
     matchedMediaIds.clear();
     matchedInfluencerIds.clear();
 }
@@ -813,10 +789,6 @@ async function handleMediaIdSearch() {
 
 /**
  * 模式 2：條件式篩選。
- *
- * 篩選後只保留：
- * 1. 有符合影片的網紅容器
- * 2. 展開網紅後，只顯示符合條件的影片
  */
 async function handleConditionFilter() {
     clearSearchMessage();
@@ -826,44 +798,6 @@ async function handleConditionFilter() {
 
     if (!activeKey) return;
 
-    matchedMediaIds.clear();
-    matchedInfluencerIds.clear();
-
-    // 條件6：依照「網紅類別」篩選。
-    // 篩選標的是 influencer_all_info.csv 的 category 欄位。
-    // category 是以逗號分隔的多類別字串，因此需要 split 後精準比對。
-    // 此條件只篩選第一層網紅，不進一步篩選網紅旗下影片。
-    if (activeKey === "category") {
-        const selectedCategory =
-            document.getElementById("filter-category-select")?.value || "";
-
-        if (!selectedCategory) return;
-
-        influencerData.forEach((inf) => {
-            const categories = String(inf.category || "")
-                .split(",")
-                .map((cat) => cat.trim())
-                .filter((cat) => cat !== "");
-
-            if (categories.includes(selectedCategory)) {
-                matchedInfluencerIds.add(String(inf.ig_id));
-            }
-        });
-
-        if (matchedInfluencerIds.size === 0) {
-            isFilterActive = false;
-            activeFilterMode = null;
-            setSearchErrorVisible(true);
-        } else {
-            isFilterActive = true;
-            activeFilterMode = "category";
-        }
-
-        renderInfluencerList();
-        cacheVideoViewSnapshot();
-        return;
-    }
-
     try {
         await ensureGlobalMediaDataLoaded({ showMessage: true });
     } catch (err) {
@@ -872,7 +806,8 @@ async function handleConditionFilter() {
         return;
     }
 
-    activeFilterMode = "video";
+    matchedMediaIds.clear();
+    matchedInfluencerIds.clear();
 
     if (activeKey === "creation_time_tw" || activeKey === "modified_time_tw") {
         const startInput =
@@ -917,15 +852,23 @@ async function handleConditionFilter() {
 
     if (matchedMediaIds.size === 0) {
         isFilterActive = false;
-        activeFilterMode = null;
         setSearchErrorVisible(true);
     } else {
         isFilterActive = true;
-        activeFilterMode = "video";
     }
 
     renderInfluencerList();
     cacheVideoViewSnapshot();
+}
+
+/**
+ * CSS selector escape。
+ */
+function cssEscape(value) {
+    if (window.CSS && typeof window.CSS.escape === "function") {
+        return window.CSS.escape(String(value));
+    }
+    return String(value).replace(/([ #;?%&,.+*~':"!^$[\]()=>|/@])/g, "\\$1");
 }
 
 /**
@@ -1003,11 +946,6 @@ function renderInfluencerList() {
 
 /**
  * 第二層：展開網紅，載入影片 CSV。
- *
- * 保留 old 版本 fetch 單一網紅 CSV 的流程；
- * 額外加入：
- * - 模式 2 的影片層級過濾
- * - 單一網紅影片 CSV 快取，避免同一個網紅反覆展開時重抓與重 parse
  */
 window.toggleInfluencer = async (ig_id, el) => {
     const content = document.getElementById(`content-${ig_id}`);
@@ -1028,9 +966,7 @@ window.toggleInfluencer = async (ig_id, el) => {
 
                 let displayVideos = videos;
 
-                // 模式 2：只顯示符合篩選條件的影片。
-                // 注意：條件6「網紅類別」只篩選第一層網紅，不篩選影片。
-                if (isFilterActive && activeFilterMode === "video") {
+                if (isFilterActive) {
                     displayVideos = videos.filter((v) =>
                         matchedMediaIds.has(String(v.media_id)),
                     );
@@ -1061,7 +997,7 @@ window.toggleInfluencer = async (ig_id, el) => {
                                 <span class="text-slate-300 font-mono shrink-0">${(v.creation_time_tw || "").split("+")[0]}</span>
                                 <span class="text-blue-300 font-mono shrink-0">${v.media_id}</span>
                                 <span class="text-slate-300 shrink-0 ">${v.duration}s</span>
-                                ${isFilterActive && activeFilterMode === "video" ? `<span class="px-1.5 py-0.5 rounded bg-emerald-500/10 text-emerald-400 text-[10px] border border-emerald-500/20 shrink-0">符合篩選</span>` : ""}
+                                ${isFilterActive ? `<span class="px-1.5 py-0.5 rounded bg-emerald-500/10 text-emerald-400 text-[10px] border border-emerald-500/20 shrink-0">符合篩選</span>` : ""}
                                 <span class="text-slate-200 truncate italic">| ${previewText.replace(/\n/g, " ")}</span>
                             </div>
                             <svg class="w-4 h-4 text-slate-600 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path d="M19 9l-7 7-7-7"/></svg>
@@ -1181,7 +1117,6 @@ window.toggleVideoDetail = async (ig_id, media_id, modified_time_tw, el) => {
             csvInfo,
             jsonData,
             jsonError,
-            nameMapping,
         );
 
         cacheVideoViewSnapshot();
@@ -1206,4 +1141,208 @@ async function getCsvInfo(ig_id, media_id) {
         console.warn("getCsvInfo error:", e);
         return {};
     }
+}
+
+/**
+ * 渲染影片儀表板：Metadata + Description + JSON Table。
+ */
+function renderVideoDashboard(
+    container,
+    ig_id,
+    media_id,
+    csv,
+    json,
+    jsonError = null,
+) {
+    let tagNames = [];
+    if (csv.tags) {
+        const valueMatches = csv.tags.match(/(?<=:\s*['"])\d+/g) || [];
+        tagNames = valueMatches.map((id) => nameMapping[id] || id);
+    }
+
+    const timeKey = (csv.modified_time_tw || "")
+        .replace(/[- :+]/g, "")
+        .substring(0, 14);
+    const videoName = `${ig_id}-${timeKey}-${media_id}.mp4`;
+    const videoUrl = `${APP_CONFIG.VIDEO_API_BASE}/${ig_id}/${videoName}?token=${APP_CONFIG.VIDEO_TOKEN}`;
+
+    const hasJson = json && !jsonError;
+    const logs = hasJson
+        ? json.low_inference_observations.perceptual_narrative_logs
+        : null;
+
+    const outerLink = csv.short_code
+        ? `https://www.instagram.com/reel/${csv.short_code}`
+        : null;
+
+    container.innerHTML = `
+        <div class="max-h-[80vh] flex flex-col overflow-y-auto custom-scrollbar text-slate-200 bg-[#0f172a]">
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-px bg-slate-800 shrink-0">
+                <div class="bg-[#0f172a] p-6 border-b border-slate-800 md:border-b-0">
+                    <h4 class="text-blue-500 font-bold mb-4 flex items-center gap-2">
+                        <span class="w-1 h-4 bg-blue-500 rounded-full"></span> Metadata
+                    </h4>
+                    <div class="space-y-2 text-sm">
+                        <div class="flex border-b border-slate-800/50 py-1">
+                            <span class="text-slate-500 w-24 shrink-0">外部連結：</span>
+                            ${
+                                outerLink
+                                    ? `<a href="${outerLink}" target="_blank" class="text-blue-400 hover:underline truncate">link</a>`
+                                    : ""
+                            }
+                        </div>
+                        <div class="flex border-b border-slate-800/50 py-1"><span class="text-slate-500 w-24 shrink-0">內部連結：</span><a href="${videoUrl}" target="_blank" class="text-blue-400 hover:underline truncate">link</a></div>
+                        <div class="flex border-b border-slate-800/50 py-1"><span class="text-slate-500 w-24 shrink-0">建立日期：</span><span class="font-mono text-slate-300">${csv.creation_time_tw || ""}</span></div>
+                        <div class="flex border-b border-slate-800/50 py-1"><span class="text-slate-500 w-24 shrink-0">最後更新：</span><span class="font-mono text-slate-300">${csv.modified_time_tw || ""}</span></div>
+                        <div class="flex border-b border-slate-800/50 py-1"><span class="text-slate-500 w-24 shrink-0">留言數量：</span><span class="font-mono text-emerald-400">${Math.floor(csv["statistics.comment_count"] || 0).toLocaleString("en-US", { maximumFractionDigits: 0 }) || 0}</span></div>
+                        <div class="flex border-b border-slate-800/50 py-1"><span class="text-slate-500 w-24 shrink-0">按讚數量：</span><span class="font-mono text-emerald-400">${Math.floor(csv["statistics.like_count"] || 0).toLocaleString("en-US", { maximumFractionDigits: 0 }) || 0}</span></div>
+                        <div class="flex border-b border-slate-800/50 py-1"><span class="text-slate-500 w-24 shrink-0">觀看次數：</span><span class="font-mono text-emerald-400">${Math.floor(csv["statistics.views"] || 0).toLocaleString("en-US", { maximumFractionDigits: 0 }) || 0}</span></div>
+                        <div class="flex border-b border-slate-800/50 py-1"><span class="text-slate-500 w-24 shrink-0">影片長度：</span><span class="font-mono">${csv.duration || ""}s</span></div>
+                        <div class="flex border-b border-slate-800/50 py-1"><span class="text-slate-500 w-24 shrink-0">標記數量：</span><span>${tagNames.length}</span></div>
+                        <div class="flex border-b border-slate-800/50 py-1"><span class="text-slate-500 w-24 shrink-0">標記網紅：</span><div class="flex flex-wrap gap-1">${tagNames.map((t) => `<span class="bg-blue-900/30 text-blue-300 px-1.5 rounded text-xs border border-blue-800/50">${t}</span>`).join("")}</div></div>
+                        <div class="pt-3">
+                            <span class="text-slate-500 block text-xs mb-1">文字內容：</span>
+                            <p class="text-slate-300 leading-relaxed whitespace-pre-wrap text-s bg-slate-950/50 p-3 rounded border border-slate-800">${csv.text || "(無內文)"}</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="bg-[#0f172a] p-6 border-l border-slate-800">
+                    <h4 class="text-blue-500 font-bold mb-4 flex items-center gap-2">
+                        <span class="w-1 h-4 bg-blue-500 rounded-full"></span> Description
+                    </h4>
+                    ${
+                        hasJson
+                            ? `
+                        <div class="space-y-5 text-sm">
+                            <div class="group">
+                                <span class="text-slate-500 block text-[10px] uppercase tracking-widest mb-1">Visual Narrative</span>
+                                <p class="text-slate-200 leading-relaxed pl-3 border-l border-slate-800">${logs.visual_narrative_log}</p>
+                            </div>
+                            <div class="group">
+                                <span class="text-slate-500 block text-[10px] uppercase tracking-widest mb-1">Audio Narrative</span>
+                                <p class="text-slate-200 leading-relaxed pl-3 border-l border-slate-800">${logs.audio_narrative_log}</p>
+                            </div>
+                            <div class="group">
+                                <span class="text-slate-500 block text-[10px] uppercase tracking-widest mb-1">Text Narrative</span>
+                                <p class="text-slate-200 leading-relaxed pl-3 border-l border-slate-800">${logs.text_narrative_log}</p>
+                            </div>
+                            <div class="group">
+                                <span class="text-slate-500 block text-[10px] uppercase tracking-widest mb-1">Main Purpose</span>
+                                <p class="text-blue-200/80 italic bg-blue-900/10 p-2 rounded border border-blue-900/20">${json.high_inference_interpretations.narrative_and_purpose.mainPurpose}</p>
+                            </div>
+                        </div>
+                    `
+                            : `
+                        <div class="p-10 border border-dashed border-slate-800 rounded text-center text-slate-600 italic text-sm">
+                            JSON 解析錯誤: ${jsonError || "無資料"}
+                        </div>
+                    `
+                    }
+                </div>
+            </div>
+
+            <div class="p-6 bg-[#0f172a] border-t border-slate-800">
+                <h4 class="text-blue-500 font-bold mb-4 flex items-center gap-2">
+                    <span class="w-1 h-4 bg-blue-500 rounded-full"></span> Json Description
+                </h4>
+                ${
+                    hasJson
+                        ? `
+                    <div class="border border-slate-800 rounded overflow-hidden">
+                        <table class="w-full border-collapse">
+                            <thead class="bg-slate-900 shadow-md">
+                                <tr class="text-left text-[10px] uppercase tracking-tighter text-slate-500 border-b border-slate-800">
+                                    <th class="p-3 w-[10%] border-r border-slate-800/50">L1</th>
+                                    <th class="p-3 w-[10%] border-r border-slate-800/50">L2</th>
+                                    <th class="p-3 w-[10%] border-r border-slate-800/50">L3</th>
+                                    <th class="p-3 w-[10%] border-r border-slate-800/50">L4</th>
+                                    <th class="p-3 w-[60%]">Value</th>
+                                </tr>
+                            </thead>
+                            <tbody class="text-xs font-mono">
+                                ${renderJsonTableRows(json)}
+                            </tbody>
+                        </table>
+                    </div>
+                `
+                        : `
+                    <div class="p-10 border border-dashed border-slate-800 rounded text-center text-slate-600 italic text-sm">
+                        JSON 表格資料載入失敗
+                    </div>
+                `
+                }
+            </div>
+        </div>
+    `;
+}
+
+/**
+ * 展平 JSON 並產出表格行。
+ */
+function renderJsonTableRows(json) {
+    let rows = [];
+
+    function flatten(obj, path = []) {
+        for (let key in obj) {
+            const currentPath = [...path, key];
+            const value = obj[key];
+
+            if (
+                value !== null &&
+                typeof value === "object" &&
+                !Array.isArray(value)
+            ) {
+                flatten(value, currentPath);
+            } else {
+                rows.push({
+                    l1: currentPath[0] || "",
+                    l2: currentPath[1] || "",
+                    l3: currentPath[2] || "",
+                    l4: currentPath[3] || "",
+                    value: value,
+                });
+            }
+        }
+    }
+
+    flatten(json);
+
+    return rows
+        .map(
+            (r) => `
+        <tr class="border-b border-slate-800/30 hover:bg-blue-500/5 transition-colors group">
+            <td class="p-2 border-r border-slate-800/50 text-slate-500">${r.l1}</td>
+            <td class="p-2 border-r border-slate-800/50 text-slate-400">${r.l2}</td>
+            <td class="p-2 border-r border-slate-800/50 text-slate-300">${r.l3}</td>
+            <td class="p-2 border-r border-slate-800/50 text-slate-200">${r.l4}</td>
+            <td class="p-2 group-hover:text-blue-300 transition-colors">${formatValue(r.value)}</td>
+        </tr>
+    `,
+        )
+        .join("");
+}
+
+/**
+ * 格式化表格中的 Value。
+ */
+function formatValue(val) {
+    if (val === undefined || val === null)
+        return `<span class="text-slate-700">—</span>`;
+    if (typeof val === "boolean") {
+        return val
+            ? `<span class="text-emerald-500 font-bold">YES</span>`
+            : `<span class="text-rose-500 font-bold">NO</span>`;
+    }
+    if (Array.isArray(val)) {
+        if (val.length === 0)
+            return `<span class="text-slate-700">Empty</span>`;
+        return val
+            .map(
+                (v) =>
+                    `<span class="inline-block bg-slate-800 border border-slate-700 text-blue-200 px-1.5 py-0.5 rounded-sm m-0.5 text-[10px]">${v}</span>`,
+            )
+            .join("");
+    }
+    return `<span class="text-slate-300 break-all">${val}</span>`;
 }

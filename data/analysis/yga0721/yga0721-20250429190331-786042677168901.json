@@ -1,15 +1,245 @@
 {
   "videoName": "yga0721-20250429190331-786042677168901.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 64,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Social Welfare",
-        "Promotion",
-        "Vlog"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A man with reddish-brown hair wearing a horizontal striped long-sleeve shirt stands center, gesturing energetically. To his right, a woman with dark hair in a cream-colored sweater smiles and holds a pamphlet. To his left stands a person wearing a large, smiling cartoon deity mask with a red shirt and olive-green pants. They are outdoors on a wooden platform surrounded by lush green trees and modern residential buildings in the background under natural daylight. The man holds up a transparent acrylic donation box with colorful graphics. (2) The camera provides a close-up view of the donation box, showing specific text and permit numbers clearly. Then it cuts back to the group where the man points to a large yellow text overlay on the screen while the masked character claps rhythmically. The woman remains smiling, looking directly at the camera. (3) The man continues to speak with high energy, pointing towards the camera and the box. Large colorful text overlays appear periodically at the bottom and middle of the frame. The background remains consistent with soft outdoor lighting. (4) In the final segment, the man leans closer to the camera for an emotional appeal, holding the donation box prominently. The trio wave and gesture together as more text overlays fill the screen, concluding the presentation in the same outdoor setting.",
+      "text_narrative_log": "(1) [Subtitle]: 好里家社福協會. (2) [Subtitle]: 開放小額捐款. (3) [Subtitle]: 勸募字號. (4) [Subtitle]: 電子發票愛心碼 5353. (5) [Subtitle]: 有鬆 有鬆. (6) [Subtitle]: 正式募集全台灣全國店家!. (7) [Subtitle]: 零錢箱小天使. (8) [Subtitle]: 歡迎底下填表格. (9) [Subtitle]: 恭喜!!. (10) [Subtitle]: 與夢想同在 有好里家在 <3.",
+      "visual_human_presence": {
+        "totalHumanCount": 3,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main male creator, 1 female co-host, and 1 person wearing a large cartoon mask.",
+        "mainCharacterDescription": "A man in a black and white horizontal striped long-sleeve shirt with reddish-brown hair; a woman in a cream-colored knit sweater with dark hair tied back."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Outdoor Street",
+          "Urban Plaza / Square",
+          "Park / Garden"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban",
+          "Park / Green Space"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "An outdoor wooden deck or boardwalk surrounded by green leafy trees and multi-story modern residential apartment buildings.",
+        "lightingStyle": [
+          "Natural daylight"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Summer"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Medium close-up",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Fast cuts"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "好里家"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 1,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter",
+          "Applause"
+        ],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": [
+          "Outdoor/Nature"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Ding / Bell SFX",
+          "Whoosh / Transition SFX",
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a high-arousal male voice delivering a rapid introductory speech with enthusiastic pitch variability. Underneath the vocals, a bright, upbeat electronic pop track with a consistent 128 BPM 4/4 beat provides energetic momentum. (2) A clear 'ding' sound effect cuts through the mix to highlight the mention of a fundraising permit number. The speaker's volume remains projected and assertive. A short burst of female laughter and cheering is heard in the background. (3) The male speaker emphasizes the code '5353' with rhythmic synchronization to the background music's percussion. A slight whoosh sound effect accompanies a visual cut as the tone shifts to an invitation for businesses. (4) The final segment features overlapping male and female voices cheering and delivering a closing slogan in a high-valence, joyful manner. The music swells slightly in volume during the last few seconds before fading out sharply."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Promotion / Advertisement / Indoresment",
+        "Lifestyle"
+      ],
       "location": {
         "country": [
           "Taiwan"
@@ -19,144 +249,20 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) Three people are standing on a wooden deck outdoors with trees in the background. The central figure is a man in a striped shirt (Tsai A-ga) who is enthusiastically holding a transparent donation box. To his left is a person wearing a large traditional mask and a red hoodie, and to his right is a woman in a white sweater. (2) The man holds up a pink and blue flyer and the donation box close to the camera, showing details of the 'Hao Li Ga' Social Welfare Association. (3) The man gestures emphatically while talking, pointing to the donation box and the screen. The person in the mask claps periodically. (4) Close-up shots of the text on the donation box and flyer are shown. (5) The group gathers closer to the camera at the end, waving and smiling while the man points downward to imply a link or form.",
-      "audio_narrative_log": "(1) High-energy, fast-paced male vocals start immediately, speaking in an excited and welcoming tone. An upbeat, rhythmic electronic BGM plays in the background. (2) Sound effects of a crowd cheering and clapping are layered over the main speech as the man announces the opening of small donations. (3) The male speaker continues with a high speech density, explaining the '5353' donation code. A female voice occasionally provides short, affirmative responses like 'Yes' or 'Correct'. (4) The music remains consistent in its upbeat tempo. (5) In the final phase, all three individuals are heard shouting a synchronized slogan together before the audio fades out.",
-      "text_narrative_log": "(1) Functional Text: '好里家社福協會' (Hao Li Ga Social Welfare Association) appears as a main title. (2) Decorative/Hook Text: '\\開放小額捐款/' (Small donations now open) appears with emphasis marks. (3) Functional Text: '勸募字號' (Fundraising permit number) and detailed registration info. (4) Hook Text: '5353' appearing in large font for the donation code. (5) Functional Text: '正式募集全台灣全國店家!' (Officially recruiting stores across Taiwan!). (6) Hook Text: '歡迎底下填表' (Welcome to fill out the form below) with a pointing finger emoji."
-    },
     "temporal_pacing_summary": {
       "sceneCutCount": 18,
-      "averageSceneDuration": 3.55,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Hook -> Announcement of small donations -> Explanation of donation code -> Call for business partners -> Outro."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 3,
-      "maleDetectAmount": 2,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Upper body",
-        "Hands only"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 main male creator, 1 female co-host, 1 person in a mask and red hoodie.",
-      "mainCharacterDescription": "The main male character has brown hair, wears a grey and white horizontal striped long-sleeve shirt and jeans, exhibiting very high energy."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Outdoor Park",
-          "Public Space"
-        ],
-        "topography": [
-          "Plain"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A wooden boardwalk or deck area surrounded by lush green trees and some modern apartment buildings visible in the distance.",
-      "lightingStyle": "Natural daylight",
-      "weather": "Overcast",
-      "season": "Spring",
+      "averageSceneDuration": 3.5,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Zoom",
-        "Handheld"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "好里家"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 1,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "High-pitched, enthusiastic, and fast-paced",
-        "pitch": "High",
-        "loudness": "Loud",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Cheering",
-        "Ding",
-        "Swoosh"
-      ],
-      "ambientNoise": [
-        "Outdoor ambient"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Information Disclosure -> Call to Action -> Collective Outro.",
-      "mainPurpose": "The video serves as a promotional announcement for the 'Hao Li Ga' Social Welfare Association. It aims to inform the public that small-amount donations are now officially open and to recruit local businesses across Taiwan to place donation boxes in their stores to support the charity's mission.",
-      "visualEmotion": "Energetic and Hopeful"
+      "narrativeStructure": "Linear: Hook -> Announcement -> Explanation -> CTA",
+      "mainPurpose": "To announce that the social welfare association has obtained a fundraising permit and is now recruiting businesses across Taiwan to host donation boxes.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -164,14 +270,11 @@
         "Explicit",
         "Full"
       ],
-      "endorsementCues": "The main creator is directly promoting his own social welfare organization and asking for public support and business partnerships.",
+      "endorsementCues": "The video focuses entirely on promoting the charity association and its donation program.",
       "endorsementObject": [
         "好里家社福協會"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Tsai A-ga's signature high-speed, high-decibel hosting style and the appearance of his team members.",
-      "freeDescribe": "The use of variety-show style captions and sound effects is typical for high-engagement social media content in Taiwan."
-    }
+    "freeDescribe": "The presence of a masked deity character adds a local cultural and humorous element to the social good message."
   }
 }

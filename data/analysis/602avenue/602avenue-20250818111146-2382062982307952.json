@@ -1,185 +1,289 @@
 {
   "videoName": "602avenue-20250818111146-2382062982307952.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 86,
-      "aspectRatio": "9:16",
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A young woman with long brown hair, wearing a grey t-shirt, stands in an indoor room with a desk and window blinds behind her. She initially holds her hands together in a prayer-like gesture with a concerned expression. She then pulls the center of her shirt toward the camera to display a large, dark circular design that resembles a wet stain, clarifying it is part of the garment's aesthetic. Small text boxes with social media comments appear on the screen. (2) The woman picks up a large brown paper shopping bag. She pulls out a grey baseball cap and puts it on, adjusting her hair. Next, she retrieves a large Hello Kitty plush head and a white Hello Kitty cosmetic pouch with a prominent red bow, displaying them enthusiastically to the lens while smiling. The lighting is bright and even, highlighting the textures of the items. (3) The woman proceeds to show a series of smaller products in quick succession: an eyelash curler which she demonstrates on her eye, a red jelly snack pack, and a purple volcanic stone oil-removing tool which she rolls across her forehead and cheek to show the matte effect. She then holds up several 9wishes skincare products, including a serum and a sunstick. Finally, she applies a white tone-up cream to her left arm, rubbing it in to show a brightening contrast compared to her right arm, posing with both hands near her face at the end.",
+      "text_narrative_log": "(1) [Subtitle]: 韓國人來澄清一下. [Variety]: 抱歉. (2) [Subtitle]: 真是包意思. (3) [Subtitle]: 這件衣服真的沒有沾到水. (4) [Slogan]: 上次回韓國到底買了什麼?. (5) [Variety]: Y2K you know?. (6) [Subtitle]: 在韓國DAISO買很多. (7) [Subtitle]: 這是部分睫毛夾. (8) [Subtitle]: 不是蜜粉，可以去油的石頭. (9) [Subtitle]: 解酒丸. (10) [Subtitle]: 假腳甲. (11) [Subtitle]: 從這邊是OL買的. (12) [Logo]: 9wishes. (13) [Subtitle]: 這款同時有防曬跟提亮膚色的功能. (14) [Variety]: 如何?. (15) [Variety]: 🤣🤣🤣.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 female main creator appearing throughout the video.",
+        "mainCharacterDescription": "A young woman with long, wavy dark brown hair, fair skin, wearing a simple grey short-sleeved t-shirt and later a grey baseball cap."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home",
+          "Studio"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "An indoor room featuring a white desk with various small items, green tissues, and a window covered by horizontal beige blinds.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Selfie handheld",
+          "Static"
+        ],
+        "shotSize": [
+          "Medium close-up",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Selfie perspective"
+        ],
+        "editingTechniques": [
+          "Jump cut",
+          "Fast cuts",
+          "Graphic transition"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "Korean",
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Snack / chips / candy"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "9wishes",
+          "DAISO",
+          "Hello Kitty",
+          "Musinsa"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Korean"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Paper / Page Rustle",
+          "Mechanical Click / Latch"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Pop / Bubble SFX",
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 5,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 5,
+        "audioCutFrequency": 4,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A high-pitched, energetic female voice speaking Korean begins immediately over an upbeat, rhythmic electronic BGM. A sharp 'whoosh' sound effect plays during the opening transition as she explains the shirt design. (2) As she reaches for the shopping bag, the crinkling of thick paper is audible. A bright 'pop' sound effect triggers as the Hello Kitty plush is revealed, followed by a 'ding' chime when the pouch is shown. The speech rate remains consistently fast and enthusiastic. (3) During the product review, a mechanical 'click' sound accompanies the use of the eyelash curler. A soft 'psh' or rubbing sound effect is layered over the volcanic stone demonstration. Multiple 'ding' sounds punctuate the appearance of skincare items. The music swells slightly in volume during the final arm cream demonstration, concluding with a celebratory vocal tone."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
         "Vlog",
-        "Shopping Haul",
-        "Product Review"
+        "Shopping",
+        "Product Review",
+        "Beauty / Fashion"
       ],
-      "withRealPeople": true,
       "location": {
         "country": [
-          "Korea"
+          "South Korea"
         ],
         "city": [
           "Seoul"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman sits in a room, holding a grey t-shirt with a dark patch in the center that looks like a sweat stain; she makes apologetic gestures. (2) She points to the dark patch and indicates it is part of the fabric design, not actual water or sweat. (3) She pulls out a large paper shopping bag and begins unboxing items, showing a Hello Kitty plush head and a matching makeup pouch. (4) She demonstrates an eyelash curler, an oil-absorbing roller on her cheek, and shows various small packets including hangover relief and press-on nails. (5) She holds up skincare products from '9Wishes', including a serum, a sun stick, and a tone-up cream. (6) She applies the tone-up cream to her forearm, rubbing it in to show the whitening effect, and finally poses with her hands near her face for the outro.",
-      "audio_narrative_log": "(1) Upbeat, high-tempo electronic pop music starts and continues throughout the video. (2) A female voice speaks energetically in a mix of Mandarin and Korean, explaining the shirt's design and then introducing the haul items. (3) Various sound effects occur: 'pop' sounds when items are shown, and 'whoosh' sounds during quick scene transitions. (4) The audio concludes with a friendly sign-off as the music maintains its energetic volume.",
-      "text_narrative_log": "(1) Functional Text: '韓國人來澄清一下' (Korean person comes to clarify), '抱歉' (Sorry), '這件衣服真的沒有沾到水' (This shirt really didn't get wet), '在聖水洞MUSINSA購買' (Purchased at MUSINSA in Seongsu-dong). (2) Decorative Text: 'Y2K', 'you know?', '大家最想看看的是哪一個呢？' (Which one do you want to see most?). (3) Product Labels: 'Hello Kitty', '部分睫毛夾' (Partial eyelash curler), '解酒丸' (Hangover pills), '9Wishes精華', '亮白霜' (Brightening cream)."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 42,
-      "averageSceneDuration": 2.0,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro/Clarification -> Unboxing Haul -> Product Demos -> Call to Action"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Face"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 female creator throughout the video.",
-      "mainCharacterDescription": "Young woman with long brown hair, wearing a grey cropped t-shirt and pink sweatpants."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Room"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A domestic indoor setting with a desk, chair, window blinds, and some stored items/boxes on the floor.",
-      "lightingStyle": "Natural bright indoor light",
-      "weather": "Unknown",
-      "season": "Unknown",
+      "sceneCutCount": 24,
+      "averageSceneDuration": 3.58,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese",
-          "English",
-          "Korean"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Close-up"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Bagel Chips",
-        "Jelly"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "DAISO",
-        "MUSINSA",
-        "9Wishes",
-        "Olive Young",
-        "Hello Kitty"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut with SFX",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "High-pitched and excited",
-        "pitch": "High",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin",
-          "Korean"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Pop",
-        "Whoosh"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Explanation -> Itemized Haul -> Call to Action",
-      "mainPurpose": "The video serves as a lifestyle vlog and shopping recommendation guide. It starts by addressing a humorous misunderstanding about a clothing design to hook the audience, then transitions into a 'Korea Haul' showcasing affordable and trendy items from popular stores like Daiso and Olive Young to provide viewer value and shopping inspiration.",
-      "visualEmotion": "Energetic and Humorous"
+      "narrativeStructure": "Linear: Hook -> Misunderstanding Clarification -> Item Introduction -> Demonstration -> Result Display",
+      "mainPurpose": "The video is a lifestyle and beauty haul vlog where the creator first clarifies a fashion-related misunderstanding regarding her 'wet-look' shirt design and then proceeds to showcase various trendy items purchased in South Korea, specifically from Musinsa, Daiso, and Olive Young, culminating in a product demonstration of a tone-up cream.",
+      "visualEmotion": [
+        "Energetic",
+        "Cheerful",
+        "Informative"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
-        "Implicit",
+        "Explicit",
         "Integrated"
       ],
-      "endorsementCues": "Detailed showing of brand names, product packaging, and on-skin demonstration of skincare products.",
+      "endorsementCues": "The creator specifically demonstrates the application and immediate results of 9wishes skincare products, highlighting their features with on-screen text.",
       "endorsementObject": [
-        "9Wishes",
+        "9wishes",
         "DAISO",
-        "MUSINSA",
-        "Olive Young"
+        "Musinsa"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Starts with a 'Korean clarification' hook; uses Y2K style aesthetic cues.",
-      "freeDescribe": "The fast editing and high-density text overlays are designed to maintain engagement on short-form video platforms. The blend of Mandarin and Korean suggests a target audience interested in Korean culture or travel."
-    }
+    "freeDescribe": "Fast-paced social media editing style with heavy use of sound effects and text overlays to maintain high engagement."
   }
 }

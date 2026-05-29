@@ -1,173 +1,274 @@
 {
   "videoName": "3ctim-20250416155544-27151682807765613.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 48,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Commentary",
-        "Tech News"
-      ],
+      "videoDuration": 47.7,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
+      "visual_narrative_log": "(1) A middle-aged man with glasses and a flat cap is talking to the camera in a studio setting with a dark grey curtain background. He is wearing a grey Roots brand hoodie. Text overlays in red and white appear at the bottom. (2) An animation in a Studio Ghibli art style shows a man and a woman standing in front of a sea background. (3) A screen recording of a mobile messaging app interface is shown. The man's face is in a small circular inset at the bottom. Characters are being typed into the message field. (4) The scene returns to the man in the studio, who is gesturing expressively with his hands while speaking. Yellow and white subtitles appear at the bottom. (5) A screenshot of a digital news article appears with a headline in Chinese regarding ChatGPT-4o and Ghibli style images. (6) The man continues his talk, shaking his head and crossing his arms in a 'no' gesture. Cartoonish question mark icons appear around his head at the end.",
+      "text_narrative_log": "(1) [Logo]: 3c 有意思 tim 哥. [Slogan]: 吉卜力風格圖片. (2) [Slogan]: 吉卜力風格圖片. [Variety]: 真的火了嗎?. (3) [Subtitle]: 幫我把這張照片轉成吉卜力風格. (4) [Slogan]: ChatGPT 生成 吉卜力風格圖片. (5) [Subtitle]: 有網友呢 搭了這股風潮. (6) [Subtitle]: 製作一款可以把任何圖片 轉換成吉卜力風格的應用程式. (7) [Subtitle]: 但是沒有多久 卻貼出一張吉卜力工作室的警告信. (8) [Subtitle]: 信中警告他 應用程式已經涉及 侵害製作權. [Slogan]: 侵害製作權. (9) [Subtitle]: 要求其停止應用程式開發. (10) [Subtitle]: 否則不排除透過法律途徑. (11) [Variety]: Oh No!. (12) [Slogan]: 吉卜力工作室 要來抑制這風潮. (13) [Slogan]: 然而吉卜力工作室. (14) [Slogan]: 沒有發佈任何警告信!. (15) [Subtitle]: 網路謠傳的任何內容 都不是事實. (16) [Slogan]: 是否有侵權疑慮?. (17) [Subtitle]: 你們覺得呢?",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "One main male presenter throughout the video.",
+        "mainCharacterDescription": "The man is wearing a grey hoodie with a 'Roots' beaver logo, a brown flat cap, and circular glasses."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio"
+        ],
+        "locationTopography": [
           "None"
         ],
-        "city": [
-          "None"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video is live-action. A male creator wearing a grey 'Roots' hoodie, glasses, and a flat cap holds a smartphone showing a Ghibli-style illustration. (2) A screen recording shows a chat interface (ChatGPT) converting a photo into a cartoon style. (3) The creator returns to the screen, gesturing with his hands while speaking excitedly. (4) A digital news article is displayed as an overlay, discussing Ghibli Studio's response to the AI trend. (5) The creator ends the video looking directly at the camera with a questioning expression.",
-      "audio_narrative_log": "(1) Upbeat, mid-tempo lo-fi electronic music begins. A male voice speaks in Mandarin with a clear, energetic, and professional tone. (2) The music continues as a background layer while the host describes the viral AI image trend and the rumors of a legal warning. (3) Brief 'pop' and 'ding' sound effects (SFX) occur when text and images appear on the screen. (4) The host's voice concludes the narrative with a slightly inquisitive inflection as the music fades out.",
-      "text_narrative_log": "(1) Decorative Text: '吉卜力風格圖片' (Ghibli style picture) - Bold yellow text used as a hook. (2) Functional Text: '侵害著作權' (Copyright infringement) - Red text highlighting the central conflict. (3) Functional Text: Continuous subtitles in Traditional Chinese tracking the spoken dialogue. (4) Decorative Text: '然而吉卜力工作室' (However, Ghibli Studio) - Transitioning the narrative to the official response."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 14,
-      "averageSceneDuration": 3.4,
-      "isNarrativeShift": true,
-      "mainActionFlow": "The video follows a sequence: Intro hook -> Explanation of trend -> Discussion of controversy -> Debunking rumors -> Outro question."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main male creator presenting to the camera.",
-      "mainCharacterDescription": "A middle-aged man with glasses, a flat cap, and a grey 'Roots' brand hoodie."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Studio",
-          "Indoor"
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A dark grey pleated curtain serves as the primary studio background. Occasionally, a screen recording interface and a news article screenshot are overlaid.",
+        "lightingStyle": [
+          "Bright studio lighting"
         ],
-        "topography": [
-          "None"
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Autumn / Winter"
+        ],
+        "colorTone": [
+          "Natural and bright"
         ]
       },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A neutral, out-of-focus indoor studio or home office setting with soft vertical blinds or panels.",
-      "lightingStyle": "Bright studio lighting",
-      "weather": "None",
-      "season": "None",
-      "editingPace": "Moderate",
-      "textOverlay": {
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Graphic transition",
+          "Screen recording edit",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multi-camera / cutaway"
+        ]
+      },
+      "visual_text_overlay": {
         "density": "High",
-        "language": [
-          "Traditional Chinese"
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
         ],
         "isSubtitled": true
       },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Roots",
-        "miko",
-        "Facebook",
-        "Instagram"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Energetic and professional",
-        "pitch": "Normal",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Animal on packaging / logo"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Digital Interface / Screen Capture"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Roots",
+          "miko"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Lo-fi Upbeat",
-      "bgmBPM": 105,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "None"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "Cartoon SFX"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Professional/Narrative",
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 6,
+        "valence": 5,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Ding / Bell SFX",
+          "Meme SFX",
+          "Digital UI SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) High-energy male narration begins with a clear, professional delivery. Background features an upbeat, four-on-the-floor EDM track with bright synthesizer chords. (2) A sharp 'whoosh' SFX signals a transition as the speaker discusses the Ghibli art style trend. (3) A soft 'pop' UI sound effect is heard as the screen recording is introduced. (4) The speaker's tone shifts to a more cautionary, lower-pitched register as he mentions the word 'warning'. A warning 'ding' SFX is audible. (5) A 'record scratch' or meme-style 'Oh no' vocal SFX punctuates a moment of tension regarding copyright infringement. (6) The music remains constant while the speaker concludes with a debunking tone, his pitch rising on the final inquisitive sentence."
     }
   },
-  "high_inference_interpretations": {
-    "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Explanation -> Conflict -> Resolution -> Question",
-      "mainPurpose": "The video is a tech-focused commentary piece designed to inform the audience about a viral AI image trend (Ghibli style) and address rumors concerning copyright warnings from Studio Ghibli. It uses a rumor-and-fact-check structure to maintain engagement and provide clarity on a trending topic.",
-      "visualEmotion": "Energetic and informative"
-    },
-    "endorsement_analysis": {
-      "isEndorsement": false,
-      "endorsementMethod": [
-        "None"
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Tech News / Commentary"
       ],
-      "endorsementCues": "None",
-      "endorsementObject": [
-        "None"
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 12,
+      "averageSceneDuration": 3.97,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Rumor Context -> Fact Check/Debunk -> Engagement",
+      "mainPurpose": "To inform the audience about a trending AI-generated image style and to clarify widespread rumors regarding a legal warning from Studio Ghibli.",
+      "visualEmotion": [
+        "informative",
+        "energetic"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "The creator uses a consistent studio setup with social media handle overlays and a specific 'miko' logo.",
-      "freeDescribe": "The video leverages high-contrast text overlays to highlight keywords, which is a common visual strategy in short-form Chinese-language commentary vlogs."
-    }
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Consistent presence of the 'miko' brand logo in the upper corners and integrated into the workflow examples.",
+      "endorsementObject": [
+        "miko"
+      ]
+    },
+    "freeDescribe": "The video uses a high-density text overlay style typical of social media commentary videos to maintain engagement while debunking internet rumors."
   }
 }

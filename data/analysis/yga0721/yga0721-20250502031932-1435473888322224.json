@@ -1,167 +1,274 @@
 {
   "videoName": "yga0721-20250502031932-1435473888322224.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 90,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Comedy",
-        "Promotion"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) The video begins in a brightly lit indoor living room or studio environment. A male character wearing a white sweatshirt and blue jeans approaches a female character sitting on a grey couch. He holds a white plastic toy toilet and speaks enthusiastically. The background includes boxes of toys and a yellow lamp. (2) The man shows the toy toilet to the woman, pointing at the bowl. As he presses a button, a plastic head with a wide grin and large teeth pops out of the toilet bowl unexpectedly. The woman reacts with surprise and laughter. The lighting is bright studio lighting. (3) The two characters sit together on the grey couch, surrounded by various boxes of 'Skibidi Toilet' and 'Fuggler' brand toys. They begin unboxing blind bags. The camera zooms in on their hands as they tear open the brown paper packaging, revealing colorful plush keychains. (4) Close-up shots feature different Fuggler keychain characters. The woman holds up a rainbow-colored fuzzy monster and a green one, highlighting their textures. The man holds a blue one. Graphic overlays with text like '一般款 x 24' appear on the screen to show variety. (5) The man demonstrates the utility of the item by hanging one of the blue keychains on a grey quilted tote bag, suggesting it as a trendy OOTD accessory. The woman continues to unbox more bags, accumulating a pile of toys on her lap. (6) In the final segment, the man holds up multiple keychains towards the camera, smiling broadly. Large promotional text overlays appear with specific dates and retail location details. The scene ends with a close-up of him tearing another bag while speaking about a giveaway.",
+      "text_narrative_log": "(1) [Subtitle]: 來來來 快點快點. [Logo]: @HanHan. (2) [Subtitle]: 你按這個 你按那個沖馬桶的. [Slogan]: #100種離婚的方法. (3) [Subtitle]: 你很無聊欸. [Variety]: 唏唏! 不唏唏!. (4) [Slogan]: 馬桶人公仔. [Subtitle]: 這好東西啦 現在年輕人很流行. (5) [Slogan]: 千億老闆娘 直接包!. (6) [Slogan]: 放克牙寶鑰匙圈. [Slogan]: 2/19在全家 趕快去抽!!. [Slogan]: 抽 Switch.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 male creator, 1 female co-host",
+        "mainCharacterDescription": "Male: white sweatshirt, blue denim jeans, brown hair. Female: pink long-sleeve pajamas/jumpsuit, long black hair."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A modern grey couch with several cardboard shipping boxes and retail boxes of Fuggler toys on and around it. A tall red lamp with a yellow shade stands in the corner.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Panning",
+          "Zoom in"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Medium full shot",
+          "Close-up",
+          "Insert shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Graphic transition",
+          "Split-screen"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Plush / decoration / toy animal"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Fuggler",
+          "FamilyMart"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 1,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Comedic/Exaggerated"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Plastic / Bag Rustle",
+          "Object Impact / Thud / Drop"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Pop / Bubble SFX",
+          "Cartoon / Comedy SFX",
+          "Meme SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Fades"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with an energetic, high-pitched male voice speaking Traditional Chinese rapidly, accompanied by a rhythmic, upbeat pop background track with a strong electronic beat. The tone is highly animated and persuasive. (2) A distinctive springy cartoon sound effect triggers as the toy head pops out, followed by a brief high-frequency burst representing a 'scare' reaction. The woman's laughter follows, adding a positive emotional layer to the mix. (3) Continuous rustling and crinkling sounds of plastic and paper bags are heard as the characters unbox items. The BGM remains constant, while the voices interact in a balanced conversational dynamic with high arousal. (4) Frequent 'pop' and 'ting' sound effects are inserted during transitions and whenever a new item is shown to the camera. The male voice explains the types of keychains available with clear, professional articulation. (5) A whoosh sound effect accompanies the visual transition to showing the keychain on the bag. The BGM maintains its upbeat tempo, emphasizing the trendy and fun nature of the product. (6) The video concludes with the male voice increasing in volume for a final call to action. A final celebratory sound effect marks the end of the promotional speech as the music fades out quickly."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Product Showcase",
+        "Promotion / Advertisement / Indoresment"
+      ],
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "Unknown"
+          "None"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video starts in a bright indoor room. A man in a white sweatshirt and blue jeans holds a miniature toilet toy, encouraging a woman in pink pajamas sitting on a sofa to interact with it. (2) The woman presses the flush button, and a plastic head pops out of the toilet, causing her to jump and laugh. The scene shifts to them both on the sofa, surrounded by numerous toy boxes. They begin opening 'Fuggler' brand blind boxes and displaying the plush monster keychains to the camera. (3) They showcase various designs, including glowing and fuzzy versions. The man demonstrates hanging one on a grey quilted bag. The video concludes with them holding several keychains and pointing to promotional graphics for a prize draw.",
-      "audio_narrative_log": "(1) Upbeat, high-tempo electronic background music plays throughout. A male voice speaks with high energy and an excited tone in Mandarin. (2) A sharp 'boing' sound effect accompanies the toilet toy popping up, followed by a woman's brief scream and subsequent laughter. (3) The audio remains dominated by the fast-paced, synchronized dialogue between the man and woman as they unbox products. Various 'ding' and 'shimmer' sound effects are used to highlight the reveal of rare items. The music increases slightly in volume during the final promotional announcement.",
-      "text_narrative_log": "(1) '#100種離婚的方法' (100 ways to get a divorce) - Humorous hook. (2) '馬桶人公仔' (Toilet Man figures) and '千億老闆娘直接包!' (The billionaire boss lady buys the whole set!) - Decorative text for emphasis. (3) '一!抽!入!魂!' (One pull, soul captured!) - Emotional variety-show style text during unboxing. (4) Lists of rarity: '一般款 x 24', '特殊款 x 12', '稀有款 x 6', '隱藏款 x 2' - Functional informational text. (5) '2/19 在全家 趕快去抽!!' (Starting 2/19 at FamilyMart, go get them!!) - Call to action. (6) '抽 Switch' (Win a Switch) - Promotional text."
     },
     "temporal_pacing_summary": {
       "sceneCutCount": 22,
-      "averageSceneDuration": 4.0,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro Prank -> Product Unboxing -> Promotional Call-to-Action"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Waist up"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "1 male creator (Cai A-ga), 1 female (his wife)",
-      "mainCharacterDescription": "The man wears a white long-sleeved shirt and wide-leg blue jeans; the woman wears a light pink button-up pajama set."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Living Room",
-          "Studio"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A modern indoor setting with a grey sofa, a red floor lamp with a blue/yellow shade, and numerous stacks of toy boxes (Skibidi Toilet and Fuggler brands).",
-      "lightingStyle": "Bright, even studio lighting",
-      "weather": "Indoor",
-      "season": "Unknown",
+      "averageSceneDuration": 4.09,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Bright and Saturated",
-      "cameraWork": [
-        "Static",
-        "Close-up",
-        "Quick Cuts"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone",
-        "Nintendo Switch"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Fuggler",
-        "FamilyMart",
-        "Nintendo",
-        "Skibidi Toilet"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Energetic, excited, and persuasive",
-        "pitch": "Normal to High",
-        "loudness": "High",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin",
-          "Taiwanese Hokkien"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop",
-      "bgmBPM": 125,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Cartoon SFX",
-        "Ding",
-        "Boing"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Demo -> CTA",
-      "mainPurpose": "The video serves as an advertisement for 'Fuggler' keychain blind boxes available exclusively at FamilyMart in Taiwan. It uses a humorous prank intro to capture attention before transitioning into a detailed product showcase and unboxing to demonstrate the variety of the collection, finally ending with a promotional giveaway offer for a Nintendo Switch.",
-      "visualEmotion": "Energetic and Humorous"
+      "narrativeStructure": "List-based: Hook -> Item Introduction -> Unboxing Demonstration -> Detailed Feature List -> CTA",
+      "mainPurpose": "To promote and endorse the 'Fuggler' keychain series and 'Skibidi Toilet' toys by showing their fun features and informing viewers of their availability at FamilyMart stores in Taiwan.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "informative"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -169,15 +276,13 @@
         "Explicit",
         "Full"
       ],
-      "endorsementCues": "The characters explicitly state the release date, the purchasing location (FamilyMart), show the product packaging repeatedly, and offer a giveaway incentive.",
+      "endorsementCues": "Direct presentation of products, brand logos visible, and explicit verbal/textual calls to purchase at a specific retailer.",
       "endorsementObject": [
         "Fuggler",
-        "全家便利商店"
+        "FamilyMart",
+        "Skibidi Toilet"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Taiwanese variety-show editing style with large, colorful Chinese character overlays and high-pitched energetic narration.",
-      "freeDescribe": "The creator is likely a well-known influencer in the region, using a relatable 'couple' dynamic to sell products."
-    }
+    "freeDescribe": "High-energy promotional content utilizing social media editing styles (subtitles, variety text) to appeal to young collectors."
   }
 }

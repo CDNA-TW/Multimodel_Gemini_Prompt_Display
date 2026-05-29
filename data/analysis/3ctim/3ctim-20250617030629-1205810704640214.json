@@ -1,172 +1,265 @@
 {
   "videoName": "3ctim-20250617030629-1205810704640214.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 23,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Tech Tutorial",
-        "Tech Demo"
-      ],
+      "videoDuration": 23.4,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
+      "visual_narrative_log": "(1) The video starts with a close-up shot of an iPhone 15 Pro Max resting on a white, textured knitted surface. The screen displays a lock screen with a large digital clock reading 10:49 and a wallpaper of a corgi dog looking towards the right with its tongue out. A person's hand enters from the bottom to steady the device. (2) A white USB-C cable is inserted into the charging port at the bottom of the phone. The screen flickers as it registers the connection. (3) The camera zooms into the top portion of the screen, focusing on the Dynamic Island. The island expands into a horizontal pill shape to show 'Charging' and the current battery percentage of 71% with a green icon. (4) A red heart icon with '1' inside briefly pops up near the Dynamic Island. The time on the clock updates to 10:50. (5) The screen transitions to a screen recording of the iOS Settings app. A finger scrolls down through the list and taps on the 'Battery' section. (6) In the Battery menu, the camera shows a detailed view of the '71% Charging' status, accompanied by a progress bar and a prediction of the time remaining until it reaches 80%.",
+      "text_narrative_log": "(1) [Subtitle]: iOS18讓你沒有充電焦慮. (2) [Subtitle]: 開始充電. (3) [Subtitle]: 仔細看動態島下面有出現充電多久即可80%. (4) [Subtitle]: 設定裡電池那邊也會顯示！",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "One set of hands is visible interacting with the phone.",
+        "mainCharacterDescription": "Only the hands of the person are visible; they are using a clear protective case on their iPhone."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home"
+        ],
+        "locationTopography": [
           "None"
         ],
-        "city": [
-          "None"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video begins with a close-up of an iPhone with a Corgi wallpaper resting on a white knitted texture; a person's hand enters and taps the screen. (2) A white charging cable is inserted into the phone, causing the screen to light up and display 'Charging' along with the current percentage. (3) The camera zooms into the Dynamic Island area, which briefly shows a status heart icon and then a text string indicating time remaining to reach 80% charge. (4) The scene transitions to the phone's Settings app, where the user navigates to the 'Battery' section to display the detailed charging estimation graph and text.",
-      "audio_narrative_log": "(1) A rhythmic, upbeat, and mellow lofi hip-hop track begins immediately and plays throughout the video. (2) Clear digital sound effects (SFX) are heard, including the iPhone's signature charging chime and haptic-like click sounds during screen interactions. (3) No vocals or speech are detected at any point in the recording.",
-      "text_narrative_log": "(1) Hook Text: 'iOS18讓你沒有充電🔋焦慮' (iOS18 relieves your charging anxiety), appearing in a bold white font at the bottom. (2) Functional Text: '開始充電' (Start charging), indicating the action being performed. (3) Decorative/Effect Text: '仔細看動態島下面有出現充電多久即可80%' (Look closely, it shows how long to reach 80% below the Dynamic Island). (4) Functional Text: '設定裡電池那邊也會顯示！' (It's also shown in the Battery settings!), used as a concluding tip."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 6,
-      "averageSceneDuration": 3.8,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Hook -> Hardware Interaction -> Feature Zoom-in -> Settings Verification"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Hands only"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "One adult male hand is visible throughout the video interacting with the smartphone.",
-      "mainCharacterDescription": "An adult male with short, clean nails and fair skin, performing technical interactions."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Studio"
+        "isMultipleBackground": false,
+        "backgroundDescribe": "The background consists primarily of a white, knitted wool blanket or surface with a distinct weave pattern.",
+        "lightingStyle": [
+          "Bright indoor lighting"
         ],
-        "topography": [
-          "None"
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
         ]
       },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A white, chunky-knit blanket or sweater provides a soft, textured background for the phone.",
-      "lightingStyle": "Soft, diffused natural light or studio key light focusing on the device screen.",
-      "weather": "Unknown",
-      "season": "Unknown",
-      "editingPace": "Moderate",
-      "textOverlay": {
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Zoom in"
+        ],
+        "shotSize": [
+          "Close-up",
+          "Extreme close-up"
+        ],
+        "cameraAngles": [
+          "Top-down / overhead"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Screen recording edit"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
         "density": "Medium",
-        "language": [
-          "Chinese"
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
         ],
-        "isSubtitled": false
+        "isSubtitled": true
       },
-      "colorTone": "High Saturation",
-      "cameraWork": [
-        "Static",
-        "Handheld"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "Dog"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Apple"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Smooth",
-      "vocalRatio": "Low"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 0,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "None",
-        "pitch": "None",
-        "loudness": "None",
-        "speed": "None",
-        "speechDensity": "None",
-        "language": [
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Dog",
+          "Animal on packaging / logo"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Charging accessory / cable"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Apple"
+        ],
+        "instrumentsVisible": [
           "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Lofi Hip-Hop",
-      "bgmBPM": 88,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Charging Chime",
-        "UI Clicks"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Level"
+        ],
+        "speakingRisingRatio": 2,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 5,
+        "valence": 6,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Acoustic/Folk"
+        ],
+        "tempoBPM": 85,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 2,
+        "instrumentFamiliesAudible": [
+          "String"
+        ],
+        "instrumentsAudible": [
+          "Guitar"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Mechanical Click / Latch"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 1
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 4,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 2,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A sharp mechanical click occurs as the charging cable is inserted. This is immediately followed by the standard iOS charging chime, a clear, high-fidelity ding. (2) A male narrator with a calm and professional tone begins speaking at a moderate pace. His articulation is sharp and clear. A soft acoustic guitar track plays in the background, providing a warm and steady rhythmic bed. (3) As the narrator explains the charging feature, the music continues at a consistent volume. Subtle tactile sounds of swiping on a screen can be heard under the narration. The overall mix is clean with high vocal prominence."
     }
   },
-  "high_inference_interpretations": {
-    "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Action -> Observation -> Secondary Proof",
-      "mainPurpose": "To demonstrate a specific feature of iOS 18 that provides an estimated time to reach an 80% charge level, positioning it as a tool to mitigate range anxiety for iPhone users. The video combines physical interaction with software UI exploration to provide a complete tutorial of where to find the feature.",
-      "visualEmotion": "Calm, Informative"
-    },
-    "endorsement_analysis": {
-      "isEndorsement": true,
-      "endorsementMethod": [
-        "Implicit",
-        "Full"
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Tutorial / How-to"
       ],
-      "endorsementCues": "Positive framing of software features ('relieves anxiety') and demonstration of the latest smartphone hardware/OS.",
-      "endorsementObject": [
-        "Apple",
-        "iOS 18"
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 4,
+      "averageSceneDuration": 5.85,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Practical Demonstration -> Expanded Feature Details",
+      "mainPurpose": "To inform iPhone users about a new charging status feature in iOS 18. The video aims to demonstrate how the OS now provides estimated times to reach a specific charge level (80%), helping users manage their charging habits and reduce battery-related anxiety.",
+      "visualEmotion": [
+        "informative",
+        "calm"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-quality tech close-up aesthetic with textural backgrounds.",
-      "freeDescribe": "The video targets Apple enthusiasts and early adopters looking for hidden iOS 18 features. The use of a cute pet wallpaper is a common engagement tactic for tech vloggers."
-    }
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "The video uses a high-contrast visual style with clear text overlays to deliver technical information efficiently. The integration of screen recordings helps ground the feature demonstration in reality."
   }
 }

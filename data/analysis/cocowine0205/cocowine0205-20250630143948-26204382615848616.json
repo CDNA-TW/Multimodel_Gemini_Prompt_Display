@@ -1,177 +1,278 @@
 {
   "videoName": "cocowine0205-20250630143948-26204382615848616.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 69,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Product Review",
-        "Cooking"
-      ],
+      "videoDuration": 70,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) Two women sit at a counter in a brightly lit indoor room. One wears a black shirt, the other a patterned bucket hat. They hold a large red bag of Kirkland Wild Argentine Red Shrimp. (2) A fast-paced montage shows multiple Kirkland shrimp bags with different colored labels (red, blue, purple) overlaid with large yellow and black dynamic text. (3) Close-up shot of small pink shrimp and white garlic cloves being sautéed in a dark frying pan over a gas flame. A following shot shows the cooked shrimp seasoned with herbs in a teal fish-shaped bowl. (4) The scene returns to the two women. The woman on the left holds the red bag and gestures frequently while explaining something. The woman on the right holds a blue bag of Farm Raised Shrimp, listening intently and occasionally pointing at the products.",
+      "text_narrative_log": "(1) [Logo]: COSTCO WHOLESALE. [Variety]: 野生阿根廷特大紅蝦仁. (2) [Subtitle]: 這是好市多新出的新品. (3) [Subtitle]: 牠原產地也是阿根廷的. (4) [Subtitle]: 跟我們平常買的貴了300塊. (5) [Variety]: 超夯蝦仁買哪個？ (6) [Subtitle]: 差別在他們都有去頭去殼. (7) [Subtitle]: 然後這個(舊)保留了尾巴. (8) [Subtitle]: 但這個(新)尾巴也去掉了. (9) [Subtitle]: 做出來的料理呢. (10) [Subtitle]: 我覺得他的肉質就真的是非常細嫩. (11) [Subtitle]: 就是大家如果在火鍋店吃過一般的那種野生草蝦. (12) [Subtitle]: 跟阿根廷紅蝦就會發現. (13) [Subtitle]: 阿根廷紅蝦的那肉質都比較像我自己覺得有點像小龍蝦. (14) [Subtitle]: 就是他那個肉質很Q軟細嫩. (15) [Subtitle]: 但是呢我覺得缺點就是他相對的他的蝦味比較不夠. [Variety]: 蝦味比較不夠. (16) [Subtitle]: 尤其是他又去頭去殼然後連尾巴都去掉了. (17) [Subtitle]: 所以他料理完之後呢我覺得就只能吃到那個蝦子的肉質非常的細緻Q彈. (18) [Subtitle]: 可是蝦味呢就是沒那麼濃厚. [Variety]: 沒那麼濃厚. (19) [Subtitle]: 沒有我自己覺得有一點點可惜. (20) [Subtitle]: 所以以價格跟性價比來說我沒有很推. (21) [Subtitle]: 除非你特別愛他的口感. (22) [Subtitle]: 就是我覺得這一款追求的只有他的那個肉質非常的Q彈細嫩. (23) [Subtitle]: 不然的話我還是會推薦選一般的野生大草蝦. (24) [Subtitle]: 然後這個size是21-25隻. (25) [Subtitle]: 每磅21-25的我覺得是最棒的. [Slogan]: 一磅約450克. (26) [Variety]: CP值最高. (27) [Subtitle]: 吃起來又很爽.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "2 female creators sitting together.",
+        "mainCharacterDescription": "One woman has long dark hair and wears a black t-shirt; the other has shorter hair and wears a zebra-patterned bucket hat."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A clean, modern indoor living room or kitchen area with neutral-colored walls and soft furniture.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Insert shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Montage"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Seafood / fish / shrimp",
+          "Vegetables"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Costco",
+          "Kirkland Signature"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 0,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 6,
+        "valence": 7,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Acoustic/Folk"
+        ],
+        "tempoBPM": 110,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Percussion",
+          "String"
+        ],
+        "instrumentsAudible": [
+          "Guitar",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Plastic / Bag Rustle",
+          "Liquid Pour / Splash"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 2,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 2,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A main female voice begins a friendly narration about a new Costco product. A light, upbeat acoustic-pop track plays in the background with a steady rhythm. Faint crinkling sounds of plastic bags are heard as they handle the packaging. (2) The narration pauses momentarily, replaced by the crisp, high-frequency sizzling sound of shrimp hitting a hot pan. The music continues at a consistent volume. (3) The main female voice returns with a high-arousal tone, discussing the texture of the shrimp. Occasional soft laughter and affirmative interjections from a second female voice are heard. The background music maintains its tempo until a quick fade-out at the very end."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Food Review",
+        "Shopping"
+      ],
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "Unknown"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) Two women are seated at a dining table; the woman on the left holds a large red bag of Kirkland Wild Argentine Red Shrimp while the woman on the right, wearing a zebra-patterned bucket hat, eats from a turquoise bowl. (2) They present two different Kirkland shrimp bags (red and blue) to the camera for a side-by-side comparison. (3) The scene shifts to a close-up of a frying pan where several pink shrimps are being sautéed with whole garlic cloves. (4) The video returns to the two women who continue to discuss the product, using hand gestures to emphasize the texture and size of the shrimp.",
-      "audio_narrative_log": "(1) Upbeat, medium-tempo electronic background music starts immediately. A female voice speaks in an energetic and friendly tone, introducing a new product from Costco. (2) The sound of sizzling oil and frying is heard as the visuals switch to the cooking demo. (3) The primary female narrator continues her detailed commentary, comparing the price and taste of two types of shrimp, with occasional agreement or short interjections from the second female.",
-      "text_narrative_log": "(1) Functional Text: A large 'COSTCO WHOLESALE' logo is fixed at the top of the frame. (2) Hook Text: '野生阿根廷特大紅蝦仁' (Wild Argentine Jumbo Red Shrimp) appears in large yellow font. (3) Decorative/Effect Text: '超夯蝦仁買哪個?' (Which popular shrimp to buy?) and price indicators like '貴了300塊' (300 dollars more expensive). (4) Functional Text: Comprehensive Traditional Chinese subtitles track the spoken dialogue throughout the video."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 18,
-      "averageSceneDuration": 3.8,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Product Intro -> Comparison -> Cooking Demo -> Tasting/Verdict"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "2 main female creators seated at a table.",
-      "mainCharacterDescription": "Two young women; one has long dark hair and a black top, the other wears a zebra-print bucket hat and a white and grey top."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Kitchen",
-          "Dining Room"
-        ],
-        "topography": [
           "None"
         ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A home interior with a dining table, a kitchen counter with a stove, and domestic lighting.",
-      "lightingStyle": "Bright indoor lighting",
-      "weather": "Unknown",
-      "season": "Unknown",
-      "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Close-up"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Shrimp",
-        "Garlic"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Costco",
-        "Kirkland Signature"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 2,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "High-pitched and excited",
-        "pitch": "High",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin",
-          "Hokkien"
-        ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat/Pop",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "Sizzling"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Field Recording"
-    }
-  },
-  "high_inference_interpretations": {
+    "temporal_pacing_summary": {
+      "sceneCutCount": 12,
+      "averageSceneDuration": 5.8,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Comparison -> Evidence (Cooking) -> Synthesis (Review)",
-      "mainPurpose": "This video serves as a consumer review and comparison guide for Costco members. The creators evaluate two different types of Kirkland frozen shrimp, comparing the 'Wild Argentine Red Shrimp' against the standard farm-raised version based on price-to-weight ratio, ease of preparation (tail-off vs tail-on), and taste/texture after cooking to provide a purchasing recommendation.",
-      "visualEmotion": "Energetic and Informative"
+      "narrativeStructure": "List-based: Hook -> Comparison -> Demonstration -> Evaluation",
+      "mainPurpose": "To review and compare the new Kirkland Wild Argentine Red Shrimp with standard farm-raised shrimp at Costco, highlighting differences in price, texture, and flavor to provide shopping advice.",
+      "visualEmotion": [
+        "warm",
+        "informative",
+        "energetic"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
-        "Explicit",
+        "Implicit",
         "Integrated"
       ],
-      "endorsementCues": "The video features specific brand packaging and discusses price points and product availability at a specific retailer.",
+      "endorsementCues": "Detailed display and comparison of Kirkland Signature brand products from Costco.",
       "endorsementObject": [
-        "Costco",
-        "Kirkland Signature"
+        "Kirkland Signature",
+        "Costco"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Permanent Costco Wholesale header and variety-show style large text overlays.",
-      "freeDescribe": "The video uses typical Taiwanese social media editing styles, including high-density text and fast-paced conversational Mandarin with Hokkien particles."
-    }
+    "freeDescribe": "A typical social media food review with high-quality audio and subtitles, effectively comparing price-to-performance ratios for a niche grocery item."
   }
 }

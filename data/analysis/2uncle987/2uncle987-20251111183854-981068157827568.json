@@ -1,156 +1,262 @@
 {
   "videoName": "2uncle987-20251111183854-981068157827568.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 13,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Advertisement",
-        "Lifestyle"
-      ],
+      "videoDuration": 14.1,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A young woman with long black hair, wearing pink pajamas with a bubble tea pattern, sits on a bed in a beige-walled room. She yawns widely and covers her mouth with her right hand. (2) The scene cuts to a brightly lit, decorated room where four young women are dancing energetically. The center woman wears a white dress and heart-shaped sunglasses, while the others wear striped or graphic clothing and similar eyewear. (3) The camera returns to the first bedroom where the woman in pink pajamas is now lying down, smiling as she pulls a brown bubble tea-patterned comforter up to her chin. (4) Back in the colorful room, the group of women continues their synchronized dance moves, laughing and smiling at the camera. (5) In the bedroom, the woman is asleep. A graphic overlay appears in the upper right showing a product set with a pillow and blanket, accompanied by price text and 11.11 promotion details. (6) In the final scene, three women in the decorated room playfully toss a red-and-white patterned blanket over a man who is lying face down on the bed, while text overlays provide final promotional calls to action.",
+      "text_narrative_log": "(1) [Slogan]: 不管是自己睡... (2) [Slogan]: 還是一群人不睡 (3) [Slogan]: hahababy MIT床包組 (4) [Slogan]: 陪你一夜好夢 (5) [Slogan]: 雙11組合優惠中! (6) [Slogan]: 數量有限～要買要快！ [Subtitle]: \\ 兔絨毯也有限時優惠 / 數量有限～要買要快！",
+      "visual_human_presence": {
+        "totalHumanCount": 5,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 4,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face close-up"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main female creator, 3 female backup dancers, and 1 male actor lying on the bed at the end.",
+        "mainCharacterDescription": "The main character is a young woman with long dark hair, seen in two outfits: pink bubble tea-patterned pajamas and a white sleeveless dress with yellow heart-shaped sunglasses."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Bedroom",
+          "Studio"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The video alternates between a simple, clean indoor bedroom with beige walls and a more cluttered, colorful studio or room decorated with posters, stickers, and a yellow chair, suggesting a playful or 'variety show' atmosphere.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Warm and vibrant"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium full shot",
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Fast cuts"
+        ],
+        "visualRhythm": [
+          "Rhythm matched to music"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Food on packaging / logo"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "hahababy"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 2,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 1
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "English"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 130,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 0,
+        "female_singer_count": 1,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "English"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 5,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter",
+          "Cheering"
+        ],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Plastic / Bag Rustle"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX"
+        ],
+        "soundEffectsIntensity": 2,
+        "soundEffectsCoverage": 1
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 1,
+        "vocalRatio": 1,
+        "musicToSpeechLoudRatio": 4,
+        "musicDuration": 5,
+        "speechMusicOverlap": 1,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 1,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a soft, breathy female yawn. This is immediately followed by the introduction of a high-tempo, energetic dance-pop track with a very heavy, driving beat. (2) A female singer begins a rhythmic vocal hook in English, with lyrics reminiscent of 'Barbie Girl' but with a modern dance production. The music features bright synthesizer textures and deep, punchy percussion. Faint sounds of laughing and collective cheering are audible beneath the track, maintaining a high-arousal party atmosphere until the end."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Promotion / Advertisement / Indoresment",
+        "Comedy",
+        "Meme / Trend"
+      ],
       "location": {
         "country": [
-          "Unknown"
+          "Taiwan"
         ],
         "city": [
           "Unknown"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A woman in pink pajamas with a bubble tea print sits on a bed, yawning and looking tired. (2) Sudden transition to a vibrant room decorated with posters; four women wearing sunglasses and casual dresses dance and jump energetically on a bed. (3) Back to the woman in pajamas, she lies down and covers herself with a brown bubble tea patterned blanket, smiling contentedly. (4) The group of four women continues to dance and wave blankets around. (5) The woman is shown lying in bed again, while a digital graphic of a bedding set and pricing information appears on the right side of the screen. (6) The women playfully toss a red and white checkered blanket over a man lying face-down on a small bed.",
-      "audio_narrative_log": "(1) High-tempo, upbeat electronic pop music starts instantly, featuring a heavy kick drum and bright synthesizers. (2) High-pitched female vocals enter, singing a remix of the song 'Barbie Girl' with an energetic and playful tone. (3) The music continues at a steady, high-energy pace without interruption until the end of the video.",
-      "text_narrative_log": "(1) \"不管是自己睡...\" - Meaning 'Whether sleeping by yourself', expressed in a calm, introductory tone. (2) \"還是一群人不睡\" - Meaning 'Or a group of people not sleeping', expressed in a lively, contrasting tone. (3) \"hahababy MIT 床包組\" - Functional text identifying the brand and product. (4) \"陪你一夜好夢\" - Meaning 'Accompany you to a night of sweet dreams', providing an emotional hook. (5) \"雙11組合優惠中!\" - Functional text highlighting a Double 11 shopping festival promotion. (6) \"數量有限~要買要快!\" - Urgent hook encouraging immediate purchase."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 8,
-      "averageSceneDuration": 1.6,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro (sleeping alone) -> Intercut of partying group vs. sleeping comfortably -> Product pricing display -> Outro"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 5,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 4,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 main woman in pajamas, 3 other women dancing (total 4 females), and 1 man lying on a bed at the end.",
-      "mainCharacterDescription": "A young Asian woman with long dark hair, wearing pink pajamas with a bubble tea pattern."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Bedroom",
-          "Studio"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "One scene is a simple, minimalist bedroom with beige walls. The other is a colorful studio space decorated with various posters, a red rug, and a yellow chair.",
-      "lightingStyle": "Bright studio lighting",
-      "weather": "None",
-      "season": "None",
+      "sceneCutCount": 6,
+      "averageSceneDuration": 2.35,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "High Saturation",
-      "cameraWork": [
-        "Static"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "hahababy"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "None",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 0,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "High-pitched and excited",
-        "pitch": "High",
-        "loudness": "Loud",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "English"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic Pop",
-      "bgmBPM": 130,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Copyrighted Song"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Contrast -> Solution -> CTA",
-      "mainPurpose": "To promote 'hahababy' brand bedding sets during the Double 11 shopping festival. The video uses a high-energy contrast between quiet sleep and a loud 'party' atmosphere to suggest that the product is perfect for any situation, emphasizing comfort and fun design.",
-      "visualEmotion": "Energetic and Playful"
+      "narrativeStructure": "Montage: Hook -> Demonstration -> Information -> CTA",
+      "mainPurpose": "The video serves as a promotional piece for 'hahababy' bedding sets during the 11.11 shopping festival. It uses a high-energy transition from a sleepy, lonely environment to a vibrant, group-oriented 'party' setting to illustrate the comfort and versatility of the product. The contrast between the quiet yawn and the energetic dance music is designed to grab the viewer's attention before presenting specific sales information and limited-time offers.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -158,14 +264,11 @@
         "Explicit",
         "Full"
       ],
-      "endorsementCues": "Direct display of brand name 'hahababy', product showcase, and specific pricing/sale information for the Double 11 festival.",
+      "endorsementCues": "On-screen text displays specific brand pricing, product sets, and a promotional period (11.11). The creator is actively showcasing and using the branded bedding items.",
       "endorsementObject": [
         "hahababy"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Use of the bubble tea (pearl milk tea) motif which is a popular cultural icon in Taiwan.",
-      "freeDescribe": "The video leans heavily into the 'Gen Z' or 'Millennial' aesthetic with vibrant colors, fast cuts, and trending music to appeal to a younger consumer demographic."
-    }
+    "freeDescribe": "The video effectively utilizes a popular trending song and high-contrast visual editing to maintain engagement. The alignment of visual cuts with the music's beat strengthens the overall impact for social media consumption."
   }
 }

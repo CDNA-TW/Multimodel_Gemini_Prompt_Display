@@ -1,15 +1,245 @@
 {
   "videoName": "yga0721-20250823143407-1852784162070780.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 23,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Comedy",
-        "Fails"
-      ],
+      "videoDuration": 24,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A young boy with short black hair, wearing a black oversized t-shirt with orange graphics and multi-colored tie-dye shorts, stands in a sun-drenched outdoor parking area next to a dark SUV. He prepares to run toward a series of low concrete pillars and blocks. The lighting is harsh and direct from above. (2) The boy runs and performs a series of small jumps onto and over concrete blocks. A yellow arrow points at him. The background shows a concrete sea wall under a clear blue sky. A second child in a white shirt and patterned shorts stands nearby watching. (3) The boy attempts a larger jump over a concrete block but his foot catches the edge. He trips and falls forward in a slow-motion-like tumble, landing on his chest and stomach across the concrete while his legs kick up into the air. (4) The boy recovers and stands up, smiling and laughing with a slightly embarrassed expression while adjusting his small fanny pack. A woman's arm enters from the side holding a smartphone with a floral-patterned case.",
+      "text_narrative_log": "(1) [Variety]: 哦! 哦! 哦!. (2) [Slogan]: 跑酷小子. (3) [Variety]: 🔥 (跑酷之躍) 帥哦 帥哦. (4) [Variety]: 炫接倒數3 炫接倒數1. (5) [Variety]: !!!!!. (6) [Slogan]: 突然的地板動作. (7) [Variety]: 動作分數 8.7分. (8) [Variety]: (笑死). (9) [Slogan]: 跑酷(X) 扑街小子(O). (10) [Subtitle]: 沒事吧 沒事吧 沒事. (11) [Slogan]: 謝謝精彩的演出.",
+      "visual_human_presence": {
+        "totalHumanCount": 3,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 2,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body",
+          "Face",
+          "Hands only",
+          "Partial body"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main boy performer, 1 child onlooker, 1 woman appearing partially at the end.",
+        "mainCharacterDescription": "A young boy with black hair wearing a black graphic t-shirt and orange/blue tie-dye shorts."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Road / Highway / Parking Area",
+          "Harbor / Pier / Waterfront"
+        ],
+        "locationTopography": [
+          "Coastline / Beach",
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A concrete parking or utility area adjacent to a sea wall, featuring a black SUV, concrete pillars, and a clear blue sky.",
+        "lightingStyle": [
+          "Natural daylight"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Summer"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Follow shot"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Slow motion",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "Car"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 3,
+        "male_vocal_count": 1,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 1
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Comedic/Exaggerated"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 124,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter"
+        ],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": [
+          "Nature/Outdoor"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Object Impact / Thud / Drop"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Impact / Hit SFX",
+          "Cartoon / Comedy SFX",
+          "Meme SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 3,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) High-energy electronic BGM with a steady 4/4 beat starts immediately. An excited adult male voice exclaims 'Oh! Oh! Oh!' in a rhythmic cadence. The acoustic environment suggests a processed field recording with a slight breeze floor. (2) A metallic synth chime sound effect triggers as the narration calls out 'Parkour kid!' The music tempo remains consistent. (3) As the child trips, a stylized, low-frequency 'thud' impact sound effect is layered over the music. This is immediately followed by a high-pitched cartoon-style whistle SFX and the narrator bursting into loud, high-arousal laughter. (4) The audio texture shifts to a more natural conversational tone as a woman's voice asks 'Are you okay?' (沒事吧) with a friendly, caring inflection. The boy's soft giggling is heard in the background while the BGM fades out slightly."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Meme / Trend",
+        "Vlog"
+      ],
       "location": {
         "country": [
           "Taiwan"
@@ -19,140 +249,20 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young boy wearing a black t-shirt and colorful tie-dye shorts is seen jumping between concrete blocks in an outdoor coastal parking area. He moves with confidence while another child stands in the background. (2) As the boy attempts to jump from a wall to a block, he slips and falls backward over the wall, landing on his back with his legs flailing in the air. The fall is repeated with slow-motion and zooms. (3) The boy gets up, laughing and smiling, and walks towards the camera. A woman's hand enters the frame to check on him, and he continues to laugh while adjusting his bag.",
-      "audio_narrative_log": "(1) Upbeat, high-tempo funk-style music starts immediately. An adult male voice is heard narrating excitedly in Mandarin, reacting to the boy's parkour moves. (2) As the boy falls, the narrator's tone shifts to dramatic surprise followed by loud, infectious laughter from both a male and a female off-camera. (3) The boy's own high-pitched laughter is heard as he stands up. The upbeat music continues at a consistent volume until the video ends.",
-      "text_narrative_log": "(1) Functional and Hook Text: '跑酷小子' (Parkour Boy) appears at the start. (2) Hook Text: '跑酷之耀' (Glory of Parkour) and '炫接倒數' (Transition Countdown) as he prepares to jump. (3) Decorative Text: '突然的地板動作' (Sudden floor move) and '動作分數 8.7分' (Action score 8.7) appear during the fall, conveying a humorous tone. (4) Decorative Text: '跑酷(X) 仆街小子(O)' (Parkour X, Fall-on-street Boy O) appears as a sarcastic correction. (5) Closing Text: '謝謝精彩的演出' (Thanks for the wonderful performance) appears at the end."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 7,
-      "averageSceneDuration": 3.2,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro/Skills Demo -> Unexpected Fall -> Comedic Replay -> Happy Resolution"
+      "sceneCutCount": 8,
+      "averageSceneDuration": 3.0,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
     },
-    "visual_human_presence": {
-      "totalHumanCount": 3,
-      "maleDetectAmount": 2,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 2,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 main boy jumping, 1 boy bystander, 1 adult woman's hand and shoulder appearing at the end.",
-      "mainCharacterDescription": "Young boy with black hair, wearing an oversized black t-shirt with orange text and colorful tie-dye pattern shorts."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Outdoor Harbor",
-          "Parking Lot"
-        ],
-        "topography": [
-          "Coastline"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A concrete harbor area with low walls, square concrete blocks, a black SUV parked nearby, blue storage containers, and a clear blue sky in the background.",
-      "lightingStyle": "Natural bright daylight",
-      "weather": "Sunny",
-      "season": "Summer",
-      "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Follow shot"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "Car"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 2,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 2,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 1
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited, humorous, and laughing",
-        "pitch": "Medium",
-        "loudness": "High",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Funk",
-      "bgmBPM": 115,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drums"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Wind"
-      ],
-      "audioQuality": "Field"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Build-up -> Climax (Fail) -> Reaction",
-      "mainPurpose": "To entertain the audience by showcasing a humorous and relatable 'fail' moment during a child's parkour attempt. The video uses comedic editing techniques, such as awarding a score to the accidental fall and using a funny reaction sticker of the creator, to turn a potential injury into a lighthearted family moment.",
-      "visualEmotion": "Humorous"
+      "narrativeStructure": "Linear: Hook -> Action -> Climax (Fail) -> Resolution/Reaction",
+      "mainPurpose": "To entertain the audience by showcasing a humorous and harmless 'fail' moment during a child's attempt at parkour, enhanced by variety-show style editing.",
+      "visualEmotion": [
+        "humorous",
+        "energetic",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -164,9 +274,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Use of the creator's face (Cai Aga) as a comedic reaction sticker.",
-      "freeDescribe": "The video follows standard short-form video comedy tropes, utilizing 'fail' highlights and rhythmic editing to drive engagement."
-    }
+    "freeDescribe": "The video utilizes heavy visual and audio post-production (slow motion, variety-show text, sound effects) to emphasize the comedic timing of the fall."
   }
 }

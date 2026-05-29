@@ -1,156 +1,256 @@
 {
   "videoName": "5inana-20250314073432-1447074540347041.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 12.13,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Cooking",
-        "ASMR"
-      ],
+      "videoDuration": 13,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "None"
+      "visual_narrative_log": "(1) A woman with dark brown curly hair and bangs, wearing white over-ear headphones and a white square-neck top, stands in a kitchen environment. She is looking down with a focused expression, her eyes fixed on a bunch of green herbs in her hands. The lighting is bright and even, highlighting the clean white tiled background and her white garment. (2) Her hands perform a rhythmic and precise motion of plucking individual leaves from the stems. She holds the main bunch in her left hand while her right hand pinches and pulls the leaves. Each leaf is carefully placed into a shallow white ceramic bowl sitting on the kitchen counter to her right. (3) The subject continues the task, with the pile of leaves in the bowl visibly increasing. The camera maintains a static, eye-level medium close-up shot, capturing the detail of the green herbs and the micro-actions of her fingers. The background remains consistent, featuring kitchen cabinetry and tiled surfaces in a bright, neutral domestic setting.",
+      "text_narrative_log": "None",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Hands only"
         ],
-        "city": [
-          "None"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video starts with a close-up of a young woman with curly brown hair wearing white headphones, looking down at a bunch of green leafy herbs on a kitchen counter. She uses her hands to pluck individual leaves off the stems. (2) She continues the plucking motion rhythmically, holding a stem in one hand and plucking with the other, then dropping the leaves into a white ceramic bowl to her right. Her facial expression remains calm and focused. (3) The camera remains static throughout as she finishes plucking several stems, filling the bowl with greenery.",
-      "audio_narrative_log": "(1) Upbeat pop music with a steady electronic beat and a keyboard melody starts immediately. No vocals are detected. (2) A rhythmic clicking or plucking sound effect is synchronized with the visual movement of the leaves being pulled from the stems. (3) The background music and sound effects continue at a consistent volume until the end of the clip, with no ambient kitchen noise or speech.",
-      "text_narrative_log": "None"
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 0,
-      "averageSceneDuration": 12.13,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Constant action of plucking leaves from stems into a bowl."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Half-body",
-        "Hands"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main female character is the sole subject of the video.",
-      "mainCharacterDescription": "A young woman with curly brown hair, wearing white over-ear headphones and a white square-neck dress."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main female creator in a kitchen setting.",
+        "mainCharacterDescription": "A young woman with curly hair wearing a white square-neck blouse and white over-ear headphones."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
           "Indoor Kitchen"
         ],
-        "topography": [
-          "None"
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A clean, modern kitchen with white square tiles on the wall, a kitchen vent hood, and a white countertop with a ceramic bowl.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
         ]
       },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A clean, modern kitchen with white countertops and white tiled walls. Various kitchen utensils and a dark appliance are visible but blurred in the background.",
-      "lightingStyle": "Bright, soft indoor lighting",
-      "weather": "Unknown",
-      "season": "Unknown",
-      "editingPace": "Moderate",
-      "textOverlay": {
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
         "density": "None",
-        "language": [
+        "textLanguage": [
           "None"
         ],
         "isSubtitled": false
       },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Herbs",
-        "Green leafy vegetables"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Headphones"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "None",
-      "vocalRatio": "Low"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 0,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "None",
-        "pitch": "None",
-        "loudness": "None",
-        "speed": "None",
-        "speechDensity": "None",
-        "language": [
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Vegetables"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Headphones / earbuds"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
           "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop",
-      "bgmBPM": 110,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Keyboard"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer"
-      ],
-      "musicSourceType": [
-        "Copyrighted Song"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Rhythmic clicking"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ],
+        "keySignature": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Clothing / Fabric Rustle",
+          "Object Impact / Thud / Drop",
+          "Other"
+        ],
+        "incidentalNoiseIntensity": 3,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 0,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) A sharp, crisp snapping sound occurs with high frequency prominence and a rapid decay, indicating the breaking of a fresh plant stem. There are no human vocals or background music present. The ambient noise floor is exceptionally low, resembling a controlled studio environment or a very quiet room tone. (2) A second snapping sound is heard, followed by a faint rustling noise as the leaves are handled. The acoustic signature is bright and dry, with no significant reverb. The focus remains entirely on the incidental mechanical sounds of the manual activity, with no vocalization or tonal musical elements. (3) A series of three quick, successive snaps occur, each varying slightly in pitch and intensity. These sounds are transient and have a clean spectral profile. The recording maintains a high signal-to-noise ratio, with no interference from outside environment or electronic equipment hum. No music or speech is audible. (4) A final sequence of two snaps and the soft sound of a leaf landing on a ceramic surface is heard. The sounds are distinct and isolated within the soundstage. The acoustic experience is purely sensory and focused on the rhythmic repetition of the physical task, devoid of any vocal or melodic content."
     }
   },
-  "high_inference_interpretations": {
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "ASMR / Sensory"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 13,
+      "editingPace": "Slow",
+      "isNarrativeShift": false
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Action -> Loop",
-      "mainPurpose": "The video is designed to be a calming, aesthetic snippet of daily life (vlog style), focusing on the rhythmic and satisfying task of food preparation. By combining high-quality visuals of herb plucking with synchronized, clean sound effects and upbeat music, it targets an audience interested in 'soft' lifestyle content and ASMR-lite experiences.",
-      "visualEmotion": "Calm"
+      "narrativeStructure": "List-based: Action -> Repetition",
+      "mainPurpose": "The video serves as a sensory ASMR content piece, focusing on the visual and auditory details of herb preparation. By isolating the crisp sounds of plucking leaves and providing a clean, bright visual aesthetic, it aims to provide a relaxing and satisfying experience for viewers interested in culinary micro-tasks.",
+      "visualEmotion": [
+        "calm",
+        "focused"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -162,9 +262,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Signature white headphones and white linen dress aesthetic.",
-      "freeDescribe": "The focus on hand movements and repetitive sound makes it highly effective for engagement on platforms that favor 'satisfying' or 'cozy' short-form video loops."
-    }
+    "freeDescribe": "The video is a typical short-form ASMR clip focusing on organic textures and sounds."
   }
 }

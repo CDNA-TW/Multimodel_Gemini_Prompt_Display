@@ -1,174 +1,284 @@
 {
   "videoName": "3ctim-20250802224301-1673255136990309.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 51,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Unboxing",
-        "Tech Review",
-        "Vlog"
-      ],
+      "videoDuration": 50.8,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "USA"
+      "visual_narrative_log": "(1) A man with black-rimmed glasses and a patterned flat cap is speaking directly to the camera in a brightly lit indoor room. He is wearing a white t-shirt and has several beaded bracelets on his wrists. Behind him, a sleek modern wall fixture is visible. (2) He holds up a black rectangular smartphone box with 'Galaxy Z Fold7' written in silver text and a stylized line drawing of the foldable device. He smiles excitedly and points at the box. (3) The man begins to peel back a plastic security strip on the side of the box, with the camera zooming in closer on his hands and the box. (4) He removes the lid and pulls out a dark blue foldable smartphone. He opens the device to its full tablet-sized screen, holding it up to show both the front and the back which features a triple camera array. (5) He demonstrates the thinness of the folded device, rotating it in his hands. He continues to speak with high energy, looking back and forth between the device and the camera. (6) He holds the unfolded phone in one hand while gesturing with the other, pointing toward a future street-level test. The background remains constant throughout.",
+      "text_narrative_log": "(1) [Logo]: 3c有趣思tim哥. [Logo]: @3ctim. [Subtitle]: 嘿 各位. (2) [Subtitle]: 我今天拿到了. [Variety]: Fold7. (3) [Subtitle]: Galaxy Z Fold7. (4) [Subtitle]: 要陪伴我一整年的. (5) [Subtitle]: 摺疊機了. (6) [Subtitle]: 嘿 這個一樣. (7) [Subtitle]: 你可以看一下它的外觀. (8) [Subtitle]: 走那種黑色. (9) [Subtitle]: 那種神秘感覺對不對. (10) [Subtitle]: 我跟你講. (11) [Subtitle]: 我們現在撕開它. (12) [Subtitle]: 你看. (13) [Subtitle]: 清脆的聲音啊. (14) [Subtitle]: 我拿到了. [Variety]: 海影藍. (15) [Subtitle]: 雖然我很喜歡限定色. (16) [Subtitle]: 但海影藍也很棒. (17) [Subtitle]: 這一次的. (18) [Subtitle]: 主打色. (19) [Subtitle]: 哇 你看. (20) [Subtitle]: 非常的多. (21) [Subtitle]: 我們來聽一下開箱的. (22) [Subtitle]: 聲音啊. (23) [Subtitle]: 嘿 好開心哦. (24) [Subtitle]: 詳細的實測開箱呢. (25) [Subtitle]: 我們接下來呢. (26) [Subtitle]: 等一下. (27) [Subtitle]: 我這個短影拍完. (28) [Subtitle]: 等一下我們會去紐約街頭. (29) [Subtitle]: 實拍給大家看. (30) [Subtitle]: 實測給大家看. (31) [Subtitle]: 鎖定我們哦.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Hands only"
         ],
-        "city": [
-          "New York"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A middle-aged man wearing glasses, a patterned flat cap, and a white t-shirt is centered in the frame, speaking enthusiastically to the camera. He is holding a black box for the Samsung Galaxy Z Fold 7. (2) He rotates the box to show the design and branding, then proceeds to peel off the top security sticker with a deliberate motion. (3) He opens the box and pulls out a navy blue folding smartphone. He unfolds it and shows the slim profile to the camera, gesturing with his hands to emphasize its thinness. (4) He holds the phone while continuing to speak, eventually pointing towards the viewer as he mentions his upcoming street test in New York.",
-      "audio_narrative_log": "(1) Upbeat, medium-tempo electronic background music starts. A high-pitched, energetic male voice begins speaking in Mandarin Chinese. (2) As the man peels the sticker, the music dips slightly to emphasize the crisp, crackling sound effect (SFX) of the adhesive being pulled. (3) The music continues at a steady pace while the speaker describes the phone's color and features. (4) The audio ends with a concluding tone as the speaker promotes his next video.",
-      "text_narrative_log": "(1) Functional Text: \"嘿 各位\" (Hey everyone) - welcoming tone. (2) Decorative Text: \"Galaxy Z Fold 7\" - blue font identifying the product. (3) Functional Text: \"要陪伴我一整年的摺疊機了\" (The folding phone that will accompany me for a whole year) - expressing excitement. (4) Hook Text: \"清脆的聲音啊\" (A crisp sound!) - drawing attention to the unboxing audio. (5) Decorative Text: \"海影藍\" (Sea Shadow Blue) - identifying the specific color variant. (6) CTA Text: \"紐約街頭實拍給大家看\" (Shooting on New York streets for everyone) - teasing future content."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 12,
-      "averageSceneDuration": 4.25,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro -> Product Box Showcase -> Unboxing Action -> Phone Reveal -> Outro/Call to Action"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Upper body",
-        "Face",
-        "Hands"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 male creator as the sole person on screen.",
-      "mainCharacterDescription": "Middle-aged Asian male, glasses, flat cap with grey/white patterns, white t-shirt, beaded bracelet on right wrist, black ring on left index finger."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Studio"
+        "crowdLevel": [
+          "Single"
         ],
-        "topography": [
-          "None"
+        "countingEvidence": "One male main character presenting the product.",
+        "mainCharacterDescription": "Middle-aged man wearing black-rimmed glasses, a grey and white patterned flat cap, a white t-shirt with a small pocket, and several bracelets on both wrists."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home",
+          "Studio"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A clean, modern indoor room with a neutral-colored wall. A stylish horizontal black light fixture or decorative element is visible behind the man. To the right, there is a dark piece of furniture or shelf.",
+        "lightingStyle": [
+          "Bright indoor lighting",
+          "Soft indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural",
+          "Natural and bright"
         ]
       },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A modern indoor setting with soft lighting, featuring a grey textured wall and a partial view of a shelf with some equipment or decor.",
-      "lightingStyle": "Soft studio lighting",
-      "weather": "Unknown",
-      "season": "Unknown",
-      "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Handheld",
+          "Zoom in"
+        ],
+        "shotSize": [
+          "Medium close-up",
+          "Close-up",
+          "Insert shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
         ],
         "isSubtitled": true
       },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Handheld"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone",
-        "Lavalier Microphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Samsung"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and professional",
-        "pitch": "Medium-high",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Microphone / lavalier mic"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Samsung"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic",
-      "bgmBPM": 115,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Tearing sound"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Acoustic/Folk"
+        ],
+        "tempoBPM": 110,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "String",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Guitar"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Plastic / Bag Rustle",
+          "Mechanical Click / Latch"
+        ],
+        "incidentalNoiseIntensity": 3,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Ding / Bell SFX",
+          "Whoosh / Transition SFX"
+        ],
+        "soundEffectsIntensity": 2,
+        "soundEffectsCoverage": 1
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio",
+          "Mixed"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with high-energy male speech characterized by an enthusiastic and friendly tone. A rhythmic, upbeat acoustic guitar background track plays continuously. (2) A sharp, tactile sound of plastic peeling occurs as the speaker removes the seal from a box, accompanied by a slight rise in vocal pitch as he exclaims his excitement. (3) The speaker continues a rapid narrative about the device's aesthetics, with the guitar music maintaining a steady, positive tempo. (4) Subtle post-production sound effects like soft chimes or transition whooshes are sprinkled in to highlight certain visual reveals, while the overall mix remains clear and well-balanced between the voice and music."
     }
   },
-  "high_inference_interpretations": {
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Tech Review",
+        "Unboxing",
+        "Product Showcase"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 16,
+      "averageSceneDuration": 3.1,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Unboxing -> Demonstration -> CTA",
-      "mainPurpose": "To unbox and provide an initial visual review of the Samsung Galaxy Z Fold 7, specifically highlighting its physical design, thinness, and the new color, while building anticipation for a more detailed field test in New York.",
-      "visualEmotion": "Energetic and curious"
+      "narrativeStructure": "Linear: Hook -> Unboxing -> Product Demonstration -> Tease for Future Content.",
+      "mainPurpose": "This video is a rapid-fire unboxing and first-look at the Samsung Galaxy Z Fold7 by a tech influencer. Its goal is to generate hype for the new device and encourage viewers to follow for a more detailed upcoming review filmed on location in New York City.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
         "Explicit",
-        "Full"
+        "Integrated"
       ],
-      "endorsementCues": "Direct showcase of the product and its brand logo, enthusiastic positive commentary, and a dedicated unboxing format.",
+      "endorsementCues": "The prominent display of the product packaging, the specific naming of the model and color, and the enthusiastic brand-aligned presentation.",
       "endorsementObject": [
-        "Samsung Galaxy Z Fold 7"
+        "Samsung Galaxy Z Fold7"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Signature flat cap, glasses, and high-energy 'Hey everyone' (嘿 各位) greeting.",
-      "freeDescribe": "The video utilizes high-quality audio recording to capture 'satisfying' unboxing sounds, a common trope in tech content to increase viewer engagement."
-    }
+    "freeDescribe": "A professional tech influencer short-form video using high-arousal delivery and quick-cut editing to maximize engagement for a major product launch."
   }
 }

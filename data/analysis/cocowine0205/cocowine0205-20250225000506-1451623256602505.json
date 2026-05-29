@@ -1,177 +1,280 @@
 {
   "videoName": "cocowine0205-20250225000506-1451623256602505.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 60,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Food Review"
-      ],
+      "videoDuration": 68.6,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A young woman in a purple knit sweater and a fuzzy patterned bucket hat stands in front of a Costco freezer aisle. She is smiling broadly and pointing enthusiastically at frozen bags of 'Gnocchi Four Cheese' displayed behind glass doors. The lighting is bright and industrial. (2) She opens the freezer door, reaches inside, and pulls out a large white bag of the gnocchi. She turns the bag around to show the product details and packaging design. The camera zooms in to provide a clear view of the Italian-style dumplings. (3) The scene shifts to a bright, modern kitchen setting where the woman sits at a table with another female. She holds up the large bag and then shows smaller individual portions inside. Close-up footage shows the gnocchi simmering in a white creamy sauce within a metal pot. (4) Both women are now seen eating the cooked gnocchi from blue bowls using chopsticks. They have highly expressive, joyful facial expressions, nodding and giving thumbs up to the camera. The background shows a clean, well-lit domestic interior with warm lighting.",
+      "text_narrative_log": "(1) [Logo]: COSTCO WHOLESALE. [Variety]: 我找到了 我找到了 我找到了 我找到了 我找到了 我找到了 我找到了 我找到了. [Slogan]: 來自義大利 四種起司的麵疙瘩. (2) [Subtitle]: 妹妹煮給我吃. [Subtitle]: 起司哎 試試看. (3) [Subtitle]: 竟然被我找到了 就一定要吃. [Subtitle]: 看起來非常的好吃!. (4) [Subtitle]: 我發現好市多的那種外國麵 都蠻大包的 而且很重 還有價格也蠻划算 很符合外國人. (5) [Subtitle]: 100克29.3 還直接加了起司. [Variety]: 歐買尬 喔~. (6) [Variety]: 四種起司麵疙瘩 399元. (7) [Subtitle]: 那它獨立包裝 總共有四袋 所以每一袋是100塊 我們先來加熱看看. [Subtitle]: 它用微波爐或是熱鍋 都可以使用 我覺得很方便. (8) [Subtitle]: 料理完以後 妹妹加了兩匙水 跟一匙油 把它收汁後 就變成濃郁. (9) [Subtitle]: 其實再灑上一點胡椒 我可以告訴你們 超級好吃. [Variety]: 超級好吃. (10) [Subtitle]: 它的麵疙瘩口感 非常的Q彈 它整個也是柔軟 就是不會說麵心硬硬的. (11) [Subtitle]: 最重要是他的起司 非常的濃郁 整個滾在這麵疙瘩裡 吃得到小麥的香味 混合4種起司 不停在你嘴巴裡 蹦蹦跳的感覺. (12) [Subtitle]: 喜歡吃起司球的人 絕對不要錯過 嗯 推薦.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 main female creator with a hat and 1 supporting female character sitting next to her.",
+        "mainCharacterDescription": "Young female with long dark hair, wearing a distinctive fuzzy grey/black patterned bucket hat and a light purple oversized knit cardigan."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Supermarket / Warehouse Store",
+          "Indoor Kitchen"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "First half is set in a Costco warehouse aisle with industrial freezer units. Second half is a modern kitchen with marble-style countertops and soft warm wall lighting.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Winter"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Insert shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Insert shot"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Instant / packaged food",
+          "Plated dish",
+          "Prepared meal"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Costco",
+          "Via Emilia"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Acoustic/Folk"
+        ],
+        "tempoBPM": 115,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "String",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Guitar"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Pop / Bubble SFX",
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a high-energy female voice narrating with rapid speed and enthusiastic pitch modulation. An upbeat acoustic guitar track starts simultaneously, providing a cheerful rhythmic background. Short 'pop' sound effects are heard as graphic text elements appear on the screen. (2) The narration remains consistent in volume as the speaker explains product pricing and packaging. A clear 'ding' sound effect marks the transition from the shopping scene to the home scene. The background music maintains its steady tempo and major-mode tonality. (3) Subtle bubbling and sizzling sounds are introduced during the cooking segment, likely post-produced for sensory emphasis. The narrator's voice becomes more descriptive and instructional, maintaining a high level of vocal arousal and positive emotional valence. (4) The final segment features highly activated vocal reactions from the speaker as she describes the taste. The music continues to drive the rhythm until a final 'pop' sound effect coincides with the end of the voice tracking and video."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Food Review",
+        "Shopping",
+        "Vlog"
+      ],
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "Unknown"
+          "None"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman wearing a purple sweater and a camo bucket hat stands in a Costco freezer aisle, excitedly pointing at a product. (2) She opens the freezer door and retrieves a large white bag of 'Via Emilia Gnocchi Four Cheese', displaying it to the camera with a cheerful expression. (3) Scene shifts to an indoor table where she and another woman in a black dress show the four individual plastic bags of gnocchi contained within the main packaging. (4) A close-up shot shows the gnocchi being cooked in a pan with a creamy white sauce bubbling. (5) Both women are seen eating the finished dish with chopsticks, reacting with exaggerated facial expressions of delight and nodding.",
-      "audio_narrative_log": "(1) Fast-paced, upbeat electronic background music begins. A high-pitched, energetic female voice speaks in Mandarin. (2) Sound of a freezer door opening and the rustling of plastic bags. (3) Transition to sizzling sounds as the food cooks in the pan. (4) The female vocals continue with an excited tone, interspersed with 'Mmm' sounds and laughter during the tasting segment.",
-      "text_narrative_log": "(1) Functional Text: '來自義大利 四種起司的麵疙瘩' (Gnocchi with four types of cheese from Italy). (2) Decorative/Hook Text: '我找到了' (I found it!) appearing inside lantern-style graphic overlays. (3) Functional Text: '399元' indicating the price. (4) Decorative/Effect Text: '超級好吃' (Super delicious) and 'Q彈' (Chewy/Springy) emphasizing the food's texture and taste."
     },
     "temporal_pacing_summary": {
       "sceneCutCount": 18,
-      "averageSceneDuration": 3.3,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Discovery in store -> Product details and pricing -> Cooking demonstration -> Final tasting and review."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Waist up"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "1 main female creator and 1 female friend appearing in the home kitchen scenes.",
-      "mainCharacterDescription": "A young Asian woman with long dark hair, wearing a purple knit sweater and a camo bucket hat in the store, later wearing a white shirt and a black beret."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Kitchen",
-          "Costco"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "First half is a bright Costco warehouse freezer aisle; second half is a warm, well-lit indoor home or studio environment with a dining table.",
-      "lightingStyle": "Bright indoor lighting",
-      "weather": "Indoor",
-      "season": "None",
+      "averageSceneDuration": 3.8,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Close-up"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Gnocchi",
-        "Cheese Sauce"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Costco Wholesale",
-        "Via Emilia"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade and Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 2,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "High-pitched and excited",
-        "pitch": "High",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum kit"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Sizzling",
-        "Pop SFX"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Discovery -> Introduction -> Preparation -> Review",
-      "mainPurpose": "The video aims to recommend a specific food product found at Costco. It leverages the 'treasure hunt' excitement of finding a deal, provides practical information on quantity and cooking methods, and uses an emotional, high-energy taste test to validate the purchase for the audience.",
-      "visualEmotion": "Energetic and Enthusiastic"
+      "narrativeStructure": "Linear: Discovery -> Logistics -> Preparation -> Review",
+      "mainPurpose": "To provide a positive review and endorsement of Costco's frozen cheese gnocchi, highlighting its value, ease of cooking, and superior taste to encourage viewers to purchase it.",
+      "visualEmotion": [
+        "energetic",
+        "warm",
+        "informative"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
         "Implicit",
-        "Full"
+        "Integrated"
       ],
-      "endorsementCues": "Detailed focus on the brand name, price, and positive taste review of a specific Costco product.",
+      "endorsementCues": "Detailed explanation of price, packaging, cooking method, and positive tasting review with clear brand logos visible.",
       "endorsementObject": [
         "Costco",
-        "Via Emilia"
+        "Via Emilia Gnocchi"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Use of lantern-shaped text overlays and high-energy Mandarin delivery.",
-      "freeDescribe": "The video follows a standard social media format for 'Costco Hauls' or 'Must-buy' lists, targeting cost-conscious foodies."
-    }
+    "freeDescribe": "The video follows a classic social media lifestyle-review format with high-energy editing and visual overlays to maintain viewer engagement."
   }
 }

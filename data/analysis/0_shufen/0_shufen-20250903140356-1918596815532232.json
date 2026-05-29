@@ -1,14 +1,232 @@
 {
   "videoName": "0_shufen-20250903140356-1918596815532232.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 7,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Dance"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A young woman with long dark hair is seen in a close-up, reaching her hand toward the camera. She wears a pink oversized shirt and has a digital filter featuring pink bunny ears and a bow. The background is a brightly lit, clean indoor environment with a chair visible. (2) The woman moves backward, revealing her full-length pink gown. She stands in a hospital-like room with a medical bed to the right and a window in the back. She begins to sway her body playfully and maintains a cheerful facial expression while looking directly at the camera. (3) She continues her rhythmic movement, smiling broadly and showing her teeth. The setting includes a gray hospital-style chair and a medical chart holder on the wall. The camera remains mostly static as she dances within the frame, displaying a lighthearted and energetic persona.",
+      "text_narrative_log": "(1) [Logo]: BAY 1.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main female creator in a pink gown.",
+        "mainCharacterDescription": "A young Asian woman with long, straight dark hair wearing a loose-fitting pink hospital gown."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Other"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A hospital patient room featuring a medical bed with white railings, a gray upholstered chair, a window with horizontal blinds, and medical equipment interfaces on the wall.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 0,
+        "female_singer_count": 1,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "English"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 5,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 0,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 1,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio starts with a high-tempo electronic dance track. A prominent, synthesized bass drum provides a steady, percussive pulse at approximately 128 BPM. The acoustic texture is bright and polished, typical of studio-produced pop or EDM, with no ambient noise or human speech detected. (2) A female vocal sample is introduced, consisting of rhythmic, melodic chops that sync with the beat. The vocal has a bright, airy quality with high spectral brightness. The music maintains a consistent energy level with layered synthesizers filling the mid-range frequencies, creating an upbeat and energetic atmosphere. (3) The percussive elements and vocal samples continue to loop without structural change. There are no incidental noises or SFX added. The dynamic range is narrow, suggesting a compressed broadcast-style mix designed for social media. The audio ends abruptly, maintaining its high-arousal energetic tone until the final second."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Selfie / Portrait"
+      ],
       "location": {
         "country": [
           "Unknown"
@@ -18,137 +236,20 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video starts with a young woman with long dark hair, wearing a peach-colored oversized hospital gown and a digital pink bow sticker, standing in a brightly lit hospital room. (2) She begins a rhythmic dance movement, swaying her body from side to side and smiling warmly at the camera. (3) She continues the gentle dance sequence, maintaining eye contact and a cheerful facial expression until the end of the clip.",
-      "audio_narrative_log": "(1) Upbeat, medium-tempo electronic pop music with a prominent synthesized bassline begins immediately. (2) A processed, high-pitched vocal sample repeats a rhythmic phrase in synchronization with the beat. (3) The music maintains a constant energy level and rhythm throughout the duration without any ambient hospital noise detected.",
-      "text_narrative_log": "(1) None"
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 0,
-      "averageSceneDuration": 7.0,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Intro -> Continuous Dance -> Outro"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main female character dancing in the center of the frame",
-      "mainCharacterDescription": "A young woman with long black hair, wearing a peach-colored hospital patient gown and pink slippers."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Hospital Room"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A typical hospital room with a white adjustable bed, a brown armchair, medical equipment on the wall, and a large window with blinds.",
-      "lightingStyle": "Bright, natural indoor lighting",
-      "weather": "Sunny (inferred from window)",
-      "season": "Unknown",
+      "sceneCutCount": 2,
+      "averageSceneDuration": 3.5,
       "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "None",
-        "language": [
-          "None"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "Natural, warm tones",
-      "cameraWork": [
-        "Static"
-      ]
+      "isNarrativeShift": false
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "None",
-      "vocalRatio": "Low"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 0,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "None",
-        "pitch": "None",
-        "loudness": "None",
-        "speed": "None",
-        "speechDensity": "None",
-        "language": [
-          "None"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic Pop",
-      "bgmBPM": 115,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Continuous Action",
-      "mainPurpose": "The video serves as a short-form social media clip intended to show the creator's positive and resilient attitude while being in a hospital. By dancing in a hospital gown to upbeat music, the creator communicates a sense of cheerfulness despite the medical setting.",
-      "visualEmotion": "Cheerful"
+      "narrativeStructure": "Montage: Hook -> Performance -> Conclusion",
+      "mainPurpose": "The video serves as a lighthearted personal update or social media post. By dancing in a hospital gown while using a cute filter, the creator uses humor and energy to contrast with the typically somber environment of a hospital. The primary intent is to engage followers with a positive and resilient personal vibe.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -160,9 +261,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Usage of a stylized digital bow filter and hospital-themed content.",
-      "freeDescribe": "The contrast between the sterile hospital environment and the joyful dance movement creates a strong emotional resonance common in 'recovery' or 'resilience' themed social media content."
-    }
+    "freeDescribe": "The contrast between the hospital setting and the playful dance creates a memorable social media aesthetic."
   }
 }

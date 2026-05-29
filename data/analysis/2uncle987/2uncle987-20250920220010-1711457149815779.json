@@ -1,176 +1,293 @@
 {
   "videoName": "2uncle987-20250920220010-1711457149815779.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 23.3,
-      "aspectRatio": "9:16",
+      "videoDuration": 22.84,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A young woman with long black hair, wearing a white safety hard hat and a high-visibility yellow reflective vest over a dark shirt, is filmed in a selfie-style shot. She is in a large, modern indoor hall with polished floors and a grid of ceiling lights. (2) She walks through the space, passing a large vibrant digital screen displaying cartoonish, colorful animations. The camera moves with her, showing a transition into a hallway area with white walls and some construction barriers. (3) She turns to face the camera, smiling broadly and giving two thumbs-up. A small white circular sticker is on her left cheek. (4) A graphic overlay appears briefly on a black background, showing a cartoon girl with blue tears and a big smile. (5) The woman returns to the screen, standing in front of a colorful wall mural. She uses wide hand gestures, waving her hands to emphasize her points as she speaks directly to the camera. (6) She concludes by pointing toward the camera with a playful, smiling expression before walking away, with the camera capturing a side view of her leaving.",
+      "text_narrative_log": "(1) [Subtitle]: 老闆娘! (2) [Subtitle]: 四週年不錯欸. (3) [Variety]: 驕傲的表情. [Subtitle]: 四週年. (4) [Subtitle]: 可以問你一個問題嗎. [Variety]: 抖抖抖. (5) [Subtitle]: 好啊. (6) [Subtitle]: ははベビー是什麼意思. (7) [Subtitle]: 我是幫別人問啦. [Subtitle]: 知道底下留言「我早就知道」. (8) [Subtitle]: はは（日文）就是媽媽的意思. (9) [Subtitle]: ベビー（日文）就是寶貝的意思. (10) [Variety]: * 含義. [Subtitle]: 就是小朋友的意思. (11) [Subtitle]: 所以ははベビー就是. (12) [Subtitle]: 媽媽幫小孩選他覺得最好的東西的意思. (13) [Variety]: 太溫馨了吧! (14) [Variety]: 驕傲離場.",
+      "visual_human_presence": {
+        "totalHumanCount": 4,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 3,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Face close-up",
+          "Head and shoulders",
+          "Side view"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main female creator, 1 person holding the camera/asking questions, 2 distant figures walking in the background hall.",
+        "mainCharacterDescription": "A young Asian woman with long black hair, wearing a white hard hat with a circular logo, a yellow reflective safety vest over a green top, and a white circular patch on her left cheek."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Event Venue / Convention Hall",
+          "Shopping Mall / Department Store"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A spacious modern hall with reflective floors, a large digital animation screen, and a hallway with white walls and colorful wall murals.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright",
+          "Warm and vibrant"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Selfie handheld",
+          "Walking handheld",
+          "Panning"
+        ],
+        "shotSize": [
+          "Close-up",
+          "Medium close-up",
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Selfie perspective"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Graphic transition",
+          "Freeze frame",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Fast pace",
+          "Rhythm matched to speech"
+        ],
+        "takeStructure": [
+          "Multiple shots",
+          "Scene-to-scene sequence"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "Japanese",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Microphone / lavalier mic",
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Haha Baby"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 0,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Animated/Excited",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Rising"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Pop / Bubble SFX",
+          "Ding / Bell SFX",
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Stingers"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) A high-pitched, energetic female voice speaks in Traditional Chinese with clear articulation. A very faint ambient room tone is present. (2) A sharp 'whoosh' sound effect triggers a transition. An upbeat, major-mode electronic pop track with a steady kick drum and bright synthesizer leads fades in. (3) A second female voice off-camera asks a question. The main speaker responds with a friendly, rising intonation. A cartoon 'bubble' pop sound effect occurs simultaneously with a graphic display. (4) The main speaker explains the meaning of words with high vocal arousal and positive valence. The music rhythmically supports her speech pace. (5) A bright 'ding' chime sounds as the speaker emphasizes a point. The track concludes with a short musical stinger as the vocals end."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
         "Vlog",
-        "Interview"
+        "Promotion / Advertisement / Indoresment",
+        "Lifestyle"
       ],
-      "withRealPeople": true,
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "None"
+          "Unknown"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman wearing a white hard hat and a yellow reflective safety vest over a green top walks down a wide, brightly lit underground corridor. (2) She stops, smiles directly at the camera, and gives a double thumbs-up gesture. (3) She adjusts her chin strap and begins speaking while using various hand gestures to emphasize her points. (4) She continues her explanation, occasionally pointing off-camera or gesturing broadly with her hands. (5) She finishes her explanation with a friendly smile, then turns and walks away from the camera further into the corridor.",
-      "audio_narrative_log": "(1) Upbeat, medium-tempo electronic background music begins with a female voice speaking in a cheerful, inquiring tone. (2) A second female voice (on-screen) begins a continuous, friendly explanation, while the first voice occasionally interjects with brief reactions. (3) Short digital 'ping' sound effects occur intermittently. (4) The music and voices continue at a steady volume until the end, accompanied by the subtle echo of a large indoor public space.",
-      "text_narrative_log": "(1) '老闆娘' (Boss lady) identifies the woman on screen. (2) '四週年不錯欸' (Fourth anniversary is pretty good) acts as a celebratory hook. (3) '驕傲的表情' (Proud expression) describes the character's reaction. (4) '可以問你一個問題嗎' (Can I ask you a question?) and 'Haha Baby是什麼意思' (What does Haha Baby mean?) are functional questions. (5) '我是幫別人問啦' (I'm asking for someone else) adds a casual, humorous tone. (6) Explanatory text defines 'Haha' as 'Mother' and 'Baby' as 'Child' in Japanese. (7) '太溫馨了吧' (So heartwarming!) provides an emotional reaction to the explanation."
     },
     "temporal_pacing_summary": {
-      "sceneCutCount": 7,
-      "averageSceneDuration": 3.3,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro Hook -> Interview Question -> Detailed Explanation -> Outro"
+      "sceneCutCount": 8,
+      "averageSceneDuration": 2.8,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
     },
-    "visual_human_presence": {
-      "totalHumanCount": 5,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 4,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Head and shoulders"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 main female creator on-screen, 1 female interviewer off-screen (vocal), and approximately 3-4 blurred passers-by in the background.",
-      "mainCharacterDescription": "A young Asian woman with long dark hair, wearing a white safety helmet with a small black logo, a yellow high-visibility safety vest over a green sleeveless top, and a black strap under her chin."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Subway Station",
-          "Construction Site"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A modern underground corridor or concourse with light-colored tiled floors, large square pillars, and decorative red geometric panels on the ceiling. Construction cones and barriers are visible in the distance.",
-      "lightingStyle": "Bright indoor artificial lighting with a natural feel.",
-      "weather": "Indoor",
-      "season": "Unknown",
-      "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Mandarin Chinese",
-          "Japanese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural and vibrant",
-      "cameraWork": [
-        "POV",
-        "Follow shot",
-        "Static"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Haha Baby"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 2,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 2,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Friendly, energetic, and informative",
-        "pitch": "Medium-high",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop",
-      "bgmBPM": 118,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Kit"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "Chime",
-        "Ding"
-      ],
-      "ambientNoise": [
-        "Indoor Public Space Echo"
-      ],
-      "audioQuality": "Field Recording"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Inquiry -> Explanation -> Resolution",
-      "mainPurpose": "The video serves to humanize the brand 'Haha Baby' on its fourth anniversary. By using a 'on-site' vlog format, the main character explains the sentimental meaning behind the brand's name (linking mothers and children), creating an emotional connection with the audience while reinforcing brand identity.",
-      "visualEmotion": "Energetic and Warm"
+      "narrativeStructure": "List-based: Hook -> Q&A -> Brand Philosophy",
+      "mainPurpose": "The video serves to promote and explain the meaning behind the brand 'Haha Baby' during its 4th-anniversary celebration. By answering a commonly asked question about the brand name's origin (Mother + Baby), the creator establishes a warm, family-oriented brand identity and builds emotional rapport with the audience.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
-        "Implicit",
-        "Integrated"
+        "Explicit",
+        "Full"
       ],
-      "endorsementCues": "Verbal explanation of the brand's name and philosophy, combined with the 'Boss lady' persona of the creator.",
+      "endorsementCues": "The video explicitly names and explains the brand philosophy, features brand logos, and celebrates a brand milestone (4th anniversary).",
       "endorsementObject": [
         "Haha Baby"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-density variety-show style captions and emotional stickers typical of Taiwanese social media creators.",
-      "freeDescribe": "The contrast between the professional safety gear (hard hat, vest) and the lighthearted brand explanation creates a 'behind-the-scenes' worker aesthetic that is popular in modern vlogging."
-    }
+    "freeDescribe": "The video uses typical social media editing styles, including variety-show captions and cute sound effects, to maintain a high-energy and approachable feel for brand promotion."
   }
 }

@@ -1,177 +1,279 @@
 {
   "videoName": "cocowine0205-20251206000505-886006237843322.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 52,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Shopping Recommendation"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A young Asian woman with long dark hair, wearing a white long-sleeved shirt and a blue denim vest, stands in the middle of a busy Costco warehouse store. She holds a large, fluffy, off-white faux fur blanket towards the camera, smiling with an open mouth and bright eyes. In the background, numerous shoppers in winter jackets move around with metal shopping carts amidst towering industrial shelves filled with various boxes and goods. High-bay fluorescent lighting illuminates the scene brightly. (2) The woman unfolds the plush blanket to demonstrate its generous size, showing off a distinct wavy or zigzag texture in the cream-colored faux fur. Her hands are seen grasping the soft fabric as she shakes it slightly to show its movement and density. The environment remains consistent, with shoppers walking by in the background, creating a sense of a bustling retail event. The focus remains sharp on the character and the textile product she is highlighting. (3) A hand from off-camera enters the frame to point at the blanket's surface, while the main character pulls the fabric close to her chest and chin to emphasize its cozy, warm qualities. She continues to speak directly to the viewer with animated facial expressions, including raised eyebrows and a wide smile. To the right, product packaging in cardboard boxes with the text 'fraiche' is partially visible on a display shelf. (4) The camera angle remains steady at eye-level as the woman gestures with her free hand while holding the bundled blanket. She looks at the product and then back at the lens, conveying excitement through her lively hand movements and energetic posture. In the background, the checkout or aisle area of the warehouse can be seen with more shoppers, maintaining the context of a high-traffic shopping environment.",
+      "text_narrative_log": "(1) [Logo]: COSTCO WHOLESALE. [Variety]: 黑五好康. [Slogan]: 大家搶著買 超美大毛皮毯毯 889元有限購. (2) [Logo]: 好市多生鮮 Uber Eats 送上門. (3) [Slogan]: MON CHATEAU.",
+      "visual_human_presence": {
+        "totalHumanCount": 16,
+        "maleDetectAmount": 6,
+        "femaleDetectAmount": 10,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Crowd"
+        ],
+        "countingEvidence": "1 female main character, at least 15 other shoppers moving in the background and aisles.",
+        "mainCharacterDescription": "An Asian woman with long dark hair, wearing a white shirt with puffy sleeves and a blue denim-style vest."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Supermarket / Warehouse Store"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A warehouse retail environment with high ceilings, industrial steel shelving units, large cardboard product boxes, and shoppers using metal carts.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Winter"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Stabilized / gimbal movement"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Medium full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Meme-style edit"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "Shopping cart"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Costco",
+          "Uber Eats",
+          "MON CHATEAU"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 5,
+        "male_vocal_count": 1,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 120,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Chatter"
+        ],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": [
+          "Commercial/Recreational"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "Plastic / Bag Rustle"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Stingers"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) A high-energy female voice speaks with a clear, projected tone and a fast speech rate, sounding very excited. The background music is an upbeat, major-key pop track with a synthesized bassline and a steady electronic drum beat at approximately 120 BPM. Auditory textures of a crowded warehouse, including low-frequency cart rumbles and distant human chatter, create a layer of ambient noise. (2) A male voice enters the acoustic space, speaking in a casual, conversational tone with the main female speaker. A quick, synthesized 'whoosh' sound effect occurs during a visual transition, adding a sharp transient peak to the audio mix. The BGM remains at a consistent volume, providing a rhythmic bed beneath the dialogue, while the ambient chatter in the background stays low but noticeable. (3) The female speaker's voice reaches a higher pitch and volume as she emphasizes specific price points, showing high emotional arousal. A short 'pop' or 'ding' sound effect is heard, coinciding with the emphasis on screen text. The acoustic environment maintains a moderate spectral brightness, with the vocals and BGM well-separated from the background noise floor. (4) The audio concludes with both the female and male voices laughing and making short, positive vocalizations. The BGM continues its rhythmic loop until the end, maintaining the upbeat atmosphere. There is no technical audio distortion, and the overall mix has a clean field recording quality with high intelligibility and a balanced music-to-voice ratio."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Shopping",
+        "Lifestyle",
+        "Product Review"
+      ],
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "Unknown"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A female host stands in a crowded Costco warehouse holding a large, white, fluffy blanket. She smiles and talks to the camera while shoppers pass by with carts in the background. (2) She unfolds the blanket to its full size, demonstrating its large scale, then wraps it around her shoulders to show its softness and warmth. (3) A hand from off-camera points at the texture of the blanket. The host continues to stroke the faux fur while the camera shows boxes of similar blankets in pink and white on a nearby shelf.",
-      "audio_narrative_log": "(1) Upbeat, high-tempo electronic background music plays continuously. A female voice speaks excitedly in Mandarin, introducing a product. (2) A male voice joins from off-camera, engaging in a dialogue about the product's value and price. (3) The conversation remains high-energy with consistent background warehouse noise, including indistinct chatter and the sound of shopping carts moving.",
-      "text_narrative_log": "(1) Functional Text: 'COSTCO WHOLESALE' logo appears at the top throughout. (2) Decorative/Hook Text: '大家搶著買 超美大毛皮毯毯 889元有限購' (Everyone is rushing to buy, super beautiful large faux fur blanket, 889 TWD, limited purchase) and '黑五好康' (Black Friday deals). (3) Functional Text: Traditional Chinese subtitles translate the spoken dialogue throughout the video."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 18,
-      "averageSceneDuration": 2.8,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Hook -> Product Demo -> Price/Value Discussion -> Final Recommendation"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 12,
-      "maleDetectAmount": 4,
-      "femaleDetectAmount": 8,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Crowd",
-      "countingEvidence": "1 female host as the main character, approximately 11 shoppers visible in the background background.",
-      "mainCharacterDescription": "Young female with long dark hair, wearing a white and blue long-sleeved top and a black skirt."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Warehouse",
-          "Store"
-        ],
-        "topography": [
           "None"
         ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A typical Costco warehouse interior with high ceilings, industrial shelves stocked with blanket boxes, and numerous shoppers with metal carts.",
-      "lightingStyle": "Bright, uniform indoor warehouse lighting.",
-      "weather": "None",
-      "season": "Winter",
-      "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Bright and Vibrant",
-      "cameraWork": [
-        "Handheld",
-        "Follow shot"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "COSTCO",
-        "MON CHATEAU",
-        "fraiche"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 5,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and enthusiastic",
-        "pitch": "High",
-        "loudness": "Loud",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Warehouse chatter",
-        "Shopping cart movement"
-      ],
-      "audioQuality": "Field Recording"
-    }
-  },
-  "high_inference_interpretations": {
+    "temporal_pacing_summary": {
+      "sceneCutCount": 8,
+      "averageSceneDuration": 6.5,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Feature Highlight -> Price Comparison -> Recommendation",
-      "mainPurpose": "The video aims to promote a specific Mon Chateau brand faux fur blanket available at Costco. By leveraging Black Friday urgency and demonstrating the product's softness, size, and significant price drop (from 1119 to 889 TWD), the content seeks to drive store traffic and sales.",
-      "visualEmotion": "Energetic"
+      "narrativeStructure": "List-based: Hook -> Feature Presentation -> Price/Value Proposition",
+      "mainPurpose": "The video is a shopping vlog intended to promote a specific Black Friday deal at Costco for a 'MON CHATEAU' plush faux fur blanket. The creator uses high-energy vocal delivery and hands-on demonstrations to showcase the product's aesthetic quality and tactile softness, highlighting the limited-time discount price to drive purchase intent.",
+      "visualEmotion": [
+        "energetic",
+        "warm",
+        "informative"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
-        "Explicit",
-        "Full"
+        "Implicit",
+        "Integrated"
       ],
-      "endorsementCues": "Direct product demonstration, verbal price promotion, and specific store location targeting.",
+      "endorsementCues": "The creator is actively promoting a specific product available at Costco, mentioning the limited quantity and specific discounted price.",
       "endorsementObject": [
         "Costco",
-        "Mon Chateau"
+        "MON CHATEAU"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-speed shopping recommendation with persistent promotional text overlays.",
-      "freeDescribe": "Typical influencer-led 'shopping guide' content style common on platforms like TikTok or Reels, focusing on deals and product experience."
-    }
+    "freeDescribe": "Energetic social-media style shopping recommendation featuring high text density and rhythmic editing."
   }
 }

@@ -1,175 +1,271 @@
 {
   "videoName": "yga0721-20250904064433-1184984440075240.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 54,
-      "aspectRatio": "1:1",
-      "videoGenre": [
-        "Music",
-        "Performance",
-        "Cover"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "None"
+      "visual_narrative_log": "(1) A man with brown, slightly messy hair is shown in a close-up shot, facing a professional silver condenser microphone equipped with a black pop filter. He is wearing black Sony over-ear headphones. His expression is focused and emotional as he prepares to sing, standing against a simple teal curtain background that is softly lit. (2) The shot changes to a medium close-up, revealing more of his outfit: a dark pinstripe vest worn over a beige t-shirt. He begins to sing, his mouth moving in sync with the lyrics while he uses hand gestures near his chest to emphasize the emotional delivery. His eyes squint and his brow furrows deeply. (3) The editing switches between the tight close-up and the medium shot as the performance continues. The lighting remains consistent and bright throughout, typical of a studio setting. White subtitles appear at the bottom center of the frame, providing the text of the song he is performing. The camera is mostly static with minor handheld stabilization.",
+      "text_narrative_log": "(1) [Subtitle]: 來 你看著我的眼睛說. (2) [Subtitle]: 你從沒愛過我. (3) [Subtitle]: 再看著我的眼睛說. (4) [Subtitle]: 你一點都不難過. (5) [Subtitle]: 我雖然沒那麼懂事. (6) [Subtitle]: 但絕不攔你這一次. (7) [Subtitle]: 如果你說. (8) [Subtitle]: 想要回到有他在的城市. (9) [Subtitle]: 來 你看著我的眼睛說. (10) [Subtitle]: 你從沒愛過我. (11) [Subtitle]: 再看著我的眼睛說. (12) [Subtitle]: 你一點都不難過. (13) [Subtitle]: 我攥緊手裡的戒指. (14) [Subtitle]: 它本該有一個名字. (15) [Subtitle]: 如果你生日願望是. (16) [Subtitle]: 回到他身旁. (17) [Subtitle]: 我幫你這最後一次.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face"
         ],
-        "city": [
-          "None"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video begins with a front-facing close-up of a young man with brown hair singing into a silver condenser microphone. He is wearing professional over-ear headphones and a tan shirt with a pinstriped vest. His eyes are often closed, and his facial expressions convey deep sadness and emotion. (2) The shot cuts to a profile view from his right side. He continues singing, using subtle hand gestures to emphasize the lyrics. (3) The camera cuts back to the front view as he reaches the emotional peak of the song, his expression becoming more intense. (4) The sequence of front and side cuts continues until the end of the clip, where he finishes his phrase and the video fades.",
-      "audio_narrative_log": "(1) The audio starts with a melodic Mandopop ballad featuring acoustic guitar and piano. A male vocalist enters with a gentle, emotional tone. (2) As the song progresses, a soft drum beat and synthesized strings are added, increasing the energy. The vocalist's volume and intensity rise during the chorus section. (3) The song concludes with a final vocal phrase followed by a short melodic instrumental fade-out. No background noise or distracting SFX are present.",
-      "text_narrative_log": "(1) Functional Text: '來 你看著我的眼睛說' (Come, look into my eyes and say) - subtitle appearing at the bottom. (2) Functional Text: '你從沒愛過我' (You never loved me) - emotional lyric subtitle. (3) Functional Text: '再看著我的眼睛說' (Look into my eyes again and say). (4) Functional Text: '你一點都不難過' (You're not sad at all). (5) Functional Text: '我雖然沒那麼懂事' (Even though I'm not that sensible). (6) Functional Text: '但絕不攔你這一次' (But I definitely won't stop you this time). (7) Functional Text: '如果你說 想要回到有他在的城市' (If you say you want to return to the city where he is). (8) Functional Text: '我攥緊手裡的戒指' (I tighten the ring in my hand). (9) Functional Text: '它原本該有一個名字' (It should have had a name). (10) Functional Text: '如果你生日願望是 回到他身旁' (If your birthday wish is to return to his side). (11) Functional Text: '我幫你這最後一次' (I'll help you this one last time)."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 8,
-      "averageSceneDuration": 6.75,
-      "isNarrativeShift": false,
-      "mainActionFlow": "The video follows a consistent flow of a musical performance, alternating between two camera angles."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Head",
-        "Torso",
-        "Hands"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main male creator performing the song.",
-      "mainCharacterDescription": "A young Asian male with short brown hair, wearing a tan t-shirt, a dark pinstriped vest, and black Sony professional headphones."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main male creator performing in a studio setting.",
+        "mainCharacterDescription": "A young man with brown hair, wearing black Sony headphones and a dark pinstripe vest over a beige t-shirt."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
           "Studio"
         ],
-        "topography": [
+        "locationTopography": [
           "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A simple, solid-colored teal curtain background, providing a clean and focused studio environment with soft, diffused lighting.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
         ]
       },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A plain, draped light teal or blue curtain that serves as a clean, professional studio backdrop.",
-      "lightingStyle": "Soft studio lighting focused on the subject.",
-      "weather": "None",
-      "season": "None",
-      "editingPace": "Moderate",
-      "textOverlay": {
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Stabilized / gimbal movement"
+        ],
+        "shotSize": [
+          "Close-up",
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut"
+        ],
+        "visualRhythm": [
+          "Rhythm matched to music"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
         "density": "Medium",
-        "language": [
+        "textLanguage": [
           "Traditional Chinese"
         ],
         "isSubtitled": true
       },
-      "colorTone": "Muted and cinematic with slightly desaturated colors.",
-      "cameraWork": [
-        "Static",
-        "Cut-away"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Microphone",
-        "Headphones"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "SONY"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Melancholic and emotionally charged",
-        "pitch": "Medium",
-        "loudness": "Variable",
-        "speed": "Normal",
-        "speechDensity": "Continuous singing",
-        "language": [
-          "Mandarin"
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Microphone / lavalier mic",
+          "Headphones / earbuds"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Sony"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Mandopop Ballad",
-      "bgmBPM": 72,
-      "instrumentFamiliesAudible": [
-        "Strings",
-        "Keyboard",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Acoustic Guitar",
-        "Piano",
-        "Drums"
-      ],
-      "musicSourceType": [
-        "Copyrighted Song"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": true,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 4,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Ballad/Sentimental",
+          "Pop"
+        ],
+        "tempoBPM": 75,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Keyboard",
+          "String",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Piano",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 3
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 0,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 2,
+        "dynamicRange": 4,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio track opens with a male vocal singing in Mandarin, supported by a crisp piano instrumental. The vocal delivery is soulful and emotive, with a moderate pitch and clear articulation. The recording is pristine, characterized by a studio-clean silence with no ambient interference, indicating a high-fidelity capture environment. (2) As the song reaches the chorus, the vocal intensity swells with more projection and a wider pitch contour. A steady drum beat and synthesized string sections enter the mix, increasing the harmonic density. The singer’s breathiness adds texture to the emotional delivery, while the BGM maintains a consistent mid-tempo ballad pace. (3) The performance continues with high-energy vocal peaks where the singer belts with significant dominance. The interplay between the layered instrumental tracks and the primary vocal remains balanced and clear. There are no audible incidental noises or technical artifacts, maintaining a professional mastered quality throughout the timeline."
     }
   },
-  "high_inference_interpretations": {
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Music / Performance / MV"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 6,
+      "averageSceneDuration": 9.0,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Emotional Build-up -> Performance Peak -> Fade",
-      "mainPurpose": "To deliver a polished and emotionally resonant vocal performance of a popular ballad, showcasing the singer's talent and connecting with viewers through the shared experience of heartbreak.",
-      "visualEmotion": "Melancholic"
+      "narrativeStructure": "Linear: Intro -> Emotional Buildup -> Climax",
+      "mainPurpose": "The video serves as a high-quality vocal cover performance. It aims to showcase the artist's vocal ability and emotional range to an audience, likely for social media engagement or self-promotion, using professional studio equipment to ensure high production value.",
+      "visualEmotion": [
+        "warm",
+        "emotional",
+        "focused"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
       "endorsementMethod": [
         "None"
       ],
-      "endorsementCues": "The SONY logo on the headphones is visible but incidental to the studio setting.",
+      "endorsementCues": "Sony headphones and professional microphone are visible as functional studio gear, but no explicit promotional language or CTA is present.",
       "endorsementObject": [
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-quality studio audio sync with emotive facial close-ups.",
-      "freeDescribe": "The video emphasizes production quality and raw emotional expression, typical of professional music content creators on short-form video platforms."
-    }
+    "freeDescribe": "A clean, performance-centric video focused on vocal delivery and high-quality audio recording."
   }
 }

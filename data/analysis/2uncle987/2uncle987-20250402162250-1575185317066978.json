@@ -1,159 +1,271 @@
 {
   "videoName": "2uncle987-20250402162250-1575185317066978.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 33,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Dance",
-        "Comedy"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "Unknown"
+      "visual_narrative_log": "(1) In a brightly lit indoor room with a minimalist aesthetic, five young women are standing in a horizontal line. The central woman is wearing a black t-shirt with 'HAHABABY' text and light blue pants, while the others wear varying casual street-style outfits in black, white, and beige. They perform a synchronized dance movement involving placing their hands under their chins. Cartoon chicken heads with red combs appear above their heads. (2) The scene cuts rapidly between individual shots of the women. Each woman performs the same gesture: first a chin-tuck 'chicken' pose, then a 'banana' pose where they form a triangle with their hands above their heads. Yellow banana graphics float across the screen. (3) The entire group returns to the frame, continuing the dance. Suddenly, the synchronization breaks as they all burst into intense laughter. They begin to move chaotically, bumping into one another and leaning over in fits of giggles. (4) The setting shifts to a dressing room with large mirrors framed by vanity lights and racks of colorful clothes. The main woman in blue pants is seen practicing. Then, the group is shown in a narrow hallway area, attempting the dance again before collapsing into laughter, with one woman nearly falling over from laughing so hard. (5) A final shot shows one of the women in a black dress alone in the room, attempting the 'banana' pose before crouching down and covering her face while laughing hysterically.",
+      "text_narrative_log": "(1) [Logo]: HAHABABY. (2) [Subtitle]: 關於SOLO：I人覺得害怕. (3) [Subtitle]: 救我～～. [Variety]: 😂🤣🤣.",
+      "visual_human_presence": {
+        "totalHumanCount": 5,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 5,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 5,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face"
         ],
-        "city": [
-          "None"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video starts with five young women standing in a row in a bright, minimalist indoor room, performing a coordinated dance involving hand gestures like forming triangles above their heads and pointing to their mouths. (2) The scene transitions through several individual solo clips of each woman performing the same dance moves in the same room. (3) The group is shown together again, but the atmosphere becomes more chaotic as they start laughing, bumping into each other, and losing coordination. (4) The setting shifts to what appears to be a dressing room or studio area filled with clothing racks and mirrors, where they continue to dance and laugh together. (5) The final segment features one woman in a black dress standing alone, looking awkward and embarrassed while attempting the dance, with digital stickers and text appearing around her.",
-      "audio_narrative_log": "(1) A fast-paced, electronic dance track begins immediately, featuring a repetitive vocal hook that sounds like \"Chicken, Banana\" synchronized with the dance movements. (2) As the video progresses into the chaotic group shots and dressing room scenes, the music remains at a high volume, but it is layered with the sounds of several women laughing loudly and shouting excitedly. (3) In the final segment, the music continues but the soundscape is dominated by high-pitched laughter and playful screams from off-screen, emphasizing the comedic nature of the solo performance.",
-      "text_narrative_log": "(1) Functional Text: \"關於SOLO：I人覺得害怕\" appears at the top, which translates to \"Regarding SOLO: I-person (introvert) feels scared,\" setting a humorous context for the ending. (2) Decorative Text: Multiple \"救我~~~\" (Save me~~~) captions appear around the character in the final scene, paired with laughing-crying emojis 🤣 to emphasize her staged embarrassment. (3) Decorative Text: Floating banana 🍌 and chicken 🐥 emojis appear throughout the video to match the lyrics and dance theme."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 18,
-      "averageSceneDuration": 1.83,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Structured Group Dance -> Individual Solos -> Chaotic Behind-the-scenes -> Comedic Solo Outro"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 5,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 5,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 5,
-      "bodyPartVisibility": [
-        "Full body",
-        "Waist up"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "5 main female creators performing together in a studio setting.",
-      "mainCharacterDescription": "Five young women wearing casual streetwear including black t-shirts, beige overalls, a beanie, a beret, and light blue track pants."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Room",
-          "Dressing Room",
-          "Studio"
+        "crowdLevel": [
+          "Small Group"
         ],
-        "topography": [
-          "None"
+        "countingEvidence": "5 young women acting as a dance group.",
+        "mainCharacterDescription": "Five young women in trendy casual wear, including oversized t-shirts (one with 'HAHABABY' branding), light blue track pants, ruffled dresses, and denim skirts."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home",
+          "Studio",
+          "Stage / Performance Venue"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A simple room with white walls, a wooden vintage-style cabinet, two bright yellow plastic chairs, and a small potted plant. Another scene features a professional dressing room with vanity mirrors and garment racks.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
         ]
       },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A minimalist white room with a wooden cabinet and yellow chairs, transitioning to a cluttered studio dressing room with clothing racks and lighted makeup mirrors.",
-      "lightingStyle": "Bright studio lighting",
-      "weather": "None",
-      "season": "None",
-      "editingPace": "Fast",
-      "textOverlay": {
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Panning"
+        ],
+        "shotSize": [
+          "Full shot",
+          "Medium shot",
+          "Medium full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Meme-style edit"
+        ],
+        "visualRhythm": [
+          "Rhythm matched to music"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
         "density": "Medium",
-        "language": [
-          "Traditional Chinese"
+        "textLanguage": [
+          "Traditional Chinese",
+          "Emoji / Symbols"
         ],
-        "isSubtitled": false
+        "isSubtitled": true
       },
-      "colorTone": "Natural and Bright",
-      "cameraWork": [
-        "Static",
-        "Handheld"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "HAHA BOY"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "Medium"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 5,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 5,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited, humorous, and energetic",
-        "pitch": "High",
-        "loudness": "High",
-        "speed": "Normal",
-        "speechDensity": "Occasional shouting and laughter",
-        "language": [
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Cartoon / animated animal"
+        ],
+        "foodsDetect": [
+          "Fruit",
+          "Cartoon / animated Food"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Lighting equipment / ring light"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "HAHABABY"
+        ],
+        "instrumentsVisible": [
           "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Copyrighted Song"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Laughter"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Field"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 5,
+        "total_distinct_voices": 6,
+        "male_vocal_count": 1,
+        "female_vocal_count": 5,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 5,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 3
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Comedic/Exaggerated"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 3,
+        "intonationAndContour": [
+          "Rising"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 9,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM",
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 1,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "English"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 5,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Meme/Comedy"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter",
+          "Screaming/Yelling"
+        ],
+        "crowdNoiseIntensity": 4,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Footsteps",
+          "Object Impact / Thud / Drop",
+          "Clothing / Fabric Rustle"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Meme SFX"
+        ],
+        "soundEffectsIntensity": 2,
+        "soundEffectsCoverage": 1
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 2,
+        "vocalRatio": 3,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 5,
+        "speechMusicOverlap": 3,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a repetitive, high-energy electronic loop. A male voice clearly articulates 'Chicken' followed by a percussive snare hit, then 'Banana' followed by another hit. This sequence repeats with high spectral brightness. (2) Suddenly, the rhythmic track is overlaid by a loud burst of collective female laughter. The laughter is high-pitched and genuine, creating a high-arousal acoustic environment. (3) The laughter intensifies, becoming a chaotic mix of giggles and squeals, with audible footsteps and soft thudding sounds suggesting physical movement. One female voice stands out with a particularly sharp, staccato laugh. (4) The music continues as a bed while a single female voice shouts 'Jiu wo!' in a high, melodic rising tone, followed by more loud giggling and a muffled impact sound before the track ends abruptly."
     }
   },
-  "high_inference_interpretations": {
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Meme / Trend",
+        "Dance"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 12,
+      "averageSceneDuration": 2.75,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Demonstration -> Chaos -> Outro Joke",
-      "mainPurpose": "The video is a social media entertainment clip designed to showcase the camaraderie and personality of a group of female creators. It utilizes a popular 'Chicken Banana' dance challenge to engage viewers, moving from a polished performance to a relatable 'behind-the-scenes' chaotic vibe, and finally concluding with a joke about introverted personality types (I-persons) feeling awkward in solo situations.",
-      "visualEmotion": "Energetic and Humorous"
+      "narrativeStructure": "Montage: Action -> Reaction -> Solo Blooper",
+      "mainPurpose": "To showcase a humorous, behind-the-scenes montage of a group of friends attempting a viral 'Chicken-Banana' dance challenge, emphasizing their genuine laughter and playful group dynamic.",
+      "visualEmotion": [
+        "humorous",
+        "energetic",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -161,14 +273,11 @@
         "Implicit",
         "Integrated"
       ],
-      "endorsementCues": "The participants are all wearing apparel with the clearly visible 'HAHA BOY' branding, suggesting a lifestyle or merchandise promotion.",
+      "endorsementCues": "The central performer and creator is prominently wearing her own brand's apparel ('HAHABABY').",
       "endorsementObject": [
-        "HAHA BOY"
+        "HAHABABY"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Usage of MBTI-related humor (I-person) and the 'HAHA BOY' brand identity.",
-      "freeDescribe": "The video relies heavily on the 'realtionality' of the creators, contrasting their professional dance execution with their messy, fun-loving reality to build community rapport."
-    }
+    "freeDescribe": "A high-energy, humor-focused dance challenge video that pivots from a choreographed performance to raw, authentic group bloopers."
   }
 }

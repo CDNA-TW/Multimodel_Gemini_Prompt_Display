@@ -1,157 +1,259 @@
 {
   "videoName": "3ctim-20251229204009-1493581312334637.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 24,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Unboxing",
-        "Product Review",
-        "ASMR"
-      ],
+      "videoDuration": 23.3,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) The video begins with a middle-aged male character wearing a grey flat cap and glasses, leaning over a grey rectangular box. He performs rhythmic tapping with both hands on the box lid, his fingers making direct contact with the surface while he maintains a focused facial expression. The background is a plain, neutral-toned wall with bright indoor lighting. (2) The man lifts the lid of the box, revealing a smartphone and several smaller compartments inside. He removes a thin black sleeve and holds it up toward the camera, showing a series of illustrations on its surface. He gestures with his hands to emphasize the contents of the box while maintaining a steady gaze. (3) The character picks up a black charging brick wrapped in protective plastic. He proceeds to peel the clear plastic film off the object with his fingers, showcasing the glossy texture underneath. He then places the accessory aside on the table surface. (4) The scene shifts to a close-up of the character holding a black folding smartphone. He demonstrates the folding mechanism by opening and closing the multiple screen segments, his fingers carefully manipulating the hinges. He looks at the device with a slight smile, then holds the fully folded phone up to the camera to show its triple-lens camera array.",
+      "text_narrative_log": "(1) [Slogan]: Galaxy Z TriFold ASMR. [Slogan]: 三星摺疊機開箱. [Variety]: (敲敲打打). (2) [Variety]: (說明書). (3) [Variety]: (???). (4) [Variety]: (好清脆的聲音).",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main creator wearing a flat cap and glasses.",
+        "mainCharacterDescription": "A middle-aged man wearing a grey patterned flat cap, black glasses, and a dark blue sweatshirt with white 'ROOTS' branding. He wears a beaded bracelet on his right wrist."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A minimalist indoor setting featuring a plain white or light grey wall. The foreground has a dark wood-textured table where the unboxing occurs.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Charging accessory / cable"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "SAMSUNG",
+          "ROOTS"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 2,
+        "pitchVariability": 1,
+        "intensityAndLoudness": 1,
+        "speechRate": 2,
+        "speechPauseDensity": 4
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Calm"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": true,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 3,
+        "intonationAndContour": [
+          "Level"
+        ],
+        "speakingRisingRatio": 1,
+        "speakingFallingRatio": 1
+      },
+      "vocal_affective": {
+        "arousal": 2,
+        "valence": 5,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Object Impact / Thud / Drop",
+          "Plastic / Bag Rustle",
+          "Mechanical Click / Latch",
+          "Clothing / Fabric Rustle"
+        ],
+        "incidentalNoiseIntensity": 4,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 5,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 1,
+        "vocalRatio": 1,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": true,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with high-frequency percussive thuds as fingers tap rapidly on a cardboard surface, creating a rhythmic, hollow acoustic signature. No music is present. A very faint human 'shush' or breathy exhale is heard between the beats, maintaining a low-arousal atmosphere. (2) A sharp friction sound occurs as the box lid is lifted, followed by the rustling of paper or thin cardboard. The spectral brightness increases during these tactile events. The male character remains silent, focusing the listener's attention entirely on the textures of the packaging material being handled. (3) Intense high-frequency crinkling sounds dominate as plastic film is peeled off a solid object. The transient events are sharp and frequent, suggesting a close microphone placement. Small metallic or hard plastic clicks are audible as items are placed back onto the wooden surface, echoing slightly. (4) Distinct, crisp mechanical clicks with a mid-range frequency spike signify the folding and unfolding of a smartphone hinge. These 'snap' sounds are clear and deliberate. The phase ends with a soft rustling of fabric as the character adjusts his position, followed by complete studio silence."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "ASMR / Sensory",
+        "Tech Review"
+      ],
       "location": {
         "country": [
           "Unknown"
         ],
         "city": [
-          "None"
+          "Unknown"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A middle-aged man wearing a grey flat cap and glasses sits behind a wooden table, tapping on a large grey box. (2) He opens the box to reveal a smaller black package inside, which he removes and sets aside. (3) He proceeds to take out a thin black box (manual), then a black power adapter, stripping off its plastic wrapping with a quick gesture. (4) Finally, he picks up a black foldable smartphone, opening it completely to show the large screen, then closing it to reveal the back camera setup, ending with a smile toward the camera.",
-      "audio_narrative_log": "(1) Low-pitched, rhythmic tapping sounds on cardboard. (2) Shuffling and thudding sounds as cardboard boxes are moved and opened. (3) High-pitched crinkling sound of plastic being torn and removed from an object. (4) Sharp, crisp 'snap' and 'click' sounds as the foldable phone mechanism is engaged and closed. No vocals detected throughout.",
-      "text_narrative_log": "(1) 'Galaxy Z TriFold ASMR 三星摺疊機開箱' (Hook text - informative and promotional). (2) '(敲敲打打)' (Decorative text - describes tapping sounds). (3) '(說明書)' (Functional text - labels the manual). (4) '(?)' (Decorative text - humorous confusion). (5) '(很清脆的聲音)' (Decorative text - describes the crisp sound). (6) '(好清脆的聲音)' (Decorative text - emphasizing the crisp sound)."
     },
     "temporal_pacing_summary": {
-      "sceneCutCount": 11,
-      "averageSceneDuration": 2.18,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Intro -> Box Opening -> Component Reveal -> Product Showcase"
+      "sceneCutCount": 14,
+      "averageSceneDuration": 1.66,
+      "editingPace": "Fast",
+      "isNarrativeShift": false
     },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main male creator presenting the product.",
-      "mainCharacterDescription": "A middle-aged man with glasses and a grey flat cap, wearing a dark blue sweatshirt with 'ROOTS' branding and a wooden bead bracelet."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Studio"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A plain, minimalist white/light grey studio background with a wooden tabletop in the foreground.",
-      "lightingStyle": "Bright studio lighting",
-      "weather": "Indoor",
-      "season": "Unknown",
-      "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "Medium",
-        "language": [
-          "Chinese",
-          "English"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone",
-        "Charger"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Samsung",
-        "ROOTS"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Fragmented",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "Low"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 0,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "None",
-        "pitch": "None",
-        "loudness": "None",
-        "speed": "None",
-        "speechDensity": "None",
-        "language": [
-          "None"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": false,
-      "bgmGenre": "No Music",
-      "bgmBPM": 0,
-      "instrumentFamiliesAudible": [
-        "None"
-      ],
-      "instrumentsAudible": [
-        "None"
-      ],
-      "musicSourceType": [
-        "None"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Reveal -> Product Demo",
-      "mainPurpose": "The video is an ASMR-style product unboxing designed to highlight the tactile and auditory experience of handling the Samsung Galaxy Z TriFold. By omitting spoken commentary, the creator focuses the viewer's attention entirely on the physical quality and mechanisms of the device, creating a satisfying and immersive 'first-look' experience.",
-      "visualEmotion": "Calm and curious"
+      "narrativeStructure": "Linear: Hook -> Evidence -> Product Reveal",
+      "mainPurpose": "The video serves as a high-fidelity ASMR unboxing of the Samsung Galaxy Z TriFold. It focuses on the tactile and auditory experience of opening a new tech product, highlighting the sounds of cardboard, plastic, and mechanical hinges to appeal to tech enthusiasts and ASMR audiences.",
+      "visualEmotion": [
+        "informative",
+        "calm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -159,14 +261,11 @@
         "Implicit",
         "Integrated"
       ],
-      "endorsementCues": "Detailed showcase of the phone's design and hardware features.",
+      "endorsementCues": "The video explicitly names and showcases the Samsung Galaxy Z TriFold, focusing on its unique folding hardware features in a professional presentation style.",
       "endorsementObject": [
-        "Samsung"
+        "Samsung Galaxy Z TriFold"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "ASMR style unboxing with on-screen text commentary.",
-      "freeDescribe": "The focus is purely on the hardware's sound and physical form."
-    }
+    "freeDescribe": "A classic tech-focused ASMR short form video using high-quality foley sounds to enhance product appeal."
   }
 }

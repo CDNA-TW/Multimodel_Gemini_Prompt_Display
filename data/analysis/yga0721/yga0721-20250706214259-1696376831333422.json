@@ -1,170 +1,280 @@
 {
   "videoName": "yga0721-20250706214259-1696376831333422.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 73,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Promotion",
-        "Music"
-      ],
+      "videoDuration": 68.32,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) The scene opens in a brightly lit room with white brick walls. A man wearing a white beanie and a light blue sweatshirt with a cartoon graphic stands next to a woman in a blue camouflage jacket. They are positioned in front of a person wearing a large, smiling orange mask with blue hair who is seated in a red chair. (2) The room is filled with glass display cases containing various anime figurines, notably characters from Dragon Ball. The man in the beanie is animated, talking with his hands and pointing towards the masked figure. White text overlays appear on the screen to emphasize certain words. (3) The camera cuts to a medium shot of the man in the beanie, then back to include the woman and the masked person. The woman claps her hands enthusiastically. (4) A different man, wearing a black shirt and large white headphones, is shown sitting at a desk with a professional microphone and a cup of coffee. He claps his hands together in a studio-like setting. (5) A montage begins with a woman in a white dress playing a dark brown bass guitar inside a concrete tunnel with bright overhead lights. (6) The montage continues showing a woman smiling in a garden with pink flowers, followed by two young women in Japanese-style school uniforms walking and running along a grassy embankment next to a river under a cloudy sky. (7) The video concludes with a black screen featuring white and red Chinese text and numbers indicating dates.",
+      "text_narrative_log": "(1) [Subtitle]: 要來跟我們這個榮譽董事長. [Variety]: 榮譽董事長. (2) [Subtitle]: 報告一件事情啊. (3) [Subtitle]: 之前有一個樂團7月半. (4) [Subtitle]: 歌很好聽. (5) [Subtitle]: 但傳唱不夠是因為為什麼呢. (6) [Subtitle]: 沒有MV啊!!. (7) [Subtitle]: 給我們這些大頭佛的同仁們啊. (8) [Subtitle]: 練習一下還不錯. (9) [Subtitle]: 剛好可以分個三組. (10) [Subtitle]: 拍三支MV回來. (11) [Subtitle]: 跟這個佛姐報告一下. (12) [Subtitle]: 可以可以可以. (13) [Subtitle]: 珊佑一支. (14) [Subtitle]: 飄飄一之選. (15) [Subtitle]: 三位女主角. (16) [Subtitle]: 然後有三位攝影師. (17) [Subtitle]: 三位攝影師. (18) [Subtitle]: 統計24小時. (19) [Subtitle]: 誰的點閱率最高. (20) [Subtitle]: 獎金一人再發一萬. (21) [Subtitle]: 精彩！. (22) [Subtitle]: 我三部MV全部看完了. (23) [Subtitle]: 很棒吧. (24) [Subtitle]: 我只能說這個主角肯定就是. (25) [Subtitle]: 究竟哪一組的點閱 24小時內會獲勝. (26) [Subtitle]: 愛是什麼. (27) [Subtitle]: 你聽見我了沒有. (28) [Subtitle]: 怎麼就. (29) [Subtitle]: 6/24.25.26 正式首播.",
+      "visual_human_presence": {
+        "totalHumanCount": 7,
+        "maleDetectAmount": 3,
+        "femaleDetectAmount": 4,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Full body",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 man in beanie, 1 woman in camo, 1 masked person, 1 man in black shirt, 3 women in the music video montage.",
+        "mainCharacterDescription": "A man in a white beanie and light blue Lacoste sweatshirt; a woman in a blue camouflage print jacket."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home",
+          "Studio",
+          "Outdoor Street",
+          "Park / Garden"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban",
+          "River / Creek",
+          "Urban High-rise / Skyline"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A hobby room with extensive collections of Dragon Ball Z and other anime figurines in glass cases; a professional podcast studio; a concrete tunnel; a garden with pink flowers; a riverbank with stairs.",
+        "lightingStyle": [
+          "Bright indoor lighting",
+          "Natural daylight"
+        ],
+        "weather": [
+          "Cloudy / Overcast"
+        ],
+        "season": [
+          "Summer"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Handheld",
+          "Panning"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Low angle"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Montage",
+          "Graphic transition"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Coffee"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Microphone / lavalier mic",
+          "Headphones / earbuds",
+          "Desktop computer / monitor"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Lacoste"
+        ],
+        "instrumentsVisible": [
+          "Electric Bass"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 3,
+        "male_vocal_count": 2,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Rock/Metal",
+          "Anime/J-Pop"
+        ],
+        "tempoBPM": 145,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 0,
+        "female_singer_count": 1,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "Traditional Chinese"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "String",
+          "Percussion",
+          "Electronic"
+        ],
+        "instrumentsAudible": [
+          "Electric Guitar",
+          "Electric Bass",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 3
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter",
+          "Applause"
+        ],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Impact / Hit SFX",
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Stingers"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with high-energy, fast-paced Mandopop/Rock BGM. A male voice with high arousal and a bright tone speaks quickly, explaining a plan. (2) A sharp 'ding' sound effect underscores the mention of the masked 'Honorary Chairman'. (3) Laughter and the sound of hands clapping are heard as the woman reacts to the man's announcement. (4) The audio transitions seamlessly into a full musical track featuring a female vocalist singing a high-energy J-rock style song with prominent electric guitar riffs and a driving drum beat. (5) Fast whoosh sounds occur during quick visual transitions in the montage of music videos. (6) The music builds to a peak and cuts abruptly to a short musical stinger as the final text screen appears."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Entertainment",
+        "Promotion / Advertisement / Indoresment",
+        "Music / Performance / MV"
+      ],
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "Unknown"
+          "None"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video begins in a room filled with glass display cases packed with anime action figures. A man in a white Lacoste sweatshirt and a woman in a blue camouflage jacket are talking to a person wearing a large, cartoonish Great Buddha mask sitting in a red chair. (2) The man in white is very animated, gesturing frequently as he speaks. He points to graphics on the screen representing band members and MV concepts. (3) The scene shifts to a man in a black shirt wearing large headphones in a studio-like environment, watching a monitor. (4) A rapid montage follows, showing a young woman playing a black electric bass in a concrete tunnel, the same woman smiling in a garden with pink flowers, and then walking with another girl both dressed in Japanese-style school uniforms.",
-      "audio_narrative_log": "(1) The audio starts with a high-energy, fast-paced male voice speaking in Mandarin, accompanied by rhythmic, upbeat background music. Occasional laughter and brief responses from a woman and a deeper male voice are heard. (2) Sound effects including cheering crowds and applause are layered over the dialogue. (3) The audio then transitions into a full musical track, a pop-rock song featuring a female vocalist singing in Mandarin. (4) The song remains the dominant audio layer through the rest of the video, ending with a final drum beat.",
-      "text_narrative_log": "(1) Functional text provides subtitles for the spoken dialogue regarding a plan for the band '7月半'. (2) Decorative hook text in large, bold, or colorful fonts appears frequently: '沒有MV啊!!' (No MV!!), '三位女主角' (Three female leads), '獎金一人再發一萬' (Bonus of 10,000 for each person) accompanied by energetic graphics. (3) During the music montage, functional subtitles display the song's lyrics such as '愛是什麼' (What is love) and '你聽見我了沒有' (Have you heard me)."
     },
     "temporal_pacing_summary": {
-      "sceneCutCount": 28,
-      "averageSceneDuration": 2.6,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro/Announcement -> Challenge/Hook -> Music Video Teaser Montage"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 6,
-      "maleDetectAmount": 3,
-      "femaleDetectAmount": 3,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Head and shoulders"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 main male host, 1 female co-host, 1 masked participant, 1 male judge/technician, 2 female MV actresses.",
-      "mainCharacterDescription": "An Asian male with short brown hair wearing a white Lacoste sweatshirt and a white beanie. An Asian female with long dark hair wearing a blue camouflage pattern jacket."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Studio",
-          "Indoor Office",
-          "Outdoor Park",
-          "Tunnel"
-        ],
-        "topography": [
-          "Plain"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "An indoor room densely packed with anime collectibles and figurines in glass cases. Outdoor settings include a road inside a concrete tunnel and a park with cherry blossom trees and a lake.",
-      "lightingStyle": "Bright studio lighting for indoor scenes and natural sunlight for outdoor shots.",
-      "weather": "Sunny",
-      "season": "Spring",
+      "sceneCutCount": 22,
+      "averageSceneDuration": 3.1,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Bright and Saturated",
-      "cameraWork": [
-        "Static",
-        "Follow shot",
-        "Handheld"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone",
-        "Headphones",
-        "Microphone",
-        "Computer Mouse"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Lacoste",
-        "28+PAY"
-      ],
-      "instrumentsVisible": [
-        "Bass Guitar"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Fragmented",
-      "audioTransition": "Hard cut and Cross-fade",
-      "vocalRatio": "Medium"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 4,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 3,
-          "female_vocal_count": 2,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited, energetic, and promotional",
-        "pitch": "Medium-High",
-        "loudness": "Loud",
-        "speed": "Fast",
-        "speechDensity": "Continuous",
-        "language": [
-          "Traditional Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Pop Rock",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Strings",
-        "Percussion",
-        "Electronic"
-      ],
-      "instrumentsAudible": [
-        "Electric Bass",
-        "Drums",
-        "Electric Guitar"
-      ],
-      "musicSourceType": [
-        "Copyrighted Song"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Cheering",
-        "Applause",
-        "Meme sounds"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Proposition -> Teaser Showcase",
-      "mainPurpose": "The video serves as a high-energy promotional piece for the band '7月半'. It announces a competition involving three different versions of a music video, challenging viewers to watch them and see which one gets the most views within 24 hours, while promising cash rewards for participants.",
-      "visualEmotion": "Energetic and Exciting"
+      "narrativeStructure": "Linear: Hook -> Explanation -> Montage -> Call to Action",
+      "mainPurpose": "The video serves as a promotional announcement for a competition where three different production crews film music videos for a band. The 'Chairman' figure is asked for permission, and a prize of 10,000 TWD is offered for the group with the most views in 24 hours.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "enthusiastic"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -172,14 +282,11 @@
         "Explicit",
         "Full"
       ],
-      "endorsementCues": "The host explicitly mentions the band name and promotes their upcoming music video content with a call to action.",
+      "endorsementCues": "The video explicitly names and shows the release dates for new music videos.",
       "endorsementObject": [
         "7月半"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-speed Mandarin narration, signature use of a Buddha mask, variety-show style editing.",
-      "freeDescribe": "The video utilizes a typical 'creator collaboration' vibe, combining vlog elements with professional music production teasers."
-    }
+    "freeDescribe": "The video utilizes a high-density editing style characteristic of YouTube vloggers, blending comedy with cross-channel promotion for a music project."
   }
 }

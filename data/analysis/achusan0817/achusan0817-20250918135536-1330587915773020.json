@@ -1,175 +1,281 @@
 {
   "videoName": "achusan0817-20250918135536-1330587915773020.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 46,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Animation",
-        "Humorous",
-        "Life Story"
-      ],
+      "videoDuration": 45,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": false,
+      "visual_narrative_log": "(1) The scene is a 2D animation with a blue background. A bald character with glasses and a small beard walks from left to right while holding a blue phone to his ear. He passes various storefronts including a fried chicken shop with a red sign. (2) The background changes to a street at night as the character passes a stall with a yellow awning and red text. (3) The scene shifts to the exterior of a McDonald's restaurant with its iconic red and yellow logo. (4) The character is seen indoors in front of a shelf filled with small monster-like figurines. He looks directly at the camera with a neutral expression. (5) A transition occurs with text stating 'a few months later'. The character is now in a living room with a brown couch and a TV. Another character with dark hair and a green shirt enters. (6) The dark-haired character looks shocked with wide eyes and open mouth. The bald character is shown with an extremely large, rounded belly. (7) A close-up shot focuses on the character's distended belly, showing the skin stretched and an 'X' marking the navel. (8) The two characters are in an office-like setting with a computer monitor. The dark-haired character leans in with a smug expression while the bald character looks annoyed and angry. (9) Large yellow and white text overlays the bald character's face at the end.",
+      "text_narrative_log": "(1) [Logo]: 阿啾小劇場. [Slogan]: 當朋友想說你胖但又不明說. [Slogan]: 完整影片在Youtube. (2) [Subtitle]: 學長 我要去你那裡了喔. [Subtitle]: 要幫你帶雞排嗎? [Subtitle]: 不用 你吃就好. (3) [Subtitle]: 學長 我要過去你家了. [Subtitle]: 要不要吃旁邊那間鹽水雞? [Subtitle]: 不用喔 你吃就好. (4) [Subtitle]: 欸 學長 等等要不要吃麥當勞? [Subtitle]: 大麥克買一送一耶. [Subtitle]: 欸 你吃就好了. (5) [Subtitle]: 就這樣 每次去學長家 都會帶宵夜過去吃. [Subtitle]: 過了幾個月之後. (6) [Subtitle]: 早安 提拉. [Subtitle]: 早安啊. [Subtitle]: 為什麼... [Subtitle]: 幹嘛? [Subtitle]: 為什麼你會懷孕! (7) [Subtitle]: 好 結果我那幾個月直接爆肥. [Subtitle]: 體重來到人生的最巔峰. (8) [Subtitle]: 肚子直接超大一個. [Subtitle]: 天啊 好久沒照鏡子. [Subtitle]: 肚子真的變超大一個的啦. (9) [Subtitle]: 這個大小 恭喜你們 喜提雙胞胎. [Subtitle]: 不要吵啦. (10) [Subtitle]: 沒事啦 就是幸福肥啊. [Subtitle]: 談戀愛一定會這樣子的啦. [Subtitle]: 哎油 很正常啦 不要放在心上. [Subtitle]: 以後多 豬 意飲食就好了啊. [Subtitle]: 不要一直話中帶話. (11) [Subtitle]: 可是學長身材還是維持得很好耶. [Subtitle]: 那你要檢討. (12) [Variety]: 要檢討.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Face close-up",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "Two distinct animated male characters appear throughout the video.",
+        "mainCharacterDescription": "One character is bald with glasses and a small beard; the other has short dark hair and wears a green shirt."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Outdoor Street",
+          "Indoor Living Room",
+          "Office / Workplace",
+          "Animation / Graphic Background"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The video uses various flat-colored animated backgrounds including a city street with shops, a simple living room with a couch and TV, and a desk area with a monitor.",
+        "lightingStyle": [
+          "Flat animation lighting"
+        ],
+        "weather": [
+          "Weather not applicable"
+        ],
+        "season": [
+          "Not applicable"
+        ],
+        "colorTone": [
+          "Animation vivid colors"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Panning"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Fast cuts",
+          "Graphic transition"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Fast food / burger / fries / pizza"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Desktop computer / monitor"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "McDonald's"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 2,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Comedic/Exaggerated",
+          "Sarcastic/Teasing"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 6,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 125,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 2,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 0,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Cartoon / Comedy SFX",
+          "Impact / Hit SFX",
+          "Digital UI SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": true,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with high-pitched, energetic male speech over a bouncy, synthesized comedy BGM. The rhythm is fast and synchronized with the character's walking. (2) A sudden loud 'shock' SFX with high spectral brightness occurs when a character reveals his large belly. The BGM stops briefly for emphasis. (3) The BGM resumes with the same upbeat tempo as the narration continues in a casual but slightly strained voice. (4) The second voice enters, characterized by a lower pitch and a sarcastic, teasing tone. The interaction is rapid, with voices overlapping the music. (5) A final high-pitched 'ping' or digital UI sound effect accompanies the appearance of emphasis text at the very end."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Animation",
+        "Storytelling"
+      ],
       "location": {
         "country": [
-          "Unknown"
+          "Taiwan"
         ],
         "city": [
           "None"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) Non-live action animation starts. A bald male character is seen holding a smartphone standing in front of various food stalls like a fried chicken shop and a salty chicken shop. (2) He repeatedly calls a black-haired male character, asking if he wants food, but the other person refuses. (3) A screen transition appears with text indicating a time jump of a few months. The bald character is now shown indoors and has become significantly obese. (4) The black-haired character enters the frame and looks shocked. The bald character looks at himself in a mirror with a surprised expression. (5) The two talk while standing in a living room, with the camera zooming into the senior's face as he makes subtle comments.",
-      "audio_narrative_log": "(1) Upbeat and quirky background music plays throughout. A high-pitched male voice (narrator/bald character) speaks energetically. (2) Dialogue occurs between the high-pitched male voice and a calmer, deeper male voice (the senior). (3) Sound effects like phone ringing, transition 'whooshes', and an exaggerated impact sound play when the senior realizes the character has gained weight. (4) The music remains consistent in tempo while the voices carry the comedic timing of the jokes.",
-      "text_narrative_log": "(1) Functional Text: '學長 我要去你那裡了喔' (Senior, I'm going to your place now) - Neutral tone. (2) Decorative Text: '阿啾小劇場' (Ah Chu's Little Theater) - Brand title. (3) Hook Text: '當朋友想說你胖但又不明說' (When a friend wants to say you're fat but doesn't say it clearly) - Humorous tone at bottom. (4) Decorative Text: '要檢討' (Need to reflect/examine) - Emphasizing the senior's final judgmental comment."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 18,
-      "averageSceneDuration": 2.5,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Fast-paced montage of buying food -> Time jump -> Dialogue about weight gain."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 2,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Head and shoulders"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "2 main animated male characters, no background crowds visible.",
-      "mainCharacterDescription": "One bald male character wearing a black shirt (Ah Chu) and one black-haired male character in a green t-shirt (Senior)."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Outdoor Street",
-          "Indoor Living Room"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "Street stalls with signs like '大G排', '鹽水G', and a 'McDonald's' storefront. Later, a simple indoor living room with a TV and sofa.",
-      "lightingStyle": "Bright, even animated lighting",
-      "weather": "Unknown",
-      "season": "Unknown",
+      "sceneCutCount": 14,
+      "averageSceneDuration": 3.2,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "High Saturation",
-      "cameraWork": [
-        "Static",
-        "Zoom"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Fried Chicken",
-        "Fast Food"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "McDonald's"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut with SFX",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 2,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Humorous and expressive",
-        "pitch": "Mix of high and medium",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat",
-      "bgmBPM": 125,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drums"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Whoosh",
-        "Phone sound",
-        "Impact SFX"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Setup -> Growth -> Climax/Punchline",
-      "mainPurpose": "To entertain the audience through a comedic animated skit about the unintended consequences of eating too much late-night food and the awkward social interactions that follow weight gain.",
-      "visualEmotion": "Humorous"
+      "narrativeStructure": "Linear: Setup -> Inciting Incident -> Climax -> Resolution",
+      "mainPurpose": "To entertain the audience with a relatable comedic story about gaining weight and the subtle, teasing ways friends comment on it.",
+      "visualEmotion": [
+        "humorous",
+        "energetic",
+        "annoyed"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
       "endorsementMethod": [
         "None"
       ],
-      "endorsementCues": "McDonald's and other food stalls are used as narrative props rather than products being actively promoted.",
+      "endorsementCues": "None",
       "endorsementObject": [
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Distinctive 'Ah Chu' character design and fast-talking comedic style.",
-      "freeDescribe": "The video relies heavily on cultural nuances regarding politeness and physical appearance in friendships."
-    }
+    "freeDescribe": "The video uses a distinctive 2D art style common in Taiwanese web animations to deliver quick comedic beats."
   }
 }

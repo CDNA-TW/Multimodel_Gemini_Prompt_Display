@@ -1,171 +1,272 @@
 {
   "videoName": "khshu_-20250702072023-2258782991613101.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 15,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Comedy",
-        "Dance"
-      ],
+      "videoDuration": 15.3,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) Three young women stand in a snowy landscape in front of a modern glass building. They are dressed in light fitness wear: the left in a blue long-sleeved top and grey leggings, the center in a white crop top and white sweatpants with a white beanie, and the right in a grey top and black skirt. They hold heavy ski jackets and boots while posing under a bright, clear sky. (2) A fast match-cut transition occurs where the women instantly appear in full ski gear. The left woman wears a black and white jumpsuit, the center wears a light olive-green ski suit, and the right wears a dark green ski suit. They cross their arms and pose confidently for the camera. (3) As the women begin a synchronized dance with rhythmic arm movements, a man wearing a turquoise ski jacket and helmet walks directly across the foreground, momentarily obstructing the view. The women stop their dance, looking toward him with surprised and awkward expressions. (4) After the man passes, large variety text overlays appear on the screen. The women immediately resume their high-energy dance routine, smiling and performing hand gestures in sync with the rhythm while standing on the deep snow.",
+      "text_narrative_log": "(1) [Subtitle]: 先生...我們在錄影喔. (2) [Variety]: (尷尬....). (3) [Subtitle]: 管他的繼續跳.",
+      "visual_human_presence": {
+        "totalHumanCount": 6,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 4,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 3,
+        "bodyPartVisibility": [
+          "Full body"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "3 main female creators, 1 male passer-by, and approximately 2 distant figures in the background.",
+        "mainCharacterDescription": "Three young women in their 20s. Initially dressed in tight-fitting athletic wear (blue, white, and grey). Later transition into professional, colorful ski suits (black/white, sage green, and forest green) with warm headwear."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Outdoor Street",
+          "Tourist Attraction / Landmark"
+        ],
+        "locationTopography": [
+          "Snowfield / Arctic",
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A flat, open snow-covered plaza in front of a large, modern resort building with expansive glass windows and a dark wood-paneled roofline. Distant figures can be seen standing near the building entrance.",
+        "lightingStyle": [
+          "Natural daylight"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Winter"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Match cut",
+          "Jump cut",
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Rhythm matched to music"
+        ],
+        "takeStructure": [
+          "Compilation / montage sequence"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 4
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Casual",
+          "Humorous"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Level"
+        ],
+        "speakingRisingRatio": 2,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 7,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM",
+          "Phonk/Brazilian Funk"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Minor / Aeolian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 0,
+        "female_singer_count": 1,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "English"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 2,
+        "beatStrength": 5,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 3
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Nature/Outdoor"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Impact / Hit SFX",
+          "Cartoon / Comedy SFX",
+          "Whoosh / Transition SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 1,
+        "vocalRatio": 1,
+        "musicToSpeechLoudRatio": 4,
+        "musicDuration": 5,
+        "speechMusicOverlap": 1,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": true,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) High-energy electronic music begins with a looped female vocal phrase and a heavy, distorted bass beat. (2) A sharp, percussive impact SFX triggers at the moment of the visual clothes-change transition. (3) The music volume drops significantly to accommodate a clear female voice stating '先生...我們在錄影喔' with a polite but firm tone. (4) A whimsical cartoon-style 'Whoop' SFX plays as the man walks across the camera frame, followed by a brief silence in the BGM to create a comedic pause. (5) The aggressive electronic beat drops back in with a loud bass kick, continuing at a fast BPM as the dance resumes, accompanied by another transition-style whoosh sound."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Meme / Trend",
+        "Comedy",
+        "Short Video"
+      ],
       "location": {
         "country": [
-          "Japan"
+          "Unknown"
         ],
         "city": [
           "Unknown"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) Three women stand on a snow-covered ground in casual winter athletic wear, holding ski boots and jackets; they rhythmically toss their gear toward the camera. (2) A jump cut occurs, and the women are suddenly dressed in full ski suits (white, olive green, and dark green) and start a choreographed dance routine. (3) A man wearing a white and teal ski suit and helmet walks directly through the center of their frame, causing the women to stop dancing and look at him with confused and slightly annoyed expressions. (4) The women shrug off the interruption and continue their dance routine with renewed energy and smiles.",
-      "audio_narrative_log": "(1) High-energy, bass-heavy electronic trap music begins with female vocal samples synchronized to the rhythm of the gear being thrown. (2) The upbeat music continues at a steady tempo as the women dance in their ski suits. (3) The music volume drops significantly, replaced by the crunching sound of snow as a man walks through the scene; some ambient wind noise is audible. (4) The music kicks back in at full volume for the final dance sequence, concluding with a sharp beat.",
-      "text_narrative_log": "(1) \"先生...我們在錄影喔\" (Sir... we are recording): A humorous caption explaining the interruption. (2) \"(尷尬....)\" (Awkward....): A decorative text overlay expressing the mood of the sudden interruption. (3) \"管他的繼續跳\" (Whatever, keep dancing): A hook caption showing a carefree and determined attitude."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 5,
-      "averageSceneDuration": 3.0,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro transition -> Dance performance -> Unexpected interruption -> Resilience and finish"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 4,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 3,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 3,
-      "bodyPartVisibility": [
-        "Full body"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "3 main female dancers and 1 male passerby who walks through the frame.",
-      "mainCharacterDescription": "Three young women; one in a white ski suit and headband, one in an olive green suit, and one in a dark green suit with a black skirt overlay."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Outdoor Snow Resort",
-          "Ski School"
-        ],
-        "topography": [
-          "Plain"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A snowy field in front of a modern wood and glass building; Japanese signage for a 'School' and 'Reception' is visible on the building.",
-      "lightingStyle": "Natural bright daylight",
-      "weather": "Clear",
-      "season": "Winter",
+      "sceneCutCount": 4,
+      "averageSceneDuration": 3.8,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "Medium",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Fragmented",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "Low"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 0,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Rhythmic and processed",
-        "pitch": "Medium",
-        "loudness": "High",
-        "speed": "Fast",
-        "speechDensity": "Occasional narration",
-        "language": [
-          "English"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Electronic/Trap",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Copyrighted Song"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Crunching snow"
-      ],
-      "ambientNoise": [
-        "Wind",
-        "Outdoor quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Transformation -> Conflict -> Resolution",
-      "mainPurpose": "The video is a humorous short vlog intended to showcase the creators' stylish ski outfits through a 'glow-up' transition while incorporating a comedic element of a real-life interruption. It leverages the contrast between the choreographed dance and the awkward reality of filming in a public ski resort to engage the audience.",
-      "visualEmotion": "Energetic and Humorous"
+      "narrativeStructure": "Montage: Hook -> Transition -> Conflict -> Resolution",
+      "mainPurpose": "To participate in a viral 'clothes transition' dance challenge while incorporating a humorous subversion of the trope through a staged or accidental interruption by a passerby.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "playful"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
       "endorsementMethod": [
         "None"
       ],
-      "endorsementCues": "None",
+      "endorsementCues": "No specific products are featured with commercial intent; it follows a standard social media entertainment format.",
       "endorsementObject": [
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Beat-synced transition from casual clothes to specialized gear.",
-      "freeDescribe": "The presence of Japanese text in the background suggests a travel vlog context, while the Chinese captions indicate the primary target audience."
-    }
+    "freeDescribe": "The video effectively uses synchronized music and match-cut editing to create a high-impact social media 'hook', while the scripted interruption adds a layer of relatability and humor common in modern short-form content."
   }
 }

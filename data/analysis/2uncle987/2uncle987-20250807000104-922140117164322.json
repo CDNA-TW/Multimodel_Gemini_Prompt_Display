@@ -1,161 +1,280 @@
 {
   "videoName": "2uncle987-20250807000104-922140117164322.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 42,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Comedy",
-        "Dance"
-      ],
+      "videoDuration": 43,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A close-up shot features a woman with dark hair tied in a high, messy bun, looking directly into the camera lens. She squints her eyes and smiles playfully against a background of a plain, brightly lit indoor ceiling with recessed lighting. (2) The scene cuts to a medium shot of a man wearing a black curly afro-style wig, a light blue short-sleeved shirt with red floral patterns, and dark-colored floral trousers. He performs high-energy dance moves with his arms raised and tongue out in a modern living room setting with light wood panels and cream-colored walls. (3) A quick cut shows a man in a white sweatshirt in a close-up, his face contorted into an expression of comedic distress or confusion as he looks off-camera. (4) The camera returns to the man in the wig who continues his energetic dancing, moving across the room in front of a large television screen that displays a night-time city landscape. (5) In a different part of the room near a kitchen area, the man in the white sweatshirt speaks to the camera while pointing, with a white wall clock visible behind him. The woman from the first scene is seen laughing in the background. (6) A sequence of clips shows the man in the wig attempting more dance moves, occasionally stopping and laughing, while the man in the white sweatshirt holds a handheld camera or phone to film him. (7) The video concludes with the man in the wig performing a final, highly animated dance routine in front of the TV, briefly lifting his floral shirt to expose his torso as a joke while moving vigorously to the rhythm.",
+      "text_narrative_log": "(1) [Variety]: 呼. (2) [Subtitle]: 我覺得有點... (3) [Subtitle]: 再一顆好不好. (4) [Slogan]: 你可以先練好. (5) [Subtitle]: 我練好了 練好了. (6) [Variety]: 緊張! 緊張!. (7) [Subtitle]: 我沒掌鏡過. (8) [Variety]: (???). (9) [Subtitle]: 我卡到. (10) [Variety]: 調皮. (11) [Subtitle]: 卡到一半. (12) [Subtitle]: 這樣 這樣 這樣. (13) [Subtitle]: 這樣對了. (14) [Subtitle]: 對對對. (15) [Variety]: 正式版!. (16) [Subtitle]: 才不理你.",
+      "visual_human_presence": {
+        "totalHumanCount": 3,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 3,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face close-up",
+          "Head and shoulders"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 woman with bun, 1 man in white sweatshirt, and 1 man wearing a wig and floral clothing.",
+        "mainCharacterDescription": "A woman with a high bun in a dark grey top; a man in a plain white sweatshirt; and a man in a curly black wig, floral light-blue shirt, and floral pants."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Living Room",
+          "Indoor Kitchen"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A modern, high-end residential interior featuring light-colored wood paneling, minimalist white cabinetry, a large flat-screen TV on a white wall showing a night city view, a dining table with chairs, and a white analog wall clock.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Selfie handheld",
+          "Panning"
+        ],
+        "shotSize": [
+          "Close-up",
+          "Medium shot",
+          "Medium full shot",
+          "Face close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Selfie perspective"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Montage",
+          "Graphic transition"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Coffee",
+          "Dessert / cake / cookies"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "TV / display screen"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 3,
+        "male_vocal_count": 2,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Comedic/Exaggerated",
+          "Animated/Excited",
+          "Casual"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 118,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 1,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "English"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Percussion",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Drum Kit / Drum Set",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter"
+        ],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone",
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Object Impact / Thud / Drop",
+          "Clothing / Fabric Rustle"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Ding / Bell SFX",
+          "Cartoon / Comedy SFX",
+          "Impact / Hit SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 3,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 5,
+        "speechMusicOverlap": 3,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Cross-fade"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with high-energy electronic pop music featuring a prominent male vocal singing 'Rock your body' over a synthesized beat. The tempo is steady and upbeat. (2) A sharp 'whoosh' sound effect triggers a transition. A male voice enters with a loud, laughing, and exaggerated tone, speaking in Mandarin Chinese. (3) A comic 'ping' sound effect marks a change in speaker. A second male voice speaks with a lower but still animated conversational tone, followed by the sound of a female laughing in the background. (4) The BGM volume ducks slightly as the two men exchange rapid dialogue with frequent laughter. The acoustic environment is clean with minimal room reverberation. (5) A series of short percussive 'impact' sound effects sync with visual transitions. The music maintains its driving rhythm while a male voice enthusiastically announces a transition. (6) A final comical 'boing' or cartoonish sound effect occurs as the voices peak in volume. The pop track swells back to full volume for a concluding musical phrase accompanied by light fabric rustling noises and exuberant cheering."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Vlog",
+        "Meme / Trend",
+        "Behind-the-scenes"
+      ],
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "Unknown"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video starts with a close-up of a woman with her hair in a bun, smiling and making funny faces. (2) Suddenly, the scene cuts to the woman dressed in a comedic 'old lady' costume, wearing a curly black wig, a floral shirt, patterned pants, and red circles painted on her cheeks, dancing energetically in a modern living room. (3) A young man with brown hair is shown looking surprised and confused by the performance. (4) The woman in costume continues to dance, jumping around and gesturing wildly while the man reacts off-camera or partially on-screen. (5) Transition to a 'behind-the-scenes' segment where the woman and man talk and laugh together, still in the living room environment. (6) The woman performs the dance again, including a segment where she lifts her shirt slightly to reveal her belly in a comedic manner. (7) Final shot returns to the woman in her normal appearance, winking at the camera.",
-      "audio_narrative_log": "(1) High-energy electronic pop music with a repetitive 'Rock your body' vocal hook plays immediately. (2) Mandarin vocals from both a male and female speaker are heard over the music, featuring laughter and conversational dialogue. (3) The female voice sounds breathless and excited, while the male voice is rhythmic and teasing. (4) Sound of heavy breathing 'Hu~' is emphasized during the dance breaks. (5) The music continues as the main backbeat through the entire video, maintaining a high tempo.",
-      "text_narrative_log": "(1) Decorative text: '呼~~~' (representing heavy breathing) with cloud icons, tone is exhausted yet humorous. (2) Functional text: '我覺得有點...' (I feel a bit...), '再一顆好不好' (How about one more take?), '你可以先練好' (You can practice first) - documenting the dialogue between the characters. (3) Effect text: '緊張' (Nervous) appearing twice around the man's head. (4) Decorative text: '正式版' (Official version) with red borders, signaling the final performance cut. (5) Hook text: '才不理你' (I don't care about you) with a blowing kiss emoji at the end."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 18,
-      "averageSceneDuration": 2.33,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro Hook -> Comedic Dance Montage -> Behind-the-scenes bloopers -> Final 'Official' Dance Cut."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Face only"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "1 female main creator dancing and talking, 1 male collaborator reacting and filming.",
-      "mainCharacterDescription": "A woman initially in a simple dark shirt with a bun, later transforming into a comedic character with an afro wig, floral shirt, and patterned pants with red cheek makeup."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Living Room"
-        ],
-        "topography": [
           "None"
         ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A modern, well-lit living room with light wood flooring, a large flat-screen TV on a white wall unit, a wooden dining table, and minimalist decor.",
-      "lightingStyle": "Bright indoor studio-style lighting",
-      "weather": "Indoor",
-      "season": "Unknown",
-      "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural and Bright",
-      "cameraWork": [
-        "Static",
-        "Follow shot",
-        "POV"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "TV",
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Fragmented",
-      "audioTransition": "Hard cut between music beats and dialogue layers",
-      "vocalRatio": "Medium"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and humorous",
-        "pitch": "High (Female), Normal (Male)",
-        "loudness": "High",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
-        ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Dance/Pop",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Copyrighted Song"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Breath sounds",
-        "Laughing"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Field Recording"
-    }
-  },
-  "high_inference_interpretations": {
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 3.0,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Bloopers -> Performance",
-      "mainPurpose": "The video is a comedic entertainment piece designed to showcase the contrast between the creator's normal appearance and a funny, exaggerated 'old lady' persona. It uses behind-the-scenes interactions to build a sense of relatability and humor before presenting the final energetic dance performance.",
-      "visualEmotion": "Energetic and Humorous"
+      "narrativeStructure": "Montage -> List-based -> Linear: The video starts with a hook of a funny dance montage, follows with a series of failed takes and dialogue explaining the situation, and ends with a final planned performance.",
+      "mainPurpose": "To provide comedic entertainment by showing the chaotic and humorous process of filming a viral-style dance video featuring cross-dressing and physical comedy.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -167,9 +286,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Usage of exaggerated facial expressions and physical comedy transformations common in East Asian variety-style short videos.",
-      "freeDescribe": "The video relies heavily on the 'transformation' trope and the chemistry between the two creators to engage the audience."
-    }
+    "freeDescribe": "The video uses typical variety-show editing with exaggerated captions and sound effects to enhance the humor of the cross-dressing dance performance and the interactions between the creators."
   }
 }

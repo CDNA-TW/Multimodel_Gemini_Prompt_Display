@@ -1,14 +1,234 @@
 {
   "videoName": "0_shufen-20251011183947-3743846762424272.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 14,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Commentary"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) The camera is held in a selfie position, capturing a young woman from the chest up. She has long, dark hair with bangs, wearing a dusty purple camisole and a small pendant necklace. Her facial expressions are animated as she looks directly into the lens, occasionally touching her cheek with her left hand. The background is a plain, neutral-toned wall with soft, even indoor lighting illuminating her face clearly. (2) As she continues speaking, she rests her face on her hand, her hair slightly tousled and moving. Her mouth moves in sync with the speech, showing her teeth and light red lip color. She maintains eye contact with the camera, expressing a mix of confusion and playfulness through her furrowed brows and slight smiles. The setting remains constant in the well-lit indoor environment. (3) Leaning slightly closer towards the camera for emphasis, she widens her eyes to convey a sense of disbelief. Her hand remains near her face, adjusting her hair occasionally. The visual focuses on her upper body and facial reactions, with the plain background providing no distractions from her expressions. The lighting stays consistent, highlighting her features and the texture of her clothing.",
+      "text_narrative_log": "(1) [Variety]: 天啊. (2) [Variety]: 我現在. (3) [Variety]: 新加坡. (4) [Variety]: 交到男朋友欸. (5) [Variety]: 恩?. (6) [Variety]: 因為不想要. (7) [Variety]: 交網絡上的嘛. (8) [Variety]: 比較想要交. (9) [Variety]: 現實中的. (10) [Variety]: 可是現實中. (11) [Variety]: 妳在外面. (12) [Variety]: 那些男生. (13) [Variety]: 他們都在. (14) [Variety]: 看手機. (15) [Variety]: 他根本不看我.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face close-up",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main female creator",
+        "mainCharacterDescription": "A young woman with long dark hair, wearing a purple spaghetti-strap camisole and a delicate necklace."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A plain, light-colored indoor wall, likely in a bedroom or residential setting.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Selfie handheld"
+        ],
+        "shotSize": [
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Selfie perspective"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Graphic transition"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Casual",
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 5,
+        "valence": 4,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop"
+        ],
+        "tempoBPM": 120,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Percussion",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 2,
+        "soundEffectsCoverage": 1
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 1,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A clear female voice with a mid-range pitch speaks in Mandarin Chinese, exhibiting a casual and slightly animated tone. The delivery is rhythmic with natural pauses between phrases. A bright, upbeat pop-style background music plays simultaneously, featuring a steady electronic drum beat and cheerful synthesizer pads. The acoustic quality is pristine, suggesting a controlled indoor environment with no background noise interference. (2) During a brief pause in speech, a synthesized \"ding\" sound effect or bell chime is heard, accentuating the \"En?\" vocalization. The music remains at a constant volume throughout, providing a consistent energy. The speaker's voice shows a slight increase in arousal and pitch as she describes her frustration with men's behavior in public. The interplay between the crisp vocals and the steady musical rhythm creates a dynamic, engaging soundscape."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Personal Talk",
+        "Short Video"
+      ],
       "location": {
         "country": [
           "Singapore"
@@ -18,139 +238,20 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video is a live-action close-up shot of a young woman with long dark hair, wearing a purple tank top, lying on a bed or soft surface. She looks directly at the camera with a surprised facial expression, resting her chin on her hand. (2) She shifts her hand to her cheek and begins pouting slightly while speaking, her eyes moving as she expresses emotion. (3) She continues talking, maintaining the close-up perspective with subtle head tilts and varied facial expressions reflecting frustration and humor.",
-      "audio_narrative_log": "(1) A female voice begins speaking in a high-pitched, slightly excited tone; an upbeat, mid-tempo acoustic-style background music starts. (2) A 'hm?' questioning sound effect plays briefly as the woman's speech pattern pauses; the music continues at a steady volume. (3) The female voice continues with a complaining yet humorous tone until the end of the clip, with quiet indoor ambient noise in the background.",
-      "text_narrative_log": "(1) Hook: '天啊' (Oh my god) appearing in white and black text. (2) Functional Text: '我發現在新加坡 真的很難 交到男朋友欸' (I found it's really hard to get a boyfriend in Singapore) in yellow and white, expressing a personal discovery. (3) Functional Text: '因為不想要 交網絡上的嘛 比較想要交 現實中的' (Because I don't want to meet someone online, I want to meet in reality) and '可是現實中 妳在外面 那些男生 他們都在 看手機 他根本不看我' (But in reality, when you're out, those guys are all looking at their phones, he doesn't look at me at all) expressing frustration."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 0,
+      "sceneCutCount": 1,
       "averageSceneDuration": 14.0,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Constant talking head video"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Face",
-        "Upper torso",
-        "Hands"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main female creator in a close-up shot.",
-      "mainCharacterDescription": "Young woman with long dark hair, wearing a purple spaghetti-strap tank top and a thin necklace."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Bedroom"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A plain indoor setting, likely a bedroom, with beige or off-white bedding visible.",
-      "lightingStyle": "Soft indoor natural lighting",
-      "weather": "Unknown",
-      "season": "Unknown",
       "editingPace": "Slow",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static"
-      ]
+      "isNarrativeShift": false
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "None",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "High-pitched, humorous, and complaining",
-        "pitch": "High",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat",
-      "bgmBPM": 110,
-      "instrumentFamiliesAudible": [
-        "Acoustic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Guitar",
-        "Drums"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "Meme sounds"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Personal Observation -> Justification -> Irony",
-      "mainPurpose": "The video is a comedic social commentary vlog where the creator shares her struggle of finding a boyfriend in Singapore. She expresses a preference for meeting people in real life rather than online, but notes the irony that men in public are too preoccupied with their phones to notice her. The combination of pouting facial expressions, upbeat music, and relatable dating complaints aims to engage a social media audience through humor and empathy.",
-      "visualEmotion": "Humorous and playful"
+      "narrativeStructure": "Linear: Hook -> Personal Experience -> Conclusion/Complaint",
+      "mainPurpose": "The creator shares a personal reflection on the difficulty of finding a romantic partner in Singapore. She highlights a preference for real-life connections over online dating but points out a societal barrier: men in public spaces are constantly on their phones and fail to notice those around them.",
+      "visualEmotion": [
+        "warm",
+        "flirtatious",
+        "humorous"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -162,9 +263,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Close-up selfie-style pouting while talking about dating.",
-      "freeDescribe": "The video relies heavily on text overlays to emphasize emotional beats and the core complaint about modern dating culture."
-    }
+    "freeDescribe": "A standard social-media vlog characterized by high-density animated text overlays and clear, studio-like audio production."
   }
 }

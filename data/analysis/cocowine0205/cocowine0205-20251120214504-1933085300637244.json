@@ -1,163 +1,277 @@
 {
   "videoName": "cocowine0205-20251120214504-1933085300637244.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 60,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Food Review",
-        "Shopping"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
+      "visual_narrative_log": "(1) A young woman with long dark hair, wearing a white long-sleeved top and a black high-waisted skirt, stands in a brightly lit warehouse store. She leans over a shopping cart containing packages of bread, looking at them with a focused expression while shoppers move in the background. (2) The woman picks up a transparent plastic container holding three large, golden-brown breads topped with shredded meat floss and melted cheese. A vibrant yellow graphic overlay appears, framing her as she presents the container to the camera. (3) The camera focuses on the bread as the woman holds it up. She places her palm near the bread to demonstrate its large size, nearly matching the length of her hand, while maintaining a smiling facial expression. (4) The scene shifts to an indoor home setting where the same woman, now in a maroon top, sits at a table with another woman wearing a yellow striped shirt and a red bucket hat. They hold broken pieces of the bread, showing the interior texture to the camera. (5) An extreme close-up captures a knife slicing through one of the breads on a wooden board, revealing a dense filling of meat floss and a swirl of yellow cheese within the soft white crumb. (6) The two women are shown eating the bread and talking excitedly at the table. The woman in the red hat gestures with her hands while the original packaging and bread crumbs are visible on the table surface.",
+      "text_narrative_log": "(1) [Logo]: COSTCO WHOLESALE. (2) [Subtitle]: 又在看麵包. [Variety]: 肉鬆加起司. (3) [Variety]: 罪惡組合 肉鬆起司麵包 3入299. (4) [Subtitle]: 所以一個100塊. (5) [Subtitle]: 然後一個手掌那麼大. (6) [Subtitle]: 回去吃看看 值不值得. (7) [Subtitle]: 我們吃起來心得是好吃 烤過好吃 不烤也很好吃 然後上面的起司皮是有香味的哦. (8) [Variety]: 鹹鹹香香. (9) [Variety]: !太大人份了!. (10) [Subtitle]: 但不得不說 上面起司皮有夠香的.",
+      "visual_human_presence": {
+        "totalHumanCount": 5,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 3,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only",
+          "Full body"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "2 main female creators, 1 male shopper in background, 2 other female shoppers partially visible",
+        "mainCharacterDescription": "The first woman has long dark hair, initially wearing a white top and black skirt, then a maroon top. The second woman wears a yellow striped shirt and a red bucket hat."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Retail Store",
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The first scene is a large warehouse retail environment with high ceilings, refrigerated units, and industrial shelving. The second scene is a cozy indoor dining or living area with a table, cutting board, and household items in the background.",
+        "lightingStyle": [
+          "Bright indoor lighting",
+          "Warm indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright",
+          "Warm"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Extreme close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "High angle"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Fast cuts"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
           "None"
         ],
-        "city": [
+        "foodsDetect": [
+          "Bread / pastry",
+          "Meat / beef / pork / chicken",
+          "Dairy / yogurt / cheese "
+        ],
+        "trafficDetect": [
+          "Shopping cart"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "COSTCO"
+        ],
+        "instrumentsVisible": [
           "None"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video opens in a brightly lit Costco warehouse; a woman with long dark hair, wearing a white long-sleeved top and a black skirt, is browsing the bakery section. (2) She picks up a plastic container of large breads; a hand from an off-screen person appears to point at the product and then places a palm next to the bread to demonstrate its large size. (3) The scene transitions to an indoor apartment setting where two women are seated at a table; they hold up pieces of the bread, tearing them open to reveal the meat floss and cheese filling, and proceed to eat and react to the taste.",
-      "audio_narrative_log": "(1) Fast-paced, upbeat electronic background music plays throughout. An energetic male voice-over begins immediately, commenting on the woman looking at bread. (2) As the scene focuses on the product, the male narrator describes the combination of meat floss and cheese, mentioning the price and the size of the portion. (3) When the scene shifts indoors, the voices of two females are heard talking about the taste and texture (salty, fragrant), while the male narrator continues to provide a summarized commentary on their experience and the product's value.",
-      "text_narrative_log": "(1) Functional Text: \"又在看麵包\" (Looking at bread again) - Humorous observation. (2) Decorative Text: \"肉鬆加起司\" (Meat floss plus cheese) - Identification of ingredients. (3) Hook Text: \"罪惡組合 肉鬆起司麵包 3入299\" (Guilty combo, Meat floss cheese bread, 3 for 299) - Promoting the deal. (4) Effect Text: \"鹹鹹香香\" (Salty and fragrant) - Taste description. (5) Effect Text: \"太大份了!\" (Too big portion!) - Emphasis on the quantity."
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 3,
+        "total_distinct_voices": 3,
+        "male_vocal_count": 1,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Animated/Excited",
+          "Casual"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 124,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Crowd Murmur"
+        ],
+        "crowdNoiseIntensity": 1,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone",
+          "Commercial/Recreational"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "Food Bite / Crunch",
+          "Plastic / Bag Rustle"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Pop / Bubble SFX",
+          "Ding / Bell SFX",
+          "Whoosh / Transition SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Stingers"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio track opens with a high-energy male narrator speaking in Mandarin Chinese, his voice characterized by a mid-range pitch and enthusiastic prosody. A high-tempo electronic pop beat plays continuously in the background. Faint rumbles from a retail environment are audible under the vocals. (2) A synthetic 'pop' sound effect triggers a new phase as the speaker emphasizes the price of the bread. The background music remains upbeat with a strong 4/4 electronic drum rhythm. (3) A female voice enters, speaking with a higher pitch and increased arousal level as she reacts to the product size. A sharp 'ding' sound effect punctuates her comparison. (4) The acoustic environment shifts to a cleaner room tone. The distinct, crisp sound of crusty bread being sliced creates a transient peak in the spectrum. The male and female voices overlap as they begin the review. (5) Laughter and high-pitched vocal inflections dominate as the two women discuss the flavor. The background music maintains its energy, providing a consistent rhythmic floor beneath the lively conversation. (6) A stylized 'whoosh' sound effect concludes the final vocal sentence, as the voices and music maintain a high arousal level until the track quickly fades to silence."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Food Review",
+        "Vlog",
+        "Short Video"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
     },
     "temporal_pacing_summary": {
       "sceneCutCount": 12,
       "averageSceneDuration": 5.0,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro in store -> Product close-up and price check -> Indoor tasting and final review."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 5,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 4,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Face"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 main female creator in store, 1 male shopper in background, 2 females seated at table in second half, 1 off-screen hand.",
-      "mainCharacterDescription": "A woman with long black hair wearing a white puff-sleeve top and a black midi skirt; another woman in the second half wearing a yellow striped shirt and a red bucket hat."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Warehouse Store",
-          "Indoor Dining Room"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A typical Costco warehouse with high shelves and shopping carts; later a home dining area with a table and soft interior lighting.",
-      "lightingStyle": "Bright commercial lighting and warm indoor lighting.",
-      "weather": "None",
-      "season": "None",
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "High Saturation",
-      "cameraWork": [
-        "Follow shot",
-        "Static",
-        "Close-up"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Bread",
-        "Meat Floss",
-        "Cheese"
-      ],
-      "trafficDetect": [
-        "Shopping cart"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "COSTCO WHOLESALE",
-        "KANGOL"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut with music sync",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 1,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 2,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Energetic and conversational",
-        "pitch": "Varied",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Store background chatter"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Detail -> Evidence -> Conclusion",
-      "mainPurpose": "The video aims to review a specific bakery item from Costco (Meat Floss and Cheese Bread) by showing its physical size, price point, and internal texture while providing a subjective taste test to inform viewers whether it is worth the purchase.",
-      "visualEmotion": "Energetic"
+      "narrativeStructure": "Montage: Hook -> Product Introduction -> Demonstration -> Taste Test -> Review/Verdict.",
+      "mainPurpose": "To provide an enthusiastic and informative review of a specific Costco bakery item (Meat Floss and Cheese Bread), highlighting its value, size, and flavor profile to potential shoppers.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -165,14 +279,11 @@
         "Implicit",
         "Integrated"
       ],
-      "endorsementCues": "Detailed display of product price, brand logo (Costco), and positive reaction to tasting.",
+      "endorsementCues": "The video focuses entirely on showcasing and reviewing a specific branded retail product in a positive manner.",
       "endorsementObject": [
-        "COSTCO"
+        "Costco Wholesale"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-speed Mandarin narration paired with fast-cut editing and colorful variety-show style text overlays.",
-      "freeDescribe": "The video follows a popular short-form 'shopping haul' or 'food find' format, leveraging the popularity of Costco products in East Asian markets."
-    }
+    "freeDescribe": "The video utilizes fast-paced editing and social-media style graphic overlays to maintain viewer engagement during a casual consumer review."
   }
 }

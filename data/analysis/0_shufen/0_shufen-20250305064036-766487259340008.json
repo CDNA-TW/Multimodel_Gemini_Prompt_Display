@@ -1,155 +1,257 @@
 {
   "videoName": "0_shufen-20250305064036-766487259340008.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 8.0,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Comedy"
-      ],
+      "videoDuration": 9.0,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) The video is a single continuous take filmed in a handheld selfie style. A young woman with long, straight black hair and prominent makeup is the central figure. She is dressed in a light lavender-colored cowl-neck top. The setting appears to be a modern indoor bathroom or spa area, evidenced by a white whirlpool bathtub visible in the background on the right. The lighting is bright and even, typical of indoor studio or home environments. As she speaks, she maintains direct eye contact with the camera lens, smiling frequently and exhibiting lively facial expressions. Her body movements are subtle, mostly involving slight head tilts and a shift in posture as she eventually brings her hand toward her chest in the final phase of her speech. No other characters or significant objects are introduced during the sequence.",
+      "text_narrative_log": "(1) [Subtitle]: 那天我去相親. (2) [Subtitle]: 相親對象. (3) [Subtitle]: 人還怪好的嘞. (4) [Subtitle]: 他問我. (5) [Subtitle]: 錢夠不夠用. (6) [Subtitle]: 不夠的話跟我說. (7) [Subtitle]: 他教我省.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Head and shoulders",
+          "Upper body",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main female character filming herself in a selfie perspective.",
+        "mainCharacterDescription": "A young woman with long black hair, heavy facial makeup including eyeliner and lipstick, wearing a lavender cowl-neck top."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Bathroom"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A modern indoor bathroom with cream-colored walls and a large white whirlpool bathtub with silver fixtures visible on the right side.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Selfie handheld"
+        ],
+        "shotSize": [
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "None"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "Simplified Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Mandarin"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 6,
+        "valence": 7,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Acoustic/Folk",
+          "Pop"
+        ],
+        "tempoBPM": 115,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 2,
+        "instrumentFamiliesAudible": [
+          "String",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Guitar",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Meme SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 1
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 1,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) A female voice with a clear, youthful timbre delivers a narrative in Mandarin. Her speech rate is moderate and conversational, with a friendly and storytelling tone. Her pitch is slightly high but natural, showing some variability as she recounts the dialogue. A light, upbeat acoustic pop background music track accompanies the speech, featuring a steady rhythm and gentle guitar textures. (2) As the narration concludes with a punchline, a short, high-arousal meme-style laughter sound effect is triggered. This effect is loud and sharp, lasting about a second. The background music continues to play underneath this effect and remains consistent in tempo and volume until the video ends abruptly."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Selfie / Portrait",
+        "Comedy",
+        "Storytelling"
+      ],
       "location": {
         "country": [
-          "China"
+          "Unknown"
         ],
         "city": [
           "Unknown"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman with long dark hair and a purple top is standing in what appears to be a hotel bathroom, looking directly at the camera and speaking. (2) She maintains a friendly facial expression, gesturing slightly with her hand toward her chest as she continues her story. (3) The scene remains static as she finishes her anecdote with a knowing smile toward the viewer.",
-      "audio_narrative_log": "(1) A female voice speaks in Mandarin with a clear, conversational, and slightly humorous tone. (2) There is no background music during the speech. (3) A short, high-pitched laugh sound effect (SFX) plays at the very end of the video as the punchline is delivered.",
-      "text_narrative_log": "(1) Functional Text: '那天我去相親' (That day I went on a blind date) - Narrative tone. (2) Functional Text: '相親對象人還怪好的嘞' (The blind date partner was quite nice) - Positive tone. (3) Functional Text: '他問我錢夠不夠用' (He asked if I have enough money) - Narrative tone. (4) Functional Text: '不夠的話跟他說' (If not, tell him) - Supportive tone. (5) Functional Text: '他教我省' (He'll teach me how to save) - Humorous/Punchline tone."
-    },
     "temporal_pacing_summary": {
       "sceneCutCount": 0,
-      "averageSceneDuration": 8.0,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Intro -> Anecdote -> Humorous Punchline"
+      "averageSceneDuration": 9.0,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
     },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Waist up"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main female creator speaking to the camera.",
-      "mainCharacterDescription": "A young woman with long, straight black hair, wearing heavy eye makeup and a light purple long-sleeved shirt with a draped neckline."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Bathroom",
-          "Hotel Room"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "An indoor bathroom or hotel suite featuring a white built-in bathtub, wooden wall panels, and bright lighting reflected in a mirror.",
-      "lightingStyle": "Bright indoor lighting",
-      "weather": "Unknown",
-      "season": "Unknown",
-      "editingPace": "Slow",
-      "textOverlay": {
-        "density": "Medium",
-        "language": [
-          "Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "POV"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "None",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Friendly and humorous",
-        "pitch": "Normal",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": false,
-      "bgmGenre": "No Music",
-      "bgmBPM": 0,
-      "instrumentFamiliesAudible": [
-        "None"
-      ],
-      "instrumentsAudible": [
-        "None"
-      ],
-      "musicSourceType": [
-        "None"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "Meme sounds"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Field Recording"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Dialogue Setup -> Punchline",
-      "mainPurpose": "To entertain the audience with a humorous short story about a blind date. The content relies on a subverted expectation where a seemingly generous offer ('tell me if you don't have enough money') turns into a joke about being stingy ('I'll teach you how to save').",
-      "visualEmotion": "Humorous"
+      "narrativeStructure": "Storytelling: Hook -> Plot Setup -> Twist/Punchline",
+      "mainPurpose": "The video's primary objective is to entertain through a short, relatable humorous anecdote. The creator uses a selfie-style monologue to share a story about a blind date. The twist at the end—where the date offers to 'teach her how to save' instead of providing financial support—serves as the comedic punchline, reinforced by the laughter sound effect.",
+      "visualEmotion": [
+        "cheerful",
+        "humorous",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -161,9 +263,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Direct eye contact with camera, relatable dating humor.",
-      "freeDescribe": "The video follows a standard 'short joke' format common on platforms like Douyin/TikTok, utilizing text overlays to ensure the punchline is clear."
-    }
+    "freeDescribe": "A typical short-form social media video relying on a talking-head format and a comedic twist to engage viewers."
   }
 }

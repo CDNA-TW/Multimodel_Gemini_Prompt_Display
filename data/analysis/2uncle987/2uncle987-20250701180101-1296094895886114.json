@@ -1,180 +1,281 @@
 {
   "videoName": "2uncle987-20250701180101-1296094895886114.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 31,
-      "aspectRatio": "1:1",
-      "videoGenre": [
-        "Vlog",
-        "Comedy",
-        "Daily Life"
-      ],
+      "videoDuration": 31.0,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) The video begins with a triple-split screen composition, each frame showing a white, modern-style dome security camera mounted on a wall or ceiling. The lighting is bright and even, highlighting the clean white textures of the cameras and the neutral-toned walls. Overlaid on the center of the frame is large, white stylized Chinese text. (2) The scene shifts to a wide, high-angle shot of a modern, minimalist living room with wooden floors and a large grey rug. A woman with her hair in a bun, wearing a grey sleeveless dress and a blue-and-yellow floral towel over her shoulders, is using a yellow and grey cordless vacuum cleaner on the rug. A large white sign is taped to her back. (3) The camera cuts to a medium close-up of the woman facing the viewer; she makes a comical crying expression while pointing to her eyes. She then turns away to open a white built-in cupboard in a hallway. Inside the cupboard, a handwritten sign is prominently displayed on the middle shelf among neatly organized storage bins. (4) The woman is now seated at a white desk in front of a large computer monitor. She reaches down and pulls open a wide wooden drawer, revealing various stationery items like scissors and cotton swabs. Resting on top of these items is a large white sheet of paper with a drawing of a handbag and a handwritten message addressed to 'Mr. Cai'. (5) The woman walks away from the camera through a doorway and closes a light-colored wooden door. On the back of the door, a small white square sticky note with a final message and a heart symbol is visible. The lighting throughout remains consistent with bright, warm indoor domestic lighting.",
+      "text_narrative_log": "(1) [Variety]: 當你有個 愛看監視器的老公. (2) [Slogan]: 我的努力 你看得見. (3) [Slogan]: 我老了 你還會愛我嗎？. (4) [Slogan]: 蔡先生 我想要這個 可以買給我嗎 (卡爾約13萬). (5) [Slogan]: 如果以上都可以的話 我們床上見❤️.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face",
+          "Back view"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 female main character throughout the video.",
+        "mainCharacterDescription": "A woman with dark hair tied in a high bun, wearing a sleeveless grey A-line dress and a blue floral patterned towel or scarf draped over her shoulders."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home",
+          "Indoor Living Room",
+          "Office / Workplace"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A modern, minimalist residential interior featuring wooden floors, a large flat-screen TV on a beige cabinet unit, a light wood low-profile coffee table, and organized white cabinetry and shelving.",
+        "lightingStyle": [
+          "Warm indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Wide shot",
+          "Medium shot",
+          "Close-up",
+          "Insert shot"
+        ],
+        "cameraAngles": [
+          "High angle",
+          "Eye-level",
+          "Top-down / overhead"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Rhythm matched to music"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Desktop computer / monitor",
+          "Smartphone",
+          "Keyboard / mouse",
+          "TV / display screen",
+          "Camera / DSLR"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Acoustic/Folk"
+        ],
+        "tempoBPM": 115,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "String",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Guitar"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 0,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Camera Shutter / Camera Operation",
+          "Door / Cabinet Open-Close"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 1
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 2,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 2,
+        "audioCutFrequency": 1,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a single, bright acoustic guitar chord strummed quickly. (2) A steady, cheerful acoustic folk-style background music track begins, featuring a rhythmic guitar pattern and a light percussive beat. At approximately 3 seconds, a sharp digital camera shutter 'click' SFX is heard. (3) The upbeat BGM continues at a consistent tempo. Another identical camera shutter 'click' SFX occurs at approximately 7 seconds, punctuating the visual change. (4) The music remains constant. At approximately 17 seconds, a third digital camera shutter 'click' SFX is triggered. The instrumental guitar layer sounds warm and well-mixed. (5) A final camera shutter 'click' sounds at approximately 26 seconds. This is followed closely by a muted, physical thud of a door clicking shut at 29 seconds. The music continues until the very end, maintaining its major-key tonality and cheerful arousal level."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Lifestyle",
+        "Meme / Trend"
+      ],
       "location": {
         "country": [
-          "Taiwan"
+          "Unknown"
         ],
         "city": [
           "Unknown"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video begins with a montage of indoor security cameras mounted on walls. A large text overlay appears in the center. (2) A woman in a grey sleeveless dress is seen vacuuming a light-colored rug in a modern living room; she turns her back to reveal a white sign taped to her dress. (3) The woman is in a hallway, leaning towards a hidden camera, making exaggerated pouty and playful facial expressions. (4) She opens a large built-in wardrobe, revealing organized storage bins; another sign is visible on the inner wall of the closet. (5) She is sitting at a desk with a computer, then leans down to open a drawer where a paper with a printed image of a luxury bag and text is placed. (6) She walks down a hallway and enters a room, closing the door behind her to reveal a final sign stuck to the door's surface.",
-      "audio_narrative_log": "(1) An upbeat, mid-tempo electronic pop track with a catchy melody begins immediately and continues throughout the entire video. (2) There are no audible vocals or spoken dialogue detected. (3) The acoustic environment is dominated by the background music, with very minimal ambient noise or sound effects that are mostly drowned out by the track.",
-      "text_narrative_log": "(1) '當你化工個愛看監視器的老公' (Decorative Hook: When you have a husband who loves watching the security cameras) - Humorous tone. (2) '我的努力 你看得見' (Functional: My hard work, you can see it) - Earnest/Playful tone on a back sign. (3) '我老了 你還會愛我嗎?' (Functional: I'm old, will you still love me?) - Sentimental/Probing tone on a closet sign. (4) '蔡先生 我想要這個 可以買給我嗎' (Functional: Mr. Cai, I want this, can you buy it for me?) and '(卡帶約13萬)' (Note: The bag is about 130,000) - Direct request tone in a drawer. (5) '如果以上都可以的話 我們床上見❤️' (Functional: If all the above are okay, see you in bed) - Flirty/Closing tone on a door sign."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 14,
-      "averageSceneDuration": 2.2,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro -> Series of staged 'messages' for the camera -> Final flirty invitation."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Face",
-        "Hands"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main female creator performing for the camera.",
-      "mainCharacterDescription": "A woman with long dark hair tied back, wearing a grey sleeveless casual dress with a blue and yellow patterned hood or collar detail."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Living Room",
-          "Hallway",
-          "Closet",
-          "Study"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A clean, modern apartment with light wood flooring, built-in cabinetry, a large TV, a wooden coffee table, and organized storage solutions.",
-      "lightingStyle": "Natural bright indoor lighting",
-      "weather": "Unknown",
-      "season": "Unknown",
+      "sceneCutCount": 8,
+      "averageSceneDuration": 3.8,
       "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Security Camera POV"
-      ]
+      "isNarrativeShift": false
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Security Camera",
-        "iMac",
-        "Smartphone",
-        "Vacuum Cleaner"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Dyson",
-        "Loewe",
-        "Saborino"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "Low (No vocals)"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 0,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "None",
-        "pitch": "None",
-        "loudness": "None",
-        "speed": "None",
-        "speechDensity": "None",
-        "language": [
-          "None"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic Pop",
-      "bgmBPM": 120,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "Shutter sound"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Series of Propositions -> Climax/Invitation",
-      "mainPurpose": "A comedic skit intended to entertain and potentially influence a partner. The creator uses the household's security cameras as a communication channel to show her 'hard work', ask for reassurance, and finally make a specific material request (a luxury bag) followed by a romantic invitation. It plays on the trope of 'smart' or 'sneaky' wives managing their husbands through humor.",
-      "visualEmotion": "Humorous and Playful"
+      "narrativeStructure": "List-based: Hook -> List of Evidence -> Conclusion",
+      "mainPurpose": "The video is a humorous short-form content piece depicting a wife's creative and playful way of communicating with her husband, who is portrayed as being obsessed with checking the home's security cameras. She leaves a series of notes in locations she knows the cameras will capture, ranging from demonstrating her hard work to making emotional appeals and high-priced gift requests, concluding with a provocative incentive to ensure his attention.",
+      "visualEmotion": [
+        "humorous",
+        "playful",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
       "endorsementMethod": [
         "None"
       ],
-      "endorsementCues": "The luxury bag (Loewe) is mentioned as a personal gift request rather than a promotion.",
+      "endorsementCues": "None",
       "endorsementObject": [
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Use of physical signs/papers to communicate with an off-screen 'husband' via security cameras.",
-      "freeDescribe": "The video follows a popular social media trend of interacting with security cameras for comedic effect. The high text density is characteristic of Asian short-form content."
-    }
+    "freeDescribe": "The video uses a 'hidden camera' aesthetic at the start to set up the premise before transitioning to more traditional vlogging-style angles."
   }
 }

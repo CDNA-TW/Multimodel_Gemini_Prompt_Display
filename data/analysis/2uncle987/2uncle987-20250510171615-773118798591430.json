@@ -1,162 +1,277 @@
 {
   "videoName": "2uncle987-20250510171615-773118798591430.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 60,
-      "aspectRatio": "9:16",
+      "videoDuration": 63,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The video begins in a brightly lit indoor arcade. Two women are smiling and looking at the camera. One woman wears a brown puffy jacket, and the other wears a green jacket with a scarf. Golden coin-bag icons float as digital overlays. (2) Close-up shot of an arcade coin-pusher machine. A massive pile of silver coins and some neon green balls are on a moving metal platform. (3) A hand with silver rings rapidly inserts coins into a red vertical slot. Stacks of coins are shown being pushed off a ledge into a collection area. (4) A woman in a blue hoodie and green jacket holds a black bucket full of silver coins, smiling at the camera. (5) A young boy in a yellow sweater and a green-and-yellow knit beanie looks up at a tall, illuminated arcade game tower with glowing green spheres. (6) The scene transitions to a wide hall with white tiled floors and vending machines (likely an airport terminal). Three friends (two women, one man with orange hair) are standing together, holding coffee cups and talking with expressive hand gestures and smiles.",
+      "text_narrative_log": "(1) [Variety]: 享受財富自由的感覺. (2) [Subtitle]: 嘎：只有一小時喔 媽媽. (3) [Slogan]: 哈哈推幣團. (4) [Subtitle]: 好好玩喔. (5) [Subtitle]: 享受財富自由的感覺. [Variety]: 可以可以. (6) [Subtitle]: 這次換多少錢. (7) [Subtitle]: 我沒有 我之前存的. (8) [Subtitle]: 我沒有花錢. (9) [Slogan]: 要回國了還惦記著推幣機. (10) [Subtitle]: 差那麼一顆球就要下去. (11) [Subtitle]: 然後就關門他就關門. (12) [Subtitle]: 因為他不讓你投下去. (13) [Subtitle]: 然後想說它怎麼會這樣. (14) [Subtitle]: 然後就一直想 哎呦喂. (15) [Subtitle]: 姬：李佩潔就是這樣被推坑的. (16) [Slogan]: 是我推坑所有人. (17) [Subtitle]: 下次這個通告請早一點發.",
+      "visual_human_presence": {
+        "totalHumanCount": 6,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 3,
+        "kidsDetectAmount": 1,
+        "mainCharacterCount": 3,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "3 main friends, 1 child, and roughly 2 background passers-by.",
+        "mainCharacterDescription": "Two women in winter casual wear (jackets/scarves) and one man with bright orange hair wearing a black jacket and mask."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Entertainment Venue",
+          "Airport"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "An indoor game center with numerous neon-lit machines, coin pushers, and vending machines; transitions to a clean, brightly lit modern transportation hub or airport terminal.",
+        "lightingStyle": [
+          "Bright indoor lighting",
+          "Neon / colored light"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Winter"
+        ],
+        "colorTone": [
+          "Bright and colorful",
+          "Warm and vibrant"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Panning",
+          "Zoom in"
+        ],
+        "shotSize": [
+          "Close-up",
+          "Medium shot",
+          "Medium full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "High angle"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Fast cuts",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Compilation / montage sequence"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Coffee"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Starbucks",
+          "Coca-Cola"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 4,
+        "male_vocal_count": 1,
+        "female_vocal_count": 3,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly",
+          "Casual"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Rising",
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter",
+          "Chatter"
+        ],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone",
+          "Commercial/Recreational"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "Metal  Bump ",
+          "Mechanical Click / Latch",
+          "Liquid Pour / Splash"
+        ],
+        "incidentalNoiseIntensity": 3,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Pop / Bubble SFX",
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Mixed"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a high-energy pop-electronic BGM track with a steady synthesizer beat. A woman's high-pitched voice speaks with excitement, accompanied by the bright ding of a digital effect. (2) A sharp sequence of metallic 'clink-clink-clink' sounds triggers as coins are rapidly inserted into a slot. The sound design emphasizes the mechanical movement of the pusher machine. (3) A distinct 'whoosh' transition effect occurs during a visual cut, followed by a burst of laughter and chatter from multiple female voices. (4) The ambient texture shifts to a larger indoor space with natural reverb, though the BGM continues. The primary speaker's tone is animated and teasing. (5) A light liquid or cup-handling sound is briefly heard alongside conversational dialogue. The BGM maintains its upbeat tempo. (6) The track ends with a final surge in music volume and a rapid sequence of digital 'pop' sound effects before a hard cut to silence."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
         "Vlog",
-        "Entertainment"
+        "Lifestyle",
+        "Travel"
       ],
-      "withRealPeople": true,
       "location": {
         "country": [
           "Japan"
         ],
         "city": [
-          "Unknown"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video starts with two women in an arcade, laughing and looking at a coin pusher machine. (2) Close-up shots follow, showing hands inserting coins into the slot and coins being pushed by the mechanical arm. (3) Large stacks of coins are shown falling into the prize tray. (4) One of the women is seen holding a black bowl overflowing with silver coins. (5) A young boy in a yellow sweater and beanie is seen observing the machine. (6) The scene shifts to an indoor airport or transit station where a group of friends (two women, one man) are standing and talking excitedly about their arcade experience before departing.",
-      "audio_narrative_log": "(1) High-energy, upbeat electronic background music plays throughout. (2) Vocals consist of female and male voices speaking Mandarin Chinese in an excited, high-pitched, and laughing tone. (3) The acoustic environment is dominated by the diegetic sounds of an arcade, specifically the metallic clinking of hundreds of coins falling and hitting each other. (4) Later, the soundscape changes slightly to include the ambient chatter and echoing footsteps typical of a large public hall like an airport, though the BGM remains dominant.",
-      "text_narrative_log": "(1) \"享受財富自由的感覺\" (Enjoying the feeling of financial freedom) - Hook text, humorous. (2) \"哈哈推幣團\" (Haha Coin Pusher Group) - Decorative text, playful. (3) \"好好玩喔\" (So much fun) - Decorative text, enthusiastic. (4) \"李佩潔就是這樣被推坑\" (Li Peijie was hooked just like this) - Functional text/Dialogue caption, teasing. (5) \"是我推坑所有人\" (I'm the one who hooked everyone) - Decorative text, confident."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 22,
-      "averageSceneDuration": 2.7,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro -> Detailed footage of playing and winning at the arcade -> Outro debrief at the airport"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 7,
-      "maleDetectAmount": 2,
-      "femaleDetectAmount": 4,
-      "kidsDetectAmount": 1,
-      "mainCharacterCount": 3,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Close-up face"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "3 main creators (2 females, 1 male), 1 child playing, 3 background arcade patrons/travelers",
-      "mainCharacterDescription": "Two young Asian women, one wearing a green jacket over a white fleece, another in a brown puffy coat; a young man with red hair in a black puffer jacket."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Arcade",
-          "Airport"
-        ],
-        "topography": [
           "None"
         ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A brightly lit Japanese game center with rows of gaming machines, vending machines, and red seating; later, a spacious, tiled airport terminal with signage in Japanese and English.",
-      "lightingStyle": "Vibrant indoor artificial lighting with neon accents",
-      "weather": "Indoor",
-      "season": "Winter",
-      "editingPace": "Fast",
-      "textOverlay": {
-        "density": "Medium",
-        "language": [
-          "Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "High Saturation",
-      "cameraWork": [
-        "Static",
-        "Follow shot",
-        "POV"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Arcade Machine",
-        "Smartphone",
-        "Vending Machine"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Coca-Cola"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "Medium"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 3,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 2,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 2,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and humorous",
-        "pitch": "High-pitched",
-        "loudness": "High",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Chinese"
-        ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Coin clinking"
-      ],
-      "ambientNoise": [
-        "Arcade atmosphere",
-        "Indoor hall reverb"
-      ],
-      "audioQuality": "Field Recording"
-    }
-  },
-  "high_inference_interpretations": {
+    "temporal_pacing_summary": {
+      "sceneCutCount": 24,
+      "averageSceneDuration": 2.6,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Activity -> Result -> Reflection",
-      "mainPurpose": "The video serves as a celebratory travel vlog entry documenting the group's success and entertainment at a Japanese arcade. It uses the visual of massive amounts of won coins to create a sense of 'financial freedom' as a lighthearted joke, showcasing the fun and slightly addictive nature of coin pusher games within a friendship group.",
-      "visualEmotion": "Energetic"
+      "narrativeStructure": "Montage: Hook -> Demonstration -> Resolution",
+      "mainPurpose": "To share the joyous experience of winning big at a Japanese arcade coin pusher game and documenting the group's subsequent social interaction at an airport before leaving.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -168,9 +283,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Close-up coin satisfaction shots, high-pitched group laughter",
-      "freeDescribe": "The video highlights the specific subculture of Japanese arcade gaming and how it serves as a peak entertainment experience for tourists."
-    }
+    "freeDescribe": "The video uses high-tempo music and fast cuts to mirror the excitement of gambling-lite arcade games. The transition from the arcade to the airport suggests a vacation highlight video."
   }
 }

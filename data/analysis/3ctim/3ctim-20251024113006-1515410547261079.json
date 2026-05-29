@@ -1,174 +1,289 @@
 {
   "videoName": "3ctim-20251024113006-1515410547261079.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 51,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Tech Review",
-        "News Commentary"
-      ],
+      "videoDuration": 51.52,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "Taiwan"
+      "visual_narrative_log": "(1) The video begins with a close-up shot of a middle-aged man with short dark hair, wearing a grey textured newsboy cap and black-rimmed circular glasses. He is dressed in a light purple t-shirt. The background is a dimly lit, blurred indoor setting, likely a studio or home office. He looks directly at the camera with an expressive face, opening his mouth to speak. Large yellow text with a white border appears in front of him. (2) The scene cuts to a medium shot of a man riding a specialized white electric cargo vehicle on a city street. The rider has a beard and wears a dark jacket and a cap. The vehicle is a four-wheeled electric cycle with a large cargo box at the rear. Modern buildings and other vehicles are visible in the background under natural daylight. (3) The camera returns to the host in the studio. He uses hand gestures, bringing his hand up near his face to emphasize his points. Large white text overlays appear on the screen, detailing specific technical specifications as the background remains the same blurred indoor setting. (4) A digital 3D render of the electric cargo vehicle is shown against a dark grey background. The render displays the vehicle with its side cargo compartments open, revealing battery packs and storage shelving inside. The lighting is clean and professional, highlighting the metallic and plastic textures of the vehicle. (5) The video transitions to outdoor footage of a European city, showing a canal with boats and historic brick buildings. A green bicycle is parked in the foreground on a bridge. The lighting is bright natural daylight under a cloudy sky. A small circular insert of the host's face appears at the bottom of the screen. (6) The video concludes with the host back in the studio setting, looking into the camera with a slight smile and gesturing with his hands as the final text overlays appear and disappear.",
+      "text_narrative_log": "(1) [Logo]: f 3c有意思tim哥. [Logo]: @3ctim. [Slogan]: 電動物流大變革!. (2) [Logo]: HONDA. [Subtitle]: 本田正式跨足微型機動領域. (3) [Slogan]: \"Fastport eQuad\". [Subtitle]: 它推出劃時代電動四輪車. [Subtitle]: 這款車專為自行車道設計. (4) [Subtitle]: 將在2025年歐洲自行車展亮相. (5) [Subtitle]: 相較於常看到的三輪機車. [Variety]: (示意畫面). (6) [Subtitle]: 進行物流快遞. [Slogan]: 純電四輪車. (7) [Subtitle]: 就是要攻佔物流配送領域. [Slogan]: 最高時速 20公里. (8) [Subtitle]: 配備可快速更換的快拆電池. [Slogan]: 最長續航 37公里. (9) [Subtitle]: 載滿貨物狀態下. [Slogan]: 大型貨箱 300公斤. (10) [Variety]: (配備也不馬乎). [Subtitle]: 還配備車篷、避震. (11) [Subtitle]: 平板螢幕和AI雲端管理等功能. [Subtitle]: 雖然在美國許多地區. (12) [Subtitle]: 禁止四輪車使用自行車道. [Subtitle]: 但在歐洲 自行車道為. (13) [Subtitle]: 多元微型交通工具的共用空間. [Slogan]: 完美解決方案. (14) [Variety]: (你們怎麼看?). [Subtitle]: 但我覺得台灣應該是. [Subtitle]: 沒有辦法這樣做.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Head and shoulders",
+          "Face",
+          "Upper body",
+          "Full body"
         ],
-        "city": [
-          "None"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A middle-aged man with glasses and a grey flat cap (the creator) is speaking directly to the camera against a plain background. (2) Footage of a white Honda 'Fastport eQuad' electric delivery vehicle driving on a city street is shown. (3) The creator reappears, gesturing while explaining technical specifications. (4) An illustration of a three-wheeled cargo bike is shown for comparison. (5) Scenic B-roll of European canals and historic buildings (likely Amsterdam) is displayed while the creator's face appears in a circular overlay. (6) The video concludes with the creator speaking to the camera again.",
-      "audio_narrative_log": "(1) Upbeat, medium-tempo electronic background music starts immediately. A male voice speaks enthusiastically in Traditional Chinese. (2) The music continues at a steady volume as the male voice provides a detailed narration of the vehicle's features. (3) Occasional 'whoosh' sound effects mark transitions between scenes. (4) The audio maintains a consistent studio-quality clarity with no significant ambient noise detected.",
-      "text_narrative_log": "(1) Functional Text: Full Traditional Chinese subtitles follow the spoken commentary. (2) Decorative/Hook Text: '電動物流大變革!' (Electric Logistics Revolution!) appears in large yellow/white characters. 'HONDA' logo and 'Fastport eQuad' identify the subject. Specs like '最高時速 20公里' (Max speed 20km/h), '最長續航 37公里' (Max range 37km), and '大型貨箱 300公斤' (Large cargo 300kg) highlight key data. Ending hook: '(你們怎麼看?)' (What do you think?)."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 18,
-      "averageSceneDuration": 2.8,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro -> Product Reveal -> Specs & Tech Details -> Market Context -> Closing Question"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 2,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main host speaking, 1 male driver briefly visible in vehicle footage.",
-      "mainCharacterDescription": "Middle-aged Asian male wearing glasses, a grey flat cap, and a purple t-shirt."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main host throughout, 1 rider in the b-roll footage.",
+        "mainCharacterDescription": "Middle-aged man wearing a grey newsboy cap, circular glasses, and a purple t-shirt."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
           "Studio",
-          "Outdoor Street"
+          "Outdoor Street",
+          "Urban Plaza / Square",
+          "River / Lake Area"
         ],
-        "topography": [
-          "None"
+        "locationTopography": [
+          "Plain / Flat Urban",
+          "Harbor / Waterfront"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "Blurred studio background with soft indoor lighting; European city streets with brick architecture and canals; dark digital environment for vehicle render.",
+        "lightingStyle": [
+          "Bright studio lighting",
+          "Natural daylight"
+        ],
+        "weather": [
+          "Cloudy / Overcast"
+        ],
+        "season": [
+          "Summer"
+        ],
+        "colorTone": [
+          "Natural and bright"
         ]
       },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "Primary shots use a neutral grey studio wall. B-roll includes urban streets and European canal scenes with historic architecture.",
-      "lightingStyle": "Studio lighting",
-      "weather": "Sunny",
-      "season": "Unknown",
-      "editingPace": "Fast",
-      "textOverlay": {
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Tracking shot"
+        ],
+        "shotSize": [
+          "Medium close-up",
+          "Medium shot",
+          "Full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Side view"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Fast cuts",
+          "Graphic transition",
+          "Picture-in-picture / inset"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
         "density": "High",
-        "language": [
+        "textLanguage": [
           "Traditional Chinese",
           "English"
         ],
         "isSubtitled": true
       },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Follow shot"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "Electric four-wheeler",
-        "Bicycle"
-      ],
-      "techDetect": [
-        "Electric vehicle"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "HONDA",
-        "Fastport"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Energetic and professional",
-        "pitch": "Medium",
-        "loudness": "Normal",
-        "speed": "Normal-fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Traditional Chinese"
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "Electric vehicle",
+          "Bicycle",
+          "Boat / ferry / ship"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Tablet"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Honda"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Tech",
-      "bgmBPM": 120,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "Transition whooshes"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 2,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Professional/Narrative",
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 6,
+        "valence": 7,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 124,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Pop / Bubble SFX",
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 2,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Stingers"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a high-energy male narrator speaking in a clear, professional studio tone over a driving, upbeat electronic pop background music track. The BGM features a steady four-on-the-floor beat and bright synthesizers. (2) A subtle 'whoosh' transition sound effect punctuates the first scene change. The narrator's speech rate is fast and enthusiastic, typical of tech vlog content. (3) Throughout the middle section, the narrator maintains a consistent volume and high arousal level as he describes product specs. Short, sharp 'pop' sound effects coincide with the appearance of text graphic overlays. (4) The background music continues uninterrupted at a steady tempo of approximately 124 BPM. The voice remains dominant in the mix with excellent clarity and minimal environmental noise. (5) In the final phase, the narrator's tone shifts slightly toward a conversational concluding style, though he maintains the same energy level until the track fades out quickly at the very end."
     }
   },
-  "high_inference_interpretations": {
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Tech News / Commentary",
+        "Vlog"
+      ],
+      "location": {
+        "country": [
+          "Taiwan",
+          "Netherlands"
+        ],
+        "city": [
+          "Amsterdam"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 2.86,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Evidence -> Contextual Analysis -> CTA",
-      "mainPurpose": "To provide a tech update and commentary on Honda's foray into the micro-mobility/logistics sector with the eQuad. It aims to inform the audience of new technology and spark discussion on its feasibility in different markets.",
-      "visualEmotion": "Informative"
+      "narrativeStructure": "List-based: Hook -> Product Introduction -> Technical Specs -> Geographical Context -> Conclusion/Opinion",
+      "mainPurpose": "The video aims to inform viewers about Honda's new electric four-wheeled cargo vehicle, the Fastport eQuad. It highlights the vehicle's potential for revolutionizing last-mile delivery in urban environments, specifically comparing its viability in Europe versus other regions like the US or Taiwan.",
+      "visualEmotion": [
+        "informative",
+        "energetic",
+        "professional"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
       "endorsementMethod": [
         "None"
       ],
-      "endorsementCues": "Video is framed as a news update from a tech influencer rather than a paid advertisement.",
+      "endorsementCues": "Informative news commentary format with no clear brand partnership indicators.",
       "endorsementObject": [
-        "None"
+        "Honda"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Host's signature flat cap and glasses style.",
-      "freeDescribe": "The video utilizes high-density text overlays and fast cuts typical of social media shorts to maintain viewer engagement."
-    }
+    "freeDescribe": "The video utilizes a high-density text overlay style common in social media short-form content to ensure information retention even without audio."
   }
 }

@@ -1,161 +1,275 @@
 {
   "videoName": "cocowine0205-20250407011506-608073989068038.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 85,
-      "aspectRatio": "9:16",
+      "videoDuration": 84,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The scene opens in a brightly lit restaurant with warm indoor lighting and red-paneled walls. A young woman, the main character, is seated at a table wearing a white bucket hat, a blue sweater with a white lace collar, and a red plaid apron. She smiles warmly at a woman seated to her left who has long black hair and is wearing a lavender top. On the table are several white bowls, glasses of water, and a black paper cup. (2) The main character reaches into a small blue floral drawstring bag and pulls out a single white die and a black shaker cup. She begins counting a stack of 1000-unit currency notes, placing them on the black tablecloth. The lighting remains bright and consistent, emphasizing the textures of the fabric and the items on the table. (3) The camera pans slightly as a small white dog, a Maltese, appears resting near the woman in lavender. The main character demonstrates the dice game, shaking the black cup. Various text overlays in bold yellow and white appear at the top and bottom of the frame. (4) A man's hand enters the frame from the right, taking the black cup and rolling the die onto the table. The die lands on '2'. The main character picks up two currency notes and hands them to the off-screen person. (5) The woman in lavender then takes her turn, shaking the cup vigorously. The die rolls out and lands on '6'. She reacts with extreme joy, covering her face with her hands while the main character counts out six notes and hands them over. (6) A third person's hand enters to roll, resulting in a '3'. The main character hands over three notes. The video concludes with the main character gathering the remaining money and making a finger-heart gesture toward the camera with a satisfied smile.",
+      "text_narrative_log": "(1) [Variety]: 獎金自己骰. [Slogan]: 春酒18骰子. [Subtitle]: 因為我們今天來開心聚餐. (2) [Subtitle]: 我準備了一個小遊戲. [Subtitle]: 給我的三位好夥伴. (3) [Subtitle]: 有老比爾跟妹妹. [Subtitle]: 還有我們重要的新剪輯師. (4) [Variety]: 1點就是1000元獎金. [Variety]: 六點就是6000. [Variety]: 只有一次機會. (5) [Variety]: 2,000耶. [Subtitle]: 其實你蠻遜的. (6) [Variety]: 6,000. [Subtitle]: 你真的是狠人. (7) [Variety]: 3,000. [Subtitle]: 謝謝感謝大心.",
+      "visual_human_presence": {
+        "totalHumanCount": 4,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main female host, 1 female guest sitting next to her, and 2 male participants visible only by their hands and voices.",
+        "mainCharacterDescription": "A young woman with shoulder-length black hair, wearing a white NY-branded bucket hat, a blue knitted sweater with a prominent white lace-edged collar, and a red and white checkered apron."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Restaurant / Dining"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A traditional high-end restaurant interior featuring red lacquered pillars, brick-patterned walls, and warm ambient lighting. Tables are covered with black cloths and set with white porcelain tableware and clear glassware.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Autumn / Winter"
+        ],
+        "colorTone": [
+          "Warm and vibrant"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Panning",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Medium close-up",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Graphic transition"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Dog"
+        ],
+        "foodsDetect": [
+          "Soup / hotpot / curry",
+          "Beverage / juice"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "New York Yankees"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 4,
+        "male_vocal_count": 2,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly",
+          "Comedic/Exaggerated"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 124,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter",
+          "Chatter"
+        ],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone",
+          "Commercial/Recreational"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Plastic / Bag Rustle",
+          "Ceramics / Glass  Clink",
+          "Metal  Bump "
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Ding / Bell SFX",
+          "Cartoon / Comedy SFX",
+          "Pop / Bubble SFX",
+          "Impact / Hit SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Mixed"
+        ]
+      },
+      "audio_narrative_log": "(1) High-energy, upbeat electronic pop music with a steady 4/4 beat begins. A cheerful female voice introduces the scene with high pitch variability and rapid speech. Soft ambient restaurant chatter is audible in the background. (2) A sharp 'plastic rustle' occurs as a bag is handled, followed by the metallic 'tink' of a cup hitting a table. A comedic 'boing' sound effect plays when a die is shown. (3) As the first die roll occurs, a hollow percussive 'clack' of the die hitting the table is heard, followed immediately by an excited 'ding' chime when the result is revealed. Laughter and cheering from multiple voices ensue. (4) During the second roll, the music maintains its tempo. A 'whoosh' transition SFX accompanies a camera movement. When the die hits '6', an explosive cheer and a bright synthesizer 'stinger' emphasize the high-arousal emotional moment. (5) The final roll features another percussive die sound and a celebratory bell chime. The female host's voice remains dominant and joyful, concluding with a warm closing statement as the music fades out with a final upbeat chord."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
         "Vlog",
-        "Games",
         "Lifestyle"
       ],
-      "withRealPeople": true,
       "location": {
         "country": [
-          "Taiwan"
+          "Unknown"
         ],
         "city": [
           "Unknown"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman wearing a white bucket hat, a denim jumper, and a plaid shirt sits at a restaurant table, smiling and gesturing as she speaks to the camera. (2) She brings out a small cloth bag and a stack of cash, placing them on the table near a green dice bowl. (3) Another woman with long black hair and a lavender top is seen sitting next to her, reacting with excitement. (4) The main woman places a black cup over the dice and shakes it, then reveals the result to the camera. (5) Several rounds of dice rolling follow, with the main woman putting varying amounts of cash into red and colorful envelopes. (6) A small white dog is briefly seen sitting next to the second woman. (7) The video concludes with the main woman holding the cash and making a finger-heart gesture.",
-      "audio_narrative_log": "(1) Upbeat, high-tempo pop music plays continuously throughout. (2) A female voice speaks in an excited, high-pitched tone, introducing a game to her 'partners'. (3) The sharp, rhythmic sound of dice rattling inside a plastic cup is heard several times. (4) Multiple voices (male and female) are heard laughing, cheering, and reacting to the dice results. (5) The main speaker counts out loud and describes the prize amounts. (6) Ambient restaurant noise, including the clinking of glassware, is audible in the background.",
-      "text_narrative_log": "(1) '獎金自己骰' (Prize money roll it yourself) and '春酒18骰子' (Spring wine 18 dice) appear as large, colorful header text. (2) Functional subtitles follow the dialogue: '我準備了一個小遊戲' (I prepared a small game), '1點就是1,000元獎金' (1 point is 1,000 dollars prize). (3) Large animated numbers like '2,000', '6,000', and '3,000' appear when the dice results are shown. (4) Emotional captions like '加油' (Go for it) and '謝謝老闆' (Thank you boss) appear during the prize distribution."
-    },
     "temporal_pacing_summary": {
       "sceneCutCount": 18,
-      "averageSceneDuration": 4.7,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Intro -> Game Rules -> Dice Rolling Rounds -> Prize Distribution -> Outro"
+      "averageSceneDuration": 4.6,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
     },
-    "visual_human_presence": {
-      "totalHumanCount": 4,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Upper body"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 main female creator, 1 female companion, 1 male staff member in background, 1 male hand/voice off-camera.",
-      "mainCharacterDescription": "A young woman with a friendly expression, wearing a white NY-branded bucket hat, a blue denim overall dress over a red and white plaid shirt, and a lace-collared top."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Restaurant"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A brightly lit restaurant with warm wooden panels, red accents, and tables set with white plates and water glasses.",
-      "lightingStyle": "Bright indoor lighting",
-      "weather": "Indoor",
-      "season": "Spring (based on 'Spring Wine' context)",
-      "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Warm and Vibrant",
-      "cameraWork": [
-        "Static",
-        "Handheld"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "Dog"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "New Era"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 2,
-        "backgroundCrowdVoices": 1,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 2,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited, humorous, and energetic",
-        "pitch": "High",
-        "loudness": "High",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drums"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Meme sounds",
-        "Dings",
-        "Whoosh"
-      ],
-      "ambientNoise": [
-        "Restaurant chatter",
-        "Dish clinking"
-      ],
-      "audioQuality": "Field"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Explanation -> Trial -> Climax -> Resolution",
-      "mainPurpose": "The video serves as a celebratory vlog documenting a 'Spring Wine' (post-Lunar New Year) dinner where the creator generously gives cash bonuses to her team members (Bill, her sister, and the new editor) through a playful dice game to boost morale and entertain her audience.",
-      "visualEmotion": "Joyful and Energetic"
+      "narrativeStructure": "List-based: Introduction -> Rules -> Iterative Action (Rolls 1-3) -> Conclusion",
+      "mainPurpose": "To document a fun and generous team-building activity ('Spring Party') where the host provides cash bonuses to employees based on a game of chance, fostering a positive brand image and entertaining the audience.",
+      "visualEmotion": [
+        "energetic",
+        "warm",
+        "joyful"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -167,9 +281,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-energy variety-show style editing with large font overlays and frequent sound effects.",
-      "freeDescribe": "The video uses a 'boss giving red envelopes' trope which is popular in Asian social media during the New Year period to demonstrate wealth, generosity, and team chemistry."
-    }
+    "freeDescribe": "The video uses typical social-media 'variety show' editing with large text overlays and frequent sound effects to enhance the comedic and celebratory atmosphere of a corporate dinner."
   }
 }

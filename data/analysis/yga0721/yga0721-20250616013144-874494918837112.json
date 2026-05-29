@@ -1,157 +1,271 @@
 {
   "videoName": "yga0721-20250616013144-874494918837112.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 30,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Comedy",
-        "Game"
-      ],
+      "videoDuration": 30.5,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A woman wearing a black and white patterned vest over a white dress sits at a wooden table, attempting to pull a long strip of toilet paper. A man wearing a white t-shirt and a beige baseball cap leans over her shoulder, blowing on her neck and ear to distract her. Both individuals are laughing and smiling brightly in a well-lit indoor room with white walls and simple wooden furniture. (2) The small yellow giraffe toy placed on the toilet paper strip wobbles and falls over onto the table surface. The woman reacts with a shocked but amused expression while the man cheers loudly, raising his fist in celebration of his successful interference. Yellow variety show text overlays appear at the top and bottom of the screen. (3) The roles are reversed as the man now attempts the game. He wears an expression of intense focus while holding the toilet paper roll. The woman leans in very close to his face, blowing into his ear. He winces and pulls away slightly but tries to maintain his grip. The background is a plain white wall with a wooden cabinet visible. (4) The man looks towards the camera, talking in a high-energy, comedic tone. He appears slightly defeated but playful. The woman is seen in the background running away and celebrating. A black and white filter is briefly applied to the man's face to emphasize his dramatic reaction. A scoreboard with digital timers and small avatars appears at the end.",
+      "text_narrative_log": "(1) [Variety]: 為了贏不擇手段!. (2) [Subtitle]: 不能這樣啦. (3) [Subtitle]: 可以呀. (4) [Variety]: 弄翻了!!!. (5) [Subtitle]: 重來重來重來. (6) [Variety]: (來復仇了). (7) [Subtitle]: 不要! 還不行還不行. (8) [Variety]: (倒下). [Variety]: 干擾成功XD. (9) [Variety]: (早知如此必當初). (10) [Subtitle]: 他真的吐欸. 有夠沒水準的啦. (11) [Variety]: 老闆 01:27 完賽時間. [Variety]: 闆娘 01:22 完賽時間.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Hands only",
+          "Side view"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 main male creator, 1 main female partner.",
+        "mainCharacterDescription": "A male wearing a white t-shirt and beige baseball cap; a female wearing a white dress and a black and white polka-dot patterned vest."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A minimalist white-walled studio room with a light-colored wooden table, a dark wooden dresser, and a decorative faux-fireplace mantle holding fruit.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Panning"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Medium close-up",
+          "Full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Freeze frame",
+          "Graphic transition"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Plush / decoration / toy animal"
+        ],
+        "foodsDetect": [
+          "Fruit"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Twins"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 1,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Comedic/Exaggerated"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": true,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 8,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Cartoon / Comedy SFX",
+          "Applause / Laugh Track SFX",
+          "Ding / Bell SFX",
+          "Pop / Bubble SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) High-arousal female voice protesting with laughter while a male voice chuckles in response. The background music is a high-tempo, upbeat electronic track with a strong percussive beat and bright synthesizer textures. A sharp, short 'ding' sound effect cuts through the mix as a visual event occurs. (2) An audience laughter track is triggered, accompanied by a cartoonish 'boing' sound effect. The primary male speaker yells out in excitement with a high-pitched, energetic tone. The BGM maintains a steady, fast pace with synthesized brass-like stabs providing rhythmic emphasis underneath the loud vocal interactions. (3) The male voice shifts to a strained, mock-distressed tone with frequent pauses and sharp intakes of breath as if struggling. A repetitive, rhythmic clicking or sliding sound effect is heard, followed by another burst of prerecorded crowd laughter. The acoustic environment sounds like a small, reverberant indoor studio with high spectral clarity. (4) A melodic chime SFX plays as results are displayed. The male narrator speaks rapidly with a comedic, high-arousal cadence, characterized by varying pitch contours and clear articulation. The BGM swells in volume with a celebratory flair before a final hard cut to silence at the very end of the recording."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Challenge",
+        "Lifestyle"
+      ],
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "None"
+          "Unknown"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A man and a woman stand by a wooden table. The woman holds the end of a long roll of toilet paper upon which a small yellow toy giraffe stands. The man leans in very close to her face, making funny expressions. (2) The woman pulls the paper, causing the toy to fall. They both gesture wildly with laughter. (3) The roles switch. The man holds the paper, and the woman gets very close to his face, blowing in his ear and touching his shoulder. The man makes a face of mock disgust and flinches. (4) The man pulls the paper while the woman continues her antics. They eventually celebrate near a white divider.",
-      "audio_narrative_log": "(1) High-tempo upbeat electronic music starts. Loud, high-pitched laughter from a female and a boisterous male voice shouting excitedly. (2) A cartoonish 'boing' sound effect plays when the toy falls, followed by more loud laughter. (3) The music continues at a steady pace while the male voice expresses mock outrage and the female voice giggles continuously. (4) A final chime sound effect plays as the music remains upbeat through the end.",
-      "text_narrative_log": "(1) '為了贏不擇手段!' (Doing whatever it takes to win!) - Hook text at the top setting the comedic theme. (2) '不能這樣啦' (You can't do that) - Subtitle of the woman's speech in a playful tone. (3) '可以呀' (Yes you can) - Subtitle of the man's speech in a cheeky tone. (4) '被弄倒了!!!' (It was knocked over!!!) - Decorative text emphasizing the game failure. (5) '(來復仇了)' (Coming for revenge) - Hook text explaining the role switch. (6) '干擾成功XD' (Distraction successful XD) - Capturing the humorous intent of the woman's actions. (7) '老闆 01:27' and '老闆娘 01:22' - Functional text displaying the competitive times."
     },
     "temporal_pacing_summary": {
-      "sceneCutCount": 14,
-      "averageSceneDuration": 2.14,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro challenge -> Man distracts woman -> Role reversal -> Woman distracts man -> Scoring results."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "1 main male creator and 1 main female creator interacting throughout.",
-      "mainCharacterDescription": "Male wears a white t-shirt, beige shorts, and a backward cap. Female wears a black and white ruffled vest over a white skirt."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Studio"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A bright indoor studio with a wooden table, a sideboard, a fireplace mantle prop with fruits, and white dividers.",
-      "lightingStyle": "Bright studio lights",
-      "weather": "None",
-      "season": "None",
+      "sceneCutCount": 16,
+      "averageSceneDuration": 1.9,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "High Saturation",
-      "cameraWork": [
-        "Static",
-        "Medium Shot"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Fruits"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "Medium"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "High-pitched and excited",
-        "pitch": "High",
-        "loudness": "Loud",
-        "speed": "Fast",
-        "speechDensity": "Continuous",
-        "language": [
-          "Traditional Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Comedy",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drums"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Cartoon SFX",
-        "Chime"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Action -> Reaction -> Role Reversal -> Conclusion",
-      "mainPurpose": "The video is an entertainment short designed to showcase a humorous challenge between two creators. It leverages physical comedy, funny reactions, and competitive game mechanics to engage the audience, using heavy text overlays to emphasize comedic beats.",
-      "visualEmotion": "Humorous and Energetic"
+      "narrativeStructure": "Montage: Hook -> Action -> Reaction -> Role Swap -> Action -> Reaction -> Evaluation",
+      "mainPurpose": "To entertain viewers with a comedic competition between a couple, highlighting their playful chemistry and the humorous, slightly 'low-class' cheating tactics used to win a simple household toy-pulling game.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -163,9 +277,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-energy interaction, variety-show style text captions, and signature chemistry between 'Boss' and 'Lady Boss'.",
-      "freeDescribe": "Typical short-form video content from Taiwan using traditional variety-show editing techniques."
-    }
+    "freeDescribe": "The video uses typical variety-show editing, including vibrant text overlays, laugh tracks, and dramatic sound effects to amplify the comedy of the interaction. The chemistry between the two subjects is the primary driver of engagement."
   }
 }

@@ -1,168 +1,278 @@
 {
   "videoName": "cocowine0205-20250803144311-1291548276165495.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 61,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Tutorial",
-        "Cooking"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A young woman wearing a black beret and a white top stands in a modern living room/kitchen setting. She holds a large blue Kirkland Signature bag of frozen shrimp, smiling broadly and gesturing toward it. The background is brightly lit with warm indoor lights. (2) The scene shifts to a close-up of a glass bowl containing raw, peeled shrimp. A hand pours white rum from a Bacardi bottle over the shrimp. The counter is white and clean. (3) The camera focuses on a tall, stainless steel electric pepper grinder as it grinds black peppercorns directly onto the shrimp in the bowl. (4) An overhead shot shows olive oil being poured from a white dispenser into a grey stone-textured frying pan on a gas stove. (5) Minced garlic is added to the heated oil in the pan, and the pan is tilted to distribute the garlic. (6) The shrimp are placed individually into the hot pan using silver metal tongs. Sizzling oil is visible around the garlic and shrimp. (7) A square pat of yellow butter is added to the center of the pan on top of the cooking shrimp. (8) As the shrimp turn pink and opaque, the electric grinder is used again to season them with more pepper. (9) A hand sprinkles white salt over the pan. (10) The cook tosses the pan, showing the shrimp coated in a glossy garlic-butter sauce, nearly finished.",
+      "text_narrative_log": "(1) [Logo]: COSTCO WHOLESALE. [Slogan]: 簡單做料理. [Subtitle]: 科克蘭冷凍帶尾超大養殖生蝦仁. (2) [Subtitle]: 那這一袋有908克. (3) [Subtitle]: 大概是兩磅. (4) [Subtitle]: 總共有42隻到50隻. (5) [Variety]: 559元. [Subtitle]: 價格是559元. (6) [Subtitle]: 所以一隻最低可以來到11塊. (7) [Slogan]: 讓妹妹來簡單的教大家做料理吧. (8) [Subtitle]: 妹妹會先加入隨意的萊姆酒. (9) [Subtitle]: 高濃度的白酒都可以. (10) [Subtitle]: 加胡椒鹽. (11) [Subtitle]: 先加一點橄欖油. (12) [Subtitle]: 倒入蒜. (13) [Subtitle]: 讓油去爆香他. (14) [Subtitle]: 嗶嗶啵啵代表他的蒜已經爆香了. (15) [Subtitle]: 就可以放入蝦蝦. (16) [Subtitle]: 下面稍微的變色. (17) [Subtitle]: 就可以先加入奶油. (18) [Subtitle]: 接下來讓時間帶給他美味. (19) [Subtitle]: 快熟的時候我會調味加一些胡椒. (20) [Subtitle]: 然後再加一些鹽巴. (21) [Subtitle]: 稍微收一下. (22) [Subtitle]: 覺得差不多就好了.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main female creator presenting and cooking.",
+        "mainCharacterDescription": "A young woman with dark hair wearing a black beret, a white long-sleeved turtleneck top, and light-colored pants."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Kitchen",
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The initial scene features a cozy living room with a brown leather sofa and warm lighting. The cooking scenes take place in a modern kitchen with white countertops, a grey stone-textured pan, and various kitchen seasonings and bottles visible in the background.",
+        "lightingStyle": [
+          "Bright indoor lighting",
+          "Warm indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Warm and vibrant",
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Extreme close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "High angle",
+          "POV / first-person view"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Fast cuts",
+          "Montage"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Seafood / fish / shrimp",
+          "Alcohol",
+          "Condiments / sauce",
+          "Vegetables",
+          "Dairy / yogurt / cheese "
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Kitchen appliance",
+          "Home appliance"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Costco",
+          "Kirkland Signature",
+          "Bacardi",
+          "Russell Hobbs"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 124,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Liquid Pour / Splash",
+          "Mechanical Click / Latch",
+          "Metal  Bump "
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Pop / Bubble SFX",
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) Fast-paced, high-energy electronic BGM begins. A female narrator speaks with a high pitch and enthusiastic tone, introducing the Costco shrimp product. Her speech is clear and rapid. (2) A clear sound of liquid splashing into a bowl occurs as rum is added. The BGM maintains its steady, upbeat rhythm. (3) A sequence of mechanical clicking sounds from an electric pepper grinder is heard over the narration. (4) A soft pouring sound of oil, followed by the sudden onset of a high-frequency sizzling sound as garlic hits a hot pan. The narrator's voice remains energetic. (5) Periodic metallic clinking from tongs is interspersed with continuous sizzling. (6) A sharp 'ding' or pop SFX is used to emphasize the addition of butter. (7) Continuous sizzling dominates the mid-high frequencies as the shrimp cook, accompanied by another round of electric grinder clicks. (8) The narrator concludes with a satisfied, slightly falling intonation as the cooking process wraps up, with the BGM fading out quickly at the end."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Cooking Tutorial",
+        "Food Review",
+        "Product Showcase"
+      ],
       "location": {
         "country": [
           "Unknown"
         ],
         "city": [
-          "None"
+          "Unknown"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman in a beret stands in a kitchen, holding a large blue bag of frozen shrimp from Costco; she gestures toward it and speaks excitedly. (2) In a close-up, liquid from a Bacardi bottle is poured over shrimp in a glass bowl; a hand uses a salt/pepper grinder over the shrimp. (3) A hand pours oil into a frying pan on a stove, followed by minced garlic, which sizzles in the oil. (4) The shrimp are added to the pan with tweezers, and a slice of butter is placed on top as they turn pink. (5) More pepper and salt are ground onto the cooking shrimp, and the pan is shaken to mix the ingredients.",
-      "audio_narrative_log": "(1) Upbeat, energetic background music starts immediately; a female voice speaks with a high-pitched, enthusiastic tone. (2) The sound of liquid pouring is audible as the female continues her narration. (3) Sharp clicking sounds of a grinder being used, followed by the distinct sizzling of oil and garlic in a hot pan. (4) The female voice maintains a steady pace, explaining the cooking steps over the rhythmic BGM and persistent sizzling. (5) The music continues at a consistent volume as the cooking sounds of clinking tweezers and shaking the pan fade towards the end.",
-      "text_narrative_log": "(1) Functional Text: Costco Wholesale, 簡單做料理 (Simple Cooking) - Tone: Informative. (2) Decorative Text: 科克蘭冷凍帶尾超大養殖生蝦仁 (Kirkland frozen tail-on jumbo farmed raw shrimp), 908克 (908g), 大概是兩磅 (About 2 lbs), 559元 (559 NTD) - Tone: Hook/Promotional. (3) Functional Text: 隨意的萊姆酒 (Random rum), 加胡椒鹽 (Add pepper salt), 倒入蒜 (Pour in garlic), 放入蝦蝦 (Put in shrimp), 加入奶油 (Add butter) - Tone: Instructional."
     },
     "temporal_pacing_summary": {
-      "sceneCutCount": 22,
-      "averageSceneDuration": 2.7,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro -> Ingredient Prep -> Cooking Process -> Final Simmer"
+      "sceneCutCount": 18,
+      "averageSceneDuration": 3.38,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
     },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 female main creator identified at the start and through hands during cooking.",
-      "mainCharacterDescription": "A young Asian woman wearing a white collared shirt, a dark blue beret, and light-colored nails."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Kitchen",
-          "Studio"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "The video starts in a modern home interior with a brown leather couch in the background, then shifts to a clean, well-lit kitchen with white countertops, a black induction stove, and various kitchen appliances and bottles on shelves.",
-      "lightingStyle": "Bright indoor studio-style lighting",
-      "weather": "Unknown",
-      "season": "Unknown",
-      "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural and warm",
-      "cameraWork": [
-        "Static",
-        "Close-up"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "Shrimp"
-      ],
-      "foodsDetect": [
-        "Shrimp",
-        "Garlic",
-        "Butter",
-        "Oil",
-        "Rum"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Stove",
-        "Range hood"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "COSTCO",
-        "Kirkland Signature",
-        "BACARDI",
-        "Russell Hobbs"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and energetic",
-        "pitch": "High-pitched",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Sizzling",
-        "Clinking",
-        "Grinding"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Ingredient Demo -> Process -> Result",
-      "mainPurpose": "The video serves as a quick-paced cooking tutorial aimed at showcasing the value and ease of using Costco's Kirkland brand frozen shrimp. It leverages a high-energy presentation style to encourage viewers to purchase the product and try the simple recipe at home.",
-      "visualEmotion": "Energetic and Appetizing"
+      "narrativeStructure": "Linear: Intro/Hook -> Preparation -> Cooking Process -> Conclusion",
+      "mainPurpose": "The video aims to promote Kirkland Signature frozen shrimp from Costco by demonstrating a quick and easy 'Garlic Butter Shrimp' recipe. It uses an enthusiastic presentation style and fast-paced editing to show the value and convenience of the product.",
+      "visualEmotion": [
+        "energetic",
+        "warm",
+        "informative"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -170,15 +280,12 @@
         "Explicit",
         "Full"
       ],
-      "endorsementCues": "Direct display of the product packaging, mentioning the specific store (Costco), and providing price details.",
+      "endorsementCues": "The video starts with a large Costco logo, prominently features Kirkland Signature packaging, and provides specific pricing and value propositions for the product.",
       "endorsementObject": [
-        "COSTCO",
+        "Costco",
         "Kirkland Signature"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Constant high-energy tone, specific 'Simple Cooking' title card branding.",
-      "freeDescribe": "The video follows a standard 'lifestyle influencer' format common on short-form video platforms, focusing on consumer tips and home-cooking convenience."
-    }
+    "freeDescribe": "The video effectively combines social media aesthetics with a direct product review. The use of high-energy narration and on-screen text overlays makes it highly engaging for a mobile-first audience."
   }
 }

@@ -1,170 +1,286 @@
 {
   "videoName": "3ctim-20250622025712-3374920482676618.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 55,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Product Review",
-        "Tech"
-      ],
+      "videoDuration": 56,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A middle-aged man wearing glasses, a white t-shirt, and a distinctive blue patterned flat cap walks through a spacious, brightly lit indoor area that resembles a metro station or shopping mall with grey escalators in the background. He speaks directly to the camera with high energy and animated facial expressions. (2) The man holds up a white Sony product box, clearly displaying the text 'REON POCKET PRO' while gesturing with his hands to emphasize the packaging. The scene transitions to close-up shots of a sleek white electronic device with a flexible neck strap resting on a stone surface outdoors. (3) The device is demonstrated being worn on the back of a woman's neck, neatly tucked beneath her shirt collar against a backdrop of vibrant green foliage. Natural daylight illuminates the scene as she interacts with her smartphone. (4) A screen recording appears on the display showing a mobile application interface titled 'SMART COOL' featuring temperature adjustment controls and connection status for the wearable device. (5) The man is shown in multiple settings, including a warm-toned restaurant and a modern office environment, demonstrating the device's utility in daily life. The final shot returns to the product box with a large text overlay displaying the price 6990.",
+      "text_narrative_log": "(1) [Logo]: 3c有意思tim哥. [Logo]: @3ctim. (2) [Subtitle]: 老闆. [Subtitle]: 你不覺的這天氣忽冷忽熱的. (3) [Slogan]: 穿戴式冷暖調溫裝置. [Slogan]: REON POCKET PRO. (4) [Slogan]: 雙冷暖模組的高階款. [Variety]: 冷却接觸面積大兩倍. [Variety]: 風扇升級、效能更強. (5) [Slogan]: 售價6990元. [Slogan]: 夏天必備.",
+      "visual_human_presence": {
+        "totalHumanCount": 4,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Back view"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main host creator, 1 female model demonstrating the device, and 2 background passers-by.",
+        "mainCharacterDescription": "A middle-aged man with glasses, wearing a white t-shirt from Canada Roots and a light blue patterned flat cap."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Public Transport Interior",
+          "Outdoor Street",
+          "Restaurant / Dining",
+          "Office / Workplace"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban",
+          "Urban High-rise / Skyline"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "Modern urban environments including a transit station with escalators, a stone pathway with green manicured bushes, a Japanese-style restaurant interior, and a contemporary office setting.",
+        "lightingStyle": [
+          "Bright indoor lighting",
+          "Natural daylight",
+          "Warm indoor lighting"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Summer"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Walking handheld",
+          "Follow shot",
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Medium close-up",
+          "Insert shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Selfie perspective",
+          "Back view"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Fast cuts",
+          "Graphic transition",
+          "Screen recording edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Vegetables",
+          "Prepared meal / plated dish"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Laptop",
+          "Home appliance"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "SONY",
+          "Canada Roots"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Animated/Excited",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Ceramics / Glass  Clink"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Ding / Bell SFX",
+          "Pop / Bubble SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Stingers"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) A male narrator speaks with a high-energy, friendly tone and clear articulation. The background music is a high-tempo electronic pop track with a synthesized beat. The vocal pitch is moderately high, conveying enthusiasm. No significant environmental noise is audible. (2) A distinctive 'whoosh' sound effect triggers a transition, followed by the narrator continuing his brisk speech delivery. The BGM remains steady in volume, providing a rhythmic backdrop to the technical product description. The spectral brightness is crisp and sharp. (3) A bright 'ding' sound effect highlights a specific product benefit mentioned by the speaker. Faint incidental ceramic clinks from a restaurant setting are audible underneath the main mix but do not mask the primary signal. (4) Multiple short 'pop' and 'ui' sound effects occur as the narrator describes the smartphone app functionality. The music maintains its energetic flow without pauses, and the narrator's vocal dominance remains high and authoritative yet approachable."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Tech Review",
+        "Product Showcase",
+        "Short Video"
+      ],
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "Taipei"
+          "None"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A middle-aged man wearing a blue patterned cap and glasses speaks to the camera in a modern indoor hallway with escalators. He pulls out a Sony product box and gestures with it. (2) Close-up shots transition to a white, sleek electronic device (Sony Reon Pocket Pro) placed on green grass outdoors. (3) A woman is seen from the back wearing the device tucked into the collar of her shirt on her neck while standing outdoors. (4) A smartphone screen displays an app interface named 'SMART COOL' being used to adjust temperature settings. (5) The man is shown wearing the device while eating at a Japanese-style restaurant and walking through a public space. (6) The video concludes with the product box being shown again followed by the man giving a thumbs-up to the camera.",
-      "audio_narrative_log": "(1) Upbeat, energetic electronic background music with a steady beat starts immediately. A male voice speaks with an enthusiastic and fast-paced tone about the fluctuating weather. Another male voice is heard briefly off-camera responding. (2) The music continues as the main speaker describes the technical specifications of the Sony device. (3) Subtle digital sound effects like 'whooshes' and 'dings' occur when text appears on screen. (4) Ambient sounds of a restaurant, including the light clinking of bowls and low background chatter, become audible during the indoor eating scene. (5) The speaker's tone remains consistent as he announces the price and concludes with a recommendation, ending with the music fading out.",
-      "text_narrative_log": "(1) Decorative text: '30-something degrees' (with sun emoji) and '20-something degrees' (with shivering emoji) appear to highlight weather changes. (2) Functional text: 'SONY REON POCKET PRO' and 'Wearable Cooling/Heating Temperature Control Device'. (3) Technical feature text: 'Cooling contact area 2x larger', 'Fan upgrade, performance stronger', 'Operating noise reduced by 50%'. (4) Functional text: 'Price 6990 Yuan'. (5) Hook text: 'Summer Essential'."
     },
     "temporal_pacing_summary": {
-      "sceneCutCount": 26,
-      "averageSceneDuration": 2.1,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro Hook -> Product Demonstration -> Feature Breakdown -> Real-world Scenarios -> Conclusion and Pricing"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Upper body",
-        "Hands only",
-        "Back view"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 main male creator presenting, 1 woman seen from behind for product demonstration, and blurred people in the restaurant background.",
-      "mainCharacterDescription": "A middle-aged man with black-rimmed glasses, a blue and grey patterned flat cap, and a white T-shirt with a 'Canada Roots 1973' logo."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Mall",
-          "Outdoor Garden",
-          "Restaurant"
-        ],
-        "topography": [
-          "Plain"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "Modern building interiors with white lighting, a bright outdoor garden with green foliage, and a wooden-toned Japanese restaurant interior.",
-      "lightingStyle": "Mix of bright natural sunlight and even indoor studio-like lighting.",
-      "weather": "Sunny",
-      "season": "Summer",
+      "sceneCutCount": 18,
+      "averageSceneDuration": 3.1,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural and High Saturation",
-      "cameraWork": [
-        "Handheld",
-        "POV",
-        "Close-up",
-        "Follow shot"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Salad",
-        "Japanese Cuisine"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone",
-        "Wearable Device"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Sony",
-        "Roots"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 1,
-        "vocal_demographics": {
-          "male_vocal_count": 2,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Energetic, professional, and enthusiastic",
-        "pitch": "Normal",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop/Electronic",
-      "bgmBPM": 115,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Electronic Drum Kit"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Whoosh",
-        "Digital Notification",
-        "Chime"
-      ],
-      "ambientNoise": [
-        "Restaurant chatter",
-        "Wind",
-        "Indoor HVAC hum"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Solution Introduction -> Feature Verification -> Practical Usage -> Call to Action/Price",
-      "mainPurpose": "The video serves as a promotional review for the Sony Reon Pocket Pro. It uses the relatable problem of unpredictable summer weather as a hook to introduce the device. The creator provides a detailed look at the product's physical improvements, app integration, and lifestyle versatility to persuade the audience of its value as a tech-forward summer essential.",
-      "visualEmotion": "Energetic, bright, and helpful"
+      "narrativeStructure": "Linear: Hook -> Problem -> Solution/Product Intro -> Features -> Lifestyle Usage -> Price/CTA",
+      "mainPurpose": "To promote the Sony REON POCKET PRO wearable air conditioner by demonstrating its effectiveness in various weather conditions and lifestyle scenarios, emphasizing its advanced cooling technology and smart app control.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -172,14 +288,11 @@
         "Explicit",
         "Full"
       ],
-      "endorsementCues": "Direct display of the product packaging, recitation of technical specs, listing of the retail price, and a thumbs-up recommendation.",
+      "endorsementCues": "The host explicitly introduces the Sony product, shows the packaging, demonstrates its use, and provides pricing information, acting as a direct advertisement.",
       "endorsementObject": [
-        "Sony"
+        "SONY REON POCKET PRO"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "The creator (3C Tim) consistently uses a specific patterned flat cap and a fast-paced, high-energy Mandarin delivery common among tech influencers.",
-      "freeDescribe": "The video utilizes high-density variety-show text overlays to keep viewers engaged in a fast-paced vertical format typical of TikTok or Instagram Reels."
-    }
+    "freeDescribe": "High-quality social media tech review with professional editing and clear audio-visual synergy, specifically targeting users in hot climates."
   }
 }

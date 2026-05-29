@@ -1,177 +1,277 @@
 {
   "videoName": "2uncle987-20251107080053-888847773886720.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 28.5,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Comedy",
-        "Family"
-      ],
+      "videoDuration": 30,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) Two individuals, a male and a female, are standing in an asphalt parking lot under an overcast, bright sky. They are both wearing matching white graphic t-shirts with 'haha baby RUN' printed on them and race bibs numbered 00001 and 00002. The man is laughing and using his hand to signal 'go' while the woman playfully starts running away toward the back of the parking lot. (2) The scene cuts to a wider shot following the woman as she runs further away into a paved area lined with green trees and yellow plastic bollards. Numerous text overlays appear around her in various positions. The camera stays static for a moment before zooming in as she turns around in the distance and raises both arms in a celebratory gesture. (3) The man is shown in a closer shot outdoors near a tree, wearing a similar yellow-trimmed t-shirt. He is laughing hysterically and pointing his finger toward the left of the frame. A portion of a black motorcycle is visible in the background behind him. (4) The final shot shows a black screen with a circular 'telescope' view centered on the woman in the distance, who is still standing with her arms out in the paved park area.",
+      "text_narrative_log": "(1) [Subtitle]: 走啦. [Slogan]: POV: 我的老公很會記步. (2) [Subtitle]: 嘎哥讓你5秒再跑. (3) [Subtitle]: 來啦. (4) [Variety]: 5, 4, 3, 2, 1. (5) [Variety]: 來囉. (6) [Subtitle]: 好啦~ 星巴克. (7) [Subtitle]: (人生就是要這樣向前衝). (8) [Subtitle]: (不要害怕任何挑戰). (9) [Subtitle]: (妳是最棒的). (10) [Subtitle]: (老闆跟...). (11) [Subtitle]: (衝衝衝). (12) [Subtitle]: (別理會那些無情的笑). (13) [Variety]: 嘎小朋友表示. (14) [Subtitle]: 他剛比中指耶. (15) [Subtitle]: 他剛剛自以為是在這. (16) [Subtitle]: 你才!!!",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 main male creator and 1 female companion",
+        "mainCharacterDescription": "A man with brownish hair wearing a white 'haha baby RUN' t-shirt and beige pants; a woman with dark hair in a bun wearing a similar t-shirt and black leggings."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Road / Highway / Parking Area",
+          "Park / Garden"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban",
+          "Park / Green Space"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A large paved parking lot with several parked cars (red, black, white) followed by a park-like area with rows of green trees and yellow traffic bollards.",
+        "lightingStyle": [
+          "Natural daylight"
+        ],
+        "weather": [
+          "Cloudy / Overcast"
+        ],
+        "season": [
+          "Autumn"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Zoom in",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Long shot",
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Meme-style edit",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "Car",
+          "Scooter / motorcycle"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "haha baby"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 1,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Humorous",
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 85,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 2,
+        "instrumentFamiliesAudible": [
+          "Woodwind"
+        ],
+        "instrumentsAudible": [
+          "Flute"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Outdoor/Nature"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Object Impact / Thud / Drop"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Cartoon / Comedy SFX",
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 1
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 3,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 3,
+        "speechMusicOverlap": 1,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) A high-pitched, energetic male voice speaks playfully in Mandarin, counting down from five to one with significant pitch variation. A dull thud of a car door closing is audible in the background. The phase ends with a loud, excited exclamation 'Lai luo!' followed by a brief mention of 'Starbucks'. (2) A sudden hard cut leads into a background music track featuring a simple, amateurish flute melody. The music has a comedic, slightly off-key quality, played at a slow, sentimental tempo. Faint ambient wind noise and occasional female laughter are heard beneath the woodwind melody. (3) The music stops abruptly. The male voice returns with loud, explosive laughter (high arousal). He speaks rapidly to someone off-camera, his tone humorous and teasing. A final sharp, digital 'ding' sound effect occurs just before the audio track cuts to total silence."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Meme / Trend",
+        "Vlog"
+      ],
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "None"
+          "Unknown"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A man and a young girl stand in an outdoor parking lot wearing matching white t-shirts with 'haha baby RUN' bibs; they perform a high-five and the girl begins running away from the camera. (2) The man stands in place, counting down from five to one using his fingers, then proceeds to walk in an exaggeratedly slow manner towards the camera. (3) The scene transitions to a grainy, slow-motion montage of the girl running down a tree-lined road, eventually reaching a point where she turns around and gestures with her hand. (4) The man returns to the frame in a close-up shot, pointing back towards the girl and speaking with an expressive, surprised facial expression.",
-      "audio_narrative_log": "(1) A male voice speaks energetically in Mandarin with an upbeat tone; ambient outdoor sounds of wind and distant cars are audible; a sharp 'clap' sound effect occurs during the high-five. (2) The male voice counts down '5, 4, 3, 2, 1' in Mandarin; the sound of footsteps on asphalt is heard. (3) The background audio shifts abruptly to a slow, melancholy piano and string melody with an emotional, melodramatic feel; a female voice (camerawoman) is heard laughing softly in the background. (4) The melancholy music cuts off, replaced by the man's loud, high-pitched vocal reaction and more background laughter.",
-      "text_narrative_log": "(1) Hook text at the top: 'POV: 我的老公很會跑步' (POV: My husband is very good at running - Tone: Sarcastic/Humorous). (2) Functional subtitles for dialogue: '嘎哥讓你5秒再跑啦' (Ga-ge lets you run for 5 seconds first) and '來囉' (Here I come). (3) Decorative/Effect text during the countdown: '5', '4', '3', '2', '1' in a stylized font; emotional captions during the slow-mo: '(老闆很...)', '(人生就是要這樣向前衝)', '(不要害怕任何挑戰)' (Tone: Ironical/Inspirational). (4) Final decorative text: '嘎小朋友表示' (The kid says) and '你才!!!' (You are!!!)."
     },
     "temporal_pacing_summary": {
-      "sceneCutCount": 7,
-      "averageSceneDuration": 4.07,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro/Challenge -> Comedic Countdown -> Melodramatic Slow-mo Montage -> Reaction/Punchline"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 1,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "1 adult male creator and 1 female child participating in the race.",
-      "mainCharacterDescription": "An adult male with light brown hair wearing a white graphic t-shirt and beige pants; a young girl with a high ponytail wearing a matching oversized graphic t-shirt."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Outdoor Street",
-          "Parking Lot"
-        ],
-        "topography": [
-          "Plain"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "An asphalt parking lot with several parked cars and a backdrop of dense green trees under an overcast sky; later, a paved road with safety cones and lush vegetation.",
-      "lightingStyle": "Natural light (overcast)",
-      "weather": "Cloudy",
-      "season": "Autumn",
+      "sceneCutCount": 4,
+      "averageSceneDuration": 7.5,
       "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural then Muted/Vintage during the montage",
-      "cameraWork": [
-        "Static",
-        "POV",
-        "Digital Zoom"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "Car"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "haha baby"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Fragmented",
-      "audioTransition": "Hard cut between upbeat dialogue and melodramatic BGM",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 2,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 1
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and humorous",
-        "pitch": "High-pitched (excited)",
-        "loudness": "High",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin",
-          "Taiwanese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat followed by Melancholy Piano",
-      "bgmBPM": 75,
-      "instrumentFamiliesAudible": [
-        "Keyboard",
-        "Strings"
-      ],
-      "instrumentsAudible": [
-        "Piano",
-        "Violin"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "Clap",
-        "Whoosh"
-      ],
-      "ambientNoise": [
-        "Studio quiet",
-        "Wind"
-      ],
-      "audioQuality": "Field"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Challenge -> Absurdist Slow-mo -> Reaction",
-      "mainPurpose": "The video is a comedic skit designed to entertain the audience through a subversion of expectations. It starts with a competitive 'running' hook between a father and daughter, uses a melodramatic montage to mock the child's small effort, and concludes with a punchline about the child's supposedly rude gesture toward her father.",
-      "visualEmotion": "Humorous"
+      "narrativeStructure": "Montage: Hook -> Action -> Comedic Reversal -> Reaction",
+      "mainPurpose": "To entertain the audience by showcasing a humorous and slightly trolling interaction between a husband and wife during what appears to be a fun run or charity race event. The husband uses comedic editing and music to poke fun at his wife's running effort.",
+      "visualEmotion": [
+        "humorous",
+        "energetic",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
         "Implicit",
-        "Integrated"
+        "Full"
       ],
-      "endorsementCues": "Both main characters are prominently wearing matching apparel from the brand 'haha baby', which is owned by the influencer in the video.",
+      "endorsementCues": "Both individuals are wearing matching branded apparel ('haha baby RUN') which is a known brand associated with the creator, suggesting promotion of a specific event or merchandise line.",
       "endorsementObject": [
         "haha baby"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-energy comedic hosting style characteristic of 'Cai A-ga' (嘎哥); family-oriented humor.",
-      "freeDescribe": "The use of 'melodramatic' editing for a trivial action is a common comedic trope in East Asian short-form video content to create an ironical contrast."
-    }
+    "freeDescribe": "The video utilizes classic social media editing tropes, including sentimental music paired with ironical text to create a meme-like comedic effect."
   }
 }

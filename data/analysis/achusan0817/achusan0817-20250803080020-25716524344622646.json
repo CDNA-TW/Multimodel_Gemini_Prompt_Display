@@ -1,165 +1,263 @@
 {
   "videoName": "achusan0817-20250803080020-25716524344622646.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 67,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Pet",
-        "Comedy",
-        "Vlog"
-      ],
+      "videoDuration": 67.5,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) The video begins with a close-up of a grey and white tabby cat wearing a blue plush hat shaped like the character Doraemon, complete with a yellow propeller on top. The cat looks downwards with a somewhat grumpy or focused expression. The setting appears to be an indoor room with soft lighting. (2) The camera pans and cuts to an orange and white tabby cat wearing a similar blue hat. The orange cat is sitting on a light-coloured wooden floor and begins to lick its front paw before rolling over onto its side, the hat remaining on its head. (3) A series of quick cuts shows different cats in various parts of the room. The grey tabby is seen sitting still, then an orange cat walks past a black and white cat. The orange cat is later seen lying on its back, playfully kicking at the blue hat with its paws. (4) A black and white cat is shown wearing the blue hat. A blue question mark icon and green spinning circular graphics appear over the cat's head to emphasize its confused expression. The cat looks around the room, which contains a wooden cat tree in the background. (5) The grey tabby cat is lying on the floor when a human hand enters the frame and gently pets its back. The cat looks calm and content. (6) The video concludes with a man sitting at a desk, wearing glasses and large black over-ear headphones. The blue Doraemon hat is perched on top of his headphones. He holds a game controller, his gaze fixed on a screen out of frame.",
+      "text_narrative_log": "(1) [Variety]: ?. (2) [Variety]: ☼.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 0,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 male character shown at the end of the video, and a hand petting a cat earlier.",
+        "mainCharacterDescription": "A man with short dark hair, wearing glasses and a dark grey t-shirt."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The video takes place in a modern home interior with light wood flooring, a cat tree, and various household items visible in the background.",
+        "lightingStyle": [
+          "Soft indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Panning",
+          "Static"
+        ],
+        "shotSize": [
+          "Close-up",
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "High angle"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Cat"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Headphones / earbuds",
+          "Game console / controller"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Sony"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 4
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Japanese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 6,
+        "valence": 7,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Anime/J-Pop"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "Japanese"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Cartoon / Comedy SFX",
+          "Digital UI SFX",
+          "Impact / Hit SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 1,
+        "vocalRatio": 1,
+        "musicToSpeechLoudRatio": 4,
+        "musicDuration": 5,
+        "speechMusicOverlap": 1,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with the recognizable and upbeat Japanese theme song from the anime Doraemon. The music features a bright, major-mode melody with synthesized instruments and a clear, steady beat. A female vocal sings the lyrics in Japanese with a joyful and energetic tone. (2) A sharp, percussive 'boing' sound effect triggers as the grey cat is first shown. The music continues uninterrupted. (3) A cartoonish 'wow' or vocal exclamation sound effect plays as the orange cat rolls over, synchronized with the playful visual movement. The music remains the dominant audio layer. (4) As the green graphics spin over the black and white cat, a high-pitched, digital buzzing or whirring sound effect is heard, mimicking the sound of a propeller. This is followed by a comical 'don' impact sound. (5) A male voice excitedly shouts 'Take-copter!' in Japanese, coinciding with a shot of the cats. This is a direct reference to the gadget the hats are based on. (6) The music builds to a final chord and then abruptly cuts to a deep, resonant 'thud' or impact sound as the man wearing the hat and headphones is revealed at the very end of the video."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Pet / Animal",
+        "Comedy",
+        "Meme / Trend"
+      ],
       "location": {
         "country": [
-          "Japan"
+          "Unknown"
         ],
         "city": [
           "Unknown"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video begins with a close-up of a grey tabby cat sitting still while wearing a blue plush Doraemon hat featuring a yellow 'Take-copter' propeller on top. (2) The camera transitions through several shots of different cats (an orange-and-white cat and a black-and-white cat) wearing the same hat in various parts of a home, including on a wooden floor and near a cat scratcher. (3) In one sequence, the black-and-white cat looks down as a digital question mark and spinning effect are added to the hat's propeller. (4) The orange cat is seen rolling on the floor playfully while wearing the hat. (5) The final scene reveals a man with glasses and headphones, also wearing the Doraemon hat on top of his headphones while playing a video game.",
-      "audio_narrative_log": "(1) The audio consists of the cheerful, upbeat Japanese theme song from the 'Doraemon' anime, featuring female vocals and an electronic keyboard melody. (2) Interspersed with the music are specific sound effects, including a cat's meow and a male voice shouting 'Take-copter!' in Japanese. (3) A cartoonish spinning sound effect is used to synchronize with the visual propeller animation. (4) The audio maintains a high-energy and whimsical tone throughout the montage.",
-      "text_narrative_log": "(1) A variety-style question mark '?' appears on screen to emphasize a cat's confusion. (2) Decorative green and yellow radial lines appear around the hat's propeller to simulate motion and highlight the 'Take-copter' effect."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 16,
-      "averageSceneDuration": 4.1,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro -> Montage of various cats in costumes -> Humorous reveal of the owner."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Side view"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 male creator playing video games at the end; 3 distinct cats (grey tabby, orange/white, black/white) throughout.",
-      "mainCharacterDescription": "A young Asian male wearing black glasses and a dark grey t-shirt, wearing large black Sony over-ear headphones."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Living Room",
-          "Bedroom"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A typical home interior with light-colored wooden floors, a cat scratching post, some shelves with miscellaneous items, and a computer desk with a monitor.",
-      "lightingStyle": "Natural indoor lighting",
-      "weather": "Indoor",
-      "season": "Unknown",
+      "sceneCutCount": 18,
+      "averageSceneDuration": 3.75,
       "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "Low",
-        "language": [
-          "None"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Follow shot",
-        "Handheld"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "Cat"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone",
-        "Sony Headphones",
-        "Game Controller",
-        "Monitor"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "SONY"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut sync with music",
-      "vocalRatio": "Medium"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 0,
-        "offscreen": 2,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Cheerful, energetic, and singing",
-        "pitch": "Medium-high (singer)",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous singing",
-        "language": [
-          "Japanese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Anime Theme / J-Pop",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Keyboard",
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drums"
-      ],
-      "musicSourceType": [
-        "Copyrighted Song"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Spinning SFX",
-        "Boing",
-        "Meme sounds"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Evidence -> Evidence -> Twist Outro",
-      "mainPurpose": "The video is designed for entertainment and cute-content consumption, specifically targeting cat lovers and fans of the anime Doraemon. It showcases multiple cats wearing a novelty hat with a propeller, using beat-synced editing and a familiar theme song to create a playful atmosphere. The final scene adds a layer of humor by showing the owner participating in the costume theme.",
-      "visualEmotion": "Cheerful and Humorous"
+      "narrativeStructure": "Montage: Hook -> Variation -> Punchline",
+      "mainPurpose": "The video is a comedic montage designed to entertain viewers by showcasing a group of cats wearing themed propeller hats from the anime Doraemon. It uses familiar music and sound effects to create a lighthearted and nostalgic atmosphere, ending with a humorous subversion by showing a human wearing the same accessory.",
+      "visualEmotion": [
+        "humorous",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -171,9 +269,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Use of iconic anime music paired with pet costumes.",
-      "freeDescribe": "The video utilizes nostalgic Japanese pop culture (Doraemon) to enhance the appeal of pet-related content. The inclusion of the human owner at the end acts as a comedic 'pay-off' to the montage."
-    }
+    "freeDescribe": "The video relies heavily on cultural recognition of the Doraemon franchise and its signature gadget, the 'Take-copter,' for its comedic effect."
   }
 }

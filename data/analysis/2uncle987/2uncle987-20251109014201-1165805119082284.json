@@ -1,165 +1,270 @@
 {
   "videoName": "2uncle987-20251109014201-1165805119082284.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 57,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Promotion",
-        "Comedy"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A man with blonde hair wearing a green tracksuit labeled '222' stands against a plain white wall. He initially smiles slightly, then his head snaps back as if recoiling from an impact, and he falls backward out of the frame. (2) A person in a full pink hooded jumpsuit and a black mesh mask with a white square symbol enters the frame, adjusting black tactical gloves with a deliberate, slow motion. (3) Two women in matching green tracksuits are crouched in front of a white wall. One woman on the left looks worried, touching her cheeks with her hands, while the woman on the right smiles and eventually shows a purple box with a cartoon moon. (4) The woman on the right holds the 'hahababy' product box close to the camera, then demonstrates taking a small yellow gummy out of a small wrapper and putting it in her mouth, smiling with a playful 'OK' gesture. (5) Promotional shots show a colorful patterned storage box and a white ride-on suitcase with cartoon animal graphics being opened to reveal storage space inside. (6) The scene shifts back to the group; the two women throw purple and yellow gummies into the air. The man who fell earlier lies on the ground while the women and the guard stand over him in a lighthearted, non-serious reenactment of a game scene.",
+      "text_narrative_log": "(1) [Subtitle]: 222號. (2) [Variety]: OUT. (3) [Subtitle]: 111號 OUT. (4) [Subtitle]: 다음 누구가? 再來換誰? (5) [Subtitle]: 怎麼辦 怎麼辦 完蛋了. (6) [Subtitle]: 欸 你一點都不害怕嗎. (7) [Subtitle]: 會啦 還是有一點啦. (8) [Subtitle]: 可是你看起來一點都不緊張. (9) [Subtitle]: 可能是因為我有吃. (10) [Slogan]: hahababy 嚼益粒 PharmaGABA. (11) [Subtitle]: hahababy新推出的. (12) [Subtitle]: 保健軟糖「嚼益粒」. (13) [Subtitle]: 方便攜帶 食用免配水. (14) [Subtitle]: 蘋果檸檬口味. (15) [Subtitle]: 含Pharma GABA. (16) [Subtitle]: 從咀嚼開始有感. (17) [Subtitle]: 壓力大 難入睡. (18) [Subtitle]: 嚼一顆就放鬆心情. (19) [Subtitle]: 回歸專注. (20) [Variety]: 不要忘記!. (21) [Subtitle]: 趁雙11哈比狂歡購. (22) [Subtitle]: 八盒優惠 $4180再送. (23) [Slogan]: 折疊收納箱. (24) [Subtitle]: 購買保健品大全組. (25) [Slogan]: 小怪獸兒童行李箱. (26) [Subtitle]: 還有滿額禮可以帶回家. (27) [Subtitle]: 今天開始. (28) [Subtitle]: 陪你關掉腦內小劇場.",
+      "visual_human_presence": {
+        "totalHumanCount": 3,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Full body"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 man who 'falls', 2 women as the main hosts, and 1 masked guard (likely one of the same actors or an extra).",
+        "mainCharacterDescription": "Two young Asian women with long dark hair, wearing green and white tracksuits. One has her hair in a bun."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A clean white studio wall, later transitioning to a more decorated room with colorful posters, a yellow table, and a shelving unit with various items.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Graphic transition"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Korean"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Dessert / cake / cookies"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "hahababy"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 3,
+        "male_vocal_count": 1,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese",
+          "Korean"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 124,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Clothing / Fabric Rustle",
+          "Mechanical Click / Latch"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Impact / Hit SFX",
+          "Ding / Bell SFX",
+          "Pop / Bubble SFX",
+          "Whoosh / Transition SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 4,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Cross-fade"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A male voice announces a number in Mandarin followed immediately by a sharp, high-intensity impact SFX mimicking a gunshot. A chime sounds, followed by a female voice speaking Korean with a rhythmic, questioning intonation. (2) A lively electronic pop BGM swells. Two female voices engage in rapid dialogue; one exhibits high pitch variability and a nervous tone, while the other is bright and energetic. Sharp 'pop' sound effects accentuate key points in the speech. (3) A professional narrative female voice takes over, delivering a structured product promotion at a fast speech rate. The background music remains upbeat and consistent in tempo. Brief 'whoosh' sounds mark visual scene transitions. (4) The vocal delivery remains high-arousal and positive, detailing promotional offers. Sound effects like bells and digital clicks punctuate the listing of prices and gifts. (5) The audio track concludes with a short, playful melodic loop and the sound of group laughter, ending on a bright synthesized chord."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Promotion / Advertisement / Indoresment",
+        "Comedy",
+        "Meme / Trend"
+      ],
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "Unknown"
+          "None"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A man wearing a green tracksuit with the number 222 stands against a white wall. He is suddenly 'eliminated' and falls over as a person in a pink jumpsuit and mask appears behind him. (2) Two women in similar green tracksuits sit on the floor. Woman 333 looks anxious, while woman 001 smiles confidently and pulls out a blue box of 'hahababy' supplements. (3) The scene shifts to woman 001 demonstrating how to eat the supplement, then transitions to various indoor locations showing off the products and promotional gifts like a colorful storage box and a white rolling suitcase. (4) The women are shown tossing the product boxes into the air and laughing. Finally, they sit around the man from the first scene, who is lying on the floor, and offer him a supplement while the masked figure stands over them.",
-      "audio_narrative_log": "(1) The video begins with a male voice calling out '222 OUT' followed by a loud gunshot sound effect and tense, cinematic music. (2) Two female voices engage in a dialogue in Mandarin Chinese; one sounds worried and high-pitched, while the other is calm and cheerful. (3) The background music transitions into an upbeat, energetic pop track. A male narrator's voice enters, speaking clearly and professionally about the product's benefits and the 11.11 sale details. (4) In the final segment, the music changes to a playful, repetitive nursery-rhyme-style melody with upbeat electronic tones.",
-      "text_narrative_log": "(1) Functional text shows numbers like '222號' and the status 'OUT'. Korean and Chinese text asks 'Who is next?'. (2) Decorative text captures the dialogue: '怎麼辦 怎麼辦 完蛋了' (expressing panic). (3) Product names and features appear: 'hahababy 嚼益粒 PharmaGABA', '壓力大 難入睡' (highlighting stress and sleep issues). (4) Promotional details are displayed: '雙11哈比狂歡購', price '$4180', and gift descriptions like '折疊收納箱' and '兒童行李箱'."
     },
     "temporal_pacing_summary": {
       "sceneCutCount": 18,
-      "averageSceneDuration": 3.16,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Skit Hook -> Product Demonstration -> Promotional Offer -> Playful Outro"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 4,
-      "maleDetectAmount": 2,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 3,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Head and shoulders"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 male player in green, 2 female players in green, and 1 masked figure in pink.",
-      "mainCharacterDescription": "One man and two women wearing green tracksuits inspired by the show Squid Game; one woman has her hair in a bun."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Studio",
-          "Retail Shop"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "Starts with a plain white studio background, then shifts to a room filled with colorful storage boxes, and finally a retail environment with hahababy branded merchandise.",
-      "lightingStyle": "Bright studio lighting",
-      "weather": "Indoor",
-      "season": "Unknown",
+      "averageSceneDuration": 3.1,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Mandarin Chinese",
-          "Korean",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Saturated",
-      "cameraWork": [
-        "Static",
-        "Follow shot",
-        "Close-up"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Supplements",
-        "Candies"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "hahababy"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade and Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 3,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 2,
-          "female_vocal_count": 2,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Varied: dramatic, cheerful, and professional narration",
-        "pitch": "Normal",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Pop, Suspenseful, Playful",
-      "bgmBPM": 125,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Keyboard",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drums"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Gunshot",
-        "Pop sounds"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Evidence -> Promotion -> CTA",
-      "mainPurpose": "The video is a creative advertisement for hahababy PharmaGABA supplements. It uses a parody of the 'Squid Game' series to capture attention (the hook), demonstrates the product's use to relieve stress/anxiety among the 'players', and concludes with a detailed breakdown of 11.11 sales promotions and bundled gifts to drive purchases.",
-      "visualEmotion": "Energetic and Humorous"
+      "narrativeStructure": "Linear: Hook -> Problem -> Solution -> Promotion -> CTA",
+      "mainPurpose": "The video uses a parody of the popular 'Squid Game' series as a narrative hook to capture attention. It presents a 'stressful' situation which is then resolved by the introduction of hahababy's PharmaGABA health gummies. The middle section functions as a detailed product review and promotional advertisement, listing benefits and special Double 11 shopping festival deals to encourage viewers to purchase the product sets.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "informative"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -167,14 +272,12 @@
         "Explicit",
         "Full"
       ],
-      "endorsementCues": "The characters explicitly handle the product, talk about its benefits, and present sales prices and free gifts.",
+      "endorsementCues": "Direct product showcase, detailed explanation of benefits, and presentation of specific promotional pricing and gift sets.",
       "endorsementObject": [
-        "hahababy"
+        "hahababy",
+        "PharmaGABA"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Squid Game parody elements, branded 'hahababy' tracksuits.",
-      "freeDescribe": "The use of pop culture trends mixed with high-energy editing and multi-layered promotion (price + gifts) is characteristic of modern e-commerce short-form video marketing in Asia."
-    }
+    "freeDescribe": "The video effectively combines viral meme culture with direct response marketing. The fast-paced editing and bright visuals are characteristic of social media promotional content."
   }
 }

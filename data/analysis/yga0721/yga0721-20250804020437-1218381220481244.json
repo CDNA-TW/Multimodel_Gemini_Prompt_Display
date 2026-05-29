@@ -1,14 +1,258 @@
 {
   "videoName": "yga0721-20250804020437-1218381220481244.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 82,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Shopping Recommendation"
-      ],
+      "videoDuration": 82.2,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A young man with brown hair and a blue hoodie stands in a brightly lit retail store, gesturing with his hands and looking excitedly at the camera. He is surrounded by shelves of lifestyle goods and household items. (2) The camera zooms in on a display of kitchen knives with wooden handles and black bolsters; some have visible Japanese characters on the blades. (3) A woman with a beige and white vest joins the man; she holds a makeup brush with black bristles and a black handle, demonstrating its soft texture. (4) Close-up shot of the woman's hands holding a clear plastic bag containing numerous white foam sponges. (5) Another young woman with long dark hair and a leather jacket presents an orange foldable travel toiletry bag, opening it to show the internal compartments. (6) The man returns to the frame, holding a large green stainless steel water bottle with a silver lid, rotating it to show its size and finish. (7) The first woman holds a black microwave-safe cooking pot, lifting the lid to reveal the interior and then showing the packaging which features a photo of cooked vegetables.",
+      "text_narrative_log": "(1) [Slogan]: 看到就進去撿便宜. [Variety]: 好用. (2) [Variety]: 好看. [Variety]: 便宜. (3) [Subtitle]: 這家跟3COIN有點像. [Slogan]: 價格約 300 - 500 日圓. (4) [Subtitle]: 質感又再好一點點. (5) [Subtitle]: 先推薦大家第一個商品. [Variety]: 菜刀!?. (6) [Subtitle]: 這個質感. [Variety]: 木頭的手柄. (7) [Variety]: 岐阜做的. [Variety]: 日本製的菜刀. (8) [Slogan]: 1000 日圓. [Variety]: 200塊台幣. (9) [Subtitle]: 我之前買過他們的刷具. [Subtitle]: 蠻好用而且它是. [Variety]: 日本製. (10) [Slogan]: 700 塊日幣. [Subtitle]: 你知道在台灣好的刷具. [Subtitle]: 一支是1000多塊. (11) [Variety]: 不是!!. [Subtitle]: 這個60個. [Slogan]: 300日圓/60個. (12) [Slogan]: 台幣60塊. [Variety]: 粉撲一個一塊台幣. (13) [Subtitle]: 旅行用的盥洗包. [Slogan]: 也是300日幣. (14) [Subtitle]: 這個看起來就無印良品嘛. [Subtitle]: 但是價格差太多. (15) [Variety]: 四種顏色能選擇. (16) [Subtitle]: 這個最划算. [Slogan]: 1000日圓. [Slogan]: 700CC. (17) [Subtitle]: 而且很好看. (18) [Subtitle]: 如果不會煮菜. [Subtitle]: 不會煮東西沒關係. (19) [Variety]: 食材通通丟進去. (20) [Variety]: 進去微波爐就好. [Subtitle]: 重點是這個是日本製. (21) [Variety]: Made in Japan.",
+      "visual_human_presence": {
+        "totalHumanCount": 4,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 3,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main male creator, 1 main female co-host, 1 secondary female speaker, 1 passerby in the background.",
+        "mainCharacterDescription": "A young male with brown hair wearing a blue hoodie with 'kaka baby' text and a red strap bag. A female co-host with her hair tied up wearing a beige/white quilted vest."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Retail Store"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A modern lifestyle retail store with light wood shelving, organized product displays of kitchenware, cosmetics, and travel accessories. Background shoppers and typical mall interiors are visible.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Panning",
+          "Walking handheld",
+          "Zoom in"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Extreme close-up",
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "High angle"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Fast cuts",
+          "Meme-style edit",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "Japanese",
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Vegetables"
+        ],
+        "trafficDetect": [
+          "Shopping cart"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Standard Products"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 3,
+        "male_vocal_count": 1,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Casual",
+          "Friendly"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Acoustic/Folk"
+        ],
+        "tempoBPM": 115,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "String",
+          "Percussion",
+          "Keyboard"
+        ],
+        "instrumentsAudible": [
+          "Guitar",
+          "Piano",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Crowd Murmur"
+        ],
+        "crowdNoiseIntensity": 1,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone",
+          "Commercial/Recreational"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "Plastic / Bag Rustle",
+          "Mechanical Click / Latch"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Impact / Hit SFX",
+          "Ding / Bell SFX",
+          "Pop / Bubble SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Fades"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Mixed"
+        ]
+      },
+      "audio_narrative_log": "(1) High-arousal male voice starts with an energetic, fast-paced greeting over upbeat acoustic-pop BGM featuring a steady drum beat and light guitar strumming. (2) A sharp 'Ding' SFX triggers as he points to products, followed by a 'Whoosh' transition as the scene cuts. (3) A female voice enters with a friendly, clear tone, speaking at a moderate rate while discussing cosmetics; background BGM remains consistent in volume. (4) A percussive 'Thud' SFX is heard as an item is shown, followed by a playful 'Pop' sound effect during a graphic transition. (5) Multiple voices overlap briefly as they examine a travel bag, with audible plastic rustling sounds. (6) Male voice returns with increased volume and pitch to emphasize a 'bargain' price, accompanied by a celebratory synthesized bell sound. (7) Audio ends with a quick fade-out of the music and a final closing remark from the male speaker."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Shopping",
+        "Lifestyle",
+        "Food Review"
+      ],
       "location": {
         "country": [
           "Japan"
@@ -18,145 +262,20 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young man with light brown hair wearing a blue hoodie and a red cross-body bag stands inside a retail store, gesturing enthusiastically while speaking to the camera. (2) The scene cuts between his energetic talking head and close-up shots of various household products: professional-looking kitchen knives on a display, makeup brushes, bags of makeup sponges, a brown travel toiletry bag, a green stainless steel water bottle, and a black microwave-safe cooking pot. (3) A young woman with her hair in a bun, wearing a quilted jacket, joins the man to examine and demonstrate the items. They both express surprise and excitement, pointing at price tags and product details in a brightly lit, modern minimalist retail environment with wooden shelves.",
-      "audio_narrative_log": "(1) An upbeat, fast-paced pop background music plays continuously throughout. A male voice speaks in a high-pitched, excited tone with rapid delivery, occasionally shouting for emphasis. (2) A female voice enters, speaking in a friendly and conversational tone as she interacts with the male speaker. (3) Occasional ambient sounds of product packaging being handled and the faint murmur of other shoppers are heard beneath the dominant voices and music.",
-      "text_narrative_log": "(1) Functional Text: White Chinese subtitles at the bottom translate the spoken dialogue. (2) Hook/Effect Text: Yellow bold text at the beginning says '看到就進去撿便宜' (Enter when you see it to get bargains). Vertical colored boxes highlight '好用' (Useful), '好看' (Good-looking), and '便宜' (Cheap). (3) Pricing and Info: Large yellow text overlays indicate prices like '1000日圓', '200塊台幣', and '300日圓/60個'. (4) Origin Text: Large white text emphasizes '日本製' (Made in Japan) and 'Made in Japan' appears in a stylized font."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 24,
-      "averageSceneDuration": 3.4,
-      "isNarrativeShift": false,
-      "mainActionFlow": "The video follows a fast-paced 'Intro -> Item-by-item Recommendation -> Comparison' flow, maintaining high energy throughout."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 5,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Torso"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 main male creator, 1 female partner, and approximately 3 female shoppers seen briefly in the background.",
-      "mainCharacterDescription": "The main male creator has light brown hair, wearing a blue 'kaka baby' hoodie and a red 'HUMAN MADE' shoulder bag. The female partner wears a multi-colored pastel quilted jacket."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Retail Store"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A modern, minimalist lifestyle store with light wood shelving units, organized displays of household goods, and bright, even lighting.",
-      "lightingStyle": "Intense studio-style retail lighting",
-      "weather": "None",
-      "season": "None",
+      "sceneCutCount": 28,
+      "averageSceneDuration": 2.9,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese",
-          "English",
-          "Japanese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural and bright",
-      "cameraWork": [
-        "Handheld",
-        "Follow shot",
-        "Close-up"
-      ]
+      "isNarrativeShift": false
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Standard Products",
-        "HUMAN MADE",
-        "Be-Side"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 1,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and energetic",
-        "pitch": "High",
-        "loudness": "Loud",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Store quiet"
-      ],
-      "audioQuality": "Field Recording"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Recommendation 1 -> Recommendation 2 -> Recommendation 3 -> Recommendation 4 -> Comparison -> Summary",
-      "mainPurpose": "The video is a shopping vlog designed to showcase high-value-for-money items at a Japanese retail store (likely Standard Products). The creators highlight the Japanese origin ('Made in Japan') and the significant price difference compared to Taiwan to encourage viewers to shop there for bargains.",
-      "visualEmotion": "Energetic and Surprising"
+      "narrativeStructure": "List-based: Hook -> Showcase of Item A -> Showcase of Item B -> Showcase of Item C -> Conclusion/Summary",
+      "mainPurpose": "The video aims to introduce and recommend affordable household and lifestyle products from a Japanese retail store (Standard Products). It highlights specific items like knives, brushes, and kitchenware, emphasizing their 'Made in Japan' quality and high cost-performance ratio compared to other brands.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -164,14 +283,11 @@
         "Implicit",
         "Integrated"
       ],
-      "endorsementCues": "Detailed showcasing of products, pricing emphasis, and explicit mention of the store's similarity to other well-known brands while being superior in value.",
+      "endorsementCues": "The hosts actively promote the quality and low price of the items, comparing them favorably to other brands, which serves as a product recommendation or brand showcase.",
       "endorsementObject": [
         "Standard Products"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-energy presentation style typical of Taiwanese variety-style YouTube creators, using vibrant on-screen text to highlight 'CP value' (cost-performance ratio).",
-      "freeDescribe": "The video heavily relies on the 'Made in Japan' prestige to drive the recommendation value, appealing to a target audience that values Japanese quality at affordable prices."
-    }
+    "freeDescribe": "The video uses high-frequency editing and enthusiastic narration to maintain viewer engagement, typical of social media shopping recommendations."
   }
 }

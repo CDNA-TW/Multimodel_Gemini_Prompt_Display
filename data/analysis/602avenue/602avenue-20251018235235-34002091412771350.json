@@ -1,165 +1,273 @@
 {
   "videoName": "602avenue-20251018235235-34002091412771350.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 117,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Promotion",
-        "Review"
-      ],
+      "videoDuration": 118,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A young woman with long dark hair and a light grey shirt is the central figure. She is seated at a table featuring a large white plate overflowing with fish-shaped snacks, a blue snack bag, and a mug of beer. She smiles widely, gesturing towards the food. The background is a plain, brightly lit indoor wall. (2) Two masculine arms extend from behind the woman's shoulders, acting as if they are her own. These hands pick up snacks from the plate and feed them to her mouth. She reacts with playful, exaggerated expressions of surprise and enjoyment. (3) The camera shifts to close-up shots of the individual snacks, highlighting their golden-brown color and crunchy texture. A smartphone screen is briefly shown displaying a bowl of spicy Korean chicken feet for a side-by-side comparison of snack pairings. (4) The scene transitions to a living room where a middle-aged man wearing glasses and a grey t-shirt sits on a sofa. He holds two bags of the same blue-packaged snacks and is shown happily eating them. (5) Back to the woman, she continues to eat and take sips of beer from the glass. She gives a double thumbs-up to the camera while descriptive text regarding the product's availability appears as a footer overlay.",
+      "text_narrative_log": "(1) [Subtitle]: POV 用男朋友雙手吃台灣餅乾. [Subtitle]: Using My Boyfriend's Hand to Eat Snacks. [Subtitle]: 韓國女友. (2) [Variety]: （超會演）. [Variety]: （星期三的小手？）. [Variety]: （調皮）. (3) [Slogan]: 孔雀香酥脆. [Variety]: （幸福極了）. (4) [Variety]: （超餵食我！！！）. [Variety]: （男友也想吃了🤣）. [Variety]: 唰嘴. (5) [Slogan]: 販售通路：便利商店、全聯福利中心、量販店、連鎖超市、在地超市、電商平台. [Slogan]: 孔雀香酥脆.",
+      "visual_human_presence": {
+        "totalHumanCount": 3,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only",
+          "Head and shoulders"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main female creator, 1 man (boyfriend, partially visible hands/back), 1 man (father on sofa).",
+        "mainCharacterDescription": "A young woman with long dark hair, wearing a casual light grey t-shirt and light blue nail polish."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Living Room",
+          "Indoor Home"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A clean, minimalist indoor setting with white walls in the first half, transitioning to a living room with a blue sofa and pillows in the second half.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Insert shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Subtitled social-media edit",
+          "Fast cuts"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Snack / chips / candy",
+          "Alcohol",
+          "Korean food / kimchi"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "孔雀香酥脆"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM",
+          "Pop"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Food Bite / Crunch"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Pop / Bubble SFX",
+          "Impact / Hit SFX",
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio opens with a high-energy, synthesized pop background track featuring a driving 4/4 beat. A clear, high-pitched female voice narrates enthusiastically in Mandarin. (2) A sharp 'pop' sound effect triggers as variety text appears on screen. This is followed by a crisp, high-frequency 'crunch' sound when the character is fed the snack. (3) The vocal narration remains rapid and animated, with frequent pitch fluctuations to express excitement. The BGM remains consistent in tempo. (4) A bubbly sound effect occurs as the character drinks beer. The narrator's tone shifts slightly to a storytelling mode when describing the father's reaction. (5) The phase concludes with the primary narrator's voice becoming more directive, accompanied by upbeat stingers and a final percussive hit as the promotional information is displayed."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Food Review",
+        "Promotion / Advertisement / Indoresment",
+        "Comedy",
+        "Vlog"
+      ],
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "Unknown"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman with long dark hair sits in a bright room behind a table filled with fish-shaped snacks and a large bag of Peacock Crispy Snacks. She gestures enthusiastically at a mug of beer next to the snacks. (2) She begins a series of eating challenges; first using her hands, then a pair of male hands enters from off-camera to feed her, simulating a 'boyfriend' POV. She smiles widely, nods, and makes exaggerated expressions of enjoyment. (3) Close-up shots show the details of the snack texture and the packaging. A middle-aged man in glasses is shown sitting on a sofa, eating the snacks from the bag. (4) The woman continues eating while looking at the camera, eventually sharing a snack with the off-camera person. The video ends with a display of the product's availability across different retailers.",
-      "audio_narrative_log": "(1) Fast-paced, upbeat electronic background music begins. A woman's voice speaks in Mandarin with a high-pitched, excited tone, introducing the snacks. (2) A male voice provides a voiceover, describing the flavor profile (sweet and savory) and comparing it to Korean snacks. Sounds of rhythmic chewing and glass clinking are audible. (3) The BGM continues steadily as the woman's reactions and the male narration alternate. (4) The music remains consistent until the end, where the male narrator lists store locations.",
-      "text_narrative_log": "(1) Functional Text: 'POV Using My Boyfriend's Hand to Eat Snacks', 'Challenge 1: Eat directly with hands', 'Challenge 2: Eat with chopsticks', 'Peacock Crispy Snacks - Sweet Fish Flavor'. (2) Decorative/Effect Text: '(Korean Girlfriend)', '(Super good at acting)', '(Small hands on Wednesday?)', 'It's really delicious heart emoji', '(Playful)', '(Try the beer)', '(Shaking)', '(Extremely happy)', '(Hurry up and feed me!!!)', '(Boyfriend also wants to eat it)'. (3) Informational Text: List of retail channels including 7-Eleven, FamilyMart, and online platforms."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 32,
-      "averageSceneDuration": 3.6,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro -> Consumption Demo -> Product Features Close-up -> Family Member Testimonial -> Outro & Purchase Info"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 3,
-      "maleDetectAmount": 2,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Hands only",
-        "Head and shoulders",
-        "Full body"
-      ],
-      "crowdLevel": "Single / Duo",
-      "countingEvidence": "1 main female creator, 1 set of male hands (boyfriend), 1 middle-aged male (father).",
-      "mainCharacterDescription": "Young Asian woman with long dark hair, wearing a casual grey t-shirt, expressive and cheerful."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor",
-          "Studio",
-          "Living Room"
-        ],
-        "topography": [
           "None"
         ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "Primary scene is a clean, minimalist indoor setting with a white background. Secondary scene features a blue fabric sofa and household items in a home setting.",
-      "lightingStyle": "Bright studio lighting",
-      "weather": "None",
-      "season": "None",
-      "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "High Saturation",
-      "cameraWork": [
-        "Static",
-        "Close-up",
-        "POV"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Snacks",
-        "Beer"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "孔雀香酥脆"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 2,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Cheerful and enthusiastic",
-        "pitch": "Medium-high",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum kit"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Crunching",
-        "Clinking",
-        "UI pop-up sounds"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
+    "temporal_pacing_summary": {
+      "sceneCutCount": 22,
+      "averageSceneDuration": 5.36,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Consumption Challenge -> Taste Comparison -> Family Endorsement -> CTA",
-      "mainPurpose": "The video is a promotional advertisement for 'Peacock Crispy Snacks'. It leverages the 'Korean Girlfriend' persona to highlight the snack's international appeal, using a humorous 'boyfriend POV' trope to engage younger audiences while including a father figure to demonstrate multi-generational likeability. The goal is to drive sales by emphasizing the unique sweet-and-savory flavor and broad availability.",
-      "visualEmotion": "Joyful, energetic, and cozy."
+      "narrativeStructure": "Montage: Hook -> Product Introduction -> Personal Experience -> Social Validation -> CTA",
+      "mainPurpose": "To market 'Peacock Crispy Snacks' (孔雀香酥脆) by leveraging a popular 'POV' humor trend and highlighting the product's flavor profile, crunchiness, and suitability as a beer snack.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -167,14 +275,11 @@
         "Explicit",
         "Full"
       ],
-      "endorsementCues": "Direct product praise, focus on packaging, detailed flavor description, and listing of authorized retailers.",
+      "endorsementCues": "Direct display of product packaging, multiple consumption shots, detailed availability info (sales channels), and a clear promotional narrative.",
       "endorsementObject": [
         "孔雀香酥脆"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Using 'boyfriend's hands' POV, cross-cultural (Korean-Taiwanese) food review.",
-      "freeDescribe": "The video successfully blends influencer lifestyle content with a traditional product advertisement, making the promotion feel more organic to the social media feed."
-    }
+    "freeDescribe": "The video uses a high-arousal social media editing style with dense visual variety text to maintain viewer retention."
   }
 }

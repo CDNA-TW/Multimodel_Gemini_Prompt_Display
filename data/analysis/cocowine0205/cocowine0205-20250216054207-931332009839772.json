@@ -1,171 +1,273 @@
 {
   "videoName": "cocowine0205-20250216054207-931332009839772.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 74,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Shopping",
-        "Promotional"
-      ],
+      "videoDuration": 75.64,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A woman wearing a black and white checkered sweater and a grey fluffy hat stands outside a building with a large red sign that says '光66 寵物百貨批發'. She gestures excitedly towards the entrance while large colorful text overlays appear around her. (2) Another woman with long dark hair in a brown dress appears pushing a silver shopping cart inside a warehouse-style retail space with rows of shelves filled with colorful packages of pet products. (3) The two women are shown in a series of fast-cut clips inside the store, holding up various pet supplies including cat litter, canned food, and bags of treats while pointing at price tags. (4) A small white dog with long fur is held by the woman in the brown dress while they are surrounded by stacks of pet food boxes. (5) The women push a full shopping cart towards the camera, smiling and waving in the aisle of the pet store under bright fluorescent lighting.",
+      "text_narrative_log": "(1) [Variety]: 你敢信. [Slogan]: 桃園居然有. [Logo]: 光66 寵物百貨批發. (2) [Variety]: 寵物版超好買. [Slogan]: 過年超多活動. [Logo]: 光66 寵物百貨批發. (3) [Slogan]: 汪喵星球豆腐砂買一送一. (4) [Slogan]: 超凝小姐豆腐砂買一送一. (5) [Slogan]: 喵探長 289. [Variety]: 還買一送一. (6) [Slogan]: 歐奢健買一送一. (7) [Slogan]: 怪獸部落輕肉泥一包不用40元. (8) [Slogan]: HEROMama 凍乾晶球糧一包只要750. (9) [Slogan]: HEROMama 旅行包三包只要666元. (10) [Subtitle]: 我是66. [Slogan]: CIAO 餐包只要22. (11) [Slogan]: 捲心酥一包只要35元. (12) [Slogan]: CIAO 肉泥 35元. (13) [Slogan]: 化骨雞腿一隻不用16塊. (14) [Slogan]: 起司球只要219. (15) [Slogan]: 香酥餅一盒不用150. (16) [Slogan]: 汪喵星球凍乾只要99. (17) [Slogan]: 小野雞只要99. [Slogan]: 小張狗也是99. (18) [Slogan]: 潔牙骨一桶不用400塊. (19) [Slogan]: 牠喵的5包只要499. (20) [Slogan]: 火雞筋只要45. [Variety]: 整盒帶走超划算. (21) [Slogan]: 艾富鮮 999. [Variety]: 比半價還划算. (22) [Slogan]: 高端飼料阿提拉只要239. [Slogan]: 買一送一. (23) [Slogan]: 真的很好買. [Slogan]: 快帶你的狗狗一起來逛吧.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "2 main female presenters",
+        "mainCharacterDescription": "One woman in a black and white checkered top and fuzzy hat; another woman in a brown dress."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Retail Store",
+          "Supermarket / Warehouse Store"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A large pet supply warehouse store with high industrial shelves, stacked boxes of pet food, cat trees, and various pet accessories.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Bright and colorful"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Panning"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Medium close-up",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Jump cut",
+          "Fast cuts",
+          "Montage"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Compilation / montage sequence"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Dog"
+        ],
+        "foodsDetect": [
+          "Pet Food"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "光66",
+          "汪喵星球",
+          "超凝小姐",
+          "HEROMama",
+          "CIAO",
+          "Orijen"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 1,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 1
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM",
+          "Pop"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Ding / Bell SFX",
+          "Pop / Bubble SFX",
+          "Meme SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 5,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Stingers"
+        ],
+        "audioEventDensity": 5,
+        "audioCutFrequency": 4,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) High-energy electronic pop music with a steady 4/4 beat begins immediately. A female voice speaks enthusiastically in Mandarin, describing a pet store. (2) A sharp 'whoosh' sound effect triggers a transition. A male voice interjects with a punchy, low-pitched delivery to announce '買一送一' (Buy one get one free), accompanied by a 'ding' sound effect. (3) The female narrator's speech rate is fast and rhythmic, synchronized with the rapid visual cuts showing different products. (4) Frequent 'pop' and comic-style SFX punctuate the introduction of each new product price. (5) The BGM continues at a consistent high tempo until the end, concluding with an energetic call to action and a final percussive stinger."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Promotion / Advertisement / Indorsement",
+        "Shopping",
+        "Pet / Animal"
+      ],
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "Unknown"
+          "Taoyuan"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A woman in a black checkered top and fuzzy hat stands in front of a store named '光66寵物百貨批發倉', gesturing with high energy towards the entrance. (2) She is joined by another woman in a dark brown dress pushing a shopping cart filled with pet supplies, and they enter the store. (3) Inside, they proceed through a fast-paced montage, holding up various pet products such as 'Dogcat Star' and 'Lady Condensed' cat litter, 'Detective Meow' and 'Orijen' pet food. (4) The women interact with each other and the camera, pointing at shelves and holding promotional signs. (5) One host is seen holding a small white dog while showcasing 'HEROMama' and 'CIAO' snacks. (6) They navigate through aisles of snacks priced at 99 TWD, eventually ending the video by waving at the exit with a full cart.",
-      "audio_narrative_log": "(1) Fast-paced, upbeat electronic background music starts immediately at a high volume. (2) Two female voices speak with high-pitched, excited tones, introducing the store. (3) A male narrator's voice enters with a professional yet energetic tone, shouting out specific prices and 'buy one get one free' deals. (4) Continuous sound effects such as 'dings', 'pops', and 'camera shutter' sounds coincide with text and price tags appearing on screen. (5) The soundscape remains dense with constant speech and rhythmic music throughout the video.",
-      "text_narrative_log": "(1) '你敢信' (You won't believe it) - Surprised hook. (2) '寵物版超好買' (Pet version super easy to buy) - Enthusiastic recommendation. (3) '過年超多活動' (Many Chinese New Year activities) - Time-sensitive hook. (4) '買一送一' (Buy one get one free) - Repeated promotional text. (5) Various price points like '249', '99', '750', '666' - Functional pricing information. (6) Brand names such as '汪喵星球', 'HEROMama', '阿提拉' - Functional identification."
     },
     "temporal_pacing_summary": {
-      "sceneCutCount": 48,
-      "averageSceneDuration": 1.54,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Hook -> Product Listing Montage -> CTA/Outro"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Upper body"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "2 main female hosts appearing throughout the video.",
-      "mainCharacterDescription": "One host wears a black/white checkered sweater and a grey fuzzy hat; the second host wears a brown tiered dress and a pearl necklace."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Pet Store",
-          "Warehouse Store"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A large pet supply warehouse/store featuring high shelves stocked with bags of cat litter, canned food, and numerous bins of pet snacks. Red promotional banners and cartoon cat/dog mascots are visible.",
-      "lightingStyle": "Bright indoor studio-like lighting within a retail environment.",
-      "weather": "None",
-      "season": "None",
+      "sceneCutCount": 42,
+      "averageSceneDuration": 1.8,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Chinese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "High Saturation, Vibrant",
-      "cameraWork": [
-        "Static",
-        "Follow shot",
-        "Handheld"
-      ]
+      "isNarrativeShift": false
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "Dog"
-      ],
-      "foodsDetect": [
-        "Pet Food",
-        "Pet Snacks",
-        "Cat Litter"
-      ],
-      "trafficDetect": [
-        "Shopping Cart"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "光66",
-        "汪喵星球",
-        "超凝小姐",
-        "Orijen",
-        "HEROMama",
-        "CIAO",
-        "Attila"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 2,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited, Persuasive, Promotional",
-        "pitch": "High and energetic",
-        "loudness": "High",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Cartoon SFX",
-        "Ding",
-        "Pop"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Feature Presentation -> CTA",
-      "mainPurpose": "To promote the Chinese New Year sales event at the '光66' pet supply warehouse. The video utilizes a fast-paced, high-energy format to showcase a wide variety of discounted pet products (food, snacks, litter) to encourage viewers to visit the physical store.",
-      "visualEmotion": "Energetic"
+      "narrativeStructure": "List-based: Hook -> Evidence -> CTA",
+      "mainPurpose": "The video serves as a high-energy promotional guide for a pet supply warehouse in Taoyuan. It utilizes a rapid-fire list of 'Buy 1 Get 1 Free' deals and discounted prices to attract pet owners, combining enthusiastic narration with eye-catching text overlays and variety-show editing to maximize consumer interest.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -173,14 +275,11 @@
         "Explicit",
         "Full"
       ],
-      "endorsementCues": "Direct display of store name, address indications, specific price call-outs, and 'buy one get one free' deals.",
+      "endorsementCues": "Direct presentation of products, pricing, and specific store location '光66'.",
       "endorsementObject": [
-        "光66寵物百貨批發倉"
+        "光66 寵物百貨批發"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Fast-paced editing style typical of Taiwanese retail influencers, featuring constant price overlays and dual-host banter.",
-      "freeDescribe": "The video effectively targets budget-conscious pet owners by emphasizing high 'CP value' and bulk buy discounts during the festive season."
-    }
+    "freeDescribe": "A typical social media promotional video for retail, characterized by very fast cuts and dense on-screen information."
   }
 }

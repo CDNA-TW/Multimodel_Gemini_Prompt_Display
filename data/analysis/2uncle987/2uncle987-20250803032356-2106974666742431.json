@@ -1,190 +1,287 @@
 {
   "videoName": "2uncle987-20250803032356-2106974666742431.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 46,
-      "aspectRatio": "9:16",
+      "videoDuration": 45,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A young woman with long black hair, wearing a blue and white horizontally striped sleeveless dress and white sneakers, enters a brightly lit indoor space. She is first seen walking past shelves stocked with various packaged goods, then transitions to riding an upward-moving escalator. The setting appears to be a modern shopping mall with polished floors and bright overhead lighting. (2) The woman enters a retail store branded 'STANCAVE'. She is seen interacting with sports apparel, specifically holding up a blue World Baseball Classic (WBC) jersey and a white jersey with a 'CT' logo. She stands near a display table filled with small decorative patches and accessories, gesturing toward the items. The lighting is bright and even, typical of a professional retail environment. (3) She moves to another section labeled 'HOBBY WORLD'. The area is filled with glass display cases containing figurines, toys, and collectible cards. She walks through the aisles, looking at the diverse merchandise, including a wall of anime-style figurines and Pokemon card anniversary sets. Her facial expression is enthusiastic and cheerful. (4) The scene shifts to the 'FLIPPER'S' cafe. The woman is seated at a white table, browsing through a physical menu that showcases colorful photos of pancakes. A female friend in a pink shirt is briefly seen standing and looking at the menu alongside her. The interior features warm wood paneling and stylish pendant lights. (5) A very tall stack of fluffy souffle pancakes topped with whipped cream and fresh strawberries is served. The woman and her friend are shown using forks to take bites of the dessert, showing expressions of enjoyment and delight. Close-ups emphasize the soft, jiggly texture of the pancakes.",
+      "text_narrative_log": "(1) [Slogan]: DREAM PLAZA. (2) [Logo]: STANCAVE. (3) [Subtitle]: 哎～～之前那個WBC的周邊. [Variety]: WBC週邊. [Slogan]: 世界經典棒球賽. (4) [Subtitle]: 然後這邊呢主打是讓你可以客製. (5) [Subtitle]: 印你想印的東西. (6) [Subtitle]: 就像你看空白的地方. (7) [Subtitle]: 然後你就可以選你想印的東西把它印上去. (8) [Subtitle]: 就變成專屬你的. (9) [Logo]: HOBBY WORLD. (10) [Subtitle]: 玩具店要來的吧. (11) [Subtitle]: 你要買小朋友玩具也有. (12) [Subtitle]: 大人的收藏也有. (13) [Subtitle]: 來去買爆！！. (14) [Logo]: FLIPPER'S. (15) [Subtitle]: 一生摯愛舒芙蕾鬆餅. (16) [Subtitle]: 就是我不太愛吃甜點但是舒芙蕾鬆餅我可以. (17) [Variety]: 我可以. (18) [Variety]: 超高！！. [Slogan]: 期間限定. (19) [Variety]: 超大 🍓!!. (20) [Variety]: 軟綿綿口感～. (21) [Subtitle]: 真的很好吃.",
+      "visual_human_presence": {
+        "totalHumanCount": 8,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 6,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main female creator, 1 female friend at the end, approximately 6 background shoppers and staff across different scenes.",
+        "mainCharacterDescription": "A young woman with long, straight dark hair wearing a blue and white horizontally striped sleeveless midi dress and white sneakers."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Shopping Mall / Department Store",
+          "Retail Store",
+          "Cafe / Tea Shop"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The video moves through several distinct indoor environments: a grocery/market area, a sports apparel store (STANCAVE) with clothing racks, a hobby store (HOBBY WORLD) with glass display cases and toy shelves, and a cafe (FLIPPER'S) with wooden decor and white tables.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Walking handheld",
+          "Follow shot"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Medium full shot",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Fast cuts"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Dessert / cake / cookies",
+          "Fruit",
+          "Prepared meal / plated dish"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "STANCAVE",
+          "HOBBY WORLD",
+          "FLIPPER'S",
+          "Pokémon"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Acoustic/Folk"
+        ],
+        "tempoBPM": 118,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "String",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Guitar",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Crowd Murmur"
+        ],
+        "crowdNoiseIntensity": 1,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Ceramics / Glass  Clink"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Other"
+        ],
+        "soundEffectsIntensity": 2,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio opens with an upbeat, rhythmic acoustic guitar track and a light drum beat, establishing a cheerful and energetic mood. The BGM remains consistent throughout the sequence. (2) A female voice begins narrating with high arousal and a bright, friendly tone. She speaks quickly and clearly, expressing enthusiasm about World Baseball Classic merchandise. (3) The vocal delivery continues as she describes customization options for jerseys. The mix focuses heavily on the clear vocal track, with the music sitting comfortably in the mid-background. (4) As the location shifts to the toy store, the narrator's pitch rises slightly, reflecting heightened excitement. The background music maintains its steady tempo, and the spectral brightness is high. (5) In the final phase at the cafe, the narrator's voice exhibits high valence and joy. Subtle sounds of clinking silverware are audible, layered beneath the primary vocal and the persistent upbeat background music."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
         "Vlog",
         "Lifestyle",
         "Food Review",
         "Shopping"
       ],
-      "withRealPeople": true,
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "Taipei"
+          "None"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman with long dark hair, wearing a blue and white striped sleeveless dress, walks through a brightly lit shopping mall identified as 'Dream Plaza'. She is seen on an escalator and walking through the corridors. (2) She enters a store named 'STANCAVE' where she looks at sports apparel, specifically a WBC (World Baseball Classic) themed jacket and jersey. She also shows a tray with various embroidered patches. (3) The scene shifts to 'HOBBY WORLD', a store filled with toy boxes, anime figurines, and collectible cards. She smiles while holding a pink box. (4) She transitions to 'FLIPPER'S', a cafe with white brick walls and wooden accents. She is seen browsing a menu featuring souffle pancakes. (5) She and a female friend are at a table, excitedly eating a tall, multi-layered strawberry souffle pancake tower. They take bites and look directly at the camera with expressions of delight.",
-      "audio_narrative_log": "(1) High-energy, upbeat electronic pop background music plays continuously. A female voice speaks in an enthusiastic, fast-paced tone, introducing the mall. (2) The music maintains its tempo as the female narrator describes the products at STANCAVE and the customization options for patches. (3) Music continues as she talks about the toys and collectibles found in Hobby World. (4) Sound of a page turning or soft restaurant ambiance is layered under the BGM as the narration focuses on the cafe. (5) The voices of the two women are heard reacting to the taste of the dessert with 'Mmm' sounds and happy exclamations, while the upbeat music reaches its conclusion.",
-      "text_narrative_log": "(1) 'DREAM PLAZA' - Title card at the beginning. (2) 'STANCAVE' - Store name label. (3) 'WBC 週邊 世界經典棒球賽' - Functional text explaining baseball merchandise. (4) 'HOBBY WORLD' - Store name label. (5) 'FLIPPER'S' - Cafe name label. (6) '一生摯愛舒芙蕾鬆餅' - Hook expressing her love for souffle pancakes. (7) '我可以' - Enthusiastic 'I can' caption. (8) '期間限定', '超高', '超大!!' - Decorative variety-show style hooks describing the large strawberry pancake tower."
     },
     "temporal_pacing_summary": {
-      "sceneCutCount": 28,
-      "averageSceneDuration": 1.6,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro -> Store Tour (Sports) -> Store Tour (Hobbies) -> Cafe Dining -> Outro"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 8,
-      "maleDetectAmount": 2,
-      "femaleDetectAmount": 6,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Torso"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 main creator, 1 female friend at the end, and approximately 6 shoppers/staff in the background across different scenes.",
-      "mainCharacterDescription": "A young Asian woman with long black hair, wearing a blue and white horizontally striped sleeveless knee-length dress and white sneakers."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Shopping Mall",
-          "Retail Store",
-          "Cafe"
-        ],
-        "topography": [
-          "Plain"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "Modern shopping mall interiors with polished floors, various retail displays for clothing and toys, and a cozy cafe with wooden furniture and white brick walls.",
-      "lightingStyle": "Bright indoor lighting / Studio quality",
-      "weather": "Unknown",
-      "season": "Summer",
+      "sceneCutCount": 18,
+      "averageSceneDuration": 2.5,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "High Saturation / Bright",
-      "cameraWork": [
-        "Follow shot",
-        "Handheld",
-        "Static",
-        "POV"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Souffle Pancake",
-        "Strawberries",
-        "Whipped Cream",
-        "Iced Tea"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "STANCAVE",
-        "WBC",
-        "FLIPPER'S",
-        "POKEMON",
-        "AMERICAN HOLIC"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut with BGM overlay",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 1,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 2,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and friendly",
-        "pitch": "Medium-High",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic Pop",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion",
-        "Synthesizer"
-      ],
-      "instrumentsAudible": [
-        "Drums",
-        "Synth Bass"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Ding",
-        "Sparkle SFX"
-      ],
-      "ambientNoise": [
-        "Mall Background"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Sequence of Store Highlights -> Climax (Food Experience)",
-      "mainPurpose": "To promote the 'Dream Plaza' shopping mall in Taipei by showcasing its diverse range of attractions including sports merchandise, hobby/collectible stores, and a popular dessert cafe. It targets a young, lifestyle-oriented audience seeking weekend leisure activities.",
-      "visualEmotion": "Energetic and Fun"
+      "narrativeStructure": "List-based: Entry -> Retail Showcase 1 -> Retail Showcase 2 -> Food Experience -> Conclusion",
+      "mainPurpose": "To showcase a day-out experience at DREAM PLAZA, highlighting specific retail attractions like sports apparel and collectible toys, as well as a popular dessert destination.",
+      "visualEmotion": [
+        "energetic",
+        "warm",
+        "joyful"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
-        "Explicit",
-        "Integrated"
+        "Explicit Integrated"
       ],
-      "endorsementCues": "Clear identification of the mall name 'Dream Plaza' and specific tenants like 'STANCAVE' and 'FLIPPER'S', along with a walkthrough experience highlighting products.",
+      "endorsementCues": "The creator specifically names and visits STANCAVE, HOBBY WORLD, and FLIPPER'S, showing products and the experience within these locations while identifying the mall as DREAM PLAZA.",
       "endorsementObject": [
-        "Dream Plaza",
+        "DREAM PLAZA",
         "STANCAVE",
+        "HOBBY WORLD",
         "FLIPPER'S"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Variety-show style captioning and fast-paced editing commonly found in Asian lifestyle vlogs.",
-      "freeDescribe": "The video effectively uses visual 'hooks' (like the tall pancake tower) to maintain viewer engagement and emphasizes the 'one-stop' leisure experience of the mall."
-    }
+    "freeDescribe": "The video uses a high density of on-screen text and fast editing to maintain energy, typical of social media travel/lifestyle content."
   }
 }

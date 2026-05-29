@@ -1,15 +1,247 @@
 {
   "videoName": "2uncle987-20250831045118-1427351135708237.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 31,
-      "aspectRatio": "9:16",
+      "videoDuration": 32.1,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A professional fashion runway scene features two models in black avant-garde clothing performing aggressive, dance-like movements in a bright, minimalist studio. Seated audience members observe while filming on smartphones. (2) The scene cuts to a well-lit indoor hallway with marble-patterned flooring and light wood doors where a man in a black t-shirt and a woman in a black crop top begin mimicking the runway movements. (3) The video alternates rapidly between various original runway performances—featuring dramatic spins, pseudo-fighting, and intense poses—and the couple's low-budget, humorous recreations in their hallway. (4) The recreations become increasingly exaggerated, with the man and woman engaging in mock wrestling, dramatic falls, and intense facial expressions. (5) A final close-up shows the couple in a state of comedic struggle, with the woman screaming and the man making a strained, funny face as they pose for the camera.",
+      "text_narrative_log": "(1) [Logo]: @HanHan. (2) [Slogan]: hello baby. (3) [Variety]: 哈哈哈哈. (4) [Logo]: @2uncle987.",
+      "visual_human_presence": {
+        "totalHumanCount": 15,
+        "maleDetectAmount": 7,
+        "femaleDetectAmount": 8,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face close-up",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Crowd"
+        ],
+        "countingEvidence": "2 main creators in the hallway; at least 13 other people including models and audience in the runway footage.",
+        "mainCharacterDescription": "A young man with brown hair wearing a black t-shirt and light grey sweatpants; a young woman with hair in a high ponytail wearing a black crop top and black cargo pants with knee cut-outs."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Stage / Performance Venue",
+          "Indoor Home"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A minimalist white fashion runway studio with tiered seating and bright overhead lights; a modern residential hallway with white walls, marble-veined floors, and light-colored wooden doors.",
+        "lightingStyle": [
+          "Bright studio lighting",
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Panning",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Full shot",
+          "Medium shot",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Parallel editing / cross-cutting",
+          "Meme-style edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Compilation / montage sequence"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "English",
+          "Simplified Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 1,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 3
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Comedic/Exaggerated"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": true,
+        "articulationClarity": 2,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 8,
+        "dominance": 5,
+        "hasVocalTension": true
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Minor / Aeolian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 2,
+        "beatStrength": 5,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter",
+          "Applause"
+        ],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Footsteps",
+          "Object Impact / Thud / Drop",
+          "Clothing / Fabric Rustle"
+        ],
+        "incidentalNoiseIntensity": 3,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Glitch / Digital Distortion SFX",
+          "Other"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 1,
+        "vocalRatio": 2,
+        "musicToSpeechLoudRatio": 4,
+        "musicDuration": 5,
+        "speechMusicOverlap": 2,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Mixed"
+        ]
+      },
+      "audio_narrative_log": "(1) Fast-paced, percussive electronic music starts with a driving 4/4 beat. Sounds of rhythmic footsteps and fabric rustling sync with the movement. (2) A sharp impact SFX and a brief digital glitch occur during a visual cut to the hallway. (3) The female creator emits a high-pitched, excited shout as she is pulled by the male creator. (4) A loud, heavy thudding sound echoes as a fall is simulated, accompanied by the man laughing loudly in the background. (5) The mix engineer emphasizes the low-end bass of the music, which swells in volume alongside the sounds of struggle. (6) The track concludes with a series of rapid-fire impact sounds and a final, distorted vocal scream of mock terror and amusement."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
         "Comedy",
-        "Parody",
-        "Dance"
+        "Meme / Trend"
       ],
-      "withRealPeople": true,
       "location": {
         "country": [
           "Unknown"
@@ -19,156 +251,30 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video starts with a split-second clip of a high-fashion runway where models in avant-garde black clothing perform a stylized, aggressive walk. It then cuts to a young man and woman in a residential hallway attempting to mimic the dramatic movements. (2) The sequence alternates rapidly between professional runway footage and the couple's hallway parody. The couple performs exaggerated lunges, hair flips, and jumps. The woman's facial expressions transition from intense concentration to laughter. (3) In the final phase, the man attempts to lift or hold the woman in a dramatic pose. He exhibits extreme facial strain and bulging eyes as he struggles with her weight, while she lets out a wide-mouthed scream of surprise or laughter. The camera moves closer to capture their distorted facial expressions.",
-      "audio_narrative_log": "(1) An upbeat, rhythmic electronic dance track starts immediately. Footsteps on a hard floor are audible during the hallway segments. (2) Short, sharp vocal bursts—sounds of effort and brief giggles—are heard as the couple jumps and lunges. The BGM remains at a consistent high volume, driving the pace of the edits. (3) The audio finishes with a loud, high-pitched comedic scream from the woman and grunting sounds from the man as they struggle with the final pose, momentarily drowning out the background music.",
-      "text_narrative_log": "(1) Decorative/Functional Text: The phrase 'kaka baby' is printed in a small white font on the front of both the man's black t-shirt and the woman's black crop top. (2) No other on-screen subtitles or decorative text overlays are present."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 22,
-      "averageSceneDuration": 1.4,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Comparison/Parody: Professional Runway -> Amateur Imitation -> Comedic Failure"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 15,
-      "maleDetectAmount": 5,
-      "femaleDetectAmount": 10,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Face"
-      ],
-      "crowdLevel": "Crowd",
-      "countingEvidence": "2 main creators in hallway; approximately 13 models and audience members in the professional runway clips.",
-      "mainCharacterDescription": "A young man wearing a black t-shirt with 'kaka baby' text and grey joggers; a young woman wearing a black long-sleeve crop top with 'kaka baby' text and black ripped joggers."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Hallway",
-          "Studio"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A modern, white-walled hallway with light wood doors and marble-tiled floors; a large, white professional studio or gallery space with audience seating.",
-      "lightingStyle": "Bright indoor lighting and professional studio lighting.",
-      "weather": "None",
-      "season": "None",
+      "sceneCutCount": 26,
+      "averageSceneDuration": 1.2,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "Low",
-        "language": [
-          "English"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Follow shot"
-      ]
+      "isNarrativeShift": false
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "kaka baby"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Fragmented",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "Medium"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 1,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and comedic",
-        "pitch": "High (screaming)",
-        "loudness": "High",
-        "speed": "Fast (non-verbal)",
-        "speechDensity": "Occasional narration",
-        "language": [
-          "None"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Electronic Dance Music",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Hallway echo",
-        "Crowd murmur"
-      ],
-      "audioQuality": "Field"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Professional Hook -> Amateur Parody -> Comedic Climax",
-      "mainPurpose": "To entertain the audience through a humorous juxtaposition of high-fashion intensity and everyday awkwardness. The video parodies the dramatic and sometimes aggressive walking styles seen on modern runways by showing the 'main characters' attempting and failing to replicate those moves in a mundane hallway environment.",
-      "visualEmotion": "Humorous"
+      "narrativeStructure": "Montage: Hook -> Parallel Comparison -> Climactic Exaggeration",
+      "mainPurpose": "The video is a comedic parody of an unconventional, aggressive fashion show. By using parallel editing to compare the 'professional' runway performances with low-budget hallway recreations, the creators highlight the absurdity of the original choreography through domestic slapstick and exaggerated facial expressions.",
+      "visualEmotion": [
+        "humorous",
+        "energetic"
+      ]
     },
     "endorsement_analysis": {
-      "isEndorsement": true,
+      "isEndorsement": false,
       "endorsementMethod": [
-        "Implicit",
-        "Full"
+        "None"
       ],
-      "endorsementCues": "Both main characters are prominently wearing matching apparel with the 'kaka baby' branding visible throughout the comedic performance.",
+      "endorsementCues": "None",
       "endorsementObject": [
-        "kaka baby"
+        "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-intensity parody of professional events; matching branded outfits.",
-      "freeDescribe": "The video relies heavily on 'Expectation vs. Reality' tropes and physical comedy. The fast-paced editing between professional and amateur clips enhances the comedic timing."
-    }
+    "freeDescribe": "The video's humor relies heavily on precise rhythmic synchronization between the fast-paced EDM track and the physical movement."
   }
 }

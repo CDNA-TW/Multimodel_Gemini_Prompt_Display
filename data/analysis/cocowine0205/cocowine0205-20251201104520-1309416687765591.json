@@ -1,213 +1,296 @@
 {
   "videoName": "cocowine0205-20251201104520-1309416687765591.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 89,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Shopping Guide",
-        "Promotion"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) Two young women stand in front of a Costco Wholesale entrance. The woman on the left wears a white bucket hat and a white t-shirt, excitedly holding a thick fan of 1000 TWD bills near her face. The woman on the right has long dark hair and a neutral but pleasant expression. Bright overhead warehouse lighting illuminates the scene. (2) A rapid series of product showcase shots begins, featuring an LG air purifier, PS5 game bundles, and large household appliances like a Bayside electric fireplace. The setting remains a warehouse interior with high-shelf industrial racks. (3) The sequence continues with high-granularity shots of electronics including Philips TVs, ASUS laptops, and kitchen appliances like Electrolux washing machines and Samsung refrigerators. Each shot is centered on the product, often including the original Costco price tags in the background. (4) The montage transitions to personal care items like electric toothbrushes, kitchen gadgets like air fryers, and home furniture such as chairs and mattresses. (5) The final segment displays seasonal and bulky items including kids' electric cars, luggage sets, and LED Christmas decorations like trees and reindeer. The lighting is consistently bright and even across all product displays.",
+      "text_narrative_log": "(1) [Subtitle]: 折扣金額破百萬！ 好市多 千元折扣商品 11/24～11/30 黑五特報第五彈. [Logo]: @cocowine. (2) [Subtitle]: LG AIR PURIFIER 360度空氣清淨機 AS651DWHO 原價17899 -3700 特價14199. (3) [Subtitle]: PS5主機遊戲 雙手把同捆組 含NBA 2K26 數位遊戲券及無線雙手把 原價19199 -3400 特價15799. (4) [Subtitle]: BAYSIDE 紅外線電暖爐 原價16899 -3900 特價12999. (5) [Subtitle]: AIRMATE 艾美特 對流式電暖器 HC12222FUR 原價5899 -1200 特價4699. (6) [Subtitle]: 飛利浦 55吋 MINILED顯示器 原價22999 -4600 特價18399. (7) [Subtitle]: 飛利浦 75吋 MINILED顯示器 75MLED800 原價44799 -9000 特價35799. (8) [Subtitle]: OVO PROJECTOR HD小蘋果投影機 U3 原價12499 -2500 特價9999. (9) [Subtitle]: ASUS 15.6吋 筆記型電腦 R7/8G/512GB 原價21399 -4400 特價16999.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "2 main female creators appearing at the intro.",
+        "mainCharacterDescription": "Two young women; one in a white bucket hat and t-shirt, the other with long dark hair in casual attire."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Retail Store",
+          "Supermarket / Warehouse Store"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "Costco Wholesale entrance and various warehouse interior sections featuring high industrial shelving, product display tables, and appliance aisles.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Autumn / Winter"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Panning"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Fast cuts",
+          "Jump cut",
+          "Montage"
+        ],
+        "visualRhythm": [
+          "Very fast pace"
+        ],
+        "takeStructure": [
+          "Compilation / montage sequence"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "Bicycle",
+          "Scooter / motorcycle",
+          "Toy vehicle"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Laptop",
+          "Camera / DSLR",
+          "TV / display screen",
+          "Game console / controller",
+          "Home appliance",
+          "Kitchen appliance"
+        ],
+        "landmark": [
+          "Costco"
+        ],
+        "brandLogos": [
+          "Costco",
+          "LG",
+          "PlayStation",
+          "Philips",
+          "ASUS",
+          "Electrolux",
+          "Samsung",
+          "Bosch",
+          "Bose",
+          "Oral-B",
+          "Tefal",
+          "Kohler"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 1,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 5,
+        "speechPauseDensity": 1
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Pop / Bubble SFX",
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 5,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 5,
+        "audioCutFrequency": 5,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) High-energy female vocals open with an excited greeting. An upbeat electronic pop BGM with a strong four-on-the-floor kick drum (approx. 128 BPM) begins immediately. (2) A transition sound effect, a sharp 'pop', signals a shift to a male narrator. The male voice delivers a rapid-fire list of products and prices with high articulation clarity and rhythmic cadence. (3) Continuous 'ding' and 'whoosh' sound effects punctuate every scene cut, perfectly synchronized with the fast-paced visual montage. The BGM remains constant, maintaining high energy and excitement. (4) The male narrator's speech rate remains extremely high, mimicking a promotional broadcast style. The vocal tone is persuasive and energetic, with frequent rising intonations to emphasize 'special price' figures. (5) The audio concludes with a final 'ding' effect as the BGM fades out sharply after the last product description, matching the quick editing pace of the video."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Product Showcase",
+        "Promotion / Advertisement / Indoresment",
+        "Shopping"
+      ],
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "None"
+          "Unknown"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video is a fast-paced live-action compilation. It begins with two young women standing in front of a Costco Wholesale storefront, holding a large stack of cash and looking extremely excited with wide eyes and bright smiles. (2) The scene transitions into a rapid-fire sequence of product displays inside the warehouse. Objects include an LG air purifier, PlayStation 5 consoles, Philips and Samsung televisions, ASUS laptops, Electrolux washing machines, and Daikin air conditioners. (3) Further segments showcase household goods like Kirkland golf clubs, ZAU electric bikes, TCL and Sharp refrigerators, Bosch dishwashers, and various pieces of furniture like armchairs and mattresses. (4) The final shots feature seasonal and decor items including a 137cm LED Christmas tree, LED reindeer, and Disney-branded printed rugs.",
-      "audio_narrative_log": "(1) High-energy, upbeat electronic dance music starts immediately and continues throughout the video. (2) A male voiceover enters, speaking in Mandarin at an extremely fast, rhythmic pace, almost like a rapid-fire auctioneer or rapper, announcing the product names and their discounted prices. (3) The audio environment is a 'Field' style recording where the music and narration are layered over the faint, muffled hum of a warehouse environment. (4) Sharp sound effects (SFX) such as 'ding' or 'swoosh' sounds are heard during price transitions, emphasizing the discounts.",
-      "text_narrative_log": "(1) Functional Text: Subtitles translate the rapid-fire narration of product models and prices, such as 'LG AIR PURIFIER 360度空氣清淨機'. (2) Decorative/Hook Text: The intro features a large, colorful hook: '折扣金額破百萬! 好市多 千元折扣商品 11/24-11/30 黑五特報第五彈' (Discount amount exceeds one million! Costco thousand-dollar discount products Nov 24-30 Black Friday Report #5) in a variety-show style with glowing effects. (3) Content & Tone: Throughout the video, each product is accompanied by a breakdown of 'Original Price' (原價), 'Discount' (-xxxx), and 'Special Price' (特價) in bold, colorful fonts to evoke excitement and urgency."
     },
     "temporal_pacing_summary": {
-      "sceneCutCount": 58,
-      "averageSceneDuration": 1.5,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro Hook -> Rapid-fire Product & Price Showcase -> Outro Display"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 5,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 4,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Back view"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "2 main female creators in intro, 1 male staff member partially visible in background, 2 female shoppers in background shots",
-      "mainCharacterDescription": "Two young women in casual attire; one wears a white bucket hat, white t-shirt, and ripped jeans; the other has long straight dark hair and a light-colored top."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Warehouse Store",
-          "Costco"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "The background consists of high-shelf warehouse aisles, product display stands, price tags, and other shoppers within a large-scale retail environment.",
-      "lightingStyle": "Bright, even industrial lighting typical of a large retail warehouse.",
-      "weather": "Unknown (Indoor)",
-      "season": "Winter (based on text for November Black Friday)",
+      "sceneCutCount": 45,
+      "averageSceneDuration": 1.9,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Chinese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "High Saturation",
-      "cameraWork": [
-        "Static",
-        "POV",
-        "Follow shot"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "Electric Bike",
-        "Toy Car"
-      ],
-      "techDetect": [
-        "Smartphone",
-        "TV",
-        "Laptop",
-        "PlayStation 5",
-        "Air Purifier",
-        "Projector",
-        "Security Camera"
-      ],
-      "landmark": [
-        "Costco Wholesale"
-      ],
-      "brandLogos": [
-        "COSTCO",
-        "LG",
-        "SONY",
-        "PHILIPS",
-        "AIRMATE",
-        "OVO",
-        "ASUS",
-        "ELECTROLUX",
-        "DAIKIN",
-        "KIRKLAND",
-        "TCL",
-        "SHARP",
-        "SAMSUNG",
-        "BOSCH",
-        "CELINDA",
-        "SWANN",
-        "BALMUDA",
-        "BOSE",
-        "ORAL-B",
-        "TEFAL",
-        "KOHLER",
-        "KARCHER",
-        "ARPHA",
-        "AIKO",
-        "SIDIZ",
-        "SEALY",
-        "ASTON MARTIN",
-        "DELSEY",
-        "DISNEY"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Beat-matched cuts",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 0,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 1,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and energetic",
-        "pitch": "Medium",
-        "loudness": "High",
-        "speed": "Extremely fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop/Electronic",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Ding",
-        "Whoosh",
-        "Cash register sound"
-      ],
-      "ambientNoise": [
-        "Warehouse hum"
-      ],
-      "audioQuality": "Field"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Product Listing -> Closing",
-      "mainPurpose": "The video serves as a high-energy promotional shopping guide for Costco's Black Friday sale in Taiwan. It aims to overwhelm the viewer with a sense of value and variety by rapidly listing significant discounts on high-ticket items like electronics and home appliances, encouraging immediate visits to the store during the specified dates.",
-      "visualEmotion": "Energetic"
+      "narrativeStructure": "List-based: Hook -> Informative Catalog -> Conclusion",
+      "mainPurpose": "This video serves as a high-density shopping guide and promotional advertisement for Costco's Black Friday event. By combining an energetic intro with a rapid-fire, well-categorized catalog of discounted products, it aims to create a sense of urgency and excitement (FOMO) for viewers to visit the store between November 24th and 30th.",
+      "visualEmotion": [
+        "energetic",
+        "informative"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
         "Explicit",
-        "Full"
+        "Integrated"
       ],
-      "endorsementCues": "Direct display of the Costco storefront, extensive listing of products available at the store, and clear promotional dates and pricing for the 'Black Friday' event.",
+      "endorsementCues": "Detailed pricing, store location, and specific discount dates are provided throughout the video.",
       "endorsementObject": [
-        "好市多 (Costco)"
+        "Costco"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "The 'speed-read' narration style combined with beat-synced product transitions is a common signature for viral retail promotion vlogs.",
-      "freeDescribe": "The video uses a 'FOMO' (Fear Of Missing Out) psychological tactic by showing a large stack of cash and countdown-style product reveals."
-    }
+    "freeDescribe": "High-intensity short-form marketing content optimized for social media consumption with frequent visual and auditory cues."
   }
 }

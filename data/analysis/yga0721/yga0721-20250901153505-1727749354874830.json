@@ -1,170 +1,267 @@
 {
   "videoName": "yga0721-20250901153505-1727749354874830.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 81,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Family",
-        "Lifestyle"
-      ],
+      "videoDuration": 81.9,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "Taiwan"
+      "visual_narrative_log": "(1) The video begins with a woman and two young boys sitting on a white sofa in a modern indoor living room. The woman, positioned in the middle, wears a black and white striped long-sleeved shirt and wide-leg denim jeans. The boy on her left is wearing a blue t-shirt and glasses, while the boy on her right is in a green t-shirt with 'Haha Baby' text. They are focused on a booklet. (2) The woman opens a picture book featuring colorful, surreal illustrations. She shows a page with a shark wearing sneakers and a monkey holding bananas. The boys point excitedly at the images with their hands, their facial expressions animated and curious. (3) The woman turns the page to reveal more creative drawings, including a coffee cup with a face and an orange robot-like figure. The camera remains static at eye-level, capturing their close interaction. The boys' expressions shift from curiosity to amusement as they discuss the pictures. (4) As the pages continue to turn, they encounter a character with a large nose and a zebra-patterned creature. The boys gesture towards specific details on the page. The lighting is bright and indoor-typical, casting soft shadows on the white sofa and grey carpet. (5) On the final pages, they see an elephant wearing high-heeled shoes and another stylized elephant. The boys break into hearty laughter, their bodies leaning back on the sofa in joy. The woman smiles broadly, enjoying the shared moment of playful imagination.",
+      "text_narrative_log": "(1) [Logo]: @ga_ga0721. (2) [Subtitle]: 咱們也來三十海晶怪物來. (3) [Subtitle]: 就是這個...阿波這是什麼. (4) [Subtitle]: 阿波... (5) [Subtitle]: 哦，那這個猴子... (6) [Subtitle]: 什麼東西啊，然後呢. (7) [Subtitle]: 下一頁... (8) [Subtitle]: 哦，那這橘子機器人... (9) [Subtitle]: 叫什麼，啊... (10) [Subtitle]: 會嗎，你這個... (11) [Subtitle]: 下次問蔡波能... (12) [Subtitle]: 這是什麼... (13) [Subtitle]: 然後呢然後呢... (14) [Subtitle]: 真的喔... (15) [Subtitle]: 這個我不會... (16) [Subtitle]: 什麼你饅頭喔...",
+      "visual_human_presence": {
+        "totalHumanCount": 3,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 2,
+        "mainCharacterCount": 3,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face"
         ],
-        "city": [
-          "None"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A woman and two young boys are sitting together on a large white leather sofa in a modern living room. The woman, wearing a striped long-sleeved shirt and jeans, holds a booklet containing various stylized and colorful illustrations. (2) As the woman flips through the pages, the boys point at different characters—including a shark, a mechanical figure, a human-like cup, and stylized elephants—reacting with animated gestures and smiles. (3) The camera remains mostly static, focusing on the trio's interaction. One boy leans toward the booklet while the other gestures excitedly toward the camera or the pictures. (4) Toward the end, the children laugh and lean back on the sofa, seemingly amused by the contents of the book or their conversation.",
-      "audio_narrative_log": "(1) The audio begins with high-pitched, enthusiastic voices of children and a woman speaking Mandarin. The tone is cheerful and interactive. (2) As they view the pictures, the children make playful, rhythmic sounds and nonsensical words, likely mimicking or naming the characters in the book, followed by frequent bursts of laughter. (3) An off-screen male voice (the cameraman) periodically interjects with questions and laughing comments, creating a multi-layered conversation. (4) The environment is quiet except for the vocal interactions, with no background music or significant ambient noise detected.",
-      "text_narrative_log": "None"
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 1,
-      "averageSceneDuration": 81.0,
-      "isNarrativeShift": false,
-      "mainActionFlow": "The video follows a continuous flow of interactive reading and playful conversation between a mother and her children."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 4,
-      "maleDetectAmount": 3,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 2,
-      "mainCharacterCount": 3,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 woman and 2 boys are seated on the sofa; 1 male cameraman's hand is briefly visible and his voice is heard.",
-      "mainCharacterDescription": "A woman with long dark hair in a black and white striped shirt; two young boys, one in a navy t-shirt and glasses, the other in a green t-shirt."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 adult female and 2 young boys sitting on a sofa.",
+        "mainCharacterDescription": "The main woman has long dark hair and wears a striped shirt. The two boys are young, one wearing glasses and a blue shirt, the other in a green t-shirt."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
           "Indoor Living Room"
         ],
-        "topography": [
-          "None"
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A modern living room with a large white L-shaped sofa, grey carpet, and a large window in the background reflecting the indoor lights.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
         ]
       },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A modern, well-lit living room featuring a large white leather sofa, a gray carpet, and a large window in the background showing a city view at night.",
-      "lightingStyle": "Warm indoor lighting",
-      "weather": "Night",
-      "season": "Unknown",
-      "editingPace": "Slow",
-      "textOverlay": {
-        "density": "None",
-        "language": [
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Animal on packaging / logo"
+        ],
+        "foodsDetect": [
+          "Food on packaging / logo"
+        ],
+        "trafficDetect": [
           "None"
         ],
-        "isSubtitled": false
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Handheld"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Haha baby"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "None",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 3,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 3,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 2
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Playful, high-pitched, and excited",
-        "pitch": "Mixed",
-        "loudness": "Normal to loud",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": false,
-      "bgmGenre": "None",
-      "bgmBPM": 0,
-      "instrumentFamiliesAudible": [
-        "None"
-      ],
-      "instrumentsAudible": [
-        "None"
-      ],
-      "musicSourceType": [
-        "None"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Indoor quiet"
-      ],
-      "audioQuality": "Field"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 3,
+        "total_distinct_voices": 4,
+        "male_vocal_count": 3,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 2
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter"
+        ],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Paper / Page Rustle"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 2,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a female voice speaking in Mandarin with a friendly, narrative tone, introducing a game to two young boys. Their voices are high-pitched and filled with excitement as they react to seeing a picture book. The environment is a clean, quiet indoor space. (2) As the boys look at the illustrations, they invent melodic, gibberish names like 'Charaleo' with high vocal variability and rising intonation patterns. A deep-voiced adult male off-camera is heard laughing and commenting periodically, adding to the jovial atmosphere. (3) A sharp, mid-frequency rustling sound signals each page turn. The children's speech rate increases and their laughter becomes more frequent and high-pitched (high arousal) as they discover new surreal creatures in the book. (4) The adult male voice asks a question about the 'Orange Muscle Man,' prompting a quick, enthusiastic reply from one of the boys. The speech is clear and intelligible, with a very high signal-to-noise ratio and no background music. (5) The final segment is dominated by group laughter and high-energy chatter. The vocal valence is extremely positive, ending the recording on a peak of energetic and joyful domestic interaction."
     }
   },
-  "high_inference_interpretations": {
-    "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Interactive Reading -> Shared Laughter",
-      "mainPurpose": "To showcase a candid and joyful family interaction where children react creatively to illustrations, likely serving as lifestyle content for the influencer's audience.",
-      "visualEmotion": "Warm and Joyful"
-    },
-    "endorsement_analysis": {
-      "isEndorsement": true,
-      "endorsementMethod": [
-        "Implicit",
-        "Integrated"
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Vlog",
+        "Lifestyle",
+        "Family / Kids"
       ],
-      "endorsementCues": "The children are wearing clothing prominently featuring the 'Haha baby' logo, which is the personal brand of the content creator.",
-      "endorsementObject": [
-        "Haha baby"
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 5.8,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Observation -> Interaction -> Reaction",
+      "mainPurpose": "The video captures a heartwarming and humorous family moment where a mother engages her two children in a creative activity using a picture book of surreal monsters. The core appeal lies in the children's imaginative naming of the creatures and their infectious laughter, showcasing a genuine bond.",
+      "visualEmotion": [
+        "warm",
+        "humorous",
+        "energetic"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Candid family interaction, 'Haha baby' apparel usage.",
-      "freeDescribe": "The video relies heavily on the natural charm and humorous responses of the children to engage the viewer, typical of high-engagement family vlogs."
-    }
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "High-quality family interaction vlog with consistent lighting and clear audio. The focus is entirely on the children's imaginative play."
   }
 }

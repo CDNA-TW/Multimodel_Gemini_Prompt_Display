@@ -1,180 +1,287 @@
 {
   "videoName": "cocowine0205-20251122003506-935738508794998.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 48,
-      "aspectRatio": "9:16",
+      "videoDuration": 48.7,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A woman wearing a light blue bucket hat, a white long-sleeve top, and a denim overall dress stands in a warehouse-style supermarket aisle. She gestures enthusiastically with her hands while looking directly at the camera, exhibiting a wide smile. Behind her are tall stacks of brown and white boxes labeled \"Baumkuchen\" with images of chocolate ring cakes. A large red and blue \"COSTCO WHOLESALE\" logo is superimposed at the top of the frame. (2) The camera switches to a close-up shot of the product packaging. The boxes feature a high-quality image of a dark chocolate cake with several slices removed, revealing the interior texture. The text on the box includes \"BAUMKUCHEN Hokkaido Japan\" and \"Chocolate.\" The lighting is bright and industrial, characteristic of a supermarket. (3) The scene transitions to an indoor home setting. Two women sit at a table. The woman from the previous scene now wears a red bucket hat and a yellow striped shirt. Next to her is a woman with long dark hair wearing a dark purple top. They hold individually wrapped chocolate cake pieces and a large outer packaging bag. The background shows a domestic living room with a white shelf containing books and a yellow plush toy. (4) A close-up shot displays five slices of dark chocolate ring cake arranged in a circle on a red decorative plate. The layers of the cake are visible. The women's hands are seen pointing at the cake. (5) Back to the two women at the table. They continue talking to the camera, holding up the packaged cake slices. Various colorful text overlays appear, including a purple and pink box highlighting \"Highest chocolate concentration.\"",
+      "text_narrative_log": "(1) [Logo]: COSTCO WHOLESALE. [Variety]: 跑兩趟才買到. [Variety]: 巧克力年輪蛋糕. (2) [Subtitle]: 終於被我找到了. (3) [Subtitle]: 上次沒有買到. (4) [Subtitle]: 原味的年輪蛋糕現在出巧克力口味. (5) [Subtitle]: 而且聽說是苦甜. (6) [Subtitle]: 我最喜歡苦甜的. (7) [Subtitle]: 苦甜的蛋糕. (8) [Subtitle]: 回去看看值不值得. (9) [Subtitle]: 我覺得現吃的. (10) [Subtitle]: 要麼超好吃. (11) [Subtitle]: 要麼會讓我很傷心. (12) [Subtitle]: 巧克力年輪蛋糕. [Variety]: 巧克力年輪蛋糕. (13) [Subtitle]: 總共有32入 329元. (14) [Subtitle]: 有四個袋子包裝. (15) [Subtitle]: 一打開以後要冰冰箱. (16) [Subtitle]: 它這樣子一顆是10塊錢. (17) [Subtitle]: 覺得它是我們吃過. [Variety]: 巧克力濃度最高. (18) [Subtitle]: 而且是那種苦醇的蛋糕. (19) [Subtitle]: 本身非常地柔軟. (20) [Subtitle]: 也濕潤只是沒有層層分明. (21) [Subtitle]: 可是我們覺得它已經非常的合格了. (22) [Subtitle]: 冷藏後應該會更好吃. (23) [Subtitle]: 因為它的糕體可能會變得更Q彈. (24) [Subtitle]: 對 但這個價格的話. (25) [Subtitle]: 我們覺得非常值得買. (26) [Subtitle]: 如果你原味吃膩的話. (27) [Subtitle]: 巧克力味不要錯過.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "Two main female creators appearing throughout the video.",
+        "mainCharacterDescription": "One woman wears a light blue or red bucket hat and a white/yellow top with overalls. The other has long dark hair and a purple blouse."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Supermarket / Warehouse Store",
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The first half is set in a Costco warehouse with industrial shelves and bulk product stacks. The second half is a brightly lit home living room with a white shelf and household items.",
+        "lightingStyle": [
+          "Bright indoor lighting",
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Handheld",
+          "Zoom in"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Extreme close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Meme-style edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Dessert / cake / cookies",
+          "Chocolate"
+        ],
+        "trafficDetect": [
+          "Shopping cart"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Costco Wholesale",
+          "Kenji"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 0,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly",
+          "Casual"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Plastic / Bag Rustle",
+          "Object Impact / Thud / Drop"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Pop / Bubble SFX",
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Stingers"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) A high-pitched, energetic female voice begins a rapid narration with high emotional arousal. The background music is an upbeat, high-tempo pop track featuring strong electronic beats and bright synthesizer textures. The mix is clean with minimal environmental floor. (2) A sharp \"whoosh\" sound effect triggers a transition. The narrator's pitch rises as she emphasizes the find. The BGM maintains a steady 4/4 rhythm. (3) A \"pop\" sound effect signals a change in phase. A second female voice joins in a slightly lower, more conversational pitch. Both voices overlap occasionally, creating a lively atmosphere. (4) Frequent \"dings\" and soft percussive sound effects coincide with text appearing on screen. The sound of plastic rustling is clearly audible as the speakers handle the product packaging. (5) The energetic BGM continues at a consistent volume underneath the continuous dialogue. The voices maintain a positive and cheerful valence until the track reaches a hard cut at the end."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
-        "Vlog",
         "Food Review",
+        "Vlog",
         "Shopping"
       ],
-      "withRealPeople": true,
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "Unknown"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman wearing a blue hat and blue dress stands in a warehouse aisle with stacks of cake boxes. She gestures excitedly toward the camera. (2) She reaches for a box of Kenji brand chocolate Baumkuchen and picks it up. (3) The scene cuts to an indoor dining table where two women are seated. One woman wears a red hat and yellow shirt, the other has long black hair and a purple top. They have opened the box and are handling individual cake portions. (4) Close-up shots show a sliced ring of chocolate cake on a red decorative plate, followed by the women holding up small, individually wrapped rectangular portions of the cake. (5) They continue to show the packaging details and the cake's texture while interacting with each other at the table.",
-      "audio_narrative_log": "(1) Upbeat, high-tempo pop music begins immediately. A woman's voice is heard speaking in an energetic and high-pitched tone. (2) Sound effects such as high-pitched pops and dings coincide with visual emphasis points. (3) The main female vocal continues a fast-paced monologue, with a second female voice occasionally providing shorter supportive comments and laughter. (4) The music remains consistent in the background while the dialogue becomes more descriptive and informative in tone, maintaining a friendly and enthusiastic atmosphere.",
-      "text_narrative_log": "(1) 'COSTCO WHOLESALE' logo appears at the top. (2) Large decorative text: '跑兩趟才買到 巧克力年輪蛋糕' (Bought it after two trips, Chocolate Baumkuchen) appears in yellow and red. (3) Functional subtitles translate the dialogue into Traditional Chinese throughout the video. (4) Decorative text bubble: '最喜歡苦甜的' (Love bitter-sweet the most). (5) Functional text: '32入 329元' (32 pieces for 329 NTD) and '巧克力濃度最高' (Highest chocolate concentration)."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 14,
-      "averageSceneDuration": 3.4,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro at warehouse -> Unboxing and tasting at home -> Conclusion and recommendation"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Upper body",
-        "Hands only"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "1 main creator (woman in hats), 1 co-host (woman with black hair)",
-      "mainCharacterDescription": "The primary woman is young with long dark hair, wearing a blue bucket hat and denim dress in the first scene, and a red bucket hat with a yellow striped shirt in the second. The second woman has long dark hair and wears a dark purple blouse."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Warehouse Store",
-          "Indoor Studio"
-        ],
-        "topography": [
           "None"
         ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "The first background is a Costco warehouse with industrial shelving and bulk products. The second background is a home interior with a white wall, a table, and some children's toys visible in the far background.",
-      "lightingStyle": "Bright indoor lighting",
-      "weather": "Indoor",
-      "season": "Unknown",
-      "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Bright, High Saturation",
-      "cameraWork": [
-        "Static",
-        "Handheld"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Baumkuchen",
-        "Chocolate Cake"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "COSTCO",
-        "KANGOL",
-        "Kenji"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 2,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Energetic, enthusiastic, and descriptive",
-        "pitch": "High",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat",
-      "bgmBPM": 125,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Electronic Drums"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "Pop",
-        "Ding",
-        "Cartoon SFX"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 2.7,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Location Intro -> Unboxing/Review -> Summary",
-      "mainPurpose": "The video serves as a shopping recommendation and food review for a specific product (Chocolate Baumkuchen) found at Costco. It aims to inform the audience about the product's availability, cost-effectiveness, and flavor profile, encouraging them to purchase it if they enjoy bitter-sweet chocolate treats.",
-      "visualEmotion": "Energetic and cheerful"
+      "narrativeStructure": "List-based: Hook -> Introduction -> Product Detail -> Tasting/Review -> Recommendation.",
+      "mainPurpose": "To provide a highly energetic and positive review of a new chocolate Baumkuchen cake found at Costco. The video aims to inform viewers about the price, quantity, and taste profile (bittersweet chocolate) while encouraging them to purchase it if they enjoyed the original version.",
+      "visualEmotion": [
+        "energetic",
+        "warm",
+        "informative"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
-        "Implicit",
+        "Explicit",
         "Integrated"
       ],
-      "endorsementCues": "Detailed mention of price, quantity, and positive taste review while clearly displaying brand logos.",
+      "endorsementCues": "Direct display of brand logos (Costco, Kenji) and a detailed review of product specifications including price and packaging.",
       "endorsementObject": [
-        "COSTCO",
-        "Kenji"
+        "Kenji",
+        "Costco"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-energy opening with 'two trips' hook, use of signature bucket hats, and side-by-side duo review format.",
-      "freeDescribe": "The video uses typical social media short-form video editing techniques including fast cuts, vibrant text overlays, and bright lighting to maintain high viewer engagement."
-    }
+    "freeDescribe": "A typical social media food vlog characterized by fast-paced editing, bright lighting, and high-energy narration tailored for quick consumption and high engagement."
   }
 }

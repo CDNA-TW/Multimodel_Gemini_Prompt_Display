@@ -1,165 +1,274 @@
 {
   "videoName": "3ctim-20251221163009-1413939933200411.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 57,
-      "aspectRatio": "9:16",
+      "videoDuration": 58,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A middle-aged man wearing a grey patterned newsboy cap, glasses, and a white sweatshirt with Roots branding stands in a brightly lit indoor space. He holds a large black foldable device in front of his chest. The background features a large mirror with circular vanity lights, suggesting a dressing room or bathroom setting. (2) The camera focuses on the device as it is folded and unfolded. It demonstrates a unique triple-fold mechanism resembling the letter G. Large graphic text overlays the center of the screen. The man's hands are visible, showing the textured black back of the phone and the multiple hinges working smoothly. (3) Close-up of the screen fully expanded to a tablet-like size. The interface shows a grid of colorful app icons like Instagram, Spotify, and YouTube. The man's fingers swipe across the glass surface. The lighting is bright and even, highlighting the vibrant colors of the digital display and the lack of visible creases. (4) Comparative visuals emphasize the phone's thinness. It is placed horizontally next to two silver coins on a marble surface. The camera angles highlight the three circular lens modules on the back. A weight graphic 309g and a thickness measurement of 3.9mm appear as overlays. The man continues to gesture enthusiastically. (5) The man demonstrates software features, including a split-screen mode showing his own image and a Samsung DeX setup screen on a monitor-like background. The camera uses medium shots and close-ups to show the user interface. He maintains a smiling, engaging expression while pointing at specific on-screen elements. (6) The man folds the device back into its phone-sized form. He slides it into the back pocket of his beige pants. A graphic showing a thumbs up hand and text overlays appear. He then walks away from the camera, deeper into the room towards a doorway visible in the mirror reflection.",
+      "text_narrative_log": "(1) [Subtitle]: Samsung出的這台Z TriFold. [Logo]: f 3c意思思tim哥. @3ctim. (2) [Slogan]: Samsung Galaxy Z TriFold. (3) [Variety]: 在我手上. (4) [Slogan]: G型設計. (5) [Subtitle]: 聲音好療癒. [Slogan]: Galaxy Z TriFold Galaxy AI. (6) [Subtitle]: 你摺錯了!. (7) [Subtitle]: 三台6.5吋的智慧型手機 拼在一起 就是它的大小 (6.5X3). (8) [Slogan]: 10吋大小. (9) [Subtitle]: 雙轉軸鉸鏈設計. (10) [Slogan]: 309g. (11) [Slogan]: 3.9mm. (12) [Subtitle]: 2億畫素的主鏡頭. [Variety]: (CP值超高). (13) [Subtitle]: 加上1200萬畫素超廣角 還有1000萬畫素的變焦鏡頭. (14) [Slogan]: Samsung Galaxy Z FOLD 7. (15) [Slogan]: UHD 60 前鏡頭. (16) [Subtitle]: Samsung DeX 直接就可使用. (17) [Variety]: (放口袋OK).",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main male creator presenting the device.",
+        "mainCharacterDescription": "A middle-aged man wearing a grey newsboy cap, glasses, and a white sweatshirt with a beaver logo and Roots text."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Bathroom",
+          "Studio"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "An upscale indoor dressing room or bathroom with marble countertops, a large mirror, and several round vanity light bulbs.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Zoom in",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Macro close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Fast cuts",
+          "Graphic transition"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Animal on packaging / logo"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Tablet",
+          "Microphone / lavalier mic"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Samsung",
+          "Roots"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM",
+          "Pop"
+        ],
+        "tempoBPM": 120,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Mechanical Click / Latch",
+          "Clothing / Fabric Rustle",
+          "Footsteps"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Ding / Bell SFX",
+          "Digital UI SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Fade out"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A male voice with a high-pitched and energetic tone introduces the Samsung Galaxy Z TriFold. He speaks quickly with clear articulation and high arousal. Background music consists of an upbeat electronic pop track with a steady tempo. The ambient floor is a clean studio silence. (2) A sharp, percussive mechanical click sounds as the device is folded. This is followed by a short, synthesized haptic notification chime. The speaker's voice becomes more animated and expressive, emphasizing the tactile quality. The BGM maintains its rhythmic pulse, with a prominent bass beat. (3) The speaker continues describing hardware specifications, mentioning weight and thickness. The speech rate is fast but well-enunciated. Each point is emphasized with a sharp whoosh transition sound effect in the mix. The music remains a steady background layer with light synth textures and a consistent electronic rhythm. (4) The audio shifts to a demonstration of software features. The speaker's tone is authoritative yet friendly. A notification-like ding sound accompanies the mention of Samsung DeX. The vocal intensity remains moderate. The BGM features a slight melodic buildup with increasing harmonic tension. (5) The speaker delivers a final playful remark about taking the device away. There is a sound of fabric rustling as he puts the phone in his pocket. Footsteps are heard moving away from the microphone. The music ends with a final, resonant electronic beat and a quick fade-out."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
         "Tech Review",
         "Product Showcase"
       ],
-      "withRealPeople": true,
       "location": {
         "country": [
-          "Taiwan"
+          "Unknown"
         ],
         "city": [
           "Unknown"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) An Asian man wearing a grey flat cap and a white sweatshirt stands in front of a mirror, holding a large black tri-fold smartphone. Large yellow text 'Samsung Galaxy Z TriFold' appears. (2) Close-up shots show the phone folding in a G-shape. The man demonstrates the triple-fold mechanism. (3) The phone is laid flat on a stand to show its 10-inch screen size, then compared to a 10-yuan coin to illustrate its 3.9mm thickness. (4) The camera lenses are shown in close-up, followed by the man demonstrating a video call/selfie feature with a woman visible on the screen. (5) The man demonstrates the Samsung DeX interface on the large screen. (6) Finally, the man folds the phone and slides it into his back jeans pocket, walking away from the camera.",
-      "audio_narrative_log": "(1) Energetic, upbeat electronic background music starts immediately. A male voice enthusiastically introduces the Samsung Galaxy Z TriFold. (2) As the phone folds, a subtle clicking sound effect is layered over the music. The narrator explains the 'G-shaped' design. (3) The music maintains a steady tempo as the narrator lists technical specifications like weight (309g) and camera resolution (200MP). (4) Sound effects like 'dings' and 'shimmers' highlight key text overlays on screen. (5) The music reaches a conclusion as the narrator says he is taking the phone with him, followed by a final confirmation 'ding' when the phone fits in the pocket.",
-      "text_narrative_log": "(1) 'Samsung Galaxy Z TriFold' - Large hook title. (2) '在我手上 看起來超狂' - Emotional hook ('In my hand, looks super crazy'). (3) 'G型設計' - Functional text identifying the design. (4) '10吋大小' - Functional text for screen size. (5) '309g 非常輕巧!', '3.9mm 而且超薄!' - Decorative specs with emphasis. (6) '2億畫素的主鏡頭 (CP值超高)' - Functional and opinionated text about camera specs. (7) 'UHD 60 前鏡頭' - Functional technical spec. (8) 'Samsung DeX 直接就可使用' - Functional feature name. (9) '(放口袋OK)' - Functional confirmation of portability."
-    },
     "temporal_pacing_summary": {
       "sceneCutCount": 18,
-      "averageSceneDuration": 3.16,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Hook/Intro -> Design Demo -> Technical Specs Breakdown -> Software Demo -> Portability Outro"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Head and shoulders"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main male creator; 1 female visible on the smartphone screen during the camera demo.",
-      "mainCharacterDescription": "Middle-aged Asian male, wearing glasses, a grey patterned flat cap, and a white sweatshirt with a 'Roots' logo."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Showroom",
-          "Hotel Bathroom"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A luxurious indoor setting with a marble countertop, large mirrors with round vanity lights, and 'Galaxy' promotional signs visible in the background.",
-      "lightingStyle": "Bright, even studio-style lighting.",
-      "weather": "None",
-      "season": "None",
+      "averageSceneDuration": 3.2,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural and vibrant",
-      "cameraWork": [
-        "Static",
-        "Close-up",
-        "Follow shot"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone",
-        "Foldable Phone",
-        "Tablet"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Samsung",
-        "Roots"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut with cross-faded BGM",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Enthusiastic and professional",
-        "pitch": "Normal",
-        "loudness": "Clear and audible",
-        "speed": "Fast/Energetic",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Click",
-        "Ding",
-        "Whoosh"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Feature Highlight -> Technical Deep-dive -> Practical Demonstration",
-      "mainPurpose": "To create hype and provide an initial hands-on review of the Samsung Galaxy Z TriFold, emphasizing its innovative folding design, thinness, and powerful camera specs to a tech-savvy audience.",
-      "visualEmotion": "Energetic and futuristic"
+      "narrativeStructure": "Linear: Hook -> Specs Showcase -> Software Features -> Portability Demo",
+      "mainPurpose": "The video aims to promote and demonstrate the physical design and functional capabilities of the Samsung Galaxy Z TriFold, emphasizing its screen size, thinness, and advanced software features like DeX and Galaxy AI.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -167,14 +276,11 @@
         "Explicit",
         "Full"
       ],
-      "endorsementCues": "Direct presentation of the product, detailed listing of specifications, and branding visible in the background.",
+      "endorsementCues": "Direct presentation of the brand name and detailed product features.",
       "endorsementObject": [
-        "Samsung Galaxy Z TriFold"
+        "Samsung"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Creator's signature flat cap and the '3c有意思tim哥' social media watermarks.",
-      "freeDescribe": "Typical short-form tech influencer content designed for high engagement on platforms like TikTok or Instagram Reels, utilizing fast cuts and informative text overlays."
-    }
+    "freeDescribe": "The video uses high-contrast text overlays and fast-paced editing to maintain engagement during a technical product reveal."
   }
 }

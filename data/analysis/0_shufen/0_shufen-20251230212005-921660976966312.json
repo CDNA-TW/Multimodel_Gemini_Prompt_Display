@@ -1,155 +1,256 @@
 {
   "videoName": "0_shufen-20251230212005-921660976966312.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 4,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Social Media Trend"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "Unknown"
+      "visual_narrative_log": "(1) The scene begins with a young woman standing in an outdoor festive environment at night. She has long, wavy black hair and is dressed in a white lace dress paired with a light cream-colored fuzzy cardigan. Large, thick clumps of white artificial foam are falling heavily from above, landing on her head and accumulating in her hair. She is smiling brightly while looking down. (2) The handheld camera pans slightly as she looks up toward the lens, her facial features illuminated by warm artificial lighting from the background. Behind her, other pedestrians are walking on a grassy area next to trees decorated with festive white lights.",
+      "text_narrative_log": "(1) [Subtitle]: POV：當男友說為了見面，已經存了一個星期.",
+      "visual_human_presence": {
+        "totalHumanCount": 5,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 4,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face"
         ],
-        "city": [
-          "Unknown"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video opens with a young woman with long black hair, wearing a white ruffled dress and a floral headpiece, standing outdoors at night. White artificial foam is falling on her like snow, accumulating on her hair and shoulders. She smiles and looks down shyly. (2) As the foam continues to fall, she reaches up with her hand to touch the foam in her hair. (3) The background is a festive outdoor space with blurred holiday lights, a decorated Christmas tree, and passersby walking on the grass.",
-      "audio_narrative_log": "(1) The audio consists of a repetitive, high-pitched rhythmic chime or bell-like sound effect that loops throughout the entire duration. (2) No human vocals, speech, or distinct ambient noises are audible.",
-      "text_narrative_log": "(1) Functional/Hook Text: \"POV: 當男友說為了見面，已經存了一個星期\" (POV: When the boyfriend says he's been saving for a week just to meet). The tone is humorous and suggestive, appearing in white centered at the bottom of the screen throughout the clip."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 1,
-      "averageSceneDuration": 4.0,
-      "isNarrativeShift": false,
-      "mainActionFlow": "A single continuous shot of a woman reacting to artificial snow falling on her."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 3,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 main female creator in the foreground; at least 2 passersby (one female in a blue skirt) visible in the background.",
-      "mainCharacterDescription": "A young woman with long dark wavy hair, wearing a white off-the-shoulder ruffled lace dress and a white floral headband."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Outdoor Park",
-          "Festive Event"
+        "crowdLevel": [
+          "Small Group"
         ],
-        "topography": [
-          "Plain"
+        "countingEvidence": "1 main female creator in the foreground, with approximately 4 other individuals walking in the background.",
+        "mainCharacterDescription": "A young woman with long wavy black hair wearing a white lace dress and a fuzzy cream cardigan."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Park / Garden"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "An outdoor grassy area at night decorated with festive lights and trees, with artificial snow/foam blowing through the air.",
+        "lightingStyle": [
+          "Night artificial light"
+        ],
+        "weather": [
+          "Night clear"
+        ],
+        "season": [
+          "Winter"
+        ],
+        "colorTone": [
+          "Warm and vibrant"
         ]
       },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "An outdoor night scene featuring grass, holiday light installations, a glowing Christmas tree, and other people in the distance.",
-      "lightingStyle": "Mixed: Dark night environment with bright, warm holiday light decorations and artificial snow machine effects.",
-      "weather": "Night",
-      "season": "Winter",
-      "editingPace": "Slow",
-      "textOverlay": {
-        "density": "Low",
-        "language": [
-          "Traditional Chinese"
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Panning"
         ],
-        "isSubtitled": false
+        "shotSize": [
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Single continuous take"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
       },
-      "colorTone": "Natural with warm highlights from festive lights.",
-      "cameraWork": [
-        "Static"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "None",
-      "vocalRatio": "Low (No vocals)"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 0,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
       },
-      "vocal_qualities": {
-        "tone": "None",
-        "pitch": "None",
-        "loudness": "None",
-        "speed": "None",
-        "speechDensity": "None",
-        "language": [
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
           "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "SFX Loop",
-      "bgmBPM": 120,
-      "instrumentFamiliesAudible": [
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Bells",
-        "Chimes"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "Chime loop"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Holiday/Festive",
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 120,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Percussion",
+          "Electronic"
+        ],
+        "instrumentsAudible": [
+          "Glockenspiel"
+        ],
+        "musicSourceType": [
+          "Meme/Comedy"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Commercial/Recreational"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 5
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 2,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 5,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 2,
+        "audioCutFrequency": 0,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Low-fi/Phone"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a high-pitched, percussive melody played by a bell-like instrument, similar to a glockenspiel or festive chime. The tempo is brisk and rhythmic with a bright spectral texture. There is a faint background ambient hum, likely from the outdoor venue. (2) This festive melodic loop continues throughout the duration without any human speech or vocals. The sound is crisp and dominated by high-frequency transients, maintaining a consistent volume and celebratory atmosphere until the clip ends."
     }
   },
-  "high_inference_interpretations": {
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Lifestyle",
+        "Meme / Trend"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 4,
+      "editingPace": "Slow",
+      "isNarrativeShift": false
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Setup -> Visual Punchline",
-      "mainPurpose": "To participate in a viral social media trend where falling artificial snow/foam is used as a metaphor/double entendre for a boyfriend's sexual abstinence ('saving up') before meeting. The video aims for humor and engagement through suggestive wordplay combined with a festive visual aesthetic.",
-      "visualEmotion": "Happy, Playful, Festive"
+      "narrativeStructure": "Linear: Context -> Visual Gag",
+      "mainPurpose": "The video is a humorous short clip utilizing a 'POV' (Point of View) text overlay to create a joke. The text implies that the boyfriend 'saved up' (perhaps saliva or white foam) to see the woman, resulting in her being comically covered in artificial snow/foam. It captures a lighthearted, festive moment during a holiday event.",
+      "visualEmotion": [
+        "humorous",
+        "warm",
+        "energetic"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -161,9 +262,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Usage of POV text style and suggestive humor common in short-video platforms.",
-      "freeDescribe": "The video relies heavily on cultural slang/meme knowledge to understand the caption's meaning relative to the white foam falling on the subject."
-    }
+    "freeDescribe": "A typical short-form social media trend video using festive aesthetics and a relational joke."
   }
 }

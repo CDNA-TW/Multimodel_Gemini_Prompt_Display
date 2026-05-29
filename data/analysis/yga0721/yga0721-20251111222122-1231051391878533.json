@@ -1,157 +1,264 @@
 {
   "videoName": "yga0721-20251111222122-1231051391878533.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 27,
-      "aspectRatio": "9:16",
+      "videoDuration": 27.5,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) Two young boys, one in beige pajamas with star patterns and one in red/white heart-patterned pajamas, stand behind a white fabric sofa in a brightly lit modern living room. They are performing a coordinated dance, smiling widely, pumping their fists in the air, and pressing their hands against their cheeks in a 'cute' pose. (2) The boy in the beige pajamas runs towards a large wall-mounted TV that displays a person wearing a similar red and white outfit. The boy in the red pajamas continues to smile and clap near the sofa. The living room features clean lines, light wood accents, and a minimal aesthetic. (3) The boy in beige points excitedly at the TV screen while talking to someone off-camera. He then jumps energetically over the sofa back onto the floor. The boy in red watches him, laughing and adjusting his glasses. A small wooden toy house is visible in the lower right foreground. (4) Both boys return to their original positions behind the white sofa and resume their high-energy dance routine. They jump up and down, toss their hair, and mimic the poses from the video on the TV, exhibiting extreme joy and excitement.",
+      "text_narrative_log": "(1) [Subtitle]: 娘娘呀娘娘呀. (2) [Subtitle]: 正的爸爸你喜歡嗎. (3) [Subtitle]: 受不了 他們太模仿了吧. (4) [Subtitle]: 是 這個人 在影片的. (5) [Subtitle]: 蛤 這是這個人阿翰喔. (6) [Subtitle]: 這是漢堡神偷. (7) [Subtitle]: 不要看一些奇奇怪怪的台灣YouTuber啦.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 2,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "2 main child creators appearing throughout the video.",
+        "mainCharacterDescription": "Two young boys; one wears beige star-patterned pajamas, the other wears red and white heart-patterned pajamas and black-rimmed glasses."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A clean, modern living room with a neutral color palette, featuring a large white sofa, a built-in wooden cabinet unit, and a flat-screen TV on the wall. A round clock is visible on the wall behind the children.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Panning"
+        ],
+        "shotSize": [
+          "Medium full shot",
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "TV / display screen",
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 3,
+        "male_vocal_count": 3,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 2
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly",
+          "Comedic/Exaggerated"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": true,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 9,
+        "dominance": 7,
+        "hasVocalTension": true
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 1,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "Traditional Chinese"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Original Jingle/Brand Theme"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter"
+        ],
+        "crowdNoiseIntensity": 1,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Object Impact / Thud / Drop",
+          "Footsteps"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Low-fi/Phone"
+        ]
+      },
+      "audio_narrative_log": "(1) Two high-pitched children's voices sing in a rhythmic, energetic tone with high vocal arousal and positive valence. A fast-tempo, upbeat pop-style BGM plays in the background. The speech rate is fast, and the delivery is enthusiastic, synchronized with the rhythmic beat of the music. (2) The singing stops briefly, replaced by high-pitched giggles and a deeper, adult male voice speaking in a calm but amused narrative tone. A series of soft thuds from footsteps are heard as the environmental floor remains quiet. (3) The adult male voice continues to speak, sounding slightly teasing. One child's voice responds with a sharp, high-pitched shout of excitement. Loud, percussive thudding sounds occur as a child jumps over furniture. The BGM continues to play at a moderate volume underneath. (4) The high-pitched singing resumes at a higher volume intensity and arousal level. The children's voices exhibit slight strain from excitement and laughter. The BGM remains upbeat with a strong beat strength, maintaining a bright tonal quality."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
         "Vlog",
-        "Comedy",
-        "Kids"
+        "Family / Kids",
+        "Comedy"
       ],
-      "withRealPeople": true,
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "Taipei"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) Two young boys in pajamas are excitedly dancing and posing in a modern living room, with one in beige and one in red patterned outfits. (2) The boy in beige runs to a wall-mounted TV to point at a man's face on the screen while smiling widely. (3) Both boys then jump onto a large white sofa, continuing their energetic dance and laughter.",
-      "audio_narrative_log": "(1) Upbeat, high-tempo electronic music plays with children's voices rhythmically singing 'Nya Nya'. (2) An adult male voice off-camera laughs and speaks in a teasing tone in Mandarin. (3) The rhythmic singing and music continue as the children cheer and jump.",
-      "text_narrative_log": "(1) Functional Text: Text on the TV screen shows '點一首' (Request a song) and some lyrics in Traditional Chinese. (2) Functional Text: On-screen subtitles on the TV indicate song selection options."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 6,
-      "averageSceneDuration": 4.5,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Dance intro -> TV interaction -> Sofa jumping celebration"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 2,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 2,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "2 main children characters performing in front of the camera.",
-      "mainCharacterDescription": "Two young boys in pajamas; one wears beige with dog patterns, the other wears red and white with character patterns and glasses."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Living Room"
-        ],
-        "topography": [
           "None"
         ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A modern, minimalist living room with a large white sectional sofa, light wood paneling, and a wall-mounted television.",
-      "lightingStyle": "Bright, even indoor lighting",
-      "weather": "Indoor",
-      "season": "Unknown",
-      "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "Low",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Follow shot"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "TV",
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "Medium"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 2
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and playful",
-        "pitch": "High-pitched",
-        "loudness": "High",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Kids Pop",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum kit"
-      ],
-      "musicSourceType": [
-        "Copyrighted Song"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Field Recording"
-    }
-  },
-  "high_inference_interpretations": {
+    "temporal_pacing_summary": {
+      "sceneCutCount": 4,
+      "averageSceneDuration": 6.8,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Action -> Reaction -> Climax",
-      "mainPurpose": "The video aims to entertain the audience by showcasing the high-energy and cute behavior of two children as they dance along to a song and react to content on their TV at home.",
-      "visualEmotion": "Energetic and Joyful"
+      "narrativeStructure": "Linear: Hook -> Interaction -> Climax",
+      "mainPurpose": "To document and share a humorous and heartwarming family moment where two children energetically imitate a popular Taiwanese YouTuber's video, showcasing their playful personalities and domestic joy.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -163,9 +270,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Taiwanese YouTube family content featuring 'Tsai Tao-Kuei' and 'Tsai Po-Neng'.",
-      "freeDescribe": "Typical high-engagement family vlog content focusing on children's natural playfulness and reactions."
-    }
+    "freeDescribe": "The video captures a high-energy domestic interaction. The kids are parodying a specific cultural trend, which provides the main comedic value."
   }
 }

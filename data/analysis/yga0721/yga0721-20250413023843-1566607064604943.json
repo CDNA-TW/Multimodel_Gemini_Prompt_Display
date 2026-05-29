@@ -1,161 +1,265 @@
 {
   "videoName": "yga0721-20250413023843-1566607064604943.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 36,
-      "aspectRatio": "1:1",
-      "videoGenre": [
-        "Comedy",
-        "Vlog",
-        "Animal"
-      ],
+      "videoDuration": 37,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "Taiwan"
+      "visual_narrative_log": "(1) The video opens with a young man in a black T-shirt featuring an 'Old Boy' logo and a turquoise backpack, standing outdoors on a paved path. He is waving his arm and smiling broadly at the camera. The background shows a wooden fence and leafy green trees under bright daylight. (2) The scene cuts to a shot of two monkeys in a rocky enclosure behind a wire mesh fence; one monkey is perched on a ledge while another is lower down. (3) A white alpaca is shown in close-up behind a dark wooden fence, looking towards the camera with a neutral expression against a grassy background. (4) Several small squirrel monkeys are seen inside a metal cage, with some climbing the mesh. (5) An orangutan is shown resting its head against its hand behind a wire fence, looking towards the camera. (6) A large gorilla is sitting on a rock in a grassy enclosure, leaning against a fence. (7) Three monkeys are in a cage, with one actively grooming another's fur while they sit together.",
+      "text_narrative_log": "(1) [Subtitle]: 耶~歡迎來到厭世動物園. [Logo]: 狠愛演. (2) [Subtitle]: 賀甲!!. (3) [Subtitle]: 放我出去~. (4) [Subtitle]: 看三小! 我是草尼馬勒. (5) [Subtitle]: 啊! 哩是在看三小, 沒看過猴子啊? 哈?. (6) [Subtitle]: 放我出去~. (7) [Subtitle]: 嘿嘿~ 爽喔~ 坐這樣很爽~. (8) [Subtitle]: 來~ 我幫你抓蝨母. 這裡有一隻. 啊, 這裡又一隻.",
+      "visual_human_presence": {
+        "totalHumanCount": 3,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Full body",
+          "Side view"
         ],
-        "city": [
-          "Hsinchu"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video begins with a young man wearing a black 'Old Boy' T-shirt and a green backpack standing in front of a wooden fence at a zoo. He is smiling and gesturing towards the background. (2) The scene cuts to various animals in enclosures, starting with two monkeys on a concrete floor; one monkey jumps into the air and lands flat on its belly. (3) An alpaca with a harness looks directly into the camera with a neutral expression. (4) A small monkey with yellow-tinted fur hangs onto the wire mesh of its cage, moving its head. (5) A large orangutan is seen lying down behind a fence, appearing lethargic. (6) A gorilla sits on a rock in a grassy area, scratching its stomach while looking away. (7) The final shot shows a group of monkeys huddled together, grooming one another.",
-      "audio_narrative_log": "(1) High-pitched and energetic male vocals open the video with a loud greeting '耶～歡迎來到厭世動物園' (Yeah~ welcome to the World-weary Zoo). Fast-paced, quirky background music starts. (2) The audio shifts as the same male voice adopts a deep, gravelly, and grumbling tone, providing inner monologues for the animals. Sounds of monkey screeching and ambient zoo noise are heard. (3) The music remains consistent in the background as the speaker continues the humorous narration in a variety of funny voices, mimicking a grumpy or indifferent attitude. (4) The video ends with a comical 'shing' sound effect.",
-      "text_narrative_log": "(1) Functional Text: '耶～歡迎來到厭世動物園' (Yeah~ welcome to the world-weary zoo) appears at the start. (2) Decorative Text: '看三小 我是草泥馬勒' (What are you looking at? I'm an alpaca) appears over the alpaca shot, conveying a defiant tone. (3) Functional Text: '放我出去' (Let me out) appears as subtitles for the orangutan, conveying a depressed tone. (4) Decorative Text: '這裡有一隻...啊 這裡又一隻' (There is one here... oh, there's another one here) appears during the monkey grooming scene."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 8,
-      "averageSceneDuration": 4.5,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro -> Animal Montage -> Comedic Dubbing"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Waist up"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main host appearing in the first scene.",
-      "mainCharacterDescription": "A male with short dark hair, wearing a black graphic t-shirt and a bright green backpack."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Outdoor Zoo"
+        "crowdLevel": [
+          "Small Group"
         ],
-        "topography": [
-          "None"
+        "countingEvidence": "1 main male creator, at least 2 passers-by in the blurred background at the start.",
+        "mainCharacterDescription": "A young Asian male with short brown hair, wearing a black graphic T-shirt with 'Old Boy' text and a turquoise backpack."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Tourist Attraction / Landmark",
+          "Park / Garden"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban",
+          "Park / Green Space"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The video moves through various enclosures at a zoo, including a rocky monkey exhibit with water, a grassy alpaca paddock, and caged areas for smaller primates and great apes.",
+        "lightingStyle": [
+          "Natural daylight"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Summer"
+        ],
+        "colorTone": [
+          "Natural and bright"
         ]
       },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "Different animal enclosures including concrete floors for monkeys, grassy fields for alpacas, and rocky areas for gorillas.",
-      "lightingStyle": "Natural daylight",
-      "weather": "Cloudy",
-      "season": "Summer",
-      "editingPace": "Fast",
-      "textOverlay": {
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Montage"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Compilation / montage sequence"
+        ]
+      },
+      "visual_text_overlay": {
         "density": "Medium",
-        "language": [
+        "textLanguage": [
           "Traditional Chinese"
         ],
         "isSubtitled": true
       },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Follow shot"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "Monkey",
-        "Alpaca",
-        "Orangutan",
-        "Gorilla"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Varied, transitioning from high-pitched excited to deep grumbling humor",
-        "pitch": "Medium-High to Deep",
-        "loudness": "High",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Monkey / ape",
+          "Other Mammals"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "狠愛演"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat/Quirky",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drums"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "Cartoon SFX",
-        "Animal screeches"
-      ],
-      "ambientNoise": [
-        "Zoo background noise"
-      ],
-      "audioQuality": "Field"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Comedic/Exaggerated"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Acoustic/Folk"
+        ],
+        "tempoBPM": 120,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "String",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Guitar",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Outdoor/Nature"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Ding / Bell SFX",
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with an energetic male voice shouting a cheerful greeting in Mandarin over an upbeat, mid-tempo acoustic guitar and drum rhythm. The vocal is bright and high-pitched. (2) A sharp transition occurs where the speaker changes his voice to a raspy, high-pitched shout, mimicking an aggressive monkey sound while the BGM continues. (3) The speaker shifts to a lower, mocking tone, imitating an alpaca's supposed inner monologue. (4) The voice becomes even higher and more frantic, mimicking small, active primates. (5) A deep, slow, and dramatic vocal performance follows, conveying a sense of melancholy or boredom for the orangutan. (6) A casual, 'tough guy' tone is used to voice the gorilla. (7) The final phase features comedic, fast-paced narration of monkeys grooming, ending with a bright 'ding' sound effect for emphasis."
     }
   },
-  "high_inference_interpretations": {
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Vlog",
+        "Pet / Animal"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 12,
+      "averageSceneDuration": 3.0,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Presentation -> Demonstration",
-      "mainPurpose": "To create a humorous 'mockumentary' style vlog entry where the host personifies zoo animals with grumpy, world-weary human personalities to entertain his audience.",
-      "visualEmotion": "Humorous"
+      "narrativeStructure": "List-based: Intro -> Series of Humorous Animal Observations -> Comedic Outro",
+      "mainPurpose": "To entertain the audience by visiting a zoo and providing humorous, personified voice-overs for various animals, portraying them as '厌世' (cynical or world-weary).",
+      "visualEmotion": [
+        "humorous",
+        "energetic",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -167,9 +271,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-energy comedic dubbing of animals.",
-      "freeDescribe": "Typical content style for a Taiwanese variety YouTuber, focusing on relatable but exaggerated humor regarding local attractions."
-    }
+    "freeDescribe": "The video relies heavily on the juxtaposition of neutral animal behavior and highly expressive, comedic dubbing to create a meme-like entertainment effect."
   }
 }

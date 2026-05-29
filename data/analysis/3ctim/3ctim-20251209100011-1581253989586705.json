@@ -1,159 +1,272 @@
 {
   "videoName": "3ctim-20251209100011-1581253989586705.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 44,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Commentary",
-        "Tech News"
-      ],
+      "videoDuration": 46,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) The video opens with a graphic introduction featuring portraits of Elon Musk and the esports player Faker against a blurred red and grey background. Bold, colorful Chinese text overlays the scene. (2) Transition to a middle-aged man in a well-lit studio. He is wearing a grey checkered cardigan, a grey beret, and glasses. He speaks directly to the camera with frequent hand gestures and dynamic facial expressions. The background consists of blue and purple acoustic panels with shelves holding tech-related items. (3) A still photo cutaway shows Faker wearing glasses and a white jersey, holding a large silver trophy in a celebratory arena filled with confetti. (4) A screen capture of an X (formerly Twitter) post by Elon Musk is shown, displaying text and a profile picture. (5) Back to the man in the studio for the conclusion. He continues to speak energetically with large Chinese text overlays flashing on screen periodically. The lighting remains bright and even throughout the studio segments.",
+      "text_narrative_log": "(1) [Subtitle]: 馬斯克對Faker下戰帖!!?. [Logo]: 3c有意思tim哥. [Logo]: 3ctim. (2) [Subtitle]: 原來馬斯克替旗下AI公司xAI研發了Grok-1.5. (3) [Subtitle]: 發出戰帖. (4) [Subtitle]: 通用人工智慧突破的一個關鍵測試. (5) [Subtitle]: 甚至馬斯克為了比賽公平. (6) [Subtitle]: 還限制AI只能透過一般攝影機觀看螢幕. (7) [Subtitle]: 視野不能超過正常人類的視力範圍. (8) [Subtitle]: 因此完全無法取得遊戲資料API或是任何數據. (9) [Subtitle]: 同時反應速度跟點擊滑鼠速度. (10) [Subtitle]: 也不能超越頂尖人類的選手. (11) [Subtitle]: 而且在閱讀遊戲說明書以後才能開始比賽. (12) [Subtitle]: 藉此展現AI的學習力. (13) [Subtitle]: 目前這項挑戰已經獲得電競圈熱烈反應. (14) [Variety]: 電競圈 熱烈反應. (15) [Subtitle]: 多名退役的職業選手都表達出了意願. (16) [Subtitle]: 其中呢剛奪得《英雄聯盟》世界大賽個人冠軍第六冠韓國選手Faker. (17) [Subtitle]: 也以GIF檔回應說準備好了. (18) [Slogan]: 準備好了!. (19) [Subtitle]: 會不會最後連AI都擋不住Faker的大殺特殺呢. (20) [Variety]: Faker的 大殺特殺呢.",
+      "visual_human_presence": {
+        "totalHumanCount": 3,
+        "maleDetectAmount": 3,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main presenter in the studio, 1 athlete in a photo cutaway, and 1 public figure in the intro graphic.",
+        "mainCharacterDescription": "A middle-aged man with glasses, wearing a grey plaid cardigan over a white shirt and a grey flat cap."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A professional studio with purple and blue soundproofing panels and shelves; cutaway shots include a stadium arena and a digital screen interface.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Digital zoom"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Medium close-up",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Picture-in-picture / inset",
+          "Graphic transition"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Microphone / lavalier mic",
+          "TV / display screen"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "X",
+          "T1",
+          "Facebook",
+          "Instagram"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Professional/Narrative",
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 7,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Ding / Bell SFX",
+          "Pop / Bubble SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Stingers"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A high-arousal male voice starts narrating at a rapid pace with a clear, resonant tone. The background music is a bouncy, upbeat electronic track with a consistent 4/4 drum beat and a bright synthesizer melody. Digital 'whoosh' sound effects are used for phase transitions. (2) The speaker explains the challenge details with high energy, his vocal pitch fluctuating to emphasize key points like 'xAI' and 'Grok'. Subtle 'pop' and 'ding' sound effects trigger as text graphics appear on the screen, layered over the continuous BGM. (3) The audio remains clean with high signal-to-noise ratio. The music maintains a steady volume under the speech. The narrator's articulation is very sharp, typical of a professional broadcast or social media content creator. (4) In the final phase, the speaker's tone becomes more questioning and playful as he mentions 'Faker'. The music reaches a concluding phrase and fades out slightly after the last word is spoken. No ambient noise or incidental room sounds are audible."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Tech News / Commentary",
+        "News / Commentary"
+      ],
       "location": {
         "country": [
-          "None"
+          "Taiwan"
         ],
         "city": [
           "None"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video begins with a stylized intro graphic featuring portraits of Elon Musk and the esports player Faker, with headline text. (2) A male host appears in a studio setting, wearing a grey sweater, glasses, and a flat cap, speaking to the camera with expressive hand gestures. (3) Throughout the video, colorful text overlays and graphics related to AI and gaming appear around the host. (4) A screenshot of a tweet from Elon Musk and a video clip of Faker are displayed as visual evidence. (5) The video concludes with the host smiling at the camera amidst energetic text effects.",
-      "audio_narrative_log": "(1) Upbeat, energetic electronic background music starts immediately with a male voice speaking in a fast, enthusiastic tone in Mandarin. (2) The vocal narration remains the primary audio layer, explaining details of an AI challenge while the music maintains a consistent tempo. (3) Subtle sound effects like 'whoosh' sounds accompany the appearance of text and image overlays. (4) The music and vocals end simultaneously at the conclusion.",
-      "text_narrative_log": "(1) '馬斯克對 Faker 下戰帖!?' - Hook text in yellow/red expressing a challenge between Musk and Faker. (2) '通用人工智慧' - Functional text identifying the topic of AGI. (3) 'AI的學習力' - Functional text regarding AI learning. (4) '電競圈熱烈反應' - Decorative text highlighting the community reaction. (5) 'Faker的大殺特殺呢' - Emotional hook text wondering about Faker's performance."
-    },
     "temporal_pacing_summary": {
       "sceneCutCount": 14,
-      "averageSceneDuration": 3.14,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro Hook -> Technical Explanation -> Evidence Display -> Speculative Conclusion"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 3,
-      "maleDetectAmount": 3,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Face only"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main host in studio, images of Elon Musk and Faker used as visual aids.",
-      "mainCharacterDescription": "An Asian male in his late 30s or 40s, wearing glasses, a grey sweater, and a dark flat cap."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Studio"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A simple purple studio wall with vertical paneling and soft lighting.",
-      "lightingStyle": "Studio bright",
-      "weather": "Unknown",
-      "season": "Unknown",
+      "averageSceneDuration": 3.28,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Vibrant",
-      "cameraWork": [
-        "Static"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone",
-        "Computer"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "X",
-        "3ctim"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and professional",
-        "pitch": "Normal",
-        "loudness": "High",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Transition swoosh"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Rule Explanation -> Social Reaction -> Closing Speculation",
-      "mainPurpose": "To inform and generate engagement regarding a hypothetical or proposed AI vs Human esports challenge involving Elon Musk's xAI and the legendary player Faker.",
-      "visualEmotion": "Energetic"
+      "narrativeStructure": "Linear: Hook -> Background Info -> Specific Example -> Conclusion",
+      "mainPurpose": "To report on a tech-meets-gaming news story about Elon Musk's xAI company challenging the pro-gamer Faker to a match under restricted conditions.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -165,9 +278,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "3ctim logo and '3c有意思tim哥' branding, flat cap fashion.",
-      "freeDescribe": "Typical high-energy tech commentary video designed for short-form video platforms like TikTok or Reels, using high-density text overlays to maintain viewer attention."
-    }
+    "freeDescribe": "The video uses a high-density editing style characteristic of short-form social media content to maintain viewer engagement while delivering tech news."
   }
 }

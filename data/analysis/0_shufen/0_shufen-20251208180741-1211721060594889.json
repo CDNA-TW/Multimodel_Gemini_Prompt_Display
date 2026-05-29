@@ -1,14 +1,235 @@
 {
   "videoName": "0_shufen-20251208180741-1211721060594889.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 15,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Commentary"
-      ],
+      "videoDuration": 15.6,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) The video begins with a close-up selfie shot of a young woman with long black hair, wearing a patterned camisole and sunglasses perched on her head. She is standing outdoors in a lush green park with visible trees and walking paths in the background. Her facial expression is bright and animated as she looks directly into the camera lens. (2) As she continues speaking, the camera remains in a steady handheld selfie position, though there is a subtle digital zoom-in effect that emphasizes her facial reactions as her eyes widen slightly. (3) Towards the end, she moves her hand towards her chest area in a conversational gesture while continuing to smile and laugh, with the natural daylight casting soft shadows across her face and the park setting remaining consistent.",
+      "text_narrative_log": "(1) [Subtitle]: 淦. (2) [Subtitle]: 好好笑喔. (3) [Subtitle]: 我跟你們講. (4) [Subtitle]: 我在. (5) [Subtitle]: 中央公園. (6) [Subtitle]: 剛才有一個阿伯. (7) [Subtitle]: 他喊.. (8) [Subtitle]: 淑芬. (9) [Subtitle]: 然後我就嚇一跳欸. (10) [Subtitle]: 我就很緊張. (11) [Subtitle]: 結果原來他是喊一個阿姨. (12) [Subtitle]: HaHaHa..",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face close-up"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 female main character in the foreground.",
+        "mainCharacterDescription": "A young woman with long, dark hair, wearing a low-cut patterned camisole and black sunglasses on top of her head."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Park / Garden"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban",
+          "Park / Green Space"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A well-maintained urban park with green grass, various trees, and paved walking paths in the background under natural daylight.",
+        "lightingStyle": [
+          "Natural daylight"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Summer"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Selfie handheld"
+        ],
+        "shotSize": [
+          "Close-up",
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Selfie perspective"
+        ],
+        "editingTechniques": [
+          "Digital zoom",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Nature/Outdoor"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Impact / Hit SFX",
+          "Applause / Laugh Track SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 1,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) A female voice begins speaking with high energy and a fast tempo, narrating a story in Traditional Chinese with an animated and cheerful tone. (2) A sudden percussive 'impact' sound effect, similar to a comedic sting, occurs as she reaches a point of surprise in her story. (3) The narration continues with high pitch variability as she recounts being startled, maintaining the same field-recording quality. (4) The audio concludes with a loud, layered 'laugh track' sound effect added in post-production, which overlaps with the speaker's own genuine laughter."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Storytelling",
+        "Vlog"
+      ],
       "location": {
         "country": [
           "Taiwan"
@@ -18,141 +239,19 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman with long black hair, sunglasses on her head, and a patterned camisole is speaking directly into the camera in a park setting. She has a bright smile and expressive facial movements. (2) She continues her story, her expression shifting from amusement to a mock-surprised or startled look, touching her chest with her hand. (3) She finishes her story with a laugh, remaining in the same static POV position with trees and a park path visible in the background.",
-      "audio_narrative_log": "(1) A female voice speaks in a high-pitched, excited, and humorous tone in Mandarin. Background includes soft ambient park noise and distant bird chirping. (2) A sudden, loud, deep male voice shouts \"Shufen!\" (淑芬), which is clearly a sound effect or a recorded snippet used for the anecdote. (3) The woman resumes speaking, followed by a burst of canned laughter and her own chuckle as she concludes the story.",
-      "text_narrative_log": "(1) Functional Text: Traditional Chinese subtitles appear at the bottom translating her speech about an encounter in Kaohsiung's Central Park. (2) Decorative/Hook Text: A bold character \"淦\" (Damn/Wow) appears briefly at the start to hook the viewer's attention. (3) Content includes specific mentions of an \"Abé\" (uncle) shouting a name."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 0,
-      "averageSceneDuration": 15,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Intro -> Storytelling Anecdote -> Reaction/Laughter"
+      "sceneCutCount": 1,
+      "averageSceneDuration": 15.6,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
     },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Head",
-        "Shoulders",
-        "Chest",
-        "Hands"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main female creator in a selfie-style POV shot.",
-      "mainCharacterDescription": "Young woman with long dark hair, wearing sunglasses as a hair accessory and a low-cut patterned floral/animal print dress."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Outdoor Park"
-        ],
-        "topography": [
-          "Plain"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A public park with tall trees, a paved walking path, and green grass patches under bright daylight.",
-      "lightingStyle": "Natural bright daylight",
-      "weather": "Sunny",
-      "season": "Summer/Spring",
-      "editingPace": "Slow",
-      "textOverlay": {
-        "density": "Medium",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural and bright",
-      "cameraWork": [
-        "POV",
-        "Static"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "Central Park, Kaohsiung"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut between narration and sound effects",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited, humorous, and friendly",
-        "pitch": "High",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": false,
-      "bgmGenre": "None",
-      "bgmBPM": 0,
-      "instrumentFamiliesAudible": [
-        "None"
-      ],
-      "instrumentsAudible": [
-        "None"
-      ],
-      "musicSourceType": [
-        "None"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "Meme Shout",
-        "Canned Laughter"
-      ],
-      "ambientNoise": [
-        "Park",
-        "Birds"
-      ],
-      "audioQuality": "Field Recording"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Narrative Anecdote -> Resolution/Punchline",
-      "mainPurpose": "The video is a short social media vlog where the creator shares a humorous personal anecdote about being startled by an elderly man shouting a name in a park, only to realize he wasn't calling her. The objective is entertainment and audience engagement through relatable storytelling.",
-      "visualEmotion": "Humorous and Energetic"
+      "narrativeStructure": "Linear: Hook -> Storytelling -> Punchline",
+      "mainPurpose": "To share a humorous personal anecdote about a misunderstanding that occurred in a public park to entertain social media followers.",
+      "visualEmotion": [
+        "humorous",
+        "energetic"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -164,9 +263,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-angle selfie POV, use of expressive facial reactions, and localized storytelling referencing specific places in Taiwan.",
-      "freeDescribe": "The video relies heavily on the creator's personality and the comedic timing of the audio cues (shouting/laughter) to drive engagement."
-    }
+    "freeDescribe": "A typical short-form social media engagement video relying on relatable humor and expressive delivery."
   }
 }

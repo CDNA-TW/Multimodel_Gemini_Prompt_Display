@@ -1,155 +1,257 @@
 {
   "videoName": "yga0721-20250803180212-2486495065078340.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 11,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Comedy",
-        "Skit"
-      ],
+      "videoDuration": 17,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "Taiwan"
+      "visual_narrative_log": "(1) Two young women, one in a white long-sleeved shirt and light jeans and the other in a sage green sweatshirt and khaki pants, stand side-by-side in a brightly lit indoor office space. They bow deeply toward the camera with formal posture and polite facial expressions. The background features a white storage cabinet, a window showing a cityscape at dusk, and a small potted plant on the shelf. (2) A man with short brown hair, wearing a brown short-sleeved button-down over a black hoodie and dark trousers, walks into the frame from the right. He accepts a green and black varsity jacket from one of the women and then hands her his bag while they converse. The lighting is consistent and bright, illuminating the clean marble-patterned flooring. (3) The man reaches for a blue broom and dustpan being held by the woman in the white shirt. He takes the cleaning tools firmly in his hands while the two women turn around and walk toward a glass door in the background. (4) The women exit the room through the glass door, leaving the man alone in the foreground. He begins to sweep the marble floor with the blue broom, looking down at his work with a serious expression as he performs the manual labor task in the office setting.",
+      "text_narrative_log": "(1) [Slogan]: POV：老闆該有的樣子. [Subtitle]: 老闆好. (2) [Subtitle]: 早 怎麼樣. (3) [Subtitle]: 這個月業績多少了. (4) [Subtitle]: 報告老闆 300萬. (5) [Subtitle]: 300萬？ (6) [Subtitle]: OKOK 那早點下班啊. (7) [Subtitle]: 謝謝老闆.",
+      "visual_human_presence": {
+        "totalHumanCount": 3,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 3,
+        "bodyPartVisibility": [
+          "Full body",
+          "Head and shoulders",
+          "Face"
         ],
-        "city": [
-          "None"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) This is a live-action video. Two young women stand in an office setting and bow deeply as a man in a brown jacket enters from the right. (2) The man removes his brown outer layer to reveal a black hoodie, handing it and a green varsity jacket he was carrying to the two women. (3) The man gestures while speaking, then hands a broom and a dustpan to the women before gesturing for them to leave. (4) The two women walk toward an exit, and the man begins to sweep the marble-patterned floor with the broom.",
-      "audio_narrative_log": "(1) Multiple female voices greet the boss in unison with a respectful tone. A male voice responds casually. (2) The male voice asks a question about monthly performance. (3) A female voice answers with a specific high number. (4) The male voice gives a short instruction, accompanied by the sound of plastic cleaning tools being handled. (5) An upbeat, rock-style song with male vocals and distorted electric guitars starts and continues until the end as the sound of sweeping is heard.",
-      "text_narrative_log": "(1) 'POV：老闆該有的樣子' - Decorative hook text, implies a standard for how a boss should behave. (2) '老闆好' - Functional subtitle, translating a greeting to the boss. (3) '早 怎麼樣' - Functional subtitle, translating 'Morning, how's it going'. (4) '這個月業績多少了' - Functional subtitle, translating an inquiry about performance. (5) '報告老闆 300 萬' - Functional subtitle, reporting 3 million in sales. (6) 'OKOK 那早點下班啊' - Functional subtitle, translating 'OK, get off work early then'. (7) '謝謝老闆' - Functional subtitle, translating gratitude."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 4,
-      "averageSceneDuration": 2.75,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro -> Employee Interaction -> Twist (Boss cleans)"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 3,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 main male boss, 2 female employees",
-      "mainCharacterDescription": "A young male with brown hair wearing a brown button-down overshirt, a black hoodie, and baggy black trousers."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Office"
+        "crowdLevel": [
+          "Small Group"
         ],
-        "topography": [
-          "None"
+        "countingEvidence": "1 male boss, 2 female employees.",
+        "mainCharacterDescription": "One male with short brown hair wearing a brown shirt over a black hoodie. Two females, one in a white shirt and one in a green sweatshirt."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Office / Workplace"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A modern office interior with white cabinets, marble-tiled floors, a glass door entrance, and a window overlooking other buildings.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
         ]
       },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "An office environment with white walls, storage cabinets, indoor plants, and a gray-veined marble floor.",
-      "lightingStyle": "Bright indoor lighting",
-      "weather": "None",
-      "season": "None",
-      "editingPace": "Moderate",
-      "textOverlay": {
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld"
+        ],
+        "shotSize": [
+          "Full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
         "density": "Medium",
-        "language": [
+        "textLanguage": [
           "Traditional Chinese"
         ],
         "isSubtitled": true
       },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Follow shot"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "ST. DOG"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 3,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 2,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Casual (male), Respectful (female)",
-        "pitch": "Medium-low (male), Medium (female)",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Traditional Chinese"
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Rock",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Strings",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Electric Guitar",
-        "Drums"
-      ],
-      "musicSourceType": [
-        "Copyrighted Song"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Office quiet"
-      ],
-      "audioQuality": "Field"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 3,
+        "total_distinct_voices": 3,
+        "male_vocal_count": 1,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Professional/Narrative",
+          "Friendly",
+          "Casual"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Level"
+        ],
+        "speakingRisingRatio": 2,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 5,
+        "valence": 6,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 1,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "Traditional Chinese"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "String",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Drum Kit / Drum Set",
+          "Electric Guitar",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 3,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 3,
+        "speechMusicOverlap": 3,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 2,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with the clear, synchronized high-pitched voices of two females greeting 'Lao ban hao' in a respectful tone. There is no background music at this stage, resulting in a very high signal-to-noise ratio. The room acoustics suggest an indoor studio or office environment with very low noise. (2) A male voice responds with a casual 'Zao zao,' followed by a conversational question regarding monthly performance. His pitch is moderate and his tone is inquisitive but calm. The speech rate is natural, and there are no background sound effects or music masking the dialogue. (3) A female voice answers energetically, reporting a high figure. The vocal intensity increases slightly to show excitement. The male voice then acknowledges with 'OKOK' and suggests they leave work early. The dialogue remains crisp and clearly enunciated throughout this interaction. (4) Suddenly, a loud upbeat pop song with a strong electronic beat and male vocals kicks in. The music has a high tempo (around 128 BPM) and a cheerful major tonality. Simultaneously, the faint rhythmic percussive sound of broom bristles brushing against a hard floor surface can be heard, marking the transition from dialogue to the final scene."
     }
   },
-  "high_inference_interpretations": {
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 3,
+      "averageSceneDuration": 4.25,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Evidence -> Resolution",
-      "mainPurpose": "The video is a comedic skit intended to portray a 'cool' and supportive boss character. By showing a boss who takes over the cleaning duties so that high-performing employees can leave early, it creates a relatable and aspirational scenario for office workers, likely aimed at generating engagement through a positive subversion of workplace hierarchy.",
-      "visualEmotion": "Humorous"
+      "narrativeStructure": "Linear: Setup -> Conflict -> Resolution",
+      "mainPurpose": "The video uses situational irony to subvert typical workplace dynamics for comedic effect. It portrays a 'dream boss' who takes over the menial cleaning tasks and allows his high-performing employees to leave work early as a reward, contrasting with traditional hierarchical expectations.",
+      "visualEmotion": [
+        "humorous",
+        "energetic",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -161,9 +263,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "POV perspective hook with situational comedy focused on workplace dynamics.",
-      "freeDescribe": "The use of a popular upbeat song at the climax of the skit is a common editing trope in social media comedy to emphasize a 'cool' or 'heroic' moment for the protagonist."
-    }
+    "freeDescribe": "A short comedic sketch subverting workplace power dynamics."
   }
 }

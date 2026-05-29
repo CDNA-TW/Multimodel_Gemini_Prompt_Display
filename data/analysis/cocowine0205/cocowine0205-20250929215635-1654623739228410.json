@@ -1,189 +1,287 @@
 {
   "videoName": "cocowine0205-20250929215635-1654623739228410.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 88,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Shopping Guide",
-        "Promotional"
-      ],
-      "withRealPeople": true,
-      "location": {
-        "country": [
-          "Taiwan"
-        ],
-        "city": [
-          "Unknown"
-        ]
-      }
+      "videoDuration": 89.0,
+      "aspectRatio": "9:16"
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video starts with a title screen showing a person on a white scooter with a 'Wreck-It Ralph' animation overlay in front of a Costco Wholesale sign. (2) A series of rapid cuts follows, showcasing various products on Costco shelves. Items include Kirin milk tea, Fuji apples, Pampers diapers, Mi Kuai Kuai snacks, jelly jars, Seattle coffee, Japanese biscuits, Ruffles chips, Pierre butter cookies, and bottled tea. (3) The sequence continues with apparel (PUMA), health supplements (Weider), candy (Chupa Chups), almond tofu, GUM toothpaste, OxiClean, Downy softener, and Tide pods. (4) The final segment displays fresh and frozen goods: seafood, sausages, ginseng, pastries, almond milk, pet food, cheese, Perrier water, shrimp cakes, Listerine, electric toothbrushes, Mackie's ice cream, KitKat cereal, skincare, and alcoholic beverages.",
-      "audio_narrative_log": "(1) A high-pitched, enthusiastic male voice introduces the 'Costco Weekly Special Report' over upbeat, fast-tempo electronic background music. (2) As the products flash on screen, the same male voice rapidly recites the product name and its discounted price for every single item shown. (3) The background music remains consistent in its high energy, and the speaker's tone is consistently excited and promotional throughout the entire duration.",
-      "text_narrative_log": "(1) Decorative text at the start: 'COSTCO 每週特價速報 06/30~07/06 記得追蹤我們' (Costco Weekly Special Report, June 30 - July 6, Remember to follow us). (2) Functional text throughout: Each product shot is overlaid with its brand name, item description, 'Original Price' (原價), 'Discount' (-), and 'Special Price' (特價) in large, colorful font. (3) Functional text at the end: Repeated call to action to follow the account."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 46,
-      "averageSceneDuration": 1.9,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Intro -> Rapid-fire list of products and prices -> Outro"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 male creator briefly seen in the intro and reflected in some shots.",
-      "mainCharacterDescription": "A male wearing casual clothing, appearing briefly at the start on a scooter."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Warehouse",
-          "Supermarket"
-        ],
-        "topography": [
+    "visual_base": {
+      "withRealPeople": false,
+      "visual_narrative_log": "(1) The video opens with a static establishing shot of a white motorcycle parked in front of a white building under a clear sky. A large red and blue Costco Wholesale logo is superimposed at the top, along with a cartoon avatar of a man with large eyes and an open mouth. (2) The scene transitions to a series of fast-paced cuts showing various food products stacked on metal warehouse shelves. This includes bulk boxes of Kirin milk tea, bags of Fuji apples, and boxes of rice snacks. The lighting is bright and industrial throughout the warehouse. (3) The sequence continues with household and personal care items such as boxes of Pampers diapers, large jars of konjac jelly, and coffee boxes. Each shot is a medium close-up focusing on the product packaging and the yellow and red price overlays. (4) The final segment features refrigerated and frozen sections, showing trays of fresh squid, frozen fish fillets, and sausages in plastic packaging. The video concludes with rows of wine and beer bottles in their respective cardboard crates under bright fluorescent lighting.",
+      "text_narrative_log": "(1) [Logo]: COSTCO WHOLESALE. [Slogan]: 好市多 每週特價速報 06/30~07/06 記得追蹤我們. (2) [Slogan]: KIRIN 麒麟午後奶茶 原價339 -70 特價269. (3) [Slogan]: 紐西蘭富士蘋果 原價349 -70 特價279. (4) [Slogan]: 幫寶適一級幫 極上守護貼貼及褲型 原價1299 -300 特價999. (5) [Slogan]: 米乖乖綜合箱 原價329 -70 特價259. (6) [Slogan]: 盛香珍 葡萄草莓蒟蒻果凍 原價299 -60 特價239. (7) [Slogan]: 西雅圖 無加糖二合一咖啡 原價689 -140 特價549. (8) [Slogan]: NOMURA 野村煎豆美樂圓餅 原價299 -60 特價239. (9) [Slogan]: 波樂 雞汁口味 厚切洋芋片 原價195 -40 特價155. (10) [Slogan]: PIERRE 法式綜合奶油餅乾 原價349 -70 特價279. (11) [Slogan]: 原萃 白毫烏龍茶 原價429 -85 特價344. (12) [Slogan]: PUMA 女運動內衣 兩件組 原價599 -120 特價479. (13) [Slogan]: 威德輕暢酵素飲 纖暢配方 原價999 -200 特價799. (14) [Slogan]: 加倍佳 繽紛盒棒棒糖 (綜合口味) 原價999 -200 特價799. (15) [Slogan]: 石安牧場 杏仁豆腐 原價198 -40 特價158. (16) [Slogan]: GUM 牙周護理牙膏 原價499 -100 特價399. (17) [Slogan]: OXICLEAN 活氧萬用去漬粉 原價629 -130 特價499. (18) [Slogan]: DOWNY 超濃縮衣物柔軟精 原價599 -120 特價479. (19) [Slogan]: TIDE 汰漬 洗衣膠囊 春天草地香 原價1289 -330 特價959. (20) [Slogan]: RICHY 瑞奇迷你燕麥酥 原價319 -65 特價254. (21) [Slogan]: 小管 原價639/KG -130 特價509/KG. (22) [Slogan]: 冷凍比目魚切片 原價759/KG -150 特價609/KG. (23) [Slogan]: 富統 巴伐利亞式 煙燻香腸 原價449 -90 特價359. (24) [Slogan]: 正官庄 高麗蔘精1G 原價1199 -240 特價959. (25) [Slogan]: 丹麥覆盆子 奶霜風味千層酥 原價299 -60 特價239. (26) [Slogan]: 格力高 無糖杏仁飲 職人版 原價799 -160 特價639. (27) [Slogan]: 西莎 成犬低脂雞肉蒸鮮包 原價329 -70 特價259. (28) [Slogan]: MON PETIT 猫倍麗 雙拼主食罐組 原價569 -120 特價449. (29) [Slogan]: PARMAREGGIO 帕瑪吉蘭諾乾酪 30個月熟成 原價699 -140 特價559. (30) [Slogan]: PERRIER 沛綠雅氣泡礦泉水 原價765 -160 特價605. (31) [Slogan]: 宏裕行 冷凍海鮮蝦餅 原價569 -114 特價455. (32) [Slogan]: 李施德霖 全效無酒精漱口水 原價649 -130 特價519. (33) [Slogan]: 3倍高效 牙周適 高效牙齦護理漱口水 原價559 -120 特價439. (34) [Slogan]: 飛利浦 充電式護齦音波牙刷 雙握柄/四刷頭 原價8499 -1720 特價6779. (35) [Slogan]: MACKIE'S 蘇格蘭 經典牛奶冰淇淋 原價225 -50 特價175. (36) [Slogan]: NESTLE KITKAT 奇巧巧克力早餐脆片 原價399 -80 特價319. (37) [Slogan]: PHYSIOGEL 潔美淨層脂質 B5保濕凝乳 原價899 -200 特價699. (38) [Slogan]: EUTHYMOL 英國百年 粉紅亮白牙膏組合 原價569 -120 特價449. (39) [Slogan]: WEBBER NATURALS 舒眠草本複合膠囊 原價599 -120 特價479. (40) [Slogan]: 花王 泡澡錠 原價599 -120 特價479. (41) [Slogan]: PANIER DES SENS 潘堤香頌護手霜 原價979 -210 特價769. (42) [Slogan]: MAN VINTNERS 南非白葡萄酒 原價259 -50 特價209. (43) [Slogan]: Chateau Croix 法國紅葡萄酒 1.5L 2020 原價849 -170 特價679. (44) [Slogan]: 金車柏克金 夏日沁香啤酒 原價699 -105 特價594.",
+      "visual_human_presence": {
+        "totalHumanCount": 0,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 0,
+        "bodyPartVisibility": [
           "None"
+        ],
+        "crowdLevel": [
+          "None"
+        ],
+        "countingEvidence": "The video displays product packaging and an animated avatar; no actual humans are present in the frame.",
+        "mainCharacterDescription": "None"
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Supermarket / Warehouse Store"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The background consistently features high-density warehouse racking and retail shelves stocked with bulk-packaged commercial goods typical of a Costco store.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Bright and colorful"
         ]
       },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "The interior of a Costco warehouse, featuring high metal shelving, pallet-stacked goods, and refrigerated sections.",
-      "lightingStyle": "Bright industrial lighting",
-      "weather": "Indoor",
-      "season": "Summer",
-      "editingPace": "Fast",
-      "textOverlay": {
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Panning"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Fast cuts"
+        ],
+        "visualRhythm": [
+          "Very fast pace"
+        ],
+        "takeStructure": [
+          "Compilation / montage sequence"
+        ]
+      },
+      "visual_text_overlay": {
         "density": "High",
-        "language": [
+        "textLanguage": [
           "Traditional Chinese",
           "English"
         ],
         "isSubtitled": false
       },
-      "colorTone": "Bright and saturated",
-      "cameraWork": [
-        "Static",
-        "Handheld"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Milk Tea",
-        "Apples",
-        "Cookies",
-        "Chips",
-        "Seafood",
-        "Sausage",
-        "Ice Cream",
-        "Cereal"
-      ],
-      "trafficDetect": [
-        "Scooter",
-        "Car"
-      ],
-      "techDetect": [
-        "Electric Toothbrush"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "COSTCO",
-        "KIRIN",
-        "Pampers",
-        "PUMA",
-        "TIDE",
-        "PHILIPS",
-        "KITKAT",
-        "PERRIER",
-        "LISTERINE"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and promotional",
-        "pitch": "High",
-        "loudness": "Loud",
-        "speed": "Extremely fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Dog",
+          "Cat"
+        ],
+        "foodsDetect": [
+          "Fruit",
+          "Seafood / fish / shrimp",
+          "Meat / beef / pork / chicken",
+          "Alcohol",
+          "Dairy / yogurt / cheese ",
+          "Dessert / cake / cookies",
+          "Snack / chips / candy",
+          "Noodles / ramen / pasta",
+          "Rice / grains"
+        ],
+        "trafficDetect": [
+          "Scooter / motorcycle"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Camera / DSLR"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Costco",
+          "Kirin",
+          "Pampers",
+          "Puma",
+          "Downy",
+          "Tide",
+          "Philips",
+          "KitKat"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 5,
+        "speechPauseDensity": 1
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 7,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 0,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 5,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 5,
+        "audioCutFrequency": 5,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with an energetic male voice announcing the weekly Costco specials. The speaker has a high-pitched, enthusiastic tone with a fast speech rate. A bright, upbeat electronic pop background music track with a strong 4/4 beat plays continuously. (2) As the video displays various products, the narrator rapidly recites each product's name and its discounted price. Every scene transition is underscored by a subtle 'whoosh' or 'ding' sound effect designed to emphasize the rapid-fire visual information. (3) The vocal delivery remains consistently high in arousal and intensity throughout the entire sequence. The music maintains a steady tempo and major-key tonality, providing a positive and urgent promotional atmosphere. No environmental noise or ambient sound is present, indicating a high-quality post-produced studio recording."
     }
   },
-  "high_inference_interpretations": {
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Promotion / Advertisement / Indoresment",
+        "Shopping"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 45,
+      "averageSceneDuration": 1.97,
+      "editingPace": "Fast",
+      "isNarrativeShift": false
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Information List -> CTA",
-      "mainPurpose": "To quickly inform Costco members in Taiwan about the current week's discount items and their specific sale prices, encouraging them to visit the store and follow the creator for more updates.",
-      "visualEmotion": "Energetic"
+      "narrativeStructure": "List-based: Intro -> Sequential Product Highlights -> Implicit CTA",
+      "mainPurpose": "The video aims to promote current weekly discounts at Costco Taiwan to social media users, driving them to visit the store or follow the channel for more savings updates through a rapid-fire, high-energy product catalog presentation.",
+      "visualEmotion": [
+        "energetic",
+        "informative"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
-        "Implicit",
-        "Integrated"
+        "Explicit",
+        "Full"
       ],
-      "endorsementCues": "Detailed pricing information and brand-specific callouts within a retail environment.",
+      "endorsementCues": "The video explicitly features the Costco logo and focuses entirely on showcasing products and their sale prices within a Costco retail environment.",
       "endorsementObject": [
         "Costco"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Fast-talking price recitation and colorful text overlays with Wreck-It Ralph character usage.",
-      "freeDescribe": "The video uses a very specific 'fast-paced shopping guide' template popular on short-video platforms like TikTok or Reels to maximize information density."
-    }
+    "freeDescribe": "The video utilizes a hyper-fast editing style and synchronized high-energy narration to maximize information density for short-form video consumers."
   }
 }

@@ -1,173 +1,277 @@
 {
   "videoName": "yga0721-20250501010658-1970174680379219.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 55,
-      "aspectRatio": "9:16",
+      "videoDuration": 56,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A man wearing a black baseball cap and a green long-sleeved sweatshirt sits behind a white table against a plain grey-white paneled wall. He gestures emphatically with his hands, pointing his index finger and making a 'three' sign with his fingers to match the text on screen. Large green and white text overlays are positioned at the bottom of the frame, flashing frequently in sync with his speech. (2) The scene transitions between medium shots and close-ups of the man's face using jump cuts. He uses a variety of hand motions, such as waving his hand to the side and pointing at himself. His facial expressions are highly animated, with raised eyebrows and a wide mouth while speaking rapidly. Bright, even studio lighting eliminates most shadows and highlights his features. (3) He continues to speak directly to the camera, leaning his elbows on the white table to emphasize his presence. He occasionally rests his chin on his hand or moves his hands in a circular motion to describe market fluctuations. The text overlays change color to yellow and green to highlight specific financial terms and slang. (4) In the final moments, the man changes his posture to a more relaxed stance, leaning back and gesturing with a palm-up hand. He maintains direct eye contact with the camera before the video ends. The background remains static throughout the entire sequence, focusing all visual attention on the speaker and the dynamic text elements.",
+      "text_narrative_log": "(1) [Subtitle]: 如果不想當股市韭菜. [Slogan]: 影片趕快看下去. (2) [Subtitle]: 快傳給你那些韭菜朋友看. (3) [Subtitle]: 川普關稅政策一下. (4) [Subtitle]: 台股兩天跌了快 3000 點. (5) [Subtitle]: 整個台灣投資人哀鴻遍野. (6) [Subtitle]: 到底還跌多久?. (7) [Subtitle]: 股市賺錢王道 大家都知道. (8) [Subtitle]: 逢低買進 逢高賣出. (9) [Subtitle]: 別人恐懼 我就貪婪. (10) [Subtitle]: 大家都在問 到底現在是不是最適合進場 撿便宜的 Good Timing. (11) [Subtitle]: 會不會今天我一進場 明天又繼續跌?. (12) [Subtitle]: 我反而住了套房 沒辦法 上天堂. (13) [Subtitle]: 到底什麼時候才是最低點? 可以底股反彈 撿到便宜 最好時機點?. (14) [Subtitle]: 如果你知道 請留言告訴我. (15) [Subtitle]: 我看起來像股市分析師嗎 我是社工師.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main creator speaking to camera.",
+        "mainCharacterDescription": "A young male with brown hair, wearing a black New Era baseball cap and a green long-sleeved sweatshirt."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A clean, minimalist studio setting with a light grey or white paneled wall and a white table in the foreground.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Digital zoom"
+        ],
+        "shotSize": [
+          "Medium close-up",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Zoom in"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "New Era"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Comedic/Exaggerated",
+          "Sarcastic/Teasing"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 5,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 120,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 0,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Pop / Bubble SFX",
+          "Ding / Bell SFX",
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 5,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A male voice with a clear, resonant timbre speaks Mandarin at a fast pace with high emotional energy. The pitch variability is significant, rising for emphasis on certain words about stock market 'leeks.' A background track of upbeat, major-key electronic pop music plays at a consistent volume. A sharp 'pop' sound effect punctuates the first appearance of text. (2) As the speaker discusses the stock market drop and Trump's policies, his vocal intensity increases, bordering on a shout for dramatic effect. The speech rate remains high with very few structural pauses. A short 'ding' sound effect is layered over the music to mark the appearance of specific figures like '3000 points' on the screen. (3) The speaker's tone shifts to a slightly more inquisitive and sarcastic mode while asking the audience about market timing and 'Good Timing.' He uses complex intonation patterns with several rising inflections. The background music continues with a light synthesizer melody and a steady electronic drum pattern, maintaining the energetic atmosphere. (4) The final segment features a slight drop in vocal arousal as the speaker delivers the humorous punchline reveal. His voice becomes more casual and conversational, though still clearly enunciated. The background music maintains its tempo and volume until the very end of the recording. No significant ambient noise or technical distortion is present in this clean studio-grade master."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
         "Comedy",
-        "Commentary",
-        "Vlog"
+        "Personal Talk",
+        "News / Commentary"
       ],
-      "withRealPeople": true,
       "location": {
         "country": [
-          "None"
+          "Taiwan"
         ],
         "city": [
           "None"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A man wearing a green long-sleeved shirt and a black baseball cap sits behind a table against a plain light gray background. He points his finger at the camera and gestures expressively with his hands as he speaks. (2) The scene cuts frequently between different zoom levels of the man as he continues to talk, using hand gestures such as holding up two or three fingers, clenching his fist, and spreading his arms wide. (3) In the final phase, he leans forward closer to the camera, continuing his animated speech and pointing one last time before the video ends.",
-      "audio_narrative_log": "(1) A male voice begins speaking in an energetic and slightly sarcastic tone over an upbeat, rhythmic electronic background music. (2) The music continues at a steady tempo while the speaker's voice fluctuates in pitch to emphasize certain points, accompanied by occasional 'whoosh' sound effects during scene transitions. (3) The speaking pace remains fast until the very end, where a short, high-pitched giggle sound effect is heard as the male voice delivers a final punchline.",
-      "text_narrative_log": "(1) Decorative Text: \"如果不想要股市韭菜 影片趕快看下去\" (If you don't want to be a stock market leek, watch this video now) - Hook tone. (2) Decorative Text: \"快傳給你那些韭菜朋友\" (Hurry and send this to your leek friends) - Encouraging tone. (3) Functional Text: Mentions \"川普關稅政策\" (Trump's tariff policy) and \"台股兩天跌了快3000點\" (Taiwan stocks fell nearly 3000 points in two days) - Informational tone. (4) Decorative Text: \"何時才是最低點?\" (When is the lowest point?) and \"撿到便宜最好時機點?\" (Best time to pick up a bargain?) - Questioning tone. (5) Decorative Text: \"我是社工師\" (I am a social worker) - Revelation/Humorous tone."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 38,
-      "averageSceneDuration": 1.4,
-      "isNarrativeShift": true,
-      "mainActionFlow": "The video follows a fast-paced 'talking head' format: Intro Hook -> Economic Commentary -> Professional Twist."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Head and shoulders",
-        "Hands",
-        "Torso"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "One main male creator is visible throughout the video.",
-      "mainCharacterDescription": "A young adult male with dyed light brown hair, wearing a green sweatshirt and a black New Era baseball cap."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Studio"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A clean, minimalist studio setting with a light gray or off-white wall and a simple white table surface.",
-      "lightingStyle": "Bright studio lighting",
-      "weather": "Unknown",
-      "season": "Unknown",
+      "sceneCutCount": 15,
+      "averageSceneDuration": 3.7,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Digital Zoom"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "New Era"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Energetic, sarcastic, and humorous",
-        "pitch": "Normal",
-        "loudness": "Loud",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum kit"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Whoosh",
-        "Giggle"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Problem -> Twist",
-      "mainPurpose": "The video serves as a comedic subversion of typical stock market investment advice. It starts by using common 'investor' buzzwords and addressing current market anxieties (Trump tariffs, TAIEX drops) to hook the audience into thinking they are getting financial tips. However, the final reveal that the speaker is a social worker, not a financial analyst, turns the entire video into a satirical joke about the absurdity of everyone giving stock advice during a crash.",
-      "visualEmotion": "Energetic and lighthearted"
+      "narrativeStructure": "Linear: Hook -> Questioning -> Irony -> Punchline",
+      "mainPurpose": "To satirize common stock market anxieties and the tendency of investors to panic, ending with a comedic twist that the speaker is a social worker, not a financial expert.",
+      "visualEmotion": [
+        "humorous",
+        "energetic",
+        "informative"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
       "endorsementMethod": [
         "None"
       ],
-      "endorsementCues": "The video appears to be a personal comedic skit rather than a product promotion.",
+      "endorsementCues": "None",
       "endorsementObject": [
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Fast-paced editing with colorful large-font text overlays, high-energy delivery typical of Taiwanese YouTuber Cai Aga.",
-      "freeDescribe": "The use of the term '韭菜' (leek) is a specific internet slang term in Chinese-speaking financial circles referring to retail investors who are repeatedly 'harvested' (lose money) by the market."
-    }
+    "freeDescribe": "The video uses typical social-media short-form editing style with large, colorful text and fast-paced delivery to build engagement before a final comedic reversal."
   }
 }

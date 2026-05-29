@@ -1,171 +1,268 @@
 {
   "videoName": "3ctim-20250920234731-812158658562132.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 49,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Tutorial",
-        "Tech Review"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A middle-aged man with glasses, a grey newsboy cap, and a green t-shirt stands against a plain white wall. He is talking energetically, using hand gestures like pointing and holding up fingers to emphasize his points. His facial expressions are animated. (2) The man crosses his arms in front of his chest in an 'X' shape. A digital graphic of a smartphone cross-section appears in the center of the frame, showing various layers labeled with text. (3) The graphic disappears, and the man continues his energetic monologue, clapping his hands together and making circular motions with his fingers while talking directly to the camera. He wears a beaded bracelet and a bright yellow watch.",
+      "text_narrative_log": "(1) [Logo]: 3c有趣思tim哥. [Logo]: 3ctim. [Subtitle]: 網傳呢. (2) [Slogan]: iPhone17因為有七層抗反射鍍膜 所以貼保貼會把它破壞掉 真的嗎?. (3) [Variety]: 答案 錯. (4) [Subtitle]: 怎麼說 手機的表面 有AF的鍍膜層底下才有AR的抗反射的鍍膜層 AF鍍膜層 是在AR抗反射層的上面 所以不會脫落 但如果你沒有貼保護貼的話 你日後使用哦 表面AF層如果脫落了 反而會造成你的鍍膜層一些刮傷 得不償失 但是要 怎麼樣去 選擇好的 保貼呢 非常重要 就關鍵在膠上面了 你的膠的 選擇要對 你呢 選擇的Silicone的膠 不要選擇 OCA的膠 黏在手機螢幕上 怎麼說 因為OCA的膠 它的那個OCA的膠啊 它是高黏的 黏度1000g 但是silicon膠是比較弱貼 約在20g以下 所以比較ok.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 male host centered in frame.",
+        "mainCharacterDescription": "Middle-aged male wearing a green t-shirt with 'Roots Athletics' logo, a grey patterned cap, glasses, a wooden bead bracelet, and a yellow smartwatch."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A clean, minimalist white wall with no distinctive features or furniture.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Graphic transition"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Roots Athletics"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 6,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Lo-fi",
+          "Pop"
+        ],
+        "tempoBPM": 95,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 0,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Other"
+        ],
+        "soundEffectsIntensity": 1,
+        "soundEffectsCoverage": 1
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 1,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 1,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A male narrator speaks in a fast, energetic tone with high articulation clarity. His voice is dominant over a low-volume, mid-tempo lo-fi background music track featuring electronic percussion and a subtle synth melody. The environment sounds completely silent, characteristic of a professional studio recording. (2) The narrator's tone shifts to a brief authoritative declaration, with the volume of his speech remaining high and projected. The BGM continues steadily in the background without any rhythmic shifts. (3) The detailed technical explanation continues at a steady, rapid pace. The acoustic texture remains bright and clear, with the narrator's vocal cadence perfectly synced with the casual beat of the background music. No incidental noises or heavy SFX interfere with the speech signal."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Tech Review",
+        "Tutorial / How-to"
+      ],
       "location": {
         "country": [
-          "Taiwan"
+          "Unknown"
         ],
         "city": [
           "None"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A middle-aged man with glasses, a grey newsboy cap, and a green t-shirt stands against a plain white background, speaking energetically and gesturing with his right hand. (2) He crosses his arms in an 'X' shape to signal 'Incorrect' as large text appears over him. (3) A detailed cross-section diagram of a smartphone screen appears, showing different coating layers like 'AR' and 'AF' along with an 'imos' screen protector. (4) The man continues his explanation, using various hand gestures like pointing, moving his hands to show layers, and making an 'OK' sign.",
-      "audio_narrative_log": "(1) A male voice speaks in Mandarin with a high-pitched, enthusiastic, and fast-paced tone. The vocal density is very high as he addresses rumors. (2) A faint, upbeat background music track plays throughout the explanation. (3) The audio environment is very clean, sounding like a studio recording with minimal ambient noise.",
-      "text_narrative_log": "(1) Hook text: 'iPhone 17 因為有 七層抗反射鍍膜 所以貼保貼 會把它破壞掉 真的嗎?' (Is it true that iPhone 17's 7-layer anti-reflection coating will be ruined by a screen protector?) - Curious/Hooking tone. (2) Answer text: '答案 錯' (Answer: Wrong) - Authoritative/Corrective tone. (3) Functional text: Subtitles in Traditional Chinese reflecting the speech. (4) Technical labels on diagram: 'imos 側邊貼', 'AF抗指紋', 'AR抗反射', 'Silicone 膠'."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 4,
-      "averageSceneDuration": 12.25,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Hook -> Rumor Debunking -> Technical Explanation with Diagram -> Final Advice"
+      "sceneCutCount": 2,
+      "averageSceneDuration": 16.3,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
     },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main creator (Tim) present throughout the video.",
-      "mainCharacterDescription": "Middle-aged Asian man, wearing glasses, a grey newsboy cap, a green 'Roots Athletics' t-shirt, and a yellow wristwatch."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Studio"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A plain, well-lit white wall with social media handles (3c有意思tim哥, 3ctim) displayed in the top left corner.",
-      "lightingStyle": "Bright studio lights",
-      "weather": "Unknown",
-      "season": "Unknown",
-      "editingPace": "Fast",
-      "textOverlay": {
-        "density": "Medium",
-        "language": [
-          "Chinese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Roots",
-        "imos",
-        "Apple"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "High-pitched and excited",
-        "pitch": "High",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic"
-      ],
-      "instrumentsAudible": [
-        "None"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Evidence -> Explanation",
-      "mainPurpose": "The video aims to debunk a viral rumor regarding the iPhone 17's screen coating. The creator uses a technical diagram to explain that applying a screen protector (specifically from the imos brand) will not damage the phone's AR and AF coatings because of the specific adhesive types and layer structure used, thereby educating consumers and promoting a product.",
-      "visualEmotion": "Energetic"
+      "narrativeStructure": "Linear: Hook -> Fact-Check -> Technical Explanation -> Recommendation",
+      "mainPurpose": "To debunk a rumor regarding iPhone 17's screen coating and provide technical advice on choosing appropriate screen protectors based on adhesive types.",
+      "visualEmotion": [
+        "energetic",
+        "informative"
+      ]
     },
     "endorsement_analysis": {
-      "isEndorsement": true,
+      "isEndorsement": false,
       "endorsementMethod": [
-        "Explicit",
-        "Full"
+        "None"
       ],
-      "endorsementCues": "The creator uses a specific brand's diagram (imos) and explains why their adhesive (Silicone) is superior to others (OCA), directly endorsing the product's safety for new devices.",
+      "endorsementCues": "General technical advice and debunking of a rumor without promoting a specific product purchase.",
       "endorsementObject": [
-        "imos"
+        "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Tim's energetic delivery, newsboy cap, and technical myth-busting style.",
-      "freeDescribe": "The video targets tech-savvy consumers and Apple enthusiasts, utilizing clear visual aids to simplify complex manufacturing details into consumer-friendly advice."
-    }
+    "freeDescribe": "A standard educational tech short video featuring a well-known tech creator providing maintenance tips."
   }
 }

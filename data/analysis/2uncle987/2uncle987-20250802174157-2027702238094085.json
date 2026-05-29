@@ -1,171 +1,289 @@
 {
   "videoName": "2uncle987-20250802174157-2027702238094085.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 49,
-      "aspectRatio": "9:16",
+      "videoDuration": 48.0,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) Four beige tickets with intricate retro sunburst patterns are held up by a hand with red nail polish against a bright blue sky. In the background, the entrance gate of an amusement park features large billboard-style posters of Ultraman and retro-style cartoons under bright sunlight. (2) A small, single-story octagonal brick building labeled as a police station stands next to a walkway; a woman in a pink coat and a man stand near the ticket booths. (3) A young man in a vibrant orange-red fleece jacket and black pants walks away from the camera through a long, covered outdoor shopping arcade designed in a 1960s Japanese style, featuring wooden storefronts and vintage lanterns. (4) Close-up shots show wooden shelves filled with colorful, retro-packaged snacks and candies. A hand with red nails touches circular white bags shaped like vinyl records displayed on a wooden rack. (5) Two young boys, one wearing glasses and a tan jacket, are seen dialing a vintage pink rotary telephone placed on a pedestal in front of a wooden building. (6) Costumed performers, including a man in a purple kimono and two women in yellow and pink 1950s-style waitress dresses, engage in animated street performances for a crowd. (7) A lively parade passes through the arcade with a man in a police uniform waving, a man playing a saxophone, and a small blue three-wheeled utility vehicle decorated with flowers and posters. (8) A montage displays various amusement park rides: children driving green go-karts, the man and boy riding a carousel with a large frog and ostrich, a red miniature train traveling through greenery, and a large octopus-themed ride. (9) The man and boys are seen on a drop tower ride called 'Little Angry God,' waving to the camera as they descend. (10) A boy in a grey sweater runs up a wide concrete staircase toward a large classical-style building named 'Sunset Pavilion.' Inside, a female staff member in a vest and bowtie greets them at the entrance. (11) The group enters a restaurant designed to look like a vintage train car with dark wood paneling, green upholstered seats, and video screens simulating moving scenery through the windows. (12) A waitress in a mask pushes a metal cart toward their table. A close-up reveals a plated meal featuring a hamburg steak with red sauce, a fried shrimp, broccoli, and a mound of yellow rice with a small flag on top.",
+      "text_narrative_log": "(1) [Subtitle]: 日本東京. 西武園遊樂園. (2) [Slogan]: 派出所. [Subtitle]: 復古商店街. (3) [Subtitle]: 零食. [Slogan]: 復古糖果. (4) [Subtitle]: 周邊. (5) [Subtitle]: 大街上都會有一些隨機的表演. (6) [Subtitle]: 遊行. 15:30 每日一場. (7) [Subtitle]: 超過20種遊樂設施. 卡丁車. 旋轉木馬. 小火車. 章魚遊戲?. 小怒神. (8) [Subtitle]: 看電影. (9) [Subtitle]: 吃飯囉. 餐廳門口是個車廂. (火車聲🚂). (10) [Subtitle]: 入園門票. 大人 4400円 (約台幣 970元). 小孩 3300円 (約台幣 700元).",
+      "visual_human_presence": {
+        "totalHumanCount": 25,
+        "maleDetectAmount": 10,
+        "femaleDetectAmount": 8,
+        "kidsDetectAmount": 7,
+        "mainCharacterCount": 3,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face close-up",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Crowd"
+        ],
+        "countingEvidence": "1 adult male creator, 2 young boys as main characters; approximately 10 performers in various scenes, and a crowd of around 12-15 visitors in the background.",
+        "mainCharacterDescription": "The main adult is a young man with brown hair wearing a bright orange-red fleece and black pants. The two children are boys, one in a tan jacket and the other in a grey sweatshirt."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Theme Park",
+          "Restaurant / Dining",
+          "Retail Store",
+          "Outdoor Street"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The video moves through various sections of the Seibuen Amusement Park, including a meticulously recreated Showa-era (1960s) shopping street with wooden structures, a vintage-style police station, several amusement ride areas with trees in the distance, and a train-themed indoor restaurant with dark wood and decorative lamps.",
+        "lightingStyle": [
+          "Natural daylight",
+          "Warm indoor lighting"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Winter"
+        ],
+        "colorTone": [
+          "Warm and vibrant",
+          "Cinematic"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Panning",
+          "Tilting",
+          "Walking handheld",
+          "Static"
+        ],
+        "shotSize": [
+          "Close-up",
+          "Medium shot",
+          "Full shot",
+          "Long shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Low angle",
+          "High angle"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Fast cuts",
+          "Montage"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Compilation / montage sequence"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "Japanese",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Other Mammals",
+          "Bird",
+          "Marine animal"
+        ],
+        "foodsDetect": [
+          "Meat / beef / pork / chicken",
+          "Seafood / fish / shrimp",
+          "Rice / grains",
+          "Vegetables",
+          "Snack / chips / candy"
+        ],
+        "trafficDetect": [
+          "Car",
+          "Train / metro / HSR",
+          "Van / shuttle"
+        ],
+        "techDetect": [
+          "Other"
+        ],
+        "landmark": [
+          "Seibuen Amusement Park"
+        ],
+        "brandLogos": [
+          "Ultraman",
+          "Leo the Lion"
+        ],
+        "instrumentsVisible": [
+          "Saxophone"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 3,
+        "male_vocal_count": 1,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 1
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 0,
+        "female_singer_count": 1,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "Korean"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Percussion",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter",
+          "Chatter"
+        ],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": [
+          "Commercial/Recreational"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Notification Sound"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Ding / Bell SFX",
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 5,
+        "speechMusicOverlap": 4,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Stingers"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) Fast-paced electronic pop music with a prominent drum beat and female vocals singing in Korean begins immediately. (2) A sharp 'click' sound effect triggers as the first transition occurs. (3) A male narrator with a bright, energetic, and professional tone begins speaking in Mandarin Chinese, describing the park. (4) A short 'whoosh' sound effect accompanies a fast visual cut between the tickets and the arcade street. (5) Throughout the middle section, subtle ambient sounds of laughing children and distant crowd chatter are audible beneath the music. (6) A loud steam train whistle SFX followed by rhythmic 'chug-chug' locomotive sounds enters the mix during the restaurant scene, perfectly synchronized with the train-car visual. (7) The narrator's speech rate increases as he lists prices, and a final upbeat musical flourish plays before a hard cut to silence."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
         "Vlog",
         "Travel",
-        "Family"
+        "Food Review"
       ],
-      "withRealPeople": true,
       "location": {
         "country": [
           "Japan"
         ],
         "city": [
-          "Tokyo",
-          "Tokorozawa"
+          "Saitama",
+          "Tokyo"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video opens with a hand holding four vintage-style tickets in front of the entrance to Seibuen Amusement Park. (2) A man in a bright red fleece jacket walks through a meticulously recreated Showa-era Japanese shopping street with retro storefronts and signs. Two young boys are seen interacting with a pink rotary telephone and looking at vintage snacks. (3) Performers dressed in mid-20th-century police and civilian costumes engage in street theater and dance. A small three-wheeled parade vehicle passes by. (4) A rapid montage follows showing children on various rides: driving green go-karts, riding a frog and ostrich on a carousel, traveling on a miniature steam train, and spinning on an octopus-themed ride. (5) The man runs up a grand stone staircase toward a building labeled 'Tasogare Cinema'. Inside, the group enters a dining area designed to look exactly like the interior of a luxury vintage train car. (6) A waitress in a formal uniform serves a plate of Japanese 'yoshoku' (western-style food) featuring hamburger steak, fried shrimp, and omelet rice. The video ends with a price list overlay.",
-      "audio_narrative_log": "(1) Upbeat, high-tempo pop music with a strong percussion beat starts immediately. A male voice speaks in Mandarin, introducing the location and the nostalgic atmosphere. (2) Ambient sounds of a theme park are heard, including the chatter of crowds and children's excited voices. (3) During the parade segment, the music remains dominant, but the sounds of street performers shouting and cheering are audible. (4) On the rides, the children's high-pitched voices are heard shouting 'Bye bye!' and laughing. (5) In the restaurant, the soundscape shifts slightly to include the ambient chugging and whistle of a train, simulating a moving railcar environment. (6) The video concludes with the music fading out as the voiceover provides final comments.",
-      "text_narrative_log": "(1) '日本東京 西武園遊樂園' - Functional text identifying the location as Tokyo Seibuen Amusement Park. (2) '派出所', '商店街', '零食', '周邊' - Decorative/Functional labels identifying the police station, shopping street, snacks, and merchandise sections. (3) '隨機的表演' - Hook text indicating random street performances. (4) '遊行 15:30 每日一場' - Functional text giving parade times. (5) '超過20種遊樂設施' - Decorative hook emphasizing the variety of rides, followed by labels like '卡丁車' (Go-kart) and '旋轉木馬' (Carousel). (6) '入園門票' - Functional text showing ticket prices for adults (4400 yen) and children (3300 yen)."
     },
     "temporal_pacing_summary": {
-      "sceneCutCount": 24,
-      "averageSceneDuration": 2.0,
-      "isNarrativeShift": true,
-      "mainActionFlow": "The video follows a logical flow from park entry to street activities, ride montages, and finally dining and pricing information."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 3,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 2,
-      "mainCharacterCount": 3,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 adult male (the creator), 2 young boys (main travelers), and various background performers/passers-by.",
-      "mainCharacterDescription": "An adult male wearing a bright red textured fleece jacket and black pants; two young boys in casual jackets (yellow and beige)."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Theme Park",
-          "Retro Street",
-          "Restaurant"
-        ],
-        "topography": [
-          "Plain"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "The background transitions from a sunny outdoor amusement park gate to a sheltered, retro-styled Japanese shopping street with wooden buildings and paper lanterns, and finally into a dim, wood-paneled train-themed restaurant interior.",
-      "lightingStyle": "Natural bright sunlight outdoors; warm, atmospheric indoor lighting in the shopping street and restaurant.",
-      "weather": "Sunny",
-      "season": "Spring/Autumn",
+      "sceneCutCount": 22,
+      "averageSceneDuration": 2.18,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese",
-          "Japanese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "High Saturation",
-      "cameraWork": [
-        "POV",
-        "Follow shot",
-        "Static"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Hamburger Steak",
-        "Fried Shrimp",
-        "Omelet Rice",
-        "Broccoli"
-      ],
-      "trafficDetect": [
-        "Vintage Parade Vehicle",
-        "Miniature Train",
-        "Go-kart"
-      ],
-      "techDetect": [
-        "Pink Rotary Phone"
-      ],
-      "landmark": [
-        "Seibuen Amusement Park"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade",
-      "vocalRatio": "Medium"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 2,
-        "backgroundCrowdVoices": 5,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 2
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and informative",
-        "pitch": "Moderate",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion",
-        "Strings"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum kit",
-        "Bass guitar"
-      ],
-      "musicSourceType": [
-        "Copyrighted Song"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Train Whistle",
-        "Bell"
-      ],
-      "ambientNoise": [
-        "Crowd chatter",
-        "Theme park ambience"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Location Showcase -> Action Compilation -> Practical Utility",
-      "mainPurpose": "The video serves as a travel guide and recommendation for Seibuen Amusement Park in Tokyo. By combining visual proof of the unique Showa-era retro aesthetic, the variety of child-friendly rides, and the immersive themed dining experience, it aims to convince families that this is a high-value destination. The fast-paced editing and upbeat music create a sense of fun and excitement, while the final inclusion of ticket prices provides viewers with actionable planning information.",
-      "visualEmotion": "Energetic and Nostalgic"
+      "narrativeStructure": "List-based: Hook -> Showcase of Atmosphere -> Activities/Performances -> Dining -> Practical Information (Pricing).",
+      "mainPurpose": "The video serves as a travel guide and review for Seibuen Amusement Park, highlighting its unique 1960s Showa-era retro theme. It aims to showcase the variety of entertainment available, including immersive street performances, a large selection of rides for families, and a themed dining experience that replicates a luxury train, ultimately providing travel inspiration and cost information for prospective visitors.",
+      "visualEmotion": [
+        "energetic",
+        "warm",
+        "informative"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -177,9 +295,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Family-centric travel perspective with a focus on immersive themed environments.",
-      "freeDescribe": "The video leverages heavy text overlays to guide the viewer through the specific attractions, making it highly suitable for social media consumption where audio might be muted initially."
-    }
+    "freeDescribe": "The video uses a high editing frequency and upbeat audio to maintain a high-arousal state, typical of successful short-form travel vlogs."
   }
 }

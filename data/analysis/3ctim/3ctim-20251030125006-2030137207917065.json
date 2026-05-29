@@ -1,180 +1,293 @@
 {
   "videoName": "3ctim-20251030125006-2030137207917065.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 45,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Educational",
-        "Commentary",
-        "Vlog"
-      ],
+      "videoDuration": 45.62,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "Taiwan"
+      "visual_narrative_log": "(1) The video opens with a medium close-up of a middle-aged male speaker wearing a black baseball cap, glasses, and a white t-shirt against a grey curtain background. He has a surprised expression with raised eyebrows and an open mouth. (2) The scene cuts to a close-up of a person's hands holding and operating a white PlayStation DualShock 4 controller in a dimly lit indoor setting with warm ambient light. (3) Returning to the main speaker, he begins gesturing with his hands while speaking directly to the camera, his expressions changing from inquisitive to informative. (4) A medium shot shows a young man and woman sitting on a couch in a cozy, dimly lit living room; the woman holds a game controller and laughs while looking off-camera. (5) Footage of various video games is displayed, including a MOBA-style game with multiple characters on a green map and a high-speed car racing game on an urban track with bright daylight. (6) A close-up shows a smartphone screen running the car racing game, with thumbs tapping the screen to control the vehicle. (7) The couple on the couch is shown again, with a small circular inset in the bottom right corner showing the main speaker continuing his narration. (8) A screen recording of a mobile first-person shooter game is shown, featuring a character moving through an urban environment with various UI buttons overlaying the image. (9) The main speaker returns to the full screen, using expressive hand movements to emphasize his points about brain functions. (10) The video concludes with the speaker giving a thumbs-up gesture and smiling towards the camera, while text overlays provide a final summary and a cautionary note about gaming time.",
+      "text_narrative_log": "(1) [Logo]: 3c有意s思tim哥. [Logo]: @3ctim. [Variety]: 什麼！ (2) [Variety]: 打電玩. (3) [Subtitle]: 可以讓大腦變強的秘密. (4) [Subtitle]: 根據大腦科學研究證實. (5) [Subtitle]: 打電玩不僅不是玩物喪志. (6) [Subtitle]: 反而能. (7) [Variety]: 促進大腦功能訓練. (8) [Subtitle]: 特別是. (9) [Variety]: 動作類、射擊類遊戲. (10) [Subtitle]: 這類遊戲能增強. (11) [Variety]: 空間認知能力. [Variety]: 專注力. (12) [Subtitle]: 因為玩家需要隨時注意螢幕上的遊戲的局勢. (13) [Subtitle]: 進而觸覺了你的視覺訊息. (14) [Variety]: 處理速度. [Variety]: 注意力. (15) [Subtitle]: 而且在玩射擊遊戲的時候. (16) [Subtitle]: 玩家要迅速分辨敵我而且做出反應. (17) [Subtitle]: 這過程能鍛鍊大腦並且同時處理. (18) [Variety]: 多重刺激的能力. (19) [Subtitle]: 另外重複挑戰遊戲關卡的過程中. (20) [Subtitle]: 也對大腦的. (21) [Variety]: 短期記憶. [Variety]: 工作記憶. (22) [Subtitle]: 的訓練有幫助. (23) [Subtitle]: 由此可知電玩遊戲不僅無害. (24) [Subtitle]: 反而能訓練. (25) [Variety]: 專注力. [Variety]: 記憶力. [Variety]: 大腦靈活度. (26) [Subtitle]: 但如果. (27) [Variety]: 過度沉迷的話. (28) [Subtitle]: 一樣會造成傷害啦. [Slogan]: 請適量玩遊戲.",
+      "visual_human_presence": {
+        "totalHumanCount": 3,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Head and shoulders",
+          "Hands only",
+          "Upper body",
+          "Face close-up"
         ],
-        "city": [
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main male speaker, 1 male and 1 female shown as examples on a couch.",
+        "mainCharacterDescription": "A middle-aged man with short hair, wearing a black cap, glasses, and a white t-shirt."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio",
+          "Indoor Living Room",
+          "Digital Interface / Screen Capture"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The primary background is a vertical grey-striped curtain. Secondary backgrounds include a warm-lit home living room and various digital game environments (MOBA map, city racing track, urban shooter environment).",
+        "lightingStyle": [
+          "Bright studio lighting",
+          "Warm indoor lighting",
+          "Natural daylight"
+        ],
+        "weather": [
+          "Sunny / Clear",
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright",
+          "Warm",
+          "High saturation"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium close-up",
+          "Close-up",
+          "Medium shot",
+          "Screen / interface close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Top-down / overhead"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Graphic transition",
+          "Picture-in-picture / inset",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Compilation / montage sequence"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "Car"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Game console / controller"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "3c 有意思 tim 哥",
+          "DualShock 4"
+        ],
+        "instrumentsVisible": [
           "None"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video opens with a close-up of a middle-aged man (3cTim) wearing a black cap and glasses with a surprised facial expression. (2) It transitions to a visual phase showing a B-roll of hands using a white game controller in a dark room, followed by a shot of a man and a woman smiling while gaming on a couch. (3) This is followed by rapid sequences of gameplay footage including a top-down MOBA game, a mobile racing game, and a first-person shooter mobile game, while the host periodically reappears in front of a grey curtain. (4) The host continues to use hand gestures to explain brain functions as the scene returns to his studio setup, concluding with a steady shot of him speaking directly to the camera.",
-      "audio_narrative_log": "(1) A male voice begins speaking in an energetic and informative tone over an upbeat, lo-fi background music track. (2) The soundscape shifts to include mechanical clicking sounds of a game controller and soft ambient gaming noises as the visuals switch to B-roll. (3) During the gameplay segments, sound effects of racing engines and gunfire from the shooting game are layered over the continuous narration and background music. (4) The video maintains a consistent audio mix of vocals and music, ending with the music fading out alongside a concluding remark.",
-      "text_narrative_log": "(1) Decorative/Hook Text: '什麼！' (What!) appears in large white characters to create a hook. (2) Functional Text: '打電玩可以讓大腦變強的秘密' (The secret of how playing games makes the brain stronger) appears as a central hook title. (3) Functional Text: Several informational titles appear such as '動作類、射擊類遊戲' (Action and shooting games), '空間認知能力' (Spatial cognitive ability), and '專注力' (Focus) to highlight key scientific terms. (4) Functional Text: A disclaimer '*請適量玩遊戲*' (Please play games in moderation) appears at the bottom right at the end of the video."
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Professional/Narrative",
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 7,
+        "dominance": 8,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Mechanical Click / Latch"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Ding / Bell SFX",
+          "Pop / Bubble SFX",
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Fades"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a high-energy vocal exclamation from a male narrator, characterized by a sharp rising pitch and high volume, immediately followed by the start of an upbeat, rhythmic electronic BGM with a steady 128 BPM pulse. (2) A subtle mechanical click sound triggers a transition as the narrator's tone shifts to a professional and informative delivery style, maintaining a fast speech rate with clear articulation. (3) A synthesized 'whoosh' SFX marks a visual cut, while the BGM maintains a consistent major-mode energy with prominent electronic drum hits. (4) A playful 'bubble' or 'pop' sound effect occurs as text variety captions appear, adding a layer of comedic emphasis to the narrator's positive valence. (5) As the narration details specific gaming genres, faint digital UI 'ding' sounds are heard, punctuating the descriptive phases of the speech. (6) The BGM volume slightly ducks to prioritize the vocal clarity during a detailed explanation of cognitive processes, then swells during a brief transition. (7) A final 'ding' or chime SFX accompanies the narrator's concluding summary, with the music fading out slightly towards the very end as the speech finishes with an advisory tone."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Tech News / Commentary",
+        "Education / Knowledge",
+        "Short Video"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
     },
     "temporal_pacing_summary": {
       "sceneCutCount": 18,
       "averageSceneDuration": 2.5,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro Hook -> Scientific Claim -> Gameplay Demonstration -> Conclusion and Warning"
+      "editingPace": "Fast",
+      "isNarrativeShift": true
     },
-    "visual_human_presence": {
-      "totalHumanCount": 3,
-      "maleDetectAmount": 2,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Face",
-        "Hands only",
-        "Half-body",
-        "Side view"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 main host, 1 male and 1 female visible in gaming B-roll",
-      "mainCharacterDescription": "A middle-aged man with short hair, wearing a black flat cap, dark-rimmed glasses, and a white t-shirt with a blue graphic design."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Studio",
-          "Indoor Living Room"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "The primary background is a professional studio setting with a grey vertical-striped curtain. Secondary B-roll backgrounds include a dimly lit living room with warm decorative lighting and digital gameplay environments.",
-      "lightingStyle": "Studio lighting for the host; warm, low-key ambient lighting for the gaming scenes.",
-      "weather": "None",
-      "season": "None",
-      "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "Medium",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural and Muted",
-      "cameraWork": [
-        "Static",
-        "Close-up",
-        "POV"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "Car"
-      ],
-      "techDetect": [
-        "Smartphone",
-        "Game Controller",
-        "Headphones"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Facebook",
-        "Instagram",
-        "Sony"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Steady, professional, and friendly",
-        "pitch": "Medium-low",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Lo-fi",
-      "bgmBPM": 105,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Game SFX",
-        "UI Click sounds"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Evidence -> Benefit -> Disclaimer",
-      "mainPurpose": "The video's objective is to inform viewers about the positive cognitive effects of playing video games, specifically highlighting how action and shooting games can improve concentration and spatial awareness, effectively countering negative stereotypes about gaming.",
-      "visualEmotion": "Energetic and Informative"
+      "narrativeStructure": "Linear: Hook -> Information Sharing -> Evidence/Examples -> Synthesis -> Conclusion/Warning",
+      "mainPurpose": "To inform the audience about the potential cognitive benefits of playing video games, specifically in areas like reaction time, spatial awareness, and memory, while providing a balanced perspective that warns against excessive addiction.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
       "endorsementMethod": [
         "None"
       ],
-      "endorsementCues": "The content focuses on a general scientific topic rather than promoting a specific product or brand.",
+      "endorsementCues": "None",
       "endorsementObject": [
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "The host (3cTim) uses a signature flat cap and a variety-show style of overlay captions typical of tech influencers in Taiwan.",
-      "freeDescribe": "The video effectively utilizes stock footage and high-paced editing to make scientific information more accessible to a social media audience."
-    }
+    "freeDescribe": "The video utilizes a high-density editing style typical of social media platforms (TikTok/Shorts), combining expert narration with B-roll game footage and text-heavy overlays to maximize information retention in a short timeframe."
   }
 }

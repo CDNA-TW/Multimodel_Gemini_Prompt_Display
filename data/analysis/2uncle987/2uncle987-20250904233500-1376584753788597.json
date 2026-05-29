@@ -1,14 +1,239 @@
 {
   "videoName": "2uncle987-20250904233500-1376584753788597.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 15,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Fashion"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A young woman with shoulder-length dark hair, wearing a grey and white horizontal striped oversized t-shirt and navy blue denim shorts, walks slowly down a dimly lit residential hallway. She covers her mouth with her right hand while yawning, her eyes squinting to show a tired and sleepy facial expression. The setting is a minimalist indoor environment with light-colored wooden flooring and a white wall clock visible in the background. (2) She approaches a doorway on the left side of the frame and reaches out with her right hand to toggle a large, white wall-mounted light switch. The camera remains at a static eye-level perspective as she interacts with the environment. (3) Following a quick transition, the woman is seen in the same hallway but now wearing a light blue pajama set adorned with large yellow and dark blue flower patterns. She adjusts the hem of her top with both hands, looking down at her clothes with a slightly pouting or dissatisfied expression. The hallway is now more brightly lit. (4) She stops walking and suddenly points her right index finger to the side of her head with a wide-eyed, joyful expression of realization. A yellow 'sparkle' graphic overlay briefly flashes near her hand to emphasize the 'bright idea' moment. (5) A final jump cut reveals her in a brightly lit bedroom; she is now wearing a grey Calvin Klein sports bra under an unbuttoned white shirt, paired with loose-fitting blue jeans. She laughs and dances energetically, swinging her arms and moving her torso to the rhythm of the music. A large bed with a yellow duvet is visible behind her.",
+      "text_narrative_log": "None",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main female creator performs throughout the sequence.",
+        "mainCharacterDescription": "A young Asian woman with shoulder-length dark hair. She transitions through three outfits: a striped t-shirt with shorts, floral pajamas, and finally a sports bra with an open white shirt and jeans."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home",
+          "Indoor Bedroom"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A minimalist indoor hallway with light wood floors, neutral beige walls, and a circular wall clock. The final scene transitions to a brightly lit bedroom with a bed covered in a yellow and grey duvet.",
+        "lightingStyle": [
+          "Bright indoor lighting",
+          "Warm indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Full shot",
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Jump cut",
+          "Graphic transition"
+        ],
+        "visualRhythm": [
+          "Rhythm matched to music"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "None",
+        "textLanguage": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Calvin Klein"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 85,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 1,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "English"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Mechanical Click / Latch",
+          "Sparkle / Magic SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 1
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": true,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a low-energy, near-silent ambient room tone, reflecting the visual theme of tiredness. There is no music or vocal activity in this initial phase. (2) A sharp, distinct mechanical sound of a 'click' occurs precisely as the woman touches the light switch. This acts as a structural anchor for the first transition. (3) Following the click, an upbeat pop-electronic track begins with a syncopated drum beat and bright synthesizer chords. The tempo is moderate, creating a shift in acoustic energy. (4) A high-pitched, resonant 'ding' or sparkle sound effect is triggered to match the visual realization moment. This SFX is layered clearly over the background music. (5) The music continues to swell in volume, featuring a male vocalist singing lyrics in English with a smooth, rhythmic delivery. The bass line becomes more prominent, matching the high-energy dancing movements of the subject."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Meme / Trend",
+        "Fashion / Beauty",
+        "Lifestyle"
+      ],
       "location": {
         "country": [
           "Unknown"
@@ -18,139 +243,20 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman with dark hair, wearing a striped t-shirt and navy shorts, walks down a hallway while yawning and rubbing her eye. She reaches for a light switch on the wall. (2) Following a scene cut, the woman appears in the same hallway wearing a blue t-shirt and shorts set with yellow flower patterns. She gestures towards her clothes, smiles at the camera, and walks further down the corridor to flip another light switch. (3) After another cut, she is seen standing in a bedroom doorway, now dressed in a grey sports bra, an open white button-down shirt, and oversized blue jeans. She laughs joyfully and performs a playful dance, moving into the room.",
-      "audio_narrative_log": "(1) Bouncy, lighthearted, and slightly comedic instrumental music plays. A distinct clicking sound of a light switch is heard. (2) The same quirky background music continues. Another light switch click sound occurs as the visual transition happens. (3) The music shifts seamlessly into a rhythmic pop track with female vocals singing 'All I think about is you'. The sound of a woman's genuine laughter is heard over the music.",
-      "text_narrative_log": "(1) None."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 2,
-      "averageSceneDuration": 5.0,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Sleepy Intro -> Casual Transition -> Energetic Outfit Reveal"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main female creator walking through the house",
-      "mainCharacterDescription": "A young Asian woman with long dark hair, initially in casual pajamas and later in a trendy outfit consisting of a sports bra and baggy jeans."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Hallway",
-          "Bedroom"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A modern, minimalist home interior with light wood flooring, white walls, and warm indoor lighting. A bed with yellow bedding is visible in the final scene.",
-      "lightingStyle": "Warm indoor lighting",
-      "weather": "Indoor",
-      "season": "Unknown",
+      "sceneCutCount": 4,
+      "averageSceneDuration": 3.0,
       "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "None",
-        "language": [
-          "None"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Panning"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Calvin Klein"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Fragmented",
-      "audioTransition": "Hard cut with beat-sync",
-      "vocalRatio": "Low"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Cheerful and laughing",
-        "pitch": "Medium",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Occasional laughter",
-        "language": [
-          "None"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop",
-      "bgmBPM": 110,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum kit"
-      ],
-      "musicSourceType": [
-        "Copyrighted Song"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Switch click"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Transition -> Reveal",
-      "mainPurpose": "To showcase a 'glow-up' or outfit transformation, contrasting a tired, casual morning look with a high-energy, stylish fashion choice. The video uses rhythmic editing and lighting cues to emphasize the change in mood and appearance.",
-      "visualEmotion": "Energetic"
+      "narrativeStructure": "Linear: Hook -> Transformation -> Climax",
+      "mainPurpose": "The video uses a popular social media transformation format to showcase an outfit change. It transitions from a 'low-energy/sleepy' state in casual wear to a 'high-energy/confident' state in trendy fashion, synchronized with rhythmic sound effects and music to engage viewers.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -158,14 +264,11 @@
         "Implicit",
         "Integrated"
       ],
-      "endorsementCues": "Visible brand name on the sports bra and trendy fashion display.",
+      "endorsementCues": "The subject wears a prominent brand-name sports bra (Calvin Klein) during the high-energy 'reveal' portion of the video.",
       "endorsementObject": [
         "Calvin Klein"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Light switch transition method",
-      "freeDescribe": "Typical short-form video fashion content focusing on visual transformation and upbeat music."
-    }
+    "freeDescribe": "The video follows a classic transformation trend where a light switch act as the catalyst for change."
   }
 }

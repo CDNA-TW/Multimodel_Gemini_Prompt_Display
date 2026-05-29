@@ -1,165 +1,275 @@
 {
   "videoName": "cocowine0205-20250723095431-707134112391831.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 53,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Food Review",
-        "Shopping"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "Taiwan"
+      "visual_narrative_log": "(1) The scene opens in a brightly lit Costco warehouse. A woman with long dark hair, wearing a black top and a silver necklace, holds a white cardboard bakery box filled with pastries. She smiles and gestures toward the box while shoppers move in the distant background. (2) The camera zooms in for a close-up of the pastries inside the box, which are large, golden-brown cheese butterfly crisps with visible baked cheese textures. The woman's hands hold the box steady against the backdrop of industrial warehouse shelving. (3) The scene transitions to an indoor home setting with soft, warm lighting. Two women sit behind a marble table; the woman on the left holds an individual pastry while the woman on the right, wearing a blue beret and white dress, looks on. (4) The woman on the left breaks a piece of the pastry, showing its flaky internal layers to the camera. They both display expressive facial reactions, nodding and talking enthusiastically about the food item. (5) In a final sequence, the two women continue their dialogue, gesturing toward the open box on the table. The background includes a shelf with plush toys and household items, maintaining a casual vlog atmosphere.",
+      "text_narrative_log": "(1) [Logo]: COSTCO WHOLESALE. [Variety]: 搶到最後一盒!. [Slogan]: 起司蝴蝶酥. [Subtitle]: 最後一盒哦. (2) [Subtitle]: 它這個起司看起來超美的哎. (3) [Subtitle]: 它裡面總共有6個. (4) [Subtitle]: 每一個都好大哦. (5) [Subtitle]: 然後這個蝴蝶酥6個是399元. (6) [Subtitle]: 看起來就很好吃. (7) [Subtitle]: 而且奶油剩那麼多. (8) [Subtitle]: 然後起司剩一個. (9) [Subtitle]: 對啊 超搶手哎. (10) [Subtitle]: 我們回來去試試看有沒有厲害. (11) [Slogan]: 起司蝴蝶酥. [Variety]: 一個66.5. [Subtitle]: 起司蝴蝶酥 一個66.5 一盒有六個. (12) [Subtitle]: 它的外皮呢拿去烤過加熱之後呢. (13) [Variety]: 非常地的酥脆. [Subtitle]: 會變得分常地的酥脆. (14) [Subtitle]: 然後裡面呢是非常那種蓬鬆. (15) [Subtitle]: 也像可頌那種蜂巢的口感. (16) [Subtitle]: 咬下去呢外皮酥酥脆脆. (17) [Subtitle]: 裡面呢柔軟QQ的. (18) [Variety]: 起司的陣陣香氣. [Subtitle]: 然後有起司的陣陣香氣. (19) [Subtitle]: 感覺它加了蠻多起司在它的麵團裡面. (20) [Subtitle]: 所以它烤起來的時候呢會非常的香. (21) [Subtitle]: 如果喜歡吃蝴蝶酥的人可以去試試看哦. (22) [Subtitle]: 加麵包一定很好吃. (23) [Subtitle]: 加麵包?. (24) [Subtitle]: 加麵包. (25) [Subtitle]: 加..加濃湯一定很好喝. (26) [Subtitle]: 像是酥皮濃湯一樣.",
+      "visual_human_presence": {
+        "totalHumanCount": 4,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only"
         ],
-        "city": [
-          "None"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A woman in a black zip-up top is in a Costco warehouse, excitedly picking up the last box of Cheese Butterfly Crisps from a pallet. (2) The camera focuses on a close-up of the pastries inside the box, showcasing their golden-brown, cheesy texture. (3) The scene transitions to an indoor studio setting where the woman and her friend (wearing a blue beret) are sitting at a table, holding the pastry and pointing at its features. (4) They break the pastry to show the interior, gesturing with their hands to emphasize its puffiness and crunchiness while making expressive facial expressions of delight.",
-      "audio_narrative_log": "(1) Upbeat, fast-paced electronic background music starts immediately. A high-pitched, excited female voice speaks in Mandarin, exclaiming about finding the last box. (2) The music continues as the primary speaker describes the price and quantity, accompanied by 'ping' and 'shimmer' sound effects (SFX) when key points are made. (3) In the studio section, two female voices are heard in a conversational tone. There is a distinct 'crunch' SFX when they discuss the texture. (4) The audio ends with a humorous interaction between the two women about serving the pastry with soup, maintaining a high-energy and friendly vocal tone.",
-      "text_narrative_log": "(1) Functional Text: '最後一盒哦' (The last box), '6個是399元' (6 pieces for 399 dollars), '一個66.5' (66.5 per piece). (2) Decorative/Hook Text: '搶到最後一盒！' (Grabbed the last box!), '起司蝴蝶酥' (Cheese Butterfly Crisps), '非常酥脆' (Very crispy), '起司的陣陣香氣' (Bursting aroma of cheese). (3) Content & Tone: The text is colorful, using pink and yellow highlights to emphasize the excitement of the find and the deliciousness of the product."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 24,
-      "averageSceneDuration": 2.2,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Hook (Store Discovery) -> Product Detail (Close-ups) -> Review (Studio Tasting) -> Conclusion"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 4,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 4,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Waist up"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "2 main female creators, at least 2 female shoppers visible in the background of the Costco warehouse.",
-      "mainCharacterDescription": "One woman has long dark hair and wears a black zip-up top; the second woman wears a white lace top and a blue Kangol-style beret."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Warehouse",
-          "Studio"
+        "crowdLevel": [
+          "Duo"
         ],
-        "topography": [
-          "None"
+        "countingEvidence": "2 main female creators, at least 2 blurry passers-by in the warehouse scene.",
+        "mainCharacterDescription": "The first main character has long black hair and wears a black cutout top. The second main character wears a dark beret and a white lace dress."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Supermarket / Warehouse Store",
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The first half is a Costco warehouse with tall metal shelves, industrial lighting, and price tags. The second half is a domestic indoor setting with a marble table and a shelf of plushies.",
+        "lightingStyle": [
+          "Bright studio lighting",
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
         ]
       },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "The first half is shot inside a Costco warehouse with high industrial shelving, pallets of goods, and other shoppers. The second half is in a domestic studio/living room setting with a table, snacks, and plush toys in the background.",
-      "lightingStyle": "Bright studio lighting and industrial warehouse lighting.",
-      "weather": "Indoor",
-      "season": "Unknown",
-      "editingPace": "Fast",
-      "textOverlay": {
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Zoom in",
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Insert shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "High angle"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
         "density": "High",
-        "language": [
-          "Traditional Chinese"
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Emoji / Symbols"
         ],
         "isSubtitled": true
       },
-      "colorTone": "Vibrant",
-      "cameraWork": [
-        "Static",
-        "Handheld",
-        "Close-up"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Pastry",
-        "Cheese Butterfly Crisps",
-        "Bread"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "COSTCO",
-        "KIRKLAND SIGNATURE"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade and Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 1,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 2,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and energetic",
-        "pitch": "High",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Plush / decoration / toy animal"
+        ],
+        "foodsDetect": [
+          "Bread / pastry",
+          "Snack / chips / candy"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "COSTCO WHOLESALE",
+          "KIRKLAND"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop/Electronic",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Ding",
-        "Sparkle SFX",
-        "Crunching"
-      ],
-      "ambientNoise": [
-        "Warehouse echo"
-      ],
-      "audioQuality": "Studio"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 0,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly",
+          "Comedic/Exaggerated"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 124,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Crowd Murmur"
+        ],
+        "crowdNoiseIntensity": 1,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone",
+          "Commercial/Recreational"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Plastic / Bag Rustle"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Pop / Bubble SFX",
+          "Ding / Bell SFX",
+          "Whoosh / Transition SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) A female voice speaks with high arousal and a bright pitch, exclaiming about a 'last box' while upbeat, high-tempo electronic pop music plays in the background with a steady 4/4 beat. (2) A sharp 'ding' sound effect coincides with a visual text overlay as the speaker shifts to a descriptive, moderate-speed narrative tone. The BGM remains consistent in volume and energy. (3) A soft 'pop' sound effect occurs as the scene transitions to two female voices interacting; their tones are friendly and conversational with rising intonations indicating excitement. (4) A percussive 'whoosh' sound accompanies a camera zoom, followed by clear vocal articulation of food textures. The music continues its repetitive synth loop without significant harmonic tension. (5) The female speakers exhibit a comedic tone shift with slight hesitation 'ja...ja', followed by laughter and light-hearted banter, while the BGM maintains its energetic profile until the video ends."
     }
   },
-  "high_inference_interpretations": {
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Food Review",
+        "Vlog",
+        "Shopping"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 3.7,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Price/Specs -> Sensory Review -> Recommendation",
-      "mainPurpose": "To provide an enthusiastic review and recommendation of the 'Cheese Butterfly Crisps' from Costco, highlighting their scarcity ('last box'), value for money, and desirable texture/flavor to encourage viewers to purchase them.",
-      "visualEmotion": "Energetic and positive"
+      "narrativeStructure": "Linear: Hook -> Product Introduction -> Detailed Review -> Humorous Conclusion",
+      "mainPurpose": "The video serves as a promotional food review for Costco's cheese butterfly crisps, aiming to entice viewers with the product's scarcity ('last box'), value for money, and sensory appeal (crispy texture and cheese aroma).",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "humorous"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -167,15 +277,12 @@
         "Implicit",
         "Integrated"
       ],
-      "endorsementCues": "Detailed price breakdown, brand logos prominently displayed, and highly positive review of the product's quality.",
+      "endorsementCues": "Detailed pricing, brand exposure (Costco), and enthusiastic recommendation of a specific product.",
       "endorsementObject": [
         "COSTCO",
-        "KIRKLAND SIGNATURE"
+        "KIRKLAND"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-energy variety show style editing with colorful floating text and reaction sound effects.",
-      "freeDescribe": "The video uses FOMO (fear of missing out) by emphasizing it was the 'last box' to grab viewer attention immediately."
-    }
+    "freeDescribe": "High-energy short-form social media edit with significant text density and synchronized sound effects to maintain viewer engagement."
   }
 }

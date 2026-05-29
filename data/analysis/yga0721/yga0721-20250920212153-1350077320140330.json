@@ -1,188 +1,287 @@
 {
   "videoName": "yga0721-20250920212153-1350077320140330.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 90,
-      "aspectRatio": "9:16",
+      "videoDuration": 89,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A man with a black baseball cap and a grey t-shirt stands in an indoor lounge setting with brown leather chairs. He holds a black folder with a gold logo and gestures towards it while looking directly at the camera. (2) Close-up shots of a folder show white cards featuring red stamps and black Japanese calligraphy, specifically mentioning Tokyo and Fukuoka airports. (3) The man is back on screen in the lounge, holding the book and pointing to the camera energetically. (4) A hand holds a card in front of an airport exterior with a clear blue sky and a white building. (5) Shots of a JAL PLAZA store interior, filled with boxed goods and retail shelves. (6) A screen displays a detailed text-heavy table with columns and phone numbers in Japanese. (7) The man appears in a different, larger airport terminal with green and white signage and empty check-in counters in the background. (8) He holds up two different cards with red stamps. (9) A tall anime-style statue of a woman in black clothes stands in the background of the terminal. (10) The man gives a thumbs up to the camera while holding the black folder.",
+      "text_narrative_log": "(1) [Subtitle]: 來 今天嘎哥跟你分享. [Logo]: @HanHan. (2) [Subtitle]: 日本旅遊除了御朱印. (3) [Subtitle]: 還可以蒐集什麼? (4) [Variety]: 御翔印. (5) [Subtitle]: 就是在曰本各大家場 才有在賣的. (6) [Subtitle]: 通常都是國內線 才有在賣. (7) [Subtitle]: 在日本JAL航空的販賣部販售. (8) [Subtitle]: 大概有50個機場可以買到御翔印. (9) [Subtitle]: 有的機場你必須入海關 才買得到. (10) [Subtitle]: 有的在海關外 還比較好買. (11) [Variety]: 歡迎截圖攻略. (12) [Subtitle]: 東京大阪那種機場 難度不高啦. (13) [Subtitle]: 嘎哥示範兩個難度高的給你看. (14) [Variety]: 山口宇部空港. (15) [Subtitle]: 像這邊沒事誰會來 我就問. (16) [Subtitle]: 他很特別 在便利商店賣. (17) [Variety]: 山口宇部空港 GET. (18) [Subtitle]: 一般台灣人不會來這邊飛國內線吧. (19) [Subtitle]: 國際線櫃台 甚至呈空的. (20) [Subtitle]: 超難收的. (21) [Subtitle]: 再來是 北九州空港. (22) [Subtitle]: 海關外的商品部就買得到. (23) [Subtitle]: 至少不用買國內線機票進關. (24) [Variety]: 御翔印 最難收的日本紀念品 歡迎入坑.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main male creator, 1 distant person in terminal background.",
+        "mainCharacterDescription": "A young male with a black baseball cap, a grey t-shirt, a black crossbody bag, and black denim shorts."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Airport",
+          "Retail Store",
+          "Stage / Performance Venue"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The video shifts between an indoor lounge with brown chairs, various airport terminal halls with check-in counters, and a JAL PLAZA retail shop with gift boxes.",
+        "lightingStyle": [
+          "Bright indoor lighting",
+          "Natural daylight"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Summer"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Static",
+          "Panning"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Insert shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Fast cuts"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "Japanese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Instant / packaged food"
+        ],
+        "trafficDetect": [
+          "Car"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "JAL",
+          "MAZDA",
+          "NISSAN"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly"
+        ],
+        "vocalLanguage": [
+          "Mandarin"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Acoustic/Folk"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "String",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Guitar",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Paper / Page Rustle"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A confident male narrator speaks in a fast-paced Mandarin dialect. The BGM features an upbeat acoustic guitar and light percussion. (2) A sharp 'whoosh' sound effect triggers a transition as the narrator's volume increases to emphasize a key point. (3) The BGM continues with a consistent rhythm. A soft 'ding' sound effect is heard when a graphic appears on screen. (4) The audio texture shifts slightly as the narrator describes a different airport, though the studio-clean vocal remains clear. (5) The music maintaines a positive major mode tonality throughout. (6) The vocal energy remains high until a final enthusiastic closing phrase with a crisp percussive beat."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
         "Vlog",
         "Travel",
-        "Review"
+        "Tutorial / How-to"
       ],
-      "withRealPeople": true,
       "location": {
         "country": [
           "Japan"
         ],
         "city": [
+          "Tokyo",
+          "Fukuoka",
           "Ube",
           "Kitakyushu"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A male host in a grey t-shirt, black cap, and denim shorts stands in an indoor waiting area, holding a black book with a gold logo. (2) The scene cuts to close-up shots of a stamp book being flipped through, showing various decorative stamps and calligraphy with airport names like Tokyo and Fukuoka. (3) The host gestures toward a 'JAL PLAZA' shop and an information desk inside an airport terminal. (4) The host stands outside under a blue sky with flags flying at Yamaguchi Ube Airport, then shows himself inside at a check-in counter and a convenience store. (5) The video ends with a montage of the host holding up specific stamps at Kitakyushu Airport and giving a thumbs up.",
-      "audio_narrative_log": "(1) Upbeat, energetic electronic pop music begins with a consistent drum beat. A male voice speaks enthusiastically in Mandarin. (2) Background noise of a public space (echoing voices, footsteps) is heard as the music continues at a steady volume. (3) High-pitched notification sound effects ('ping') and digital 'swoosh' sounds occur during visual transitions. (4) The music remains constant as the male host continues his narration with consistent energy and speed.",
-      "text_narrative_log": "(1) '來 今天嘎哥跟你分享' (Come, today Gaga shares with you) - Hook. (2) '日本旅遊除了御朱印 還可以蒐集什麼?' (Besides Goshuin, what else can you collect while traveling in Japan?) - Informational hook. (3) '御翔印' (Gyoshon-in) - Main subject title. (4) '日本各大機場 才有在賣的' (Only sold at major airports in Japan) - Detail. (5) '山口宇部空港 GET' (Yamaguchi Ube Airport GET) - Achievement text. (6) '御翔印 最難收的日本紀念品 歡迎入坑' (Gyoshon-in, the hardest-to-collect Japanese souvenir, welcome to the hobby) - Closing hook."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 42,
-      "averageSceneDuration": 2.1,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro -> Concept Explanation -> Practical Demonstration (Yamaguchi Airport) -> Practical Demonstration (Kitakyushu Airport) -> Conclusion/CTA"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 5,
-      "maleDetectAmount": 3,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Upper body",
-        "Hands only"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 main host creator, approximately 4 passers-by visible in various airport shots.",
-      "mainCharacterDescription": "A male with short brown hair wearing a black baseball cap, an oversized grey t-shirt, dark denim shorts, black socks, brown sneakers, and a black 'MATCHWOOD' crossbody bag."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Airport Terminal",
-          "Outdoor Entrance",
-          "Convenience Store"
-        ],
-        "topography": [
-          "Plain"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "Interiors of modern Japanese airports including check-in counters (JAL), waiting lounges with brown seats, retail shops (Yamazaki, JAL Plaza), and exterior shots of airport buildings with Japanese and regional flags.",
-      "lightingStyle": "Mixed: Bright fluorescent indoor lighting and clear, direct natural sunlight outdoors.",
-      "weather": "Sunny",
-      "season": "Summer",
+      "sceneCutCount": 28,
+      "averageSceneDuration": 3.1,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese",
-          "Japanese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "POV",
-        "Handheld",
-        "Follow shot"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "Airplane"
-      ],
-      "techDetect": [
-        "Smartphone",
-        "Television",
-        "Digital Displays"
-      ],
-      "landmark": [
-        "Yamaguchi Ube Airport",
-        "Kitakyushu Airport"
-      ],
-      "brandLogos": [
-        "JAL",
-        "Yamazaki",
-        "Nissan",
-        "Matchwood"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 1,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Friendly and Humorous",
-        "pitch": "Normal",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Notification Pings",
-        "Whoosh"
-      ],
-      "ambientNoise": [
-        "Studio quiet",
-        "Airport ambience"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Introduction of Item -> Sourcing Locations -> Personal Demonstration -> Summary/Closing",
-      "mainPurpose": "The video aims to educate viewers on a specific Japanese collectible called 'Gyoshon-in' (airport stamps), providing logistical details on how to find them at different Japanese airports (JAL shops) and highlighting the challenge and satisfaction of collecting them as a unique travel souvenir.",
-      "visualEmotion": "Energetic"
+      "narrativeStructure": "List-based: Hook -> Introduction of Goshō-in -> Examples of difficult locations -> Summary/CTA",
+      "mainPurpose": "To introduce and explain the 'Goshō-in' airport stamp collection system in Japan, highlighting its difficulty compared to traditional temple stamps and providing specific tips on where to find them.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "positive"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
-        "Implicit",
+        "Explicit",
         "Integrated"
       ],
-      "endorsementCues": "Frequent display of the JAL (Japan Airlines) logo and the specific product line of stamps which are a JAL commercial initiative.",
+      "endorsementCues": "The creator specifically mentions JAL (Japan Airlines) and their retail locations (JAL PLAZA) as the source for the endorsed product (Goshō-in).",
       "endorsementObject": [
-        "JAL"
+        "JAL (Japan Airlines)",
+        "御翔印"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Host refers to himself as 'Gaga' (嘎哥), high-energy presentation style, fast-paced 'beat-matching' edits.",
-      "freeDescribe": "The video effectively targets travel enthusiasts and 'stamp' collectors by transforming a travel logistics video into a 'quest' or 'collection challenge' narrative."
-    }
+    "freeDescribe": "High-quality travel guide video with fast editing and clear call-to-actions, likely targeting Taiwanese tourists visiting Japan."
   }
 }

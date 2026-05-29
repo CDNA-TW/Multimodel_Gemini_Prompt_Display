@@ -1,15 +1,239 @@
 {
   "videoName": "yga0721-20250704212839-33552474627729881.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 67.0,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Announcement",
-        "Vlog",
-        "Promotion"
-      ],
+      "videoDuration": 67.43,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) The video begins with a medium shot of a man with brown hair (Cai Aga) wearing a light green t-shirt, holding a white document and making a peace sign against a teal curtain backdrop. (2) He transitions into expressive hand gestures, pointing at the document and toward the camera with energetic facial expressions including wide smiles and squinted eyes. (3) A second figure enters the frame on the left, wearing a red hoodie and a large, stylized cartoon mask with exaggerated eyes and a blue hairline, clapping their hands. (4) The camera remains static while numerous variety-show style text overlays in yellow and white appear around the characters to emphasize specific points. (5) In the final phase, Cai Aga points downward toward the bottom of the frame while holding the paper, concluding the announcement with a direct look at the camera.",
+      "text_narrative_log": "(1) [Subtitle]: 好里家社福協會. (2) [Subtitle]: 2025年的獎助學金 又要開跑啦. (3) [Subtitle]: 三個獎助學金. (4) [Variety]: 有才獎助學金. (5) [Subtitle]: 10~18歲. [Variety]: 有才華想精進的青少年. (6) [Slogan]: 20,000元. (7) [Variety]: 有才獎助學金2.0 將才235計畫. (8) [Subtitle]: 延續性的服務. (9) [Variety]: 大專福利社. (10) [Subtitle]: 最缺經費了. (11) [Variety]: 上學期-5支 下學期-5支. (12) [Slogan]: 50,000元. (13) [Logo]: hahababy客製化 營服x30. (14) [Subtitle]: 即日起~3.30. (15) [Slogan]: 報名/申請/網址.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 main creator (Cai Aga) and 1 masked assistant/character.",
+        "mainCharacterDescription": "A male with dyed brown hair wearing a simple light green/grey short-sleeved t-shirt."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A simple indoor studio setting featuring vertical teal/blue pleated curtains as the primary background.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Meme-style edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "hahababy"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 2,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Comedic/Exaggerated"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": true,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Paper / Page Rustle"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Ding / Bell SFX",
+          "Pop / Bubble SFX",
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The track opens with high-tempo, upbeat electronic background music featuring a driving synth bassline. Cai Aga delivers a loud, high-energy vocal greeting with a rising pitch contour. (2) A sharp 'Whoosh' sound effect punctuates the transition as he introduces the association, followed by a 'Pop' SFX appearing alongside variety captions. (3) As the 20,000 yuan scholarship is mentioned, a bright 'Ding' SFX (resembling a cash register or bell) emphasizes the numerical value. The masked character provides brief, high-arousal vocal interjections. (4) The music continues at a steady 128 BPM throughout descriptions of subsequent scholarship programs, layered with frequent 'Ding-ding' and comic impact sounds corresponding to new text appearing on screen. (5) The video concludes with a fast-paced summary, ending on a sustained high-pitched vocal call to action and a final percussive 'Stinger' SFX."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Personal Talk",
+        "News / Commentary",
+        "Promotion / Advertisement / Indoresment"
+      ],
       "location": {
         "country": [
           "Taiwan"
@@ -19,143 +243,20 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A man with brown hair wearing a light green t-shirt stands in front of a teal curtain, holding a white paper and gesturing a peace sign. To his left, a person in a red hoodie and a large 'God of Wealth' mask is partially visible. (2) The man talks excitedly, pointing at the paper and gesturing with his hands to emphasize points. The masked character claps and makes various hand gestures like 'five' or waving. (3) Numerous fast-paced cuts show the man from different angles as he presents specific details of the scholarship programs. (4) In the final segment, the man points downward repeatedly, inviting viewers to check the link, with a final energetic gesture toward the camera.",
-      "audio_narrative_log": "(1) A high-pitched, energetic male voice begins speaking in Mandarin with a fast tempo. An upbeat, rhythmic electronic background music (BGM) starts immediately. (2) The vocal remains the primary focus, maintaining a fast, enthusiastic pace throughout. Short, exaggerated sound effects (SFX) such as 'ding' sounds accompany text appearances. (3) The background music continues with a steady, driving beat. (4) The audio concludes with a final loud call to action from the male speaker, with the BGM fading out quickly.",
-      "text_narrative_log": "(1) '好里家社福協會 2025年的獎助學金 又要開跑啦' (Functional/Hook): Announcement of the 2025 scholarship starting. (2) '有才獎助學金', '10~18歲', '25名', '20,000元' (Functional): Details for the 'Talented Scholarship' including age, quota, and amount. (3) '將才235計畫', '大專福利社', '50,000元' (Functional): Specific names of other funding projects and their financial amounts. (4) 'hahababy客製化 營服x30' (Functional/Promotion): Mentioning custom branded clothing as a reward. (5) '即日起~3.30' (Functional): The application deadline. (6) '報名/申請/網址 點起來' (Decorative/Hook): Energetic call to action to click the registration link."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 28,
-      "averageSceneDuration": 2.39,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro announcement -> Categorized details of three programs -> Closing call to action."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 2,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Upper body",
-        "Hands only"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "1 male main creator speaking, 1 person (likely male) wearing a mask and red hoodie standing next to him.",
-      "mainCharacterDescription": "A man with styled brown hair, wearing a casual light green t-shirt, appearing very energetic and expressive."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Studio",
-          "Indoor Room"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A simple indoor setting featuring a solid teal/blue pleated curtain backdrop, commonly used in studio or home filming setups.",
-      "lightingStyle": "Bright studio lighting",
-      "weather": "Indoor",
-      "season": "None",
+      "sceneCutCount": 18,
+      "averageSceneDuration": 3.75,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural and Vibrant",
-      "cameraWork": [
-        "Static",
-        "Medium Shot",
-        "Close-up"
-      ]
+      "isNarrativeShift": false
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "hahababy"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited, high-energy, persuasive",
-        "pitch": "High",
-        "loudness": "High",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Electronic Drums"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Ding",
-        "Applause SFX"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
       "narrativeStructure": "List-based: Hook -> Detailed Categories -> Call to Action",
-      "mainPurpose": "The video serves as an official announcement and promotional drive for the 2025 scholarship and funding programs organized by the 'Hao Li Jia Social Welfare Association'. It utilizes a high-energy, fast-paced vlog style to appeal to youth and students, clearly outlining the eligibility criteria (ages 10-18), the number of slots available, and the financial incentives offered to encourage immediate application through the provided link.",
-      "visualEmotion": "Energetic and Positive"
+      "mainPurpose": "The video serves as a promotional announcement to inform the audience about three specific scholarship and funding opportunities for 2025 offered by the 'Good Neighbor Social Welfare Association'. It utilizes a high-energy, comedic presentation style typical of social media influencers to encourage applications from youth and college student organizations.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "informative"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -163,15 +264,12 @@
         "Explicit",
         "Full"
       ],
-      "endorsementCues": "Direct speech promoting the association's programs and visible branding of 'hahababy' on apparel.",
+      "endorsementCues": "Direct verbal call to action and on-screen presentation of scholarship details and brand merchandise.",
       "endorsementObject": [
         "好里家社福協會",
         "hahababy"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "The high-energy, rapid-fire speaking style and the presence of the masked character are signature elements of the creator Cai Aga (蔡阿嘎).",
-      "freeDescribe": "The video effectively combines community service/charity messaging with personal brand aesthetics to maximize engagement among a younger demographic."
-    }
+    "freeDescribe": "The video uses typical 'Aga style' fast-paced editing and loud vocal delivery to maintain viewer retention in a short-form format."
   }
 }

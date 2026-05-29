@@ -1,161 +1,273 @@
 {
   "videoName": "cocowine0205-20250324222504-848329347787078.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 36.0,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Shopping",
-        "Humorous"
-      ],
+      "videoDuration": 37.13,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) The video begins in a Costco warehouse setting with a prominent Costco logo overlay. A young woman with long dark hair, wearing a white blouse and black vest, stands next to a wooden Cornhole board branded with 'EastPoint'. She holds a small pink bean bag and prepares to toss it. The lighting is bright and industrial, characteristic of a large retail store. (2) The woman tosses the bean bag onto the wooden board; the camera pans to follow the movement as the bag slides toward the hole. In the background, aisles of merchandise and other shoppers are visible, including a person pushing a cart. (3) The woman looks directly at the camera with a surprised and excited expression, her mouth open and eyes wide. She gestures toward the game board as text overlays and colorful variety graphics appear around her. (4) The camera switches to a medium shot showing the woman talking and gesturing with her hands while standing near the product display. She touches her face and smiles frequently. (5) A close-up shot focuses on the price tag ($2,799) and the woman's interaction with the game, followed by a wide shot of her standing in the aisle talking to the person filming. (6) The video concludes with the woman pointing and smiling at the camera as a large 'of course' graphic appears, while background shoppers continue to move through the brightly lit warehouse space.",
+      "text_narrative_log": "(1) [Logo]: COSTCO WHOLESALE. [Variety]: 投擲遊戲. [Subtitle]: 是用滑的還是. (2) [Slogan]: 2,790. [Subtitle]: 應該是滑過去吧. (3) [Subtitle]: 滑過去對. (4) [Variety]: 哇 你好強哦. [Variety]: 投擲遊戲神人. (5) [Subtitle]: 你是投擲遊戲神人耶. [Subtitle]: 有時候迪士尼他們都會有這種投擲遊戲. (6) [Variety]: 哇 哇. [Subtitle]: 哇 你是神人哎. [Subtitle]: 天吶 還是不能站那麼近. (7) [Subtitle]: 其實我已經貼在板子上了. (8) [Slogan]: 2,799元. [Subtitle]: 或者你在這邊無限試玩. (9) [Subtitle]: 我跟你說成人要怎麼玩. [Subtitle]: 成人就是上面可以放一些酒瓶. (10) [Subtitle]: 就可以更有趣. (11) [Subtitle]: 2,800我可以喝三瓶酒哎. [Subtitle]: 所以你寧願選酒也不要買這投資遊戲啊. (12) [Variety]: of course.",
+      "visual_human_presence": {
+        "totalHumanCount": 4,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 1,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main female creator, 1 female shopper in background, 1 male shopper pushing cart, 1 child in a cart.",
+        "mainCharacterDescription": "A young woman with long, straight dark hair, wearing a white long-sleeved shirt under a black sleeveless vest."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Supermarket / Warehouse Store"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A large-scale warehouse store (Costco) with high ceilings, industrial lighting, and large shelves filled with boxed merchandise, including plush toys and outdoor games.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Panning",
+          "Walking handheld"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Graphic transition"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Plush / decoration / toy animal"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "Shopping cart"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Costco Wholesale",
+          "EastPoint"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 0,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly",
+          "Casual"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Meme/Comedy",
+          "Pop"
+        ],
+        "tempoBPM": 115,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Chatter",
+          "Crowd Murmur"
+        ],
+        "crowdNoiseIntensity": 1,
+        "ambientNoiseDetails": [
+          "Commercial/Recreational",
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "Plastic / Bag Rustle",
+          "Wood Products Bump / Movemen"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Pop / Bubble SFX",
+          "Ding / Bell SFX",
+          "Cartoon / Comedy SFX",
+          "Whoosh / Transition SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) Upbeat and bouncy synthesized BGM begins immediately. A female voice speaks in a bright, energetic tone, asking about the game rules. (2) A sharp 'thud' and sliding sound occur as a bean bag hits the wood. The background music remains constant. (3) A cartoonish 'pop' SFX sounds as the bean bag reaches its destination. The main speaker laughs, and her voice pitch rises with excitement. (4) Frequent 'ding' and UI-style SFX punctuate the dialogue, aligning with variety text appearances. (5) The conversation continues between the woman on screen and a female voice behind the camera, both maintaining a high-energy, humorous tone. (6) Ambient hum of a retail warehouse is faintly audible beneath the music and voices. (7) A final celebratory 'ding' SFX marks the end of the segment."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Shopping",
+        "Lifestyle",
+        "Vlog"
+      ],
       "location": {
         "country": [
           "Unknown"
         ],
         "city": [
-          "None"
+          "Unknown"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video starts with a young woman wearing a black vest over a white blouse standing in a warehouse-style supermarket next to a wooden 'EastPoint' bean bag toss board. She is sliding a maroon bean bag across the surface. (2) She looks toward the camera with a surprised and happy expression as the camera pans to show the board and then zooms back into her face. (3) She continues to interact with the game, occasionally gesturing with her hands while talking. (4) In the final scene, she smiles broadly and looks off-camera as a hand enters the frame pointing at her during a humorous conclusion.",
-      "audio_narrative_log": "(1) Upbeat and bouncy electronic background music plays continuously. A young woman's voice is heard speaking in a lively and inquisitive tone. (2) A male voice (off-screen) responds with excitement, praising her skills. (3) Ambient warehouse noise including distant chatter and the sound of shopping carts is present. (4) Cartoonish sound effects (SFX) such as 'ding' or 'pop' sounds occur when text overlays appear on screen.",
-      "text_narrative_log": "(1) Functional Text: Subtitles in Chinese appear at the bottom, transcribing the conversation about the game's mechanics and price. (2) Decorative Text: 'COSTCO WHOLESALE' logo is fixed at the top. '投擲遊戲' (Throwing Game) appears in a pink stylized bubble with a playful tone. (3) Hook Text: Large yellow and red '2,790' and '2,799元' digits appear to highlight the price. (4) Decorative Text: 'of course' in a colorful, bubbly font appears at the end for emotional emphasis."
     },
     "temporal_pacing_summary": {
       "sceneCutCount": 12,
-      "averageSceneDuration": 3.0,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro -> Game Demonstration -> Price Discussion -> Humorous Conclusion"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 4,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 1,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 main female creator, 1 male passerby in background, 1 female passerby in background, 1 kid in a shopping cart.",
-      "mainCharacterDescription": "A young woman with long black hair, wearing a white long-sleeved shirt under a black sleeveless vest."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Warehouse Store"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "The interior of a large warehouse store with high ceilings, industrial lighting, and shelves stocked with various products like toys and plushies.",
-      "lightingStyle": "Bright industrial warehouse lighting",
-      "weather": "Indoor",
-      "season": "Unknown",
+      "averageSceneDuration": 3.1,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Chinese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Follow shot",
-        "Static",
-        "Handheld"
-      ]
+      "isNarrativeShift": false
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "COSTCO WHOLESALE",
-        "EastPoint"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 2,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Lively and humorous",
-        "pitch": "Medium-high",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Cartoon SFX"
-      ],
-      "ambientNoise": [
-        "Studio quiet",
-        "Warehouse background"
-      ],
-      "audioQuality": "Field Recording"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Demo -> Discussion -> Outro",
-      "mainPurpose": "The video serves as a lighthearted lifestyle vlog or shopping review. It captures the creator's interaction with a specific game product at Costco, highlighting its price and gameplay, and ends with a relatable joke about preferring to spend money on alcohol rather than the game.",
-      "visualEmotion": "Energetic and Humorous"
+      "narrativeStructure": "List-based: Introduction -> Demonstration -> Interaction -> Conclusion",
+      "mainPurpose": "To showcase a fun product found at Costco in a lighthearted, vlog-style manner, sharing a humorous take on how the product could be repurposed for adult entertainment (drinking games).",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -163,15 +275,12 @@
         "Implicit",
         "Integrated"
       ],
-      "endorsementCues": "Detailed display of the product, its price, and the brand environment of Costco.",
+      "endorsementCues": "Prominent display of Costco logo and the EastPoint brand product, along with price information.",
       "endorsementObject": [
-        "COSTCO WHOLESALE",
+        "Costco Wholesale",
         "EastPoint"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-frequency use of variety-show style text bubbles and reactive editing.",
-      "freeDescribe": "The video uses a typical short-form social media style with high engagement markers like price tags and enthusiastic verbal reactions."
-    }
+    "freeDescribe": "A typical social-media style shopping vlog characterized by high-density text overlays, energetic BGM, and variety-show editing techniques."
   }
 }

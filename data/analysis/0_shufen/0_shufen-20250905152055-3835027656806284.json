@@ -1,14 +1,235 @@
 {
   "videoName": "0_shufen-20250905152055-3835027656806284.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 8,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Humor"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A woman with long brown hair, wearing a low-cut black cardigan and sunglasses on her head, sits at an indoor restaurant table. She looks down at a yellow menu on a clipboard, holding a red and white pen, appearing focused. (2) She looks up briefly toward the camera with a neutral expression, then looks back down at the menu. The lighting is bright and natural from a large window behind her showing a street view. (3) The scene cuts to a split-screen; the top half shows the woman taking a large bite of a burger wrapped in white paper, while the bottom half shows a close-up cross-section of a burger with a fried egg and meat patty. (4) The woman is now seen drinking from a white paper cup with a straw. In front of her on the table is a plate containing a sliced scallion pancake with egg and a single hash brown. (5) She looks directly into the lens, holding the burger near her face, and breaks into a wide, joyful smile with her teeth showing. She appears happy and energetic.",
+      "text_narrative_log": "(1) [Variety]: 幹. [Subtitle]: 台灣的早餐. (2) [Subtitle]: 真的不能亂吃欸. (3) [Subtitle]: 因為吃了臉上會長東西啊. (4) [Subtitle]: 你們知道我臉上長了什麼嗎?. (5) [Subtitle]: 我臉上長了笑容啊. [Variety]: 哈哈哈哈哈哈.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Face close-up",
+          "Upper body",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main female creator visible throughout the video.",
+        "mainCharacterDescription": "A young woman with long dark hair, wearing a revealing black top, a black cardigan, and sunglasses resting on her head."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Restaurant / Dining"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "An indoor breakfast shop or cafe with large windows looking out onto an urban street with some greenery and parked vehicles.",
+        "lightingStyle": [
+          "Natural daylight"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Summer"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Split-screen"
+        ],
+        "visual_rhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Fast food / burger / fries / pizza",
+          "Egg",
+          "Taiwanese Food"
+        ],
+        "trafficDetect": [
+          "Car"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Comedic/Exaggerated"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 6,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Acoustic/Folk",
+          "Pop"
+        ],
+        "tempoBPM": 110,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 2,
+        "instrumentFamiliesAudible": [
+          "String"
+        ],
+        "instrumentsAudible": [
+          "Guitar"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Applause / Laugh Track SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 1
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 1,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A female voice begins with a sharp, emphasized expletive followed by a sentence about Taiwanese breakfast in a casual, slightly dramatic tone. A light, upbeat acoustic guitar melody plays steadily in the background. (2) The speaker continues her narrative with clear articulation, suggesting a warning about the consequences of eating. The background music remains consistent in volume and tempo. (3) The speaker poses a rhetorical question with a rising intonation, creating a sense of suspense or mystery. (4) The speaker delivers the punchline in a joyful, high-energy tone, immediately followed by a loud, high-pitched multi-person laugh track SFX that dominates the audio mix for the final second."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Meme / Trend",
+        "Food Review"
+      ],
       "location": {
         "country": [
           "Taiwan"
@@ -18,140 +239,20 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman with long dark hair and sunglasses on her head is looking down and writing on a yellow menu with a red clipboard. (2) The scene cuts to her biting into a large sandwich or burger, then a close-up shot of the layered sandwich is shown. (3) She is seen drinking from a paper cup and then looks directly into the camera, smiling and laughing while gesturing towards a plate of egg pancake and the sandwich on the table.",
-      "audio_narrative_log": "(1) A female voice speaks in Mandarin with a conversational tone over upbeat, mid-tempo electronic pop background music. (2) The voice continues speaking as the sound of ambient indoor cafe noise is briefly heard. (3) The female voice says a punchline followed by loud, high-pitched, enthusiastic laughter that continues until the end of the clip.",
-      "text_narrative_log": "(1) Functional Text: '幹' (Gàn) - used as an emphatic exclamation. (2) Functional Text: '台灣的早餐真的不能亂吃欸' (Taiwan's breakfast really can't be eaten carelessly) - a warning tone. (3) Functional Text: '臉上會長東西啊' (Something will grow on your face) - a mysterious or cautionary tone. (4) Decorative/Hook Text: '我臉上長了什麼嗎？' (Did something grow on my face?) - engaging the audience. (5) Decorative/Hook Text: '笑容啊' (A smile) followed by '哈哈哈哈' (Hahaha) - a humorous and cheerful tone."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 5,
+      "sceneCutCount": 4,
       "averageSceneDuration": 1.6,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro with menu -> Action of eating -> Question to audience -> Humorous punchline"
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
     },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main female creator visible throughout the video.",
-      "mainCharacterDescription": "A young woman with long dark hair, wearing sunglasses on her head, red lipstick, and a black jacket over a light-colored top."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Cafe",
-          "Breakfast Shop"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "An indoor breakfast shop with glass windows, metal tables, and various food items like egg pancakes and sandwiches.",
-      "lightingStyle": "Natural indoor light",
-      "weather": "Unknown",
-      "season": "Unknown",
-      "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "POV"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Burger",
-        "Egg Pancake",
-        "Drink Cup"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Friendly and humorous",
-        "pitch": "High",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat",
-      "bgmBPM": 120,
-      "instrumentFamiliesAudible": [
-        "Electronic"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Misleading setup -> Humorous punchline",
-      "mainPurpose": "To entertain the audience with a short, lighthearted joke about how delicious or satisfying Taiwanese breakfast is, using a 'misleading setup' where she claims one shouldn't eat it, only to reveal it makes you smile.",
-      "visualEmotion": "Humorous"
+      "narrativeStructure": "Linear: Setup -> Suspense -> Punchline",
+      "mainPurpose": "To deliver a humorous subversion of expectations where a warning about 'things growing on one's face' after eating greasy food is revealed to be a compliment about how the food makes the speaker smile.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -163,9 +264,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-pitched laughter and expressive facial expressions.",
-      "freeDescribe": "The video uses localized slang and cultural references to Taiwanese breakfast to build rapport with a specific regional audience."
-    }
+    "freeDescribe": "The video utilizes a popular social media 'bait-and-switch' format, combining visual appeal with a lighthearted joke about local cuisine."
   }
 }

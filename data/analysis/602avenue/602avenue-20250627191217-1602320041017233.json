@@ -1,181 +1,284 @@
 {
   "videoName": "602avenue-20250627191217-1602320041017233.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 41,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Interview",
-        "Reaction"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) The video opens with a close-up of a gift bag as a hand retrieves items. A woman with long dark hair and a yellow t-shirt (Solar) watches with a confused yet curious expression. The setting is a brightly lit studio with wooden shelves containing 'CAPSULE' cushions and branding. (2) As the items—packaging resembling instant beef noodles—are revealed, a second woman in a blue top laughs excitedly. Solar holds the boxes, examining them closely with wide eyes and a slight smile. The lighting is bright studio light, highlighting facial expressions. (3) The scene cuts rapidly as Solar realizes the item is actually a facial mask. She touches her cheeks and forehead, laughing uncontrollably while tilting her head back. Graphical overlays of face masks and question marks appear around her. (4) Both women sit at a table in a medium shot, completely overcome with laughter. The interviewer points at the products while Solar covers her mouth with her hand, her eyes crinkling in joy. The background features bookshelves with plants and a YouTube logo plaque.",
+      "text_narrative_log": "(1) [Variety]: 頌樂女神. [Subtitle]: Solar!!. [Slogan]: 我們準備了小禮物要給你. [Slogan]: Taiwan Gifts for Korean star. (2) [Variety]: 猜猜看是什麼呢?. (3) [Subtitle]: 你知道！你怎麼知道！. [Subtitle]: How do you know. (4) [Subtitle]: 我知道！我.... [Subtitle]: I know that... (5) [Subtitle]: 他們都在問你怎麼知道. [Subtitle]: They are interesting that how do you know. (6) [Subtitle]: 知道答案笑到不行. (7) [Subtitle]: 我的粉絲們給我. [Subtitle]: My fans gave me. (8) [Subtitle]: 這個！. [Subtitle]: This!. (9) [Subtitle]: 那個時候.... [Subtitle]: That times. (10) [Subtitle]: 這....這是什麼？. [Subtitle]: What is that?. (11) [Subtitle]: 我覺得....啊～. [Subtitle]: I thought... (12) [Subtitle]: 吃的！. [Subtitle]: food!. (13) [Subtitle]: 但是不是！. [Subtitle]: but is not. (14) [Variety]: 是面膜！. [Subtitle]: It's mask. (15) [Subtitle]: 是是是！. [Subtitle]: yeah. (16) [Subtitle]: 我很嚇一跳！. [Subtitle]: I'm Shocked. (17) [Variety]: 還在震驚....... (18) [Subtitle]: 為什麼會.....???. [Subtitle]: Why is that. (19) [Subtitle]: 臉上??. [Subtitle]: on the face??. (20) [Subtitle]: 真的是面膜嗎.... (21) [Subtitle]: 你收到的是牛肉麵（面膜）. [Subtitle]: you recieved the beef noodle mask!. (22) [Subtitle]: 啊！是是是！！！. [Subtitle]: ah yah!!!!. (23) [Variety]: 頌樂Solar 問號?. (24) [Variety]: 這是什麼. [Subtitle]: what's that??. (25) [Subtitle]: 아 오늘 저희가. [Subtitle]: Today we will give are. [Slogan]: 今天我們準備的就是. (26) [Variety]: 牛肉麵. [Subtitle]: beef noodles mask. (27) [Subtitle]: 啊！！！牛肉麵！. [Subtitle]: Awww beef noodles mask. (28) [Slogan]: 更多有趣的完整採訪內容. [Slogan]: 正在環嘯Youtube上!. (29) [Variety]: (笑到翻過去).",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 main guest (Solar) and 1 interviewer in the frame.",
+        "mainCharacterDescription": "Solar is wearing a yellow 'Strawberry' t-shirt with a silver necklace. The interviewer is wearing a bright blue long-sleeved top."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A modern studio or office space with wooden grid shelves filled with 'CAPSULE' cushions, books, a YouTube Play Button, and decorative plants.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Meme-style edit",
+          "Reaction shot"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Compilation / montage sequence"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Korean",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Cartoon / animated animal"
+        ],
+        "foodsDetect": [
+          "Noodles / ramen / pasta",
+          "Instant / packaged food"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "CAPSULE",
+          "YouTube"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 0,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 5,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Comedic/Exaggerated",
+          "Friendly"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese",
+          "Korean"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 3,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 9,
+        "valence": 9,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 125,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "String",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Guitar"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter"
+        ],
+        "crowdNoiseIntensity": 3,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Plastic / Bag Rustle"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Cartoon / Comedy SFX",
+          "Whoosh / Transition SFX",
+          "Ding / Bell SFX",
+          "Pop / Bubble SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Stingers"
+        ],
+        "audioEventDensity": 5,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A bright, high-pitched 'ding' sound effect opens the track, accompanied by upbeat, mid-tempo acoustic guitar BGM. High-energy female laughter is prominent, layered over fast Mandarin speech with high pitch variability. (2) The audio consists of a dense, overlapping mix of two female voices speaking excitedly in Mandarin and Korean. Transient 'pop' and 'whoosh' sound effects are used to highlight visual text and scene transitions. (3) Solar's voice exhibits extreme pitch shifts and high-arousal laughing fits as she discovers the product's identity. The acoustic guitar BGM maintains a steady, cheerful major-mode rhythm in the background. (4) The final segment is dominated by continuous, joyful laughter and high-energy exclamations from both speakers. Multiple comedic SFX stingers are used throughout the hyper-dense editing. The audio ends with a bright musical flourish and fading laughter."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Meme / Trend",
+        "Product Showcase"
+      ],
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "Unknown"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A female celebrity with long dark hair, wearing a yellow strawberry t-shirt and jeans, sits in a studio environment with 'CAPSULE' and 'YouTube' branding on the shelves behind her. An interviewer's hands are seen pulling items from a brown paper bag. (2) Two boxes that look like instant noodle packaging (labeled Beef Noodles) are presented to the woman. She looks at them with a confused and curious expression. (3) The woman realizes the items are actually facial masks; she reacts with intense laughter, wide eyes, and gestures toward her face. The camera cuts between her laughing and close-ups of the product packaging.",
-      "audio_narrative_log": "(1) Upbeat, energetic electronic background music begins. A high-pitched female voice (the interviewer) speaks excitedly in Mandarin. (2) The background music continues as the celebrity speaks in a mix of Korean and Mandarin, sounding confused and then surprised. (3) Loud, synchronous laughter from two women dominates the audio track. Occasional cartoon-style sound effects (SFX) such as pops and dings punctuate the reaction phases.",
-      "text_narrative_log": "(1) Functional Text: 'Taiwan Gifts for Korean star' and 'Solar' appear as recurring titles. (2) Hook Text: '頌樂女神' (Solar Goddess) with heart-eyes emoji, and '猜猜看是什麼呢？' (Guess what it is?). (3) Effect Text: '牛肉麵' (Beef Noodles), '是面膜！' (It's a mask!), and '笑到翻過去' (Laughing so hard I'm turning over)."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 14,
-      "averageSceneDuration": 2.9,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro -> Gifting/Guessing -> Reveal -> Reaction/Outro"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Face"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "1 main female celebrity sitting, 1 female interviewer partially visible/hands only.",
-      "mainCharacterDescription": "A female celebrity (Solar) with long dark hair, wearing a pale yellow t-shirt with a strawberry graphic, denim jeans, and silver jewelry."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Studio"
-        ],
-        "topography": [
           "None"
         ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A modern studio shelf with wooden compartments containing 'CAPSULE' branded bags, 'YouTube' pillows, and decorative books.",
-      "lightingStyle": "Bright studio lights",
-      "weather": "None",
-      "season": "None",
-      "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese",
-          "English",
-          "Korean"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "High Saturation",
-      "cameraWork": [
-        "Static",
-        "Zoom",
-        "Close-up"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "Cat (Meme overlay)"
-      ],
-      "foodsDetect": [
-        "Instant Noodles (Packaging)"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "CAPSULE",
-        "YouTube"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 2,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and humorous",
-        "pitch": "High-pitched",
-        "loudness": "High",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin",
-          "Korean"
-        ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Electronic Drums"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Pop SFX",
-        "Ding",
-        "Cartoon shock sound"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 2.2,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Presentation -> Reveal -> Reaction",
-      "mainPurpose": "To entertain the audience by showing a famous Korean star's reaction to a unique and confusing Taiwanese gift (facial masks disguised as noodle boxes), while promoting the collaboration between the celebrity and the CAPSULE agency.",
-      "visualEmotion": "Humorous"
+      "narrativeStructure": "Montage: Reveal -> Confusion -> Realization -> Reaction",
+      "mainPurpose": "The video aims to entertain viewers by showcasing a humorous interaction between a K-pop idol and a Taiwanese interviewer. The highlight is the celebrity's genuine and explosive laughter when she realizes that the beef noodle packaging she received actually contains facial masks rather than food.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
-        "Explicit",
-        "Integrated"
+        "Integrated",
+        "Implicit"
       ],
-      "endorsementCues": "The prominent placement of 'CAPSULE' branding and the specific focus on the 'Beef Noodle' facial mask products.",
+      "endorsementCues": "The video focuses entirely on revealing and reacting to a specific product (beef noodle face mask), including close-ups of the packaging.",
       "endorsementObject": [
-        "CAPSULE",
-        "牛肉麵面膜"
+        "Beef Noodle Face Mask"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Variety-show style captioning and rapid reaction editing common in Asian influencer content.",
-      "freeDescribe": "The video leverages the 'cultural shock' or 'novelty gift' trope to generate engagement through celebrity reaction."
-    }
+    "freeDescribe": "The video utilizes high-density social-native editing with frequent SFX and text overlays to amplify the comedic effect of the celebrity's reaction."
   }
 }

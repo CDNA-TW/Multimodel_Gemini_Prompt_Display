@@ -1,179 +1,288 @@
 {
   "videoName": "3ctim-20250218131707-1256932416382156.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 31,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Holiday Content",
-        "Challenge"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) The video begins with a close-up of a person's hands frantically shaking a thick stack of red New Taiwan Dollar banknotes towards the camera. The individual is wearing a green long-sleeved sweatshirt, a brown wooden beaded bracelet on the right wrist, and a black smartwatch on the left. The lighting is bright and even, focusing on the motion of the money. (2) The scene cuts to a medium shot of a middle-aged male character wearing a grey flat cap, glasses, and a green Roots brand sweatshirt standing in a room with white walls. He holds a single 100-dollar bill and gestures while speaking. A young girl in a colorful floral shirt briefly appears in the background near a wooden table. (3) The camera angle shifts to a top-down view of a dark wooden table where multiple banknotes are scattered. A green sticky-hand toy is seen being flung onto the table to grab the money. Action transitions through fast cuts showing the sticky hand successfully lifting bills. (4) The main character reappears in a medium shot, pointing at the lens with a smile. A large colorful graphic of a cartoon cat riding a green snake appears in the center. The background remains a clean, minimalist indoor setting with soft overhead lighting.",
+      "text_narrative_log": "(1) [Variety]: 這裡!!. [Logo]: 3c有意思tim哥. [Logo]: 3ctim. (2) [Variety]: 都拿去!!. (3) [Subtitle]: 新年無聊. (4) [Subtitle]: 教大家玩一個小遊戲. (5) [Subtitle]: 先準備一個 100 塊. (6) [Subtitle]: 放在這裡. (7) [Variety]: +100. (8) [Variety]: ROUND 2. (9) [Subtitle]: 誰黏到就是誰的!!. (10) [Slogan]: 祝大家蛇年行大運!. (11) [Slogan]: 新年快樂. (12) [Subtitle]: 然後我要講什麼?.",
+      "visual_human_presence": {
+        "totalHumanCount": 3,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 1,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only",
+          "Partial body"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main male creator, 1 young girl, and 1 pair of legs of an additional adult visible in the background.",
+        "mainCharacterDescription": "Middle-aged man with short hair, wearing a grey flat cap, rectangular glasses, a dark green Roots sweatshirt with a beaver logo, and a brown beaded bracelet."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home",
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A clean residential indoor environment featuring a large dark wooden dining or work table and plain white walls. The floor is a light-colored wood laminate.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Panning",
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Top-down / overhead"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Top-down / overhead"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Fast cuts",
+          "Graphic transition"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Cartoon / animated animal"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Smartwatch"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Roots"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 3,
+        "male_vocal_count": 1,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 1
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly",
+          "Casual"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Meme/Comedy",
+          "Pop"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_vocal_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter",
+          "Cheering"
+        ],
+        "crowdNoiseIntensity": 3,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Paper / Page Rustle",
+          "Object Impact / Thud / Drop"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Pop / Bubble SFX",
+          "Cartoon / Comedy SFX",
+          "Human Vocal SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 5,
+        "audioCutFrequency": 4,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a high-energy, fast-paced electronic pop track. A male voice shouts '這裡!!' with extreme enthusiasm, followed immediately by the sound of rapid paper rustling from the money shaking. Background laughter and high-pitched cheers from children are heard, creating a festive atmosphere. (2) A transition occurs marked by a short comedic 'whoosh' sound effect. The male speaker shifts to a lower-arousal narrative tone, explaining a game. A distinct 'thud' is heard as he places the money on the wooden table. The background music remains upbeat and consistent. (3) A deep, processed male voice announces 'ROUND 2' like a video game announcement. This is followed by a series of sharp 'pop' and 'snap' sound effects each time the sticky toy hits the table. Children's screams of excitement and cheering swell in the mix. (4) The final phase features a triumphant music swell as the man gives a loud New Year greeting. He then asks a question in a more natural, questioning tone with lower volume, while the 'slap' of the sticky toy continues periodically until the end."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Lifestyle",
+        "Family / Kids",
+        "Meme / Trend"
+      ],
       "location": {
         "country": [
-          "Unknown"
+          "Taiwan"
         ],
         "city": [
           "None"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A man in a green sweatshirt and a grey cap enthusiastically throws a stack of 100 NTD bills onto a wooden table while looking at the camera. (2) Several people, including a young girl, use colored sticky hand toys to slap down on the bills to catch them. (3) The man introduces 'ROUND 2' with a text overlay and throws even more bills; the participants compete frantically to grab them. (4) The man holds a few bills and speaks directly to the camera with a cheerful expression, while a red festive graphic appears on screen. (5) The video ends with a blooper of the man failing to use a sticky hand effectively, followed by a humorous close-up of his face.",
-      "audio_narrative_log": "(1) Fast-paced, high-energy electronic background music begins immediately with a male voice speaking loudly and excitedly. (2) Sound effects of 'slapping' are heard repeatedly as the sticky hands hit the table, accompanied by high-pitched cheering from a child and a woman. (3) A deep, synthesized gaming voice announces 'Round Two'. (4) The music continues at a steady upbeat tempo as the man delivers a New Year greeting. (5) The audio ends with a humorous 'thump' sound effect and short laughter as the man makes a mistake.",
-      "text_narrative_log": "(1) '新年無聊' (Bored during New Year) - Hook text with an emotional tone. (2) '都拿去!!' (Take it all!!) - Decorative text emphasizing the action. (3) '+100' - Decorative text indicating points/money gained. (4) 'ROUND 2' - Functional text indicating the next phase of the game. (5) '誰黏到就是誰的!!' (Whoever sticks it, gets it!!) - Functional explanation of the game rules. (6) '祝大家蛇年行大運！新年快樂' (Wishing everyone good luck in the Year of the Snake! Happy New Year) - Functional festive greeting. (7) '3c有意思tim哥' - Functional branding/social media handle."
-    },
     "temporal_pacing_summary": {
       "sceneCutCount": 14,
       "averageSceneDuration": 2.2,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro -> Game Play -> Round 2 Escalation -> Festive Greeting -> Blooper"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 3,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 1,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Face close-up"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 main male creator, 1 girl visible in the background/playing, hands of at least one other female participant.",
-      "mainCharacterDescription": "An adult male wearing glasses, a grey flat cap, and a green 'Roots' brand sweatshirt with a festive snake graphic."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Home",
-          "Studio"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A simple indoor room with white walls and a large, dark wood-grain table in the center.",
-      "lightingStyle": "Bright, even studio lighting",
-      "weather": "Unknown",
-      "season": "Spring (Lunar New Year context)",
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural and Bright",
-      "cameraWork": [
-        "Static",
-        "Close-up",
-        "Handheld"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone (implied by recording)"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Roots"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 2,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 1
-        }
-      },
-      "vocal_qualities": {
-        "tone": "High-pitched and excited",
-        "pitch": "Medium-high",
-        "loudness": "High",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum kit"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Slapping",
-        "Cheering",
-        "Gaming Announcer Voice",
-        "Thump"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Demo -> Escalation -> CTA/Greeting",
-      "mainPurpose": "The video aims to provide lighthearted holiday entertainment and engage the audience during the Lunar New Year by demonstrating a simple, fun family game involving money and toys. It serves as a personal brand-building piece for the creator, 'Tim', by showcasing a relatable and energetic family moment while offering seasonal blessings to followers.",
-      "visualEmotion": "Energetic and Humorous"
+      "narrativeStructure": "List-based: Hook -> Demonstration -> Call to Action -> Outtake",
+      "mainPurpose": "To share a fun and simple New Year's game using money and a sticky-hand toy, aiming to entertain families during the holiday period while offering greetings.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
-      "isEndorsement": true,
+      "isEndorsement": false,
       "endorsementMethod": [
-        "Implicit",
-        "Integrated"
+        "None"
       ],
-      "endorsementCues": "The main character is wearing a prominent 'Roots' sweatshirt with a specialized Year of the Snake graphic that aligns with the video's theme.",
+      "endorsementCues": "None",
       "endorsementObject": [
-        "Roots"
+        "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-energy opening, consistent usage of festive text overlays, specific social media handle placement.",
-      "freeDescribe": "The video utilizes 'Red Envelope' (Hongbao) culture in a gamified way, which is a highly searchable and trending topic during the Lunar New Year in Asian regions."
-    }
+    "freeDescribe": "The video uses typical social media short-form editing with variety-show style text and sound effects to maintain high engagement."
   }
 }

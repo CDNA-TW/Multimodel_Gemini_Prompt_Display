@@ -1,176 +1,281 @@
 {
   "videoName": "achusan0817-20250807022936-1430880395294793.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 105,
-      "aspectRatio": "1:1",
-      "videoGenre": [
-        "Vlog",
-        "Animation",
-        "Variety Show"
-      ],
+      "videoDuration": 66,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": false,
+      "visual_narrative_log": "(1) The video opens with a bright blue background featuring the text \"阿啾小劇場\" at the top. Two cartoon avatars of men are positioned at the bottom right, looking up at a screen capture of a website interface for the \"2025 文博會\". A yellow text box with white text appears at the bottom. (2) The scene shifts to a minimalist white background where a blue line is drawing a stick figure in a kneeling, face-down posture on a blue bed-like surface. The two avatars remain at the bottom right. (3) A screen transition occurs back to the website interface, which now shows two white cards with text. A cartoon avatar of a man with dark hair and a gray t-shirt appears in the center-left, yawning and stretching his arms. (4) The scene cuts back to the blue background with a white stick figure drawing. A yellow border surrounds the central white square. (5) An close-up of an emoji-like face with a squinting, laughing expression appears briefly on a yellow background. (6) The final phase shows the animated character in the gray shirt again, now looking embarrassed with large, teary eyes and a blushing face, while the website interface remains visible behind him.",
+      "text_narrative_log": "(1) [Logo]: 阿啾小劇場. [Slogan]: 2025 文博會 南港展覽館 8-7~11 J1-036. [Subtitle]: 請問學長起床的第一件事. [Slogan]: 學長起床的第一件事：把屁股抬高. [Slogan]: 完整影片在Youtube. (2) [Variety]: 哈哈哈. [Subtitle]: 起床是指下床嗎. (3) [Subtitle]: 起床第一件事就是醒來的第一件事情. (4) [Variety]: 咻咻咻. (5) [Subtitle]: 伸縮腰對他會變成膜拜的姿勢. (6) [Subtitle]: 請問對方做過讓你最心動的事情. [Subtitle]: 好吧就這個吧. [Subtitle]: 跟我朋友介紹我. [Subtitle]: 喔所以只有求婚有心動. [Subtitle]: 沒事是最最最心動. [Subtitle]: 妳看心動是不是. [Subtitle]: 妳會瘋狂心動哈哈哈. [Subtitle]: 不知道 沒有比阿啾早起過. [Subtitle]: 好、嗯.",
+      "visual_human_presence": {
+        "totalHumanCount": 0,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Face",
+          "Upper body",
+          "None"
+        ],
+        "crowdLevel": [
+          "None"
+        ],
+        "countingEvidence": "No real people; 2 main animated male avatars are present throughout.",
+        "mainCharacterDescription": "Two 2D animated male characters. One has messy dark hair and wears a gray t-shirt; the other is a simplified bald-headed avatar."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Digital Interface / Screen Capture",
+          "Animation / Graphic Background"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "Alternates between a clean blue background with graphic overlays and a screen capture of a web browser interface showing a 'Couple Quiz' style application.",
+        "lightingStyle": [
+          "Flat animation lighting"
+        ],
+        "weather": [
+          "Weather not applicable"
+        ],
+        "season": [
+          "Not applicable"
+        ],
+        "colorTone": [
+          "Natural and bright",
+          "Blue"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Meme-style edit",
+          "Fast cuts",
+          "Graphic transition"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Compilation / montage sequence"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Digital Interface / Screen Capture"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "2025 文博會"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 2,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Comedic/Exaggerated",
+          "Friendly"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Acoustic/Folk"
+        ],
+        "tempoBPM": 105,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "String",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Guitar",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter"
+        ],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Impact / Hit SFX",
+          "Cartoon / Comedy SFX",
+          "Pop / Bubble SFX",
+          "Ding / Bell SFX",
+          "Applause / Laugh Track SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a bright, medium-tempo acoustic guitar melody accompanied by a steady percussion beat. A male voice (A) asks a question in a high-pitched, energetic tone with a playful rising intonation. (2) A sharp 'ding' SFX sounds as the prompt is read. A second male voice (B) responds in a slightly deeper, more conversational tone, expressing confusion with a mild vocal pitch drop. (3) A sudden cartoonish 'boing' SFX is heard, followed by a burst of high-pitched laughter from both speakers. The BGM remains consistent in volume and energy. (4) A 'swoosh' transition sound triggers a new phase. Voice A teases voice B with an exaggerated, comedic nasal quality. (5) A loud percussive 'thud' SFX emphasizes a punchline, immediately followed by the sound of a small crowd laughing (SFX). (6) The video concludes with both voices talking rapidly over each other in an excited, high-arousal state, ending with a final bright guitar chord."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Meme / Trend",
+        "Storytelling"
+      ],
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "Taipei"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) This is a non-live-action video featuring 2D cartoon avatars and a digital quiz game interface. The video starts with a blue screen showing the title '阿啾小劇場' and a quiz question about the 'Senior's' morning routine. (2) A drawing animation appears on a yellow canvas, depicting a figure lying face down with their buttocks raised high. (3) The screen transitions to show quiz options and the cartoon avatars of 'Achou' and 'Senior' reacting with surprised and laughing expressions. (4) The sequence repeats with a second question about heart-fluttering actions, showing a handwritten calligraphy answer '求婚' (propose). (5) A third question asks about the first words spoken in the morning, showing a cartoon of Senior lying in bed with a speech bubble saying '好、嗯' (Okay, mmm).",
-      "audio_narrative_log": "(1) Quirky, upbeat electronic BGM starts immediately. A high-pitched, energetic male voice (Achou) reads the quiz question aloud. (2) Another male voice (Senior) with a slightly deeper but humorous tone responds with confusion and then laughter. (3) Throughout the video, various sound effects like 'popping' for text appearances, 'dinging' for correct answers, and 'boing' for movement are heard. (4) The audio is characterized by rapid-fire banter and frequent bursts of laughter from both men, with the music remaining consistent in tempo.",
-      "text_narrative_log": "(1) Functional Text: White and yellow subtitles at the bottom translate the spoken dialogue between the two creators. (2) Decorative/Hook Text: Large titles like '學長起床的第一件事：把屁股抬高' (The first thing Senior does after waking up: Raise butt high) and promotional text for '2025文博會 南港展覽館' (2025 Creative Expo at Nangang Exhibition Center) appear at the top. (3) CTA Text: '完整影片在Youtube' (Full video on Youtube) is fixed at the bottom center."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 12,
-      "averageSceneDuration": 8.75,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro -> Question 1 -> Reaction -> Question 2 -> Reaction -> Outro/Promo"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 0,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "None"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "0 real humans; 2 main cartoon characters representing the creators",
-      "mainCharacterDescription": "Two cartoon male characters: one with black hair (Achou) and one with a simple bald or short-haired design (Senior), both dressed in simple casual illustrated clothing."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Studio",
-          "Digital Interface"
-        ],
-        "topography": [
           "None"
         ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A series of digital backgrounds including a quiz UI with blue and yellow color blocks, a drawing canvas, and a chat-log style side panel.",
-      "lightingStyle": "Uniform Digital Lighting",
-      "weather": "None",
-      "season": "None",
-      "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese",
-          "Japanese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "High Saturation",
-      "cameraWork": [
-        "Static"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone",
-        "PC Interface"
-      ],
-      "landmark": [
-        "南港展覽館"
-      ],
-      "brandLogos": [
-        "YouTube",
-        "2025文博會"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 0,
-        "offscreen": 2,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 2,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Humorous and playful",
-        "pitch": "Medium-High",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Traditional Chinese"
-        ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Keyboard"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "Cartoon SFX",
-        "Notification sounds"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
+    "temporal_pacing_summary": {
+      "sceneCutCount": 15,
+      "averageSceneDuration": 4.4,
+      "editingPace": "Fast",
+      "isNarrativeShift": false
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Question Series -> Reaction -> Promotion",
-      "mainPurpose": "To entertain the audience with humorous, personal trivia about the creators' relationship while simultaneously promoting their upcoming appearance at the 2025 Creative Expo and driving traffic to their YouTube channel.",
-      "visualEmotion": "Cheerful and Comical"
+      "narrativeStructure": "List-based: Prompts -> Comedic Responses -> Emotional Reactions",
+      "mainPurpose": "To entertain the audience with humorous banter between two characters while subtly promoting the 2025 Cultural Expo (文博會).",
+      "visualEmotion": [
+        "Humorous",
+        "Energetic",
+        "Warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
-        "Explicit",
-        "Full"
+        "Implicit",
+        "Integrated"
       ],
-      "endorsementCues": "Prominent text overlay detailing specific booth numbers for an event and a call to action for a YouTube channel.",
+      "endorsementCues": "The characters are using a specific website interface clearly branded for the '2025 文博會' (Cultural Expo) throughout the video.",
       "endorsementObject": [
-        "2025文博會",
-        "阿啾小劇場"
+        "2025 文博會"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Usage of iconic 2D avatars and 'Little Theater' narrative style common in Taiwanese creator culture.",
-      "freeDescribe": "The video leverages the chemistry between the two male creators to build intimacy with the fan base, using self-deprecating humor and shared domestic anecdotes."
-    }
+    "freeDescribe": "The video uses a 'Question and Answer' format typical of social media trends. The high visual text density and rapid-fire audio editing are characteristic of short-form content designed for high engagement."
   }
 }

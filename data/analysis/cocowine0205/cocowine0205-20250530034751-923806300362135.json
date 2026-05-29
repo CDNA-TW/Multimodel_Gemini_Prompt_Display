@@ -1,175 +1,280 @@
 {
   "videoName": "cocowine0205-20250530034751-923806300362135.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 29,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Retail Review"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A young woman with long dark hair, wearing a black top with sheer puffy sleeves, stands in a brightly lit retail environment. She holds a white cake box with strawberries visible through its plastic window. The 'COSTCO WHOLESALE' logo is overlaid at the top. (2) The scene shifts to a close-up of a refrigerated display case filled with various cakes. The camera zooms in on a white cake decorated with strawberries and another with colorful carrot-shaped frosting. (3) The woman points at a chocolate cake with pink and yellow floral frosting decorations. The background is filled with rows of industrial shelving and other bakery products. (4) The camera focuses on a cake with a grid pattern of carrot decorations, revealing a pre-divided design. The lighting is bright and even, typical of a supermarket setting. (5) The woman gives a thumbs up to the camera while smiling, standing in front of the display. Background shoppers and staff are visible in the blurred distance. (6) A final shot shows the woman holding a different cake box, appearing to be in the middle of a playful decision-making process.",
+      "text_narrative_log": "(1) [Logo]: COSTCO WHOLESALE. [Subtitle]: 請問誰生日了嗎. (2) [Subtitle]: 有人生日嗎. [Subtitle]: 為什麼要買蛋糕. (3) [Subtitle]: 新的一年. [Subtitle]: 大家都是新生. (4) [Subtitle]: 為什麼不買這個蘿蔔田. [Subtitle]: 這蘿蔔田很可愛啊. (5) [Subtitle]: 也可以. [Subtitle]: 要哪一種. (6) [Subtitle]: 或者是等你50歲的時候. [Subtitle]: 送這個黑玫瑰. (7) [Subtitle]: 剛好這邊寫一個可. [Subtitle]: 可. [Subtitle]: 可以揍你嗎? [Subtitle]: 可. (8) [Variety]: 蛋糕隱藏設計. [Variety]: 原來是為了…. [Subtitle]: 啊這小朋友一人可以一塊啊. (9) [Subtitle]: 這個的用意是這樣. [Subtitle]: 好用心哦. (10) [Subtitle]: 這送給小朋友. [Subtitle]: 399更便宜. [Subtitle]: 換掉換掉. [Subtitle]: 換掉草莓.",
+      "visual_human_presence": {
+        "totalHumanCount": 3,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main female character, 1 male hand/voice, and at least 1 background staff member.",
+        "mainCharacterDescription": "A young woman with long dark hair, wearing a black turtleneck with sheer, puffed sleeves."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Supermarket / Warehouse Store"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "The interior of a Costco warehouse, specifically the refrigerated bakery section with metal industrial shelving and various pre-packaged cakes.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Zoom in",
+          "Panning"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Insert shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Fast cuts",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Dessert / cake / cookies",
+          "Fruit"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Costco"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 1,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Animated/Excited",
+          "Sarcastic/Teasing"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 115,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Plastic / Bag Rustle"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Ding / Bell SFX",
+          "Pop / Bubble SFX"
+        ],
+        "soundEffectsIntensity": 2,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) A female voice speaks with high energy and a cheerful tone in Mandarin. A percussive, upbeat electronic pop BGM begins with a steady 4/4 beat. (2) A male voice interjects with a teasing remark. The BGM remains constant, providing a bright, rhythmic foundation for the conversation. (3) Soft plastic rustling is heard as a cake box is handled. The voices are fast-paced, suggesting an excited discovery. (4) A short 'ding' sound effect emphasizes a specific realization in the speech. The male and female voices overlap in a natural, conversational manner while the music continues."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Shopping",
+        "Food Review",
+        "Vlog"
+      ],
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "Unknown"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman with long black hair, wearing a black mesh-accented top, stands in a Costco bakery aisle holding a strawberry cake box. She smiles and speaks directly to the camera. (2) The camera pans across refrigerated shelves displaying various Kirkland Signature cakes, including a carrot-decorated cake and a chocolate cake with a pink rose. A male hand enters the frame to point at the carrot cake. (3) The woman gives a thumbs-up gesture and continues talking, showing a small screen on her phone attached to a lanyard. (4) A close-up shot focuses on the carrot cake, revealing subtle grid lines in the frosting. (5) The camera returns to the woman holding the strawberry cake in front of the shelves as she makes a final comment.",
-      "audio_narrative_log": "(1) Upbeat, medium-tempo electronic pop background music plays continuously. A young woman speaks with an excited and friendly tone in Taiwanese Mandarin. (2) A man's voice is heard off-camera, engaging in a playful dialogue with the woman about the cake choices. (3) Low-level ambient noise of a large retail warehouse, such as the hum of refrigeration units, is audible in the background. (4) A sharp 'ding' sound effect coincides with the appearance of highlight text on screen.",
-      "text_narrative_log": "(1) Functional Text: '請問誰生日了嗎' (Is it someone's birthday?), '有人生日嗎' (Is someone having a birthday?), '為什麼要買蛋糕' (Why buy a cake?), '新的一年 大家都是新生' (New year, everyone is a newborn). (2) Decorative/Hook Text: A large 'COSTCO WHOLESALE' logo is fixed at the top. '蛋糕隱藏設計 原來是為了...' (Cake hidden design, turns out it's for...) appears in yellow and pink bubbly font to create curiosity. '399 更便宜' (399 is even cheaper) highlights the price point."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 7,
-      "averageSceneDuration": 4.1,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Intro -> Product Comparison -> Discovery of Design -> Price Conclusion"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "1 female main creator on screen, 1 male hand pointing at products.",
-      "mainCharacterDescription": "A young Asian woman with long dark hair, wearing a black top with sheer/ruffled sleeves and a silver necklace."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Supermarket"
-        ],
-        "topography": [
           "None"
         ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "Industrial refrigerated warehouse shelves at a Costco, filled with various packaged bakery items and cakes.",
-      "lightingStyle": "Bright retail lighting",
-      "weather": "None",
-      "season": "None",
-      "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Follow shot"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Cake",
-        "Strawberry",
-        "Carrot decoration"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "COSTCO WHOLESALE",
-        "KIRKLAND SIGNATURE"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Friendly and humorous",
-        "pitch": "Medium-high",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Traditional Chinese"
-        ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop",
-      "bgmBPM": 125,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "Ding"
-      ],
-      "ambientNoise": [
-        "Studio quiet",
-        "Hum"
-      ],
-      "audioQuality": "Field"
-    }
-  },
-  "high_inference_interpretations": {
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 2.07,
+      "editingPace": "Fast",
+      "isNarrativeShift": false
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Exploration -> Revelation -> CTA/Value Statement",
-      "mainPurpose": "The video is a casual shopping vlog intended to share a consumer 'discovery' at Costco. It uses a conversation between two people to highlight a practical design feature of a large sheet cake (grid lines for easy portioning) and its affordable price, encouraging viewers to consider it for group events or kids' parties.",
-      "visualEmotion": "Energetic and Humorous"
+      "narrativeStructure": "Montage: Hook -> Observation -> Conclusion",
+      "mainPurpose": "To humorously review Costco's cake selection and highlight a clever 'hidden' design feature of a carrot-themed cake that makes it easy to share among many children.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "informative"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
-        "Implicit",
-        "Integrated"
+        "Explicit/Integrated"
       ],
-      "endorsementCues": "Filmed entirely within a specific retail store showing specific private-label products (Kirkland Signature) with positive commentary and price highlights.",
+      "endorsementCues": "Prominent brand logo and specific showcase of store products.",
       "endorsementObject": [
-        "COSTCO WHOLESALE"
+        "Costco"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Conversational interaction with an off-screen videographer; bright, variety-show style text overlays.",
-      "freeDescribe": "The video leverages the 'hidden tip' or 'secret feature' trope common in social media retail content to drive engagement."
-    }
+    "freeDescribe": "High-engagement short-form video featuring social-media-native editing styles like rapid cuts and variety-show captions."
   }
 }

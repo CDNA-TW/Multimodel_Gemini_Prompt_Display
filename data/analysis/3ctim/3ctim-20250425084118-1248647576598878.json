@@ -1,177 +1,272 @@
 {
   "videoName": "3ctim-20250425084118-1248647576598878.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 44,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Tech Commentary",
-        "Informational"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) The video begins with a medium close-up of a middle-aged man wearing a green hoodie, glasses, and a dark green cap. He stands in front of a background composed of several Studio Ghibli-style anime illustrations depicting young women in outdoor settings. Large white and blue text with a black outline appears in the center of the frame. (2) The scene transitions to a vertical split-screen or overlay layout showing a mobile app store interface. On the left, an app icon for 'ChatGTP' is marked with a red cross and the word '假的' (Fake), while on the right, the official 'ChatGPT' app is shown with a green checkmark and '真的' (Real). The man remains visible in a circular inset at the center. (3) The man returns to the full frame, standing in a brightly lit indoor studio or office. He uses expressive hand gestures, pointing and waving to emphasize his points. Various text overlays with colorful backgrounds and variety-show style emojis appear around his head to highlight specific warnings about subscription costs. (4) The final phase shows the man pointing his index finger directly toward the camera lens. He has a serious but helpful facial expression. A high-contrast warning message in white text on a yellow background appears at the bottom of the screen, warning viewers to be careful of scams.",
+      "text_narrative_log": "(1) [Variety]: 吉卜力熱潮. [Logo]: f 3c有意思tim哥. [Logo]: @3ctim. (2) [Subtitle]: 讓許多人跟風下載ChatGPT. (3) [Subtitle]: 但你有注意過你下載的是 ChatGPT 還是 ChatGPT 嗎? [Variety]: 假的. [Variety]: 真的. (4) [Subtitle]: 近期在 Apple App Store 上出現一款名為 ChatGTP 的應用程式. [Variety]: (疑似改名為 ChatGOAT). (5) [Subtitle]: 名字只跟 ChatGPT 字母順序不同. (6) [Subtitle]: 而且 App 圖示也十分相似. (7) [Subtitle]: 造成很多用戶誤會下載. (8) [Subtitle]: 甚至還因此登上免費下載榜單的榜首. (9) [Subtitle]: 受害的用戶反映說這款 App 功能有限. (10) [Subtitle]: 問 4 個問題就要要求付費. (11) [Slogan]: 收費還高於 OpenAI 官方 ChatGPT Plus 的費用. (12) [Subtitle]: 更不用說用戶的個人隱私也可能因此外洩. (13) [Slogan]: 下載前大家請多加留意. [Variety]: 小心受騙上當耶!",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 male host presenting the content throughout the video.",
+        "mainCharacterDescription": "A middle-aged man wearing a dark green baseball cap, rectangular glasses, and a green 'Roots' brand hoodie."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "Starts with a collage of Ghibli-style anime backgrounds, then shifts to a clean indoor studio with some out-of-focus background objects and a screen recording of the Apple App Store.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Graphic transition",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Rhythm matched to speech"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Cat"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Digital Interface / Screen Capture"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Roots",
+          "ChatGPT",
+          "Apple App Store"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Professional/Narrative",
+          "Friendly"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 6,
+        "valence": 5,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Pop / Bubble SFX",
+          "Ding / Bell SFX",
+          "Whoosh / Transition SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 2,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A male voice speaking Traditional Chinese starts the video with a clear, energetic tone. The speech rate is moderate and professional, with a very high SignalToNoiseRatio indicating a studio environment. No background music is present, ensuring total focus on the narration. (2) A digital 'pop' sound effect occurs as visual text is highlighted. The vocal pitch remains stable as the speaker introduces the topic of fake apps. The ambient floor is practically silent studio-clean. (3) A subtle 'whoosh' sound effect accompanies a visual transition. The speaker continues without interruption, his voice showing high dominance and clarity. He articulates every syllable of 'ChatGPT' distinctly to contrast with the fake version. (4) A 'ding' sound effect triggers during the mention of subscription prices. The speaker's tone becomes more cautionary and authoritative. There are brief, natural pauses between sentences for emphasis. (5) The recording concludes with the speaker raising his vocal arousal slightly for a final warning. The audio track ends cleanly without any fading or background interference."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Tech News / Commentary",
+        "Tutorial / How-to"
+      ],
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "Unknown"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video begins with a stylized collage of Ghibli-inspired illustrations with a man's head superimposed in the center. (2) The scene transitions to a live-action shot of a man wearing a grey cap, glasses, and a green hoodie, sitting in front of a grey curtain. He gestures with his hands while speaking directly to the camera. (3) Screenshots of the Apple App Store showing various AI chatbot apps are overlaid on the screen periodically as he speaks. (4) The man continues his explanation with expressive facial expressions and hand movements, emphasizing points about app names and pricing. (5) The video ends with a close-up of the man delivering a final warning message.",
-      "audio_narrative_log": "(1) The audio starts with a male voice speaking in Mandarin Chinese with an energetic and authoritative tone. (2) An upbeat, fast-paced electronic background music track plays throughout the entire video. (3) Subtle sound effects (SFX) such as digital pops and camera shutters accompany the appearance of text and image overlays. (4) The environment is quiet, suggesting a controlled studio setting with clear vocal recording.",
-      "text_narrative_log": "(1) '吉卜力熱潮' (Ghibli Craze) - Hook text. (2) '讓許多人跟風下載ChatGPT' (Led many people to follow the trend and download ChatGPT) - Functional narration text. (3) 'ChatGPT 假的' (ChatGPT Fake) and 'ChatGPT 真的' (ChatGPT Real) - Comparative functional text. (4) 'ChatGPTP 的應用程式' (ChatGPTP application) - Functional text identifying a specific app name. (5) '問4個問題就要要求付費' (Asks for payment after asking 4 questions) - Descriptive warning text. (6) '收費還高於 OpenAI 官方 ChatGPT Plus 的費用' (The fee is even higher than the official OpenAI ChatGPT Plus fee) - Comparative financial information. (7) '用戶的個人隱私也可能因此外洩' (User's personal privacy may also leak because of this) - Warning text. (8) '下載前大家請多加留意' (Everyone please pay more attention before downloading) - Call to action."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 12,
-      "averageSceneDuration": 3.6,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Hook (Ghibli trend) -> Problem identification (Fake ChatGPT apps) -> Detailed analysis (Pricing and Privacy) -> Final Warning."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Head",
-        "Hands",
-        "Full upper body"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main creator (male) present throughout the video.",
-      "mainCharacterDescription": "Middle-aged Asian male, wearing a grey flat cap, glasses, and a dark green hoodie."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Studio"
-        ],
-        "topography": [
           "None"
         ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A simple grey curtain background in a studio setting, focused on the speaker.",
-      "lightingStyle": "Bright studio lights providing clear visibility and minimal shadows.",
-      "weather": "Indoor",
-      "season": "Unknown",
-      "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Medium Shot"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone",
-        "App Store Screenshots"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Apple App Store",
-        "OpenAI",
-        "ChatGPT",
-        "ChatGOAT"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Professional and urgent",
-        "pitch": "Medium",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
-        ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Pop sounds",
-        "Transition SFX"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
+    "temporal_pacing_summary": {
+      "sceneCutCount": 6,
+      "averageSceneDuration": 7.33,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Evidence -> Analysis -> CTA",
-      "mainPurpose": "To inform and warn mobile users about 'imposter' ChatGPT applications in the Apple App Store that use confusingly similar names and icons to trick people into high-priced subscriptions and potentially compromise their data privacy.",
-      "visualEmotion": "Informative and Cautionary"
+      "narrativeStructure": "Linear: Hook -> Evidence -> Comparison -> Warning",
+      "mainPurpose": "To warn the audience about a fraudulent app on the Apple App Store named 'ChatGTP' that mimics the official 'ChatGPT' to trick users into paying high subscription fees.",
+      "visualEmotion": [
+        "informative",
+        "energetic"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
       "endorsementMethod": [
         "None"
       ],
-      "endorsementCues": "The video is a consumer warning/advice segment rather than a product promotion.",
+      "endorsementCues": "None",
       "endorsementObject": [
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "3C有意思Tim哥 branding, specific green hoodie and cap attire.",
-      "freeDescribe": "The video leverages current AI trends to provide timely cybersecurity and consumer rights advice to a tech-interested audience."
-    }
+    "freeDescribe": "A high-quality informational short video utilizing clear studio audio and dynamic text overlays to convey a consumer warning."
   }
 }

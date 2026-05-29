@@ -1,14 +1,237 @@
 {
   "videoName": "cocowine0205-20250920124506-900156236121052.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 31,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Shopping Recommendation"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) The video begins in a brightly lit warehouse store setting. Two young women are the central focus, standing side-by-side. The woman on the left wears a black-and-white patterned bucket hat and a white sleeveless top, while the woman on the right wears a black beret and a dark long-sleeved top. They are holding three large, soft animal-shaped pillows: a white bear, a pink hippo, and a white crocodile. They smile warmly and look directly at the camera. (2) The camera maintains a medium shot as the women interact with the pillows, hugging them and showing the fabric's quilted texture. The background is filled with high industrial shelving units stacked with boxes and household goods, with a few other shoppers visible in the distance. The lighting is bright and even, typical of a large retail environment. (3) The women continue to showcase the pillows, at one point playfully using the crocodile pillow in a gentle swinging motion. They emphasize the size of the objects, which appear to be about arm-length. The video concludes with them posing together with the pillows, maintaining a cheerful and inviting expression.",
+      "text_narrative_log": "(1) [Logo]: COSTCO WHOLESALE. [Slogan]: 鱷魚 超好看. [Variety]: 最便宜的動物涼感抱枕. (2) [Subtitle]: 最新出的動物造型 好可愛喲. (3) [Subtitle]: 這個只要439元. (4) [Subtitle]: 有粉紅色的河馬. (5) [Subtitle]: 然後白色的熊. (6) [Subtitle]: 綠色的鱷魚 推薦鱷魚 鱷魚好可愛. (7) [Subtitle]: 好好看 然後它做的這個格紋. (8) [Subtitle]: 摸起來就很舒服 那個抱起來冰冰涼. (9) [Subtitle]: 它的高度是60公分. (10) [Subtitle]: 我覺得大人小孩都還不錯. (11) [Slogan]: 真的必收!. [Subtitle]: 主要是圖案真的很可愛 而且價格真的很划算. (12) [Subtitle]: 還可以拿來這樣毆打你. (13) [Subtitle]: 我有2隻.",
+      "visual_human_presence": {
+        "totalHumanCount": 4,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 3,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "2 main female creators, 2 distant shoppers in the background.",
+        "mainCharacterDescription": "One woman wears a bucket hat, white top, and jeans; the other wears a black beret and a black top with cut-outs."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Supermarket / Warehouse Store"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "Costco warehouse interior featuring high-reach pallet racking, industrial shelving, and wide aisles with shoppers and carts.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Zoom in"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Graphic transition"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Bear",
+          "Plush / decoration / toy animal"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "Shopping cart"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "COSTCO"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 0,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 122,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Ding / Bell SFX",
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 2,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 2,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Mixed"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with an energetic, up-tempo electronic pop music bed featuring a bright synthesizer melody and a steady 4/4 drum beat. A female narrator speaks with high arousal and a cheerful tone, introducing a product. (2) A clear 'ding' sound effect highlights the transition as the narrator begins listing different variations of the animal pillows. The speech rate is brisk and enthusiastic, maintaining a high pitch level throughout. (3) The background music remains consistent as the narrator details specific features like price and size. The voice exhibits complex intonation with a notable rising ratio, suggesting excitement and engagement. (4) A final phase features a more playful vocal delivery with a light laugh-like quality as the narrator finishes the description. The music reaches a sharp hard cut at the end of the clip."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Product Showcase",
+        "Shopping"
+      ],
       "location": {
         "country": [
           "Taiwan"
@@ -18,156 +241,33 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The scene is live-action. Two young women stand in a warehouse aisle; the woman on the left wears a patterned bucket hat and a white top, and the woman on the right wears a black beret and a brown top. They are holding three large animal-shaped plush pillows (a white bear, a pink hippo, and a green crocodile) and smiling at the camera. (2) They move the pillows closer to the camera, showcasing the quilted texture and patterns. They gesture towards the items as if explaining their features. (3) The woman on the right takes the crocodile pillow and playfully hits the woman on the left with it; they both laugh and continue to pose with the products against the background of high storage shelves.",
-      "audio_narrative_log": "(1) The audio begins with a high-pitched, energetic female voice narrating enthusiastically over upbeat, fast-tempo electronic pop background music. (2) As the narration continues, faint ambient warehouse noise and the rustling of fabric can be heard. (3) During the playful interaction, cartoonish sound effects (SFX) such as 'boing' and comic hitting sounds are layered over the voices, which become more laughing and informal. The music maintains a constant volume throughout.",
-      "text_narrative_log": "(1) Functional Text: A large 'COSTCO WHOLESALE' logo appears at the top. Decorative Text: '鱷魚 超好看' (Crocodile looks great) and '最便宜的動物涼感抱枕' (Cheapest animal cooling pillows) serve as hooks. (2) Functional Text: '最新出的動物造型 好可愛唷' (New animal shapes, so cute) and '這個只要439元' (This only costs 439 yuan). (3) Functional Text: Specific labels for '河馬' (Hippo), '熊' (Bear), and '鱷魚' (Crocodile) appear. (4) Decorative Text: '高度60公分' (Height 60 cm) and '價格划算' (Good price), ending with a humorous caption '還可以拿來毆打你' (Can also be used to hit you)."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 6,
-      "averageSceneDuration": 5.1,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro -> Product Feature Demonstration -> Humorous Interaction"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 4,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 3,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "2 main female presenters, 2 blurred shoppers in the background (1 male, 1 female).",
-      "mainCharacterDescription": "Two young women; one with a bucket hat and white tank top, the other with a black beret and brown long-sleeve top."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Warehouse Store"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "High-density warehouse storage shelves filled with various consumer goods, typical of a Costco interior.",
-      "lightingStyle": "Intense indoor industrial lighting",
-      "weather": "None",
-      "season": "None",
+      "sceneCutCount": 5,
+      "averageSceneDuration": 6.2,
       "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Handheld"
-      ]
+      "isNarrativeShift": false
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "COSTCO"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 1,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 3,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "High-pitched and excited",
-        "pitch": "High",
-        "loudness": "Loud",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Cartoon SFX",
-        "Meme sounds"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Field"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Product Feature -> CTA",
-      "mainPurpose": "To promote a specific seasonal product (cooling animal pillows) at Costco. The video uses energetic delivery and visual demonstrations of the product's variety and soft texture to appeal to shoppers looking for value and cute home goods.",
-      "visualEmotion": "Energetic and Cheerful"
+      "narrativeStructure": "List-based: Hook -> Introduction -> Specific Feature Breakdown -> Price Analysis -> Conclusion",
+      "mainPurpose": "The video serves as a promotional showcase for a specific line of animal-themed cooling pillows available at Costco. By using high-energy hosts and upbeat music, it highlights the product's affordability, physical dimensions, and 'cute' aesthetic to drive consumer interest and store visits.",
+      "visualEmotion": [
+        "energetic",
+        "warm",
+        "humorous"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
         "Explicit",
-        "Integrated"
+        "Full"
       ],
-      "endorsementCues": "Prominent display of the Costco logo and direct price/product information provided by the presenters.",
+      "endorsementCues": "Direct mention of the retailer (Costco), clear display of the product price, and an enthusiastic recommendation of the items.",
       "endorsementObject": [
-        "COSTCO"
+        "COSTCO",
+        "Animal Cooling Pillow"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-density variety-show style captions and playful interaction between presenters.",
-      "freeDescribe": "The use of 'cooling' descriptors suggests this is a summer-specific marketing effort targeting casual retail consumers."
-    }
+    "freeDescribe": "A fast-paced social media promotional clip utilizing high-energy vocal delivery and bold on-screen text to market warehouse store finds."
   }
 }

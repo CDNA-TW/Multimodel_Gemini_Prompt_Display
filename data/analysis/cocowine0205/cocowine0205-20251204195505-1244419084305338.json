@@ -1,162 +1,270 @@
 {
   "videoName": "cocowine0205-20251204195505-1244419084305338.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 50,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Shopping",
-        "Product Review"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "None"
+      "visual_narrative_log": "(1) A young woman with long dark hair, wearing a brown oversized jacket over a black top and a grey pleated skirt, stands in the aisle of a warehouse-style store. She gestures towards large text overlays and a Costco logo that appears at the top of the frame. (2) She moves toward a metal shelving unit stocked with boxes of yellow-capped seasoning cans. She picks up a twin-pack of Daisho Salt and Pepper and displays it to the camera while speaking. (3) The camera zooms in to a price tag on the shelf which reads $159 for the seasoning set. Other shoppers with carts are visible moving through the wide aisle in the background under bright industrial lighting. (4) The woman points to a large stack of the same product, showing the high availability of the items. She continues to hold the product near her face, smiling and gesturing as she speaks directly to the lens.",
+      "text_narrative_log": "(1) [Logo]: COSTCO WHOLESALE. [Slogan]: 黑五好康. [Variety]: 黑五沒人要買. [Variety]: 曾經需要排隊. [Variety]: 明星商品. (2) [Subtitle]: 曾經紅極一時這大黑五最被冷落的商品來了. (3) [Subtitle]: 沒有半個人買真的沒什麼人在買. (4) [Subtitle]: 之前還限購. (5) [Subtitle]: 159元沒有特價. (6) [Subtitle]: 推薦各位不用搶的時候可以買它. (7) [Subtitle]: 這邊超級空曠的. (8) [Subtitle]: 159元有兩路. (9) [Subtitle]: 大容量400克的. (10) [Subtitle]: 拿來做料理超方便. (11) [Subtitle]: 像黑五它就是會被冷落在這邊.",
+      "visual_human_presence": {
+        "totalHumanCount": 5,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 3,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Full body"
         ],
-        "city": [
-          "None"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video begins with a female creator standing in front of a Costco graphic, gesturing broadly to set the scene. She is wearing a brown puffer jacket and a long brown pleated skirt. (2) She approaches a shelf fully stocked with Daisho Salt & Pepper twin packs. She picks one up, showing it to the camera with a cheerful expression. (3) The camera pans to a price tag showing '$159' before returning to her. She continues to handle the product and points at the abundant stock on the shelves. (4) Other shoppers with carts are visible in the background moving through the warehouse aisles.",
-      "audio_narrative_log": "(1) Upbeat, moderately fast background music with electronic elements begins immediately. A female voice starts speaking with high energy and an excited tone. (2) An off-screen male voice enters, engaging in a conversational style with the female speaker about the product and its price. (3) The female voice describes the flavor and utility of the seasoning, maintaining a constant flow of speech over the music. (4) Subtle ambient sounds of a busy warehouse, including the distant rumble of carts and muffled background chatter, are heard throughout.",
-      "text_narrative_log": "(1) '黑五好康' (Black Friday Deals) appears as a large hook title with a festive, excited tone. (2) '黑五沒人要買' (Nobody's buying on Black Friday) provides a surprising, curiosity-inducing hook. (3) '曾經需要排隊' (Used to require queuing) highlights the past popularity of the item. (4) '明星商品' (Star Product) labels the item as a must-have. (5) 'DAISHO SALT & PEPPER $159' provides functional pricing and product information."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 12,
-      "averageSceneDuration": 4.1,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Intro -> Product Discovery -> Price Analysis -> Usage Recommendation"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 6,
-      "maleDetectAmount": 2,
-      "femaleDetectAmount": 4,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 female main character, 5 background shoppers (mixed genders) visible in aisles.",
-      "mainCharacterDescription": "Young female with long dark hair, wearing a brown jacket, a black top with a choker necklace, and a brown pleated skirt."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Warehouse Store"
+        "crowdLevel": [
+          "Small Group"
         ],
-        "topography": [
-          "None"
+        "countingEvidence": "1 female main character, 4 passers-by in the background shopping aisles.",
+        "mainCharacterDescription": "A young Asian woman with long straight dark hair, wearing a brown jacket, black choker, and a long grey pleated skirt."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Supermarket / Warehouse Store"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A large warehouse-style retail interior with high concrete walls, industrial metal shelving, and various palletized products. Fluorescent lighting illuminates the wide aisles.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Autumn / Winter"
+        ],
+        "colorTone": [
+          "Natural and bright"
         ]
       },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "High-ceilinged warehouse environment with industrial metal shelving, bulk food products, and yellow price signs.",
-      "lightingStyle": "Bright industrial studio lighting",
-      "weather": "None",
-      "season": "None",
-      "editingPace": "Moderate",
-      "textOverlay": {
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Zoom in",
+          "Panning"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
         "density": "High",
-        "language": [
+        "textLanguage": [
           "Traditional Chinese",
           "English"
         ],
-        "isSubtitled": false
+        "isSubtitled": true
       },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Handheld",
-        "Pan"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Salt & Pepper",
-        "Ketchup"
-      ],
-      "trafficDetect": [
-        "Shopping cart"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "COSTCO",
-        "DAISHO",
-        "HEINZ"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 1,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and conversational",
-        "pitch": "Sharp/High",
-        "loudness": "Loud",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Condiments / sauce",
+          "Japanese food / sushi"
+        ],
+        "trafficDetect": [
+          "Shopping cart"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "COSTCO",
+          "DAISHO"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drums"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Store"
-      ],
-      "audioQuality": "Field Recording"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 1,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 124,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Crowd Murmur"
+        ],
+        "crowdNoiseIntensity": 1,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone",
+          "Commercial/Recreational"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "Plastic / Bag Rustle",
+          "Mechanical Click / Latch"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Digital UI SFX"
+        ],
+        "soundEffectsIntensity": 2,
+        "soundEffectsCoverage": 1
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Mixed"
+        ]
+      },
+      "audio_narrative_log": "(1) A high-pitched female voice speaks with high energy and a fast speech rate about shopping deals. An upbeat electronic pop background music track plays simultaneously with a prominent synthetic beat. (2) Faint rustling sounds are heard as an object is picked up. A brief male voice responds off-camera with a low-arousal, supportive tone. (3) The female narrator continues her description, emphasizing the price and volume of the seasoning. The background noise floor includes a subtle room tone of a large retail space. (4) The music remains continuous throughout the sequence, maintaining a positive and promotional atmosphere. The vocals are clearly enunciated with frequent rising intonation to maintain audience engagement."
     }
   },
-  "high_inference_interpretations": {
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Shopping",
+        "Vlog",
+        "Product Showcase"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 3.57,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Contradiction -> Evidence -> Benefit Analysis",
-      "mainPurpose": "To advise consumers that a previously high-demand seasoning product is now readily available at Costco during the Black Friday period. It seeks to provide a shopping tip by highlighting the product's quality, large volume, and low price point to encourage viewers to purchase without the stress of crowds.",
-      "visualEmotion": "Energetic"
+      "narrativeStructure": "List-based: Hook -> Evidence -> Recommendation",
+      "mainPurpose": "The video serves as a shopping recommendation and informative vlog, highlighting a specific seasoning product at Costco that was once a trend but is now readily available during the Black Friday period. It aims to inform viewers about current store conditions and product value.",
+      "visualEmotion": [
+        "informative",
+        "energetic",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -164,15 +272,12 @@
         "Implicit",
         "Integrated"
       ],
-      "endorsementCues": "Direct product review, price mention, and location-specific recommendation.",
+      "endorsementCues": "The creator specifically features the brand 'Daisho' salt and pepper, showing the price tag and recommending its purchase at a specific retail chain (Costco).",
       "endorsementObject": [
-        "DAISHO",
-        "COSTCO"
+        "DAISHO Salt & Pepper",
+        "Costco Wholesale"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-energy 'shopping find' style common among lifestyle influencers.",
-      "freeDescribe": "The video leverages 'Black Friday' FOMO while providing a counter-intuitive tip that makes the content feel more exclusive and helpful."
-    }
+    "freeDescribe": "The video uses a typical social-media vertical vlog format with heavy text overlays to grab attention. The contrast between 'previously popular' and 'currently ignored' is used as a narrative hook."
   }
 }

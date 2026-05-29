@@ -1,164 +1,265 @@
 {
   "videoName": "3ctim-20251122231010-1499915831712918.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 40,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Product Review",
-        "Lifestyle"
-      ],
+      "videoDuration": 39,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "Japan"
+      "visual_narrative_log": "(1) A middle-aged man wearing a plaid flat cap, glasses, and a white sweatshirt with a \"ROOTS\" logo is sitting in an indoor setting. He speaks directly to the camera with an energetic facial expression while holding a transparent plastic bottle with a blue label. (2) A close-up shot focuses on the bottle labeled \"Tokusui\" sitting on a wooden table. In the background, a blurred window shows a city skyline under bright natural daylight. Large yellow and white text overlays appear over the bottle. (3) The man unscrews the blue cap of the bottle and takes a drink. He maintains a friendly and satisfied facial expression while looking towards the lens. The lighting is bright and even across the scene. (4) The man holds up a small white and green plastic bottle labeled \"BIO.\" He uses his free hand to point towards his stomach area, smiling and gesturing as he describes the product's benefits. (5) Another close-up shot shows the small \"BIO\" bottle being held in the man's hand. The label features Japanese characters and green graphics, emphasizing its health-focused nature. The setting remains the same indoor room. (6) The man takes a sip from the small bottle. He then holds both the large blue bottle and the small green bottle together, smiling broadly as he provides his final recommendation to the audience.",
+      "text_narrative_log": "(1) [Logo]: 3c有趣思tim哥. [Logo]: @3ctim. [Subtitle]: 現在日本 最紅的飲料. [Variety]: 現在日本. (2) [Subtitle]: 就是它特水啦. [Variety]: 特水. (3) [Subtitle]: 特水有三大特性. (4) [Subtitle]: 它是米糠經過特殊發酵. [Variety]: 特殊發酵. (5) [Subtitle]: 所以有助於調節脂肪代謝. [Variety]: 調節脂肪代謝. (6) [Subtitle]: 減少內臟脂肪形成. [Variety]: 減少內臟脂肪形成. (7) [Subtitle]: 還有 讓你 的腸道 也會比較好. [Variety]: 腸道. (8) [Subtitle]: (喝起來有種麥茶的味道) 啊不就水 對 可以回甘的水. (9) [Subtitle]: 第2款就是這個 我在超市買的. (10) [Subtitle]: 像我這種脂肪形成的話 就是要來燃燒脂肪的. [Variety]: 燃燒脂肪的. (11) [Subtitle]: 它不是直接燃脂哦 而是改善腸道的環境. (12) [Subtitle]: 讓你的身體更能燃燒脂肪 喝起來像藍莓優酪乳. (13) [Subtitle]: 反正你來日本喝這兩個就對了 你想要大吃大喝的話.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face"
         ],
-        "city": [
-          "Unknown"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video begins with a middle-aged male character sitting indoors, smiling and gesturing towards the camera while holding a large clear bottle of water. (2) The scene cuts to a close-up of the 'Suntory Tokusui' water bottle being rotated to show its label features. (3) The man is then shown drinking the water and reacting with a pleasant facial expression. (4) He then holds up a smaller green bottle of 'Danone Bio' yogurt drink, pointing at the label. (5) A close-up shot follows, showcasing the Japanese text on the 'Bio' bottle. (6) Finally, the man drinks the yogurt beverage, gives a thumbs-up, and poses with both bottles while smiling at the camera against a cityscape background through a window.",
-      "audio_narrative_log": "(1) A male voice starts speaking in a cheerful, energetic tone in Mandarin Chinese over a light, upbeat instrumental background music. (2) As the video progresses, the music remains consistent in the background while the male narrator explains the benefits of the drinks. (3) Occasional 'pop' or 'ding' sound effects (SFX) coincide with the appearance of text overlays on the screen. (4) The audio concludes with the narrator's final recommendation and the music fading out.",
-      "text_narrative_log": "(1) Functional Text: '現在日本' (Now in Japan) and '最紅的飲料' (Most popular drink) appear with a yellow highlight. (2) Functional Text: '特水' (Tokusui) and '調節脂肪代謝' (Regulate fat metabolism) used to describe the first product. (3) Decorative Text: '燃燒脂肪' (Burn fat) highlighted with a circling effect. (4) Functional Text: '第2款就是這個' (The 2nd one is this) introducing the second product. (5) Hook Text: '想大吃大喝的話' (If you want to eat and drink heavily) appearing at the end."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 11,
-      "averageSceneDuration": 3.6,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro -> Product 1 Review -> Product 2 Review -> Final Verdict"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Face"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main male creator presenting the products.",
-      "mainCharacterDescription": "A middle-aged man wearing glasses, a patterned flat cap, and a white sweatshirt with a 'ROOTS' logo."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Hotel Room",
-          "Studio"
+        "crowdLevel": [
+          "Single"
         ],
-        "topography": [
-          "Plain"
+        "countingEvidence": "1 male main character presenting products.",
+        "mainCharacterDescription": "A middle-aged man with glasses, wearing a patterned flat cap and a white sweatshirt with a logo."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Living Room",
+          "Hotel / Accommodation"
+        ],
+        "locationTopography": [
+          "Urban High-rise / Skyline"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A bright indoor room with a large window in the background showing a blurred city view. A wooden table is in the foreground.",
+        "lightingStyle": [
+          "Natural daylight",
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
         ]
       },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A modern indoor setting with a large window in the background showing an urban cityscape under daylight.",
-      "lightingStyle": "Bright natural light from the side window.",
-      "weather": "Sunny/Clear",
-      "season": "Unknown",
-      "editingPace": "Moderate",
-      "textOverlay": {
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Insert shot"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Scene-to-scene sequence"
+        ]
+      },
+      "visual_text_overlay": {
         "density": "High",
-        "language": [
+        "textLanguage": [
           "Traditional Chinese",
           "Japanese"
         ],
         "isSubtitled": true
       },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Close-up"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Water",
-        "Yogurt Drink"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartwatch"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Suntory",
-        "Danone",
-        "Roots"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Cheerful and informative",
-        "pitch": "Medium",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Beverage / juice",
+          "Tea"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartwatch / wearable"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Suntory",
+          "ROOTS",
+          "Danone BIO"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop",
-      "bgmBPM": 120,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "Pop SFX",
-        "Notification ding"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Mechanical Click / Latch",
+          "Liquid Pour / Splash"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Ding / Bell SFX",
+          "Whoosh / Transition SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) A male voice begins speaking Mandarin with high arousal and a bright, excited tone. The background music features a driving electronic beat with a consistent 4/4 rhythm and upbeat synthesizer textures. (2) As the speaker describes the first beverage, the vocal prosody exhibits high pitch variability and a fast speech rate. A bright, high-frequency \"ding\" sound effect is triggered to sync with visual graphic highlights. (3) A brief incidental sound of a liquid swallow and plastic bottle handling occurs during a slight pause in narration. The BGM maintains its steady energy and volume underneath the voice. (4) The speaker transitions to describing the second bottle with continued vocal confidence and high articulation clarity. The acoustic environment is very clean with high signal-to-noise ratio and minimal background hum. (5) The narration concludes with the same energetic delivery. The upbeat electronic music track remains consistent in tempo and harmonic structure until it abruptly stops at the end of the video segment."
     }
   },
-  "high_inference_interpretations": {
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Food Review",
+        "Shopping",
+        "Vlog"
+      ],
+      "location": {
+        "country": [
+          "Japan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 8,
+      "averageSceneDuration": 4.8,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Demonstration -> Explanation -> Call to Action",
-      "mainPurpose": "The video serves as a travel lifestyle recommendation guide for Chinese-speaking tourists visiting Japan. It specifically identifies and reviews two functional beverages marketed for health benefits (fat metabolism and gut health), aiming to inform viewers about trendy Japanese convenience store finds that help balance heavy eating during travel.",
-      "visualEmotion": "Energetic and Positive"
+      "narrativeStructure": "List-based: Introduction -> Item 1 description -> Usage demo -> Item 2 description -> Usage demo -> Closing recommendation",
+      "mainPurpose": "To recommend specific Japanese functional beverages (Suntory Tokusui and Danone BIO) that target fat reduction and gut health for travelers or consumers visiting Japan.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -166,15 +267,12 @@
         "Implicit",
         "Integrated"
       ],
-      "endorsementCues": "The creator specifically highlights brand benefits and encourages viewers to purchase these products while in Japan.",
+      "endorsementCues": "The creator prominently features and recommends specific branded products while explaining their functional health benefits.",
       "endorsementObject": [
-        "Suntory Tokusui",
-        "Danone Bio"
+        "Suntory",
+        "Danone BIO"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-energy variety-show style text overlays and a focus on Japanese trends.",
-      "freeDescribe": "The video targets health-conscious travelers and enthusiasts of Japanese convenience store culture."
-    }
+    "freeDescribe": "The video uses high-contrast text overlays and energetic audio-visual cues typical of social media product reviews to maintain high viewer engagement."
   }
 }

@@ -1,15 +1,243 @@
 {
   "videoName": "cocowine0205-20251018111508-785383667458325.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 38,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Shopping",
-        "Entertainment"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) The video opens in a bright, spacious warehouse-style store. A young woman with long black hair, wearing a light pink ribbed top and a white skirt, stands in front of a massive inflatable brown bear decoration wearing a Santa hat and a red scarf. She points toward the bear while speaking. (2) The camera zooms in on a shelf where a white price tag is displayed, showing the number 8,399. The woman points at the tag with a surprised expression. Behind her are stacked green boxes of Christmas decorations and golden reindeer figures. (3) The scene transitions to the woman walking past other shoppers with a shopping cart in the background. She stops in front of a different display featuring a large gingerbread man figure. She smiles and gestures toward it, then playfully touches its arm. Bright indoor lights and high warehouse ceilings are visible throughout.",
+      "text_narrative_log": "(1) [Logo]: COSTCO WHOLESALE. [Slogan]: 8399元買不買? 巨大聖誕小熊. [Variety]: 什麼?. (2) [Subtitle]: 一定要買這個. [Subtitle]: 那個. (3) [Subtitle]: 熊熊啊 聖誕節要到了. [Subtitle]: 太大了. (4) [Subtitle]: 你不是最喜歡過聖誕節. (5) [Subtitle]: 我喜歡 可是來好市多 就可以逛到很多燈飾. (6) [Variety]: 超大的耶. (7) [Subtitle]: 而且它怎麼樣. (8) [Slogan]: 一定會特價!. (9) [Subtitle]: 現在下單 跟好市多說 特價時後我來買. (10) [Subtitle]: 我們看看它多少錢. (11) [Subtitle]: 8399 有附地樁繩索 讓你個以固定在 你的室外地板上. (12) [Subtitle]: 它沒有附送通充氣機. (13) [Slogan]: 可以等特價399 的時候來買. (14) [Variety]: OK 然後你就會吹氣吹到\"屎\". (15) [Subtitle]: 沒有啦 我覺得更適合台灣的是這個. (16) [Slogan]: 這個好可愛我也喜歡這個.",
+      "visual_human_presence": {
+        "totalHumanCount": 4,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 3,
+        "kidsDetectAmount": 1,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Full body"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main female creator, 2 female shoppers in the background, 1 child partially visible in a cart.",
+        "mainCharacterDescription": "A young Asian woman with long straight black hair, wearing a pale pink off-the-shoulder short-sleeved top and a white midi skirt."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Supermarket / Warehouse Store"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A large warehouse retail interior with high ceilings, exposed metal beams, and industrial shelving. Bright white fluorescent lighting illuminates aisles filled with large boxed merchandise and Christmas displays including inflatable figures and illuminated reindeer.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Winter"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Panning",
+          "Zoom in"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Jump cut",
+          "Fast cuts",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Plush / decoration / toy animal"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "Shopping cart"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Costco"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 1,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly",
+          "Humorous"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Acoustic/Folk",
+          "Pop"
+        ],
+        "tempoBPM": 115,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "String",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Guitar",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Crowd Murmur"
+        ],
+        "crowdNoiseIntensity": 1,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Pop / Bubble SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) A cheerful, rhythmic acoustic guitar track begins immediately, accompanied by a bright female voice speaking with high energy and an excited tone. (2) A sharp 'whoosh' sound effect occurs as the camera pans, marking a transition in the visual focus. The speaker's pitch rises when mentioning the price. (3) A subtle 'pop' sound effect is heard as a text graphic appears. The female speaker continues at a fast pace, while a male voice off-camera provides short, humorous rebuttals in a slightly lower, teasing tone. (4) The BGM remains consistent in tempo and volume, providing a steady energetic backdrop to the continuous dialogue. Faint background murmur of the store is audible during brief pauses in speech."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Shopping",
+        "Vlog",
+        "Lifestyle"
+      ],
       "location": {
         "country": [
           "Taiwan"
@@ -19,159 +247,31 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) Live-action video begins with a woman in a pink top and white skirt standing in a Costco warehouse, pointing at a giant inflatable Christmas bear on a shelf. (2) Camera cuts between her gestures and the bear, then pans down to show boxes of the product and a price tag. (3) The woman walks through the store aisles with a shopping cart, reaching another display area. (4) She stops at a shelf with gingerbread man plush toys, touching one and smiling at the camera.",
-      "audio_narrative_log": "(1) Upbeat, holiday-themed music with jingling bells and a rhythmic beat starts. A female voice speaks excitedly in Mandarin about the Christmas bear. (2) An off-screen male voice responds, creating a conversational tone. Sound effects (pings) coincide with text overlays. (3) Ambient noise of a large retail store is faintly audible behind the music. (4) The female voice continues to describe the products as she moves, maintaining a high-pitched, energetic tone until the video ends.",
-      "text_narrative_log": "(1) 8399元買不買? 巨大聖誕小熊 (Hook: Questioning the price). (2) 一定要買這個 (Decorative: Urgency). (3) 哪一個 (Functional: Dialogue). (4) 小熊啊 聖誕節要到了 (Functional: Narrative context). (5) 8399 有附地樁繩索 (Functional: Product details). (6) 可以等特價399的時候來買 (Decorative/Humorous: Sarcasm/Hook). (7) 這個好可愛 我也喜歡這個 (Decorative: Emotional expression)."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 14,
-      "averageSceneDuration": 2.7,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro to product -> Humor/Dialogue about price -> Transition to new product"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 4,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 3,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 main female creator, 2 female shoppers in background, 1 male arm visible briefly near cart",
-      "mainCharacterDescription": "An Asian woman with long dark hair, wearing a light pink short-sleeved top and a white textured skirt."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Warehouse Store"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A Costco warehouse store interior with high ceilings, industrial shelving, large quantities of Christmas decorations (trees, bears, reindeer), and shopping carts.",
-      "lightingStyle": "Bright indoor warehouse lighting",
-      "weather": "Indoor",
-      "season": "Winter (Christmas season)",
+      "sceneCutCount": 12,
+      "averageSceneDuration": 3.1,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Chinese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Follow shot"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "Bear (Inflatable)"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "COSTCO WHOLESALE"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 2,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and energetic",
-        "pitch": "High",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Holiday Pop",
-      "bgmBPM": 125,
-      "instrumentFamiliesAudible": [
-        "Keyboard",
-        "Percussion",
-        "Electronic"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Bells",
-        "Drums"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Ding",
-        "Pop"
-      ],
-      "ambientNoise": [
-        "Store chatter",
-        "Cart movement"
-      ],
-      "audioQuality": "Field"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Interaction -> Pivot",
-      "mainPurpose": "The video serves as a lifestyle/shopping vlog designed to entertain viewers while showcasing Christmas seasonal products at Costco. It uses humor (the joke about waiting for a 399 price tag) and high-energy presentation to engage the audience in a relatable 'shopping trip' experience.",
-      "visualEmotion": "Cheerful and festive"
+      "narrativeStructure": "List-based: Hook -> Observation -> Commentary -> Alternative Choice",
+      "mainPurpose": "To share a casual and humorous shopping experience at Costco, highlighting high-priced seasonal decorations and providing personal commentary on their value.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
-      "isEndorsement": true,
+      "isEndorsement": false,
       "endorsementMethod": [
-        "Implicit",
-        "Integrated"
+        "None"
       ],
-      "endorsementCues": "The creator is actively showcasing specific products with prices inside a branded store (Costco).",
+      "endorsementCues": "Organic shopping vlog style without clear promotional markers.",
       "endorsementObject": [
-        "COSTCO WHOLESALE"
+        "Costco"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-density variety-show style text overlays and dialogue with an off-screen cameraman.",
-      "freeDescribe": "The video targets young adults/shoppers in Taiwan interested in seasonal home decor and wholesale shopping trends."
-    }
+    "freeDescribe": "A typical social-media style shopping vlog characterized by high-density text overlays and upbeat music to maintain viewer engagement."
   }
 }

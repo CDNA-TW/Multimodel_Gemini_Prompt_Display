@@ -1,13 +1,227 @@
 {
   "videoName": "yga0721-20250408132842-1221883949463628.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 25,
-      "aspectRatio": "1:1",
-      "videoGenre": [
-        "Security Footage"
-      ],
+      "videoDuration": 24,
+      "aspectRatio": "16:9"
+    },
+    "visual_base": {
       "withRealPeople": false,
+      "visual_narrative_log": "(1) The video presents a high-resolution, wide-angle view of a modern living room and dining area, captured from a high fixed position. In the foreground, a plush grey sofa sits on the right, bordering a dark green area rug that holds two nested wooden circular coffee tables. The midground features a long, low wooden TV console topped with various small green potted plants and a large, black flat-screen television. To the right of the console, a dining set with a light-colored wooden table and four matching chairs is visible, situated near a dark brown entrance door and a wooden staircase. The lighting is bright and uniform, suggesting strong indoor overhead lights illuminating the entire open-plan space. (2) The entire visual frame suddenly experiences a series of intense, rapid horizontal and vertical vibrations. The camera perspective jitters violently, making the walls, furniture, and objects appear to shake as if during a significant seismic event. Despite the vigorous motion of the camera frame, large objects like the sofa, TV, and dining table do not appear to slide across the floor or topple over, though the intensity of the shaking is visually pronounced. (3) The violent shaking of the frame abruptly stops, and the scene returns to a completely static state. The room's arrangement remains identical to the first phase, with all furniture and decorations, including the small plants on the TV stand and the items on the kitchen counter in the background, appearing undisturbed. The lighting conditions remain consistent and bright, and the static wide-angle perspective of the room is maintained until the end of the recording.",
+      "text_narrative_log": "None",
+      "visual_human_presence": {
+        "totalHumanCount": 0,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 0,
+        "bodyPartVisibility": [
+          "None"
+        ],
+        "crowdLevel": [
+          "None"
+        ],
+        "countingEvidence": "None",
+        "mainCharacterDescription": "None"
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "The background consists of a modern, tidy home interior featuring white walls, light-tiled flooring, and minimalist wooden furniture. A kitchen area with cabinets and appliances is visible in the far midground, while a set of wooden stairs with a metal railing and a dark wooden door are located on the right side of the frame.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Shaky camera"
+        ],
+        "shotSize": [
+          "Wide shot"
+        ],
+        "cameraAngles": [
+          "High angle"
+        ],
+        "editingTechniques": [
+          "None"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "None",
+        "textLanguage": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "TV / display screen"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Object Impact / Thud / Drop"
+        ],
+        "incidentalNoiseIntensity": 3,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 2,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 3,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 1,
+        "audioCutFrequency": 0,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a period of near-complete silence, capturing only the very faint, low-frequency hum of a quiet indoor environment. There is no background music, no human speech, and no identifiable sound effects during this initial phase. The acoustic atmosphere is extremely calm and neutral, reflecting the empty room shown in the video. (2) A sudden, high-intensity sound event occurs, characterized by several loud, percussive thuds and a series of low-frequency rumbling noises. These sounds are sharp and broadband, typical of physical impacts or the vibrations of building materials. The acoustic energy spikes significantly, drowning out the previous ambient silence with chaotic, non-musical, and non-vocal sounds that last for approximately two seconds. (3) Following the loud rumbling, the audio track quickly settles back into its original state of low-level ambient room tone. The sharp impacts and vibrations cease completely, leaving only a quiet, static noise floor. No further distinct sound events, voices, or musical elements are heard for the remainder of the recording, mirroring the visual return to a state of stillness."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Other"
+      ],
       "location": {
         "country": [
           "Unknown"
@@ -17,137 +231,19 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video starts with a static wide-angle shot of a modern apartment's living and dining area; the room is tidy with a large TV, sofa, and dining table visible. (2) At 00:07, a sudden earthquake occurs, causing the entire frame to shake violently; dust and small particles are seen falling from the ceiling while furniture and plants vibrate intensely. (3) The shaking gradually subsides around 00:20, and the scene returns to a static state with the interior layout remaining largely unchanged despite the seismic event.",
-      "audio_narrative_log": "(1) The audio begins with a silent indoor environment with minimal background hum. (2) At 00:07, a loud, low-frequency rumbling sound starts abruptly, accompanied by the sharp, chaotic rattling of household objects and the building's structure. (3) The intense rumbling and rattling continue for approximately 12 seconds before fading out, eventually returning to the initial silence of the room.",
-      "text_narrative_log": "(1) Functional Text: A digital timestamp in the top-left corner reads '2025/01/21 00:17:32' and increments throughout the video, providing a factual record of the event's timing."
-    },
     "temporal_pacing_summary": {
       "sceneCutCount": 0,
-      "averageSceneDuration": 25.0,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Steady indoor shot -> Sudden earthquake shaking -> Return to stillness"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 0,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 0,
-      "bodyPartVisibility": [
-        "None"
-      ],
-      "crowdLevel": "None",
-      "countingEvidence": "No humans appear in the frame throughout the duration of the clip.",
-      "mainCharacterDescription": "None"
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Living Room",
-          "Kitchen"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A modern, well-lit interior featuring a television on a long white console, a grey sofa with a green rug, two round wooden coffee tables, and a wooden dining set in the background near a kitchen area.",
-      "lightingStyle": "Bright indoor lighting",
-      "weather": "Indoor",
-      "season": "Unknown",
+      "averageSceneDuration": 24.0,
       "editingPace": "Slow",
-      "textOverlay": {
-        "density": "Low",
-        "language": [
-          "None"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static"
-      ]
+      "isNarrativeShift": false
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "TV"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "None",
-      "vocalRatio": "None"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 0,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "None",
-        "pitch": "None",
-        "loudness": "None",
-        "speed": "None",
-        "speechDensity": "None",
-        "language": [
-          "None"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": false,
-      "bgmGenre": "None",
-      "bgmBPM": 0,
-      "instrumentFamiliesAudible": [
-        "None"
-      ],
-      "instrumentsAudible": [
-        "None"
-      ],
-      "musicSourceType": [
-        "None"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "Rumbling",
-        "Rattling"
-      ],
-      "ambientNoise": [
-        "Indoor quiet"
-      ],
-      "audioQuality": "Field"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Stillness -> Event -> Resolution",
-      "mainPurpose": "The video is a piece of surveillance documentation intended to record the physical impact and structural response of a residential home during a seismic event. It captures the sudden transition from a peaceful environment to intense shaking and the subsequent return to safety.",
-      "visualEmotion": "Alarming"
+      "narrativeStructure": "Linear: Observation -> Disturbance -> Observation",
+      "mainPurpose": "The video serves as a security camera record documenting a sudden environmental disturbance, likely an earthquake, within a residential setting. It captures the peaceful living room environment, the violent shaking of the camera during the event, and the subsequent return to calm, providing raw evidence of the event's duration and visual impact on the structure.",
+      "visualEmotion": [
+        "Calm",
+        "Tense"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -159,9 +255,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-angle security camera perspective with timestamp overlay.",
-      "freeDescribe": "The video effectively demonstrates the intensity of the earthquake through the visible shaking of heavy furniture and the falling of ceiling dust."
-    }
+    "freeDescribe": "The video is a single-take surveillance recording. The shaking is likely due to the camera's mount vibrating during an earthquake rather than a handheld motion."
   }
 }

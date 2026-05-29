@@ -1,169 +1,290 @@
 {
   "videoName": "yga0721-20251116230817-889844317086249.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 125,
-      "aspectRatio": "1:1",
-      "videoGenre": [
-        "Vlog",
-        "Announcement",
-        "Social Service"
-      ],
+      "videoDuration": 125.7,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) Two hosts, a male with brown hair wearing a white long-sleeved shirt and blue denim overalls, and a female with long dark hair wearing a white sweatshirt with a large red flower logo, sit behind a white table in a bright indoor studio. They are smiling and vigorously shaking hands while looking at the camera. The background features a warm floor lamp, a white cabinet with books and a basket, and some pink cherry blossom decorations. (2) A graphic transition occurs, showing a still photo framed in a blue border with cat and cloud icons. The photo depicts a large group of young people posing on a beach with the sea in the background. Large text overlays appear on the graphic. (3) The camera cuts back to the hosts at the table. They use active hand gestures, pointing and waving, while maintaining high-energy facial expressions. Text bubbles and variety-style captions pop up around them. (4) Another graphic transition shows a still photo of a student group in a classroom setting, framed with a grid pattern. The hosts continue to narrate over these transitions, alternating between on-camera segments and full-screen graphic displays of various student service teams. (5) In the final segment, the hosts are back on camera. The male host gestures broadly with his arms, showing off his clothing. They both smile and clap towards the end, maintaining a friendly and enthusiastic posture until the video concludes.",
+      "text_narrative_log": "(1) [Subtitle]: 恭喜恭喜. [Subtitle]: 承讓承讓. (2) [Subtitle]: 沒事啦. [Subtitle]: 好里家的理事長還得是你啊. (3) [Subtitle]: 那是當然的啊. [Subtitle]: 感謝感謝. (4) [Logo]: 好里家. [Slogan]: 嘎哥連任好里家第二屆理事長. (5) [Slogan]: 入選名單好里家第6屆大專福利社. (6) [Subtitle]: 第一間入選的是中國醫藥大學風浪藥學服務社. (7) [Variety]: 淨灘. [Variety]: 育樂營. [Variety]: 健檢. (8) [Subtitle]: 第二間入選的是臺北醫學大學山地社會醫療服務團. (9) [Slogan]: 南投仁愛鄉的部落服務. (10) [Subtitle]: 第三間恭喜高雄師範大學宏遠社會服務社. (11) [Slogan]: 里港玉田小學. (12) [Subtitle]: 第四屆入選的是國立高雄師範大學數學教育推廣隊. (13) [Variety]: 把數學變有趣. (14) [Subtitle]: 第五間恭喜台灣大學慈幼山友團. (15) [Subtitle]: 最後一間我們恭喜國立台灣藝術大學國際紅豆社. (16) [Slogan]: 5萬元的獎助學金. [Slogan]: 30件的hahababy聯名團服. (17) [Logo]: hahababy.",
+      "visual_human_presence": {
+        "totalHumanCount": 22,
+        "maleDetectAmount": 10,
+        "femaleDetectAmount": 12,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Duo",
+          "Crowd"
+        ],
+        "countingEvidence": "2 main hosts; approximately 20 distinct individuals appearing in various group photos used as visual evidence.",
+        "mainCharacterDescription": "Male host in a white shirt and blue denim overalls with brown hair; Female host in a white sweatshirt with a large red poppy flower logo and hair clips."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio",
+          "Beach / Coast",
+          "Classroom / School",
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban",
+          "Coastline / Beach"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A bright studio with a white table, a floor lamp, a mantel-like shelf with plants, and pink floral decorations. Injected still photos show a beach with a breakwater and a classroom with a whiteboard.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Sunny / Clear",
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Graphic transition",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Cartoon / animated animal"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "hahababy"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 1,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Synthesizer",
+          "Percussion",
+          "Electronic"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Impact / Hit SFX",
+          "Pop / Bubble SFX",
+          "Ding / Bell SFX",
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Stingers"
+        ],
+        "audioEventDensity": 5,
+        "audioCutFrequency": 4,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) Fast-paced, high-arousal male and female dialogue begins immediately. Voices are sharp and energetic with clear articulation. A bouncy, high-tempo synthesizer BGM plays underneath. A cartoonish sliding 'whoosh' SFX triggers at the first second. (2) A sharp 'ding' SFX sounds at 0:18 as a transition occurs. The music shifts slightly in volume but remains consistent in tempo. (3) Throughout the middle section, recurring 'pop' and 'bubble' SFX punctuate the speech whenever keywords are mentioned or text appears. (4) At 1:00, a high-pitched 'impact' SFX triggers. The vocal pitch of the male speaker rises during specific group announcements. (5) Toward the end, at 1:40, the music swells slightly. Frequent 'whoosh' sounds mark the rapid cuts between hosts and graphics. The final seconds feature a rhythmic clapping sound and a light stinger effect as the audio fades."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Promotion / Advertisement / Indoresment",
+        "News / Commentary"
+      ],
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "None"
+          "Taipei",
+          "Kaohsiung",
+          "Nantou",
+          "Pingtung"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video starts with a man (Cai Aga) and a woman (Er Bo) sitting at a white table, shaking hands enthusiastically with exaggerated facial expressions of joy. (2) Cai Aga begins addressing the camera directly, gesturing widely with his hands, while Er Bo listens and nods beside him. (3) The scene transitions to a series of still photographs showing various university student service teams posing together, each photo accompanied by descriptive text. (4) The hosts return to the screen, clapping their hands and displaying the rewards (scholarships and apparel) while maintaining a high-energy interaction.",
-      "audio_narrative_log": "(1) Upbeat, fast-paced background music begins immediately. A male voice speaks in a very high-pitched, excited, and loud tone, with a female voice providing shorter, supportive interjections. (2) The male narrator continues at a high speech density, describing the achievements of different service groups. (3) Sound effects of cheering and clapping are integrated when winners are mentioned. (4) The music maintains its tempo throughout, ending with the hosts speaking in a friendly, conversational manner as the volume fades.",
-      "text_narrative_log": "(1) '恭喜恭喜' (Congratulations) - celebratory hook. (2) '嘎哥連任好里家第二屆理事長' (Aga re-elected as chairman) - decorative text. (3) '入選名單' (Selection list) - functional text. (4) Names of various university clubs like '中國醫藥大學 風浪藥學服務社' - functional text identifying winners. (5) '5萬元的獎助學金' (50,000 TWD scholarship) and '30件的hahababy聯名團服' (30 hahababy uniforms) - functional text detailing prizes."
     },
     "temporal_pacing_summary": {
-      "sceneCutCount": 16,
-      "averageSceneDuration": 7.8,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro -> Detailed announcement with photo slides -> Prize reveal -> Outro"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 110,
-      "maleDetectAmount": 50,
-      "femaleDetectAmount": 60,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Crowd",
-      "countingEvidence": "2 main hosts on screen; approximately 100+ students appearing in the 6 group photos shown during the slides.",
-      "mainCharacterDescription": "The main male character has dyed brown hair and wears a white long-sleeve shirt under denim overalls. The female character has long dark hair with colorful clips and wears a white sweatshirt with a large red flower design."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Studio"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A bright indoor room with a white table in the foreground. Background includes a floor lamp, a small cabinet with a basket, and some indoor plants. Slideshow sections show outdoor campus settings and beaches.",
-      "lightingStyle": "Bright studio lighting",
-      "weather": "Unknown",
-      "season": "None",
+      "sceneCutCount": 24,
+      "averageSceneDuration": 5.2,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "hahababy"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and enthusiastic",
-        "pitch": "High",
-        "loudness": "Loud",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "Clapping",
-        "Cheering"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Announcement of Winners -> Prize Summary -> CTA",
-      "mainPurpose": "To announce the selected university student service groups for the 'Hao Li Jia' welfare project and reveal the scholarships and custom team uniforms provided as rewards, encouraging social service among youth.",
-      "visualEmotion": "Energetic"
+      "narrativeStructure": "List-based: Introduction -> Announcement of Award Winners -> Prize Description -> Conclusion",
+      "mainPurpose": "To announce the six student service organizations selected for the 6th 'Holi-jia' grant program, highlighting their volunteer work and the rewards they will receive.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
-        "Explicit/Integrated"
+        "Explicit",
+        "Full"
       ],
-      "endorsementCues": "The video explicitly mentions and displays the 'hahababy' brand as the provider of the team uniforms for the winners.",
+      "endorsementCues": "The hosts are wearing clothing from the brand 'hahababy', their logo is frequently displayed, and the brand is explicitly mentioned as a prize provider.",
       "endorsementObject": [
         "hahababy"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Cai Aga's signature high-energy and exaggerated hosting style.",
-      "freeDescribe": "The video effectively combines community service recognition with brand promotion (hahababy) targeting a student demographic."
-    }
+    "freeDescribe": "The video uses a high-energy variety show editing style to maintain engagement during an informational announcement. The audio-visual synchronization of sound effects and text pop-ups is highly dense."
   }
 }

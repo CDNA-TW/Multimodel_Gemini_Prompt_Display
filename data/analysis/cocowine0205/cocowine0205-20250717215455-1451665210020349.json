@@ -1,166 +1,274 @@
 {
   "videoName": "cocowine0205-20250717215455-1451665210020349.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 43,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Food Review",
-        "Shopping"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) The video begins in a Costco supermarket refrigerated section. Two young Asian women stand in front of pizza shelves. One is wearing a black beret, a white lace dress, and black accessories, while the other is in a black top. They smile and point at the products. (2) A close-up shot focuses on a cardboard pizza box behind glass. The pizza inside is densely topped with large shrimp and red sauce. Price tags are visible on the shelf edge. (3) Back to the two women holding the pizza box. Their facial expressions are exaggerated with surprise and excitement, mouths open. The background shows blurred supermarket aisles and other shoppers. (4) The setting shifts to a brightly lit indoor room. The women hold a slice of the seafood pizza, showing the melted cheese stretching. Text overlays appear at the bottom. (5) Close-up shots show the pizza toppings in detail: large pink shrimp, white squid rings, sliced red onions, green peppers, and halved cherry tomatoes on a golden crust. (6) The women taste the pizza and provide a review. They use hand gestures, including a thumbs-up and pointing at the ingredients, while maintaining a cheerful and animated demeanor.",
+      "text_narrative_log": "(1) [Logo]: COSTCO WHOLESALE. [Variety]: 滿滿餡料. [Slogan]: 海鮮總匯披薩. (2) [Subtitle]: 搶先開箱海鮮總匯PIZZA. (3) [Subtitle]: 通常他們冷藏區的披薩都超級好吃. (4) [Subtitle]: 然後這一個那麼大. (5) [Subtitle]: 349元它裡面有蝦子蛤蜊肉跟透抽. (6) [Subtitle]: 我感覺是有史以來最誠意的料耶. (7) [Subtitle]: 那最重要的是好不好吃回去試看看. (8) [Variety]: 好市多 海鮮總匯披薩. (9) [Subtitle]: 上面滿滿的海鮮料. (10) [Subtitle]: 有蛤蜊肉大鮮蝦還有透抽以外呢. (11) [Subtitle]: 它上面還撒滿了滿滿的青椒跟洋蔥丁. (12) [Subtitle]: 所以吃起來會有一點微微辣辣非常爽脆的口感. (13) [Subtitle]: 因為有墨西哥辣椒在裡面. (14) [Subtitle]: 沒有錯然後它的起司偏少. (15) [Subtitle]: 可是海鮮味非常的濃厚. (16) [Subtitle]: 吃起來整體來說不錯我們給它8分. (17) [Subtitle]: 如果喜歡海鮮的人可以試試看. (18) [Subtitle]: 因為這個吃起來像是義式餐廳現做披薩. (19) [Subtitle]: 然後料給的很多. (20) [Variety]: 用料誠意.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "2 female creators/hosts.",
+        "mainCharacterDescription": "One woman wears a black beret and a white lace dress; the other wears a black off-the-shoulder top with red earrings."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Supermarket / Warehouse Store",
+          "Indoor Home"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "Starts in a warehouse supermarket (Costco) with industrial shelving and refrigerated glass cases; transitions to a clean indoor residential setting with warm lighting.",
+        "lightingStyle": [
+          "Bright indoor lighting",
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright",
+          "Warm"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Graphic transition",
+          "Slow motion"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Fast food / burger / fries / pizza",
+          "Seafood / fish / shrimp",
+          "Vegetables",
+          "Prepared meal / plated dish"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Costco"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 0,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM",
+          "Pop"
+        ],
+        "tempoBPM": 124,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Pop / Bubble SFX",
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with an upbeat, high-energy electronic pop track. A female voice with a high pitch and excited tone introduces the subject. The voice exhibits clear articulation and high emotional arousal. (2) As the speaker lists ingredients like shrimp and clams, her pitch fluctuates dynamically to create emphasis. The background music remains consistent with a strong 4/4 beat. (3) A sharp 'whoosh' transition sound effect occurs between scene changes. The speaker's delivery speed increases slightly, maintaining a high speech density. (4) During the tasting phase, subtle 'pop' sound effects accentuate key points in the dialogue. The music continues as a bright, rhythmic bed under the clear, professional-grade vocal recording. (5) The video concludes with a final enthusiastic summary and a high-pitched exclamation, with the music fading out quickly after the final word."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Food Review",
+        "Shopping",
+        "Vlog"
+      ],
       "location": {
         "country": [
-          "Taiwan"
+          "Unknown"
         ],
         "city": [
           "Unknown"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) Two women are standing in front of a refrigerated display case in a Costco warehouse; one is wearing a white dress and a navy beret, the other a black top. They hold a large pizza box and gesture excitedly towards the camera. (2) The camera zooms in on several boxes of 'Seafood Supreme Pizza' on the shelf. (3) The scene shifts to an indoor dining setting where the same two women are holding slices of the cooked pizza, pointing out the specific toppings like shrimp and squid. (4) Close-up shots of the pizza reveal melting cheese, large shrimp, and green peppers. One woman takes a bite with a satisfied facial expression, nodding and giving a thumbs-up gesture.",
-      "audio_narrative_log": "(1) Fast-paced, upbeat electronic pop music begins immediately. A high-pitched, energetic female voice speaks rapidly in Mandarin, sounding excited and welcoming. (2) The same voice continues as the music maintains a steady, rhythmic beat; environmental sounds of a warehouse (faint background chatter) are present but muffled by the voiceover. (3) The audio shifts to a cleaner indoor acoustic environment. The female voice becomes more descriptive, highlighting specific ingredients with rising intonation to show surprise. (4) The music continues at the same volume until the end, punctuated by the sounds of the women reacting with 'oohs' and 'aahs' as they taste the food.",
-      "text_narrative_log": "(1) Functional Text: 'COSTCO WHOLESALE' logo appears at the top throughout the first half. (2) Hook Text: '海鮮總匯披薩' (Seafood Supreme Pizza) in large yellow and red stylized font. (3) Functional Text: Subtitles translate the dialogue, e.g., '349元裡面有蝦子蛤蜊肉跟透抽' ($349 includes shrimp, clam meat, and squid). (4) Decorative Text: '非常爽脆的口感' (Very crispy texture) and '我們給它8分' (We give it 8 points) appear with flame or sparkle stickers for emphasis."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 14,
-      "averageSceneDuration": 3.0,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro at store -> Close-up of product -> Tasting at home -> Rating and summary"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Waist up"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "2 main female creators/reviewers appearing in both store and home scenes.",
-      "mainCharacterDescription": "One woman has long dark hair, wearing a white lace dress and a navy blue Kangol beret. The other has long dark hair and is wearing a black cold-shoulder top with red tassel earrings."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Costco",
-          "Indoor Dining Room"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "The first scene is a brightly lit Costco warehouse with refrigerated shelves full of pre-packaged food. The second scene is a warm-toned indoor room with a table and soft lighting.",
-      "lightingStyle": "Intense studio-like lighting in the store, warm domestic lighting at home.",
-      "weather": "Unknown",
-      "season": "Unknown",
+      "sceneCutCount": 18,
+      "averageSceneDuration": 2.3,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "High Saturation",
-      "cameraWork": [
-        "Static",
-        "Follow shot",
-        "Close-up"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Pizza",
-        "Shrimp",
-        "Squid",
-        "Clams",
-        "Green Peppers",
-        "Onions"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Costco",
-        "Kangol"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 2,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "High-pitched, excited, and persuasive",
-        "pitch": "High",
-        "loudness": "Loud",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat/Electronic",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Pop sounds for text appearing"
-      ],
-      "ambientNoise": [
-        "Store hum"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Discovery -> Evaluation -> Verdict",
-      "mainPurpose": "The video aims to provide a fast-paced, enthusiastic review of the 'Seafood Supreme Pizza' from Costco. It leverages the excitement of finding a value-packed item in-store and then validates the purchase through a taste test, ultimately recommending the product to viewers by giving it a high numerical score.",
-      "visualEmotion": "Energetic"
+      "narrativeStructure": "Linear: Hook -> Evidence -> Evaluation",
+      "mainPurpose": "To review and promote a specific seafood pizza from Costco by demonstrating its value, ingredient quality, and taste profile through an energetic vlog-style presentation.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -168,14 +276,11 @@
         "Implicit",
         "Integrated"
       ],
-      "endorsementCues": "The video explicitly names the retailer and the specific product, showcasing the brand logo and providing price information while giving a positive recommendation.",
+      "endorsementCues": "The video focuses entirely on showcasing a Costco-branded product with positive commentary and visual emphasis on the brand logo.",
       "endorsementObject": [
         "Costco"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Dual-host female chemistry, high-density colorful text overlays, and fast-paced editing characteristic of Taiwanese food vloggers.",
-      "freeDescribe": "The video relies heavily on the 'Costco' brand authority to attract viewers interested in warehouse deals and food recommendations."
-    }
+    "freeDescribe": "The video uses typical social-media editing tropes such as high-contrast colors, fast cuts, and frequent sound effects to maintain viewer engagement."
   }
 }

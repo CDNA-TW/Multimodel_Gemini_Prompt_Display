@@ -1,174 +1,276 @@
 {
   "videoName": "3ctim-20250218131707-25772003975825997.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 18,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Tutorial",
-        "Tech Tips"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "None"
+      "visual_narrative_log": "(1) A middle-aged man with glasses and a gray flat cap is speaking directly to the camera. He is wearing a green sweatshirt with white lettering and is gesturing with his hands. The background is a soft-focus studio setting with warm lighting. (2) The scene cuts to a close-up of a hand holding a smartphone. The screen displays the iPhone settings menu. A finger scrolls through the list and taps on the 'Photos' entry. The desk environment is visible in the background. (3) Within the Photos settings on the smartphone, the finger taps to select the 'Keep Originals' option. The lighting is bright and clear on the screen. (4) The visual transitions to the Photos app showing a high-resolution image of a Corgi dog lying on a bed with pink linens. The user taps the share icon. (5) A share options overlay appears on the screen. The user selects 'Options' and toggles the 'All Photos Data' switch to the green 'on' position. (6) The man returns to the frame, smiling and pointing towards the camera as large text overlays appear. The studio lighting remains consistent.",
+      "text_narrative_log": "(1) [Logo]: @3ctim. [Slogan]: 為什麼我用 AirDrop. (2) [Variety]: 畫質怪怪的!. (3) [Slogan]: 那是因為你. (4) [Slogan]: 沒有做. (5) [Subtitle]: 首先呢 點開. (6) [Subtitle]: 設定 > 照片. (7) [Subtitle]: 最下面的選擇. (8) [Subtitle]: 保留原始檔. (9) [Subtitle]: 回到相簿以後 按分享 > 選項. (10) [Subtitle]: 所有照片資料 打開. (11) [Subtitle]: 這個時候 你就可以得到. (12) [Slogan]: 100% 原味照片啦!.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Head and shoulders",
+          "Face",
+          "Hands only"
         ],
-        "city": [
-          "None"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A man with a flat cap and glasses speaks directly to the camera, using hand gestures to emphasize a problem with photo quality. (2) The scene transitions to a screen recording of an iPhone, navigating through Settings to the Photos app. (3) The recording demonstrates toggling the 'Keep Originals' option and the 'All Photos Data' switch within the AirDrop share options. (4) A photo of a Corgi is used as a demonstration subject in the gallery. (5) The man reappears in a circular inset at the bottom right corner while the screen shows the final result with high-quality text overlays.",
-      "audio_narrative_log": "(1) A male voice speaks enthusiastically in Mandarin, posing a question about AirDrop quality and transitioning into an instructional tone. (2) Upbeat, rhythmic background music with an electronic beat plays throughout the video. (3) Audible click sound effects occur when buttons are pressed on the phone interface. (4) The music and narration continue together until the end, concluding with a final upbeat flourish.",
-      "text_narrative_log": "(1) Decorative Text: '為什麼我用 AirDrop' (Why do I use AirDrop) and '畫質怪怪的!' (The image quality is weird!) expressing a common user pain point. (2) Functional Text: '那是因為你這設定沒做' (That's because you haven't done this setting). (3) Functional Text: '點開 設定 > 照片' (Open Settings > Photos) providing step-by-step instructions. (4) Functional Text: '分享 > 選項' (Share > Options). (5) Hook Text: '100% 原味照片啦!' (100% original photos!) in a celebratory tone."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 12,
-      "averageSceneDuration": 1.5,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Hook -> Problem -> Step-by-step Tutorial -> Final Result"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 male main creator appearing throughout the video.",
-      "mainCharacterDescription": "A male wearing a grey flat cap, glasses, and a grey sweatshirt with 'OUTS' text."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Studio"
+        "crowdLevel": [
+          "Single"
         ],
-        "topography": [
-          "None"
+        "countingEvidence": "1 main male creator presenting a tutorial.",
+        "mainCharacterDescription": "A middle-aged man wearing glasses, a green sweatshirt, and a light gray flat cap."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio",
+          "Digital Interface / Screen Capture"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "Alternates between a blurred studio background with soft lighting and a high-definition screen capture of an iPhone interface.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
         ]
       },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A dark, soundproofed studio background for the speaker segments; white/standard iOS interface for the tutorial segments.",
-      "lightingStyle": "Intense studio lights",
-      "weather": "None",
-      "season": "None",
-      "editingPace": "Fast",
-      "textOverlay": {
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Screen recording / screen capture"
+        ],
+        "shotSize": [
+          "Medium close-up",
+          "Extreme close-up",
+          "Screen / interface close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Top-down / overhead"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Fast cuts",
+          "Screen recording edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
         "density": "High",
-        "language": [
+        "textLanguage": [
           "Traditional Chinese",
           "English"
         ],
         "isSubtitled": true
       },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "POV"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "Dog"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone",
-        "Laptop"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Apple",
-        "Facebook",
-        "Instagram"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Friendly and professional",
-        "pitch": "Medium",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Traditional Chinese"
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Dog"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "AirDrop"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Click"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM",
+          "Pop"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Digital UI SFX",
+          "Pop / Bubble SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A vibrant male voice begins speaking in an upbeat, instructional tone. Simultaneously, a rhythmic electronic pop background track with a prominent synth bassline and drum machine beat starts at a moderate volume. (2) A short, bright digital 'ping' sound effect occurs as the speaker transitions to the first step of the tutorial. The music continues without interruption. (3) The speaker's delivery becomes faster and more enunciated during the menu navigation description. The background music maintains a consistent energy level. (4) A soft digital 'click' sound is heard, indicating a screen interaction. The vocal remains the primary focus with high clarity. (5) The narration reaches a high-arousal conclusion, with the speaker sounding enthusiastic. The background music swells slightly and then fades abruptly as the speech ends."
     }
   },
-  "high_inference_interpretations": {
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Tutorial / How-to",
+        "Tech Review"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 16,
+      "averageSceneDuration": 1.125,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Evidence -> Solution -> CTA",
-      "mainPurpose": "The video is a practical technology tutorial designed to teach iPhone users how to maintain full image quality when using AirDrop. It addresses a specific technical frustration by providing a visual walkthrough of the necessary iOS settings.",
-      "visualEmotion": "Energetic"
+      "narrativeStructure": "List-based: Hook -> Step-by-step Tutorial -> Result Verification",
+      "mainPurpose": "To provide a quick and efficient tech tip for iPhone users to maintain the highest quality of photos when sharing via AirDrop. It solves a common pain point of compressed image quality through specific settings adjustments.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
       "endorsementMethod": [
         "None"
       ],
-      "endorsementCues": "The video focuses on built-in OS features for educational purposes rather than promoting a third-party product.",
+      "endorsementCues": "Tutorial content focusing on software features rather than a paid promotion.",
       "endorsementObject": [
-        "None"
+        "Apple iPhone"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Signature flat cap, glasses, and '3C 有意思 tim哥' branding overlays.",
-      "freeDescribe": "Typical tech influencer content style with high information density, rapid pacing, and frequent use of emphasis text to maintain viewer retention."
-    }
+    "freeDescribe": "The video uses a high-density text overlay and rapid cuts common in social media short-form content to maintain viewer engagement during a technical tutorial."
   }
 }

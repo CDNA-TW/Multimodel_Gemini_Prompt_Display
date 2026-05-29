@@ -1,14 +1,230 @@
 {
   "videoName": "0_shufen-20250830204134-1142487931145066.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 17.5,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Humor"
-      ],
+      "videoDuration": 17,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) The video begins with a close-up selfie shot of a young woman with long dark hair and bangs. She is wearing a green and white floral patterned top and a cartoon bunny ear filter with pink and white elements. A small black lapel microphone is clipped to her chest. She looks directly into the lens with a neutral but soft expression. (2) She begins to speak, her mouth moving in coordination with her facial expressions. The background is a soft-focus indoor setting, appearing to be a bedroom with a green pillow or cushion behind her. The lighting is soft and even, highlighting her face. (3) As she continues talking, her gaze shifts slightly, and various white text subtitles appear at the bottom center of the frame. The camera remains static throughout the shot, maintaining a consistent eye-level perspective until the frame fades to black at the end.",
+      "text_narrative_log": "(1) [Subtitle]: 哇靠. (2) [Subtitle]: 在台灣沒有地震. (3) [Subtitle]: 也很容易. (4) [Subtitle]: 暈. (5) [Subtitle]: 你們知道為什麼嗎?. (6) [Variety]: 嗯?. (7) [Subtitle]: 我發現. (8) [Subtitle]: 跟台灣男生說話. (9) [Subtitle]: 會很有戀愛感. (10) [Subtitle]: 我出門. (11) [Subtitle]: 一天就暈了. (12) [Subtitle]: 好幾回. (13) [Variety]: 嗚. (14) [Subtitle]: 我下. (15) [Subtitle]: 一定要先. (16) [Subtitle]: 吃暈車藥. (17) [Variety]: 哈哈.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Head and shoulders",
+          "Face close-up"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main female creator in a selfie shot",
+        "mainCharacterDescription": "A young woman with long dark hair, bangs, wearing a green and white patterned top with a lapel microphone."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Bedroom"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A soft green cushion or pillow is visible behind the woman, suggesting an indoor residential setting like a bed or couch.",
+        "lightingStyle": [
+          "Soft indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Fade out"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Microphone / lavalier mic"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Casual"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Level"
+        ],
+        "speakingRisingRatio": 2,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 5,
+        "valence": 6,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Cartoon / Comedy SFX",
+          "Applause / Laugh Track SFX",
+          "Meme SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 2,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) A female voice speaks in a calm, casual Mandarin tone. The environment is quiet with high signal-to-noise ratio. (2) A short, rising-pitched cartoon 'Hm?' sound effect is played, marking a transition in her statement. (3) The female voice resumes speaking at a steady conversational pace. (4) A soft, lighthearted 'Woo' sound effect occurs, punctuating the narrative. (5) The speaker continues her monologue with clear articulation and stable pitch. (6) The audio concludes with a brief, synthesized 'Haha' laughter track sound effect used for comedic emphasis."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Selfie / Portrait",
+        "Comedy"
+      ],
       "location": {
         "country": [
           "Taiwan"
@@ -18,139 +234,20 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman with long dark hair is lying on a bed with a green pillow. She is wearing a bikini top with a leaf pattern and has a rabbit-ear filter and pink blush stickers on her face. She looks directly into the lens. (2) As she speaks, her facial expressions change slightly to emphasize her words, and a small wireless microphone is visible clipped to the left side of her bikini. (3) The camera remains static throughout the video, focusing on her upper body and face as she delivers her monologue.",
-      "audio_narrative_log": "(1) A female voice speaks in Mandarin Chinese with a soft, expressive, and slightly playful tone. No background music is playing initially. (2) A short thinking sound effect (\"Hmm?\") occurs mid-sentence. (3) The vocal track continues until the end, where a sound effect of a group of people laughing loudly plays as the video fades out.",
-      "text_narrative_log": "(1) \"哇靠\" (Wow) - Surprised/Hook text. (2) \"在台灣沒有地震\" (In Taiwan, without earthquakes) - Functional subtitle. (3) \"也很容易暈\" (It's also easy to get dizzy/smitten) - Functional subtitle. (4) \"你們知道為什麼嗎?\" (Do you know why?) - Hook text. (5) \"戀愛感\" (Feeling of being in love) - Decorative/Effect text. (6) \"晕车药\" (Motion sickness medicine) - Functional text for the punchline."
-    },
     "temporal_pacing_summary": {
       "sceneCutCount": 1,
-      "averageSceneDuration": 17.5,
-      "isNarrativeShift": false,
-      "mainActionFlow": "The woman delivers a monologue directly to the camera while lying down, ending with a joke."
+      "averageSceneDuration": 17.0,
+      "editingPace": "Slow",
+      "isNarrativeShift": false
     },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Face",
-        "Shoulders",
-        "Chest area"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "One main female creator in the center of the frame.",
-      "mainCharacterDescription": "A young woman with long dark hair, wearing a white bikini top with green leaf patterns and a pink rabbit-ear digital filter."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Bedroom"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A grey bed headboard and a bright green pillow behind the woman's head.",
-      "lightingStyle": "Soft indoor lighting, possibly natural light from a nearby window.",
-      "weather": "Indoor",
-      "season": "Unknown",
-      "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "Medium",
-        "language": [
-          "Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural and bright, influenced by the facial filter's smoothing effect.",
-      "cameraWork": [
-        "Static",
-        "POV"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Wireless Microphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "None",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Sweet and playful",
-        "pitch": "Medium-high",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": false,
-      "bgmGenre": "No Music",
-      "bgmBPM": 0,
-      "instrumentFamiliesAudible": [
-        "None"
-      ],
-      "instrumentsAudible": [
-        "None"
-      ],
-      "musicSourceType": [
-        "None"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "Thinking sound",
-        "Crowd laughing sound"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Field Recording"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Narrative -> Punchline",
-      "mainPurpose": "To entertain the audience with a humorous play on words. The creator uses the double meaning of '晕' (yūn), which means both 'to feel dizzy' and 'to be infatuated/smitten', to compliment Taiwanese men while making a joke about needing motion sickness medicine.",
-      "visualEmotion": "Relaxed and flirtatious"
+      "narrativeStructure": "Linear: Hook -> Question -> Explanation -> Punchline",
+      "mainPurpose": "To entertain the audience with a humorous linguistic pun on the word '暈' (meaning both 'dizzy' and 'falling in love'). She suggests that talking to Taiwanese men makes her 'dizzy' with love, requiring 'motion sickness medicine' as a comedic exaggeration.",
+      "visualEmotion": [
+        "flirtatious",
+        "humorous",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -162,9 +259,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Use of rabbit-ear face filters and close-up lying-down camera angle.",
-      "freeDescribe": "The video targets a Mandarin-speaking audience interested in lighthearted social commentary or influencer personality content."
-    }
+    "freeDescribe": "The video uses a popular social media trope of using a wordplay/pun to create a relatable or humorous snippet. The filter and microphone suggest a content creator persona."
   }
 }

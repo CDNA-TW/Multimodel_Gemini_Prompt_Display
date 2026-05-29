@@ -1,157 +1,267 @@
 {
   "videoName": "2uncle987-20251121021205-1771710040162734.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 36,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Comedy Skit",
-        "Vlog"
-      ],
+      "videoDuration": 37,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) The scene begins outdoors in a park-like setting during autumn, with tall, reddish-brown metasequoia trees lining a stone path. A young man in a long brown coat and a young woman in a white plush jacket and white skirt are standing together. The woman bends forward, and then the man lifts her up into a spinning hug. (2) The setting shifts to a minimalist indoor studio with white walls and light wood flooring. A woman in a grey long-sleeved crop top and blue patterned jeans bends over. A man in a black-and-white jacket and light grey pants jumps over her back like a leapfrog. They switch roles; the man bends down and the woman prepares to jump. (3) The man is shown close-up, shouting enthusiastically with his mouth wide open and hands gesturing wildly. Both characters laugh heartily. The woman stands in the center of the frame, shrugging her shoulders with a playful expression. The lighting is bright and even throughout the indoor portion.",
+      "text_narrative_log": "(1) [Variety]: \\别人的浪漫/. (2) [Subtitle]: 你弯下腰. (3) [Subtitle]: 准备好了吗？. (4) [Variety]: 起飞. (5) [Subtitle]: 你小心点. (6) [Variety]: 酝酿中... (7) [Variety]: 亲亲. (8) [Variety]: \\嗄式浪漫/. (9) [Variety]: 嗄3岁. (10) [Subtitle]: 嗄不准离职的理由.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 male and 1 female performing comedic actions together.",
+        "mainCharacterDescription": "A young woman with long dark hair, wearing a grey crop top and blue patterned pants indoors. A young man with dark hair wearing a black jacket with white bird embroidery."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio",
+          "Park / Garden"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban",
+          "Park / Green Space"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The first scene is outdoors with autumn foliage and a stone path. The second scene is an indoor studio featuring a white shelf, a wooden side table, and a green plant.",
+        "lightingStyle": [
+          "Natural daylight",
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Autumn"
+        ],
+        "colorTone": [
+          "Warm",
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Full shot",
+          "Medium shot",
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Fast cuts"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Simplified Chinese",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 1,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 5,
+        "intensityAndLoudness": 5,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Comedic/Exaggerated"
+        ],
+        "vocalLanguage": [
+          "Simplified Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": true,
+        "hasStrain": true,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 9,
+        "valence": 9,
+        "dominance": 8,
+        "hasVocalTension": true
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 0,
+        "female_singer_count": 1,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "Simplified Chinese"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Percussion",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter"
+        ],
+        "crowdNoiseIntensity": 3,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Meme SFX",
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 5,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 3,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 5,
+        "speechMusicOverlap": 4,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 5,
+        "audioCutFrequency": 4,
+        "dynamicRange": 4,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) A soft, rhythmic acoustic guitar and synth-pop melody starts. The atmosphere is light and romantic. No distinct speech is heard initially. (2) The music continues with a female singer performing a bubbly Chinese pop song. There is an audible shift as the BGM maintains a steady, upbeat tempo around 128 BPM. (3) A sudden high-arousal male shout 'Ahhh!' interrupts the music, marking a transition to a comedic tone. This is followed by a sequence of loud, expressive laughs from both a male and female. The male voice is dominant, characterized by high pitch variability and shouting intensity. Short comedic SFX are sprinkled between the vocal bursts, highlighting the humorous interactions."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Meme / Trend"
+      ],
       "location": {
         "country": [
           "China"
         ],
         "city": [
-          "Unknown"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video begins with a montage of a couple in a park with orange autumn leaves; the girl bends over and the guy lifts her onto his shoulders in a romantic gesture. (2) Transition to an indoor studio with white walls where a girl in a grey long-sleeve crop top and patterned blue jeans bends over. (3) A guy in a black jacket and white pants runs from the background and jumps over the girl's back repeatedly. (4) The guy performs an exaggerated, silly walk and shouts while the girl laughs and points at him; they both share a moment of intense laughter and comedic posing for the camera.",
-      "audio_narrative_log": "(1) Soft, romantic piano and string music plays during the outdoor park segment; no vocals are heard. (2) The music shifts to an upbeat, rhythmic pop song with female vocals. (3) Sudden loud, high-pitched male shouting (\"Agh!\") occurs in sync with the guy's jumping actions. (4) Continuous female laughter and further comedic vocalizations from the male speaker layered over the upbeat background music.",
-      "text_narrative_log": "(1) \"别人的浪漫\" (Other people's romance): Decorative hook establishing the expectation of a romantic scene. (2) \"嘎式浪漫\" (Ga-style romance): Decorative hook introducing the comedic subversion. (3) \"嘎3岁\" (Ga 3 years old): Descriptive text mocking the male character's childish energy. (4) \"甚至有点怀疑他的理由\" (Even suspecting his reasons): Comedic commentary on the guy's behavior."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 12,
-      "averageSceneDuration": 3.0,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Expectation (Romantic) -> Reality (Comedic Action) -> Outro (Laughter)"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 4,
-      "maleDetectAmount": 2,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "1 romantic couple in the intro, 1 comedic duo in the studio segment.",
-      "mainCharacterDescription": "A male with dyed hair wearing an oversized black jacket with embroidery and white loose trousers; a female with long dark hair wearing a grey crop top and blue patterned jeans."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Outdoor Park",
-          "Studio"
-        ],
-        "topography": [
-          "Plain"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "First scene shows a path lined with orange-leaved trees (possibly metasequoia) in autumn. Second scene is a minimalist white studio with a modern white shelf containing various decorative objects, a wooden cabinet, and a fan.",
-      "lightingStyle": "Natural light (outdoors), bright studio lighting (indoors).",
-      "weather": "Clear",
-      "season": "Autumn",
-      "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "Medium",
-        "language": [
-          "Chinese"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "Warm (outdoor), Clean/Bright (indoor)",
-      "cameraWork": [
-        "Static",
-        "Handheld"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut between romantic and upbeat music",
-      "vocalRatio": "Medium"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Energetic, humorous, and high-pitched (male); Joyful and laughing (female)",
-        "pitch": "High",
-        "loudness": "High (shouting)",
-        "speed": "Fast",
-        "speechDensity": "Occasional shouting and continuous laughing",
-        "language": [
           "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Pop",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Keyboard",
-        "Electronic"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Piano"
-      ],
-      "musicSourceType": [
-        "Copyrighted Song"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Comedic shouting"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Field Recording"
-    }
-  },
-  "high_inference_interpretations": {
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 2.64,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Expectation -> Subversion -> Comedic Climax",
-      "mainPurpose": "To create humor through the subversion of romantic tropes. The video uses a 'Expectation vs. Reality' framework, showing a standard romantic couple first and then contrasting it with the main creator's absurd and high-energy 'Ga-style' alternative, which involves jumping over his partner like a child at play.",
-      "visualEmotion": "Humorous"
+      "narrativeStructure": "Montage: Romantic Expectation -> Comedic Reality",
+      "mainPurpose": "The video uses a 'Before vs. After' or 'Expectation vs. Reality' structure to contrast traditional romantic gestures with a more chaotic and humorous daily relationship dynamic. It aims to entertain viewers by showing the relatable and funny side of a couple's interaction.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -163,9 +273,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Exaggerated facial expressions, repetitive jumping, and signature 'Ga-style' branding in text overlays.",
-      "freeDescribe": "This content is highly representative of Douyin/TikTok comedic trends where creators establish a 'character' (here, the 'Ga' persona) known for specific absurd or high-energy behaviors."
-    }
+    "freeDescribe": "The video relies heavily on the tonal shift between the outdoor 'romantic' segment and the indoor 'chaotic' segment to drive the comedic effect."
   }
 }

@@ -1,191 +1,285 @@
 {
   "videoName": "cocowine0205-20250216054206-1993407604858421.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 87,
-      "aspectRatio": "9:16",
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": false,
+      "visual_narrative_log": "(1) The video opens with a busy background of purple and pink Sanrio plush characters, primarily Kuromi. A large 'COSTCO WHOLESALE' logo is superimposed at the top, followed by stylized yellow text and a cartoonish character with a wide-open mouth, resembling Ralph from Wreck-It Ralph. The setting is clearly a retail warehouse environment with bright overhead lighting. (2) A rapid sequence of product shots begins, focusing on warehouse shelves and refrigerated cases. Each shot features a specific item like packages of 'Mayflower' toilet paper, trays of 'Taiwan Chicken,' and 'U.S. Choice Beef' hotpot slices. The camera is mostly static but the editing is extremely fast, switching items roughly every second. (3) The sequence continues through a variety of consumer goods including stacks of Ferrero Rocher chocolate boxes, Calbee Jagarico snack cups, and Serena vegetable crackers. The background consistently shows the industrial-style shelving and price tags characteristic of a warehouse store. Lighting is consistent, bright, and slightly cool-toned. (4) The final phases showcase various specialty items like Japanese apples, boxed spirits (The Chivas, The Singleton), and frozen foods (pork knuckles, seaweed). The visual rhythm remains hyper-fast, utilizing straight cuts to cycle through the deals. No human figures are directly visible in the product close-ups, maintaining a pure focus on the merchandise and price overlays.",
+      "text_narrative_log": "(1) [Logo]: COSTCO WHOLESALE. [Variety]: 比爾特派員. [Slogan]: 好市多 每週特價速報 01/13-01/19 記得追蹤我們. (2) [Subtitle]: 五月花 棉柔抽取衛生紙 原價349 -70 特價279. (3) [Subtitle]: 台灣雞 胸肉真空包 原價215/KG -45 特價170/KG. (4) [Subtitle]: 美國特選 無骨牛小排火鍋片 原價1479/KG -150 特價1329/KG. (5) [Subtitle]: 金莎 原價459 -95 特價364. (6) [Subtitle]: 原味薯條 原價429 -85 特價344 特價至1/16. (7) [Subtitle]: 喜年來 蔬菜薄餅 原價269 -54 特價215. (8) [Subtitle]: 天地合補 玫瑰四物飲 葡萄籽配方 原價779 -160 特價619.",
+      "visual_human_presence": {
+        "totalHumanCount": 0,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 0,
+        "bodyPartVisibility": [
+          "None"
+        ],
+        "crowdLevel": [
+          "None"
+        ],
+        "countingEvidence": "No real people are present in the frame; only an animated character overlay in the intro.",
+        "mainCharacterDescription": "None"
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Supermarket / Warehouse Store"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The interior of a Costco warehouse store, featuring high industrial shelving, large refrigerated display cases with glass doors, and bulk packaging of various food and household items.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Winter"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Fast cuts"
+        ],
+        "visualRhythm": [
+          "Very fast pace"
+        ],
+        "takeStructure": [
+          "Compilation / montage sequence"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Rice / grains",
+          "Noodles / ramen / pasta",
+          "Bread / pastry",
+          "Dessert / cake / cookies",
+          "Snack / chips / candy",
+          "Meat / beef / pork / chicken",
+          "Seafood / fish / shrimp",
+          "Fruit",
+          "Beverage / juice",
+          "Alcohol",
+          "Japanese food / sushi",
+          "Instant / packaged food"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Costco",
+          "Mayflower",
+          "Ferrero Rocher",
+          "Calbee",
+          "Godiva",
+          "Starbucks",
+          "The Chivas",
+          "The Singleton",
+          "Hi-Chew",
+          "Salonpas"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 5,
+        "speechPauseDensity": 1
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 7,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 0,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Pop / Bubble SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 5,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 5,
+        "audioCutFrequency": 5,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio starts with an energetic male voice announcing the 'Costco Weekly Specials.' The speech rate is extremely high, delivered with a bright, professional studio-recorded tone. A high-tempo electronic beat with a strong synth kick drum establishes a frantic but organized rhythm. (2) Each transition between products is marked by a subtle high-frequency 'whoosh' or 'pop' sound effect, perfectly synchronized with the visual cuts. The narrator rapidly lists product names and prices without pauses, maintaining a consistent high-arousal energy level. The BGM remains constant in the background, providing a steady rhythmic bed. (3) Throughout the middle section, the acoustic texture is dense, dominated by the fast-paced narration. The speaker's pitch varies dynamically to emphasize specific deals. There is no detectable ambient noise, indicating a clean post-production mix where vocals and music are the primary layers. (4) As the video nears its end, the rapid-fire delivery continues until the final product mention. The voice remains sharp and well-articulated despite the speed. The music concludes with the final cut, maintaining its energetic tempo until the very last second, leaving no silence."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
-        "Vlog",
-        "Shopping Guide",
-        "Deal Alert"
+        "Shopping"
       ],
-      "withRealPeople": true,
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "Unknown"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video opens with a static shot of a pile of purple and white plush toys with the Costco logo and promotional text overlaid. (2) A series of rapid cuts follows, showing various consumer goods on shelves or in refrigerated sections inside a warehouse-style store. Items include stacks of toilet paper, vacuum-packed chicken breast, beef ribeye trays, Ferrero Rocher chocolates, Calbee snack boxes, and various other packaged foods and drinks. (3) The camera movements are mostly short, static shots or very brief pans to showcase the products. (4) The sequence continues through fruits like cherries and apples, prepared meals like pig's feet and chicken legs, and finally rows of coffee bags and gift sets.",
-      "audio_narrative_log": "(1) High-energy, upbeat electronic background music starts immediately with a fast tempo. An energetic male voice provides an introduction in Mandarin, speaking very rapidly. (2) The male voice continues at a high speed, rhythmically announcing product names and sale prices. Each announcement is precisely timed to match the visual cut of that specific product. (3) The background music remains consistent in volume and energy throughout, while the narrator's tone stays excited and professional. (4) Occasional ambient warehouse noise is present but heavily suppressed by the music and vocal track.",
-      "text_narrative_log": "(1) Functional Text: 'Weekly Special Report 01/13-01/19' - provides the date range for the deals. Decorative Text: 'Costco Wholesale' logo and 'Remember to follow us' hook. (2) Functional Text: Each product shot features a text block including the brand name (e.g., 'May Flower', 'Rocher', 'Calbee', 'Starbucks'), original price, discount amount (preceded by a minus sign), and final 'Special Price'. (3) Decorative/Hook Text: Seasonal labels like 'New Zealand Cherry Gift Box' or 'Japanese Aomori Apples' emphasizing quality and origin."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 54,
-      "averageSceneDuration": 1.6,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Intro -> Rapid-fire Product Showcase with Price Details"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 8,
-      "maleDetectAmount": 4,
-      "femaleDetectAmount": 3,
-      "kidsDetectAmount": 1,
-      "mainCharacterCount": 0,
-      "bodyPartVisibility": [
-        "Hands only",
-        "Back view",
-        "Partial silhouettes"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "Multiple shoppers visible in the background of aisles and near refrigerated cases as silhouettes or back views.",
-      "mainCharacterDescription": "None"
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Warehouse Store",
-          "Supermarket"
-        ],
-        "topography": [
           "None"
         ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "The background consists of high industrial shelving, refrigerated display cases, and bulk product displays typical of a Costco warehouse environment.",
-      "lightingStyle": "Bright studio-like overhead warehouse lighting",
-      "weather": "Indoor",
-      "season": "Winter (based on text dates 01/13-01/19)",
-      "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese",
-          "English"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "High Saturation",
-      "cameraWork": [
-        "Static",
-        "Short Pans"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Chicken",
-        "Beef",
-        "Chocolate",
-        "Snacks",
-        "Cherries",
-        "Apples",
-        "Pork",
-        "Noodles",
-        "Coffee"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "COSTCO",
-        "May Flower",
-        "Ferrero Rocher",
-        "Calbee",
-        "Serena",
-        "Kirkland Signature",
-        "Hi-Chew",
-        "Starbucks",
-        "Kirin"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut (beat-synced)",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 0,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "High-pitched and excited",
-        "pitch": "Sharp",
-        "loudness": "High",
-        "speed": "Extremely fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
-        ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic/Pop",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
+    "temporal_pacing_summary": {
+      "sceneCutCount": 45,
+      "averageSceneDuration": 1.93,
+      "editingPace": "Fast",
+      "isNarrativeShift": false
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Rapid Discount Sequence -> Implied Conclusion",
-      "mainPurpose": "The video serves as a high-efficiency consumer guide designed to inform viewers of current weekly discounts at Costco Taiwan. By utilizing rapid visual cuts synced to a fast-paced vocal narration, it delivers a large volume of pricing information in a short timeframe, creating a sense of urgency and value for potential shoppers.",
-      "visualEmotion": "Energetic and Commercial"
+      "narrativeStructure": "List-based: Hook -> Product Catalog -> Exit",
+      "mainPurpose": "To provide a quick, high-density summary of weekly discounts available at Costco Taiwan for the specified date range, aiming to drive store traffic and social media engagement.",
+      "visualEmotion": [
+        "energetic",
+        "informative"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
-        "Implicit",
-        "Integrated"
+        "Explicit",
+        "Full"
       ],
-      "endorsementCues": "Detailed price reporting and discount highlighting of specific brands within a retail environment.",
+      "endorsementCues": "The video explicitly promotes Costco's weekly specials and includes the store's logo and specific pricing information.",
       "endorsementObject": [
-        "Costco Wholesale"
+        "Costco"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Rapid-fire price narration and high-frequency beat-synced editing style.",
-      "freeDescribe": "The content is optimized for short-form video platforms where speed and information density are prioritized to maintain viewer engagement."
-    }
+    "freeDescribe": "A hyper-efficient shopping guide that leverages fast-paced editing and rapid-fire narration to maximize information density for social media users."
   }
 }

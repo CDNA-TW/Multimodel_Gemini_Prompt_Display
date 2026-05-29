@@ -1,175 +1,275 @@
 {
   "videoName": "602avenue-20250807200249-894250386943085.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 11,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Reaction",
-        "Comedy"
-      ],
+      "videoDuration": 11.5,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A woman with long dark hair sits on a cream-colored sofa, wearing a lime green knit top. She is sipping from a white mug using a white straw. A picture-in-picture window at the bottom shows a Netflix show interface with a man and a woman smiling. The lighting is bright and indoor. (2) The woman looks at the camera with a puzzled, slightly tilted head, touching her hair with her right hand. The lower video panel shows a different scene with two people standing near a railing outdoors. (3) She holds her head with both hands, looking stressed or overwhelmed. The lower panel shows a couple in a tense-looking conversation outdoors. (4) She makes a playful, confused face, pulling her eyes tight and sticking her tongue out slightly. The lower panel remains on the same scene. (5) She holds a white tissue to her eyes, appearing to cry or wipe away tears. The lower panel shows a woman standing alone in a room. (6) She takes a large bite of a rice dish and then eats a sheet of dark green seaweed, giving a thumbs up to the camera. The lower panel shows a man eating enthusiastically.",
+      "text_narrative_log": "(1) [Slogan]: POV 看《母單戀愛大作戰》時心情變化. [Variety]: 一開始只是覺得可愛而已. [Subtitle]: 너네..... 오늘부터 사귀는거야?. [Logo]: NETFLIX. (2) [Variety]: (廷穆改路線時). (3) [Variety]: (聽不懂戴伊在想說啥). (4) [Variety]: (韓國人🇰🇷) 我韓語有問題.... (5) [Variety]: (汶明哭的時候). (6) [Variety]: 看相昊吃飯好有食慾了😂. [Subtitle]: 좋다 좋다.",
+      "visual_human_presence": {
+        "totalHumanCount": 4,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 3,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main creator in the foreground; 3 distinct people appearing in the PiP video window throughout the clip.",
+        "mainCharacterDescription": "A young Asian woman with long, dark brown hair, wearing a lime green knit sweater."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A domestic indoor setting with a plush cream-colored sofa and soft, neutral-toned walls. The secondary background in the lower PiP window includes various outdoor and indoor scenes from a television program.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Montage",
+          "Picture-in-picture / inset"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Compilation / montage sequence"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "Korean",
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Rice / grains",
+          "Prepared meal / plated dish",
+          "Beverage / juice"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "NETFLIX"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 1
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "English"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 6,
+        "valence": 7,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Meme/Comedy",
+          "Acoustic/Folk"
+        ],
+        "tempoBPM": 110,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 0,
+        "female_singer_count": 1,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "English"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Keyboard",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Piano",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Meme SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 1,
+        "vocalRatio": 1,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 5,
+        "speechMusicOverlap": 1,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) A repetitive, high-pitched vocal sample of a woman saying \"Oh no\" plays over a basic electronic drum beat. The tempo is moderate and the tone is comedic/ironic. (2) The rhythmic \"Oh no\" loop continues with no change in intensity or texture. (3) The vocal loop continues, serving as the primary auditory theme. (4) The \"Oh no\" pattern persists, maintaining a consistent high-frequency presence. (5) The loop continues without interruption. (6) A sudden hard cut occurs. The audio shifts to bright, upbeat corporate-style music featuring piano and acoustic guitar. A professional male narrator with clear articulation says: \"Nothing beats a Jet2 holiday. And right now...\""
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Meme / Trend",
+        "Vlog"
+      ],
       "location": {
         "country": [
-          "South Korea"
+          "Unknown"
         ],
         "city": [
           "None"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman is sitting on a sofa in a living room, drinking from a straw while watching a dating show clip on a split-screen below her; she looks curious and amused. (2) She clutches her head and looks frustrated/confused while watching another segment of the show. (3) She uses a tissue to wipe her eyes, appearing to be crying or emotional. (4) The scene shifts to her eating noodles and seaweed with great gusto, mirroring a male character eating on the show clip below; she gives a thumbs up to the camera while chewing.",
-      "audio_narrative_log": "(1) The video starts with the 'Oh No' meme song (Capone - Oh No) featuring a high-pitched vocal loop. (2) This 'Oh No' audio continues and loops as the visual scenes shift through different emotional states. (3) Suddenly, the meme music cuts out and is replaced by a cheerful, commercial-style jingle with a British male voice-over saying 'Nothing beats a Jet2 holiday and right now...' before cutting off.",
-      "text_narrative_log": "(1) Functional Text: 'POV 看《母單戀愛大作戰》時心情變化' (POV mood changes when watching 'Single's Inferno/Solo Battle'). (2) Decorative Text: '一開始只是覺得可愛而已' (In the beginning, I just thought it was cute) - calm tone. (3) Decorative Text: '（廷穆改路線時）' (When Tingmu changes routes) - surprised tone. (4) Decorative Text: '（聽不懂載伊在想說啥）' (Can't understand what Jae-i is trying to say) - confused tone. (5) Decorative Text: '（韓國人🇰🇷）我韓語有問題嗎...' (As a Korean, is there a problem with my Korean...) - self-deprecating tone. (6) Decorative Text: '（汝明哭的時候）' (When Yeo-myeong cries) - sad tone. (7) Decorative Text: '看相昊吃飯好有食慾了😂' (Watching Sang-ho eat makes me hungry) - joyful tone."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 5,
-      "averageSceneDuration": 2.2,
-      "isNarrativeShift": true,
-      "mainActionFlow": "The video follows a progression of different emotional reactions to a TV show, ending with a shift to eating."
+      "sceneCutCount": 6,
+      "averageSceneDuration": 1.9,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
     },
-    "visual_human_presence": {
-      "totalHumanCount": 5,
-      "maleDetectAmount": 2,
-      "femaleDetectAmount": 3,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Face"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main female reactor; 2 males and 2 females visible in the Netflix show clips below.",
-      "mainCharacterDescription": "A young Asian woman with long dark hair, wearing a yellowish-brown knitted sweater, sitting in a home environment."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Living Room"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A comfortable indoor living room with a beige sofa, pillows, and a blurred background suggesting a domestic setting.",
-      "lightingStyle": "Natural indoor lighting",
-      "weather": "Unknown",
-      "season": "Unknown",
-      "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Chinese",
-          "Korean",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Noodles",
-        "Seaweed"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Netflix"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Fragmented",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "Low"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 0,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Professional and energetic (commercial voice)",
-        "pitch": "Medium",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Occasional narration",
-        "language": [
-          "English"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Meme Pop / Commercial Jingle",
-      "bgmBPM": 110,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum kit"
-      ],
-      "musicSourceType": [
-        "Copyrighted Song",
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Progression -> Twist",
-      "mainPurpose": "The video is a humorous reaction vlog intended to resonate with fans of a specific Korean dating show. It uses a series of emotional snapshots (amusement, confusion, sadness, and finally 'mukbang'-style eating) to mirror the viewer's experience while watching dramatic or relatable television content. The final segment subverts the emotional buildup by showing the creator enjoying food, suggesting that watching others eat (or eating while watching) is the ultimate conclusion of the viewing experience.",
-      "visualEmotion": "Humorous and relatable"
+      "narrativeStructure": "Montage: Hook -> Reaction -> Emotional Progression -> Resolution",
+      "mainPurpose": "To humorously illustrate the emotional rollercoaster and confusing plot points of a popular Netflix dating show, concluding with a relatable moment of stress-eating.",
+      "visualEmotion": [
+        "humorous",
+        "energetic",
+        "tense"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
       "endorsementMethod": [
         "None"
       ],
-      "endorsementCues": "None",
+      "endorsementCues": "Mention of a Netflix show as content, but no clear commercial partnership evident for the creator herself.",
       "endorsementObject": [
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Use of split-screen reaction format with 'Oh No' meme audio.",
-      "freeDescribe": "The sudden transition to a Jet2 commercial audio at the end appears to be a trending 'bait-and-switch' audio or a random sound clip used to punctuate the end of the video."
-    }
+    "freeDescribe": "The video utilizes a popular 'Oh no' sound meme to emphasize frustration with show characters, successfully leveraging social media trends for engagement."
   }
 }

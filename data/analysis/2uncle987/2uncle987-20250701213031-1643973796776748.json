@@ -1,157 +1,265 @@
 {
   "videoName": "2uncle987-20250701213031-1643973796776748.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 20,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Fashion",
-        "Lookbook",
-        "E-commerce"
-      ],
+      "videoDuration": 21,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) The video opens with a young woman in a studio setting designed to look like a living room. She wears a black wool beret, a black patterned kimono-style jacket, and a long black dress. She adjusts her hat with both hands, looking directly at the camera with a cheerful expression. The background features a wooden cabinet with a woven rattan door, a small table lamp, and a green potted plant. (2) There is a jump cut to a second outfit. The woman now wears the same black patterned jacket over a white long-sleeved top with a heart graphic and loose grey trousers. She claps her hands enthusiastically and gestures toward her clothing. She holds a pair of white headphones around her neck. (3) A third outfit transition shows her in the patterned jacket paired with a grey and white patterned knit top and a white skirt. She pulls the hood of the jacket over her head, smiling. The lighting remains bright and even throughout the studio space. (4) A fourth outfit appears where she wears the jacket with a white t-shirt and black shorts. She wears a black beanie with a small logo. She poses by putting her hands on her hips and shifting her weight, showing off the coordination of the pieces. (5) In the fifth outfit, she wears the jacket over a long white button-down shirt dress and a black bucket hat with a chin strap. She adjusts the brim of the hat and poses dynamically, lifting one leg slightly. (6) The final scene shows the woman walking away to the left. The camera focuses on a white wall featuring a large \"haha baby\" logo with a cartoon girl illustration. A wooden chest of drawers sits against the wall, decorated with a red circular character and a small lamp.",
+      "text_narrative_log": "(1) [Slogan]: Garmy羽織系列穿搭. [Slogan]: 羊毛貝雷帽 黑色. [Slogan]: 大人休閒長襪 心花開藍. (2) [Slogan]: Garmy羽織系列穿搭. [Slogan]: 短版長袖上衣 愛心餅乾白. [Slogan]: 大人休閒長襪 心花開藍. (3) [Slogan]: Garmy羽織系列穿搭. [Slogan]: 長版洋裝單穿. (4) [Slogan]: Garmy羽織系列穿搭. [Slogan]: HAHA毛帽 黑色. [Slogan]: 撞色系運動襪 白底灰. (5) [Slogan]: Garmy羽織系列穿搭. [Slogan]: 帶繩單面漁夫帽 黑色. [Slogan]: 大人休閒長襪 心花開藍. (6) [Logo]: haha baby ははベビー.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Head and shoulders",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main female creator demonstrating outfits.",
+        "mainCharacterDescription": "A young Asian woman with long dark hair, wearing a variety of coordinated streetwear outfits including a black patterned kimono jacket, beanies, and various layered tops and bottoms."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio",
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A clean studio setup with a minimalist living room aesthetic, featuring a wooden cabinet with rattan doors, a small lamp, a potted plant, and a white wall with brand logos.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Autumn / Winter"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Panning"
+        ],
+        "shotSize": [
+          "Full shot",
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Graphic transition"
+        ],
+        "visualRhythm": [
+          "Fast pace",
+          "Rhythm matched to music"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "Japanese"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Headphones / earbuds"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "haha baby"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 124,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 0,
+        "female_singer_count": 1,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "Japanese"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 5,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Original Jingle/Brand Theme"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 0,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocal_ratio": 0,
+        "musicToSpeechLoudRatio": 5,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a high-tempo electronic pop track featuring a bright synthesizer melody and a driving percussion beat. A female voice sings processed, rhythmic lines in Japanese. The production is clean with a wide frequency range and consistent loudness. (2) A subtle post-production whoosh sound effect occurs, signaling a transition. The upbeat music continues uninterrupted, maintaining its energy. The bass is punchy, and the vocal chops remain a central melodic element in the mix. (3) Another transition whoosh marks the shift to a new visual segment. The BGM remains the same, providing a cohesive rhythmic floor. There is no background noise or speech, indicating a professional studio recording and edit. (4) A third whoosh SFX is heard. The synthesizer layers continue to pulsate in time with the visuals. The female vocal track adds a melodic layer without clear lyrical content, functioning as an instrument within the track. (5) A fourth transition whoosh occurs. The music's tempo remains steady at approximately 124 BPM. The spectral brightness is high, emphasizing the crisp percussion and high-frequency synth pads. No incidental noises or crowd sounds are present. (6) A final chime or digital bell sound effect plays as the music begins to fade. This SFX coincides with the appearance of the brand logo on screen. The audio ends with a short, clean decay, leaving the brand identity as the last acoustic impression."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Fashion / Beauty",
+        "Promotion / Advertisement / Indoresment"
+      ],
       "location": {
         "country": [
-          "Taiwan"
+          "Unknown"
         ],
         "city": [
           "None"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young female model stands in a curated indoor studio space, initially wearing a black patterned jacket over a black skirt and a beret; she adjusts her hat and smiles. (2) The scene cuts to a variation where she wears a white t-shirt under the same jacket and lifts one leg playfully. (3) Next, she appears in a long white lace-accented dress layered under the jacket, putting the hood up. (4) She then transitions to a white button-down shirt and a black beanie, posing with her hands on her hips. (5) In the final look, she wears a black bucket hat and a long oversized white shirt before walking out of the frame to the left, revealing a wall logo behind her.",
-      "audio_narrative_log": "(1) An upbeat, high-tempo electronic pop track begins immediately with a consistent rhythmic beat. (2) No vocals are detected throughout the entire duration. (3) The background music maintains a steady energy level without any significant transitions or ambient interference until the video ends.",
-      "text_narrative_log": "(1) Decorative text 'Garmy羽織系列 穿搭' appears at the top throughout. (2) Functional labels appear on the right for each outfit: '羊毛貝雷帽 黑色' (Black Wool Beret), '大人休閒長襪 心花開藍' (Adult Casual Socks - Blooming Blue). (3) Subsequent labels update with outfit changes: '短版長袖上衣 愛心餅乾白' (Short Sleeve Top - Heart Cookie White), '長版洋裝單穿' (Long Dress Style), 'HAHA毛帽 黑色' (HAHA Beanie Black), '撞色系運動襪 白底灰' (Contrast Sports Socks - White/Grey), '帶繩單面漁夫帽 黑色' (Drawstring Bucket Hat Black), '大人休閒長襪 心花開粉' (Adult Casual Socks - Blooming Pink)."
-    },
     "temporal_pacing_summary": {
       "sceneCutCount": 5,
-      "averageSceneDuration": 4.0,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Intro -> Outfit Demo 1 -> Outfit Demo 2 -> Outfit Demo 3 -> Outfit Demo 4 -> Outro"
+      "averageSceneDuration": 3.5,
+      "editingPace": "Fast",
+      "isNarrativeShift": false
     },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 female model demonstrating various outfits.",
-      "mainCharacterDescription": "Young Asian female with long dark hair and bangs, wearing various pieces from a casual, patterned fashion collection."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor",
-          "Studio"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A minimalist studio set up like a living room with a rattan-fronted cabinet, a small table lamp, a round wooden coffee table, a jute rug, and a logo on the back wall reading 'haha baby' with Japanese text.",
-      "lightingStyle": "Bright, soft, and even studio lighting.",
-      "weather": "None",
-      "season": "None",
-      "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "Medium",
-        "language": [
-          "Traditional Chinese",
-          "Japanese"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "Natural and warm with clean white walls.",
-      "cameraWork": [
-        "Static"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "haha baby"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "None",
-      "vocalRatio": "None"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 0,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "None",
-        "pitch": "None",
-        "loudness": "None",
-        "speed": "None",
-        "speechDensity": "None",
-        "language": [
-          "None"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Electronic Drums"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Demonstration -> Outro",
-      "mainPurpose": "This video serves as a fashion lookbook to promote the 'Garmy' clothing series by the brand 'haha baby'. By showcasing one central jacket styled in four different ways, it demonstrates the product's versatility and appeals to customers looking for casual, trendy, and mix-and-match fashion options.",
-      "visualEmotion": "Cheerful and Energetic"
+      "narrativeStructure": "List-based: Intro -> Outfit 1 -> Outfit 2 -> Outfit 3 -> Outfit 4 -> Outfit 5 -> Logo reveal",
+      "mainPurpose": "The video serves as a promotional showcase for a clothing collection by the brand 'haha baby'. It uses a fast-paced, montage-style format to demonstrate the versatility of a specific patterned jacket across five different outfit combinations, aiming to inspire viewers and drive interest in the brand's products through energetic visual and auditory presentation.",
+      "visualEmotion": [
+        "energetic",
+        "warm",
+        "informative"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -159,14 +267,11 @@
         "Explicit",
         "Full"
       ],
-      "endorsementCues": "Direct display of clothing items with corresponding text labels and brand logo on the wall.",
+      "endorsementCues": "Clear display of product series name, detailed item captions, and brand logo reveal at the end.",
       "endorsementObject": [
         "haha baby"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Use of descriptive text overlays for every fashion item shown; consistent minimalist studio aesthetic.",
-      "freeDescribe": "The video targets a young, fashion-conscious demographic in Taiwan, utilizing a format popular on social media platforms like Instagram Reels and TikTok for quick product discovery."
-    }
+    "freeDescribe": "A highly polished, fashion-forward promotional clip that effectively uses rhythmic editing and vibrant BGM to highlight product versatility."
   }
 }

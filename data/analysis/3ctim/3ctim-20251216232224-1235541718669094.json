@@ -1,181 +1,294 @@
 {
   "videoName": "3ctim-20251216232224-1235541718669094.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 48.0,
-      "aspectRatio": "1:1",
+      "videoDuration": 48.01,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) Outdoor scene in front of a modern glass building labeled 'SAN JOSE MCENERY CONVENTION CENTER'. A man wearing a yellow hoodie, blue jeans, and a grey patterned cap walks away from the camera. (2) Transition to the interior of a brightly lit convention hall with high ceilings and wooden accents. The same man walks toward the camera, speaking and adjusting his cap and sunglasses. (3) A fast-paced montage shows the man running and skipping through a carpeted hallway with large white pillars and numerous people in the background. (4) The man enters a 'Gear Store' filled with racks of clothing and merchandise. He points at various items like hats, socks, and mugs on shelves. (5) Close-up shots of specific merchandise: sunglasses in plastic packaging and green-and-black graphic t-shirts displayed on a wall. (6) The man interacts with a staff member who holds up a black t-shirt featuring a green GPU design and a silver ruler with electronic circuit patterns. (7) Final close-up of the man's face looking directly at the camera with a playful, mischievous grin. A large white text graphic appears over his face.",
+      "text_narrative_log": "(1) [Logo]: 3c 有意思 tim 哥. [Logo]: @3ctim. [Slogan]: NVIDIA 周邊買什麼?. (2) [Subtitle]: 跟大家我們先去周邊商品店. (3) [Subtitle]: 這是我今天這次來很重要的任務. (4) [Subtitle]: 我要買到它的T恤!. (5) [Subtitle]: 我們時間有限我們在這邊只能停留15分鐘. (6) [Variety]: 快樂小跳躍. (7) [Subtitle]: NVIDIA的帽子然後襪子. (8) [Subtitle]: 然後一樣有杯子還有墨鏡. (9) [Subtitle]: GTC的限定的T恤. (10) [Subtitle]: 欸它的衣服這件很好看欸. (11) [Subtitle]: 豪哥來看一下. (12) [Subtitle]: 哪一個是限定版的?. (13) [Subtitle]: 我覺得這個最屌. (14) [Subtitle]: 這是什麼?這個尺. (15) [Subtitle]: 全部都是電路喔你不覺得很酷嗎?. (16) [Subtitle]: 哦!喔!然後再來就是有這個. (17) [Subtitle]: RTX顯卡的這個T恤. (18) [Subtitle]: 好!顯卡T恤.那感覺是阿輝會喜歡的. (19) [Subtitle]: 那我就是不幫他買我要讓他羨慕我!. (20) [Variety]: 壞!",
+      "visual_human_presence": {
+        "totalHumanCount": 12,
+        "maleDetectAmount": 8,
+        "femaleDetectAmount": 4,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face close-up",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Crowd"
+        ],
+        "countingEvidence": "1 main male vlogger, 1 male clerk/helper, and over 10 background convention attendees.",
+        "mainCharacterDescription": "A middle-aged man wearing a vibrant yellow hooded sweatshirt, a grey and white houndstooth patterned flat cap, sunglasses with tinted lenses, a blue backpack, and blue jeans."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Event Venue / Convention Hall",
+          "Retail Store"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The video moves from a modern glass-fronted convention center exterior to a spacious, multi-level interior with wooden stairs and white pillars, finally settling inside a retail-style merchandise booth with white shelving and clothing racks.",
+        "lightingStyle": [
+          "Natural daylight",
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Spring"
+        ],
+        "colorTone": [
+          "Natural and bright",
+          "Warm and vibrant"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Follow shot",
+          "Tracking shot"
+        ],
+        "shotSize": [
+          "Full shot",
+          "Medium shot",
+          "Close-up",
+          "Insert shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Low angle"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Fast cuts",
+          "Jump cut",
+          "Graphic transition"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Desktop computer / monitor"
+        ],
+        "landmark": [
+          "San Jose McEnery Convention Center"
+        ],
+        "brandLogos": [
+          "NVIDIA",
+          "GTC",
+          "DELL Technologies"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 2,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly",
+          "Casual"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 0,
+        "female_singer_count": 1,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "English"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Chatter",
+          "Crowd Murmur"
+        ],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": [
+          "Commercial/Recreational"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "Clothing / Fabric Rustle",
+          "Footsteps"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Pop / Bubble SFX",
+          "Cartoon / Comedy SFX",
+          "Impact / Hit SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Cross-fade"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Mixed"
+        ]
+      },
+      "audio_narrative_log": "(1) High-energy electronic BGM with a steady 4/4 beat starts. A male voice speaks rapidly with high arousal and positive valence, accompanied by faint outdoor traffic hum and crowd murmur. (2) Vocal transitions to indoor hall acoustics with slight reverb. Speech remains fast and excited. BGM continues at a consistent volume underneath the narration. (3) A series of playful SFX—a 'boing' sound and a 'twinkle' chime—cut through the audio as the speaker moves quickly. (4) Scene moves to a shop environment. Vocal dialogue between the main speaker and another male occurs. Sound of rustling plastic and fabric as merchandise is handled. (5) Final phase features a loud 'thud' or 'impact' SFX synchronized with the appearance of a text graphic. The vocal delivery becomes teasing and humorous."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
         "Vlog",
-        "Event Coverage",
-        "Tech Culture"
+        "Tech Review",
+        "Shopping"
       ],
-      "withRealPeople": true,
       "location": {
         "country": [
-          "USA"
+          "United States"
         ],
         "city": [
           "San Jose"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video opens with a man wearing a bright yellow hoodie, a black-and-white houndstooth patterned flat cap, and a navy blue backpack walking towards the entrance of the San Jose McEnery Convention Center. (2) He transitions to the interior of the convention center, walking and talking enthusiastically toward the camera while surrounded by other attendees. (3) He is seen running down a brightly lit hallway with green and white GTC-themed banners in the background. (4) He enters the NVIDIA 'Gear Store', browsing various merchandise including black hats, green socks, and black mugs with logos. (5) He interacts with another male who shows him a black T-shirt with a circuit board design and an RTX GPU graphic design.",
-      "audio_narrative_log": "(1) Upbeat, high-energy electronic pop music with a fast tempo starts immediately. (2) A male voice speaks enthusiastically in Mandarin, expressing excitement about reaching the souvenir shop and his mission to buy a T-shirt. (3) Transition sound effects (SFX) such as a 'boing' sound accompany his jumping movement. (4) The audio records ambient chatter and the man's interaction with a store assistant, discussing specific merchandise designs. (5) The music continues to bridge the scenes, maintaining a lively atmosphere until the end.",
-      "text_narrative_log": "(1) Functional Text: 'NVIDIA 周邊買什麼?' (What to buy at NVIDIA merchandise shop?) in green bars. (2) Decorative Text: Social media handles '@3ctim' in the top left corner. (3) Functional Text: Chronological subtitles in Traditional Chinese translating the creator's narration about his 15-minute time limit. (4) Decorative Text: '快樂小跳躍' (Happy little jump) appears with animated icons during a jump cut. (5) Functional Text: Price tags like '$25' are visible on the store shelves. (6) Decorative Text: A large white '壞!' (Naughty!) sticker appears over the creator's face at the end."
-    },
     "temporal_pacing_summary": {
       "sceneCutCount": 18,
-      "averageSceneDuration": 2.6,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro/Exterior -> Walkthrough -> Gear Store Shopping -> Outro"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 12,
-      "maleDetectAmount": 8,
-      "femaleDetectAmount": 4,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Waist up"
-      ],
-      "crowdLevel": "Crowd",
-      "countingEvidence": "1 main male creator, 1 male shop assistant showing clothes, and at least 10 other attendees in the convention background.",
-      "mainCharacterDescription": "An adult male with glasses, a bright yellow hoodie, a distinctive houndstooth flat cap, and a blue backpack."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Outdoor Street",
-          "Convention Center",
-          "Retail Store"
-        ],
-        "topography": [
-          "Plain"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "The video moves from a sunny exterior plaza of a convention center to a modern, brightly lit interior with 'GTC' branding and a retail space filled with shelves of black and green merchandise.",
-      "lightingStyle": "Natural daylight followed by bright, cool-toned indoor facility lighting.",
-      "weather": "Sunny",
-      "season": "Spring",
+      "averageSceneDuration": 2.67,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "High Saturation",
-      "cameraWork": [
-        "Follow shot",
-        "POV",
-        "Static"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone",
-        "Computer Graphics Design"
-      ],
-      "landmark": [
-        "San Jose McEnery Convention Center"
-      ],
-      "brandLogos": [
-        "NVIDIA",
-        "Dell",
-        "Roots"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 5,
-        "vocal_demographics": {
-          "male_vocal_count": 2,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and friendly",
-        "pitch": "Normal",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat EDM",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Copyrighted Song"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Cartoon SFX",
-        "Whoosh"
-      ],
-      "ambientNoise": [
-        "Crowd chatter",
-        "Hallway reverb"
-      ],
-      "audioQuality": "Field"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Action -> Detailed Exploration -> Humorous Close",
-      "mainPurpose": "The video serves as a lifestyle and tech-culture vlog intended to show viewers the merchandise available at the NVIDIA GTC conference. It uses high-energy editing and a personal POV to make the audience feel like they are exploring the event with the creator.",
-      "visualEmotion": "Energetic"
+      "narrativeStructure": "Linear: Hook -> Quest -> Discovery -> Climax",
+      "mainPurpose": "The video documents a vlogger's visit to the NVIDIA GTC 2024 merchandise store to find limited edition items, specifically a GTC t-shirt and specialized hardware-themed accessories, aimed at engaging tech enthusiasts.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "informative"
+      ]
     },
     "endorsement_analysis": {
-      "isEndorsement": false,
+      "isEndorsement": true,
       "endorsementMethod": [
-        "None"
+        "Implicit",
+        "Integrated"
       ],
-      "endorsementCues": "General event coverage by a tech influencer.",
+      "endorsementCues": "The vlogger specifically travels to the venue to purchase and showcase NVIDIA brand merchandise, including graphic tees and hardware-themed rulers.",
       "endorsementObject": [
-        "None"
+        "NVIDIA"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "3cTim signature intro and animated Traditional Chinese captions.",
-      "freeDescribe": "Typical of high-engagement social media shorts, utilizing bright colors, fast cuts, and relatable 'fanboy' energy regarding tech brands."
-    }
+    "freeDescribe": "High-energy social media edit with frequent jump cuts and on-screen variety-style text graphics to maintain viewer retention."
   }
 }

@@ -1,161 +1,265 @@
 {
   "videoName": "3ctim-20251120142006-2000538474229627.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 44,
-      "aspectRatio": "1:1",
-      "videoGenre": [
-        "Vlog",
-        "Public Service Announcement",
-        "Warning"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A middle-aged man with short hair, wearing a grey flat cap and glasses, is the sole person on camera. He is dressed in a white t-shirt and speaks directly to the lens against a purple and blue studio background. A large pink and white graphic about a government payout appears in the bottom half. (2) The scene uses fast-paced cuts as the man gestures frequently with his hands. Various colorful text overlays and cartoonish icons (like a thief emoji and social media logos) appear and disappear around him to illustrate his points. (3) The camera remains at an eye-level medium shot throughout the video, focusing on the man's facial expressions and upper body movements. The lighting is bright and even studio light, emphasizing the clarity of the text graphics. (4) In the final phase, the text shifts to focus on a phone number '165' and the man continues to point emphatically, his mouth moving in a fast, rhythmic manner as he delivers his warning.",
+      "text_narrative_log": "(1) [Logo]: 3c意思tim哥. [Logo]: @3ctim. [Slogan]: 普發一萬 全民+1 政府相挺 10000 普發現金. (2) [Variety]: 成為最新的詐騙誘餌. (3) [Variety]: 詐騙集團近期. (4) [Variety]: 一萬放大術 全民可領. (5) [Variety]: 但實際上是詐騙!. (6) [Variety]: 光是今年1到9月. (7) [Variety]: 下架超過7萬則的詐騙廣告. (8) [Logo]: facebook. (9) [Logo]: Threads. (10) [Variety]: 情侶分手 二手出清. (11) [Variety]: 你的銀行網銀去轉帳. (12) [Variety]: 所以刑事局特別提醒說. (13) [Logo]: LINE. (14) [Variety]: 凡是要求加LINE的. (15) [Variety]: 提供金融帳戶的. (16) [Variety]: 點擊不明連結的. (17) [Variety]: 我跟你講 幾乎都是詐騙. (18) [Slogan]: 165反詐騙專線. (19) [Variety]: 要提高警覺哦.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Head and shoulders",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main male creator presenting the information.",
+        "mainCharacterDescription": "A middle-aged man wearing glasses, a grey flat cap, and a white t-shirt. He has a friendly and energetic appearance."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A clean, solid-colored studio background featuring shades of light purple and blue with minimal detail.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Jump cut",
+          "Fast cuts",
+          "Graphic transition"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Facebook",
+          "Threads",
+          "LINE"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Professional/Narrative",
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 6,
+        "dominance": 8,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Ding / Bell SFX",
+          "Pop / Bubble SFX",
+          "Impact / Hit SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with high-energy electronic background music featuring a strong, steady beat. A male narrator starts speaking immediately with a professional, assertive tone and high articulation clarity. (2) A 'whoosh' sound effect triggers as the first large graphic is displayed, followed by a sharp 'impact' sound for the first text emphasis. (3) As the speaker lists different scam types, multiple 'pop' and 'ding' sound effects are used in quick succession to highlight each point. The music tempo remains consistent, providing a rhythmic base for the speech. (4) A distinctive 'bell' chime is heard when the '165' hotline number is mentioned, marking a key instructional moment. The voice remains energetic and commanding until the very end, concluding with a clean fade-out of the background music."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "News / Commentary",
+        "Education / Knowledge"
+      ],
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "Unknown"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) Live-action footage. A middle-aged man wearing a newsboy cap and glasses is positioned in front of a purple-toned studio background, speaking directly to the camera with expressive hand gestures. (2) A pink graphic banner titled '全民+1 政府相挺' regarding cash payouts appears at the bottom of the frame. (3) Various icons and cartoon illustrations appear around the man, including a thief character, social media logos (Facebook, Threads), and heart/furniture icons representing different scam themes. (4) The man continues talking while pointing to digital icons of a smartphone, a 'FOR SALE' sign on a sofa, and a crying girl character. (5) A large yellow-on-blue text overlay for '165反詐騙專線' appears at the bottom. (6) The video concludes with an illustration of an elderly couple to suggest protecting senior family members.",
-      "audio_narrative_log": "(1) Background music starts with a medium-paced, upbeat electronic track. A male voice begins speaking Mandarin with a professional and urgent tone. (2) Audible sound effects like 'pops' and 'clicks' occur in synchronization with the appearance of on-screen graphics and icons. (3) The vocal delivery remains consistent and fast-paced, describing specific scam tactics used on social media platforms. (4) The music and vocals continue smoothly until the end of the clip, finishing with a clear concluding statement.",
-      "text_narrative_log": "(1) Functional: '普發一萬' (10,000 cash for all) - Hook. (2) Warning: '成為最新的詐騙誘餌' (Becoming the latest scam bait). (3) Decorative: '一萬放大術' (10,000 amplification trick) - Hook. (4) Brand: 'facebook', 'threads' - Platform identifiers. (5) Functional: '165反詐騙專線' (165 Anti-Fraud Hotline) - Contact information. (6) Cautionary: '提高警覺' (Stay alert) - Emotional tone: Serious/Warning."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 18,
-      "averageSceneDuration": 2.4,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Intro Hook -> Description of Scam Tactics -> Official Warning & Hotline Info"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Head",
-        "Shoulders",
-        "Hands"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "One male presenter is the only real person appearing on screen.",
-      "mainCharacterDescription": "A middle-aged man wearing a grey newsboy cap, black-rimmed glasses, a white t-shirt, and a wooden bead bracelet on his right wrist."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Studio"
-        ],
-        "topography": [
           "None"
         ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A clean, purple-colored wall with soft studio lighting and a partially visible shelf in the background.",
-      "lightingStyle": "Bright studio lighting, very even and clear.",
-      "weather": "Unknown",
-      "season": "Unknown",
-      "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Digital Zoom"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "facebook",
-        "threads",
-        "LINE"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Informative and cautious",
-        "pitch": "Normal",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Pop",
-        "Swoosh"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
+    "temporal_pacing_summary": {
+      "sceneCutCount": 22,
+      "averageSceneDuration": 2.0,
+      "editingPace": "Fast",
+      "isNarrativeShift": false
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Analysis -> Solution",
-      "mainPurpose": "The video aims to raise public awareness about financial scams that exploit the topic of government cash payouts. It uses a trusted influencer persona to explain common deceptive tactics on social media and provides the official anti-fraud hotline to prevent viewers from falling victim.",
-      "visualEmotion": "Energetic and Alert"
+      "narrativeStructure": "List-based: Hook -> Problem -> Data Evidence -> Solution/CTA",
+      "mainPurpose": "To educate and warn the public about recent scams involving fake government payout announcements, providing specific examples of scam tactics and promoting the '165' anti-fraud hotline.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "serious"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -167,9 +271,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "The creator '3c Tim' uses his signature newsboy cap and glasses as a visual brand signature.",
-      "freeDescribe": "High production value for a short warning video, utilizing many graphical overlays to maintain engagement during dense verbal information delivery."
-    }
+    "freeDescribe": "The video uses a high density of visual and auditory cues to maintain viewer attention, typical of short-form social media alerts."
   }
 }

@@ -1,15 +1,247 @@
 {
   "videoName": "yga0721-20251227165935-900966278990463.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 27,
-      "aspectRatio": "9:16",
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A young woman with black hair in pigtails and a beige hoodie smiles broadly at the camera in a crowded outdoor setting. (2) She holds up a colorful lanyard featuring fruit patterns and the '7-ELEVEN' logo, showing it off to the camera. (3) A sequence of different young women, all in similar beige hoodies, appear in individual shots, each holding the same colorful lanyard and smiling or speaking excitedly at the camera. (4) One woman in a white top and yellow skirt gives two thumbs up and claps her hands excitedly while wearing the lanyard. (5) The first woman reappears, clapping and gesturing towards the lanyard with high energy. (6) A man in a vibrant, fruit-patterned shirt with a large gold medal around his neck shakes hands vigorously with a woman in a striped shirt. They are standing in an outdoor lot with white tents in the background, both laughing and giving thumbs up to the camera.",
+      "text_narrative_log": "(1) [Subtitle]: 恭喜啦. (2) [Subtitle]: 恭喜, 耶. (3) [Subtitle]: 恭喜你, 好棒喔. (4) [Subtitle]: 哇, 你好棒喔, 恭喜你戰勝了自己. (5) [Logo]: @7-ELEVEN. [Slogan]: 7K FRESH FUN RUN.",
+      "visual_human_presence": {
+        "totalHumanCount": 15,
+        "maleDetectAmount": 5,
+        "femaleDetectAmount": 10,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 6,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face close-up",
+          "Hands only",
+          "Full body"
+        ],
+        "crowdLevel": [
+          "Crowd"
+        ],
+        "countingEvidence": "5 unique women in close-up sequences, 1 main male creator at the end, and a crowd of at least 10 people in the background.",
+        "mainCharacterDescription": "Five young women in casual beige hoodies and sporty skirts; one man in a loud, fruit-patterned white shirt with a gold medal."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Outdoor Street",
+          "Event Venue / Convention Hall"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "An active outdoor event area with white festival tents, orange traffic cones, and large crowds of people under a clear sky.",
+        "lightingStyle": [
+          "Natural daylight"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Summer"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Selfie handheld",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium close-up",
+          "Close-up",
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Selfie perspective"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Montage"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots",
+          "Compilation / montage sequence"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Fruit"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "7-ELEVEN"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 6,
+        "total_distinct_voices": 8,
+        "male_vocal_count": 1,
+        "female_vocal_count": 7,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Rising",
+          "Complex"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 9,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Acoustic/Folk",
+          "Pop"
+        ],
+        "tempoBPM": 124,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "String",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Guitar",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Chatter",
+          "Laughter",
+          "Cheering"
+        ],
+        "crowdNoiseIntensity": 3,
+        "ambientNoiseDetails": [
+          "Nature/Outdoor"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "Handheld / Microphone Handling Noise"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX"
+        ],
+        "soundEffectsIntensity": 2,
+        "soundEffectsCoverage": 1
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) A female voice shouts 'Gongxi la!' with high arousal and excitement over upbeat acoustic guitar BGM. (2) Each visual cut is accompanied by a new female voice offering congratulations like 'Gongxi!' or 'Hao bang o!' with clear, high-pitched vocal quality and rising intonation. (3) Background sounds of laughter and a distant crowd murmur are consistently present under the primary speech. (4) A male voice enters the mix, shouting loudly with extreme dominance and arousal, thanking the event host ('Ban niang!') and praising the event in a rapid, energetic speech rate. (5) The audio concludes with overlapping laughter and enthusiastic vocal cheers from both the male and female speakers."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
         "Vlog",
-        "Event Highlights",
-        "Celebration"
+        "Event / Festival",
+        "Sports / Fitness"
       ],
-      "withRealPeople": true,
       "location": {
         "country": [
           "Taiwan"
@@ -19,158 +251,32 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video starts with a young woman with pigtails smiling widely and waving her hands toward the camera in an outdoor, crowded setting. (2) The scene cuts to a second woman with short hair holding up a colorful ribbon/medal for a '7K' event, smiling brightly. (3) A third woman with long dark hair appears, holding the same medal and speaking enthusiastically. (4) A fourth woman in a yellow skirt and tan hoodie is shown from a medium shot, cheering and then holding the medal to her face, followed by a close-up of her giving two thumbs up. (5) The first woman returns, holding a bundle of medals and clapping her hands excitedly. (6) The final scene shows a man in a colorful floral shirt walking up to a woman in a striped shirt; they shake hands vigorously while both smile and laugh toward the camera, posing for a photo at the end.",
-      "audio_narrative_log": "(1) High-pitched female voices are heard cheering and saying 'Gongxi ni' (Congratulations) over upbeat, fast-tempo background music. (2) The music continues as different female voices express excitement and praise. (3) A loud, energetic male voice enters, speaking rapidly in Mandarin with a very high-pitched and enthusiastic tone, praising the event. (4) Sounds of wind, crowd chatter, and the upbeat BGM blend together throughout the recording.",
-      "text_narrative_log": "(1) Functional Text: '7K' visible on the medals and ribbons held by participants. (2) Functional Text: Chinese subtitles appear at the bottom of the screen, translating the energetic speech of the man at the end. (3) Decorative Text: 'STAFF' is visible on a blue vest worn by a person in the background."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 7,
-      "averageSceneDuration": 3.8,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Event participants showing off medals -> Montage of celebration -> Main personality greeting the organizer/staff."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 15,
-      "maleDetectAmount": 4,
-      "femaleDetectAmount": 11,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 5,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Face close-up"
-      ],
-      "crowdLevel": "Crowd",
-      "countingEvidence": "5 main featured individuals (4 women, 1 man) and at least 10 background participants/passers-by.",
-      "mainCharacterDescription": "A man in a colorful floral pattern short-sleeve shirt and several young women wearing casual outdoor clothing like hoodies and sports skirts, all wearing '7K' medals."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Outdoor Event Space",
-          "Plaza"
-        ],
-        "topography": [
-          "Plain"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "An outdoor event area with white tents, crowd barriers, a Ferris wheel in the distance, and many people walking around.",
-      "lightingStyle": "Natural bright daylight",
-      "weather": "Sunny",
-      "season": "Spring/Autumn",
+      "sceneCutCount": 8,
+      "averageSceneDuration": 3.3,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "Low",
-        "language": [
-          "Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Bright and High Saturation",
-      "cameraWork": [
-        "POV",
-        "Handheld",
-        "Static"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "7K"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Fragmented",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 5,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 10,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 5,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "High-pitched, excited, and celebratory",
-        "pitch": "High",
-        "loudness": "Loud",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat/Pop",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum kit"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Wind",
-        "Crowd chatter"
-      ],
-      "audioQuality": "Field Recording"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage -> Linear: Reaction shots of various participants celebrating success -> Key influencer interacting with staff/organizer.",
-      "mainPurpose": "To showcase the joyous atmosphere and successful completion of a '7K' running or walking event hosted or attended by a popular influencer. The video aims to convey a sense of accomplishment, community, and high energy to the audience.",
-      "visualEmotion": "Joyful, Energetic, and Triumphant"
+      "narrativeStructure": "Montage: Sequential Greetings -> Climactic Event Appreciation",
+      "mainPurpose": "To showcase the successful completion of a 7-Eleven sponsored fun run and the vibrant, joyful atmosphere shared by participants and organizers.",
+      "visualEmotion": [
+        "energetic",
+        "warm",
+        "humorous"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
-        "Implicit",
+        "Explicit",
         "Integrated"
       ],
-      "endorsementCues": "Participants are prominently displaying medals and ribbons from a specific '7K' event, and the main personality is seen praising the event's organization.",
+      "endorsementCues": "Prominent display of 7-Eleven logos on event materials and verbal praise for the quality of the '7K Fresh Fun Run' event.",
       "endorsementObject": [
-        "7K Event"
+        "7-ELEVEN"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-energy, fast-paced editing, and signature high-pitched enthusiastic greeting from the male influencer.",
-      "freeDescribe": "The video features a well-known Taiwanese YouTuber (Cai A-ga/YGA) and focuses on the positive vibes of a local community event."
-    }
+    "freeDescribe": "The video effectively utilizes a social-media-native montage style to convey high emotional valence and brand engagement."
   }
 }

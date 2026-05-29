@@ -1,159 +1,264 @@
 {
   "videoName": "khshu_-20251119120703-900284672693865.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 31,
-      "aspectRatio": "9:16",
+      "videoDuration": 30,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The video begins in an indoor classroom setting with five individuals—three females and two males—standing in a line facing the camera. The central female character, wearing a white off-the-shoulder top and light-blue jeans, smiles brightly while gesturing towards the group. The background features typical school desks and chairs under bright, fluorescent ceiling lights. (2) The group transitions into the first step of a challenge, all simultaneously kneeling down on both knees on the polished grey floor. The camera uses a medium-full shot to capture their synchronized movements while they maintain cheerful facial expressions. (3) In the second phase of the movement, they all shift into a lunge position, bringing their right legs forward. The lighting remains flat and bright throughout the room, highlighting the textures of their casual clothing. (4) For the third and fourth steps, the participants raise their right arms high while reaching back with their left hands to grab their left ankles. One male participant in the background loses his balance and falls forward, which is highlighted by a circular zoom-in edit showing his clumsy landing. (5) The final phase shows the individuals attempting to stand up on one leg while still holding their other foot. The camera cuts between participants to show their varying levels of success; some stand firmly with triumphant smiles, while one female participant in a black skirt loses her balance and sits on the floor. The video ends with a male participant in a striped blue shirt successfully standing and posing confidently for the camera.",
+      "text_narrative_log": "(1) [Subtitle]: 據說這個動作能分出誰運動神經好?! [Logo]: @khshu_. [Slogan]: 挑戰!. (2) [Variety]: 吵死了! OK OK!. (3) [Slogan]: 第一步 跪下雙膝著地. (4) [Slogan]: 第二步 右腳往前. (5) [Slogan]: 第三步 右手舉高. (6) [Slogan]: 第四步 左手拉起左腳. (7) [Variety]: 他感覺不行了. [Variety]: 馬上跌倒. (8) [Slogan]: 最後一步 單腳起立!!. (9) [Logo]: 慈妹. [Slogan]: 第一位 成功. (10) [Logo]: 千千. [Slogan]: 第二位 成功. (11) [Logo]: 泱泱. [Slogan]: 下面一位 (失敗). (12) [Logo]: 蔡哥. [Slogan]: 第四位 成功?. (13) [Logo]: 得得. [Variety]: (一臉輕鬆). [Slogan]: 第五位 成功. (14) [Variety]: 只有我受傷的世界.",
+      "visual_human_presence": {
+        "totalHumanCount": 5,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 3,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 female main creator (center), 2 female friends, 2 male friends participating in the challenge.",
+        "mainCharacterDescription": "A tall female with long dark hair tied in a ponytail, wearing a white off-the-shoulder crop top and light-blue denim jeans."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Classroom / School"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "An indoor classroom environment with multiple rows of light-colored wooden desks and green-framed chairs. The floor is a grey speckled tile, and the ceiling has square fluorescent light panels.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium full shot",
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Freeze frame",
+          "Graphic transition"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 5,
+        "male_vocal_count": 2,
+        "female_vocal_count": 3,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM",
+          "Pop"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter",
+          "Cheering"
+        ],
+        "crowdNoiseIntensity": 3,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Object Impact / Thud / Drop"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Ding / Bell SFX",
+          "Pop / Bubble SFX",
+          "Impact / Hit SFX",
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio opens with a high-energy, upbeat electronic pop BGM featuring a steady 4/4 drum beat. A female voice speaks with high arousal and a cheerful tone, accompanied by background group laughter and chatter. (2) A sharp 'whoosh' sound effect triggers a transition as the speaker begins listing instructions. Each numbered step is punctuated by a bright digital 'ding' sound effect that aligns with the on-screen text appearance. (3) A distinct percussive 'thud' occurs when a participant falls, followed immediately by a surge in group laughter and high-pitched vocal reactions from the female speakers. (4) As the results phase begins, a series of celebratory 'tada' sound effects and triumphant bell chimes occur for each successful attempt. A comical, spring-like 'boing' sound effect marks a failure. (5) The final sequence features a dramatic synthesizer riser effect building tension, followed by loud cheering and applause as the last participant succeeds, all while the BGM maintains its high-tempo energy until a hard cut at the end."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
         "Challenge",
-        "Vlog",
-        "Lifestyle"
+        "Meme / Trend",
+        "Comedy"
       ],
-      "withRealPeople": true,
       "location": {
         "country": [
-          "Taiwan"
+          "Unknown"
         ],
         "city": [
           "Unknown"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video begins with five young adults standing in a line in what appears to be a classroom. They are smiling and looking at the camera. (2) A woman in a white crop top and light blue jeans steps forward to demonstrate a physical challenge. She kneels on both knees on the floor. (3) She proceeds through a series of steps: planting her right foot forward while keeping her left knee down, raising her right arm vertically, and then reaching back with her left hand to pull her left foot up towards her glute. (4) The other four individuals in the background follow her lead, mimicking the posture. (5) Each person then attempts the final step: standing up from the kneeling position using only the planted right leg. The first girl in black successed with a cheer. The lead woman in jeans succeeds easily. The third girl in a black skirt fails and falls over, causing laughter. The fourth person, a man in a white t-shirt, struggles significantly but manages to stand. The final man in a blue striped shirt stands up with ease and a confident smile. (6) The video ends with the group laughing and gesturing toward the girl who fell.",
-      "audio_narrative_log": "(1) Upbeat, high-tempo electronic dance music starts immediately and continues throughout the video. (2) A clear female voice speaks in Mandarin, giving step-by-step instructions for the challenge. (3) The background is filled with the sounds of group chatter, laughter, and excited shouting as the participants attempt the moves. (4) Distinct sound effects are used: a 'ding' sound for successful attempts and a cartoonish 'buzz' or 'fail' sound effect when one participant falls. (5) The audio concludes with a crescendo of laughter and the music fading out.",
-      "text_narrative_log": "(1) Functional Text: '據說這個動作能分出誰運動神經好?!' (Hook/Title: It is said this move can tell who has good athletic nerves?!). (2) Decorative Text: '挑戰!' (Challenge!). (3) Functional Text: '第一步: 跪下雙膝著地' (Step 1: Kneel with both knees touching the ground). (4) Functional Text: '第二步: 右腳往前' (Step 2: Right foot forward). (5) Functional Text: '第三步: 右手舉高' (Step 3: Right hand raised high). (6) Functional Text: '第四步: 左手拉起左腳' (Step 4: Left hand pulls up left foot). (7) Functional Text: '最後一步: 單腳起立!!' (Final step: Stand up on one leg!!). (8) Identification Text: Names of participants appear ('慈妹', '千千', '泱泱', '蔡哥', '得得') alongside their status '成功' (Success) or '失敗' (Failure) with emotional emojis."
-    },
     "temporal_pacing_summary": {
       "sceneCutCount": 18,
-      "averageSceneDuration": 1.72,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro -> Instructional Demo -> Individual Execution/Results -> Group Reaction"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 5,
-      "maleDetectAmount": 2,
-      "femaleDetectAmount": 3,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 5,
-      "bodyPartVisibility": [
-        "Full body"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "3 females and 2 males are visible throughout the challenge sequence.",
-      "mainCharacterDescription": "Five young adults in casual trendy clothing: one female in a white crop top and wide-leg jeans, one female in a white top and black skirt, one female in a white tank top and black cargo pants, one male in a white t-shirt and grey shorts, and one male in a blue striped button-down shirt and black pants."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Classroom"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A spacious room with tiled floors, rows of windows letting in bright daylight, and stacked wooden chairs and desks in the background.",
-      "lightingStyle": "Bright natural and indoor overhead lighting",
-      "weather": "Sunny/Clear",
-      "season": "Spring/Summer",
+      "averageSceneDuration": 1.6,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "Bright, High Saturation, Clean",
-      "cameraWork": [
-        "Static",
-        "Follow shot"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 5,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 2,
-          "female_vocal_count": 3,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited, energetic, and humorous",
-        "pitch": "Moderate to High",
-        "loudness": "Loud/Cheerful",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Ding",
-        "Buzzer",
-        "Meme sounds"
-      ],
-      "ambientNoise": [
-        "Studio quiet",
-        "Indoor echo"
-      ],
-      "audioQuality": "Field Recording"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Instructional Tutorial -> Sequential Results -> Outro",
-      "mainPurpose": "To entertain the audience by showcasing a trending physical challenge performed by a group of well-known influencers, highlighting their different levels of physical coordination and balance through humor and success.",
-      "visualEmotion": "Energetic, Competitive, Humorous"
+      "narrativeStructure": "Linear: Hook -> Tutorial -> Execution -> Results",
+      "mainPurpose": "The video aims to entertain viewers by showcasing a group of friends attempting a viral physical coordination challenge. It leverages humor through participants' failures and provides satisfaction through successful completions, all packaged in a high-energy, social-media-native editing style.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -165,9 +270,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Use of variety show-style dynamic text, specific influencer identification (Chienchien, Yuyu), and high-energy group dynamics.",
-      "freeDescribe": "The video leverages the popularity of the 'one-leg stand challenge' and the chemistry between several famous Taiwanese YouTubers and cheerleaders to maximize engagement."
-    }
+    "freeDescribe": "The video utilizes classic variety show editing techniques, such as exaggerated sound effects and colorful on-screen text, to enhance the comedic timing of the physical challenge."
   }
 }

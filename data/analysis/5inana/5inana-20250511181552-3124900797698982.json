@@ -1,154 +1,255 @@
 {
   "videoName": "5inana-20250511181552-3124900797698982.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 6,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Travel"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "Taiwan"
+      "visual_narrative_log": "(1) A young woman stands inside a moving train carriage, captured in a medium full shot. She wears a distinctive green-and-white plaid headscarf over short reddish hair, paired with a cream-colored graphic t-shirt and a patterned skirt. She is looking pensively out the large window as blurred trees and urban scenery flash past at high speed. Her hands rest on the handle of a black suitcase, and a black cross-body bag is slung over her shoulder. The lighting is soft and natural, originating from the daylight outside the window, creating a calm and contemplative atmosphere within the metallic interior of the train car.",
+      "text_narrative_log": "(1) [Logo]: 星光奈奈. [Slogan]: 小心門擠手. [Slogan]: Beware of closing doors. [Slogan]: 請勿靠近門. [Slogan]: Don't stand near the door.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Torso",
+          "Partial body"
         ],
-        "city": [
-          "Unknown"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video depicts a young woman with curly reddish-brown hair standing inside a moving train. She is wearing a plaid headscarf/visor combo, an off-white graphic T-shirt, and a patterned skirt. She holds the handle of a black suitcase. She stands still, looking out the train window with a neutral, contemplative expression. The scenery outside the window is blurred due to the train's speed.",
-      "audio_narrative_log": "(1) The audio consists entirely of the loud, rhythmic clattering of a train moving along tracks. There is a constant background rumble of machinery and wind. No vocals or musical elements are detected throughout the clip.",
-      "text_narrative_log": "(1) '星亮商務' appears as a watermark in the upper left corner. (2) On the train door glass, safety text is visible: '小心門開手' (Functional/Safety) and its English translation 'Please stay clear of doors' (Functional/Safety)."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 0,
-      "averageSceneDuration": 6.0,
-      "isNarrativeShift": false,
-      "mainActionFlow": "A single static shot of a person observing the view from a moving train window."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "1 main character in focus, and the partial view of a passenger's head on the far left edge of the frame.",
-      "mainCharacterDescription": "A young female with curly reddish hair, wearing a unique plaid headscarf, a graphic tee, and holding a suitcase."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Train Interior"
+        "crowdLevel": [
+          "Duo"
         ],
-        "topography": [
-          "None"
+        "countingEvidence": "1 main female creator looking out the window, 1 partial figure visible on the far left edge of the frame.",
+        "mainCharacterDescription": "A woman with short reddish hair wearing a green plaid headscarf/cap, a cream-colored graphic t-shirt, and a dark cross-body bag."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Public Transport Interior"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "The interior of a clean, modern train carriage with stainless steel doors and a large glass window showing blurred greenery and suburban structures outside.",
+        "lightingStyle": [
+          "Natural daylight"
+        ],
+        "weather": [
+          "Cloudy / Overcast"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural"
         ]
       },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "The interior of a modern train carriage with stainless steel handles and a large glass door showing a blurred outdoor landscape.",
-      "lightingStyle": "Natural daylight coming through the train window.",
-      "weather": "Unknown",
-      "season": "Unknown",
-      "editingPace": "Slow",
-      "textOverlay": {
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "None"
+        ],
+        "visualRhythm": [
+          "Single continuous take"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
         "density": "Low",
-        "language": [
+        "textLanguage": [
           "Traditional Chinese",
           "English"
         ],
         "isSubtitled": false
       },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "Train"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "None",
-      "vocalRatio": "None"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 0,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "None",
-        "pitch": "None",
-        "loudness": "None",
-        "speed": "None",
-        "speechDensity": "None",
-        "language": [
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "Train / metro / HSR"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
           "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": false,
-      "bgmGenre": "None",
-      "bgmBPM": 0,
-      "instrumentFamiliesAudible": [
-        "None"
-      ],
-      "instrumentsAudible": [
-        "None"
-      ],
-      "musicSourceType": [
-        "None"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Train noise"
-      ],
-      "audioQuality": "Field"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ],
+        "keySignature": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Urban/Traffic"
+        ],
+        "ambientNoiseIntensity": 3,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 2,
+        "acousticDynamism": 1,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 3,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 1,
+        "audioCutFrequency": 0,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio consists solely of the steady, mechanical rumble and rhythmic clacking of a train traveling on tracks. There are no human voices, dialogue, or background music. The sound profile is dominated by low-to-mid frequency vibrations from the train's movement, with occasional higher-frequency metallic friction as the train potentially rounds a slight curve or hits a rail joint. The acoustic environment is consistent throughout the clip, representing a raw field recording of a transit vehicle interior."
     }
   },
-  "high_inference_interpretations": {
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Vlog",
+        "Lifestyle"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 6.0,
+      "editingPace": "Slow",
+      "isNarrativeShift": false
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Observation -> Motion",
-      "mainPurpose": "To capture a fleeting, aesthetic moment of travel. The video relies on the visual contrast between the static character and the fast-moving background to evoke a sense of journey and introspection.",
-      "visualEmotion": "Calm"
+      "narrativeStructure": "Linear: Observation",
+      "mainPurpose": "To capture an aesthetic and atmospheric moment of travel, focusing on the mood of the passenger and the rhythmic motion of public transit.",
+      "visualEmotion": [
+        "calm",
+        "contemplative"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -160,9 +261,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Eclectic fashion sense (plaid headscarf).",
-      "freeDescribe": "The presence of Traditional Chinese text on the doors suggests the video was likely recorded on a Taiwan Railways or MRT train."
-    }
+    "freeDescribe": "A minimalist, atmospheric shot that relies on visual motion and ambient sound to convey a sense of travel and solitude."
   }
 }

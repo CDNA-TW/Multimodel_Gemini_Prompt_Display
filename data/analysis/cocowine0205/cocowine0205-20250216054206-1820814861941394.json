@@ -1,174 +1,270 @@
 {
   "videoName": "cocowine0205-20250216054206-1820814861941394.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 20,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Shopping Review"
-      ],
+      "videoDuration": 21,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) Two women stand in a Costco warehouse aisle, each holding a large, plush mahjong tile pillow. The woman on the left wears a purple sweater and a patterned bucket hat; the woman on the right wears a black top. The pillows are white and fluffy with large green and red characters. The background shows tall warehouse shelves stocked with bulk items and a few distant shoppers. Lighting is bright and even. (2) The women rotate the pillows to show the side and back. The woman on the left points to the green fabric on the side of her 'Eight Million' pillow. They smile and look at the camera, then at each other. A person in a grey hoodie walks by in the background. (3) The women bring the pillows close together and look directly at the camera with joyful expressions. The text overlays continue to appear, emphasizing the price and the product. The environment remains a busy retail warehouse with visible store aisles.",
+      "text_narrative_log": "(1) [Logo]: COSTCO WHOLESALE. [Subtitle]: 喜歡打麻將的朋友不要錯過. [Variety]: 過年必備 589元. (2) [Subtitle]: 麻將抱枕 那麼大一個 跟嬰兒一樣大. (3) [Subtitle]: 589元 這個可以 打麻將時候偷偷給. (4) [Subtitle]: 八萬! 偷偷暗示一下. [Variety]: 八萬!. (5) [Subtitle]: 可是只有兩個圖案 八萬跟發. (6) [Subtitle]: 然後它超厚的 深綠色也蠻好看. (7) [Subtitle]: 那可能會有點粘毛 抱起來觸感很好 很溫暖.",
+      "visual_human_presence": {
+        "totalHumanCount": 4,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 3,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "2 main female creators, at least 2 passers-by visible in the background.",
+        "mainCharacterDescription": "One woman in a purple sweater and fuzzy patterned hat, another in a black top with dark hair."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Supermarket / Warehouse Store"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "Costco wholesale warehouse interior with high ceilings, tall metal racks filled with assorted merchandise, and other shoppers in the distance.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Autumn / Winter"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "COSTCO WHOLESALE"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 0,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop"
+        ],
+        "tempoBPM": 124,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Crowd Murmur"
+        ],
+        "crowdNoiseIntensity": 1,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "Plastic / Bag Rustle"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Ding / Bell SFX",
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Mixed"
+        ]
+      },
+      "audio_narrative_log": "(1) High-energy female voice begins speaking in Mandarin with a friendly and excited tone. Upbeat, fast-tempo pop BGM starts simultaneously. Occasional soft thuds as the pillows are handled. (2) Vocal pitch remains high and expressive. A cartoonish 'ding' SFX occurs as a price tag overlay appears. The music maintains a steady, rhythmic beat with synth and electronic drum elements. (3) Another speaker joins briefly, laughing slightly. The primary speaker's volume increases as she shouts 'Eight Million!'. A stylized popping sound effect accompanies the visual text transition. (4) Speech rate is fast and enthusiastic. BGM continues at a consistent volume. Background ambient noise of a busy warehouse store is faintly audible but well below the signal level. (5) Vocal delivery becomes slightly more descriptive and informative regarding the textures. A final upbeat musical flourish as the video ends abruptly."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Shopping",
+        "Product Showcase"
+      ],
       "location": {
         "country": [
-          "Taiwan"
+          "Unknown"
         ],
         "city": [
           "Unknown"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) Two females stand in a warehouse-style store, both holding oversized Mahjong-shaped plush pillows; one woman wears a fuzzy hat and purple cardigan, while the other has long dark hair and a black outfit. (2) They lift and rotate the pillows, which are labeled with the Mahjong symbols 'Eight Wan' and 'Fa', demonstrating the green textured backing and the significant thickness of the cushions. (3) The women smile and gesture toward the pillows while speaking, with store shelves and other shoppers visible in the background.",
-      "audio_narrative_log": "(1) Fast-paced, upbeat background music begins immediately alongside an energetic female voice speaking in Mandarin. (2) The acoustic environment includes faint ambient store noise, such as distant chatter and the sound of movement, though the main vocal remains dominant. (3) The speaker maintains a high-pitched, enthusiastic tone throughout the duration of the clip without significant audio transitions.",
-      "text_narrative_log": "(1) Functional Text: 'COSTCO WHOLESALE' logo appears at the top. (2) Decorative/Hook Text: '喜歡打麻將的朋友' (Friends who like playing Mahjong) and '過年必備 589元 麻將抱枕' (New Year Essential, 589 NTD, Mahjong Pillow) are displayed in bright, variety-show style fonts. (3) Decorative/Effect Text: '八萬!' and '發!' appear in large, colorful characters to match the Mahjong tiles. (4) Functional Text: Subtitles translate the spoken dialogue throughout the video."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 6,
-      "averageSceneDuration": 3.3,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Intro -> Product Demo -> Feature Highlight"
+      "sceneCutCount": 4,
+      "averageSceneDuration": 5.25,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
     },
-    "visual_human_presence": {
-      "totalHumanCount": 3,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "2 main female creators in the foreground, 1 male passerby in the background.",
-      "mainCharacterDescription": "One female wears a grey fuzzy bucket hat and a purple knit cardigan; the second female has long dark hair and wears a black top with sheer sleeves."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Warehouse",
-          "Costco"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A large retail warehouse environment with high industrial ceilings, shelves stocked with clothing, and other customers walking with shopping carts.",
-      "lightingStyle": "Intense studio-style warehouse lighting",
-      "weather": "Indoor",
-      "season": "Winter (based on clothing)",
-      "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "High Saturation",
-      "cameraWork": [
-        "Static",
-        "Slight Handheld"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "Shopping Cart"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "COSTCO WHOLESALE"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 1,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "High-pitched and excited",
-        "pitch": "High",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "Cartoon SFX"
-      ],
-      "ambientNoise": [
-        "Studio quiet",
-        "Crowd chatter"
-      ],
-      "audioQuality": "Field Recording"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Feature Showcase -> Pricing",
-      "mainPurpose": "To promote a specific seasonal product (Mahjong-themed pillows) sold at Costco, using an energetic and humorous vlog style to attract shoppers looking for Lunar New Year decorations or gifts.",
-      "visualEmotion": "Energetic and Humorous"
+      "narrativeStructure": "List-based: Hook -> Product Feature Demonstration -> Review",
+      "mainPurpose": "The video aims to promote and showcase oversized mahjong-themed plush pillows available at Costco. It uses enthusiastic narration and visual close-ups to highlight the product's novelty, size, price, and texture, targeting consumers looking for unique home decor or Chinese New Year themed items.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
-        "Implicit",
+        "Explicit",
         "Integrated"
       ],
-      "endorsementCues": "Direct mention of price (589 NTD), clear store location (Costco), and enthusiastic product demonstration.",
+      "endorsementCues": "Direct presentation of the product, price, and store location (Costco).",
       "endorsementObject": [
         "Costco"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-energy shopping recommendation with large variety-show captions.",
-      "freeDescribe": "The video effectively uses the cultural significance of Mahjong in Chinese-speaking regions to create a 'must-buy' narrative for the Lunar New Year season."
-    }
+    "freeDescribe": "The video's high energy and mahjong theme suggest it is likely targeted toward a Chinese-speaking audience during a holiday season."
   }
 }

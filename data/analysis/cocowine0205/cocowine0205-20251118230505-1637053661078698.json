@@ -1,15 +1,249 @@
 {
   "videoName": "cocowine0205-20251118230505-1637053661078698.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 55,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Food Review",
-        "Shopping Haul"
-      ],
+      "videoDuration": 56,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A pair of silver scissors cuts through a golden-brown pan-fried bun. As the blades meet, a visible spray of clear liquid squirts onto a black textured plate. A large brand logo is overlaid at the top. (2) A woman with a blue bucket hat and a white long-sleeved shirt stands inside a brightly lit warehouse store. She gestures excitedly with both hands toward a glass-door freezer filled with stacks of red and yellow boxes. (3) Close-up shots focus on the packaging, showing images of the buns and Chinese characters. The woman picks up a box and presents it to the camera with a wide smile. (4) Several small, round buns are arranged in a grey non-stick pan, their bottoms turning dark brown from frying. A metal tool is used to move them. (5) The scene shifts to an indoor dining area where two women sit at a table. One wears a red bucket hat and a yellow striped shirt; the other has long dark hair and a purple top. They use chopsticks to pick up the small buns, showing the insides to the lens before eating and giving thumbs-up gestures.",
+      "text_narrative_log": "(1) [Logo]: COSTCO WHOLESALE. [Variety]: 噴汁. (2) [Slogan]: 一顆4元 還爆汁. [Logo]: COSTCO WHOLESALE. [Variety]: 最便宜的生煎包. (3) [Slogan]: 好市多 最便宜的生煎包. (4) [Slogan]: 陳品冷凍 迷你生煎包. (5) [Variety]: 80顆. (6) [Slogan]: 就很好吃. (7) [Variety]: 大爆汁. (8) [Slogan]: 小朋友吃要注意不要燙到.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "One main female creator (appearing in both blue and red hats) and one female companion in the dining scene.",
+        "mainCharacterDescription": "The main woman wears a blue bucket hat with a white long-sleeved top in the store, and later a red bucket hat with a yellow striped shirt at home."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Supermarket / Warehouse Store",
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The first scene is a Costco freezer aisle with commercial shelving and glass doors. The second scene is a residential interior with a wooden dining table and a blurred living room background.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Close-up",
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "High angle"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Fast cuts"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Dessert / cake / cookies",
+          "Meat / beef / pork / chicken",
+          "Prepared meal / plated dish"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "COSTCO",
+          "陳品"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 0,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 124,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Liquid Pour / Splash",
+          "Mechanical Click / Latch",
+          "Ceramics / Glass  Clink"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Digital UI SFX",
+          "Pop / Bubble SFX",
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) A sharp metallic cutting sound is immediately followed by a high-pressure squelching spray sound. Upbeat, high-tempo electronic BGM enters with a persistent kick drum. (2) A female voice speaks with high arousal and rapid pacing, describing a product. A digital 'ping' sound effect marks the appearance of text. The BGM remains energetic. (3) A muffled sizzling sound is audible beneath the narration as the speaker continues with rising intonation. (4) Another 'snip' and 'squirt' sound effect repeats, followed by a 'whoosh' transition. The vocal delivery shifts to a slightly more conversational tone but remains high-pitched. (5) Two female voices interact; the primary narrator continues her enthusiastic description while secondary vocal reactions like 'mmm' are heard. Sounds of plastic rustling and chopsticks tapping on a plate are mixed into the high-energy BGM bed."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Food Review",
+        "Vlog"
+      ],
       "location": {
         "country": [
           "Taiwan"
@@ -19,165 +253,32 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video starts with a close-up of a pan-fried bun being cut by metal scissors, with a significant amount of juice squirting out. (2) A woman in a blue bucket hat and denim overalls is standing in a Costco warehouse in front of a freezer section, gesturing excitedly with her hands while talking. (3) Close-up shots of stacks of red 'Chen Pin' mini pan-fried bun boxes are shown. (4) The woman is seen frying several small buns in a grey non-stick pan, flipping them to reveal a golden-brown crust. (5) The woman, now wearing a red bucket hat and a yellow striped shirt, sits at a table with another woman in a maroon top. They both use chopsticks to hold up buns, bite into them, and react with exaggerated facial expressions of delight as juice squirts out.",
-      "audio_narrative_log": "(1) Upbeat, fast-tempo pop background music starts immediately. A high-pitched, energetic female voice introduces the product, mentioning Costco and the price of 4 yuan per piece. (2) Sizzling sounds of food frying are heard clearly over the music. (3) The primary female vocal continues with a fast-paced narration, joined by a second female voice during the tasting phase. They discuss the ingredients like pork, onions, and ginger, and emphasize the 'juiciness' with vocal sound effects like 'Ooh' and 'Mmm'.",
-      "text_narrative_log": "(1) Functional Text: Traditional Chinese subtitles appear throughout the video, translating the spoken dialogue about the product details and taste. (2) Decorative/Effect Text: Large, colorful captions appear, including '噴汁' (Squirting juice) with orange motion lines, '一顆4元 還爆汁' (4 yuan each and bursting with juice), '最便宜的生煎包' (The cheapest pan-fried bun), '陳品冷凍迷你生煎包' (Chen Pin Frozen Mini Pan-fried Bun), and '80' to highlight the quantity in the box. '大爆汁' (Super bursting juice) appears in large blue and pink font during the tasting section."
-    },
     "temporal_pacing_summary": {
       "sceneCutCount": 18,
-      "averageSceneDuration": 3.05,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Hook (Juice Squirting) -> Product Discovery (Costco Store) -> Preparation (Kitchen Frying) -> Consumption & Review (Dining Table)"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Head and shoulders"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "1 main female creator wearing hats, 1 female companion at the dining table.",
-      "mainCharacterDescription": "A young Asian woman with long dark hair, wearing a blue bucket hat and denim overalls in the first half, and a red bucket hat with a yellow striped shirt in the second half."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Warehouse",
-          "Indoor Kitchen",
-          "Dining Room"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "The first scene is a Costco warehouse aisle with industrial freezers and pallet racking. The second scene is a modern home kitchen with a stove. The third scene is a dining table with a neutral wall and household items in the background.",
-      "lightingStyle": "Bright indoor lighting, consistent across the warehouse and home settings.",
-      "weather": "None",
-      "season": "None",
+      "averageSceneDuration": 3.1,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "High Saturation",
-      "cameraWork": [
-        "Static",
-        "Close-up",
-        "Handheld"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Pan-fried Buns",
-        "Pork",
-        "Onions"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Costco Wholesale",
-        "Chen Pin (陳品)",
-        "KANGOL"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 2,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "High-pitched and excited",
-        "pitch": "High",
-        "loudness": "High",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Sizzling",
-        "Juice squirting SFX"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Location Intro -> Cooking Demo -> Tasting Review -> Final Recommendation",
-      "mainPurpose": "The video is a promotional food review intended to showcase a high-value frozen food product (Chen Pin Mini Pan-fried Buns) available at Costco. It uses visual proof of 'juiciness' and the low price point of 4 yuan per bun to entice viewers to purchase the item. The high-energy delivery and shared eating experience aim to validate the product's quality and taste.",
-      "visualEmotion": "Energetic, appetizing, and enthusiastic"
+      "narrativeStructure": "Montage: Hook -> Location Introduction -> Product Inspection -> Cooking/Eating Demonstration -> Verdict",
+      "mainPurpose": "The video aims to promote and review a specific brand of frozen mini pan-fried buns available at Costco. It uses visual 'hook' footage of juice spraying out to capture attention, followed by a value-for-money argument based on the low unit price.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
-        "Implicit",
-        "Full"
+        "Implicit Integrated"
       ],
-      "endorsementCues": "The video focuses entirely on one specific brand's product, highlights its price and quantity, and demonstrates its quality through cooking and eating, acting as a strong recommendation.",
+      "endorsementCues": "Detailed showcasing of brand packaging, price points, and enthusiastic consumption in a home environment.",
       "endorsementObject": [
-        "Costco Wholesale",
-        "陳品冷凍迷你生煎包"
+        "COSTCO",
+        "陳品"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-energy 'hook' featuring extreme food close-ups, usage of variety-show style large text overlays.",
-      "freeDescribe": "The video targets budget-conscious foodies looking for high 'CP value' (cost-performance) items at wholesale retailers."
-    }
+    "freeDescribe": "The video utilizes classic social media food-blogging tropes, specifically focusing on 'food porn' visuals (the spray of juice) to trigger viewer engagement."
   }
 }

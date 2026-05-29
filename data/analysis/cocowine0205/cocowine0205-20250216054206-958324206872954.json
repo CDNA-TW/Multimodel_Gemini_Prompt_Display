@@ -1,175 +1,274 @@
 {
   "videoName": "cocowine0205-20250216054206-958324206872954.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 24,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Shopping",
-        "Product Showcase"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) The video opens in a large warehouse retail environment with towering shelves filled with plastic-wrapped pallets. A person, visible from the chest down, wears a blue long-sleeved shirt and black shorts. They are holding a vibrant, stylized lion dance head plush pillow in front of their upper body, shaking it rhythmically to mimic a traditional lion dance. (2) The camera cuts to two women standing in the warehouse aisle. One woman on the left has long dark hair and wears a black dress; the woman on the right wears a purple sweater, a grey fuzzy bucket hat, and holds a white and gold lion pillow. They are both smiling and looking directly at the camera while speaking. (3) The woman in the purple sweater demonstrates a hand-pocket feature on the back of the lion pillow, sliding her hands inside to show its functionality. The background remains consistent with high-set industrial shelving and bright warehouse lighting. (4) Both women hold their respective pillows (red and white/gold) and perform a playful, synchronized dance, moving the pillows up and down. Their facial expressions are joyful and high-energy. The video concludes with them holding the products and posing towards the camera.",
+      "text_narrative_log": "(1) [Logo]: COSTCO WHOLESALE. [Variety]: 咚咚鏘咚咚鏘. (2) [Subtitle]: 竟然有醒獅抱枕. [Slogan]: 699元. [Slogan]: 一個金一個紅. (3) [Subtitle]: 太旺了吧！ [Subtitle]: 放在家裡醒過來. [Slogan]: 699元一個. (4) [Subtitle]: 而且手還可以插進去. [Subtitle]: 觸感也滿好的. (5) [Subtitle]: 還可以. [Variety]: 突然就想要跳醒獅. (6) [Variety]: 咚咚鏘. [Subtitle]: 我覺得過年拿真的是非常. [Variety]: 適合拜年. (7) [Variety]: 給我紅包！ [Variety]: 恭喜發財.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "2 main female creators appearing throughout the video.",
+        "mainCharacterDescription": "One woman has long black hair and wears a black outfit. The other wears a light purple knit sweater and a grey/white fuzzy bucket hat."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Supermarket / Warehouse Store"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A typical Costco warehouse interior with high-reaching metal racks, pallets wrapped in plastic, and industrial concrete flooring.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Winter"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Walking handheld"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Medium full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Fast cuts"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Plush / decoration / toy animal"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Costco"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 0,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Pentatonic/Traditional"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Gong",
+          "Chinese Drum",
+          "Bo"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Ding / Bell SFX",
+          "Whoosh / Transition SFX",
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio starts with a rhythmic, high-energy percussion track featuring traditional Chinese drums and cymbals. A female voice loudly chants 'Dong Dong Qiang' in synchronization with the beat. The pitch is high and the tone is celebratory. (2) A sharp transition occurs as the percussive music settles into a lower-volume background bed. Two female voices begin a fast-paced conversation in Mandarin, expressing excitement about a product. Their speech rate is high, and the delivery is clearly articulated and professional. (3) A bright 'sparkle' or 'ding' sound effect is heard as they discuss the price and features of the pillows. The music maintains a constant, upbeat tempo under the vocals. (4) The audio track ends with a repeat of the 'Dong Dong Qiang' vocal chant accompanied by an increased volume of cymbals, marking a high-energy conclusion to the demonstration. The signal remains exceptionally clean throughout."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Product Showcase",
+        "Meme / Trend",
+        "Shopping"
+      ],
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "None"
+          "Unknown"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video opens with a person wearing a large, colorful lion dance head pillow performing an energetic dance in a warehouse aisle. A large Costco logo is superimposed at the top. (2) The scene cuts to two young women standing in the aisle, each holding a lion head pillow—one predominantly red and gold, the other multi-colored. They speak enthusiastically to the camera, smiling and gesturing. (3) They demonstrate a feature of the pillows where hands can be inserted into the sides, acting out a playful 'lion dance' movement with the pillows. (4) The women continue to present the pillows with high energy, ending with a celebratory pose as various festive text bubbles appear around them.",
-      "audio_narrative_log": "(1) High-energy traditional Chinese festive percussion music (drums and cymbals) plays immediately, mimicking a lion dance performance. No vocals are present. (2) The music volume lowers as two female voices enter, speaking in a high-pitched, excited, and friendly tone in Mandarin. They are describing the product's price and feel. (3) The rhythmic percussion music continues in the background throughout the rest of the video, interspersed with cartoonish 'pop' and 'ting' sound effects that coincide with on-screen text appearances. (4) Ambient warehouse noise is minimal and suppressed by the studio-quality vocal recording and BGM.",
-      "text_narrative_log": "(1) Functional Text: 'COSTCO WHOLESALE' logo; '醒獅抱枕 699元' (Lion Dance Pillow 699 NTD); '一個金 一個紅' (One gold, one red); '699元1個'. (2) Decorative/Hook Text: '咚咚鏘' (Drums and Cymbals onomatopoeia) appearing in multiple vibrant bubbles; '太旺了吧!' (So prosperous/hot!); '觸感也滿好的' (The feel is also quite good); '突然就想要跳醒獅' (Suddenly want to do a lion dance); '適合拜年' (Suitable for New Year greetings); '給我紅包!' (Give me red envelopes!)."
     },
     "temporal_pacing_summary": {
-      "sceneCutCount": 6,
-      "averageSceneDuration": 4.0,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Hook (Lion Dance) -> Product Introduction -> Feature Demonstration -> Festive Closing"
+      "sceneCutCount": 12,
+      "averageSceneDuration": 2.0,
+      "editingPace": "Fast",
+      "isNarrativeShift": false
     },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Head and shoulders"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "2 main female presenters appearing throughout the video.",
-      "mainCharacterDescription": "One woman wears a black puff-sleeve top and a black pleated skirt; the other wears a purple knitted sweater and a grey patterned fluffy bucket hat."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Warehouse",
-          "Retail Store"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A warehouse store aisle (Costco) with high metal industrial shelving units stacked with boxes of bedding and home goods, specifically branded 'Ashler China'.",
-      "lightingStyle": "Bright, even industrial warehouse lighting.",
-      "weather": "None",
-      "season": "None",
-      "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Bright and Saturation-focused",
-      "cameraWork": [
-        "Static",
-        "Follow shot"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "Lion (Pillow form)"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "COSTCO",
-        "Ashler China"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 2,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "High-pitched, excited, and persuasive",
-        "pitch": "High",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Traditional Chinese Percussion",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Drums",
-        "Cymbals"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Cartoon SFX",
-        "Pop sounds"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Field"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Evidence -> List-based -> CTA",
-      "mainPurpose": "The video is a promotional product showcase designed to drive sales for a specific seasonal item (Lion Dance pillows) at Costco. It uses a high-energy 'hook' (dancing with the product) to grab attention, followed by a detailed review of the product's price, texture, and playful features (hand pockets), all while leveraging the festive atmosphere of the Lunar New Year to appeal to consumers' cultural sentiments.",
-      "visualEmotion": "Energetic and Humorous"
+      "narrativeStructure": "Montage: Hook -> Demonstration -> Feature Highlight -> CTA",
+      "mainPurpose": "The video aims to promote a specific seasonal product—lion dance plush pillows—available at Costco. It uses a high-energy, festive theme aligned with Lunar New Year traditions to capture viewer attention and demonstrate product features in an entertaining way.",
+      "visualEmotion": [
+        "energetic",
+        "warm",
+        "humorous"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
-        "Explicit",
-        "Full"
+        "Integrated",
+        "Explicit"
       ],
-      "endorsementCues": "The video explicitly names the store (Costco), shows the price tag, and demonstrates the product features to encourage purchase.",
+      "endorsementCues": "Direct mention of price and visual display of product within a Costco warehouse environment with the company logo prominently featured.",
       "endorsementObject": [
-        "COSTCO"
+        "Costco"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-density traditional Chinese text bubbles and festive percussion music synchronized with movement.",
-      "freeDescribe": "The content is highly optimized for short-video platforms like TikTok or Instagram Reels, focusing on seasonal trends and value-for-money warehouse shopping finds."
-    }
+    "freeDescribe": "A highly effective short-form commercial that leverages cultural trends and retail exclusivity to drive consumer interest."
   }
 }

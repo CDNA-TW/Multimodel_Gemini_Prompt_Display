@@ -1,164 +1,268 @@
 {
   "videoName": "3ctim-20250507091959-1620515565532668.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 20,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Tech Review"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "China"
+      "visual_narrative_log": "(1) A middle-aged man wearing a flat cap and glasses speaks directly into the camera. He wears a dark, cable-knit sweater. The background is a plain white wall. Yellow and orange text overlays appear at the bottom. (2) The scene cuts to a close-up of a person's hands holding a black smartphone with a large circular camera module. A separate, large black lens attachment is held nearby. The hands wear wooden bead bracelets. A cartoon cat graphic with a sweating expression appears over the hands, followed by cartoon eyes. (3) The man is now seen in a wider shot within a tech exhibition booth with a red background. He wears a blue sweatshirt with a brand logo and a backpack. He holds the smartphone and attaches the circular lens to it magnetically. (4) Close-up shots of the lens being snapped onto the back of the phone. The phone screen shows a camera interface capturing a crowd in a hall. Yellow subtitles persist at the bottom.",
+      "text_narrative_log": "(1) [Logo]: 3c有趣思tim哥. [Logo]: @3ctim. [Subtitle]: 在小米發表會. (2) [Subtitle]: 我差點摔壞了鏡頭!!. (3) [Variety]: 救救... [Subtitle]: 欸 熱騰騰的. (4) [Subtitle]: 你看. [Subtitle]: 它是磁吸的. (5) [Subtitle]: 這是一款可磁吸. [Subtitle]: 用於手機外部外掛式的鏡頭相機. (6) [Subtitle]: 無需配對充電. [Subtitle]: 另外連結. (7) [Subtitle]: 欸 能即吸跟即用. (8) [Subtitle]: 那你有興趣嗎?",
+      "visual_human_presence": {
+        "totalHumanCount": 5,
+        "maleDetectAmount": 4,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face",
+          "Hands only"
         ],
-        "city": [
-          "None"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video starts with a close-up of a middle-aged male (Tim) wearing a grey flat cap and glasses, speaking enthusiastically. (2) A quick cut shows him appearing to drop a black object, then a transition to him at a tech launch event standing in front of a red backdrop. (3) He picks up a black magnetic lens accessory from a display stand. (4) He demonstrates attaching the lens to the back of a smartphone, showing the magnetic connection. (5) The camera switches to a POV shot of the smartphone's screen, showing the camera interface while someone walks by in the background. (6) Tim looks back at the camera, smiling and pointing to the device.",
-      "audio_narrative_log": "(1) High-energy Mandarin vocals start immediately, accompanied by a fast-paced, upbeat electronic background track. (2) A sharp 'whoosh' sound effect occurs during a visual transition. (3) The vocals continue with a steady, excited tone as the background music maintains its tempo. (4) Subdued ambient crowd noise and chatter are audible in the background of the event space. (5) A final closing statement by the male speaker ends the video.",
-      "text_narrative_log": "(1) '在小米發表會' (At Xiaomi Launch Event) - Functional text setting the scene. (2) '我差點摔壞了鏡頭!!' (I almost broke the lens!!) - Hook text in a variety-show style. (3) '救救...' (Help...) with eye emojis - Decorative/Humorous text. (4) '熱騰騰的' (Fresh/Hot) - Decorative text indicating a new release. (5) '它是磁吸的' (It's magnetic) - Functional technical description. (6) '這是一款可磁吸用於手機背部外掛式的鏡頭相機' (This is a magnetic external lens camera for the back of phones) - Functional subtitle. (7) '無需配對充電 另外連結' (No pairing or charging, separate connection) - Functional product feature text. (8) '能即吸跟即用' (Can be used immediately upon attachment) - Functional product feature text. (9) '那你感興趣嗎?' (Are you interested?) - Hook/Call to Action."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 9,
-      "averageSceneDuration": 2.2,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro Hook -> Product Demonstration -> Practical Usage Demo -> Closing Question."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 5,
-      "maleDetectAmount": 4,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Face"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 main creator, 3 males and 1 female visible in the background at the event.",
-      "mainCharacterDescription": "Middle-aged Asian male wearing a grey patterned flat cap, glasses, a dark blue sweater with a white 'ROOTS' logo, and light blue jeans."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Exhibition",
-          "Tech Event"
+        "crowdLevel": [
+          "Small Group"
         ],
-        "topography": [
-          "None"
+        "countingEvidence": "1 main creator, approximately 4 other individuals visible as passers-by in the background of the exhibition hall.",
+        "mainCharacterDescription": "A middle-aged man with short hair, wearing a grey flat cap, round-rimmed glasses, and a blue 'ROOTS' brand sweatshirt with a backpack."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Exhibition / Museum / Gallery",
+          "Event Venue / Convention Hall"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The video starts with a neutral white studio background and transitions to a high-tech exhibition hall with red walls, illuminated display pedestals, and technical text descriptions on the walls.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
         ]
       },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "Starts with a plain white wall, then shifts to a vibrant red exhibition booth with Xiaomi branding and glass display cases.",
-      "lightingStyle": "Bright exhibition lighting, consistent and clear.",
-      "weather": "None",
-      "season": "None",
-      "editingPace": "Fast",
-      "textOverlay": {
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium close-up",
+          "Close-up",
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Meme-style edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
         "density": "High",
-        "language": [
+        "textLanguage": [
           "Traditional Chinese",
           "English"
         ],
         "isSubtitled": true
       },
-      "colorTone": "Vivid",
-      "cameraWork": [
-        "Static",
-        "POV",
-        "Handheld"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone",
-        "Camera Lens Accessory"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "ROOTS",
-        "Xiaomi",
-        "Leica"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard Cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 1,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "High-pitched and excited",
-        "pitch": "Moderate",
-        "loudness": "High",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Cartoon / animated animal"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Camera / DSLR"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Roots",
+          "Xiaomi",
+          "Leica"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Whoosh",
-        "Pop"
-      ],
-      "ambientNoise": [
-        "Crowd chatter"
-      ],
-      "audioQuality": "Field"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Crowd Murmur"
+        ],
+        "crowdNoiseIntensity": 1,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Cartoon / Comedy SFX",
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Whoosh / Transition SFX"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) A high-pitched, enthusiastic male voice introduces a topic quickly over an upbeat synth-driven background track. A sharp 'whoosh' sound effect marks a visual transition. (2) A comical, sliding cartoon whistle sound effect plays as the speaker makes a startled exclamation with high vocal arousal. (3) The speaker continues in a bright, friendly tone, explaining technical details with high speech density. The background music maintains a steady four-on-the-floor kick drum pattern. (4) A metallic 'click' or 'ding' sound effect emphasizes a point. The speaker asks a final question with a rising intonation. The track maintains a high spectral brightness throughout."
     }
   },
-  "high_inference_interpretations": {
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Tech Review",
+        "Vlog"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 7,
+      "averageSceneDuration": 2.8,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Evidence -> CTA",
-      "mainPurpose": "The video serves as a quick 'hands-on' review and promotion for a new Xiaomi magnetic smartphone lens accessory. It aims to capture viewer interest through a dramatic 'near-drop' hook, followed by a demonstration of the product's ease of use and immediate functionality in a real-world event setting.",
-      "visualEmotion": "Energetic and Curious"
+      "narrativeStructure": "Montage: Hook -> Demonstration -> Call to Action",
+      "mainPurpose": "To showcase and demonstrate the functionality of a new magnetic external lens accessory for a Xiaomi smartphone at a launch event, emphasizing its ease of use.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "humorous"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -166,14 +270,11 @@
         "Implicit",
         "Integrated"
       ],
-      "endorsementCues": "The creator is at an official brand launch event, showcasing the product features in a positive and promotional manner.",
+      "endorsementCues": "Detailed demonstration of a specific brand's hardware features (Xiaomi magnetic lens) at an official event.",
       "endorsementObject": [
         "Xiaomi"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Creator's signature flat cap and high-energy Mandarin delivery style.",
-      "freeDescribe": "The video uses typical 'variety show' editing techniques common in Asian social media to maintain high engagement."
-    }
+    "freeDescribe": "A high-energy tech-influencer style short video with heavy use of variety-show graphics and SFX to maintain engagement."
   }
 }

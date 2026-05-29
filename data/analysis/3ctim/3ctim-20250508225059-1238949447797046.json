@@ -1,15 +1,260 @@
 {
   "videoName": "3ctim-20250508225059-1238949447797046.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 43,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Product Review",
-        "Promotion"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) The video begins with a close-up of a middle-aged man wearing a checkered flat cap, black-rimmed glasses, and a grey t-shirt. He is standing outside on a sunny sidewalk next to a FamilyMart storefront. The lighting is bright and natural. He turns his head and looks toward the camera while gesturing with his hand. (2) The camera follows as he enters the glass doors of the convenience store. The lighting shifts to bright, even indoor studio-like lighting. He approaches a retail shelf stocked with various electronic accessories. (3) He points his finger at green and black packaged items on the shelf. The camera zooms in to show product boxes with the 'AGI' logo. He handles some of the packaging, showing its texture and size. (4) A series of rapid cuts show specific products: a USB cable, a wall charger, a microSD card, and a flash drive, all with green AGI branding. (5) The scene shifts to a montage of scenarios: first, he sits on a bench under a tree looking at his smartphone; next, he is in a car interior wearing a seatbelt, looking distressed at a phone; then he is in an indoor setting. (6) The final shot returns to the man standing in front of the FamilyMart entrance, holding several AGI products in both hands, smiling at the camera.",
+      "text_narrative_log": "(1) [Logo]: 3c有意思tim哥. [Logo]: 3ctim. [Subtitle]: 欸老闆! (2) [Subtitle]: 這天氣真的是謝謝. 有全家耶. [Variety]: (慷慨老闆!). (3) [Variety]: 欸?. [Subtitle]: 是我的老朋友AGI. [Variety]: (會不會太方便了?). (4) [Subtitle]: 而且產品越來越多耶. [Slogan]: CA138 USB A to C 充電線. [Slogan]: CA138 Type C to C 充電線. (5) [Slogan]: AP138 67W Gan USB充電器. [Subtitle]: 欸你看...它這邊啊. [Slogan]: TF138 AGI 64G記憶卡附讀卡機. (6) [Subtitle]: 我們以前全部介紹過的. [Variety]: (太...太近了). [Subtitle]: 都買得到嘞! [Variety]: 慘了! (狀況1). [Slogan]: 手機空間容量滿了. (7) [Variety]: (狀況2). [Subtitle]: 商務人士需要即刻雲端輸出簡報. [Variety]: (狀況3). [Slogan]: 充電線突然故障. (8) [Variety]: (狀況4). [Subtitle]: 旅遊忘記帶充電器. [Slogan]: AGI工補給站.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 main creator (Tim), 1 store clerk briefly visible behind the counter.",
+        "mainCharacterDescription": "A middle-aged man with short dark hair, wearing glasses, a checkered brown flat cap, and a grey crew-neck t-shirt with a red and white stripe detail on the collar."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Convenience Store",
+          "Outdoor Street",
+          "Car / Van Interior",
+          "Park / Garden"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban",
+          "Park / Green Space"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The primary setting is the interior and exterior of a FamilyMart convenience store, characterized by clean shelving, glass doors, and bright fluorescent lighting. Secondary backgrounds include an outdoor park with large trees and sunlight, and the interior of a modern car with leather seats.",
+        "lightingStyle": [
+          "Natural daylight",
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Summer"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Follow shot",
+          "Zoom in"
+        ],
+        "shotSize": [
+          "Medium close-up",
+          "Close-up",
+          "Insert shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "POV / first-person view"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Graphic transition"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Beverage / juice",
+          "Instant / packaged food"
+        ],
+        "trafficDetect": [
+          "Car"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Laptop",
+          "Charging accessory / cable"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "FamilyMart",
+          "AGI"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 2,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 124,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Urban/Traffic",
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "Door / Cabinet Open-Close",
+          "Plastic / Bag Rustle"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Ding / Bell SFX",
+          "Pop / Bubble SFX",
+          "Whoosh / Transition SFX",
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Stingers"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio opens with a male voice speaking in an enthusiastic, high-arousal tone over a faint outdoor ambient floor. A sharp 'ding' sound effect triggers as he addresses someone. (2) As he enters a building, the BGM swells into an upbeat, medium-tempo electronic track with a driving beat. The vocal remains front-and-center, enunciated clearly. (3) A 'pop' sound effect occurs as he identifies a brand. The narration pace increases. (4) A series of 'whoosh' and 'swish' sound effects accompany visual transitions between product close-ups, creating a rhythmic, percussive feel. (5) The speaker's tone shifts to a more dramatic, mock-serious style during a list of 'emergency situations.' Short, comedic 'stinger' effects punctuate each scenario. (6) The video concludes with a high-energy final slogan delivered with a strong rising intonation, backed by the full BGM track and a final 'impact' sound effect."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Product Showcase",
+        "Promotion / Advertisement / Indoresment",
+        "Vlog"
+      ],
       "location": {
         "country": [
           "Taiwan"
@@ -19,151 +264,20 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video begins with a middle-aged male creator wearing a flat cap and glasses speaking enthusiastically outside a FamilyMart convenience store. (2) He enters the store and walks toward a product display shelf. (3) He picks up and presents various AGI branded electronic accessories including USB cables, wall chargers, and memory cards to the camera. (4) The scene shifts through rapid cuts showing the character in different scenarios: outdoors looking stressed at his phone, inside a car checking a charging cable, and back in the store. (5) He concludes by holding up several AGI product boxes while smiling in front of the store exterior.",
-      "audio_narrative_log": "(1) Energetic and upbeat electronic background music starts immediately. A male voice speaks with a high-pitched, excited, and promotional tone. (2) A convenience store entry chime 'Ding-dong' is heard as the scene transitions indoors. (3) The male voice continues continuously, clearly articulating product names and technical specs like '67W GaN' and 'USB A to C'. (4) Subtle 'ping' sound effects are used to emphasize text overlays appearing on screen. (5) The music maintains a steady fast tempo until a final upbeat melodic resolution at the end.",
-      "text_narrative_log": "(1) Functional Text: Traditional Chinese subtitles translate the spoken dialogue throughout the video. (2) Decorative/Hook Text: Captions like '欸老闆！' (Hey Boss!), '全家耶' (FamilyMart), and '都買得到！' (Available everywhere!) appear in bold, colorful fonts. (3) Scenario Hooks: Text such as '(狀況1) 慘了！手機空間容量滿了' (Situation 1: Crap! Phone storage is full) and '(狀況3) 充電線突然故障' (Situation 3: Charging cable suddenly broke) highlight specific use cases."
-    },
     "temporal_pacing_summary": {
       "sceneCutCount": 22,
       "averageSceneDuration": 1.95,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Hook -> Store Entry -> Product Showcase -> Rapid Scenario Use Cases -> Final Recommendation"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Head and shoulders"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main male creator presenting the products throughout the video.",
-      "mainCharacterDescription": "Middle-aged Asian man with glasses, a grey sweatshirt, a yellow smartwatch, and a checkered flat cap."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Outdoor Street",
-          "Indoor Convenience Store",
-          "Indoor Car"
-        ],
-        "topography": [
-          "Plain"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "The video moves between a bright urban sidewalk, the interior of a FamilyMart with product shelves, a park area with large trees, and the inside of a car.",
-      "lightingStyle": "Natural daylight outdoors and bright fluorescent lighting indoors.",
-      "weather": "Sunny",
-      "season": "Summer",
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Handheld",
-        "Follow shot"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "Car"
-      ],
-      "techDetect": [
-        "Smartphone",
-        "USB Cable",
-        "Wall Charger",
-        "SD Card",
-        "USB Flash Drive"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "AGI",
-        "FamilyMart"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "High-pitched and excited",
-        "pitch": "Medium-High",
-        "loudness": "High",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Chime",
-        "Ding",
-        "Whoosh"
-      ],
-      "ambientNoise": [
-        "Street noise",
-        "Store quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Problem Discovery -> Solution (Product) Presentation -> Application Scenarios -> Conclusion",
-      "mainPurpose": "The video serves as a commercial endorsement for AGI electronic accessories. It aims to inform consumers that high-quality charging and storage solutions are conveniently available at FamilyMart stores, solving common digital emergencies like running out of storage or broken cables.",
-      "visualEmotion": "Energetic"
+      "narrativeStructure": "Linear: Hook -> Evidence -> Problem/Solution -> CTA",
+      "mainPurpose": "To promote AGI brand electronic accessories (chargers, cables, storage) by highlighting their new availability at FamilyMart convenience stores, framing them as essential solutions for common tech emergencies.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "humorous"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -171,15 +285,12 @@
         "Explicit",
         "Full"
       ],
-      "endorsementCues": "The creator directly presents the AGI products, mentions the brand name multiple times, and explicitly states that they can be purchased at FamilyMart.",
+      "endorsementCues": "Direct display of products, verbal endorsement by the creator, and prominent branding of AGI and FamilyMart throughout the video.",
       "endorsementObject": [
         "AGI",
         "FamilyMart"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "3C Tim哥's signature enthusiastic presentation style and specific hat-wearing look.",
-      "freeDescribe": "The video utilizes classic influencer marketing techniques: identifying a common 'pain point' (phone storage/battery) and providing an immediate, accessible solution."
-    }
+    "freeDescribe": "The video uses a high-energy, social-media-native editing style with rapid cuts and bright variety-show captions to maintain viewer engagement during a commercial pitch."
   }
 }

@@ -1,14 +1,233 @@
 {
   "videoName": "yga0721-20250731122459-893355403618240.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 13,
-      "aspectRatio": "9:16",
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The video begins with a medium close-up of a young boy with a black bowl-style haircut and black-rimmed glasses sitting at a light brown wooden table in a restaurant. He wears a dark navy blue long-sleeved shirt and holds a red plastic spoon with a fried gyoza (dumpling) on it over a white bowl decorated with Winnie the Pooh. The background shows blurred restaurant booths and patrons. (2) The boy leans forward and takes a bite of the gyoza from the spoon. He chews slowly, his expression neutral. After taking a bite, he places the remainder of the gyoza back into the bowl and looks up towards someone off-camera. (3) He remains looking off-camera, slightly shifting his posture and blinking behind his glasses. The lighting in the restaurant is bright and consistent. A glass of water is visible on the right side of the table. (4) The boy uses the red spoon again to lift the rest of the gyoza and takes a much larger bite, filling his mouth. He continues to chew vigorously while looking at the camera person, appearing focused on his meal.",
+      "text_narrative_log": "None",
+      "visual_human_presence": {
+        "totalHumanCount": 4,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 1,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main child character in the foreground, at least 3 blurred figures sitting in the background booths.",
+        "mainCharacterDescription": "A young Asian boy with black bowl-cut hair and black-rimmed glasses, wearing a dark navy blue shirt."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Restaurant / Dining"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "An indoor restaurant setting featuring wooden tables, gray cushioned booths, and white walls with warm lighting. Other patrons are visible as blurred shapes in the distance.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "None",
+        "textLanguage": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Japanese food / sushi",
+          "Chinese Food"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 1
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Casual"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Rising"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 4,
+        "valence": 6,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Chatter"
+        ],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "Food Bite / Crunch",
+          "Object Impact / Thud / Drop"
+        ],
+        "incidentalNoiseIntensity": 3,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 2,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 3,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 1,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio track opens with a gentle layer of ambient restaurant noise, including distant chatter and the faint sound of dishes. A child’s voice is heard speaking briefly in a clear, high pitch. (2) A sharp 'clink' sound occurs as a spoon touches the plate, followed by the wet, rhythmic sound of chewing. A woman's voice, off-screen, speaks in a warm and encouraging tone, likely responding to the child. (3) The background chatter remains consistent, punctuated by another small percussive sound of an object being set down. The child's vocalizations are occasional and low in volume. (4) The final segment is dominated by more intense chewing sounds as the boy consumes the rest of the food. The female voice speaks again with a playful, rising intonation, creating a nurturing acoustic atmosphere. No music is present throughout."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
         "Vlog",
-        "Food"
+        "Lifestyle",
+        "Family / Kids"
       ],
-      "withRealPeople": true,
       "location": {
         "country": [
           "Unknown"
@@ -18,139 +237,20 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young boy with black hair and glasses is sitting at a wooden table in a restaurant, holding a large gyoza on a red spoon. (2) He takes a large bite of the gyoza, chews with a satisfied expression, and looks around the room while continuing to eat. (3) The scene shifts slightly to a closer angle of him chewing and enjoying the food while background figures move in the restaurant.",
-      "audio_narrative_log": "(1) Ambient restaurant noise is heard including clinking dishes and distant chatter. (2) A female voice off-camera speaks in Mandarin with a gentle, questioning tone. (3) The boy makes soft chewing sounds as the background restaurant noise continues.",
-      "text_narrative_log": "(1) Functional Text: Subtitles in Chinese appearing briefly at the bottom of the frame translating the off-screen dialogue. (2) Decorative Text: '很好吃嗎' (Is it delicious?) appears with a cute, casual tone."
-    },
     "temporal_pacing_summary": {
       "sceneCutCount": 2,
-      "averageSceneDuration": 6.5,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Intro -> Eating Action -> Reaction"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 4,
-      "maleDetectAmount": 3,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 1,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 main child character, at least 3 blurry adults/passers-by in the background.",
-      "mainCharacterDescription": "Young boy with short black hair, wearing black-rimmed glasses and a dark blue long-sleeved shirt."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Restaurant"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A typical casual restaurant interior with wooden tables, grey booth seating, and a service counter in the background with staff visible.",
-      "lightingStyle": "Bright indoor artificial lighting",
-      "weather": "None",
-      "season": "Unknown",
+      "averageSceneDuration": 4.33,
       "editingPace": "Slow",
-      "textOverlay": {
-        "density": "Low",
-        "language": [
-          "Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Close-up"
-      ]
+      "isNarrativeShift": false
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Gyoza",
-        "Dumpling"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Winnie the Pooh"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 2,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Friendly and questioning",
-        "pitch": "Medium-high",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Occasional narration",
-        "language": [
-          "Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": false,
-      "bgmGenre": "None",
-      "bgmBPM": 0,
-      "instrumentFamiliesAudible": [
-        "None"
-      ],
-      "instrumentsAudible": [
-        "None"
-      ],
-      "musicSourceType": [
-        "None"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Restaurant",
-        "Kitchen chatter"
-      ],
-      "audioQuality": "Field Recording"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Action -> Reaction",
-      "mainPurpose": "To showcase a child's authentic and positive reaction to eating a specific food item (gyoza) in a restaurant setting, likely for family documentation or social media sharing.",
-      "visualEmotion": "Calm and content"
+      "narrativeStructure": "Linear: Setup -> Action -> Observation",
+      "mainPurpose": "To document and share a cute, everyday family moment of a young child enjoying a meal independently in a restaurant.",
+      "visualEmotion": [
+        "warm",
+        "calm",
+        "humorous"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -162,9 +262,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Child character with distinctive thick glasses.",
-      "freeDescribe": "The focus is purely on the child's sensory experience with the food. The presence of the Winnie the Pooh character on the plate suggests a child-friendly dining environment."
-    }
+    "freeDescribe": "The video uses a close-up perspective to focus on the child's expressions and actions, emphasizing the charm of simple childhood experiences."
   }
 }

@@ -1,184 +1,281 @@
 {
   "videoName": "cocowine0205-20250810160505-4575375356029901.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 42,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Food Review",
-        "Shopping"
-      ],
+      "videoDuration": 43,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A young woman wearing a brown bucket hat and a white off-the-shoulder dress stands in a brightly lit Costco warehouse. She excitedly holds up a large transparent plastic bag containing several thick loaves of bread. She points to the bakery shelves behind her which are stocked with more bags of the same bread. (2) A close-up shot of the bread bags on a metal shelf. A price tag is visible above them, displaying prices and product details in Chinese characters. (3) The woman continues to show the bread to the camera, gesturing with her hands while maintaining a joyful, wide-eyed expression. Other shoppers with carts move in the background. (4) The scene shifts to an indoor living room setting with soft, warm lighting. Two women sit at a low table covered with bread. One is still wearing the bucket hat, and the other has long dark hair and a white lace top. They are interacting with the bread, tearing pieces and preparing to eat. (5) A close-up of a slice of bread on a brown shaped tray; a hand presses the center to demonstrate its soft, spongy texture. A white fluffy dog peek's its head over the edge of a counter in the background. (6) The two women taste the bread, showing thumbs-up gestures and nodding in approval while speaking animatedly towards the camera. The background shows a cozy home environment with plush toys and a sofa.",
+      "text_narrative_log": "(1) [Logo]: COSTCO WHOLESALE. [Variety]: 銷量超夯. (2) [Variety]: 超便宜好吃嗎? 吐司界的精品. (3) [Variety]: 剩最後一袋. (4) [Variety]: 原味生吐司. (5) [Subtitle]: 這個超新的. (6) [Subtitle]: 而且銷量也超好. (7) [Subtitle]: 269元兩大條. (8) [Subtitle]: 知名日本的. (9) [Subtitle]: 大概你一條就是. (10) [Subtitle]: 300以上. (11) [Subtitle]: 所以這個價格. (12) [Subtitle]: 重點是好不好吃. (13) [Subtitle]: 我們來試試看. (14) [Subtitle]: 看到馬上拿起來. (15) [Subtitle]: 好市多的原味生吐司. (16) [Subtitle]: 一袋269元. (17) [Subtitle]: 你可以吃的長長久久. (18) [Subtitle]: 最重要的是生吐司不用烤. (19) [Variety]: 就非常的美味. (20) [Subtitle]: 那我們剛試過. (21) [Subtitle]: 烤過以後口感也是. (22) [Variety]: 非常的酥脆. (23) [Subtitle]: 你加一個鹹奶油. (24) [Subtitle]: 你就是. (25) [Variety]: 最幸福的人. (26) [Subtitle]: 烤不烤都好吃. (27) [Subtitle]: 其實生吐司的標準就在這. (28) [Subtitle]: 就是烤不烤都好吃. (29) [Subtitle]: 然後吃起來那個. (30) [Subtitle]: 吐司的奶香味. (31) [Subtitle]: 濕潤度真的很棒.",
+      "visual_human_presence": {
+        "totalHumanCount": 4,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 3,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "Two main female creators, one female shopper in background, one male shopper in background.",
+        "mainCharacterDescription": "One woman wears a light brown bucket hat and a white off-the-shoulder dress. The other woman has long dark hair and wears a white lace-trimmed top."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Supermarket / Warehouse Store",
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "First location is a Costco warehouse with industrial shelving, price tags, and shopping carts. Second location is a home interior with a white couch, a low table, and stuffed toys.",
+        "lightingStyle": [
+          "Bright studio lighting",
+          "Warm indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Dog"
+        ],
+        "foodsDetect": [
+          "Bread / pastry"
+        ],
+        "trafficDetect": [
+          "Shopping cart"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Costco",
+          "LE CREUSET"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 0,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 124,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Plastic / Bag Rustle"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Ding / Bell SFX",
+          "Pop / Bubble SFX",
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) Fast-paced, cheerful synth background music begins. A high-pitched, enthusiastic female voice speaks with rapid articulation and rising intonations. Subtle sounds of plastic rustling occur as a bag is moved. (2) A sharp 'ding' sound effect marks a visual transition. The female narrator continues with high energy, detailing prices. The music maintains a steady, bouncy beat. (3) A second female voice enters the mix, sharing the same high-arousal and positive emotional tone. There is slight vocal overlap as they discuss the product features. (4) The sounds of a plastic bread bag being opened are clearly audible over the music. The BGM remains in a bright major key, complementing the enthusiastic speech. (5) Cartoon-style sound effects emphasize specific reactions and camera movements. The narration remains continuous and energetic throughout, with frequent pitch variations to maintain viewer interest."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Food Review",
+        "Shopping",
+        "Lifestyle"
+      ],
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "Unknown"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video begins in a Costco warehouse where a woman wearing a beige bucket hat and a white dress excitedly holds a bag containing two large loaves of toast. She points to the product and the price tag on the shelf while talking to the camera. Other shoppers and carts are visible in the background. (2) The scene transitions to an indoor apartment setting. Two women sit at a table with the toast slices. They tear the bread apart to show the texture and taste it. A small white dog occasionally appears in the background behind the table. (3) Close-up shots of a single slice of toast being pressed and buttered on a plate are shown. The women continue to gesture enthusiastically while eating and discussing the bread's quality.",
-      "audio_narrative_log": "(1) High-energy female vocals speak excitedly over a backdrop of upbeat, fast-paced electronic background music and the ambient hum of a crowded warehouse. (2) The soundscape shifts as the music continues, but the primary audio becomes a dialogue between two female speakers in a quieter indoor environment. Sharp sound effects like 'dings' and 'sparkle' noises are interspersed to emphasize certain points. (3) The female voices maintain a friendly and descriptive tone, discussing the flavor and texture, while the upbeat music remains consistent until the end.",
-      "text_narrative_log": "(1) 'COSTCO WHOLESALE' logo and '銷量超好' (Very good sales) are displayed as hooks. (2) '超便宜好吃嗎? 吐司界的精品' (Is it cheap and delicious? The luxury of the toast world) serves as the main video title. (3) '剩最後一袋' (Only one bag left) and '倒數一袋' (Countdown last bag) emphasize scarcity. (4) '原味生吐司' (Plain Raw Toast) identifies the product. (5) '269元兩大條' (269 dollars for two large loaves) and '300以上' (Above 300) provide price comparisons. (6) '就非常的美味' (Just very delicious), '非常的酥脆' (Very crispy), and '最幸福的人' (The happiest person) are emotional variety-show style captions."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 11,
-      "averageSceneDuration": 3.8,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Discovery in store -> Detailed tasting and review at home"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 8,
-      "maleDetectAmount": 3,
-      "femaleDetectAmount": 5,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Upper body",
-        "Hands only"
-      ],
-      "crowdLevel": "Crowd",
-      "countingEvidence": "2 main female creators, at least 6 shoppers/passers-by in the background of the Costco scene.",
-      "mainCharacterDescription": "One woman is wearing a beige bucket hat and a white puff-sleeve dress. The second woman has long dark hair and wears a white and pink top."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Costco Warehouse",
-          "Indoor Apartment"
-        ],
-        "topography": [
           "None"
         ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "First half features Costco aisles, signage, and shopping carts. Second half features a home living room with a couch, a dog, and various plush toys.",
-      "lightingStyle": "Bright indoor lighting and natural window light.",
-      "weather": "Unknown",
-      "season": "Unknown",
-      "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Bright and saturated",
-      "cameraWork": [
-        "Handheld",
-        "Static",
-        "Close-up"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "Dog"
-      ],
-      "foodsDetect": [
-        "Toast",
-        "Butter",
-        "Bread"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "COSTCO",
-        "KIRKLAND SIGNATURE",
-        "LE CREUSET"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 1,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 2,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited, friendly, and persuasive",
-        "pitch": "High",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
-        ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Kit"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Ding",
-        "Sparkle SFX",
-        "Pop"
-      ],
-      "ambientNoise": [
-        "Warehouse chatter",
-        "Indoor quiet"
-      ],
-      "audioQuality": "Field Recording"
-    }
-  },
-  "high_inference_interpretations": {
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 3.07,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Information -> Demonstration -> Evaluation",
-      "mainPurpose": "The video is a product review designed to influence consumers to purchase 'Plain Soft Toast' from Costco. It uses a price-comparison strategy (contrasting it with expensive Japanese brands) and a physical demonstration of the product's texture and taste to validate its 'luxury' status at a bargain price.",
-      "visualEmotion": "Energetic and enthusiastic"
+      "narrativeStructure": "Linear: Hook -> Discovery at Store -> Price Analysis -> Home Review -> Recommendation",
+      "mainPurpose": "To showcase and recommend a specific bread product from Costco (Plain Soft Toast) by highlighting its high sales volume, competitive price compared to Japanese brands, and soft texture through a tasting session.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
-        "Explicit",
-        "Full"
+        "Implicit",
+        "Integrated"
       ],
-      "endorsementCues": "The creator specifically identifies the store and the product, shows the price, and provides a highly positive review of the product's features.",
+      "endorsementCues": "Detailed price comparison, enthusiastic first-person recommendation, and visible product branding with positive attribute demonstrations.",
       "endorsementObject": [
         "Costco",
         "Plain Soft Toast"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-density Traditional Chinese text overlays with emoji-like stickers and energetic 'unboxing' style presentation.",
-      "freeDescribe": "The presence of a pet dog and a secondary character for 'reaction' purposes enhances the relatability and social proof of the review."
-    }
+    "freeDescribe": "A highly engaging short-form social media video using rapid editing, colorful variety-show style text, and enthusiastic delivery to promote a consumer product."
   }
 }

@@ -1,14 +1,231 @@
 {
   "videoName": "0_shufen-20250906132124-657432210765866.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 3,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Short Video"
-      ],
+      "videoDuration": 4,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A young woman with long dark hair, wearing a beige tank top and a black mesh shrug, is positioned in an indoor setting. Behind her is a prominent, large circular yellow lamp that glows like a full moon, casting a warm light. She holds a black waffle cone filled with scoops of white and brownish ice cream and takes a bite. (2) She turns her head toward the camera, transitioning from her focus on the ice cream to a direct gaze. She exhibits a wide, joyful smile, revealing her teeth, while maintaining her pose in front of the moon-like light fixture. To her right, some green plant leaves are partially visible.",
+      "text_narrative_log": "(1) [Subtitle]: 當男朋友不開心時： When boyfriend is unhappy",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main female creator in the foreground.",
+        "mainCharacterDescription": "A young woman with long, straight dark hair, wearing a neutral-toned beige top and a translucent black mesh shawl."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Cafe / Tea Shop"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A large, glowing yellow circular wall lamp mimicking the moon, with green bamboo-like foliage on the right.",
+        "lightingStyle": [
+          "Warm indoor lighting",
+          "Backlit / silhouette"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Warm and vibrant"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "None"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Dessert / cake / cookies"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Lighting equipment / ring light"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Acoustic/Folk"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "String"
+        ],
+        "instrumentsAudible": [
+          "Guitar"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter"
+        ],
+        "crowdNoiseIntensity": 3,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Applause / Laugh Track SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 5
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 2,
+        "audioCutFrequency": 0,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) An upbeat and bright acoustic guitar track begins immediately, characterized by a major tonality and a steady percussive rhythm. Layered over this music is a synthesized laughter track (sitcom-style), which provides a comedic atmosphere. (2) The laughter intensity remains high as the acoustic guitar continues its rhythmic strumming. The audio maintain a constant level of high energy and cheerfulness without any vocal dialogue or environmental noise until the final second."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Meme / Trend"
+      ],
       "location": {
         "country": [
           "Unknown"
@@ -18,140 +235,19 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman with long dark hair, wearing a black lace-sleeved top and a light-colored bra, stands in profile in a dim indoor setting. She holds a black ice cream cone with two scoops and licks it while looking slightly off-camera. Behind her is a large, circular, glowing moon-like decoration and some green bamboo-like plants. (2) She stops licking the ice cream, turns her head to face the camera directly, and breaks into a wide, cheerful smile.",
-      "audio_narrative_log": "(1) Upbeat pop music with a female vocal and electronic beat plays throughout the duration. Background ambient chatter from a crowd and general indoor atmosphere (reminiscent of a cafe) are clearly audible underneath the music. No vocals from the person on screen are detected.",
-      "text_narrative_log": "(1) \"當男朋友不開心時：When boyfriend is unhappy\" appears at the top left. This is Decorative/Hook text with a humorous and suggestive tone."
-    },
     "temporal_pacing_summary": {
       "sceneCutCount": 0,
-      "averageSceneDuration": 3.0,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Action -> Reaction"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Upper body"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main female character on screen.",
-      "mainCharacterDescription": "A young woman with long dark hair, wearing a black lace top with long sleeves over a light-toned bra."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Cafe",
-          "Indoor"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A large glowing moon light fixture on a dark wall, accompanied by green bamboo leaves and a wooden counter edge.",
-      "lightingStyle": "Warm focused light from the moon fixture, dim background.",
-      "weather": "Indoor",
-      "season": "Unknown",
+      "averageSceneDuration": 4.0,
       "editingPace": "Slow",
-      "textOverlay": {
-        "density": "Low",
-        "language": [
-          "Chinese",
-          "English"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "Warm",
-      "cameraWork": [
-        "Static"
-      ]
+      "isNarrativeShift": false
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Ice cream"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "None",
-      "vocalRatio": "Low"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 0,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 5,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Energetic and rhythmic (singing)",
-        "pitch": "Medium-high",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous (within music)",
-        "language": [
-          "Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Pop",
-      "bgmBPM": 120,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drums"
-      ],
-      "musicSourceType": [
-        "Copyrighted Song"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Cafe",
-        "Crowd chatter"
-      ],
-      "audioQuality": "Field"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Action",
-      "mainPurpose": "The video is a humorous and flirtatious short clip intended to engage viewers with a relatable or playful scenario about cheering up a boyfriend. The combination of the 'unhappy boyfriend' text hook, the act of licking ice cream, and the sudden charming smile suggests a playful or provocative solution.",
-      "visualEmotion": "Playful, Flirtatious"
+      "narrativeStructure": "Linear: Setup -> Reaction",
+      "mainPurpose": "To create a relatable comedic moment where the text setup (how to handle an unhappy boyfriend) is followed by the simple visual of the creator enjoying ice cream and smiling, suggesting a playful or selfishly happy reaction to a stressful social situation.",
+      "visualEmotion": [
+        "humorous",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -163,9 +259,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Suggestive hook text combined with cute/playful acting.",
-      "freeDescribe": "The video relies heavily on the physical appearance of the creator and the contrast between her initial focused action and her sudden smile to the camera."
-    }
+    "freeDescribe": "The video uses a popular short-form meme format where a situational caption contrast with a joyful or unrelated visual to create humor. The lighting and background are aesthetically pleasing, typical of social media lifestyle content."
   }
 }

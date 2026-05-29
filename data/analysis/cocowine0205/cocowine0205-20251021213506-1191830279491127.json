@@ -1,173 +1,266 @@
 {
   "videoName": "cocowine0205-20251021213506-1191830279491127.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 27.0,
-      "aspectRatio": "9:16",
+      "videoDuration": 26,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) Two women, one with long dark hair wearing a brown off-the-shoulder top and the other wearing a grey bucket hat and a purple ruffled top, stand side-by-side in front of a Costco Wholesale sign. They face the camera directly with wide smiles and expressive eye movements, using active hand gestures like pointing upwards and clapping to convey excitement. Behind them is a large, brightly lit industrial-style heated food display shelf filled with numerous black and red plastic bags containing roasted chicken products. The setting is clearly a supermarket interior with bright overhead fluorescent lighting reflecting off the glass of the display cases and the smooth tile floor. (2) The camera cuts to a close-up insert shot of a price tag and the products inside the heated rack. The white price tag clearly lists \"Chicken Thigh + Leg 4CT\" for the price of $198. The background displays several more packaged chicken bags, glistening under the warm orange glow of the heating lamps. No people are visible in this specific shot, focusing entirely on the item and its pricing information within the warehouse environment. (3) The scene returns to the two women in the same warehouse setting. They are now even more animated, with the woman in the hat giving two thumbs up while speaking. The lighting remains bright and consistent across the warehouse floor. They continue to stand in front of the rotisserie chicken section, with various signs and product labels visible on the shelves in the deep background. The overall atmosphere is cheerful and promotional, typical of a shopping-related social media update.",
+      "text_narrative_log": "(1) [Logo]: COSTCO WHOLESALE. [Subtitle]: 你知道嗎 好市多. (2) [Subtitle]: 現在的烤雞腿. [Variety]: 有小家庭. (3) [Subtitle]: 份量了. [Slogan]: 烤雞腿終於 破天一發. (4) [Subtitle]: 不用一次 買八入了. [Slogan]: 好政策又一發. (5) [Subtitle]: 很多店現在 都有四入跟六入裝. (6) [Subtitle]: 四入的話 一支只要49.5元. (7) [Subtitle]: 八入的話 是44.5元. [Variety]: 一大福音啊!. (8) [Subtitle]: 對小家庭 或個人. (9) [Subtitle]: 真的很方便. (10) [Subtitle]: 沒錯 像現在呀. (11) [Subtitle]: 八入 359元. (12) [Subtitle]: 可是 接下來. (13) [Subtitle]: 大家都可以 買到少份量. (14) [Subtitle]: 這樣子 回去. (15) [Subtitle]: 就不用 擔心吃不完嘍. (16) [Subtitle]: 一大福音啊!. (17) [Subtitle]: 趕快分享給 會去好市多的人.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "2 female creators in the foreground",
+        "mainCharacterDescription": "Two women; one with long dark hair in a brown top, one with a hat and a purple top."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Supermarket / Warehouse Store"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "Interior of a Costco warehouse store, specifically the prepared foods section with a heated display case for rotisserie chicken.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Meat / beef / pork / chicken"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Costco"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 0,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 9,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop"
+        ],
+        "tempoBPM": 120,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Pop / Bubble SFX",
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a high-pitched, enthusiastic female voice greeting the audience. Her speech rate is rapid and energetic, characterized by bright vocal resonance and frequent pitch variations that suggest excitement. Accompanying her is an upbeat background music track featuring a steady electronic drum beat and cheerful synthesizer melodies in a major key. The overall acoustic environment is a clean indoor space with very minimal background hum or room tone. (2) A distinct \"ding\" sound effect, a high-frequency bell-like chime, triggers as the topic shifts to pricing. The first female speaker continues her explanation of the 4-pack and 6-pack options while a second female voice chiming in briefly with an affirmative tone. The music maintains its consistent 120 BPM tempo, providing a rhythmic bed that complements the fast-paced verbal information delivery. (3) A subtle \"pop\" sound effect marks the transition to a summary of benefits. Both female voices are now heard, one leading the narration and the other offering short supportive interjections like \"yeah\" and \"exactly.\" Their vocal arousal remains high with positive valence throughout. The background music continues without interruption, maintaining a moderate volume that allows the voices to remain clear and prominent in the mix. (4) A final \"sparkle\" or \"ding\" sound effect accompanies the call to action at the end. The main speaker increases her vocal intensity slightly, emphasizing the final recommendation to share the video. The background music swells slightly before a quick hard cut to silence as the video ends. The production quality is clear, with well-managed speech-music overlap and a high signal-to-noise ratio."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
         "Vlog",
-        "Shopping Guide",
-        "Review"
+        "Food Review",
+        "Promotion / Advertisement / Indoresment"
       ],
-      "withRealPeople": true,
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "Unknown"
+          "None"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) Two women, one in a brown top and the other in a purple ruffled top and grey hat, stand in front of a heated display case filled with rotisserie chicken at a Costco. They look directly at the camera with wide eyes and open mouths, gesturing excitedly. (2) The camera cuts to a close-up of plastic-wrapped chicken legs on the shelf, with price tags showing $198 for 4 pieces. (3) The scene returns to the two women who continue talking enthusiastically, using hand gestures to count and give thumbs-up signs while pointing towards the chicken display behind them.",
-      "audio_narrative_log": "(1) Upbeat, fast-tempo electronic pop music starts immediately. Two female voices speak in high-pitched, excited Mandarin tones. (2) One woman's voice becomes more prominent as she explains price points, while the background music maintains a consistent, energetic beat. (3) The voices overlap slightly with expressions of excitement and agreement, ending with an enthusiastic call to action as the music fades.",
-      "text_narrative_log": "(1) \"你知道嗎？好市多\" - Hook text in white with a yellow border, curious tone. (2) \"有小家庭份量了\" - Functional text in white on a purple background, informative tone. (3) \"烤雞腿終於砍半賣\" - Informative text highlighting the core news, urgent tone. (4) \"一大福音啊！\" - Decorative emotional text with stars, celebratory tone. (5) Price breakdowns like \"4入一隻只要49.5元\" appear as floating captions to support the narration."
     },
     "temporal_pacing_summary": {
       "sceneCutCount": 3,
-      "averageSceneDuration": 9.0,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro/Hook -> Product Close-up/Price Proof -> Benefit Analysis/CTA"
+      "averageSceneDuration": 8.6,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
     },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "2 main female creators visible from the waist up throughout the video.",
-      "mainCharacterDescription": "One woman has long dark hair and wears a brown off-the-shoulder top with a black skirt; the other has shoulder-length dark hair, wears a purple ruffled top, black skirt, and a grey fisherman hat."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Supermarket",
-          "Indoor"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A Costco rotisserie chicken section with heated shelves, red price signs, and various packaged meats visible behind a glass partition.",
-      "lightingStyle": "Bright supermarket fluorescent lighting",
-      "weather": "Indoor",
-      "season": "Unknown",
-      "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Rotisserie Chicken",
-        "Chicken Legs"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "COSTCO WHOLESALE"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 2,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "High-pitched and excited",
-        "pitch": "High",
-        "loudness": "Loud",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic Pop",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Field"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Information -> Proof -> Recommendation",
-      "mainPurpose": "To inform and excite Costco members about the introduction of smaller, more convenient packaging for rotisserie chicken legs, specifically targeting small households or individuals who found the previous large quantities difficult to consume.",
-      "visualEmotion": "Energetic and Enthusiastic"
+      "narrativeStructure": "Linear: Hook -> Information -> Benefit -> CTA",
+      "mainPurpose": "To inform viewers about the new smaller portion options for roasted chicken thighs at Costco, highlighting the convenience for small families and individuals who previously had to buy in larger quantities.",
+      "visualEmotion": [
+        "energetic",
+        "informative"
+      ]
     },
     "endorsement_analysis": {
-      "isEndorsement": true,
+      "isEndorsement": false,
       "endorsementMethod": [
-        "Implicit",
-        "Integrated"
+        "None"
       ],
-      "endorsementCues": "The creators are showcasing a specific new product packaging at a specific retailer (Costco) and encouraging viewers to share the news.",
+      "endorsementCues": "Creators sharing a consumer shopping tip/update in a warehouse setting.",
       "endorsementObject": [
-        "Costco Wholesale"
+        "Costco"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-energy duo presentation with synchronized reactions and variety-show style text overlays.",
-      "freeDescribe": "The video uses typical short-form vlog aesthetics to make a mundane grocery store update feel like a significant life hack or 'great news' for consumers."
-    }
+    "freeDescribe": "Typical social media informative vlog using upbeat presentation and on-screen text to share shopping news."
   }
 }

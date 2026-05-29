@@ -1,174 +1,269 @@
 {
   "videoName": "602avenue-20251227152607-1247832960774728.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 10,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Dance",
-        "Meme"
-      ],
+      "videoDuration": 10.0,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A young woman with long, straight dark hair stands centered against a flat, neutral-colored white wall. She is dressed in a bulky, tan-colored shaggy faux fur jacket over a white lace-patterned top and a black skirt. She wears black-and-white pixelated sunglasses and uses her hands to adjust the frames while smiling slightly at the camera. (2) The scene transitions to an indoor hallway featuring a dark, polished marble-textured wall on one side. The woman is seen dancing with high energy, swinging several grey and black sweaters on hangers back and forth in front of her body. Her movements are rhythmic and synchronized with the editing pace. (3) The setting shifts to a bright room with a prominent vanity mirror outlined by glowing bulbs in the background. The woman holds a light blue hair curling iron in her right hand, posing and waving it slightly as she continues her rhythmic movements. The lighting is bright and even across her face. (4) The scene cuts to a corner of a room containing a large, traditional-style orange globe lamp and a framed floral painting. The woman is now holding a clear glass bottle with a green label, which she tilts and moves playfully while looking toward the lens with an expressive, open-mouthed facial expression. (5) The final phase occurs in a living room with a light-colored fabric sofa and a wall-mounted air conditioning unit. She holds a small white and orange liquid carton with a straw inserted, gesturing with her free hand toward the camera while maintaining her energetic dancing posture.",
+      "text_narrative_log": "(1) [Subtitle]: Me after Jennie at MMA.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main female character appearing throughout all scenes.",
+        "mainCharacterDescription": "A young woman with long brown hair, wearing a tan shaggy faux fur jacket, a light lace top, a black skirt, and pixelated sunglasses."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home",
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The video transitions between several indoor settings including a plain white wall, a dark marble-tiled wall, a vanity area with a lighted mirror, and a living room with a sofa and air conditioner.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Fast cuts",
+          "Jump cut"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Alcohol",
+          "Beverage / juice"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 115,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 0,
+        "female_singer_count": 1,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "English"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 5,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Percussion",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 0,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 0,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) A high-energy pop track with a heavy, rhythmic bass beat and bright electronic synthesizers begins immediately. A female singing voice is heard repeating the lyric 'Me like like like Jennie' in a playful, high-arousal tone. The tempo is fast and driving at approximately 115 BPM. (2) The rhythmic electronic percussion continues without interruption, maintaining a constant energy level. The vocal melody remains bright and catchy, with no ambient environmental noise or incidental sounds detected, indicating a clean studio-produced music bed. (3) The audio track persists with its driving beat and repetitive vocal hook through the end of the clip. The signal is clear with high spectral brightness and percussive density, filling the entire audio spectrum with no technical distortion or volume fluctuations."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Meme / Trend",
+        "Comedy"
+      ],
       "location": {
         "country": [
-          "China"
+          "Unknown"
         ],
         "city": [
           "None"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman appears wearing a bulky grey fur coat, white top, and black skirt, sporting pixelated sunglasses against a plain white wall. (2) The scene cuts to her in a hallway/kitchen area where she dances energetically while displaying a grey sweater on a hanger. (3) She is then seen in a room with a lit vanity mirror, holding a light blue hair styling tool like a prop. (4) She moves to a living room setting, dancing while holding a bottle of Jinro soju. (5) Finally, she dances near a sofa with a Hello Kitty pillow, holding a carton of milk and looking into the camera with a playful expression.",
-      "audio_narrative_log": "(1) An upbeat electronic dance track begins immediately with high-energy female vocals repeatedly singing the name 'Jennie'. (2) The music maintains a constant high tempo throughout the video with no change in the soundscape. (3) No ambient noises or environmental sound effects are audible over the studio-quality music track.",
-      "text_narrative_log": "(1) Decorative/Hook Text: 'Me after Jennie at MMA' remains at the top of the frame throughout the video, set in a bold white font. It conveys a sense of being inspired or obsessed after watching a specific celebrity performance."
-    },
     "temporal_pacing_summary": {
       "sceneCutCount": 4,
       "averageSceneDuration": 2.0,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Intro -> Montage of dancing with various domestic objects"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 female main creator throughout all scenes",
-      "mainCharacterDescription": "Young female with long dark brown hair, wearing black pixelated 'deal with it' sunglasses, a large grey faux-fur coat, a white patterned tank top, and a black pleated mini-skirt."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Home",
-          "Living Room",
-          "Kitchen"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "Features various parts of an apartment including a white wall, a kitchen counter with red festive stickers, a bedroom vanity with light bulbs, and a modern living room with a white sofa and a Hello Kitty plush pillow.",
-      "lightingStyle": "Bright indoor artificial lighting",
-      "weather": "None",
-      "season": "None",
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "Low",
-        "language": [
-          "English"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static"
-      ]
+      "isNarrativeShift": false
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Milk",
-        "Soju"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Hair Curler"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Jinro",
-        "Hello Kitty"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "None",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 0,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "High-pitched and excited singing",
-        "pitch": "High",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "English",
-          "Korean"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "K-pop Remix",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum machine"
-      ],
-      "musicSourceType": [
-        "Copyrighted Song"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> List-based",
-      "mainPurpose": "To express fandom and imitation of a celebrity (Jennie from BLACKPINK) following her appearance at the Melon Music Awards (MMA). The creator uses a series of fast-paced cuts showing her dancing with random household items to symbolize a 'transformed' or 'hyper' state induced by the celebrity's performance.",
-      "visualEmotion": "Energetic"
+      "narrativeStructure": "Montage: Hook -> Demonstrations -> Resolution",
+      "mainPurpose": "The video is a humorous social media trend where the creator depicts her energetic and obsessive state after watching a specific performance by the celebrity Jennie (from BLACKPINK) at the Melon Music Awards (MMA). By dancing with various everyday and glam objects, she illustrates the 'after-effect' of being inspired or hyped by the performance.",
+      "visualEmotion": [
+        "energetic",
+        "humorous"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
       "endorsementMethod": [
         "None"
       ],
-      "endorsementCues": "Objects like Jinro soju and the hair curler are used as props for the comedic dance montage rather than being showcased as products for sale.",
+      "endorsementCues": "None",
       "endorsementObject": [
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Use of meme-style pixelated sunglasses and a signature 'vibe' dance style.",
-      "freeDescribe": "The video utilizes a viral audio track popular on social media platforms for fan edits and trend recreations."
-    }
+    "freeDescribe": "The video utilizes fast rhythmic cuts that perfectly sync with the heavy beats of the pop background music, creating a high-energy meme format."
   }
 }

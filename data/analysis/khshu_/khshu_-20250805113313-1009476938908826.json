@@ -1,176 +1,277 @@
 {
   "videoName": "khshu_-20250805113313-1009476938908826.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 35,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Comedy",
-        "Food"
-      ],
+      "videoDuration": 36,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A man with dark hair in a black t-shirt and a woman with her hair in a bun wearing a black tank top are seated at a wooden table in a brightly lit room. They have plates of dumplings in front of them and are holding chopsticks. The background is a vibrant yellow wall with a minimalist lamp and floral wall decorations. (2) The woman begins eating a dumpling rapidly with a broad smile. The man watches her closely and attempts to mimic her speed, picking up a dumpling with his chopsticks. His expression is one of intense focus. Large yellow text overlays appear at the bottom of the frame. (3) Close-up shots highlight both individuals chewing their food. Graphic overlays like (Ctrl+C) and (Ctrl+V) appear near their heads to denote the imitation of actions. The woman continues to laugh and eat effortlessly while the man's cheeks begin to bulge significantly with food. (4) The man is visibly struggling to keep up, holding one hand up as if to signal a pause while his mouth is completely stuffed with dumplings. The woman looks at him and laughs heartily, continuing to pick up more food. Multiple variety-style text captions appear around them. (5) The final phase focuses on a close-up of the man's face as he tries to chew through the large amount of food in his mouth. His eyes are wide and he looks slightly overwhelmed. The woman continues eating steadily and laughing beside him. The scene ends with a final text overlay at the bottom.",
+      "text_narrative_log": "(1) [Slogan]: 跟著千千吃. [Slogan]: Try matching my eating pace. (2) [Variety]: (觀察). [Variety]: (感到幸福). (3) [Variety]: (Ctrl+C). [Variety]: (Ctrl+V). (4) [Variety]: +1. (5) [Variety]: 認真. (6) [Subtitle]: 一顆已經客滿. (7) [Variety]: 試圖阻止. (8) [Variety]: +2. (9) [Subtitle]: 窩還沒吃完... (10) [Subtitle]: 尚未離席. (11) [Variety]: 催促進場. (12) [Subtitle]: 努力咀嚼第一顆. (13) [Subtitle]: 還沒吞下去... (14) [Subtitle]: 窩太難ㄌ...",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face close-up",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 main male creator, 1 main female creator sharing a table.",
+        "mainCharacterDescription": "A man in a casual black t-shirt and a woman with her hair in a bun wearing a black ribbed tank top."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A domestic indoor setting with a bright yellow wall, a modern black floor lamp, and white/yellow floral wall decorations. A plush toy dog and some posters are also visible.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Dolly in / push in"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Meme-style edit",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Plush / decoration / toy animal"
+        ],
+        "foodsDetect": [
+          "Chinese Food"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Lighting equipment / ring light"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 1,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Humorous"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Meme/Comedy",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter"
+        ],
+        "crowdNoiseIntensity": 1,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Food Bite / Crunch"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Pop / Bubble SFX",
+          "Ding / Bell SFX",
+          "Cartoon / Comedy SFX",
+          "Whoosh / Transition SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 3,
+        "vocalRatio": 3,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 5,
+        "speechMusicOverlap": 3,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Stingers"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) High-tempo, cheerful electronic background music starts with a bright, bouncy synth melody and a steady rhythmic beat. The sound environment is exceptionally clean and professional. (2) A high-pitched female voice speaks with rapid, energetic prosody in Chinese, laughing occasionally. Her tone is very playful and engaging, set perfectly against the upbeat BGM. (3) A series of sharp, digital sound effects including 'pop' and 'ding' sounds are heard in rapid succession, marking the appearance of various on-screen text elements. (4) Clearly audible rhythmic munching and soft percussive mouth sounds are mixed into the track, creating an ASMR-like quality alongside the music. (5) The background music undergoes a sudden structural change, shifting to a slower, more humorous plucked-string melody to underscore a change in pace. Muffled chewing sounds from a full mouth are audible during this phase. (6) The video concludes with a final 'ding' sound effect and the female's light laughter fading as the music ends abruptly."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Food Review",
+        "Short Video"
+      ],
       "location": {
         "country": [
-          "China"
+          "Unknown"
         ],
         "city": [
           "Unknown"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video begins with a man and a woman sitting at a table with plates of dumplings. The woman starts eating quickly, and the man attempts to match her pace. (2) As the challenge progresses, the man visibly struggles, his mouth bulging with food as he tries to chew while the woman maintains a steady, fast pace. Decorative text and icons like '+1' and '+2' appear to track their progress. (3) The man slows down significantly, looking distressed yet humorous as he continues to chew the same mouthful, while the woman effortlessly continues eating, eventually leading to a scene where the man looks defeated with text expressing his difficulty.",
-      "audio_narrative_log": "(1) Upbeat and whimsical background music starts immediately, featuring a fast-paced piano and electronic melody. (2) Various cartoonish sound effects (SFX) are layered over the music, including 'ding' sounds for text appearances and rhythmic 'boing' sounds matching the characters' movements. Occasional light laughter and muffled chewing sounds are audible. (3) The music maintains its tempo but transitions to a slightly more comical, repetitive motif as the man's struggle is highlighted, ending with a final whimsical flourish.",
-      "text_narrative_log": "(1) '跟著千千吃 Try matching my eating pace' (Functional/Hook) - Encouraging and challenging tone. (2) '(觀察)' and '(感到幸福)' (Decorative) - Descriptive labels for the characters' expressions. (3) '(Ctrl+C)' and '(Ctrl+V)' (Decorative) - Comparing the man's mimicry. (4) '+1', '+2', and '認真' (Decorative) - Tracking progress and effort. (5) '一顆已經塞滿', '試圖阻止', '窩還沒吃完...', '尚未離席', '催促進場', '努力咀嚼第一顆', '還沒吞下去...', '窩太難ㄌ...' (Functional/Decorative) - Narrating the man's specific struggles and feelings with a humorous tone."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 14,
-      "averageSceneDuration": 2.5,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro Hook -> Eating Challenge Initiation -> Progression of Struggle -> Humorous Failure/Conclusion"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Upper body"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "1 male and 1 female main creators sitting at a dining table.",
-      "mainCharacterDescription": "The male has short black hair and wears a black t-shirt. The female has her hair tied up in a bun and wears a black sleeveless tank top."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Dining Room",
-          "Home"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A yellow wall decorated with large flower-shaped balloons and a 'FIRST WE EAT THEN DO EVERYTHING' poster. A modern floor lamp and a stuffed toy dog are also visible.",
-      "lightingStyle": "Warm indoor lighting",
-      "weather": "Indoor",
-      "season": "Unknown",
+      "sceneCutCount": 12,
+      "averageSceneDuration": 3.0,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Chinese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Warm and Vibrant",
-      "cameraWork": [
-        "Static"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Dumplings"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "Medium"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Humorous and lighthearted",
-        "pitch": "Normal",
-        "loudness": "Moderate",
-        "speed": "Normal",
-        "speechDensity": "Occasional narration/vocalizations",
-        "language": [
-          "Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat/Whimsical",
-      "bgmBPM": 115,
-      "instrumentFamiliesAudible": [
-        "Keyboard",
-        "Percussion",
-        "Electronic"
-      ],
-      "instrumentsAudible": [
-        "Piano",
-        "Synthesizer"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Cartoon SFX",
-        "Ping",
-        "Boing"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Action -> Complication -> Climax/Resolution",
-      "mainPurpose": "To entertain viewers through a 'match my eating pace' challenge. The video utilizes visual comedy, specifically the man's physical struggle to consume food as quickly as the woman, combined with playful editing and sound effects to create a lighthearted social media vlog.",
-      "visualEmotion": "Humorous and Energetic"
+      "narrativeStructure": "Montage: Challenge -> Escalation -> Comedic Failure",
+      "mainPurpose": "To entertain the audience by showcasing a humorous eating challenge between a couple, where the man fails to keep up with the woman's rapid pace, leading to a comedic situation.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
       "endorsementMethod": [
         "None"
       ],
-      "endorsementCues": "No specific brand names or product placements are clearly emphasized or mentioned.",
+      "endorsementCues": "None",
       "endorsementObject": [
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Use of variety-show style text labels and cartoon sound effects synced to facial expressions.",
-      "freeDescribe": "The video relies heavily on the 'challenge' format common on short-form video platforms, using a relatable domestic setting to enhance viewer engagement."
-    }
+    "freeDescribe": "The video uses typical variety-show editing techniques with heavy use of text overlays and sound effects to enhance the comedic effect."
   }
 }

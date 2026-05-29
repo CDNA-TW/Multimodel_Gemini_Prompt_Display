@@ -1,163 +1,268 @@
 {
   "videoName": "602avenue-20251113224141-1651039129752044.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 58,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Reaction",
-        "Food Review"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "South Korea"
+      "visual_narrative_log": "(1) A young woman with long dark hair wearing a black pajama shirt and an older man with glasses and a gray t-shirt sit on a blue sofa. The woman holds a large green bag of Doritos Coriander flavor up to the camera. The background is an indoor living room with a framed picture on the wall. (2) The woman gestures towards the bag while speaking excitedly, and the man looks at the bag with curiosity. They are in a bright, evenly lit indoor setting. (3) The woman holds the bag open to the camera, showing green-colored triangular tortilla chips. She has a wide-eyed, surprised expression. The man leans in to see. (4) Both characters take a chip and eat it. The woman chews thoughtfully while the man smiles and continues to chew. They are framed in a medium shot. (5) The woman offers a chip to someone off-camera, and a hand appears to take it. The man starts eating more chips from the bag quite happily, while the woman looks at him and laughs. (6) The man gives a rating with his fingers while holding the green bag. The woman continues to react with exaggerated facial expressions as they finish the video.",
+      "text_narrative_log": "(1) [Subtitle]: 韓國爸爸吃. [Variety]: 香菜多力多滋的反應. (2) [Subtitle]: 猜看看是什麼口味. (3) [Subtitle]: 豆裡豆子?. [Variety]: (100%韓國人). (4) [Subtitle]: 是芥末!!!. (5) [Subtitle]: 是「香菜」. (6) [Subtitle]: 你看過香菜口味餅乾嗎?. (7) [Subtitle]: 沒有.... (8) [Subtitle]: 這個近期在台灣很紅，很難買. (9) [Subtitle]: 在便利商店一直售罄. (10) [Subtitle]: 因為我爸在台灣吃東西的時候. (11) [Subtitle]: 也蠻喜歡配香菜一起吃. (12) [Subtitle]: 所以今天來. (13) [Subtitle]: 評價這個看看. (14) [Subtitle]: 先打開!. (15) [Variety]: (碎碎念). [Subtitle]: 香菜該要配肉啊. (16) [Subtitle]: 香味還行欸?. (17) [Variety]: 😲. [Subtitle]: 超綠. (18) [Subtitle]: 是芥末口味吧.... (19) [Variety]: !!. [Subtitle]: 香菜味蠻明顯. (20) [Subtitle]: 真的是香菜口味欸. (21) [Variety]: (反正吃得很好). (22) [Subtitle]: 不敢吃香菜的人會討厭吧. (23) [Subtitle]: 媽媽：我真不喜歡香菜. (24) [Variety]: (媽媽來挑戰). (25) [Variety]: 啊啊啊. [Subtitle]: 媽媽：我不行!!!!. (26) [Subtitle]: 爸爸吃得很好.... (27) [Subtitle]: 可以下酒菜對吧?. (28) [Subtitle]: 媽媽：好吃嗎?. (29) [Subtitle]: 還不錯啦?!. (30) [Subtitle]: 鹹鹹的~. (31) [Subtitle]: 我的菜. (32) [Subtitle]: 那5分滿分給幾分呢?. (33) [Variety]: (傻眼). [Subtitle]: 然後繼續吃.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Hands only"
         ],
-        "city": [
-          "None"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman in black pajamas and an older man in a grey t-shirt sit on a blue sofa in a living room. The woman holds a bright green bag of Doritos. (2) The camera zooms in on the snack bag, which features images of coriander leaves. The man points at the bag while talking. (3) They open the bag, and the woman shows a bright green triangular chip to the camera. (4) Both individuals take a chip and eat it simultaneously. The man chews thoughtfully while the woman looks on expectantly. (5) The woman holds a chip out towards the left side of the frame, off-camera, as if feeding someone else. (6) The man continues to eat multiple chips while talking to the woman, who eventually shows a score of 3.5 with her hands and text overlay.",
-      "audio_narrative_log": "(1) Upbeat, fast-tempo background music with electronic beats starts immediately. A young female voice and a middle-aged male voice are heard speaking enthusiastically in Korean. (2) The sound of a plastic snack bag being crinkled and torn open is clearly audible. (3) Rhythmic crunching sounds are heard as they begin eating the chips. (4) A high-pitched female voice from off-camera is heard screaming and shouting in a playful, disgusted manner. (5) The male voice continues speaking in a steady, calm tone while more crunching and laughter from the younger female occur. (6) Music fades slightly as they reach a conclusion.",
-      "text_narrative_log": "(1) Top fixed text: \"🇰🇷韓國爸爸吃🌿香菜多力多滋的反應\" (Korean Dad's reaction to eating Coriander Doritos). (2) Functional text throughout translates Korean dialogue into Traditional Chinese. (3) Decorative labels appear: \"(100% 韓國人)\" (100% Korean), \"是芥末!!!\" (It's wasabi!!!), \"是「香菜」\" (It's \"Coriander\"). (4) Bold emphasis text: \"超綠\" (Super Green), \"啊啊啊\" (Aaaaah), \"爸爸吃得很好...\" (Dad eats very well...), \"3.5\", \"(傻眼)\" (Speechless/Dumbfounded)."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 18,
-      "averageSceneDuration": 3.2,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro to the product -> Speculating on flavor -> Opening and tasting -> Family reaction -> Final rating."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Upper body"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "1 main female creator and 1 middle-aged male (father) visible on camera; 1 female (mother) heard off-camera.",
-      "mainCharacterDescription": "A young woman with long dark hair wearing black button-down pajamas; a middle-aged man with glasses and short hair wearing a grey 'Under Armour' t-shirt."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 main female creator and her father as the co-star.",
+        "mainCharacterDescription": "The woman has long black hair, fair skin, and wears a black button-up pajama set. The man has short black hair, wears glasses, and a gray t-shirt with text on it."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
           "Indoor Living Room"
         ],
-        "topography": [
-          "None"
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A domestic living room with a blue fabric sofa, a white wall, a framed picture, and a decorative pillow with 'Green Leaves' text.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
         ]
       },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A blue fabric sofa with green and patterned cushions. A framed picture or certificate is hanging on the wall behind them.",
-      "lightingStyle": "Natural indoor lighting",
-      "weather": "Indoor",
-      "season": "Unknown",
-      "editingPace": "Moderate",
-      "textOverlay": {
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Jump cut",
+          "Meme-style edit",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
         "density": "High",
-        "language": [
+        "textLanguage": [
           "Traditional Chinese",
           "Korean",
-          "English"
+          "Emoji / Symbols"
         ],
         "isSubtitled": true
       },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Close-up"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Doritos",
-        "Coriander chips"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Doritos",
-        "Under Armour"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut sync with visual edits",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 2,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Cheerful and energetic",
-        "pitch": "Varied (Low male, high female)",
-        "loudness": "Normal to loud (screaming)",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Korean"
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Snack / chips / candy"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Doritos"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Crunching",
-        "Screaming"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Field Recording"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 3,
+        "male_vocal_count": 1,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Animated/Excited",
+          "Casual"
+        ],
+        "vocalLanguage": [
+          "Korean"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 124,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter"
+        ],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Plastic / Bag Rustle",
+          "Food Bite / Crunch"
+        ],
+        "incidentalNoiseIntensity": 3,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Ding / Bell SFX",
+          "Pop / Bubble SFX",
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The video opens with a high-energy female voice speaking fast Korean, accompanied by a bouncy, upbeat electronic BGM with a clear 4/4 beat. A male voice interjects with a lower pitch. (2) A sharp 'crinkle' and 'pop' sound of a plastic bag opening triggers a brief pause in speech, followed by the female's excited 'Oh!'. (3) Loud, crisp 'crunch' sounds of eating chips occur repeatedly. The BGM remains steady. The female voice exhibits high pitch variability and laughter. (4) A sudden, loud, high-pitched female scream of disgust occurs from off-camera, accompanied by a cartoonish 'boing' sound effect. The main female speaker laughs hysterically. (5) The male speaker continues to speak in a calm, melodic Korean tone, punctuated by more crunching sounds. A 'ding' sound effect signifies the rating moment. (6) The video concludes with overlapping laughter, rapid speech, and the continuous bouncy BGM fading slightly at the very end."
     }
   },
-  "high_inference_interpretations": {
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Food Review",
+        "Vlog",
+        "Comedy"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 22,
+      "averageSceneDuration": 2.6,
+      "editingPace": "Fast",
+      "isNarrativeShift": false
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Intro -> Reaction -> Result",
-      "mainPurpose": "The video is designed to entertain viewers by showcasing a cross-generational reaction to a controversial food item (coriander-flavored chips). It leverages the comedic contrast between the father's unexpected enjoyment and the mother's intense off-camera disgust to drive engagement.",
-      "visualEmotion": "Humorous and Energetic"
+      "narrativeStructure": "List-based: Intro -> Opening Bag -> Tasting -> External Reaction -> Final Rating",
+      "mainPurpose": "The video aims to entertain viewers by showing a father's reaction to a uniquely flavored snack (Coriander Doritos), leveraging the contrast between his liking of it and the mother's intense dislike.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -165,14 +270,11 @@
         "Implicit",
         "Integrated"
       ],
-      "endorsementCues": "The video prominently features the brand packaging, discusses the specific flavor unique to a region (Taiwan), and provides a taste review.",
+      "endorsementCues": "The video prominently features a specific, trending flavor of Doritos, showing the packaging and the product being consumed with a positive reaction from the father.",
       "endorsementObject": [
         "Doritos"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Family reaction format, specifically targeting Korean speakers/culture while using Chinese subtitles for a broader Asian audience.",
-      "freeDescribe": "The video effectively uses 'reaction' tropes common in short-form content, such as dramatic text overlays and sound effects (the mother's scream) to emphasize the polarized reactions to the snack's flavor."
-    }
+    "freeDescribe": "The use of high-energy Korean dialogue paired with Chinese subtitles suggests an cross-cultural appeal. The fast-paced editing and variety-style captions are characteristic of short-form social media trends."
   }
 }

@@ -1,172 +1,273 @@
 {
   "videoName": "yga0721-20250706163809-2087360868696909.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 77,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Entertainment",
-        "Award Ceremony"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A man in a large white t-shirt and dark pants stands in a brightly lit modern office hallway with marble-patterned floors, holding a trophy and his phone. Several young people are behind him, some holding cardboard face cutouts over their heads, while a woman in a blue denim outfit walks into the frame to join him. (2) The man points to his smartphone screen, which displays a video thumbnail and view count numbers. On-screen graphic text overlays appear, showing specific view counts like 21.5萬. The people in the background clap and smile broadly, expressing high-arousal joy and excitement through energetic body language and hand gestures. (3) The scene cuts to a closer view as the man hands the silver trophy to a young woman wearing a red crop top. A detailed close-up shot emphasizes the shiny silver surface and red ribbons of the trophy. Yellow and white text overlays at the bottom inform viewers of 2萬元獎金 and additional bonuses for the winners. (4) A man in a black t-shirt and green shorts enters the celebration, joining the others who have their arms raised in triumph. The main man performs a high-energy dance move, gesturing enthusiastically at the camera while the group poses together with the trophy and face cutouts in a vibrant, high-contrast indoor setting.",
+      "text_narrative_log": "(1) [Slogan]: MV比賽。頒獎典禮. (2) [Subtitle]: 24小時累積點閱數. [Subtitle]: 亞妮組21.5萬. (3) [Subtitle]: 那佑組23.5萬. (4) [Subtitle]: 飄黛19.6萬. (5) [Slogan]: 獲勝團員每位2萬元獎金. (6) [Slogan]: 加碼2,3名 每位1萬元. (7) [Subtitle]: 而且可以再去拍兩部MV?. (8) [Subtitle]: (誰叫你們不進辦公室).",
+      "visual_human_presence": {
+        "totalHumanCount": 8,
+        "maleDetectAmount": 3,
+        "femaleDetectAmount": 5,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main male host, 1 main female recipient, and 6 staff members in the background.",
+        "mainCharacterDescription": "The main male host wears an oversized white t-shirt and black pants; the female recipient wears a red crop top and light-colored pants."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Office / Workplace"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A modern, bright indoor office or studio hallway with white walls, marble-effect tiling on the floor, and translucent white curtains covering windows.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Summer"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Panning",
+          "Zoom in"
+        ],
+        "shotSize": [
+          "Medium full shot",
+          "Medium shot",
+          "Close-up",
+          "Insert shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Fast cuts",
+          "Graphic transition"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "ha ha baby"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 6,
+        "male_vocal_count": 2,
+        "female_vocal_count": 4,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Rising"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 9,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Cheering",
+          "Applause",
+          "Laughter",
+          "Screaming/Yelling"
+        ],
+        "crowdNoiseIntensity": 4,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Footsteps"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A high-pitched male voice speaks with rapid cadence and enthusiastic tone in Mandarin. The acoustic environment is a bright indoor hallway with noticeable room resonance. No background music is present, allowing the natural sound of footsteps and soft ambient chatter from a few nearby individuals to be clearly heard. (2) The primary speaker's voice rises in volume and pitch as he announces numerical data from his phone. This is immediately met with a burst of high-intensity crowd noise, including energetic hand clapping (sharp transients) and loud vocal cheers with high pitch variability from the surrounding group members. (3) The male speaker continues his high-arousal delivery to announce monetary prizes, which triggers intense, high-pitched female screams and collective celebratory vocalizations. The speech rate remains fast, and the intensity of the group's reaction creates a dense, overlapping acoustic texture of joy and excitement. (4) The audio reaches its peak energy level as the speaker shouts 'Yeah!' repeatedly, joined by the rhythmic and loud cheering of the group. The vocal valence is extremely positive, with high dominance and arousal. No melodic music or post-production sound effects are heard, keeping the focus on raw human interaction."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Vlog"
+      ],
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "Unknown"
+          "Taipei"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video opens with a male character in a white t-shirt holding a silver trophy and a smartphone, standing in a bright indoor hallway. He interacts with a female character in blue while several people in the background hold cardboard cutouts of faces. (2) He begins looking at his smartphone, announcing results as small video inserts of MV clips appear on the screen. The group reacts with excitement. (3) He hands the trophy to a female character in a black top, and they all start cheering and jumping. (4) The scene continues with the group celebrating, throwing papers/cutouts into the air, and the male character performing a celebratory dance towards the camera.",
-      "audio_narrative_log": "(1) The audio begins with loud, overlapping voices of people talking and laughing in an indoor setting. (2) An upbeat, fast-tempo electronic pop BGM enters as a male voice starts announcing numbers and names in an energetic tone. (3) The soundscape is dominated by loud, collective cheering, clapping, and shouting \"Yeah!\" and \"Wah!\" as the announcements conclude. (4) The male voice continues to speak over the cheering, mentioning monetary amounts, while the celebratory atmosphere remains constant until the end.",
-      "text_narrative_log": "(1) Functional Text: Subtitles at the bottom translating the spoken Chinese dialogue. (2) Decorative/Hook Text: A red banner at the top reads \"MV比賽。頒獎典禮\" (MV Competition. Award Ceremony). (3) Result overlays: \"24小時累積點閱數\" followed by specific group results \"亞妮組 21.5萬\", \"珊佑組 23.5萬\", and \"飄岱組 19.6萬\". (4) Prize info: \"獲勝團員 每位2萬元獎金\" and \"加碼2.3名 每位1萬元\" appearing in white and yellow font to emphasize rewards."
     },
     "temporal_pacing_summary": {
-      "sceneCutCount": 12,
-      "averageSceneDuration": 6.4,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro/Context -> Result Announcement -> Prize Awarding -> Group Celebration"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 10,
-      "maleDetectAmount": 3,
-      "femaleDetectAmount": 7,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 main male creator, 1 main female winner, and approximately 8 staff members in the background.",
-      "mainCharacterDescription": "A male with short brown hair, wearing an oversized white t-shirt and black pants, appearing very energetic."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Office",
-          "Hallway"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A clean, modern white hallway with marble-patterned flooring and glass partitions.",
-      "lightingStyle": "Bright indoor studio-like lighting",
-      "weather": "Indoor",
-      "season": "Unknown",
+      "sceneCutCount": 14,
+      "averageSceneDuration": 5.5,
       "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Follow shot"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 3,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 7,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 2,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and celebratory",
-        "pitch": "High",
-        "loudness": "Loud",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drums"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Field Recording"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Announcement -> Climax -> Celebration",
-      "mainPurpose": "The video serves to document and share an internal company milestone or competition result. By showing the enthusiastic reaction of the team and the generous prize money, it aims to project a positive, successful, and fun work culture to the audience while rewarding the participants of their MV project.",
-      "visualEmotion": "Energetic"
+      "narrativeStructure": "Linear: Introduction -> Announcement of Results -> Award Ceremony -> Bonus Reveal -> Celebration.",
+      "mainPurpose": "To document and share the celebratory results of an MV competition, revealing view counts and awarding cash prizes to the participants to generate excitement and engagement with the audience.",
+      "visualEmotion": [
+        "energetic",
+        "warm",
+        "humorous"
+      ]
     },
     "endorsement_analysis": {
-      "isEndorsement": false,
+      "isEndorsement": true,
       "endorsementMethod": [
-        "None"
+        "Implicit Integrated"
       ],
-      "endorsementCues": "None",
+      "endorsementCues": "The host and participants are associated with the 'ha ha baby' brand, which is visibly branded on clothing.",
       "endorsementObject": [
-        "None"
+        "ha ha baby",
+        "蔡阿嘎"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Cai A-ga's signature high-energy hosting style and the presence of his regular staff members.",
-      "freeDescribe": "The video's impact relies heavily on the authentic excitement and 'variety show' style editing which is typical for high-engagement social media content."
-    }
+    "freeDescribe": "The video uses a high-energy vlog style common in Taiwanese social media, focusing on raw human reactions and text-heavy visual engagement."
   }
 }

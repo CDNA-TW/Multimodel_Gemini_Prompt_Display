@@ -1,168 +1,274 @@
 {
   "videoName": "2uncle987-20250501130513-2176015019870335.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 68,
-      "aspectRatio": "9:16",
+      "videoDuration": 68.23,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A man in a dark hoodie and khaki trousers is crouched on a wooden floor, working on the lower electronics of a pink and white claw machine labeled 'TIDE HOUSE'. Tools and wires are scattered on a black trolley next to him in a brightly lit indoor room. (2) The camera focuses on the front of the 'TIDE HOUSE' claw machine, showing the pink frame, interior lights, and various toys inside. Hands are seen operating the joystick and buttons to test the machine's movement. (3) A sequence of clips shows the setup of birthday decorations on a white wall, including blue 'HAPPY BIRTHDAY' letters, silver balloons shaped like stars and the number '5', and a yellow balloon. (4) A young boy with black-rimmed glasses and a blue and yellow jacket stands excitedly in front of the claw machine. He is surrounded by family members and friends in a living room setting, where a strawberry cake with a '5' candle is placed on a table. (5) The boy blows out the candle as people around him clap and cheer. He then proceeds to cut the cake with a plastic knife while a man helps him. (6) The boy is seen happily eating a piece of cake and later playing with the claw machine, successfully grabbing several toys and capsules while a woman watches and smiles. (7) A close-up shows the boy wearing decorative 'HAPPY BIRTHDAY' glasses, smiling broadly and laughing at the camera as the celebration concludes.",
+      "text_narrative_log": "(1) [Variety]: KID哥 (怎麼又是你😂). [Subtitle]: 請問您今天接收的任務是什麼任務. (2) [Subtitle]: 來 調整夾娃娃機. (3) [Subtitle]: 專業夾娃娃機維修師傅. [Logo]: TIDE HOUSE. (4) [Slogan]: 場地佈置中. [Subtitle]: 沒錯. (5) [Subtitle]: 祝你生日快樂. [Variety]: 祝你生日快樂. (6) [Subtitle]: 還沒唱完!!!! (7) [Subtitle]: 你想看你有什麼願望. [Subtitle]: 沒有. [Subtitle]: 你沒有願望嗎. [Subtitle]: 沒有x2. [Subtitle]: 你沒有想要的東西嗎. [Subtitle]: 沒有x3. [Subtitle]: 你都有了是嗎. (8) [Variety]: 知足的波. (點頭). [Subtitle]: 把願望給爸爸. [Variety]: 許願隨意趕快派錢!!!! (9) [Subtitle]: 我是蔡波能, 我五歲啦. (10) [Slogan]: 蔡波能 HAPPY BIRTHDAY. [Subtitle]: 希望你不論過了多久...",
+      "visual_human_presence": {
+        "totalHumanCount": 9,
+        "maleDetectAmount": 4,
+        "femaleDetectAmount": 3,
+        "kidsDetectAmount": 2,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main child, 2 parents, approximately 6 other family members and guests.",
+        "mainCharacterDescription": "A young boy with short black hair and glasses, wearing a blue jacket with yellow and orange accents over a striped shirt."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home",
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A domestic living room with white walls, wooden flooring, various storage cabinets, and a table set up for a birthday party.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Panning",
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Medium full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "High angle"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Montage"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Plush / decoration / toy animal"
+        ],
+        "foodsDetect": [
+          "Dessert / cake / cookies",
+          "Fruit"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "TIDE HOUSE"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 6,
+        "male_vocal_count": 3,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 1
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Animated/Excited",
+          "Casual"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 6,
+        "valence": 8,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Acoustic/Folk"
+        ],
+        "tempoBPM": 105,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Percussion",
+          "Strings",
+          "Keyboard"
+        ],
+        "instrumentsAudible": [
+          "Piano",
+          "Guitar"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter",
+          "Applause",
+          "Cheering"
+        ],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Mechanical Click / Latch"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Pop / Bubble SFX",
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 2,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 3,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) The video begins with a light, upbeat acoustic BGM featuring piano and guitar. A friendly male voice and a female voice engage in casual conversation over the music. (2) A transition brings the sound of a group of people singing 'Happy Birthday' together. The vocal arousal is high and joyful, followed by distinct hand clapping and communal laughter. (3) The BGM continues as a young child's voice is heard responding to questions with a cheerful, slightly shy tone. Occasional percussive 'ding' sound effects are used for emphasis. (4) The mechanical whirring of a claw machine is briefly audible, followed by a chorus of excited cheers from adults and children as something is won. (5) The audio concludes with a final upbeat melodic phrase from the BGM and a mix of happy chatter from the group."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
         "Vlog",
-        "Family",
-        "Celebration"
+        "Family / Kids"
       ],
-      "withRealPeople": true,
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "Unknown"
+          "None"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A man in a dark hoodie is seen crouched beside a pink and white claw machine, adjusting components at the base with tools. (2) A woman is on her knees on a wooden floor, carefully arranging blue letter balloons that spell 'HAPPY' and other birthday decorations. (3) A group of children and adults gather in a brightly lit room around a table holding the claw machine and a strawberry cake. A young boy wearing glasses is the focus of the group. (4) The boy stands by the cake, which has a '5' candle, and later blows it out as the crowd cheers. (5) The boy operates the joystick of the claw machine with the help of a woman, while other children watch with anticipation. (6) Close-up shots show the claw successfully grabbing a blue toy capsule and a small plush keychain.",
-      "audio_narrative_log": "(1) Upbeat, energetic music starts immediately with sound effects. A male voice asks about the mission, and a second male voice replies that he is adjusting the claw machine. (2) Sound of general movement and light ambient noise as the setup continues. (3) A group of voices collectively sings 'Happy Birthday' in both Mandarin and English, accompanied by clapping. (4) Laughter and cheering erupt. A male voice asks the boy about his wishes; the boy repeatedly says 'none' (zhisun) in a playful tone. (5) The boy's voice is heard announcing 'I am 5 years old!' followed by more excited chatter. (6) Mechanical sounds of the claw machine operating are heard over the continuing background music and children's voices.",
-      "text_narrative_log": "(1) 'KID哥 (怎麼又是你)' - Humorous hook. (2) '請問您今天接收的任務是什麼任務' - Functional question. (3) '調整夾娃娃機' - Functional response. (4) '專業夾娃娃機維修師傅' - Descriptive label. (5) '場地佈置中' - Status update. (6) 'HAPPY 5 BIRTHDAY' - Celebration text. (7) '祝你生日快樂' - Celebration hook. (8) '還沒唱完!!!!' - Humorous emphasis. (9) '知足的波' - Descriptive title. (10) '我是蔡波能, 我五歲啦' - Identification and celebration text."
     },
     "temporal_pacing_summary": {
-      "sceneCutCount": 24,
-      "averageSceneDuration": 2.8,
-      "isNarrativeShift": true,
-      "mainActionFlow": "The video follows an Intro (task reveal) -> Preparation (setup montage) -> Climax (birthday celebration) -> Activity (playing with the machine) flow."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 9,
-      "maleDetectAmount": 3,
-      "femaleDetectAmount": 3,
-      "kidsDetectAmount": 3,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Face"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 male creator (KID), 1 main child (Cai Bo Neng), 2 other children, 2 adult females, and at least 3 other adults seen in background shots.",
-      "mainCharacterDescription": "The main creator (KID) wears a dark hoodie; the birthday boy (Cai Bo Neng) wears black-rimmed glasses, a striped orange/white shirt, and a navy blue jacket."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Studio",
-          "Home"
-        ],
-        "topography": [
-          "Plain"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A clean, modern indoor space with wooden floors, white walls, and birthday decorations including balloons and streamers.",
-      "lightingStyle": "Bright, even studio lighting",
-      "weather": "None",
-      "season": "None",
+      "sceneCutCount": 28,
+      "averageSceneDuration": 2.44,
       "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "Medium",
-        "language": [
-          "Traditional Chinese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Warm and Vibrant",
-      "cameraWork": [
-        "Follow shot",
-        "Static",
-        "Close-up",
-        "Handheld"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Strawberry Cake"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Claw Machine",
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "TIDE HOUSE",
-        "DIESEL"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade",
-      "vocalRatio": "Medium"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 4,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 5,
-        "vocal_demographics": {
-          "male_vocal_count": 2,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 2
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Cheerful, celebratory, and humorous",
-        "pitch": "Varied",
-        "loudness": "High",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat/Pop",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Keyboard",
-        "Percussion",
-        "Electronic"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum kit"
-      ],
-      "musicSourceType": [
-        "Stock",
-        "Live"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Cartoon SFX",
-        "Cheering"
-      ],
-      "ambientNoise": [
-        "Room reverb",
-        "Laughter"
-      ],
-      "audioQuality": "Field Recording"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Preparation -> Celebration -> Activity",
-      "mainPurpose": "The video documents the 5th birthday celebration of Cai Bo Neng, orchestrated by the influencer KID. It focuses on the preparation of a custom claw machine surprise and the heartwarming family celebration that follows, aiming to share joy and maintain high engagement with the creator's family-oriented audience.",
-      "visualEmotion": "Joyful and Heartwarming"
+      "narrativeStructure": "Linear: Preparation -> Surprise -> Celebration -> Climax",
+      "mainPurpose": "To document and share the celebration of a child's 5th birthday, highlighting a special personalized claw machine gift and the family's shared joy.",
+      "visualEmotion": [
+        "warm",
+        "energetic",
+        "joyful"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -170,14 +276,11 @@
         "Implicit",
         "Integrated"
       ],
-      "endorsementCues": "The brand 'TIDE HOUSE' is prominently featured on the custom claw machine which is the centerpiece of the video content.",
+      "endorsementCues": "The claw machine features prominent 'TIDE HOUSE' branding throughout the video, and its setup and functionality are specifically demonstrated.",
       "endorsementObject": [
         "TIDE HOUSE"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Usage of variety-show style large captions and fast-paced editing typical of Taiwanese influencers like KID.",
-      "freeDescribe": "The video effectively blends commercial placement (the claw machine) with authentic family milestones, a common strategy for high-engagement lifestyle vloggers."
-    }
+    "freeDescribe": "A high-quality family vlog that effectively integrates a product showcase into a personal milestone event, creating a warm and authentic promotional atmosphere."
   }
 }

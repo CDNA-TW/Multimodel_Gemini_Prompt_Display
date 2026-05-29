@@ -1,14 +1,232 @@
 {
   "videoName": "0_shufen-20250828175421-870861292486670.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 4,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Lifestyle"
-      ],
+      "videoDuration": 3,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A young woman with long, dark, wavy hair is captured in a handheld selfie perspective. She is wearing a black bikini top with a thin silver necklace and a white gathered skirt. Her face is in a medium close-up, and she smiles down gently while her hair partially obscures her cheek. The setting is a brightly lit outdoor area with sandy ground, a large tree trunk to the left, and tropical green foliage in the background. (2) The camera shifts slightly as she looks up and towards the camera with a bright smile, showing her expressive eyes and well-defined eyelashes. The natural daylight creates a warm, high-contrast look on her skin and the surrounding beach environment.",
+      "text_narrative_log": "None",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Face close-up"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main female creator in a selfie shot.",
+        "mainCharacterDescription": "A young woman with long dark hair, wearing a black bikini top and a white skirt."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Beach / Coast"
+        ],
+        "locationTopography": [
+          "Coastline / Beach"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A sandy beach area with a large tree trunk, tropical plants, and structures visible in the distance under bright sunlight.",
+        "lightingStyle": [
+          "Natural daylight"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Summer"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Selfie handheld"
+        ],
+        "shotSize": [
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "None"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "None",
+        "textLanguage": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 0,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 5
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 5,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 0,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) A high-pitched, staccato electronic melody begins, characterized by a playful and energetic rhythm. The music has a synthesized, bright texture with a fast tempo, resembling a short comedic or meme-style jingle. There are no human vocals, ambient environmental noises, or distinct incidental sounds present in this phase. (2) The same repetitive musical phrase continues through the end of the clip, maintaining its upbeat and percussive quality. The audio is clean and appears to be a post-produced track layered over the video, with no audible background noise from the filming location."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Selfie / Portrait",
+        "Short Video"
+      ],
       "location": {
         "country": [
           "Unknown"
@@ -18,139 +236,19 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video starts with a young woman with long dark hair, wearing a black bikini top and white pants, looking down and smiling in a selfie POV. (2) She tilts her head and looks toward the camera while moving slightly, revealing a sandy beach background with palm trees and distant beach structures. (3) She continues to smile and pose gently as the camera moves with her body in a continuous shot.",
-      "audio_narrative_log": "(1) Upbeat, tropical-infused electronic pop music starts immediately. (2) No vocals are detected throughout the clip. (3) Faint ambient outdoor sounds are present but largely masked by the high-tempo background music.",
-      "text_narrative_log": "(1) None"
-    },
     "temporal_pacing_summary": {
       "sceneCutCount": 0,
-      "averageSceneDuration": 4.0,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Continuous selfie movement and posing."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Face"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main female creator in selfie view.",
-      "mainCharacterDescription": "A young woman with long dark wavy hair, wearing a black bikini top and white low-rise bottoms."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Outdoor Beach"
-        ],
-        "topography": [
-          "Coastline"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A sandy beach area with palm trees, green plants, and what appears to be a resort or beach club structure in the distance under bright daylight.",
-      "lightingStyle": "Natural bright sunlight",
-      "weather": "Sunny",
-      "season": "Summer",
+      "averageSceneDuration": 3.0,
       "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "None",
-        "language": [
-          "None"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "Natural and warm",
-      "cameraWork": [
-        "POV",
-        "Handheld"
-      ]
+      "isNarrativeShift": false
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "None",
-      "vocalRatio": "Low"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 0,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "None",
-        "pitch": "None",
-        "loudness": "None",
-        "speed": "None",
-        "speechDensity": "None",
-        "language": [
-          "None"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Tropical Pop",
-      "bgmBPM": 115,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Wind"
-      ],
-      "audioQuality": "Field"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Pose -> Environment Reveal -> Smile",
-      "mainPurpose": "To showcase the creator's physical appearance and relaxed vacation aesthetic at a tropical beach location for social media engagement.",
-      "visualEmotion": "Relaxed and cheerful"
+      "narrativeStructure": "Linear: Static selfie framing -> Gradual eye contact and smile -> End.",
+      "mainPurpose": "The video serves as a brief, high-energy personal portrait typical of social media reels, aiming to capture a candid and cheerful moment during a beach vacation. The combination of a vibrant, staccato BGM and the subject's direct engagement with the camera via smiles and a selfie perspective creates a warm, approachable, and self-expressive atmosphere.",
+      "visualEmotion": [
+        "energetic",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -162,9 +260,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Close-up selfie angle with a focus on facial expressions and summer fashion.",
-      "freeDescribe": "Typical short-form social media content focusing on 'vibe' and aesthetics rather than a specific story."
-    }
+    "freeDescribe": "Short-form portrait with high production audio alignment but simple visual composition."
   }
 }

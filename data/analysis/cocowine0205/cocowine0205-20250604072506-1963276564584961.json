@@ -1,178 +1,280 @@
 {
   "videoName": "cocowine0205-20250604072506-1963276564584961.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 36,
-      "aspectRatio": "9:16",
+      "videoDuration": 35,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A woman wearing a black beret and a black ruffled dress is in a toy shop, surrounded by shelves of plush toys. She holds up two furry monster toys, one white and one green, showing them to the camera with a bright expression. (2) She picks up a small brown cardboard box from a stack labeled 'Fuggler' and begins to open it. The background is filled with various toy boxes and colorful merchandise. (3) Upon opening the box, she reveals a small green rabbit-like creature with prominent teeth. She displays a shocked and excited facial expression, looking directly at the toy and then the camera. (4) A second woman appears on the right, carrying a small white dog wearing a striped shirt. They both inspect the new toy. The lighting remains bright and consistent throughout the shop. (5) The first woman playfully interacts with the second woman and the dog, making kissing faces and pointing at the toy while dynamic text overlays appear in the foreground. (6) Both women laugh and smile as they continue to showcase the green creature, holding it close to the dog's face and looking at each other in a lively, well-lit environment.",
+      "text_narrative_log": "(1) [Subtitle]: 這裡有最新出的. [Variety]: Fuggler 牙寶. (2) [Subtitle]: 風靡全球 Fuggler 牙寶盲盒. (3) [Subtitle]: 1/44的機率. (4) [Subtitle]: 你知道誰屬兔嗎?. (5) [Subtitle]: 妹送你一個禮物. (6) [Subtitle]: 誰也喜歡這奇妙的小東西. [Slogan]: 留言告訴我喲. (7) [Subtitle]: 他還滿可愛. (8) [Subtitle]: 好!送給你. (9) [Subtitle]: 好好笑可愛就給我親. [Subtitle]: 他好像小黃瓜. (10) [Subtitle]: 他好像變形的小黃瓜. (11) [Subtitle]: 可愛就給我親一個. (12) [Subtitle]: 我送給你了. (13) [Subtitle]: 保護保護.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Head and shoulders",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "2 women are present, with 1 being the primary unboxer and the other joining mid-video.",
+        "mainCharacterDescription": "The first woman wears a black beret, a white shirt under a black ruffled dress, and a black choker. The second woman has long dark hair and wears a dark top."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Retail Store"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A densely packed toy or gift shop featuring floor-to-ceiling shelves stocked with plushies, blind boxes, and character merchandise.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Dog",
+          "Plush / decoration / toy animal"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Fuggler",
+          "KANGOL"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 0,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Comedic/Exaggerated"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 115,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter"
+        ],
+        "crowdNoiseIntensity": 1,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Plastic / Bag Rustle",
+          "Mechanical Click / Latch"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Cartoon / Comedy SFX",
+          "Ding / Bell SFX",
+          "Pop / Bubble SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 5
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) A high-pitched, enthusiastic female voice speaks quickly over a bouncy, medium-tempo synthesizer BGM. A cheerful 'ding' sound effect marks the beginning of the speech. (2) The sound of cardboard tearing and light plastic rustling is heard as the speaker continues her energetic monologue. The BGM maintains a steady, playful rhythm. (3) A sudden cartoonish 'boing' SFX plays as the speaker gasps in surprise. The vocal pitch rises further, conveying intense excitement and delight. (4) A second female voice joins in; both are laughing and speaking in overlapping phrases. The BGM remains constant, while a faint jingling sound, possibly from a pet's collar, is briefly audible. (5) Several short, comical 'pop' and 'magic' sound effects are added as the two women joke and laugh. The audio concludes with a final high-pitched vocal exclamation and a humorous slide SFX."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
         "Vlog",
-        "Toy Review"
+        "Comedy",
+        "Product Showcase",
+        "Shopping"
       ],
-      "withRealPeople": true,
       "location": {
         "country": [
-          "Taiwan"
+          "Unknown"
         ],
         "city": [
           "Unknown"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A woman wearing a black ruffle dress and a dark beret holds two plush creatures in front of toy-filled shelves. She smiles broadly and gestures enthusiastically. (2) She picks up a cardboard box, opens it, and pulls out a small green creature with exaggerated teeth. Her eyes widen in surprise and joy. (3) She shows the toy close to the camera, rotating it. Another woman enters the frame on the right, holding a small white dog. The first woman hands the green toy to the second woman. (4) The two women stand together, looking at the toy and laughing. The woman in the beret makes exaggerated kissing faces toward the other woman and the camera while the other woman reacts with playful disgust and laughter.",
-      "audio_narrative_log": "(1) Upbeat, high-tempo electronic pop music starts immediately. A high-pitched female voice speaks rapidly with excitement. (2) The sound of cardboard tearing and plastic rustling is heard as the vocal tone rises in pitch. (3) A second female voice joins in, laughing. A brief 'pop' sound effect occurs during a scene transition. (4) Both voices engage in a lively conversation with frequent laughter. A 'kiss' sound effect is heard twice as the music maintains its energetic pace until the end.",
-      "text_narrative_log": "(1) '這裡有最新出的' Functional: 'Latest release here.' (2) 'Fuggler 放克牙寶盲盒' Decorative: 'Fuggler Funk Teeth Treasure Blind Box.' (3) '1/44的機率' Functional: '1/44 probability.' (4) '你知道誰屬兔嗎?' Functional: 'Do you know who was born in the year of the rabbit?' (5) '誰也喜歡這奇妙的小東西' Decorative: 'Who else likes this strange little thing?' (6) '留言告訴我喲' Functional: 'Leave a comment and let me know.' (7) '他還滿可愛' Functional: 'He's quite cute.' (8) '他好像變形的小黃瓜' Decorative: 'He looks like a deformed cucumber.' (9) '保護保護' Functional: 'Protect, protect.'"
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 18,
-      "averageSceneDuration": 2.0,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Hook -> Unboxing -> Discovery -> Interaction -> Outro"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Head and shoulders"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "1 main female creator in a beret, 1 female companion holding a dog.",
-      "mainCharacterDescription": "The main creator wears a black ruffle dress, a white undershirt, a black choker with a heart, and a navy blue Kangol beret."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Toy Store"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "Densely packed shelves filled with colorful plush toys, blind boxes, and various merchandise, typical of a specialty toy boutique.",
-      "lightingStyle": "Bright, even indoor retail lighting.",
-      "weather": "Unknown",
-      "season": "Unknown",
+      "sceneCutCount": 14,
+      "averageSceneDuration": 2.5,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "High Saturation",
-      "cameraWork": [
-        "Static",
-        "Handheld",
-        "Close-up"
-      ]
+      "isNarrativeShift": false
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "Dog"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Fuggler",
-        "KANGOL",
-        "Disney"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 2,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "High-pitched and excited",
-        "pitch": "High",
-        "loudness": "High",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Traditional Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Cartoon SFX",
-        "Pop sound",
-        "Kiss sound"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Field"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Action -> Reaction -> Interaction",
-      "mainPurpose": "To promote and review the 'Fuggler' blind box series by sharing the excitement of unboxing a rare item and interacting playfully with a friend in a retail environment.",
-      "visualEmotion": "Energetic and Humorous"
+      "narrativeStructure": "Montage: Hook -> Unboxing -> Reaction -> Sharing -> CTA",
+      "mainPurpose": "To entertain and inform viewers about the 'Fuggler' blind box toys through a high-energy, humorous unboxing experience in a retail setting, encouraging audience engagement via comments.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
         "Explicit",
-        "Full"
+        "Integrated"
       ],
-      "endorsementCues": "Direct showcase of the brand packaging, unboxing process, and specific mention of the brand name 'Fuggler' in text and speech.",
+      "endorsementCues": "The video explicitly features the brand 'Fuggler', shows the unboxing of its product, and emphasizes its unique aesthetic in a promotional manner.",
       "endorsementObject": [
         "Fuggler"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-energy 'kawaii' presentation style with exaggerated comic-like expressions and interactive subtitles.",
-      "freeDescribe": "The video targets collectors and fans of quirky/ugly-cute aesthetics, utilizing a strong emotional hook through shared joy between friends."
-    }
+    "freeDescribe": "A fast-paced social media vlog utilizing colorful graphics and comedic audio effects to promote a toy brand."
   }
 }

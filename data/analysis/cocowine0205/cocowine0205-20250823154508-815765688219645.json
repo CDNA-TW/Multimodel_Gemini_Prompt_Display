@@ -1,15 +1,238 @@
 {
   "videoName": "cocowine0205-20250823154508-815765688219645.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 55,
-      "aspectRatio": "9:16",
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A woman in a black and white layered dress stands in a Costco aisle, holding two white egg cartons. She has long black hair and a friendly facial expression. The background shows warehouse industrial shelves stacked with brown cardboard boxes under bright ceiling lights. (2) The woman gestures with her right hand towards the egg cartons, emphasizing her points. A large red COSTCO logo and decorative yellow text overlays are visible on the upper and lower parts of the screen. Her expression is enthusiastic and engaging. (3) The camera pans right to reveal large blue pallets holding cardboard boxes, some of which appear to be empty egg carton holders. The warehouse environment is clearly visible with metal racking extending into the depth of the store. (4) Transition to a close-up overhead shot of two open egg cartons on a white surface. The cartons contain twenty brown eggs each. A person's hand reaches in to pick up one egg, showing its smooth, dark brown shell texture. (5) Two eggs are held side-by-side between a pair of hands for comparison. One egg is a significantly darker shade of brown than the other. The hands then tap the two eggs together several times to demonstrate their physical durability.",
+      "text_narrative_log": "(1) [Logo]: COSTCO WHOLESALE. [Variety]: 隱藏款必買. [Slogan]: 綠璽農場平飼紅殼蛋. (2) [Variety]: 9.3塊. (3) [Subtitle]: 兩盒打開.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "One woman appearing as the primary host throughout the video.",
+        "mainCharacterDescription": "A young woman with long black hair, wearing a black and white layered dress and a silver necklace."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Supermarket / Warehouse Store"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "The interior of a Costco warehouse, featuring industrial shelving, pallets, and boxes of eggs and other products.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Panning"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Insert shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Graphic transition"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Egg"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Costco"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 1,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop"
+        ],
+        "tempoBPM": 120,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Synthesizer",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Plastic / Bag Rustle"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Pop / Bubble SFX",
+          "Whoosh / Transition SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) An enthusiastic female voice begins speaking at a fast pace in Mandarin Chinese, introducing Green Seal eggs. A medium-tempo pop BGM with electronic synthesizers and a steady drum beat plays continuously in the background. The vocal is clear and professional. (2) A male voice interjects with a brief exclamation of agreement. A subtle pop sound effect is heard, coinciding with a visual text change. The background music remains constant in volume and tempo. Ambient room tone is minimal. (3) The female speaker's pitch rises as she discusses the price difference, showing high emotional arousal. The male voice laughs softly in the background. The interplay between the two voices is casual and conversational, characteristic of a vlog. (4) A distinct mechanical clicking sound occurs twice, representing the tapping of eggshells to test thickness. These transients are sharp and have a high-frequency focus. The female voice continues to describe the shell quality while the background music maintains its rhythmic drive."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
-        "Vlog",
-        "Product Review",
+        "Food Review",
         "Shopping"
       ],
-      "withRealPeople": true,
       "location": {
         "country": [
           "Taiwan"
@@ -19,160 +242,32 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman with long dark hair, wearing a white shirt and black dress, stands in a warehouse store aisle holding two large cartons of eggs. She gestures enthusiastically towards the camera while large text overlays appear above her. (2) The camera pans to show several nearly empty shelves in the refrigerated section of the warehouse. (3) The scene shifts to a close-up shot of the egg cartons being opened on a light-colored table. (4) A pair of hands picks up one egg, showing its surface, and then brings in another egg from a different source for a side-by-side comparison, tapping the shells against each other.",
-      "audio_narrative_log": "(1) Fast-paced, upbeat electronic background music begins. A woman speaks in a high-pitched, excited tone about finding a specific product at a warehouse store. (2) A man's voice enters, sounding supportive and adding details about the product's availability and quality. (3) Ambient noise from the warehouse is faintly audible in the background. (4) Distinct clinking sound effects are heard as the eggshells are tapped together, and 'pop' sound effects coincide with text appearing on screen.",
-      "text_narrative_log": "(1) Functional Text: 'COSTCO WHOLESALE' logo is at the top. Subtitles track the dialogue: 'Finally bought it!', 'Humane eggs...', '9.3 yuan each!', 'Scarcity on shelves...'. (2) Decorative/Hook Text: 'Hidden gem must buy!' and 'Lvxi Farm Flat-floor Red-shell Eggs' appear in large, colorful fonts. Emotional stickers and variety-show style captions are used throughout."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 11,
-      "averageSceneDuration": 5.0,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro in warehouse -> Proof of scarcity -> Home unboxing and quality comparison"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Back view"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "1 female main presenter, 1 male whose hands and partial body are visible during the comparison section.",
-      "mainCharacterDescription": "A young Asian woman with long dark hair, wearing a white long-sleeved shirt under a black jumper dress."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Warehouse",
-          "Indoor Living Space"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "First, the aisles of a Costco warehouse with shelves and boxes; later, a clean, well-lit indoor surface used for product demonstration.",
-      "lightingStyle": "Bright, even indoor lighting",
-      "weather": "None",
-      "season": "Unknown",
+      "sceneCutCount": 12,
+      "averageSceneDuration": 4.58,
       "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural and High Saturation",
-      "cameraWork": [
-        "Static",
-        "Handheld",
-        "Close-up"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "Chicken (graphic on package)"
-      ],
-      "foodsDetect": [
-        "Eggs"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "COSTCO WHOLESALE",
-        "綠璽農場"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and professional",
-        "pitch": "Medium-high",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Kit"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "Pop sounds",
-        "Eggshell clinking"
-      ],
-      "ambientNoise": [
-        "Warehouse hum"
-      ],
-      "audioQuality": "Field Recording"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Scarcity Evidence -> Value Proposition -> Comparative Proof",
-      "mainPurpose": "The video serves as a consumer recommendation for 'Lvxi Farm' eggs available at Costco. It combines an energetic store visit with a practical quality test to persuade viewers that these eggs are a high-value, high-quality purchase that is worth seeking out despite limited stock.",
-      "visualEmotion": "Energetic and Informative"
+      "narrativeStructure": "Linear: Hook -> Evidence -> Comparison -> Quality Test -> CTA",
+      "mainPurpose": "To recommend a specific brand of eggs sold at Costco by highlighting their humane farming practices, competitive pricing compared to standard markets, and superior shell quality verified by physical testing.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
-        "Explicit",
-        "Full"
+        "Implicit",
+        "Integrated"
       ],
-      "endorsementCues": "The presenter specifically promotes the 'Lvxi Farm' brand, demonstrates its superior shell hardness, and emphasizes the competitive price at Costco.",
+      "endorsementCues": "The host provides a detailed review and strong verbal recommendation for the specific egg product found in Costco.",
       "endorsementObject": [
-        "綠璽農場",
-        "COSTCO WHOLESALE"
+        "綠璽農場 (Green Seal Farm) Eggs"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-energy Mandarin narration paired with dense, colorful Traditional Chinese text overlays.",
-      "freeDescribe": "The focus on 'humane' farming practices ('flat-floor') and price-per-unit metrics appeals to a modern, value-conscious demographic."
-    }
+    "freeDescribe": "A high-energy retail discovery vlog focused on a value-for-money food item at a wholesale club."
   }
 }

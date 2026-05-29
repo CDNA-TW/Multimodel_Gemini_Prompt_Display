@@ -1,155 +1,254 @@
 {
   "videoName": "0_shufen-20250906143729-1591259341910534.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 14,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Comedy"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "None"
+      "visual_narrative_log": "(1) The video opens with a medium close-up of a young woman with long, wavy dark hair and a pink rabbit-ear digital filter on her head. She is wearing a vibrant pink V-neck top and is seated inside the cabin of a car. The lighting is bright and natural, coming from the car windows. She begins speaking directly to the camera with a playful expression. (2) As she continues her monologue, she raises her hand into the frame, gesturing with one finger to denote a list. Her facial features are clear, and she maintains steady eye contact with the lens. The car interior, including a leather seat headrest, is visible in the background. (3) The woman shifts her hand gesture to show two fingers and then three fingers as she proceeds through her numbered list. Her mouth movements are synchronized with her speech, and her expression remains animated. The pink rabbit filter follows her head movements accurately throughout the sequence. (4) In the final moments, she completes her statement with a slightly exaggerated smirk and continues gesturing before the video cuts. The background remains constant, showing the stationary car environment.",
+      "text_narrative_log": "(1) [Subtitle]: 據我所知. (2) [Subtitle]: 男人一共有分三種. (3) [Subtitle]: 第一種很虛榮. (4) [Subtitle]: 一定要找胸大的. (5) [Subtitle]: 第二種很單純. (6) [Subtitle]: 只要胸大的就可以了. (7) [Subtitle]: 第三種很現實. (8) [Subtitle]: 什麼都不要. (9) [Subtitle]: 只要胸大的.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Face close-up",
+          "Upper body"
         ],
-        "city": [
-          "None"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video is a live-action recording of a young woman sitting inside a car. She is wearing a bright pink scoop-neck top and has a pink rabbit-ear filter with a large bow overlaid on her head. (2) She looks directly into the camera, using her right hand to gesture with one, two, and then three fingers as she lists points. (3) She maintains an expressive and playful facial expression, frequently tilting her head and pouting her lips while speaking.",
-      "audio_narrative_log": "(1) A young female voice speaks in Mandarin Chinese with a playful and energetic tone. (2) The speech is continuous throughout the video without any background music. (3) The soundscape is clean, with very minimal ambient car interior noise and no sound effects (SFX) detected.",
-      "text_narrative_log": "(1) Functional Text: \"據我所知\" (As far as I know) and \"男人一共有分三種\" (There are three types of men). (2) Functional Text: \"第一種很虛榮 一定要找胸大的\" (The first type is vain; they must find a big-chested woman) and \"第二種很單純 只要胸大的就可以了\" (The second type is simple; as long as she is big-chested, it's fine). (3) Functional Text: \"第三種很現實 什麼都不要 只要胸大的\" (The third type is realistic; they want nothing else, only a big-chested woman)."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 1,
-      "averageSceneDuration": 14.0,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Intro -> List of humorous points -> Conclusion"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Face",
-        "Chest up",
-        "Hands only"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 female main character speaking directly to camera.",
-      "mainCharacterDescription": "A young woman with long dark hair, wearing a low-cut pink shirt and a digital rabbit ear filter."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Car"
+        "crowdLevel": [
+          "Single"
         ],
-        "topography": [
-          "None"
+        "countingEvidence": "1 main female creator in the foreground.",
+        "mainCharacterDescription": "A young woman with long dark hair, wearing a pink top and a rabbit-ear filter."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Car / Van Interior"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "The interior of a car, showing a dark leather passenger seat and glimpses of the outdoor environment through the window.",
+        "lightingStyle": [
+          "Natural daylight"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
         ]
       },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "The interior of a car, showing the car seat headrest and a hint of the window.",
-      "lightingStyle": "Natural light coming from the car windows.",
-      "weather": "Unknown",
-      "season": "Unknown",
-      "editingPace": "Slow",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Chinese"
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Selfie handheld"
+        ],
+        "shotSize": [
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese"
         ],
         "isSubtitled": true
       },
-      "colorTone": "High Saturation",
-      "cameraWork": [
-        "Static",
-        "POV"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "Car"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "None",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Playful and humorous",
-        "pitch": "Medium-high",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Chinese"
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Cartoon / animated animal"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "Car"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": false,
-      "bgmGenre": "None",
-      "bgmBPM": 0,
-      "instrumentFamiliesAudible": [
-        "None"
-      ],
-      "instrumentsAudible": [
-        "None"
-      ],
-      "musicSourceType": [
-        "None"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Field"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Humorous",
+          "Friendly"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 5,
+        "valence": 6,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop"
+        ],
+        "tempoBPM": 110,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 1
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 1,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A female voice begins speaking in Traditional Chinese with a clear, moderate pitch and a playful, rhythmic tone. A cheerful, upbeat electronic BGM plays continuously in the background at a steady tempo. (2) A bright 'ding' sound effect triggers as she lists the first category of her monologue. The vocal delivery remains energetic and articulated. (3) A second 'ding' sound effect marks the transition to the next point in the list. The background music maintains its consistent rhythmic pulse without interruption. (4) A third 'ding' sound effect accompanies the final category. The speaker's voice rises slightly in volume and arousal toward the punchline. (5) The audio track concludes with the female speaker completing her sentence, followed by a short instrumental tail from the BGM as the recording ends."
     }
   },
-  "high_inference_interpretations": {
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Personal Talk",
+        "Short Video"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 14.0,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Point 1 -> Point 2 -> Point 3",
-      "mainPurpose": "The video is a humorous short clip designed for social media entertainment. The creator uses a repetitive list format to make a joke about her own physical features (large chest), claiming that all types of men—vain, simple, or realistic—are only interested in that one attribute. The primary goal is to engage viewers through humor and visual appeal.",
-      "visualEmotion": "Playful"
+      "narrativeStructure": "List-based: Hook -> List -> Conclusion",
+      "mainPurpose": "To provide humorous social commentary or 'relatable' content regarding dating preferences through a short-form comedy skit.",
+      "visualEmotion": [
+        "humorous",
+        "energetic"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -161,9 +260,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Self-deprecating humor centered on physical appearance and the use of cute, stylized facial filters.",
-      "freeDescribe": "The video is likely part of a trend or common content style where creators use physical attributes as a comedic hook to drive engagement and views."
-    }
+    "freeDescribe": "The video uses a repetitive list structure and playful filters common in social media short-form content to deliver a joke."
   }
 }

@@ -1,163 +1,279 @@
 {
   "videoName": "2uncle987-20250618032106-1388723549131677.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 84,
-      "aspectRatio": "1:1",
-      "videoGenre": [
-        "Product Review",
-        "Unboxing",
-        "Endorsement"
-      ],
+      "videoDuration": 83.1,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A young girl with curly hair smiles while holding a light blue child's camera. An adult woman with reddish-brown hair leans in behind her, laughing joyfully. The background is a brightly lit indoor space with neutral-colored walls. (2) A woman with hair tied in two buns sits behind a white table, presenting two boxed myFirst products. She wears a black sweatshirt. In the background, there's a red plush character and pink teddy bears on a shelf. (3) A close-up shot shows a child's hand interacting with the touchscreen of a grey and purple smartwatch. The screen displays various functional icons like a camera and settings. The lighting is sharp and professional studio-style. (4) A round black smartwatch is shown on a small wrist. The screen transitions from a clock face with cartoon animals to a heart rate monitoring interface. The background is slightly blurred, focusing on the device's sleek design. (5) A woman in a black t-shirt with \"YAHABABY\" printed in white talks to the main presenter. They are examining one of the watches. The setting is indoors, possibly a home or a lifestyle-oriented studio. (6) The light blue camera is shown again, with the young girl looking through the viewfinder and pressing the shutter button. She is taking a picture of a man in a white sweatshirt in a brightly lit room. (7) A smartphone screen displays the \"circle\" app, showing photos being uploaded and shared. The hands of an adult are seen operating the phone. The interface is clean and colorful, matching the brand's aesthetic.",
+      "text_narrative_log": "(1) [Subtitle]: 小朋友的. [Logo]: myFirst. (2) [Subtitle]: 第一支智慧手錶 第一台智慧相機 就選myFirst. (3) [Subtitle]: S3c 智慧兒童手錶. [Variety]: 精準定位. [Variety]: 通話、視訊都方便. [Variety]: SOS求救功能. [Variety]: 保護小孩子外出安全. [Slogan]: $1999就能入手. (4) [Subtitle]: R2 智慧兒童手錶. [Variety]: 畫面更清晰. [Variety]: 亮度自動調節. [Variety]: 檢測小朋友的心跳數. (5) [Subtitle]: 定位小朋友. [Variety]: 來設定保護設定. (6) [Logo]: MAHABABY. (7) [Subtitle]: Camera 50 AI智慧兒童相機. [Variety]: 2000萬畫素. [Variety]: 想怎麼拍就怎麼拍. [Variety]: AI整合智慧編輯 輔助創作. (8) [Variety]: 隨時分享生活中的美好時光.",
+      "visual_human_presence": {
+        "totalHumanCount": 5,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 3,
+        "kidsDetectAmount": 1,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face close-up",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main host, 1 co-host, 1 child model, 1 male assistant, 1 additional woman.",
+        "mainCharacterDescription": "A woman with her hair in two buns wearing a black sweatshirt and a young girl with dark curly hair."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio",
+          "Indoor Home"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A professional studio with white tables and shelves containing plush toys, as well as an indoor home environment with various household items.",
+        "lightingStyle": [
+          "Bright indoor lighting",
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Handheld",
+          "Zoom in"
+        ],
+        "shotSize": [
+          "Medium close-up",
+          "Close-up",
+          "Extreme close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Graphic transition",
+          "Split-screen"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Bear",
+          "Plush / decoration / toy animal"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Camera / DSLR",
+          "Smartwatch / wearable"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "myFirst",
+          "MAHABABY"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 3,
+        "male_vocal_count": 0,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 1
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Animated/Excited",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 4
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Acoustic/Folk"
+        ],
+        "tempoBPM": 122,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "String",
+          "Percussion",
+          "Keyboard"
+        ],
+        "instrumentsAudible": [
+          "Guitar",
+          "Piano",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter"
+        ],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Object Impact / Thud / Drop",
+          "Mechanical Click / Latch"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Ding / Bell SFX",
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Fades"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio",
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) The track opens with high-energy, female-led vocal delivery, characterized by a fast speech rate and high pitch. The background features an upbeat, major-key acoustic pop track with a steady 4/4 drum beat and bright guitar strumming. (2) A sharp \"whoosh\" transition sound effect occurs as the narrator begins detailing specific product features. The vocal intensity remains consistently high, projecting confidence and friendliness. A subtle \"ding\" sound effect emphasizes key visual text overlays. (3) As the co-host responds with an enthusiastic interjection, there's a brief overlap of female voices. The BGM maintains a consistent volume floor. Another stylized transition SFX marks the shift to the second smartwatch model being described. (4) The spectral brightness of the audio remains high, favoring mid-to-high frequencies for clarity. Narrator's articulation is professional and enunciated. Brief, muffled incidental sounds of the device being handled are buried under the dominant music and speech mix. (5) A cartoonish bubble-pop SFX is heard as camera features are introduced. The music track continues uninterrupted, providing a rhythmic bed for the narration. The signal-to-noise ratio is high, indicating a clean studio-grade vocal recording and professional mastering."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Promotion / Advertisement / Indoresment",
+        "Tech Review",
+        "Family / Kids"
+      ],
       "location": {
         "country": [
-          "None"
+          "Taiwan"
         ],
         "city": [
           "None"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A mother and a young girl are sitting at a white table; the girl holds a blue camera while the mother smiles and hugs her. (2) The scene cuts to a female influencer with two hair buns sitting at a desk with 'myFirst' product boxes, talking enthusiastically to the camera. (3) Close-up shots focus on a gray and purple smartwatch (S3c model) being operated by a hand, showing menu navigation and a video call interface with a child's face. (4) The influencer displays a second, more advanced circular smartwatch (R2 model), followed by a demonstration of a heart-rate tracking app on a smartphone. (5) A young girl is shown in a living room using a blue digital camera to take a photo of a man, then she interacts with the touch screen to add cartoon stickers to the image. (6) A final montage shows the influencer holding the product boxes and the girl playing with the devices.",
-      "audio_narrative_log": "(1) Upbeat, high-tempo electronic background music starts and continues throughout the video. A high-pitched, energetic female voice provides narration and dialogue. (2) The audio includes a conversation between two adult females discussing the importance of child-safe technology. (3) Narration transitions into a descriptive list of technical features, including SOS calls and GPS tracking, accompanied by soft electronic 'ping' sound effects (SFX) matching screen transitions. (4) A male voice briefly provides technical specifications for the camera pixel count. (5) The video ends with a celebratory tone in the music as the main female vocal delivers a closing statement.",
-      "text_narrative_log": "(1) Functional Text: Traditional Chinese subtitles are present throughout the bottom of the frame, translating the spoken dialogue. (2) Decorative/Hook Text: Large, colorful titles appear such as '小朋友的第一支智慧手錶' (Child's first smartwatch) and '$1999 就能入手' (Available for 1999) to highlight value. (3) Content: Specific product labels appear in synchronization with the visuals, including 'S3c 智慧兒童手錶', 'R2 智慧兒童手錶', and 'Camera 50 AI 智慧兒童相機'."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 28,
-      "averageSceneDuration": 3.0,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Introductory conversation -> Multi-product feature demonstration -> Conclusion"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 4,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 1,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Face only"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 female influencer, 1 mother, 1 young girl, and 1 man in the background of the camera demo.",
-      "mainCharacterDescription": "A young female influencer with hair styled in two buns, wearing a black sweatshirt."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Studio",
-          "Indoor Living Room"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A clean studio desk with plush toys (red bear) and product packaging; transitions to a domestic living room with a green chair and soft lighting.",
-      "lightingStyle": "Bright studio lighting",
-      "weather": "Unknown",
-      "season": "Unknown",
+      "sceneCutCount": 32,
+      "averageSceneDuration": 2.6,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "High Saturation",
-      "cameraWork": [
-        "Static",
-        "Close-up",
-        "POV"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartwatch",
-        "Digital Camera",
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "myFirst"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut with SFX",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 2,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "High-pitched and excited",
-        "pitch": "High",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Traditional Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat/Pop",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum kit"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Electronic UI beeps",
-        "Camera shutter"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Feature Iteration -> Ecosystem Integration -> Summary",
-      "mainPurpose": "The video serves as a comprehensive promotional endorsement for 'myFirst' children's electronics. It aims to persuade parents by highlighting safety (GPS/SOS), health (heart rate), and creativity (AI camera) as integrated features that allow children to mimic adult technology usage in a safe, controlled ecosystem.",
-      "visualEmotion": "Energetic and Reassuring"
+      "narrativeStructure": "Montage: Hook -> Product Demo 1 -> Product Demo 2 -> Product Demo 3 -> Ecosystem Integration -> CTA",
+      "mainPurpose": "To promote the 'myFirst' line of child-oriented technology, specifically highlighting the safety, communication, and creative features of their smartwatches and AI cameras to parents.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -165,14 +281,11 @@
         "Explicit",
         "Full"
       ],
-      "endorsementCues": "Prominent display of brand logos, direct-to-camera recommendation, and detailed product feature breakdowns.",
+      "endorsementCues": "Direct product showcasing, pricing information, brand logos, and feature demonstrations by presenters.",
       "endorsementObject": [
         "myFirst"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-energy variety-show style text overlays and signature influencer hair bun style.",
-      "freeDescribe": "The video leverages the 'KOL' (Key Opinion Leader) style popular in East Asian social commerce, combining lifestyle vlogging with direct product marketing."
-    }
+    "freeDescribe": "Professional commercial content using high-arousal audio and fast-paced visual editing to market consumer electronics for children."
   }
 }

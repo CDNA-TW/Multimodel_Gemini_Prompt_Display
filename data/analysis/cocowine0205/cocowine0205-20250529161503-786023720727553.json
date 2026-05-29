@@ -1,163 +1,276 @@
 {
   "videoName": "cocowine0205-20250529161503-786023720727553.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 59,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Food Vlog",
-        "Cooking Tutorial"
-      ],
+      "videoDuration": 58,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) Two young women are positioned in the center of the frame within a brightly lit, modern indoor setting. The woman on the left, with long dark hair and wearing a black-and-white top, holds a clear plastic container of green pesto cream cheese toward the camera. The woman on the right, wearing a dark beret and a ruffled white top, holds a blue plate of pasta and uses a fork to lift a portion. A large 'COSTCO WHOLESALE' logo is overlaid at the top. The background consists of a neutral-toned wall and a glimpse of a living area with warm accent lighting. (2) The scene cuts to a close-up cooking demonstration in a kitchen. A hand pours clear olive oil into a grey non-stick frying pan resting on a black induction cooktop. Tongs are used to place cooked linguine into the shimmering oil. A black spatula adds a generous dollop of the thick, pale-green pesto mixture. Sliced purple onions are introduced and stirred into the pasta. A black ladle scoops starchy water from a nearby blue ceramic pot and pours it into the pan to emulsify the sauce. The pan is then lifted and tossed vigorously over the burner to coat the noodles evenly. (3) The camera returns to the two women in the original indoor setting. The woman in the beret takes a large, enthusiastic bite of the pesto pasta, her eyes widening and mouth opening wide to convey enjoyment. Her companion on the left gestures toward the camera while still holding the product tub. The lighting remains soft and consistent, highlighting their facial expressions and the texture of the food on the plate.",
+      "text_narrative_log": "(1) [Logo]: COSTCO WHOLESALE. [Subtitle]: 好市多新品. (2) [Variety]: 青醬蒜香乳酪抹醬. [Variety]: 超級無敵推薦. (3) [Subtitle]: 因為它的青醬. (4) [Subtitle]: 它的那個羅勒的香味. (5) [Subtitle]: 跟它蒜頭的香味都非常的突出. (6) [Subtitle]: 而且它的蒜頭呢. (7) [Subtitle]: 是吃得到一點那種. (8) [Variety]: 蒜頭辛辣感!! (9) [Subtitle]: 還有蒜顆粒那種感覺. (10) [Subtitle]: 超級無敵過癮. (11) [Subtitle]: 拿來沾麵包 可頌 吐司都超好吃以外. (12) [Variety]: 還有隱藏吃法. (13) [Subtitle]: 先加點橄欖油. (14) [Subtitle]: 然後下入你的麵條. (15) [Subtitle]: 你就可以加入這個青醬. (16) [Subtitle]: 它本身就是奶油乳酪. (17) [Subtitle]: 你就可以跟麵一起乳化. (18) [Subtitle]: 然後如果冬天你覺得太乾的話. (19) [Subtitle]: 就可以加一勺你剛剛煮麵的水. (20) [Subtitle]: 我們會把它放到義大利麵或燉飯裡. (21) [Subtitle]: 義大利麵最簡單. (22) [Subtitle]: 先把義大利麵煮好以後呢. (23) [Subtitle]: 挖一大坨你要的青醬. (24) [Subtitle]: 直接做成超好吃的青醬乳酪義大利麵.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "2 main female creators appearing throughout the video.",
+        "mainCharacterDescription": "One female with long dark hair in a black/white top; one female wearing a dark beret and a white ruffled blouse."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Living Room",
+          "Indoor Kitchen"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The initial and final scenes feature a modern living room with neutral walls, soft ambient lighting, and shelves with decorative items. The middle segment features a clean, professional-looking kitchen with a black induction stove, grey countertops, and a blue Staub-style ceramic pot.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Panning"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Insert shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "High angle"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Fast cuts",
+          "Montage"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Noodles / ramen / pasta",
+          "Prepared meal / plated dish",
+          "Vegetables",
+          "Condiments / sauce",
+          "Dairy / yogurt / cheese "
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Home appliance",
+          "Kitchen appliance"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Costco"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 1
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop"
+        ],
+        "tempoBPM": 124,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Synthesizer",
+          "Electronic",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Liquid Pour / Splash",
+          "Mechanical Click / Latch",
+          "Other"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Pop / Bubble SFX",
+          "Ding / Bell SFX",
+          "Sparkle / Magic SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a fast-paced, high-arousal female narration accompanied by a bright, upbeat electronic pop track. A sharp 'whoosh' transition effect occurs within the first second to synchronize with the appearing text. The speaker's tone is very energetic and welcoming. (2) A light 'pop' or bubble-like sound effect triggers at the one-second mark. The BGM maintains a steady tempo as the vocal explains the properties of the pesto spread. The speech rate is rapid but clearly articulated with high pitch variability. (3) A dramatic metallic 'whoosh' or 'impact' SFX triggers at thirteen seconds, coinciding with the appearance of emphatic exclamation marks on screen. The narrator's voice remains high in intensity, stressing the 'spicy' flavor profile of the garlic component. (4) A digital 'sparkle' or magic-style sound effect is heard at twenty-one seconds to signal the transition into a 'hidden eating method.' The background music continues uninterrupted, providing a consistent energy floor. (5) As the cooking montage begins, the narration continues alongside incidental sounds: a soft sizzle of oil and the metallic clinking of tongs against a pan. These sounds are mixed slightly lower than the voice and music. (6) A distinct splash sound of liquid being poured into the pan is audible at thirty-eight seconds, followed by a faint metallic clink of a lid being handled. The music beat provides a rhythmic backbone to these kitchen Foley sounds. (7) At forty-one seconds, the sound of a spatula scraping the surface of the pan is heard, followed by a rhythmic 'whoosh' sound from the pan being tossed. These percussive sounds are synchronized with the visual movement. (8) The final phase sees a return to the studio-style commentary. The music swells slightly in volume during the ending, while the speaker’s valence becomes extremely positive, expressing high satisfaction through enthusiastic inflections."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Food Review",
+        "Cooking Tutorial",
+        "Product Showcase"
+      ],
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "None"
+          "Unknown"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) Two women sit at a dining table; one holds a transparent container of pesto spread while the other eats pasta. A large 'Costco Wholesale' logo is overlaid at the top. (2) Transition to a kitchen countertop where olive oil is poured into a grey frying pan, followed by cooked pasta and scoops of the pesto cheese spread. The pasta is tossed with sliced red onions. (3) Back to the table, the women continue eating and talking enthusiastically, with one giving a thumbs-up gesture.",
-      "audio_narrative_log": "(1) High-pitched, energetic female voices begin speaking immediately over upbeat, mid-tempo electronic pop music. (2) Sound of a gas burner clicking on and oil sizzling in a pan becomes audible, while the narration continues. (3) The voices maintain an enthusiastic tone with slight eating/slurping sounds as they taste the food, ending with a cheerful final remark.",
-      "text_narrative_log": "(1) Decorative: 'COSTCO WHOLESALE' logo at the top. (2) Hook: '好市多新品' (Costco New Arrival) and '超級無敵推薦' (Super Invincible Recommendation) in large colorful fonts. (3) Functional: Traditional Chinese subtitles throughout the video translating the speech. (4) Decorative: '隱藏吃法' (Hidden Recipe) appears during the transition to cooking."
     },
     "temporal_pacing_summary": {
-      "sceneCutCount": 14,
-      "averageSceneDuration": 4.2,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro -> Cooking Demonstration -> Tasting and Recommendation"
+      "sceneCutCount": 12,
+      "averageSceneDuration": 4.8,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
     },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "2 main female creators onscreen throughout the video.",
-      "mainCharacterDescription": "One woman has long straight black hair and wears a black and white top. The other has dark hair, a white lace top, and a dark blue Kangol beret."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Dining Room",
-          "Indoor Kitchen"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A modern home interior featuring a marble-patterned dining table and a kitchen with a gas stove and blue cookware.",
-      "lightingStyle": "Bright, even indoor lighting.",
-      "weather": "Unknown",
-      "season": "Unknown",
-      "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Close-up"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Pasta",
-        "Pesto Cheese Spread",
-        "Red Onion",
-        "Olive Oil"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "COSTCO WHOLESALE",
-        "KANGOL",
-        "STAUB"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 2,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Friendly and excited",
-        "pitch": "High",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "Cartoon SFX",
-        "Sizzling"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Field Recording"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Demonstration -> Outro",
-      "mainPurpose": "To endorse a new pesto garlic cheese spread found at Costco by demonstrating its versatility through a cooking recipe and providing a positive taste review to encourage consumer purchase.",
-      "visualEmotion": "Energetic and Appetizing"
+      "narrativeStructure": "Montage: Hook -> Product Intro -> Cooking Tutorial -> Tasting Result",
+      "mainPurpose": "To review a new pesto garlic cream cheese spread from Costco, demonstrate a versatile way to use it in home cooking (making pasta), and endorse its taste and value to the audience.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -165,14 +278,12 @@
         "Explicit",
         "Full"
       ],
-      "endorsementCues": "Direct product showcase, verbal praise, and a dedicated cooking tutorial using the specific brand item.",
+      "endorsementCues": "Prominent Costco logo, direct presentation of the product tub, and a detailed tutorial using the product.",
       "endorsementObject": [
-        "Costco Pesto Garlic Cheese Spread"
+        "Costco",
+        "Basil Garlic Cream Cheese Spread"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Variety-show style captions and hyper-enthusiastic vocal delivery.",
-      "freeDescribe": "The video follows a standard social media influencer format for food reviews, emphasizing a 'hidden' way to use a common product to increase engagement."
-    }
+    "freeDescribe": "The video uses typical short-form social media editing techniques, including bright variety-show text overlays and sound effects to maintain high viewer engagement. The transition from product display to practical cooking makes the review more convincing."
   }
 }

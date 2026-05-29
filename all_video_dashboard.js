@@ -25,9 +25,7 @@ export function renderVideoDashboard(
     const videoUrl = `${APP_CONFIG.VIDEO_API_BASE}/${ig_id}/${videoName}?token=${APP_CONFIG.VIDEO_TOKEN}`;
 
     const hasJson = json && !jsonError;
-    const logs = hasJson
-        ? json.low_inference_observations.perceptual_narrative_logs
-        : null;
+    const logs = hasJson ? json.low_inference : null;
 
     const outerLink = csv.short_code
         ? `https://www.instagram.com/reel/${csv.short_code}`
@@ -75,19 +73,19 @@ export function renderVideoDashboard(
                         <div class="space-y-5 text-sm">
                             <div class="group">
                                 <span class="text-slate-500 block text-[10px] uppercase tracking-widest mb-1">Visual Narrative</span>
-                                <p class="text-slate-200 leading-relaxed pl-3 border-l border-slate-800">${logs.visual_narrative_log}</p>
+                                <p class="text-slate-200 leading-relaxed pl-3 border-l border-slate-800">${logs.visual_base.visual_narrative_log}</p>
                             </div>
                             <div class="group">
                                 <span class="text-slate-500 block text-[10px] uppercase tracking-widest mb-1">Audio Narrative</span>
-                                <p class="text-slate-200 leading-relaxed pl-3 border-l border-slate-800">${logs.audio_narrative_log}</p>
+                                <p class="text-slate-200 leading-relaxed pl-3 border-l border-slate-800">${logs.audio_base.audio_narrative_log}</p>
                             </div>
                             <div class="group">
                                 <span class="text-slate-500 block text-[10px] uppercase tracking-widest mb-1">Text Narrative</span>
-                                <p class="text-slate-200 leading-relaxed pl-3 border-l border-slate-800">${logs.text_narrative_log}</p>
+                                <p class="text-slate-200 leading-relaxed pl-3 border-l border-slate-800">${logs.visual_base.text_narrative_log}</p>
                             </div>
                             <div class="group">
                                 <span class="text-slate-500 block text-[10px] uppercase tracking-widest mb-1">Main Purpose</span>
-                                <p class="text-blue-200/80 italic bg-blue-900/10 p-2 rounded border border-blue-900/20">${json.high_inference_interpretations.narrative_and_purpose.mainPurpose}</p>
+                                <p class="text-blue-200/80 italic bg-blue-900/10 p-2 rounded border border-blue-900/20">${json.high_inference.narrative_and_purpose.mainPurpose}</p>
                             </div>
                         </div>
                     `

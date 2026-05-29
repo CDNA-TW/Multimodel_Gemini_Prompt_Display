@@ -1,159 +1,271 @@
 {
   "videoName": "0_shufen-20250930013642-1674118730414498.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 9,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Humor",
-        "Trend"
-      ],
+      "videoDuration": 10,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A romantic proposal scene takes place in silhouette on a rooftop overlooking the Eiffel Tower during twilight. A man is seen kneeling on one knee, holding the hand of a woman who stands before him in a long-sleeved dress. The background features the iconic architectural lines of the tower against a gradient sky of blue and orange hues. (2) The camera shifts to an extreme close-up of a hand, specifically focusing on the ring finger. A delicate silver band adorned with a prominent, sparkling central diamond and smaller surrounding stones is placed onto the finger. The lighting is soft and intimate, emphasizing the shimmer of the jewelry. (3) A young woman with long black hair, wearing a tan bodysuit and a white knit cardigan, smiles brightly at the camera on an outdoor urban street. She holds up three fingers at first, then reveals a black electronic car key fob with a visible Toyota logo. Her expression is playful and confident, with sunglasses resting on her head. (4) The woman stands next to a white Toyota sedan parked along a street with various commercial buildings and a red beverage cooler in the background. She leans casually against the car's hood, waving the car keys while maintaining a joyful, celebratory expression. The scene is lit by bright, natural daylight.",
+      "text_narrative_log": "(1) [Subtitle]: 同齡人：. (2) [Subtitle]: 我：. [Logo]: Heineken. (3) [Logo]: TOYOTA.",
+      "visual_human_presence": {
+        "totalHumanCount": 3,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face",
+          "Face close-up",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main female creator, 2 people in silhouette in the intro",
+        "mainCharacterDescription": "A young Asian woman with long dark hair, wearing a tan sleeveless top and a white open cardigan. She has black sunglasses resting on her head."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Tourist Attraction / Landmark",
+          "Outdoor Street"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The video starts with the Eiffel Tower in Paris at dusk. It then moves to a Thai city street with shops, parked cars, and a Heineken branded cooler in the background.",
+        "lightingStyle": [
+          "Natural daylight",
+          "Backlit / silhouette"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Summer"
+        ],
+        "colorTone": [
+          "Natural and bright",
+          "Cinematic"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Dolly out / pull out"
+        ],
+        "shotSize": [
+          "Wide shot",
+          "Extreme close-up",
+          "Medium shot",
+          "Medium full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Fast cuts"
+        ],
+        "visualRhythm": [
+          "Rhythm matched to music"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "Car"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "Eiffel Tower"
+        ],
+        "brandLogos": [
+          "Toyota",
+          "Heineken"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Ballad/Sentimental",
+          "Pop",
+          "K-Pop"
+        ],
+        "tempoBPM": 115,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 2,
+        "male_singer_count": 1,
+        "female_singer_count": 1,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "English"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Keyboard",
+          "Percussion",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Piano",
+          "Drum Kit / Drum Set",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Urban/Traffic"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 5,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 2,
+        "audioCutFrequency": 1,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A soft, sentimental piano ballad begins with a male vocalist singing with a breathy, emotive quality. The tempo is slow and steady, creating an atmosphere of intimacy and romance. The acoustic texture is clean with minimal spectral noise, focusing on the clarity of the vocal melody. (2) The audio shifts abruptly with a hard cut into a high-energy pop track featuring a fast-tempo, heavy electronic beat. Strong synthesized bass and percussive drum hits dominate the mix, accompanied by a group of female vocalists performing in a rhythmic, assertive style. (3) Underneath the loud, compressed music, a layer of field-recorded ambient noise is present, consisting of a distant urban hum and the sound of air movement. This adds a sense of a real-world outdoor environment to the otherwise studio-produced soundtrack."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Meme / Trend"
+      ],
       "location": {
         "country": [
+          "France",
           "Thailand"
         ],
         "city": [
+          "Paris",
           "Unknown"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video begins with a silhouette of a man kneeling to propose to a woman in front of the Eiffel Tower at sunset, followed by a close-up of a diamond ring being placed on a finger. (2) At 00:03, there is a sharp transition to a real-life outdoor setting where a young woman with long dark hair and sunglasses on her head smiles at the camera. (3) She mimics the finger gesture of the previous scene but reveals a Toyota car key instead of a ring, then steps back to lean against a white Toyota car, posing with a confident smile.",
-      "audio_narrative_log": "(1) A romantic, slow-tempo ballad starts, featuring a male vocal singing 'You look so beautiful in white' accompanied by soft piano and strings. (2) At 00:04, the music cuts abruptly to a high-energy pop song with an upbeat electronic rhythm and a female vocal singing '...we still breathe'. (3) The upbeat music continues until the end with no ambient noise or speaking voices detected.",
-      "text_narrative_log": "(1) '同齡人：' (Peers:) appears at the top center, setting up a comparison context. (2) '我：' (Me:) appears at the top center during the second phase, indicating the subject of the punchline."
-    },
     "temporal_pacing_summary": {
       "sceneCutCount": 3,
-      "averageSceneDuration": 3.0,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Expectation (Peers' marriage) -> Contrast/Punchline (Self with a car)"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 3,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 male and 1 female in silhouette in the intro, 1 main female character in the second half.",
-      "mainCharacterDescription": "A young woman wearing a light-colored cardigan over a low-cut beige top and denim shorts, with sunglasses on her head."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Outdoor Street",
-          "Parking Lot",
-          "Landmark Backdrop"
-        ],
-        "topography": [
-          "Plain"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "First part shows the Eiffel Tower backdrop; second part shows a street with parked cars and a small open-air shop/stall.",
-      "lightingStyle": "Natural daylight",
-      "weather": "Sunny",
-      "season": "Summer",
+      "averageSceneDuration": 2.5,
       "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "Low",
-        "language": [
-          "Chinese"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "Natural and Muted in intro, Bright and Vivid in second half",
-      "cameraWork": [
-        "Static"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "Car"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "Eiffel Tower"
-      ],
-      "brandLogos": [
-        "Toyota"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Fragmented",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High (Lyrics-based)"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 0,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Romantic and soft (male), Energetic and bright (female)",
-        "pitch": "Medium",
-        "loudness": "Normal",
-        "speed": "Slow (male), Fast (female)",
-        "speechDensity": "Continuous singing",
-        "language": [
-          "English"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Ballad, Pop",
-      "bgmBPM": 120,
-      "instrumentFamiliesAudible": [
-        "Keyboard",
-        "Strings",
-        "Electronic"
-      ],
-      "instrumentsAudible": [
-        "Piano",
-        "Synthesizer"
-      ],
-      "musicSourceType": [
-        "Copyrighted Song"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Contrast -> Reality",
-      "mainPurpose": "The video uses a popular social media trope to contrast societal expectations (peers getting married) with the creator's personal achievement and independence (buying a car). It conveys a message of self-sufficiency and humor about being single but successful.",
-      "visualEmotion": "Humorous and Confident"
+      "narrativeStructure": "Montage: Comparison -> Contrast -> Reveal",
+      "mainPurpose": "To humorously compare the life achievements of peers (getting engaged) with the creator's own achievement of buying a new car, using a popular social media comparison format.",
+      "visualEmotion": [
+        "humorous",
+        "energetic",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -161,14 +273,11 @@
         "Implicit",
         "Integrated"
       ],
-      "endorsementCues": "The woman proudly displays her Toyota key and poses with the car, positioning the vehicle as a desirable object of status and independence.",
+      "endorsementCues": "Displaying the car key and the car itself in a celebratory manner suggests a showcase of the product.",
       "endorsementObject": [
         "Toyota"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Comparison 'Me vs Others' format",
-      "freeDescribe": "The use of the Thai license plate suggests the creator is located in Thailand or targeting a Thai/Southeast Asian audience, despite the Chinese text overlay."
-    }
+    "freeDescribe": "The video effectively uses high-contrast audio and visual segments to deliver a punchline based on lifestyle differences."
   }
 }

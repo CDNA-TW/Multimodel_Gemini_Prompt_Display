@@ -1,15 +1,249 @@
 {
   "videoName": "yga0721-20250915075121-1621352925689269.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 93,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Talk Show",
-        "Trivia",
-        "Vlog"
-      ],
+      "videoDuration": 92,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A young man with light brown hair wears large white over-ear headphones and a beige t-shirt, sitting in a studio filled with colorful posters and toys. He speaks expressively into a professional black microphone, gesturing with his hands as blue subtitles appear at the bottom. (2) The scene transitions to a graphic background showing a cream-colored brick pattern with large black and purple text explaining a secret about lottery receipts. (3) Back in the studio, the man continues talking excitedly; his facial expressions shift from serious explanation to a wide smile. A woman in a blue denim jacket and white dress is shown sitting on a red sofa, listening intently while holding a small slip of paper. (4) The camera shows a close-up of a traditional long lottery receipt, with red circles and arrows highlighting specific Chinese characters. The man points to the paper with his finger. (5) The woman on the sofa laughs and examines the receipt closely, her eyes widening in surprise. Small cartoon face overlays appear near her. (6) The man holds up several large playing cards, specifically focusing on the King of Hearts, explaining a detail about the illustration. The background remains the toy-filled studio. (7) An end screen appears featuring the man in a green hoodie, along with promotional text and icons for social media channels.",
+      "text_narrative_log": "(1) [Subtitle]: 我們傳統的統一發票. [Logo]: TSAI AGA POPO @FR2. (2) [Variety]: 小維. [Slogan]: 統一發票為了防止作弊 每期會有一兩個 不一樣的錯字. (3) [Subtitle]: 因為統一發票. [Variety]: Do you know?. (4) [Subtitle]: 真的假的. [Variety]: 不知道. (5) [Subtitle]: 2025年 114年78月 網址的網 背面 就在QR code旁邊 那一個網 錯了. (6) [Variety]: 是三點嗎. [Subtitle]: 就那個糸字旁 就少那一點. (7) [Variety]: 哇. [Subtitle]: 沒撇沒給它撇下去. (8) [Subtitle]: 那太精細了吧. (9) [Subtitle]: 我們的撲克牌K呢 其實只有紅心K的國王 是沒有鬍子的. (10) [Slogan]: 完整影片請上蔡阿嘎543頻道收看.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 main male host and 1 female guest on the sofa.",
+        "mainCharacterDescription": "The main male host has dyed brown hair, wears white headphones and a beige oversized t-shirt. The female guest wears a blue denim jacket over a white dress."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio",
+          "Animation / Graphic Background"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A podcast-style studio with shelves full of character toys (Moneky, etc.), posters, and brand logos like AGA and POPO. Also includes a stylized brick-wall graphic for informational segments.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not applicable"
+        ],
+        "colorTone": [
+          "Bright and colorful"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Zoom in"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Insert shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Side view"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Graphic transition",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Plush / decoration / toy animal"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Microphone / lavalier mic",
+          "Headphones / earbuds"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "TSAI AGA",
+          "POPO",
+          "Shure"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 1,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter"
+        ],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Paper / Page Rustle"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Applause / Laugh Track SFX",
+          "Pop / Bubble SFX",
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a male voice speaking at a high speech rate and animated tone. He describes the history of receipts while a light, upbeat synth-based BGM plays in the background. (2) A sudden loud applause and cheering SFX triggers as he delivers a punchline about a 'wrong character' in lottery receipts. (3) The female voice joins, expressing shock with a high-pitched 'Really?' and laughter. (4) A 'Ding' SFX occurs as the male voice points out a specific error on a slip of paper. (5) The conversation continues with frequent laughter track SFX and the rustling of paper being handled. (6) A final phase begins with the male voice explaining the trivia about King cards, accompanied by a transition stinger SFX that leads into the outro music."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Knowledge",
+        "Storytelling",
+        "Comedy"
+      ],
       "location": {
         "country": [
           "Taiwan"
@@ -19,159 +253,31 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A man with brown hair, wearing a white oversized t-shirt and silver-white headphones, sits in a studio and speaks into a professional microphone while holding a script. The studio background has colorful illustrations and collectibles. (2) Transition to a close-up of a Taiwanese Unified Invoice (lottery receipt) where a specific character in the URL is circled in red to show a typo. (3) A woman in a denim jacket is seen reacting on a sofa. (4) The man holds up large poker cards (King of Hearts) to demonstrate a second trivia fact about the missing mustache.",
-      "audio_narrative_log": "(1) Fast-paced, upbeat background music starts. A male voice speaks enthusiastically in Mandarin with high-pitched emphasis. (2) Sounds of a crowd cheering and laughing are heard as the first trivia point is made. (3) A female voice reacts with surprise and interest. (4) The music continues at a consistent tempo as the man explains the second fact, ending with a celebratory sound effect.",
-      "text_narrative_log": "(1) 我們傳統的統一發票 (Functional: Traditional Unified Invoice). (2) 小維 (Decorative: Name of the person/segment). (3) 統一發票為了防止作弊 每期會有一兩個不一樣的錯字 (Hook: Unified invoices have 1-2 typos to prevent fraud). (4) Do you know? (Hook). (5) 完整影片請上 蔡阿嘎543頻道收看 (Functional: CTA to watch full video on Tsai Aga 543 channel)."
-    },
     "temporal_pacing_summary": {
       "sceneCutCount": 18,
-      "averageSceneDuration": 5.16,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro Hook -> Trivia Fact 1 (Invoice) -> Reaction -> Trivia Fact 2 (Poker Card) -> Outro CTA"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Upper body",
-        "Full body",
-        "Hands"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "1 male creator (host), 1 female guest/co-host reacting on the sofa.",
-      "mainCharacterDescription": "Male, brown hair, wearing a loose-fitting white t-shirt and white over-ear professional studio headphones."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Studio"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A studio setting with white brick wallpaper, shelves containing various colorful toys (Gundam, figurines), and large posters. A brown sofa is visible in the guest area.",
-      "lightingStyle": "Bright studio lighting",
-      "weather": "None",
-      "season": "None",
+      "averageSceneDuration": 5.1,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Vibrant and Saturated",
-      "cameraWork": [
-        "Static",
-        "Close-up"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Microphone",
-        "Headphones",
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited, humorous, and high-energy",
-        "pitch": "Medium-high",
-        "loudness": "Loud",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Electronic Drums"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Crowd Applause",
-        "Cartoon SFX",
-        "Ding"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Evidence 1 -> Reaction -> Evidence 2 -> CTA",
-      "mainPurpose": "To entertain and educate the audience with 'cold' trivia facts regarding common items (Taiwanese receipts and poker cards), using a lively variety-show format to encourage viewers to watch more content on the creator's main channel.",
-      "visualEmotion": "Energetic and Playful"
+      "narrativeStructure": "List-based: Trivia Hook -> Explanation -> Reaction -> Secondary Trivia -> Outro",
+      "mainPurpose": "To share interesting and obscure trivia facts about daily life items (lottery receipts and playing cards) in a humorous, high-energy podcast format to entertain and inform the audience.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "informative"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
       "endorsementMethod": [
         "None"
       ],
-      "endorsementCues": "The video focuses on general trivia rather than promoting a specific brand or commercial service.",
+      "endorsementCues": "None",
       "endorsementObject": [
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-density traditional Chinese captions with variety-style graphics and high-pitched vocal interjections.",
-      "freeDescribe": "The video is highly localized to Taiwan due to the discussion of the Unified Invoice system."
-    }
+    "freeDescribe": "The video uses typical Taiwanese social media editing styles with dense subtitles and reaction sounds. The main character is a well-known influencer."
   }
 }

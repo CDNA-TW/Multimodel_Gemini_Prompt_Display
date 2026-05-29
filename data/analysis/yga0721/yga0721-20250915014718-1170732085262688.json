@@ -1,15 +1,238 @@
 {
   "videoName": "yga0721-20250915014718-1170732085262688.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 19.0,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Nightlife",
-        "Entertainment"
-      ],
+      "videoDuration": 19.3,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A man wearing a white t-shirt, black pants, and a gold necklace stands in a brightly lit indoor bar setting. He has plastic gloves on his hands and a friendly smile. In front of him sits a woman in a striped shirt at a table with drinks. The background features a vibrant yellow wall with colorful graffiti art that reads 'MUSCLE BAR'. (2) The man suddenly pulls up his white t-shirt and removes it completely, tossing it out of the frame to reveal a highly muscular, shirtless torso. The woman at the table reacts with a look of intense surprise and excitement, opening her mouth wide and clapping her hands. A man in black is seen cheering in the background while holding a professional camera. (3) The shirtless man leans in very close to the woman over the table, placing his hands on the sides of her head and neck in a dominant but playful 'kabedon' style gesture. He then uses a plastic bag to dispense a liquid into the woman's mouth as she laughs and screams with her head tilted back. The lighting remains bright, highlighting his muscle definition. (4) The man maintains his close proximity, flexing his muscles while the woman continues to laugh and enjoy the performance. Other patrons in the background are visible, cheering and watching the spectacle. The man finally pulls back slightly, smiling at the woman as the high-energy scene concludes among drinks and bar menus.",
+      "text_narrative_log": "(1) [Logo]: MUSCLE BAR FUKUOKA. (2) [Variety]: 4,000円.",
+      "visual_human_presence": {
+        "totalHumanCount": 7,
+        "maleDetectAmount": 3,
+        "femaleDetectAmount": 4,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Head and shoulders",
+          "Face close-up",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main male performer, 1 main female customer, 1 photographer, and roughly 4 background patrons.",
+        "mainCharacterDescription": "A muscular Asian man with dark hair, a gold necklace, initially in a white t-shirt and then shirtless; a young Asian woman in a blue and white striped long-sleeve shirt."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Entertainment Venue"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "An indoor bar with a prominent yellow wall covered in colorful graffiti-style text and muscle-themed art. There are tables with drinks, ice buckets, and menu cards.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Warm and vibrant"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Panning"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "Japanese",
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Beverage / juice",
+          "Alcohol"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Camera / DSLR"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "MUSCLE BAR FUKUOKA"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 5,
+        "male_vocal_count": 2,
+        "female_vocal_count": 3,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Japanese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": true,
+        "articulationClarity": 3,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 9,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": true
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 5,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 3
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Cheering",
+          "Screaming/Yelling",
+          "Laughter"
+        ],
+        "crowdNoiseIntensity": 4,
+        "ambientNoiseDetails": [
+          "Commercial/Recreational"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "Clothing / Fabric Rustle"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 3,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 5,
+        "speechMusicOverlap": 4,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with high-tempo Electronic Dance Music (EDM) featuring a heavy, driving percussive beat. A male voice shouts 'Oi! Oi!' repeatedly with high energy and vocal strain, typical of a hype man in a club environment. (2) A sharp, high-pitched female scream pierces through the mix as the music maintains its intensity. The crowd noise swells with laughter and various high-arousal vocalizations from multiple people. (3) Continuous cheering and loud female laughter dominate the audio track alongside the constant EDM beat. The announcer continues to shout in the background, his voice projecting strong command and excitement. (4) The audio concludes with a peak in crowd volume, combining applause-like percussive sounds and joyful screaming. The music stays consistent in its upbeat, major-mode tonality throughout the entire sequence."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Lifestyle"
+      ],
       "location": {
         "country": [
           "Japan"
@@ -19,158 +242,32 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A muscular man in a white t-shirt and black pants stands before a woman at a bar table, flexing his arms to the beat of the music while a man in the background watches. (2) With a sudden, forceful movement, he rips his shirt open and throws it aside, revealing his bare, muscular chest and abs as the woman claps in surprise. (3) The man leans down extremely close to the woman's face, placing his gloved hands around her neck and face in a mock-intimate gesture before pulling back to strike a final pose as the crowd cheers.",
-      "audio_narrative_log": "(1) Loud, upbeat electronic dance music (EDM) with a heavy bassline plays at a high volume. (2) As the action intensifies, the soundscape is filled with high-pitched female screaming and enthusiastic crowd cheering that partially masks the music. (3) A man's voice is heard shouting excitedly in Japanese over the steady beat and the continuous roar of the audience as the performance concludes.",
-      "text_narrative_log": "(1) Decorative Text: Colorful graffiti on the background wall reads 'MUSCLE BAR FUKUOKA', identifying the venue and its energetic theme. (2) Decorative Text: Labels on the table coasters read 'MUSCLE BAR', reinforcing the brand identity of the establishment."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 0,
-      "averageSceneDuration": 19.0,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Intro Flexing -> Shirt Ripping -> Close Interaction -> Outro Pose"
+      "sceneCutCount": 4,
+      "averageSceneDuration": 4.8,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
     },
-    "visual_human_presence": {
-      "totalHumanCount": 7,
-      "maleDetectAmount": 3,
-      "femaleDetectAmount": 4,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Upper body"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 male performer, 1 female customer at table, 1 male photographer kneeling, 4 additional patrons/staff in background",
-      "mainCharacterDescription": "The main male character is muscular, wearing black pants, a heavy gold chain necklace, and white gloves; the main female character is wearing a striped long-sleeved shirt and has her hair pinned back."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Bar",
-          "Club"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A dim bar interior with vibrant graffiti-covered walls, cluttered tables with drinks and coasters, and low industrial-style lighting.",
-      "lightingStyle": "Dim, neon-accented club lighting",
-      "weather": "None",
-      "season": "None",
-      "editingPace": "Slow",
-      "textOverlay": {
-        "density": "Low",
-        "language": [
-          "English",
-          "Japanese"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "High Saturation",
-      "cameraWork": [
-        "Handheld",
-        "Follow shot"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Cocktails",
-        "Beer"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "MUSCLE BAR FUKUOKA"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "None",
-      "vocalRatio": "Medium"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 5,
-        "backgroundCrowdVoices": 10,
-        "vocal_demographics": {
-          "male_vocal_count": 2,
-          "female_vocal_count": 8,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and energetic",
-        "pitch": "High",
-        "loudness": "Loud",
-        "speed": "Fast",
-        "speechDensity": "Occasional shouting",
-        "language": [
-          "Japanese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "EDM",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Live"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Crowd cheering",
-        "Screaming"
-      ],
-      "audioQuality": "Field"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Interaction -> Climax",
-      "mainPurpose": "The video serves as a promotional highlight for 'Muscle Bar Fukuoka,' showcasing the establishment's unique and high-energy interactive entertainment. By capturing a muscular performer ripping his shirt and engaging in a bold, flirtatious display with a customer, the content aims to attract potential patrons by demonstrating the bar's vibrant atmosphere and fan-service style performances.",
-      "visualEmotion": "Energetic"
+      "narrativeStructure": "Linear: Hook -> Build-up -> Climax -> Resolution",
+      "mainPurpose": "To showcase and promote the unique, high-energy entertainment services provided by 'Muscle Bar Fukuoka', focusing on the physical performance and interactive experience offered to female customers.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
-        "Implicit",
-        "Integrated"
+        "Explicit",
+        "Full"
       ],
-      "endorsementCues": "Prominent branding on the walls and table accessories, combined with a demonstration of the venue's specific service model.",
+      "endorsementCues": "The entire video is centered around the branding of 'Muscle Bar Fukuoka' and showcases its specific service model.",
       "endorsementObject": [
-        "MUSCLE BAR FUKUOKA"
+        "Muscle Bar Fukuoka"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Muscle flexing and shirt ripping as a signature service performance.",
-      "freeDescribe": "The video captures a niche Japanese 'themed bar' subculture where physical fitness and interactive performance are the primary commodities."
-    }
+    "freeDescribe": "The video effectively utilizes high-arousal audio and visual triggers to create a sense of 'FOMO' (fear of missing out) regarding this themed bar experience."
   }
 }

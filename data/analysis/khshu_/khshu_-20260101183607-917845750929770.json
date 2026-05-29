@@ -1,157 +1,254 @@
 {
   "videoName": "khshu_-20260101183607-917845750929770.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 11,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Comedy",
-        "Vlog",
-        "Short-form Acting"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
+      "visual_narrative_log": "(1) A young woman with her hair pulled back into a bun, wearing a white and green horizontal striped long-sleeved shirt with a collar, is looking down at a large book with colorful illustrations. She is in a modern indoor hallway with a grey door and a digital lock visible behind her. (2) She looks up directly at the camera with a neutral expression, holding the book open with both hands. (3) She performs a deliberate and exaggerated smile that exposes only her lower teeth while keeping her upper lip pulled down, squinting her eyes and wrinkling her nose in a humorous, awkward facial expression. The lighting is bright and even throughout the scene.",
+      "text_narrative_log": "(1) [Subtitle]: She smiled at him. [Subtitle]: With her lower teeth. [Subtitle]: 她露出下排牙齒對著他微笑。",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 female main creator in the center of the frame.",
+        "mainCharacterDescription": "A young woman with dark hair in a bun, wearing a green and white striped polo shirt and a simple silver necklace."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A modern indoor corridor or entryway with a dark grey door featuring a digital smart lock. The walls are neutral and the lighting is bright.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
           "None"
         ],
-        "city": [
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "English",
+          "Simplified Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
           "None"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman with dark hair tied back, wearing a green and white striped polo shirt and a silver necklace, is looking down intensely at a book she is holding. (2) She shifts her gaze upward toward the camera and begins to contort her face into an awkward, forced smile, specifically revealing only her lower row of teeth as mentioned in the text overlay. (3) She continues to hold the book while maintaining the exaggerated facial expression, squinting her eyes and slightly tilting her head until the end of the clip.",
-      "audio_narrative_log": "(1) A calm female voice speaks in English, saying \"She smiled at him with her lower teeth,\" accompanied by a quirky, upbeat pizzicato string background track. (2) The narration repeats the phrase while the whimsical music maintains a steady, moderate tempo. (3) The music continues solo for a brief moment as the vocals cease, ending the audio loop.",
-      "text_narrative_log": "(1) Functional Text: \"She smiled at him with her lower teeth\" located at the top center, serving as a prompt for the character's action. (2) Functional Text: \"她露出下排牙齒對著他微笑\" located directly below the English text, providing a literal Chinese translation of the prompt."
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 2,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 1
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "English"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Level"
+        ],
+        "speakingRisingRatio": 1,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 3,
+        "valence": 5,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 110,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "String",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Other String Instrument",
+          "Triangle"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 0,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 2,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 2,
+        "vocalRatio": 2,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 2,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 2,
+        "audioCutFrequency": 0,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A calm female voice narrating in English clearly states 'She smiled at him with her lower teeth' over a light, quirky background track featuring pizzicato strings and a gentle woodblock-like percussion. (2) The narration ceases as the music continues with a playful, major-mode melody that repeats with a steady, moderate tempo and consistent volume. No other sound effects or environmental noises are present, suggesting a clean, post-produced audio track."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Meme / Trend"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
     },
     "temporal_pacing_summary": {
       "sceneCutCount": 0,
       "averageSceneDuration": 11.0,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro (Reading) -> Performance (Awkward Smile)"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main female creator holding a book",
-      "mainCharacterDescription": "A young Asian woman with dark hair in a bun, wearing a casual green and white horizontal striped polo shirt and a thin silver necklace."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor",
-          "Apartment"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A minimalist indoor setting, likely a hallway or living room, featuring a dark grey wall with a door and an electronic lock visible in the background.",
-      "lightingStyle": "Natural indoor lighting",
-      "weather": "Unknown",
-      "season": "Unknown",
       "editingPace": "Slow",
-      "textOverlay": {
-        "density": "Low",
-        "language": [
-          "English",
-          "Chinese"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static"
-      ]
+      "isNarrativeShift": false
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smart Lock"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "None",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Steady and narrative",
-        "pitch": "Medium",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Occasional narration",
-        "language": [
-          "English"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Quirky",
-      "bgmBPM": 115,
-      "instrumentFamiliesAudible": [
-        "Strings"
-      ],
-      "instrumentsAudible": [
-        "Violin",
-        "Cello"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Setup -> Execution",
-      "mainPurpose": "The video is a humorous performance piece designed for social media engagement. It centers on the creator acting out a specific, peculiar description ('smiling with lower teeth') which serves as a challenge or comedic prompt, contrasting the initial serious reading posture with the bizarre facial expression.",
-      "visualEmotion": "Humorous"
+      "narrativeStructure": "Linear: Setup -> Action",
+      "mainPurpose": "To humorously demonstrate a specific facial expression mentioned in a piece of text (presumably from a book or fanfiction), highlighting the awkwardness of 'smiling with lower teeth'.",
+      "visualEmotion": [
+        "humorous",
+        "quirky"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -163,9 +260,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Acting out literal text prompts",
-      "freeDescribe": "The video follows a popular trend where creators perform literal or awkward interpretations of written text to generate comedic effect."
-    }
+    "freeDescribe": "The video relies on the juxtaposition of the neutral narration and the intentionally awkward visual demonstration of the 'lower teeth smile' to create comedy."
   }
 }

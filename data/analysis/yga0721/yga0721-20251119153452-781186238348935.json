@@ -1,179 +1,286 @@
 {
   "videoName": "yga0721-20251119153452-781186238348935.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 59,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Music",
-        "Comedy",
-        "Performance"
-      ],
+      "videoDuration": 58,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "None"
+      "visual_narrative_log": "(1) A young woman with shoulder-length brown hair, wearing a denim shirt and Sony MDR-7506 headphones, stands in front of a professional silver condenser microphone with a black pop filter. The background consists of a light blue pleated curtain, and the scene is illuminated with bright, even studio lighting. She is singing, her mouth moving in sync with the lyrics, and her facial expressions are focused yet cheerful. (2) The camera transitions through several medium-close shots as the woman begins to dance energetically. She pumps her fists, moves her shoulders, and steps side-to-side. Rapid jump cuts are used to emphasize her rhythmic movements. Yellow Chinese subtitles appear at the bottom of the frame, highlighting the lyrical content as she performs. (3) The frame splits horizontally. The top half continues to show the woman singing and dancing in the studio. The bottom half introduces a man in a black t-shirt and grey jeans dancing in a separate indoor area with a white brick wall and shelves filled with various anime figurines. His movements are comedic and exaggerated compared to the woman's structured performance. (4) The scene shifts to a wide shot of the entire studio space, revealing camera tripods, ring lights, and softboxes. The woman remains standing and singing while the man, now in the same frame, crawls on the light wood floor like an animal. Various variety-show style text overlays and emojis appear on screen to emphasize the humorous nature of his actions.",
+      "text_narrative_log": "(1) [Subtitle]: 國王非常高興. (2) [Subtitle]: 忙問他的姓名. (3) [Subtitle]: 年輕人想了想. (4) [Subtitle]: 他說陛下我叫. (5) [Subtitle]: 達拉崩吧斑得貝迪卜多比魯翁. (6) [Subtitle]: 再說一次. (7) [Subtitle]: 是不是. (8) [Subtitle]: 對對. (9) [Variety]: (???????). (10) [Variety]: 装可愛. (11) [Variety]: 更!. (12) [Subtitle]: 孩子叫做蔡阿嘎. (13) [Variety]: (???????????).",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face",
+          "Head and shoulders"
         ],
-        "city": [
-          "None"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman with shoulder-length brown hair, wearing a denim shirt and black pants, stands in a studio environment. She wears large black over-ear headphones and sings into a professional condenser microphone protected by a pop filter. (2) She performs a synchronized dance involving rhythmic stepping, arm crossing, and pointing while maintaining a cheerful expression against a light blue curtain backdrop. (3) The scene transitions to show a man in a black T-shirt in a different room featuring shelves of collectibles; he performs exaggerated, comedic dance moves and facial expressions. (4) The video employs split-screen layouts and rapid cuts between the woman's singing performance and the man's physical comedy. (5) The final shot expands to a wide view of the studio, showing professional camera equipment and a cameraman as the man crouches on the floor looking at the lens.",
-      "audio_narrative_log": "(1) An upbeat, high-tempo electronic instrumental track starts immediately. A female voice begins singing in Mandarin with extremely rapid delivery and a bright, energetic tone. (2) The vocal intensity remains high as the singer navigates complex melodic runs synchronized with the heavy beat. (3) A male voice enters, providing loud, rhythmic shouts and exaggerated vocalizations that match the comedic energy of the music. (4) The singing ends with a sustained high-pitched note, followed by a brief period of the electronic beat before fading into ambient studio sound.",
-      "text_narrative_log": "(1) Functional Text: White Traditional Chinese subtitles appear centered at the bottom of the frame, providing the literal lyrics of the song being performed. (2) Decorative/Effect Text: Various stylized captions in larger yellow or red fonts appear momentarily, including question marks '(??????)', the phrase 'Act cute', and the name 'Cai Aga'. These emphasize comedic beats and character names."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 24,
-      "averageSceneDuration": 2.45,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro singing -> High-energy dance and reaction montage -> Final comedic reveal"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 3,
-      "maleDetectAmount": 2,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Upper body"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 female singer, 1 male reactor/comedian, and 1 cameraman visible in the final wide shot.",
-      "mainCharacterDescription": "Female: brown hair, denim shirt, black trousers. Male: black T-shirt, grey jeans."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 female main creator singing in the studio, 1 male dancer/comedian appearing in split-screen and wide shots.",
+        "mainCharacterDescription": "A female with shoulder-length hair wearing a blue denim button-down shirt; a male with short brown hair wearing a black graphic t-shirt and grey trousers."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
           "Studio",
-          "Indoor Room"
+          "Indoor Home"
         ],
-        "topography": [
-          "None"
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A professional recording studio with blue curtains and lighting equipment; a home-style studio space with a white brick wall, shelves containing numerous collectible figurines, and camera gear.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
         ]
       },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "One background is a plain light blue curtain for a clean studio look; the other is a white-walled room with shelves packed with various anime and movie figurines.",
-      "lightingStyle": "Professional studio lighting",
-      "weather": "None",
-      "season": "None",
-      "editingPace": "Fast",
-      "textOverlay": {
-        "density": "Medium",
-        "language": [
-          "Traditional Chinese"
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Dolly in / push in",
+          "Panning"
+        ],
+        "shotSize": [
+          "Medium close-up",
+          "Medium shot",
+          "Full shot",
+          "Split-screen"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Split-screen",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "Emoji / Symbols"
         ],
         "isSubtitled": true
       },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Medium Shot",
-        "Wide Shot",
-        "Follow shot"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Sony Headphones",
-        "Professional Microphone",
-        "Digital Cinema Camera",
-        "Studio Monitor"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "SONY"
-      ],
-      "instrumentsVisible": [
-        "Microphone"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "High-pitched, energetic, humorous",
-        "pitch": "High",
-        "loudness": "High",
-        "speed": "Extremely fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Headphones / earbuds",
+          "Microphone / lavalier mic",
+          "Camera / DSLR",
+          "Lighting equipment / ring light"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "SONY"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic Pop",
-      "bgmBPM": 158,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion",
-        "Keyboard"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Electronic Drums"
-      ],
-      "musicSourceType": [
-        "Copyrighted Song"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 1,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 5,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Comedic/Exaggerated"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Meme/Comedy",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 135,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 2,
+        "male_singer_count": 1,
+        "female_singer_count": 1,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "Traditional Chinese"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 5,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Cover/Remix"
+        ],
+        "harmonicTensionLevel": 3
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Impact / Hit SFX",
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 5,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Stingers"
+        ],
+        "audioEventDensity": 5,
+        "audioCutFrequency": 4,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) High-energy female vocals begin immediately, singing a rapid-fire melody over an upbeat electronic dance track with a strong 4/4 drum machine kick. The BPM is around 135, and the sound is crisp and studio-perfect. (2) A sharp 'whoosh' sound effect marks a transition as the female vocal increases in intensity and speed, articulating long strings of complex Chinese syllables without pausing. The BGM maintains its high-energy synth melody. (3) A male vocal enters, shouting enthusiastically in a higher arousal state to provide comedic emphasis on certain words. His voice is layered over the existing vocal track, creating a dense, multi-vocal mix typical of viral social media audio. (4) Percussive 'hit' sound effects and comedic cartoon stingers are triggered in sync with the visual rhythm. The audio track reaches its peak density as both voices and the pounding electronic beat continue at full volume until a sudden hard cut ending."
     }
   },
-  "high_inference_interpretations": {
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Music / Performance / MV",
+        "Meme / Trend",
+        "Comedy"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 22,
+      "averageSceneDuration": 2.6,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Singing Performance -> Comedic Reaction -> Final Reveal",
-      "mainPurpose": "To entertain the audience by showcasing a skillful and high-speed vocal cover of the song 'Dalabengba' while juxtaposing it with the exaggerated comedic antics of influencer Cai Aga to create a viral, humorous effect.",
-      "visualEmotion": "Energetic, Humorous"
+      "narrativeStructure": "Montage: Introduction -> Rhythmic Escalation -> Comedic Climax",
+      "mainPurpose": "The video is a high-energy music performance and comedy skit centered around a viral song challenge. The primary intent is to entertain through a combination of professional-quality singing and absurd, comedic dancing and crawling by a secondary character. The contrast between the serious studio environment and the man's silly behavior creates the central comedic hook.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "animated"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
       "endorsementMethod": [
         "None"
       ],
-      "endorsementCues": "No specific product call-to-action or promotional narrative.",
+      "endorsementCues": "None",
       "endorsementObject": [
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Cai Aga's iconic comedic expressions and the 'Dalabengba' rapid-fire singing challenge style.",
-      "freeDescribe": "The video leverages the contrast between the professional vocal performance and the low-brow physical comedy to maintain high engagement levels."
-    }
+    "freeDescribe": "The video features the famous Taiwanese YouTuber '蔡阿嘎' (Cai A-ga) in the male role, engaging in a trending audio challenge."
   }
 }

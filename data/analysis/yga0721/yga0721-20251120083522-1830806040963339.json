@@ -1,169 +1,283 @@
 {
   "videoName": "yga0721-20251120083522-1830806040963339.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 105,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Commercial",
-        "Comedy"
-      ],
+      "videoDuration": 107.0,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A man in a white long-sleeved shirt and denim overalls stands beside a woman in a black dress in a brightly lit indoor hallway. They engage in a lively conversation with expressive facial movements and hand gestures. (2) The scene shifts to a gold-framed insert showing a messy pile of clothes on a wooden chair next to a dining table; the man looks on with a skeptical and frustrated expression. (3) They move to another part of the house where a close-up shows clumps of hair on a light wooden floor, framed like an artwork; the man reacts with exaggerated shock and horror, holding his face in his hands. (4) The duo enters a kitchen where a sink is filled to the brim with dirty baby bottles and dishes; the man points accusingly at the sink while the woman smiles awkwardly. (5) A transition leads to a product showcase of a white Giaretti baby bottle washer; various shots demonstrate bottles being placed inside and the machine operating with digital displays visible. (6) The video transitions to the man demonstrating a black Roborock F25 Ultra floor scrubber in the living room; he moves the device over the wooden floor as steam and lights emanate from the brush head. (7) Finally, the man and woman stand together in the living room, laughing and gesturing towards the floor scrubber as a final gold-framed artwork title appears on the screen.",
+      "text_narrative_log": "(1) [Subtitle]: 不是洪+0. [Variety]: ??? 藝術大師. (2) [Slogan]: 作品：洋蔥. [Subtitle]: 一層一層的剝開我的心. (3) [Variety]: 嫌惡. [Slogan]: 作品：吶喊. (4) [Variety]: 胎哥鬼. (5) [Slogan]: 作品：排山倒海. [Subtitle]: 高低錯落的奶瓶碗盤. (6) [Variety]: 荒謬. [Logo]: Giaretti. [Slogan]: 全自動洗奶瓶機 (GT-WBR828). (7) [Slogan]: 2025年最新上市!. [Logo]: 石頭科技Roborock. [Slogan]: F25 Ultra 蒸氣x熱水高溫洗烘地機. (8) [Slogan]: 作品：蒙娜麗莎起笑.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face close-up",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 adult male creator and 1 adult female partner/co-star.",
+        "mainCharacterDescription": "The male character wears a white t-shirt under denim overalls and black socks. The female character wears a black midi-length dress and has her hair tied up in a bun."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Living Room",
+          "Indoor Kitchen",
+          "Indoor Home"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "Modern residential interior with white walls, wooden flooring, brown wooden doors, and a fully equipped kitchen with white cabinetry and stainless steel fixtures.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Panning",
+          "Dolly in / push in",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Full shot",
+          "Insert shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "High angle"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Graphic transition",
+          "Montage"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Home appliance",
+          "Kitchen appliance",
+          "Smartphone",
+          "TV / display screen"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Giaretti",
+          "Roborock"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 1,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Comedic/Exaggerated",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 7,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 124,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Liquid Pour / Splash",
+          "Mechanical Click / Latch"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Ding / Bell SFX",
+          "Pop / Bubble SFX",
+          "Impact / Hit SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Stingers"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with high-energy dialogue between a male and female voice, characterized by rapid speech and varied pitch. An upbeat, rhythmic electronic BGM plays continuously in the background. (2) A sharp 'impact' sound effect accompanies the visual transition to the gold-framed segments. The male voice adopts a louder, more dramatic tone of complaint. (3) During the transition to the kitchen, the BGM remains steady while frequent 'pop' and 'whoosh' SFX punctuate the scene cuts. (4) As the product demonstration starts, the male vocal shifts to a clear, professional narration style. Technical SFX such as motor whirring and steaming sounds are layered over the music. (5) The final segment returns to the lively conversational tone with high arousal, ending with a rhythmic musical flourish and a final 'ding' sound effect."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Promotion / Advertisement / Indoresment",
+        "Comedy",
+        "Vlog"
+      ],
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "Unknown"
+          "None"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video is live-action. A man in denim overalls and a woman in black clothing stand in a home entryway, speaking with exaggerated expressions and gestures. (2) The woman leads the man to various 'artworks' around the house: a pile of laundry on a chair, a dusty corner with hair, and a sink overflowing with dirty baby bottles. Each is presented with a gilded frame graphic. (3) Transition to a product demonstration of the Giaretti baby bottle washer, showing close-ups of the machine's interface, the steaming process, and clean bottles. (4) The man demonstrates the Roborock F25 Ultra vacuum, pushing it across a wooden floor where it emits steam and cleans hair/debris. (5) The couple stands together at the end, the man pointing at the woman's face while she smiles for the final 'artwork' frame.",
-      "audio_narrative_log": "(1) High-energy, upbeat background music plays throughout. A male and a female voice speak in Mandarin and Taiwanese with very excited, humorous, and high-pitched tones. (2) Frequent use of variety-show sound effects, including 'dings', dramatic stings, and comical sound bites when captions appear. (3) During the product segments, the male voice adopts a more rhythmic, clear, and persuasive narrative tone, accompanied by the mechanical sounds of the vacuum (whirring) and the washer (hissing steam). (4) The video ends with loud laughter and the upbeat theme music fading out.",
-      "text_narrative_log": "(1) Functional text includes traditional Chinese subtitles for all spoken dialogue. (2) Decorative text appears as 'Art Master' and 'Masterpiece' hooks during the initial skit. (3) Product identification text: 'Giaretti 全自動洗奶瓶機' and '石頭科技 Roborock F25 Ultra'. (4) Feature callouts such as '72小時抗菌', '高溫蒸汽消毒', and 'AI 全向助力' appear during demos in bold, colorful fonts to emphasize utility."
     },
     "temporal_pacing_summary": {
-      "sceneCutCount": 42,
-      "averageSceneDuration": 2.5,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Comedy Skit Intro -> Dual Product Demos -> Comedy Outro"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Face only"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "1 male creator (Tsai A-ga), 1 female co-star (Hong +0)",
-      "mainCharacterDescription": "The man is wearing light blue denim overalls over a white long-sleeved shirt with black socks. The woman is wearing a long black t-shirt and black pants."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Kitchen",
-          "Living Room",
-          "Studio"
-        ],
-        "topography": [
-          "Plain"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A modern residential interior with light-colored wooden floors, white walls, a dark brown front door, a kitchen area with stainless steel sink, and various household items like a dining table and children's toys (yellow duck).",
-      "lightingStyle": "Bright, even indoor studio lighting",
-      "weather": "None",
-      "season": "None",
+      "sceneCutCount": 32,
+      "averageSceneDuration": 3.34,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Follow shot",
-        "Static",
-        "Close-up",
-        "POV"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Baby bottle washer",
-        "Floor scrubber/Vacuum",
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Giaretti",
-        "Roborock"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Exaggerated, humorous, high-pitched, excited",
-        "pitch": "High",
-        "loudness": "Loud",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Traditional Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat variety show style",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Electronic drums"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Cartoon SFX",
-        "Ding",
-        "Whoosh",
-        "Steam hiss"
-      ],
-      "ambientNoise": [
-        "Studio quiet",
-        "Machine whirring"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook (Skit) -> Evidence (Domestic Problems) -> Solution 1 (Giaretti) -> Solution 2 (Roborock) -> Outro (Joke)",
-      "mainPurpose": "The video uses a comedic skit format to endorse two household appliances—a Giaretti baby bottle washer and a Roborock floor scrubber. It reframes common household chores and messes as 'artistic' installations to engage the audience before presenting the products as essential solutions for busy parents.",
-      "visualEmotion": "Energetic, Humorous, Productive"
+      "narrativeStructure": "Montage: Hook -> Problem -> Solution -> Demo -> CTA",
+      "mainPurpose": "To promote household cleaning appliances by humorously reframing messy domestic chores as 'unwanted artworks,' then providing efficient technology as the solution.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "informative"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -171,15 +285,12 @@
         "Explicit",
         "Full"
       ],
-      "endorsementCues": "Detailed product demonstrations, mention of 2025 new arrivals, explicit brand names, and feature callouts.",
+      "endorsementCues": "Direct demonstration of features, product naming, logo overlays, and inclusion of model numbers.",
       "endorsementObject": [
         "Giaretti",
         "Roborock"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Tsai A-ga's signature high-decibel speaking style and domestic interaction comedy.",
-      "freeDescribe": "The video effectively bridges life-style content with hard-sell advertising through the use of relatable 'parenting' pain points (dirty bottles, hair on floor)."
-    }
+    "freeDescribe": "The video uses a high-density editing style typical of social media marketing, combining comedic skits with clear product demonstrations."
   }
 }

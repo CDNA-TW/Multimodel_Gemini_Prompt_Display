@@ -1,161 +1,263 @@
 {
   "videoName": "achusan0817-20250522071346-1427164119064164.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 59,
-      "aspectRatio": "1:1",
-      "videoGenre": [
-        "Animation",
-        "Comedy",
-        "Short Film"
-      ],
+      "aspectRatio": "16:9"
+    },
+    "visual_base": {
       "withRealPeople": false,
+      "visual_narrative_log": "(1) The video is an animation featuring two male high school characters standing in front of white school lockers. The character on the left has messy dark hair and a neutral expression, while the character on the right is bald. The background setting is a typical indoor hallway with green-topped walls and grey locker units. (2) Small graphic icons and character portraits from an anime series are overlaid between the two boys as they converse. The lighting is flat and bright, typical of 2D digital animation styles. (3) The scene transitions to a classroom with wooden desks and windows in the background. A female character with short black hair joins the conversation, initially appearing cheerful and waving. (4) The female character's facial expression shifts dramatically to one of intense anger and frustration, with wide, white-ringed eyes and a shouting mouth. Fast radial speed lines appear in the background to emphasize her emotional outburst. (5) A close-up of the dark-haired male character shows him with a slight, knowing smirk as large white text overlays appear over his face in a variety-show style, marking a shift in the conversational tone.",
+      "text_narrative_log": "(1) [Subtitle]: 欸欸雅婷明天生日欸. (2) [Subtitle]: 要不要合送東西給她. (3) [Subtitle]: 喔好呀要送什麼. (4) [Subtitle]: 她喜歡什麼東西啊你知道嗎. (5) [Subtitle]: 哦她最近好像在喜歡家庭教師里包恩. (6) [Subtitle]: 真假我也看過欸. (7) [Subtitle]: 他有喜歡裡面哪個角色嗎我們去找他的週邊. (8) [Subtitle]: 恩我想一下喔. (9) [Subtitle]: 6918 6927 10069 8059 1827 all27吧. (10) [Subtitle]: 公三小. (11) [Subtitle]: 不然我們直接問她想要什麼好了啦不然等等送到他不喜歡的. (12) [Subtitle]: 喔好啊. (13) [Subtitle]: 欸雅婷你生日禮物想要什麼. (14) [Subtitle]: 啊你們要送我禮物喔不用啦. (15) [Subtitle]: 不行啦我們生日你都有送東西一定要回送一下. (16) [Subtitle]: 三八喔不用啦. (17) [Subtitle]: 不行啦. (18) [Subtitle]: 真的不用啦. (19) [Subtitle]: 不行啦一定要. (20) [Subtitle]: 那我想看A片. (21) [Subtitle]: 蛤你說什麼. (22) [Subtitle]: 我我按A彥. (23) [Subtitle]: 什麼東西. (24) [Subtitle]: 按A驗啊. (25) [Subtitle]: 說清楚啦. (26) [Subtitle]: 想看X片啦. (27) [Subtitle]: 你沒看過X片嗎. (28) [Subtitle]: 只看過一部欸而且我是以前想在foxy上下載七月七日晴結果打開直接一個大XX抽XX. (29) [Variety]: FOXY受災戶. (30) [Subtitle]: 你們一定有很多片源吧. (31) [Subtitle]: 沒有我才不看那些東西咧. (32) [Subtitle]: 對啊好髒喔. (33) [Subtitle]: 那你喜歡哪個女優. (34) [Subtitle]: 橘澤OO 高坂保OO 大澤OO. (35) [Subtitle]: 誰啦. (36) [Variety]: 老司機.",
+      "visual_human_presence": {
+        "totalHumanCount": 3,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 3,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "Two male high schoolers and one female high schooler are the primary subjects.",
+        "mainCharacterDescription": "One boy has messy black hair; the other is bald. The girl has short black hair. All wear white collared school shirts."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Classroom / School"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "First scene is a school hallway with lockers; second scene is a classroom with desks, chairs, and windows.",
+        "lightingStyle": [
+          "Flat animation lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Animation vivid colors"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Digital zoom"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Meme-style edit"
+        ],
+        "visualRhythm": [
+          "Rhythm matched to speech"
+        ],
+        "takeStructure": [
+          "Scene-to-scene sequence"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Digital Interface / Screen Capture"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 3,
+        "total_distinct_voices": 3,
+        "male_vocal_count": 2,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Casual",
+          "Animated/Excited",
+          "Comedic/Exaggerated"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 6,
+        "valence": 5,
+        "dominance": 6,
+        "hasVocalTension": true
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM",
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 0,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Ding / Bell SFX",
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": true,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) Fast-paced synth-pop BGM starts. Two male voices speak in a casual, slightly high-pitched tone, discussing birthday plans. Their speech is rapid and clearly articulated. (2) A soft 'ding' SFX punctuates the mention of anime character names. The music continues with a steady electronic beat. (3) A bright female voice enters, speaking with high energy and a rising intonation pattern. The interplay between the three voices is quick and balanced against the BGM. (4) A sudden distorted shouting sound marks a shift; the female voice rises significantly in volume and arousal, expressing explosive anger. The BGM remains but is momentarily masked. (5) A rhythmic 'whoosh' SFX signals a scene change. The dark-haired male voice delivers a punchline in a smug, confident tone. A final percussive hit concludes the audio track."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Animation",
+        "Meme / Trend"
+      ],
       "location": {
         "country": [
-          "None"
+          "Taiwan"
         ],
         "city": [
           "None"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video starts in a hand-drawn 2D animation style. Two male students in white uniforms are talking in a classroom with green chalkboard and lockers. The one on the left has dark spiky hair, the one on the right is bald with a few strands. (2) A transition occurs showing a floating character 'Reborn' from 'Katekyo Hitman Reborn' to illustrate a point. A thought bubble appears with the dark-haired student's face inside. (3) A female student with short grey hair appears, looking surprised and then joining the conversation. (4) The scene shifts between close-ups of the characters as they argue. The female character becomes increasingly agitated, shown with dramatic lighting and action lines around her mouth. (5) The video ends with a close-up of the dark-haired boy looking like a 'pro' with a serious, narrowed-eye expression.",
-      "audio_narrative_log": "(1) Fast-paced Mandarin dialogue begins between two male speakers. The tone is casual and humorous. Light, rhythmic electronic background music (BGM) starts. (2) A female voice enters the dialogue, speaking at a similar speed with a higher pitch. (3) The audio intensity increases as the characters begin to shout and argue; sound effects (SFX) like impact hits and whooshes accentuate the animation cuts. (4) The music cuts or changes rhythm to emphasize the punchline at the end. (5) Sounds of rapid-fire talking and sudden silences are used for comedic timing.",
-      "text_narrative_log": "(1) Functional Text: Subtitles translate the dialogue regarding 'Yating's birthday' and 'Katekyo Hitman Reborn'. (2) Hook/Effect Text: Numerical codes (6918, 6927...) appear on screen representing fan-culture references. (3) Decorative/Effect Text: Large captions like '想看X片啦' (Want to watch adult films!) and 'FOXY受災戶' (Foxy victim) appear in a variety-show style. (4) Ending Text: '老司機' (Old Driver/Expert) appears at the bottom as a final punchline."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 21,
-      "averageSceneDuration": 2.8,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Discussion -> Misunderstanding -> Confrontation -> Surprising Revelation"
+      "sceneCutCount": 8,
+      "averageSceneDuration": 7.375,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
     },
-    "visual_human_presence": {
-      "totalHumanCount": 3,
-      "maleDetectAmount": 2,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 3,
-      "bodyPartVisibility": [
-        "Full body",
-        "Upper body",
-        "Face close-ups"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 dark-haired male, 1 bald male, 1 grey-haired female student.",
-      "mainCharacterDescription": "High school students in simple white short-sleeved school uniforms."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Classroom"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "Standard anime-style classroom with lockers, chalkboard, desks, and windows showing a blue sky.",
-      "lightingStyle": "Flat bright lighting, typical of 2D comedy animation.",
-      "weather": "Sunny",
-      "season": "Unknown",
-      "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Mandarin"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "High Saturation",
-      "cameraWork": [
-        "Static",
-        "Zoom",
-        "Hard Cuts"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 3,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 2,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Comedic, argumentative, high-energy",
-        "pitch": "Varied (male baritone/tenor, female soprano)",
-        "loudness": "High",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Cartoon SFX",
-        "Impact sounds",
-        "Bleeps"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Setup -> Escalation -> Plot Twist -> Punchline",
-      "mainPurpose": "The video is a comedy sketch designed for social media. It utilizes internet memes and subculture references (such as shipping codes from 'Katekyo Hitman Reborn' and the legacy of the 'Foxy' file-sharing platform) to create a relatable and humorous situation among students regarding a birthday gift and adult content.",
-      "visualEmotion": "Humorous"
+      "narrativeStructure": "Linear: Setup -> Hook -> Escalation -> Punchline",
+      "mainPurpose": "The video is a comedic animated short intended to entertain viewers through a subversion of expectations. It begins with a wholesome discussion about a birthday gift and shifts into an Otaku-themed joke about adult content interests and niche terminology ('Lao Si Ji').",
+      "visualEmotion": [
+        "humorous",
+        "energetic",
+        "animated"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -167,9 +269,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Simplistic yet expressive hand-drawn 2D animation style with heavy use of variety-show text graphics.",
-      "freeDescribe": "The content relies heavily on nostalgia (Foxy) and specific Otaku/fujoshi culture codes to appeal to a specific Gen Z/Millennial Mandarin-speaking demographic."
-    }
+    "freeDescribe": "The animation uses common internet slang and anime subculture references (Katekyo Hitman Reborn!) to appeal to a specific Gen Z/Alpha demographic."
   }
 }

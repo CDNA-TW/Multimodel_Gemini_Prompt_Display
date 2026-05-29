@@ -1,154 +1,259 @@
 {
   "videoName": "0_shufen-20250906073531-1252052250149346.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 7,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Skit",
-        "Short Drama"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
+      "visual_narrative_log": "(1) A young woman with long dark hair stands in a brightly lit hospital room wearing a peach-colored hospital gown and a digital pink bow filter over her head. She faces the camera with a neutral, slightly confused expression, framed in a medium shot. (2) She suddenly clutches her chest with her right hand and throws her head back in an exaggerated, dramatic reaction as if struck by an invisible projectile. The lighting is bright and consistent, highlighting the sterile medical environment behind her. (3) From a wider, handheld camera perspective, she staggers backward while wearing pink clogs, eventually collapsing into a tan chair next to a white medical cabinet. Her body goes limp and her head tilts sharply toward the ceiling in shock. (4) In a medium close-up shot, she is positioned against a window with white blinds, repeating the dramatic staggering motion with her eyes closed and mouth agape. The visual rhythm is fast, punctuated by quick cuts that emphasize her physical distress. (5) She is finally shown sitting on a white hospital bed with a metal guardrail. She throws herself backward onto the pillows in a final act of dramatic exhaustion or metaphorical defeat, mimicking the physical impact of a devastating revelation.",
+      "text_narrative_log": "(1) [Subtitle]: 護士💁🏻‍♀️：. (2) [Subtitle]: 一個人來嗎？. (3) [Subtitle]: 等下有人來陪妳嗎？. (4) [Subtitle]: 自己開車來醫院啊？. (5) [Subtitle]: 手術後自己開車回家？",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 female main character in a hospital gown.",
+        "mainCharacterDescription": "A young woman with long black hair wearing a peach-colored hospital gown and pink clogs, with a pink bow hair filter."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Other"
+        ],
+        "locationTopography": [
           "None"
         ],
-        "city": [
-          "None"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A woman wearing a peach-colored hospital gown and a cartoon pink bow filter on her head stands in a hospital room, looking slightly worried. (2) She appears to be knocked back or falling into a chair as the scene cuts. (3) She is sitting in a chair beside a medical cabinet, looking exhausted and leaning back. (4) She is shown sitting on a hospital bed looking towards a window, then finally lying flat on the hospital bed as the video ends.",
-      "audio_narrative_log": "(1) The video begins with silence, followed by a loud, sudden gunshot or slamming sound effect. (2) This loud percussive sound effect repeats at every scene transition. (3) No human vocals, background music, or significant ambient noise are detected throughout the duration.",
-      "text_narrative_log": "(1) 護士：一個人來嗎？ (Nurse: Did you come alone?) - Inquisitive tone. (2) 護士：等下有人來陪妳嗎？ (Nurse: Is anyone coming to stay with you later?) - Concerned tone. (3) 護士：自己開車來醫院啊？ (Nurse: You drove yourself to the hospital?) - Surprised tone. (4) 護士：手術後自己開車回家？ (Nurse: Driving home alone after surgery?) - Disbelieving and dramatic tone."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 4,
-      "averageSceneDuration": 1.75,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Progression of hospital admission -> sitting in room -> lying in surgery recovery bed."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Waist up"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main female actress playing a patient.",
-      "mainCharacterDescription": "A young woman with long dark hair, wearing a peach hospital gown and a pink cartoon bow headband filter."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Hospital Room"
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A hospital room ward with white walls, medical outlets, a hospital bed with rails, a tan chair, and a white medical equipment cabinet.",
+        "lightingStyle": [
+          "Bright indoor lighting"
         ],
-        "topography": [
-          "None"
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
         ]
       },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A hospital room featuring a clinical white wall, a medical bed with blue railings, a wooden side cabinet, and a chair. A large window is visible in some shots.",
-      "lightingStyle": "Bright, even indoor lighting typical of a medical facility.",
-      "weather": "Unknown",
-      "season": "Unknown",
-      "editingPace": "Fast",
-      "textOverlay": {
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Medium full shot",
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
         "density": "Medium",
-        "language": [
-          "Traditional Chinese"
+        "textLanguage": [
+          "Traditional Chinese",
+          "Emoji / Symbols"
         ],
-        "isSubtitled": false
+        "isSubtitled": true
       },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Fragmented",
-      "audioTransition": "Hard cuts synchronized with loud sound effects.",
-      "vocalRatio": "Low"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 0,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "None",
-        "pitch": "None",
-        "loudness": "None",
-        "speed": "None",
-        "speechDensity": "None",
-        "language": [
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
           "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": false,
-      "bgmGenre": "None",
-      "bgmBPM": 0,
-      "instrumentFamiliesAudible": [
-        "None"
-      ],
-      "instrumentsAudible": [
-        "None"
-      ],
-      "musicSourceType": [
-        "None"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Gunshot",
-        "Slamming"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Phonk/Brazilian Funk"
+        ],
+        "tempoBPM": 130,
+        "mode": [
+          "Minor / Aeolian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 5,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Impact / Hit SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 5,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Mixed"
+        ]
+      },
+      "audio_narrative_log": "(1) High-tempo, aggressive electronic music with a thick, distorted bassline and rhythmic cowbell accents begins immediately. There are no human vocals present, only a dense, driving instrumental track that sets a tense and energetic acoustic atmosphere from the start. (2) A sharp, loud transient sound effect resembling a gunshot or heavy impact triggers abruptly. This sound is characterized by a short spectral bandwidth and high intensity, momentarily cutting through the low-end frequencies of the background music before the rhythm continues. (3) Another sharp impact sound effect occurs, identical in timbre and volume to the first. The professional mix ensures this SFX stands prominently above the music track, creating a clear auditory focal point that suggests a sequence of sudden, percussive events. (4) A third explosive impact sound effect is heard, maintaining the rapid-fire pacing of the audio track. The ambient floor remains clean, suggesting a post-produced studio environment where the SFX and music are carefully layered for maximum dynamic impact on the listener. (5) A fourth gunshot SFX rings out, followed quickly by a fifth final impact. The background music maintains its high BPM and heavy bass texture until the very end of the recording, where both the music and the percussive effects cease abruptly."
     }
   },
-  "high_inference_interpretations": {
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Meme / Trend"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 5,
+      "averageSceneDuration": 1.4,
+      "editingPace": "Fast",
+      "isNarrativeShift": false
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Progression -> Climax",
-      "mainPurpose": "To use humor and drama to highlight the state of being 'extremely independent' or lonely while undergoing surgery. The visuals of the patient getting progressively more exhausted/weak are paired with text-based questions from a nurse that emphasize she has no one to help her.",
-      "visualEmotion": "Melancholy yet Humorous"
+      "narrativeStructure": "Montage: Question -> Physical Reaction",
+      "mainPurpose": "The video uses a popular meme format where a series of questions are presented as metaphorical 'gunshots' that wound the protagonist. A woman in a hospital gown reacts dramatically to questions from a 'nurse' about being alone at the hospital. The intent is to humorously highlight the struggle and perceived 'loneliness' of managing medical visits independently through exaggerated physical comedy and aggressive sound design.",
+      "visualEmotion": [
+        "Energetic",
+        "Humorous"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -160,9 +265,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Use of loud percussive SFX for scene transitions; cartoon bow filter on the main character.",
-      "freeDescribe": "The video relies heavily on text to carry the narrative as there is no audible speech. The timing of the SFX is crucial to the comedic/dramatic effect."
-    }
+    "freeDescribe": "The video relies heavily on rhythmic synchronization between high-impact sound effects and visual jump cuts to create comedic timing."
   }
 }

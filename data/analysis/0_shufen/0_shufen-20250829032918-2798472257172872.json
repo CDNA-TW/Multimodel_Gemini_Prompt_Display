@@ -1,155 +1,264 @@
 {
   "videoName": "0_shufen-20250829032918-2798472257172872.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 8,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Street Interview"
-      ],
+      "videoDuration": 8.7,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A young woman with long black hair, wearing a black mask, a low-cut beige top, a black zip-up hoodie, and a short black pleated skirt, stands in the center of an urban plaza at night. She looks slightly away from the camera. The background features tall office buildings with glowing windows and streetlights. Several passers-by are visible in the distance. (2) The camera zooms in closer to the woman's face and torso. She adjusts the hem of her black hoodie with both hands while looking directly toward the camera lens. Her eyes are wide and expressive. The lighting is dominated by bright artificial city lights and neon signs from the surrounding architecture. (3) A close-up shot focuses on the woman's face. She glances to her right and then shifts her gaze back to the camera. The background bokeh shows colorful city lights and street lamps. The scene ends with her remaining stationary in the busy square.",
+      "text_narrative_log": "(1) [Variety]: 哈肉. (2) [Subtitle]: 妳是台灣人嗎?. (3) [Subtitle]: 是啊 幹嘛?. [Variety]: 幹嘛?. [Variety]: ?. [Variety]: ?. [Variety]: ?. (4) [Subtitle]: 現在我很傷心 妳可以用 台語 安慰我一下嗎?. (5) [Subtitle]: 拑你娘衝三小. [Variety]: 開心點❤️.",
+      "visual_human_presence": {
+        "totalHumanCount": 7,
+        "maleDetectAmount": 3,
+        "femaleDetectAmount": 4,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main female character in focus, approximately 6 other pedestrians walking in the background plaza.",
+        "mainCharacterDescription": "A young Asian woman with long straight black hair, wearing a black protective mask, a tan low-cut top, a black open hoodie, and a black pleated mini-skirt."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Urban Plaza / Square"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A modern urban square at night with large commercial buildings, street lamps, and scattered pedestrians in the background.",
+        "lightingStyle": [
+          "Night artificial light"
+        ],
+        "weather": [
+          "Night clear"
+        ],
+        "season": [
+          "Autumn / Winter"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Zoom in"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Medium close-up",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Zoom in"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 1,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Comedic/Exaggerated"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 6,
+        "valence": 7,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 124,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 2,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Mixed"
+        ]
+      },
+      "audio_narrative_log": "(1) A male voice speaks in Mandarin with a clear, inquisitive tone, asking if the person is Taiwanese. A high-tempo electronic pop BGM with a steady 4/4 beat and bright synth textures plays in the background. (2) A female voice responds briefly in Mandarin with a neutral, slightly confused rising intonation, asking 'Why?'. The music continues without interruption. (3) The male voice continues, explaining in a conversational tone that he is sad and requesting comfort in the Taiwanese dialect. The background music maintains its energetic, positive vibe. (4) The female voice suddenly delivers a sharp, loud Hokkien swear phrase as a punchline. Her tone is forceful and comedic rather than genuinely aggressive. The music loops as the interaction concludes."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Meme / Trend",
+        "Short Video"
+      ],
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "Unknown"
+          "Taipei"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman with long dark hair, wearing a black mask and a revealing beige top under a black jacket, stands on a city sidewalk at night with buildings in the background. (2) She looks slightly away then back at the camera as if listening to someone off-camera, maintaining a questioning facial expression. (3) She leans closer to the camera and speaks, ending with a slight head tilt and a zoom-in effect on her face.",
-      "audio_narrative_log": "(1) A male voice speaks in Mandarin with a friendly tone, asking the woman if she is Taiwanese, accompanied by muffled city ambient noise. (2) The woman responds in Mandarin with a curious, slightly defensive tone. (3) The male voice explains he is sad and asks for comfort in the Taiwanese Hokkien dialect. (4) The woman speaks a short phrase in Hokkien followed by a playful slang remark as an upbeat, rhythmic electronic BGM starts abruptly to emphasize the punchline.",
-      "text_narrative_log": "(1) \"哈肉\" (Halo) - Greeting hook. (2) \"妳是台灣人嗎？\" (Are you Taiwanese?) - Functional question. (3) \"是啊 幹嘛？\" (Yes, why?) - Functional response. (4) \"現在我很傷心... 妳可以用 台語 安慰我一下嗎？\" (I'm sad... can you comfort me in Taiwanese?) - Functional setup. (5) \"開心點❤️\" (Be happy) - Decorative/Emotional text. (6) \"暔泥泥你要充三小\" (What on earth are you doing?) - Functional/Humorous slang."
     },
     "temporal_pacing_summary": {
       "sceneCutCount": 4,
-      "averageSceneDuration": 2.0,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Greeting -> Interaction -> Humorous Payoff"
+      "averageSceneDuration": 2.17,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
     },
-    "visual_human_presence": {
-      "totalHumanCount": 4,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 3,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Upper body",
-        "Full body"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 main female creator; 3 passers-by visible in the background street scene.",
-      "mainCharacterDescription": "A young woman with long black hair, wearing a black face mask, a low-cut beige top, and a black skirt/jacket ensemble."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Outdoor Street"
-        ],
-        "topography": [
-          "Plain"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A city street or square at night featuring modern office buildings and street lights.",
-      "lightingStyle": "Night street lighting with soft glow.",
-      "weather": "Clear",
-      "season": "Summer",
-      "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Cinematic",
-      "cameraWork": [
-        "Static",
-        "Digital Zoom"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Fragmented",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Playful and humorous",
-        "pitch": "Normal",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin",
-          "Taiwanese Hokkien"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Traffic"
-      ],
-      "audioQuality": "Field Recording"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Evidence -> Payoff",
-      "mainPurpose": "To entertain viewers through a scripted 'random' street encounter that ends in a humorous linguistic punchline involving a switch from Mandarin to a blunt Taiwanese Hokkien phrase.",
-      "visualEmotion": "Humorous"
+      "narrativeStructure": "Linear: Hook -> Setup -> Twist/Punchline",
+      "mainPurpose": "To entertain the audience through a humorous subversion of expectations. A man asks an attractive woman for comfort, and instead of a gentle response, she provides a blunt, stereotypical Taiwanese swear phrase, playing on cultural tropes.",
+      "visualEmotion": [
+        "humorous",
+        "energetic",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -161,9 +270,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Street interview style with humorous dialect usage.",
-      "freeDescribe": "The video leverages local cultural nuances (Taiwanese dialect) and visual appeal of the main character to generate engagement."
-    }
+    "freeDescribe": "The video uses a popular short-form interaction format where an off-screen interviewer engages a passer-by. The humor relies on the contrast between the woman's attractive appearance and her blunt verbal response."
   }
 }

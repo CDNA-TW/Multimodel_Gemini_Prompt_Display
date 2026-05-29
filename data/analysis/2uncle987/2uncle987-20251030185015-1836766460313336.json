@@ -1,172 +1,286 @@
 {
   "videoName": "2uncle987-20251030185015-1836766460313336.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 22,
-      "aspectRatio": "9:16",
+      "videoDuration": 22.3,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The scene begins with a side profile of a woman with dark hair styled in a braid, wearing a black and white striped polo shirt and beige overalls. She is in a brightly lit indoor environment, likely an arcade or toy store, with colorful shelves and arcade machines visible in the background. (2) The woman turns her head toward the camera, speaking with a smile. She is standing in a narrow aisle with various gaming cabinets featuring bright graphical displays behind her. (3) A cut reveals a young boy wearing glasses and a black baseball cap, focused on an arcade machine. The screen displays vibrant anime characters, specifically from Dragon Ball. (4) The camera returns to the woman, who continues to speak while gesturing with her hands. Her expression is warm and engaged as she looks slightly off-camera. (5) A montage of the children playing follows; two boys in matching striped shirts are seen interacting with large touch screens and physical buttons on 'Dragon Ball Super Divers' gaming cabinets. The lighting is consistently bright and artificial, characteristic of a commercial gaming center.",
+      "text_narrative_log": "(1) [Subtitle]: 跑來日本打? [Variety]: 浪費時間? [Subtitle]: 台灣就可以打投合!. (2) [Subtitle]: 帶他們來玩. (3) [Subtitle]: 就是讓他們開心的就好. (4) [Subtitle]: 因為有時候你帶他去哪裡. (5) [Subtitle]: 逛街什麼他又不懂. (6) [Subtitle]: 既然這一趟旅程. (7) [Subtitle]: 是帶他們來玩. (8) [Subtitle]: 那就... [Variety]: 玩他們喜歡的. (9) [Logo]: @2uncle987",
+      "visual_human_presence": {
+        "totalHumanCount": 4,
+        "maleDetectAmount": 3,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 2,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Head and shoulders",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main female creator, 2 young boys playing games, 1 male passer-by in the background.",
+        "mainCharacterDescription": "A woman with dark hair in a single braid, wearing a black-and-white horizontal striped shirt under beige overalls."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Entertainment Venue",
+          "Retail Store"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The background consists of a bustling Japanese arcade, featuring rows of 'Dragon Ball Super Divers' gaming cabinets with large vertical screens, bright neon signage, and shelves filled with collectible cards or toy products.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright",
+          "Warm and vibrant"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Panning"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Medium full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Montage"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Game console / controller",
+          "TV / display screen",
+          "Lighting equipment / ring light"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Dragon Ball",
+          "Bandai Namco"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 0,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Casual",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Level",
+          "Rising"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 6,
+        "valence": 7,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM",
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Chatter",
+          "Crowd Murmur"
+        ],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": [
+          "Commercial/Recreational",
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "Mechanical Click / Latch",
+          "Metal  Bump "
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Digital UI SFX",
+          "Pop / Bubble SFX",
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 2,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) A friendly, energetic female voice speaking Mandarin begins. The speech is clear and articulate with a moderate rate. Behind her, an upbeat electronic dance-style BGM with a strong, synthesized 4/4 beat plays at a lower volume. (2) A sharp digital 'ding' sound effect triggers as a text overlay appears visually. The woman's voice continues with rising intonation, sounding explanatory and warm. (3) Faint background chatter and high-frequency digital game sounds (beeps, menu navigation tones) become audible as the kids interact with machines. The BGM remains steady and high-arousal. (4) The woman's vocal delivery remains consistent, though the ambient noise level of the arcade (distant electronic melodies from other games) increases slightly. (5) The phase concludes with the BGM swelling briefly, characterized by bright synthesizer textures and a constant percussive drive, while the main speaker concludes her thought with a positive, lighthearted tone."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
         "Vlog",
-        "Family",
-        "Travel"
+        "Family / Kids",
+        "Lifestyle"
       ],
-      "withRealPeople": true,
       "location": {
         "country": [
           "Japan"
         ],
         "city": [
-          "None"
+          "Unknown"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video opens with a side-profile shot of a woman in a black and white striped shirt and beige overalls talking and smiling in a brightly lit indoor arcade. (2) The scene cuts to a young boy in a black cap and matching striped shirt focused on playing a 'Dragon Ball Super Divers' arcade machine, pressing buttons and interacting with cards. (3) The camera alternates between the woman speaking to the camera and the kids enthusiastically playing games, showing other children and a man in the background within the dense, machine-filled arcade environment.",
-      "audio_narrative_log": "(1) A female voice speaks in Mandarin with a cheerful and explanatory tone, accompanied by fast-paced, electronic background music typical of a gaming center. (2) The soundscape is filled with the high-pitched bleeps, button-mashing sounds, and mechanical noises of arcade machines. (3) Ambient chatter and the overlapping sounds of multiple games create a busy, immersive field recording atmosphere.",
-      "text_narrative_log": "(1) Hook text in large yellow and red font appears: '跑來日本打?' (Came to Japan to play?), '台灣就可以打機台!' (You can play machines in Taiwan!), and '浪費時間?' (Wasting time?). (2) Functional subtitles in white with yellow outlines provide the dialogue: '帶他們來玩 就是讓他們開心的就好' (Bringing them here to play is just to make them happy). (3) The branding 'Dragon Ball Super Divers' is visible on the top of the gaming machines."
     },
     "temporal_pacing_summary": {
-      "sceneCutCount": 7,
-      "averageSceneDuration": 3.1,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro Hook -> Philosophical Explanation -> Child Gameplay Demo"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 4,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 2,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Side profile"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 female main creator, 2 young boys playing games, and 1 man seen in the background.",
-      "mainCharacterDescription": "A woman with dark hair tied back, wearing a black and white horizontal striped t-shirt and beige overalls."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Arcade"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A crowded Japanese arcade filled with colorful gaming machines, card game stations, and bright fluorescent lighting.",
-      "lightingStyle": "Bright studio-like indoor lighting",
-      "weather": "Indoor",
-      "season": "Unknown",
+      "sceneCutCount": 6,
+      "averageSceneDuration": 3.7,
       "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "High Saturation",
-      "cameraWork": [
-        "Static",
-        "Follow shot"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Arcade machine",
-        "Gaming cards"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Dragon Ball Super Divers"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 1,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Steady and friendly",
-        "pitch": "Medium-high",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "Arcade SFX",
-        "Button clicking"
-      ],
-      "ambientNoise": [
-        "Arcade ambience"
-      ],
-      "audioQuality": "Field"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Question -> Justification -> Illustration",
-      "mainPurpose": "The video is a personal travel reflection where the creator justifies allowing her children to play arcade games during a trip to Japan, despite the activity being available at home. It aims to promote a parenting philosophy that prioritizes the children's immediate happiness and interests over strict adherence to traditional sightseeing during family vacations.",
-      "visualEmotion": "Energetic and Joyful"
+      "narrativeStructure": "Linear: Hook -> Explanation -> Observation",
+      "mainPurpose": "The video captures a family travel moment where the mother explains her perspective on vacationing with children. While some might question the logic of traveling to Japan just to play arcade games that are available elsewhere, she argues that the primary goal is the children's happiness. She emphasizes that kids often find adult-oriented activities like shopping boring, so she chooses to prioritize their interests to ensure they have a memorable and joyful trip.",
+      "visualEmotion": [
+        "warm",
+        "energetic",
+        "informative"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
       "endorsementMethod": [
         "None"
       ],
-      "endorsementCues": "The branding is part of the environment rather than a paid promotion.",
+      "endorsementCues": "None",
       "endorsementObject": [
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Relatable parenting vlog style with direct camera address.",
-      "freeDescribe": "The use of provocative hooks like 'Wasting time?' effectively engages viewers who might have similar parenting debates."
-    }
+    "freeDescribe": "The video combines a personal parenting vlog style with high-energy gaming visuals, effectively using colorful subtitles to guide the narrative."
   }
 }

@@ -1,184 +1,293 @@
 {
   "videoName": "yga0721-20251115010349-3916688691794742.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 65,
-      "aspectRatio": "9:16",
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The video begins with a close-up shot of a young man with glasses and a woman in a black shirt looking at a lanyard. They are outdoors with a blurred street background. (2) A sharp cut moves to an indoor setting where a young woman (Taco) wearing a white t-shirt with a croissant logo stands near a large industrial refrigerator filled with bright pink dragon fruit. (3) The camera focuses on an older woman in a red polo shirt who holds up a large, round green apple-shaped gourd, gesturing emphatically as she speaks. (4) The scene shifts back outdoors to a residential street where Taco and another woman are seen distributing blue bags of groceries to an elderly woman near a green delivery truck. (5) In a final sequence, Taco interacts closely with a very elderly woman sitting on a porch; Taco uses high-energy facial expressions and hand gestures, touching her own face in mock shock as they laugh together. (6) The video ends with Taco looking at the camera with a puzzled expression as the elderly woman looks away, concluding with a freeze-frame effect.",
+      "text_narrative_log": "(1) [Subtitle]: 怎樣怎樣. [Variety]: 上班談戀愛啦. (2) [Subtitle]: 但我喜歡這個情侶. [Variety]: 勝過另外一對 (?). (3) [Variety]: !!!!. [Subtitle]: 欸......?. (4) [Subtitle]: Taco你家不是有在賣那個. [Subtitle]: 絲瓜義大利麵. [Variety]: 直接跟食物銀行批貨??. (5) [Subtitle]: 這個這個. [Subtitle]: 是蘋果絲瓜哦. [Variety]: 我不會賣給你哦!!. (6) [Subtitle]: 所以沒有賣的. [Variety]: 不可以隨便賣. [Subtitle]: 我們的志工也不可以吃哦. (7) [Subtitle]: 成立以來都會秉持一個原則. [Subtitle]: 捐贈者的東西. [Variety]: 一概不能吃. (8) [Subtitle]: 葛格還有什麼需要的. [Variety]: (葛格本人). (9) [Subtitle]: 鹽有需要嗎. [Subtitle]: 衛生紙有無. (10) [Subtitle]: 要洗髮精. [Variety]: 洗髮精. (11) [Subtitle]: 這個很可愛啦. [Variety]: 古錐TACO啦. [Subtitle]: 你也很可愛 <3. (12) [Subtitle]: 我最喜歡這個. [Variety]: !!!!!. [Subtitle]: 阿嬤留在這邊. (13) [Subtitle]: 我跟竹竿一樣. [Subtitle]: 我很古錐. (14) [Subtitle]: 菜要先幫你冰起來嗎. [Variety]: ???.",
+      "visual_human_presence": {
+        "totalHumanCount": 8,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 6,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Head and shoulders",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main female creator (Taco), 1 older female staff member, 1 elderly female beneficiary, 1 male cameraman/intro person, and several female volunteers/passers-by.",
+        "mainCharacterDescription": "Taco is a young woman with a ponytail wearing a white t-shirt with a 'Croissant du matin' logo and khaki pants. The older staff member wears a red polo shirt and glasses."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Kitchen",
+          "Retail Store",
+          "Outdoor Street",
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The indoor scenes feature a large 'Food Bank' branded refrigerator filled with fruits (dragon fruit, gourds) and shelves with packaged goods. Outdoor scenes show a quiet residential street with traditional Taiwanese-style houses and a green supply truck.",
+        "lightingStyle": [
+          "Bright indoor lighting",
+          "Natural daylight"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Summer"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Panning"
+        ],
+        "shotSize": [
+          "Medium close-up",
+          "Close-up",
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Freeze frame"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Fruit",
+          "Vegetables",
+          "Instant / packaged food",
+          "Prepared meal / plated dish"
+        ],
+        "trafficDetect": [
+          "Truck",
+          "Scooter / motorcycle"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "員林食物銀行"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 3,
+        "total_distinct_voices": 5,
+        "male_vocal_count": 1,
+        "female_vocal_count": 4,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese",
+          "Other"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter",
+          "Chatter"
+        ],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone",
+          "Urban/Traffic"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Plastic / Bag Rustle",
+          "Mechanical Click / Latch"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Pop / Bubble SFX",
+          "Cartoon / Comedy SFX",
+          "Meme SFX",
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": true,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) Fast-paced electronic pop BGM starts immediately. A young man's voice and a woman's voice engage in rapid, laughing dialogue outdoors. (2) A sharp transition to an indoor environment; the BGM continues as a woman in a red shirt explains the food bank's strict rules with a clear, rhythmic delivery. (3) A distinct 'pop' sound effect occurs as a variety text graphic appears. (4) The audio shifts to an outdoor setting with audible rustling of plastic bags as groceries are handed out; the main female speaker (Taco) talks to an elderly woman in a high-pitched, caring tone. (5) Frequent cartoon-style 'boing' and 'ding' SFX punctuate the comedic interaction between Taco and the elderly woman as they laugh together. (6) The video ends with a brief strategic silence followed by a final musical chord, emphasizing the confused look on the host's face."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
         "Vlog",
-        "Variety Show",
-        "Charity"
+        "Promotion / Advertisement / Indoresment",
+        "Personal Talk"
       ],
-      "withRealPeople": true,
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "Unknown"
+          "Yuanlin"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video begins with two young adults outdoors, a man with glasses and a woman with dark hair, looking at rings on their fingers and laughing together. (2) It then shifts to an indoor scene where a young woman in a white t-shirt stands by a refrigerator filled with dragon fruits and vegetables, talking to an older woman in a red shirt who is holding a green sponge gourd. (3) The scene transitions back outdoors to a market-like setting where the same young woman and others are helping an elderly lady in a blue shirt with her bags of groceries. (4) The young woman reacts with big smiles and gestures as she talks with the elderly woman. (5) The video ends with a series of quick reactions from the young woman, showing surprise and laughter during their conversation.",
-      "audio_narrative_log": "(1) Upbeat, high-energy music with a rhythmic beat plays as young people speak excitedly and laugh. (2) The music continues as the dialogue shifts to a conversation between a young woman and an older woman; the younger woman asks questions in a curious tone, while the older woman responds firmly. (3) Background street noise and market sounds are heard as the group interacts with an elderly woman. (4) Distinct sound effects like a surprise 'ting' and cartoonish laughter are added for emphasis. (5) The video concludes with a humorous 'cricket' sound effect during a moment of comedic silence.",
-      "text_narrative_log": "(1) Functional Text: '怎樣怎樣' (How about it), '上班談戀愛啦' (Dating at work). (2) Decorative Text: '但我喜歡這個情侶' (But I like this couple) with a heart emoji. (3) Functional Text: 'Taco你家不是有在賣那個...絲瓜義大利麵' (Taco, doesn't your family sell that... sponge gourd pasta?). (4) Hook Text: '直接跟食物銀行批貨??' (Directly stocking from the food bank??). (5) Functional Text: '是蘋果絲瓜哦' (It's an apple sponge gourd), '我不會賣給你哦' (I won't sell it to you). (6) Decorative Text: '古錐TACO啦' (Cute Taco)."
     },
     "temporal_pacing_summary": {
-      "sceneCutCount": 14,
-      "averageSceneDuration": 4.6,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Playful intro -> Interactive shop segment -> Community outreach/Charity helping an elderly resident."
+      "sceneCutCount": 18,
+      "averageSceneDuration": 3.6,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
     },
-    "visual_human_presence": {
-      "totalHumanCount": 8,
-      "maleDetectAmount": 2,
-      "femaleDetectAmount": 6,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Waist up"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 male creator, 1 female main creator (Taco), 2 older staff/volunteers, 1 elderly resident, 3 background passers-by.",
-      "mainCharacterDescription": "A young woman wearing a white graphic t-shirt with 'Croissant du matin' text and green trousers; a young man with black glasses and a black graphic t-shirt."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Shop",
-          "Outdoor Street",
-          "Community Center"
-        ],
-        "topography": [
-          "Plain"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "An indoor space with commercial refrigerators containing dragon fruit and leafy greens; a typical Taiwanese street with scooter traffic and shop signs in the background.",
-      "lightingStyle": "Natural daylight and standard indoor fluorescent lighting.",
-      "weather": "Sunny",
-      "season": "Summer",
-      "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "Medium",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural and Bright",
-      "cameraWork": [
-        "Follow shot",
-        "Static",
-        "Handheld"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Dragon Fruit",
-        "Sponge Gourd",
-        "Cabbage",
-        "Groceries"
-      ],
-      "trafficDetect": [
-        "Scooter"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "haha baby"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut with cross-faded music",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 4,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 2,
-        "vocal_demographics": {
-          "male_vocal_count": 2,
-          "female_vocal_count": 3,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Energetic, playful, and heartwarming",
-        "pitch": "Medium-high",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin",
-          "Taiwanese Hokkien"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Variety",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "Surprise SFX",
-        "Meme laughter",
-        "Cricket sound"
-      ],
-      "ambientNoise": [
-        "Street noise",
-        "Wind",
-        "Distant chatter"
-      ],
-      "audioQuality": "Field"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Interaction -> Interaction -> Emotional Beat",
-      "mainPurpose": "The video is a lifestyle vlog segment designed to showcase the creators' involvement in community charity and food bank activities. It uses humor and lighthearted interactions to make social work feel accessible and engaging to a younger audience, while also subtly promoting the 'haha baby' brand through apparel and the host's persona.",
-      "visualEmotion": "Energetic and Heartwarming"
+      "narrativeStructure": "Montage: Hook -> Exposition -> Action -> Comedic Resolution",
+      "mainPurpose": "To promote the philanthropic work of the Yuanlin Food Bank while humanizing the experience through humorous and heartwarming interactions between the host and the community members.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
-        "Explicit",
+        "Implicit",
         "Integrated"
       ],
-      "endorsementCues": "Main character wearing 'haha baby' branded clothing and verbal references to family businesses.",
+      "endorsementCues": "The video explicitly names and shows the 'Yuanlin Food Bank' and focuses on its internal policies and external charitable activities.",
       "endorsementObject": [
-        "haha baby"
+        "員林食物銀行"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Use of specific variety show editing style, including 'popping' text and reaction sound effects typical of Taiwanese influencers.",
-      "freeDescribe": "The blending of charitable acts with entertainment-style editing is a hallmark of this creator's content strategy, aimed at building a 'kind-hearted yet funny' public image."
-    }
+    "freeDescribe": "The video uses typical social media editing tropes (variety show text, sound effects) to make a serious topic (food charity) engaging and lighthearted."
   }
 }

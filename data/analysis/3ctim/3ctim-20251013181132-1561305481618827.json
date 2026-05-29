@@ -1,175 +1,270 @@
 {
   "videoName": "3ctim-20251013181132-1561305481618827.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 44,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Commentary",
-        "News"
-      ],
+      "videoDuration": 43,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "Taiwan"
+      "visual_narrative_log": "(1) The video begins with a medium shot of a middle-aged male with glasses, a patterned newsboy cap, and a bright yellow t-shirt. He is positioned centrally against a blurred indoor studio background with warm lighting. A white stylized border surrounds him, and social media handles are visible in the top left. He speaks directly to the camera with active facial expressions, emphasizing points with slight hand gestures. (2) As the subject discusses security breaches, a large red triangle warning icon appears over the center of the frame. The camera remains static, but visual interest is maintained through the addition of a 'Coinbase' brand logo at the bottom. The lighting remains bright and consistent, focusing on the character's face. (3) The scene continues with the character explaining a series of events. To his left, small cartoon-style illustrations appear sequentially: a person using a laptop, a young girl with sweat beads indicating distress, and a stack of gold coins. These graphics are used to illustrate the narrative of hacking and digital assets. (4) The visual focus shifts as a graphic of a blood-stained wrench appears, followed by a depiction of a kidnapping scene (a man pushing a person into a black van). The character's expression becomes more serious, matching the gravity of the physical attack description. Yellow subtitles are constant at the bottom of the screen. (5) In the final segment, a red upward-trending arrow icon appears to illustrate rising prices and risks. The video concludes with the man offering a final piece of advice, his hands gesturing lower towards the screen as the background music fades and the graphics disappear, leaving just the speaker and his social media handle overlays.",
+      "text_narrative_log": "(1) [Logo]: f 3c有意思tim哥. [Logo]: @3ctim. [Subtitle]: 加密貨幣交易所自爆. (2) [Subtitle]: 個資外洩. (3) [Subtitle]: 這類攻擊層出不窮. (4) [Subtitle]: 加密貨幣交易所Coinbase坦承. (5) [Subtitle]: 近10萬個用戶個資被盜. (6) [Subtitle]: 就在同月，巴黎街頭有一名加密貨幣交易所老闆的女兒. (7) [Subtitle]: 差點被綁. (8) [Subtitle]: 歹徒的目標就是鎖定她父親的數位資產. (9) [Subtitle]: 而這類的襲擊事件通常叫做「扳手攻擊」 wrench attacks. (10) [Subtitle]: 不靠精密手法駭入受害者的帳戶. (11) [Subtitle]: 直接用簡單工具去脅迫受害者. (12) [Subtitle]: 近幾個月來，其實在法國也發生了至少五起跟加密貨幣有關的綁架案. (13) [Subtitle]: 並且全球各地有紀錄的案件已經多達數十起. (14) [Subtitle]: 所以專家警告說，隨著幣價一直往上飆漲. (15) [Subtitle]: 風險也跟著上升. (16) [Subtitle]: 網絡上炫耀代價就是可能會招來現實世界的威脅. (17) [Subtitle]: 還是要低調一點.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only"
         ],
-        "city": [
-          "Unknown"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A man with glasses, a brown flat cap, and a yellow t-shirt is speaking directly to the camera in a room. (2) Graphics of a warning sign and the Coinbase logo appear as he gestures with his hands. (3) Cartoon illustrations of a girl, a car, and a wrench appear to visualize a kidnapping scenario. (4) A red arrow and a price chart appear to show a rising trend. (5) The speaker leans in slightly towards the end for a final advice statement.",
-      "audio_narrative_log": "(1) A male voice speaks energetically in Mandarin with a clear, professional tone. Upbeat, rhythmic electronic background music starts immediately. (2) Sound effects like 'pops' and 'whooshes' are heard as graphics flash on the screen. (3) The speaker's voice maintains a consistent volume and pace throughout, with the music looping in the background until the end.",
-      "text_narrative_log": "(1) Functional Text: Traditional Chinese subtitles at the bottom translating the narration. (2) Decorative Text: '3c有意思tim哥' and social media handles in the top-left corner. (3) Hook Text: '加密貨幣交易所自爆' (Crypto exchange self-detonation), 'wrench attacks', and '風險也跟著上升' (Risk increases accordingly) appear in bold styles."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 1,
-      "averageSceneDuration": 44.0,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Talking head with continuous graphical overlays and transitions."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Head and shoulders",
-        "Hands"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main creator visible in the frame.",
-      "mainCharacterDescription": "Male with glasses, a brown patterned flat cap, and a yellow t-shirt with 'ROOTS' text."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Studio"
+        "crowdLevel": [
+          "Single"
         ],
-        "topography": [
+        "countingEvidence": "1 main male creator presenting the content.",
+        "mainCharacterDescription": "A middle-aged man wearing glasses, a brown and grey patterned newsboy cap, and a bright yellow Roots t-shirt. He wears a beaded bracelet on his right wrist."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio"
+        ],
+        "locationTopography": [
           "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A clean, slightly out-of-focus indoor room with soft, warm furniture tones and a neutral wall, suggesting a home studio setup.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Warm and vibrant"
         ]
       },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A blurred indoor room with light-colored walls and curtains in the background.",
-      "lightingStyle": "Soft studio lighting",
-      "weather": "Indoor",
-      "season": "Unknown",
-      "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Graphic transition",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
           "Traditional Chinese",
           "English"
         ],
         "isSubtitled": true
       },
-      "colorTone": "Vibrant",
-      "cameraWork": [
-        "Static"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Coinbase",
-        "Roots",
-        "Facebook",
-        "Instagram"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "None",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Energetic and professional",
-        "pitch": "Normal",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Coinbase",
+          "Roots"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat/Electronic",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Pop",
-        "Whoosh"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 5,
+        "valence": 5,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 105,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Pop / Bubble SFX",
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 2,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 2,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a single male voice speaking in a clear, narrative tone with a steady, moderate tempo. The voice is recorded in a studio environment with high clarity and no background noise. A light, upbeat electronic background track with a steady drum beat provides a rhythmic foundation. (2) A subtle 'pop' sound effect occurs, synchronized with the appearance of on-screen graphics. The music continues at a consistent volume, sitting just below the primary vocal track. The speaker's pitch is stable, reflecting a professional information-sharing style. (3) As the subject matter shifts to 'wrench attacks,' the speaker's tone becomes slightly more measured and grave. The BGM maintains its tempo, but the vocal delivery emphasizes specific terms with subtle changes in intensity. Occasional 'ding' or UI sound effects punctuate the explanation of technical terms. (4) The track concludes with the speaker providing a cautionary summary. The vocal arousal remains neutral but authoritative. The background music maintains its loop until the final few seconds, where it undergoes a short fade-out as the speaker finishes his last sentence."
     }
   },
-  "high_inference_interpretations": {
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Tech News / Commentary"
+      ],
+      "location": {
+        "country": [
+          "None"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 12,
+      "averageSceneDuration": 3.5,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Evidence/Case Study -> Analysis -> Conclusion/Warning",
-      "mainPurpose": "To educate and warn cryptocurrency holders about physical security risks known as 'wrench attacks' where criminals target individuals for their digital assets.",
-      "visualEmotion": "Energetic and Informative"
+      "narrativeStructure": "Linear: Hook -> Case Study -> Methodology Explanation -> Warning/Conclusion",
+      "mainPurpose": "The video aims to inform viewers about a security threat in the cryptocurrency world known as 'wrench attacks.' By citing the Coinbase data breach and a kidnapping incident in Paris, it warns crypto holders about the physical risks of flaunting wealth online, ultimately advocating for a low-profile lifestyle.",
+      "visualEmotion": [
+        "informative",
+        "serious",
+        "cautionary"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
       "endorsementMethod": [
         "None"
       ],
-      "endorsementCues": "Educational content focusing on security news rather than promoting a product.",
+      "endorsementCues": "None",
       "endorsementObject": [
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Signature yellow t-shirt and flat cap style of influencer Tim哥.",
-      "freeDescribe": "Typical high-pace tech commentary format common in Taiwan's social media landscape."
-    }
+    "freeDescribe": "The video uses a classic 'talking head' influencer format combined with social-media-style editing (large subtitles and pop-up graphics) to deliver safety warnings. The tone is instructional rather than commercial."
   }
 }

@@ -1,181 +1,282 @@
 {
   "videoName": "2uncle987-20251119024055-1420079536484872.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 28,
-      "aspectRatio": "9:16",
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A hand with dark nail polish slowly moves a finger away to reveal a small circular convex mirror reflecting three young women. They are in a brightly lit airport terminal with travelers in the background. The central woman holds a phone, and they all smile broadly and wave at the camera reflection. (2) The scene cuts rapidly as the mirror reflects different moments of a trip. We see the group on a subway platform with sliding doors, then sitting inside a train car with large suitcases. They pose in front of a yellow Kodak photo booth, then enjoy a meal at a Korean BBQ restaurant where grilled eel is visible. (3) The montage continues with the mirror showing a wall densely covered in small photographs. A man in a beige uniform joins the group for a selfie. Finally, the mirror reflects the group at a crowded night market with food stalls and then back at an airport hall, waving energetically to conclude the video.",
+      "text_narrative_log": "(1) [Variety]: KOREA. [Slogan]: POV:把凸透鏡帶出門會拍到... (2) [Logo]: @2uncle987.",
+      "visual_human_presence": {
+        "totalHumanCount": 12,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 10,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 4,
+        "bodyPartVisibility": [
+          "Face close-up",
+          "Upper body",
+          "Full body",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "4 main female friends traveling together, 1 male friend in a photo studio, and several passersby in airport and market settings.",
+        "mainCharacterDescription": "Young Asian women dressed in stylish, casual travel attire including puffer jackets, berets, sweaters, and jeans."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Airport",
+          "Public Transport Interior",
+          "Restaurant / Dining",
+          "Market / Night Market",
+          "Exhibition / Museum / Gallery"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A fast-paced montage of Korean locations: an airport terminal arrival area, a subway station platform and train interior, a bright yellow Kodak photo stall, a traditional BBQ restaurant with a charcoal grill, a studio wall filled with photos, and a bustling night market food street.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Autumn / Winter"
+        ],
+        "colorTone": [
+          "Warm and vibrant"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Walking handheld"
+        ],
+        "shotSize": [
+          "Close-up",
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "POV / first-person view",
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Fast cuts",
+          "Montage",
+          "Graphic transition"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Compilation / montage sequence"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "English",
+          "Traditional Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Meat / beef / pork / chicken",
+          "Seafood / fish / shrimp",
+          "Noodles / ramen / pasta"
+        ],
+        "trafficDetect": [
+          "Train / metro / HSR",
+          "Airplane"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Kodak"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 4,
+        "male_vocal_count": 0,
+        "female_vocal_count": 4,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 9,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 120,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 0,
+        "female_singer_count": 1,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "Korean"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Synthesizer",
+          "Percussion",
+          "Electronic"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter",
+          "Screaming/Yelling"
+        ],
+        "crowdNoiseIntensity": 3,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Pop / Bubble SFX",
+          "Whoosh / Transition SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 5,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) High-energy K-Pop music begins immediately with a female singer performing over a fast-tempo electronic beat. The track features bright synthesizer melodies and a punchy drum rhythm. Underneath the music, several distinct female voices are heard laughing and let out high-pitched celebratory cheers like 'Woo!'. (2) The electronic pop track maintains a consistent 120 BPM tempo. There are no spoken words, only non-lexical vocalizations of excitement. The acoustic environment is studio-clean music, though faint layers of crowd chatter and subway station ambience are occasionally detectable during transition points in the mix. (3) The music continues its upbeat loop as the video progresses. Small, sharp percussion hits sync with the fast visual cuts. The dominant female vocal in the BGM provides a melodic structure while the girls' real-time laughter adds a layer of spontaneous joy and high-arousal energy to the audio track."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
         "Vlog",
         "Travel"
       ],
-      "withRealPeople": true,
       "location": {
         "country": [
           "South Korea"
         ],
         "city": [
-          "Seoul"
+          "None"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video begins with a textured grey background and the word 'KOREA' in a stylized font. A hand places a small round convex mirror onto the surface, which reflects three young women at an airport terminal. (2) A series of quick cuts shows the mirror being held in different locations: inside a subway train where the women pose with luggage, inside a Kodak-branded shop surrounded by cameras, and at a Korean BBQ restaurant where they are eating. (3) The mirror is then held up in front of a wall covered in photo booth strips where a young man joins them. (4) The sequence continues at an outdoor night market with food stalls in the background. The video ends with the women waving at the camera in a brightly lit station or mall corridor, transitioning from the mirror reflection back to a direct shot.",
-      "audio_narrative_log": "(1) The audio consists of a high-energy K-pop song with a driving electronic beat and female vocals singing in a mix of Korean and English. (2) The music remains at a consistent, high volume throughout the entire video. (3) No ambient environmental sounds, speech from the people in the video, or sound effects are detected; the studio-recorded music track completely masks any other potential audio.",
-      "text_narrative_log": "(1) Decorative Text: 'KOREA' and 'REC' camera UI elements appear at the very beginning to set a travel theme. (2) Hook Text: 'POV: 把凸透鏡帶出門會得到...' (POV: What you get when you take a convex mirror out...) is displayed at the top of the screen throughout the montage. (3) Functional Text: Various Korean signs, posters, and 'Kodak' branding are visible in the background of the different locations."
     },
     "temporal_pacing_summary": {
-      "sceneCutCount": 10,
-      "averageSceneDuration": 2.8,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Intro -> Location Montage -> Outro"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 4,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 3,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 3,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Upper body"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "3 main female friends are seen throughout; 1 male friend appears in the photo booth scene.",
-      "mainCharacterDescription": "Three young Asian women wearing casual travel attire including sweaters, beanies, and coats."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Airport",
-          "Subway",
-          "Restaurant",
-          "Market",
-          "Studio"
-        ],
-        "topography": [
-          "Plain"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "Multiple urban and commercial environments in Korea, including an airport terminal, a train car interior, a camera shop, a BBQ grill table, a wall of photos, and a street market.",
-      "lightingStyle": "Bright indoor lighting and vibrant night market lights.",
-      "weather": "Unknown",
-      "season": "Autumn/Winter",
+      "sceneCutCount": 11,
+      "averageSceneDuration": 2.5,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "Medium",
-        "language": [
-          "Traditional Chinese",
-          "English",
-          "Korean"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "Natural and vibrant",
-      "cameraWork": [
-        "POV",
-        "Handheld",
-        "Static"
-      ]
+      "isNarrativeShift": false
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Korean BBQ",
-        "Street food"
-      ],
-      "trafficDetect": [
-        "Train"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Kodak",
-        "Adidas"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "None",
-      "vocalRatio": "Low"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 0,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and energetic",
-        "pitch": "Medium-high",
-        "loudness": "High",
-        "speed": "Fast",
-        "speechDensity": "Continuous",
-        "language": [
-          "Korean",
-          "English"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "K-Pop",
-      "bgmBPM": 125,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Copyrighted Song"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> List-based -> Outro",
-      "mainPurpose": "The video serves as a creative travel vlog to document and share a trip to South Korea with friends. By using a small convex mirror as a consistent framing device, the creator adds a unique visual aesthetic to the memories, showcasing various cultural highlights like food, transport, and nightlife in an engaging, fast-paced format.",
-      "visualEmotion": "Energetic and Joyful"
+      "narrativeStructure": "Montage: Hook -> Series of diverse travel experiences -> Conclusion",
+      "mainPurpose": "To showcase a vibrant and fun girls' trip to Korea using a creative visual perspective provided by a handheld convex mirror.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
       "endorsementMethod": [
         "None"
       ],
-      "endorsementCues": "While brands like Kodak appear, they are part of the scenery rather than the focus of a promotion.",
+      "endorsementCues": "Personal travel vlog with no specific brand calls to action.",
       "endorsementObject": [
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Using a convex mirror to frame selfie shots throughout a travel montage.",
-      "freeDescribe": "The use of the song 'Eve, Psyche & The Bluebeard’s wife' by LE SSERAFIM aligns the video with current K-pop trends on social media platforms."
-    }
+    "freeDescribe": "A highly engaging short-form video that utilizes a simple physical gimmick (the mirror) to maintain visual continuity across disparate travel locations."
   }
 }

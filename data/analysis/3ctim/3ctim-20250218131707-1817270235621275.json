@@ -1,178 +1,295 @@
 {
   "videoName": "3ctim-20250218131707-1817270235621275.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 41,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "News/Commentary"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "None"
+      "visual_narrative_log": "(1) A man with glasses, a patterned cap, and a light blue hoodie stands against a grey vertical-slat background. He gestures with his hands toward a floating yellow banana graphic with text overlays. The scene has a red and orange brand border at the top and bottom. (2) A real yellow banana is shown taped horizontally to a clean white wall using a single strip of silver industrial duct tape. The lighting is bright and flat, characteristic of a gallery setting. (3) A wide shot of a crowded auction house interior. Numerous people are seated in rows, many holding up smartphones to record. A man in a suit stands at a podium on a raised stage under bright studio lights. (4) A man with short black hair and a black shirt peels a yellow banana and takes a large bite while smiling. He is holding a black microphone in his other hand. (5) Another man in a grey shirt is shown in a different setting, also peeling and eating a banana. (6) The video cuts back to the initial man in the cap, who continues talking and gesturing with his hands to emphasize his points. Large text overlays and colorful graphic pop-ups appear around him.",
+      "text_narrative_log": "(1) [Logo]: 3c有趣思Tim哥. [Logo]: @3ctim. [Logo]: miko. [Subtitle]: 價值2億新台幣的香蕉你會吃嗎?! (2) [Subtitle]: 卡特蘭於2019年創造了一個. [Variety]: 香蕉用膠帶貼黏在牆壁上的一個概念的藝術作品. (3) [Subtitle]: 而該項的藝術作品近期在紐約一場拍賣會中. (4) [Subtitle]: 被一個加密貨幣創業家以620萬美元得標. (5) [Subtitle]: 而這個得標主在發表完得標感言以後便當眾就把那個香蕉剝開一口就把它吃下去了. (6) [Subtitle]: 他認為吃掉香蕉本身也是有創作的一部分. 不過其實他吃的這根香蕉並不是2019年首次展出的那根香蕉. (7) [Subtitle]: 他於拍賣會上購買這項作品是出自於卡特蘭之手的證書以及香蕉變質時要如何更換的一個說明書啦. [Slogan]: 你會想吃嗎?",
+      "visual_human_presence": {
+        "totalHumanCount": 15,
+        "maleDetectAmount": 8,
+        "femaleDetectAmount": 7,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Head and shoulders",
+          "Upper body",
+          "Face",
+          "Hands only",
+          "Partial body"
         ],
-        "city": [
-          "None"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video opens with a man wearing a plaid cap and a blue hoodie speaking directly to the camera in a studio with grey curtains. (2) A still image of Maurizio Cattelan's artwork 'Comedian' (a banana duct-taped to a wall) is shown. (3) Footage transitions to a busy auction room at Sotheby's where an auctioneer is managing bids. (4) Close-up footage shows Justin Sun peeling and eating a banana at a press conference. (5) Another clip shows an older man eating a banana from a wall. (6) The video returns to the man in the plaid cap in the studio, gesticulating as he concludes his explanation.",
-      "audio_narrative_log": "(1) Upbeat, fast-paced electronic background music begins immediately. A high-pitched, energetic male voice starts speaking in Mandarin. (2) The same male voice continues a narrative without pause as visual scenes transition from the studio to archive footage. (3) Occasional 'ding' and 'pop' sound effects are used to emphasize text appearances. (4) The vocal density is high with almost no silence, ending with a direct question and the music fading out.",
-      "text_narrative_log": "(1) '價值2億新台幣的香蕉' (A banana worth 200 million NTD) - Hook/Title. (2) '卡特蘭於2019年' (Cattelan in 2019) - Narrative fact. (3) '香蕉用膠帶' (Banana with duct tape) - Descriptive. (4) '以620萬美元得標' (Winning bid at 6.2 million USD) - Financial detail. (5) '一口就把它吃下去了' (Ate it in one bite) - Event description. (6) '你會想吃嗎?' (Would you want to eat it?) - Closing hook/question."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 11,
-      "averageSceneDuration": 3.7,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Hook -> Contextual Background -> Recent Event Highlight -> Value Explanation -> Outro Question"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 10,
-      "maleDetectAmount": 3,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Face",
-        "Hands only"
-      ],
-      "crowdLevel": "Crowd",
-      "countingEvidence": "1 main creator (Tim), 1 auctioneer, 1 buyer (Justin Sun), several auction attendees in the background.",
-      "mainCharacterDescription": "Male with glasses, wearing a brown and white plaid flat cap and a light blue 'Roots Athletics' hooded sweatshirt."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
+        "crowdLevel": [
+          "Crowd"
+        ],
+        "countingEvidence": "1 main host, 1 primary subject (buyer), and a large crowd of auction attendees.",
+        "mainCharacterDescription": "The host is a middle-aged male wearing a brown checkered flat cap, glasses, and a light blue Roots Athletics hoodie. The second character is a younger male with short black hair wearing a black business suit/shirt."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
           "Studio",
-          "Auction Hall"
+          "Exhibition / Museum / Gallery",
+          "Event Venue / Convention Hall"
         ],
-        "topography": [
-          "None"
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The video shifts between a controlled studio with vertical slat panels, a minimalist white art gallery wall, and a high-end auction room with tiered seating and professional podiums.",
+        "lightingStyle": [
+          "Bright studio lighting",
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Warm and vibrant"
         ]
       },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A controlled studio environment with vertical grey curtains; a professional auction house with screens and a podium; a press conference setting.",
-      "lightingStyle": "Bright studio lighting and indoor hall lighting.",
-      "weather": "Unknown",
-      "season": "Unknown",
-      "editingPace": "Fast",
-      "textOverlay": {
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Panning"
+        ],
+        "shotSize": [
+          "Medium close-up",
+          "Medium shot",
+          "Close-up",
+          "Wide shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "High angle"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Graphic transition",
+          "Subtitled social-media edit",
+          "Reaction shot"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
         "density": "High",
-        "language": [
-          "Traditional Chinese"
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Emoji / Symbols"
         ],
         "isSubtitled": true
       },
-      "colorTone": "Vibrant",
-      "cameraWork": [
-        "Static",
-        "Archive Footage"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "Dog"
-      ],
-      "foodsDetect": [
-        "Banana"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Microphone",
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Roots Athletics",
-        "Sotheby's",
-        "Facebook",
-        "Instagram"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 1,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and professional",
-        "pitch": "High-pitched",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Dog"
+        ],
+        "foodsDetect": [
+          "Fruit"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Microphone / lavalier mic",
+          "Laptop"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "miko",
+          "Roots Athletics",
+          "Sotheby's"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "Pop",
-        "Ding"
-      ],
-      "ambientNoise": [
-        "Studio quiet",
-        "Crowd chatter"
-      ],
-      "audioQuality": "Studio"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 3,
+        "male_vocal_count": 2,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 7,
+        "dominance": 8,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Crowd Murmur",
+          "Laughter"
+        ],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Object Impact / Thud / Drop",
+          "Mechanical Click / Latch"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Pop / Bubble SFX",
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Stingers"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) Fast-paced male narration begins immediately with high energy. Upbeat, synthesized BGM with a strong electronic beat plays consistently. A bright 'pop' sound effect triggers as the first text graphic appears. (2) A sharp 'whoosh' transition sound occurs as the narrator describes the 2019 artwork. The vocal tone is crisp and enunciated. (3) Background audio shifts to include a low crowd murmur from an auction house recording, layered under the continuous upbeat BGM and primary narration. (4) A second male voice (recording from the event) is heard briefly in the background, overlaid by the narrator's commentary. A 'ding' SFX sounds during a variety-style text pop-up. (5) The narrator's pitch rises slightly during a humorous revelation about eating the banana. The music maintains a constant 128 BPM energy. (6) Final phase features a conclusive, questioning vocal inflection from the narrator. A closing musical stinger coincides with the final brand slogan overlay."
     }
   },
-  "high_inference_interpretations": {
-    "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Narrative -> Analysis -> Question",
-      "mainPurpose": "The video aims to inform and entertain viewers by discussing a high-profile contemporary art event: the multi-million dollar sale of Maurizio Cattelan's banana artwork. It explains the paradox of the artwork's value, which lies in the conceptual certificate rather than the perishable fruit, using the recent event of Justin Sun eating the banana as a focal point.",
-      "visualEmotion": "Energetic"
-    },
-    "endorsement_analysis": {
-      "isEndorsement": false,
-      "endorsementMethod": [
-        "None"
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "News / Commentary",
+        "Storytelling",
+        "Meme / Trend"
       ],
-      "endorsementCues": "None",
-      "endorsementObject": [
-        "None"
+      "location": {
+        "country": [
+          "United States",
+          "Taiwan"
+        ],
+        "city": [
+          "New York"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 12,
+      "averageSceneDuration": 3.4,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Historical Context -> Current Event -> Climactic Action -> Explanation -> Closing Question.",
+      "mainPurpose": "To inform the audience about the viral news story regarding Maurizio Cattelan's expensive 'Comedian' banana art piece, specifically focusing on its recent auction for millions of dollars and the buyer's act of eating it to clarify what was actually purchased (the certificate and instructions).",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "informative"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Host's trademark hat and '3c tim' branding elements.",
-      "freeDescribe": "The video uses popular 'variety-show' style editing with frequent text pops and stickers to maintain high engagement for a short-form audience."
-    }
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "Consistent presence of 'miko' brand logo and '3c有趣思Tim哥' social handles throughout the video framing.",
+      "endorsementObject": [
+        "miko",
+        "3c有趣思Tim哥"
+      ]
+    },
+    "freeDescribe": "The video uses a high-density 'variety show' editing style popular on social media, combining fast-paced narration, frequent text overlays, and sound effects to maintain high engagement."
   }
 }

@@ -1,180 +1,285 @@
 {
   "videoName": "yga0721-20250721201254-25950549954575805.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 71,
-      "aspectRatio": "9:16",
+      "videoDuration": 72,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The video opens with a main male host in a white Nike hoodie standing in an indoor gym. He is gesturing enthusiastically while speaking to the camera. Behind him are several people in various athletic wear. The lighting is bright and even. (2) A transition brings a female guest expert into focus. She wears a black t-shirt and athletic shorts. She holds a blue and yellow korfball and demonstrates its features. The background remains the indoor sports hall with wooden floors and basketball hoops. (3) The scene shifts to active game footage where several young men and women are seen running on the court. Some are wearing green vests. They interact playfully, with some girls jokingly pushing each other. The camera captures medium and wide shots of the action. (4) Quick cuts show a professional korfball match on a screen or as a cutaway, highlighting high-level play. This is followed by more footage of the group in the gym practicing shots and passing. The editing is fast and rhythmic. (5) A final segment shows the female expert holding a trophy while surrounded by the other participants. They are all smiling and laughing in a medium shot. Colorful text overlays continue to appear frequently until the end of the video.",
+      "text_narrative_log": "(1) [Subtitle]: 今天我們要上的是合球課. [Variety]: 合球前國手 陳俐馨. (2) [Slogan]: 合球不能運球 籃球可以運球. [Variety]: 傳球. (3) [Variety]: 突然的肉搏戰?. [Subtitle]: 妳們兩個為什麼不好好練習. [Variety]: 搶我的地盤. (4) [Variety]: 🤡這條線超過🤡. [Variety]: ?. [Subtitle]: 你看投不了. (5) [Slogan]: 《氣球娃娃》. [Subtitle]: 那我們可以同時嗎. [Slogan]: 難度對不起... (6) [Logo]: 爆橘白. (7) [Slogan]: 每顆球都是1分. [Variety]: 比賽... 進到白熱化階段. (8) [Variety]: (❤️). [Slogan]: (霹靂動作片). [Variety]: ↑最開心的人↑. (9) [Variety]: 耶嫩... 出手了... 進了. (10) [Variety]: 傳給亞妮投籃. [Variety]: (失 敗). [Variety]: 驛苒試一次!!. [Variety]: (這次會成功嗎). (11) [Variety]: !! 進球. [Subtitle]: 你抉擇的點是什麼. [Variety]: 努力程度. (12) [Variety]: 這集的MVP是...?.",
+      "visual_human_presence": {
+        "totalHumanCount": 10,
+        "maleDetectAmount": 4,
+        "femaleDetectAmount": 6,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Head and shoulders",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main male creator, 1 female expert, and 8 participants in the background.",
+        "mainCharacterDescription": "A male creator in a white Nike hoodie and a female expert with short black hair wearing a black t-shirt and shorts."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Gym / Fitness Center"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "An indoor gymnasium with wooden flooring, sports equipment like basketball hoops, and spectator seating. The lighting is consistent and bright.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Panning",
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Medium full shot",
+          "Full shot",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Meme-style edit",
+          "Slow motion"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Camera / DSLR"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Nike"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 5,
+        "male_vocal_count": 2,
+        "female_vocal_count": 3,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 120,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 3,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter",
+          "Cheering"
+        ],
+        "crowdNoiseIntensity": 3,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Object Impact / Thud / Drop",
+          "Footsteps"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Cartoon / Comedy SFX",
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": true,
+        "audioTransition": [
+          "Hard cut",
+          "Fade in / fade out"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a high-energy male voice introducing the video. A bright, upbeat pop-electronic background music track plays immediately. Frequent high-pitched 'pop' and 'whoosh' sound effects accompany the appearance of various text graphics on the screen. (2) A second, female voice enters, speaking with a clear and professional yet friendly tone. She explains the rules of the sport. The BGM ducks slightly to allow the speech to be prominent, but the rhythmic electronic beat remains constant. (3) The soundscape becomes more chaotic as multiple voices are heard laughing and shouting during the game. There are distinct 'thud' sounds of feet hitting the floor and a sharp 'clink' of the ball hitting the rim of the basket. (4) A transition sound effect, a digital 'shimmer', marks a shift to highlight footage where the music intensity increases. There is a brief moment of strategic silence before a loud 'ding' sound effect when a shot is successfully made. (5) The video concludes with the group cheering collectively, creating a dense layer of vocal arousal. The music swells for a final celebratory chord before a quick comedic 'boing' sound effect ends the track abruptly as the video finishes."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
         "Vlog",
-        "Sports",
-        "Tutorial"
+        "Sports / Fitness",
+        "Comedy"
       ],
-      "withRealPeople": true,
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "None"
+          "Unknown"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video opens in an indoor gymnasium with a male host in a white Nike hoodie introducing the content excitedly; a group of people stands behind him. (2) The scene transitions to a female athlete in a black athletic shirt holding a yellow and blue ball, explaining rules while standing in the gym. (3) A series of quick cuts shows participants practicing, including playful wrestling between two girls and a girl dancing loosely like an inflatable tube man. (4) Professional match footage is briefly overlaid to illustrate the sport. (5) The group engages in a casual match; players in green vests run and shoot at a high yellow basket. (6) In the finale, the female athlete holds a trophy and interacts with the host to conclude the session.",
-      "audio_narrative_log": "(1) High-energy male vocals dominate the intro over upbeat, fast-tempo electronic background music. (2) A clear female voice takes over to explain the rules of Korfball in a professional yet friendly tone. (3) During the practice montage, various sound effects (SFX) like whistles, cartoonish 'whoosh' sounds, and bursts of laughter from the crowd are heard. (4) The audio transitions into intense match sounds, featuring the squeaking of sneakers on the court and rhythmic shouting. (5) A suspenseful musical sting plays during a missed shot, followed by a loud, collective 'Ohhh!' cheer and triumphant music when a goal is finally scored. (6) The video ends with clapping and congratulatory talk.",
-      "text_narrative_log": "(1) Functional text appears: '今天我們要上的是合球課' (Today we are taking a Korfball class). (2) Decorative hook: '合球前國手 陳俐心' (Former National Korfball Player, Chen Lixin) identifies the expert. (3) Rule explanations: '合球不能運球' (No dribbling in Korfball), '傳球' (Passing), '每顆球都是1分' (Each goal is 1 point). (4) Emotional captions: '突然的肉搏戰?' (Sudden physical battle?), '這條線超過!' (Crossed this line!), '進球!!' (Goal!!), '(失敗)' (Failure), '這集的MVP是...?' (This episode's MVP is...?)."
     },
     "temporal_pacing_summary": {
       "sceneCutCount": 42,
       "averageSceneDuration": 1.7,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro -> Rule Explanation -> Playful Training -> Match Highlights -> MVP Awarding"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 8,
-      "maleDetectAmount": 3,
-      "femaleDetectAmount": 5,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Face close-up"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 male host, 1 female coach, and approximately 6 participants visible during the game.",
-      "mainCharacterDescription": "The host is a young male in a white Nike hoodie; the coach is a young female with black hair and a black t-shirt."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Gymnasium",
-          "Basketball Court"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A standard indoor sports hall with wooden floors, basketball hoops, and a tall Korfball basket (pole with a yellow cylinder). Bleachers are visible in some shots.",
-      "lightingStyle": "Bright indoor stadium lighting",
-      "weather": "None",
-      "season": "None",
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Follow shot",
-        "Handheld"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone",
-        "Video Camera"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Nike",
-        "Mikasa"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade and Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 5,
-        "vocal_demographics": {
-          "male_vocal_count": 2,
-          "female_vocal_count": 2,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and humorous",
-        "pitch": "Medium-high",
-        "loudness": "High",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Variety Show Pop",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drums"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Cartoon SFX",
-        "Whistle",
-        "Cheer"
-      ],
-      "ambientNoise": [
-        "Gymnasium echo",
-        "Sneaker squeaks"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Logic -> Evidence -> Outcome",
-      "mainPurpose": "To introduce the sport of Korfball to the audience through a humorous and energetic vlog format, combining a tutorial with entertainment-focused gameplay involving popular influencers.",
-      "visualEmotion": "Energetic and Humorous"
+      "narrativeStructure": "Linear -> List-based: Introduction -> Rule Explanation -> Practical Interaction -> Highlights -> Conclusion",
+      "mainPurpose": "To introduce and promote the sport of korfball through a fun, collaborative session between a content creator and a former national player. It aims to educate viewers on basic rules while entertaining them with the group's humorous interactions during a match.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
-      "isEndorsement": true,
+      "isEndorsement": false,
       "endorsementMethod": [
-        "Implicit",
-        "Integrated"
+        "None"
       ],
-      "endorsementCues": "The host prominently wears a Nike hoodie throughout the video, though no verbal promotion occurs.",
+      "endorsementCues": "None",
       "endorsementObject": [
-        "Nike"
+        "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Variety-show style captions and rapid-fire editing typical of Taiwanese YouTubers.",
-      "freeDescribe": "The video successfully blends niche sports education with high-engagement variety content, likely aimed at a youthful demographic."
-    }
+    "freeDescribe": "The video utilizes a high-density variety show editing style with frequent text and SFX to maintain engagement."
   }
 }

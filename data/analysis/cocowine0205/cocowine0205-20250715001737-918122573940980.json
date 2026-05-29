@@ -1,163 +1,272 @@
 {
   "videoName": "cocowine0205-20250715001737-918122573940980.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 57,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Food Review",
-        "Shopping"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) In a brightly lit Costco warehouse, a woman with long dark hair, wearing a black top and white boots, stands before a large stack of 'Great Day' food boxes. She holds one box of Silver Fungus Almond Soup with Oats, gesturing enthusiastically to the camera while showcasing the packaging. (2) The scene transitions to an indoor living room where two women sit at a table. They have a large glass bowl of white soup and a box of the product. They point at the soup and smile at the camera. (3) A close-up shot shows a thick, creamy white liquid with visible chunks of silver fungus and oats being poured from a pink-accented pouch into a glass bowl. (4) Back at the table, the women use a large spoon to lift and display the thick consistency and plentiful ingredients of the soup. They give thumbs up and perform expressive hand gestures to convey satisfaction.",
+      "text_narrative_log": "(1) [Logo]: Costco Wholesale. [Slogan]: 杏仁味超濃厚! 銀耳燕麥杏仁露. 得意的一天. (2) [Subtitle]: 最新出了 銀耳燕麥杏仁露. (3) [Subtitle]: 因為上次芋頭很驚艷這個... [Slogan]: 銀耳燕麥杏仁露. (4) [Subtitle]: 上次芋頭西米露有驚艷到我們. (5) [Subtitle]: 因為我們本來抱持著 大概10分 只有2分的心情. (6) [Subtitle]: 嘿 結果就吃起來哦 8.5分. (7) [Subtitle]: 那就來試試看 它的新口味. (8) [Subtitle]: 我們會很嚴格 希望它還是繼續得意. [Variety]: 繼續得意的一天. (9) [Slogan]: 得意的一天! 燕麥銀耳杏仁露. [Subtitle]: 得意的一天! (10) [Subtitle]: 這一箱399元. (11) [Subtitle]: 裡面有三包 所以每一包是133塊. (12) [Subtitle]: 然後它這樣子一碗呢 就是133塊的量. (13) [Subtitle]: 適合3到4人家庭吃. (14) [Subtitle]: 我們把它冰冰箱. (15) [Subtitle]: 或者你要加熱直接用 都可以. (16) [Subtitle]: 我覺得它料 你們來看. [Variety]: 很濃郁. (17) [Subtitle]: 這個料給的很誠意. [Variety]: 很過癮. (18) [Subtitle]: 裡面有非常多的銀耳 然後燕麥也是滿滿的. (19) [Subtitle]: 最重要這個杏仁呢 很濃郁 超級濃郁的. (20) [Subtitle]: 所以我覺得吃起來就是 很過癮. (21) [Subtitle]: 喜歡杏仁的人不要錯過它的杏仁味. (22) [Subtitle]: 真是非常誠意 給好給滿. (23) [Subtitle]: 夏天冰冰的 吃飯後來一小碗哦 高級甜湯.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "2 main female creators appearing throughout the video.",
+        "mainCharacterDescription": "One woman wears a black top, black skirt, and white boots. The other wears a brownish top and a zebra-patterned hat."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Retail Store",
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A warehouse setting with stacks of palletized boxes and signage, followed by a domestic living room with a table, sofa, and plush toys.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Panning",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Full shot",
+          "Medium shot",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Fast cuts",
+          "Graphic transition",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Dessert / cake / cookies",
+          "Prepared meal / plated dish",
+          "Instant / packaged food"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Costco Wholesale",
+          "得意的一天"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 0,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 124,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Crowd Murmur"
+        ],
+        "crowdNoiseIntensity": 1,
+        "ambientNoiseDetails": [
+          "Commercial/Recreational"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Ding / Bell SFX",
+          "Pop / Bubble SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) Fast-paced electronic BGM starts immediately. A high-energy female voice speaks with rapid articulation and an excited, rising intonation pattern. (2) A synthetic 'Whoosh' sound effect marks a transition. The acoustics shift from a slightly reverberant store to a drier indoor domestic space. (3) The sound of liquid pouring (a soft splash SFX) is layered over the BGM during the close-up. Speech continues at a high density. (4) Multiple 'Ding' sound effects punctuate the appearance of graphic overlays. The speakers maintain high vocal arousal, concluding with a positive, assertive tone as the music track stingers out."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Food Review",
+        "Shopping",
+        "Promotion / Advertisement / Indoresment"
+      ],
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "Unknown"
+          "None"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video begins with a woman in a black dress standing in a Costco warehouse in front of a stack of 'Great Day' brand almond soup boxes; she is gesturing and talking excitedly to the camera. (2) The scene cuts to close-up shots of the product packaging, specifically the 'Snow Fungus Almond Soup with Oats'. (3) The setting shifts to an indoor kitchen/living room where two women are seated at a table with a bowl of the product. (4) One woman pours the creamy white soup from a pink and white pouch into a large glass bowl, then stirs it with a ladle to reveal the chunky texture of snow fungus and oats. (5) Throughout the tasting, the women use hand gestures like thumbs up and pointing to emphasize the richness of the soup while maintaining smiling and expressive facial expressions.",
-      "audio_narrative_log": "(1) High-energy, upbeat electronic background music plays throughout. (2) Two female voices are heard; one is a primary narrator speaking with a bright, enthusiastic tone, and another joins in during the indoor review section. (3) Sound effects (SFX) such as 'dings' and 'pops' coincide with the appearance of text overlays. (4) The audio transitions from a slightly echoing warehouse environment to a clearer, studio-like indoor recording with minimal ambient noise.",
-      "text_narrative_log": "(1) 'COSTCO WHOLESALE' logo appears at the top throughout the first half. (2) '杏仁味超濃厚!' (Strong almond flavor!) is shown as decorative hook text. (3) '銀耳燕麥杏仁露' (Snow Fungus Oat Almond Soup) serves as the main product title. (4) '得意的一天' (Great Day) is the brand name prominently displayed. (5) Functional text includes pricing details like '這一箱399元' (399 NTD per box) and '每一包是133塊' (133 NTD per pouch). (6) Emotional stickers like '很濃郁' (Very rich) and '很過癮' (Very satisfying) appear in a variety-show style."
     },
     "temporal_pacing_summary": {
       "sceneCutCount": 18,
       "averageSceneDuration": 3.1,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro at retail store -> Close-up product showcase -> Home tasting and price breakdown -> Final recommendation"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Waist up"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "2 female creators appearing onscreen together during the review portion.",
-      "mainCharacterDescription": "One woman wears a black dress with a headband; the other wears a brown/grey top with a zebra-patterned bucket hat."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Warehouse",
-          "Indoor Kitchen"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "The first scene is a crowded Costco warehouse with industrial shelving; the second scene is a home interior with a table and plush toys in the background.",
-      "lightingStyle": "Bright studio lights mixed with natural indoor lighting.",
-      "weather": "Indoor",
-      "season": "Summer (implied by text mentioning cold eating)",
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "High Saturation",
-      "cameraWork": [
-        "Static",
-        "Follow shot"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Almond Soup",
-        "Snow Fungus",
-        "Oats"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "COSTCO",
-        "得意的一天"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 2,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Friendly and humorous",
-        "pitch": "High",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Cartoon SFX",
-        "Pop"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Intro -> Demo -> Evaluation -> CTA",
-      "mainPurpose": "To provide a positive consumer review and recommendation for the 'Great Day' Snow Fungus Almond Soup available at Costco, emphasizing its rich texture, large portions suitable for families, and overall value for money.",
-      "visualEmotion": "Energetic"
+      "narrativeStructure": "Montage: Hook -> Comparison Context -> Unboxing/Pouring -> Detailed Texture Display -> Value Evaluation -> Final Recommendation.",
+      "mainPurpose": "To promote the 'Great Day' Silver Fungus Almond Soup with Oats available at Costco by highlighting its richness, visible ingredients, and cost-effectiveness through an enthusiastic firsthand review.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -165,14 +274,11 @@
         "Explicit",
         "Full"
       ],
-      "endorsementCues": "Direct recommendation of the product, display of the price, and positive taste test reaction.",
+      "endorsementCues": "Direct display of product boxes, repeated mention of brand name, and detailed pricing information.",
       "endorsementObject": [
         "得意的一天"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-density variety-show style text overlays and repetitive 'Great Day' branding.",
-      "freeDescribe": "The video targets Costco shoppers and health-conscious dessert lovers in the Taiwan market."
-    }
+    "freeDescribe": "High-density social media editing style with bright colors and constant subtitles aimed at a mobile audience."
   }
 }

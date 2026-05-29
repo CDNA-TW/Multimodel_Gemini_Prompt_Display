@@ -1,166 +1,277 @@
 {
   "videoName": "3ctim-20250702175215-3366914950152492.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 71,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Product Review",
-        "Tutorial"
-      ],
+      "videoDuration": 110,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A man wearing a light blue cap, glasses, and a white \"Roots Athletics\" t-shirt stands in a well-lit home office or studio. In the background, there is a large Gundam model and a Mario figurine. He gestures enthusiastically with his right hand while looking directly into the camera. (2) The camera focuses on the Elgato Prompter, a device with a 9-inch screen displaying scrolling text in Traditional Chinese. The prompter is mounted on a camera setup, and the room lighting is bright. The man is seen in the reflection of the prompter's glass. (3) A close-up shot of the Elgato Stream Deck XL control panel, featuring 32 LCD keys with various colorful icons. A hand moves towards the device to demonstrate its functionality. The background shows a computer monitor and a gray desk mat. (4) The Key Light Mini is shown, a small rectangular LED panel that is turned on and emitting a bright, white light. The light is adjusted to show its brightness and color temperature range. It is mounted on top of the prompter. (5) The Facecam Pro is featured, a sleek black webcam perched atop a computer monitor. The camera lens is prominent, and an indicator light is visible. The scene is shot from a slightly low angle to emphasize the camera's position. (6) A smartphone mount is held and demonstrated. It is a black, adjustable bracket with a spring-loaded mechanism. A hand shows how the mount can be expanded and its soft padding for grip. The background is slightly blurred. (7) The man reappears in a wide shot, standing behind his desk. He opens his arms wide to show the entire integrated setup of the tech products he just discussed. On-screen graphics with checkboxes appear to summarize the benefits.",
+      "text_narrative_log": "(1) [Logo]: @3ctim. [Slogan]: 打造高質感音內容!? (2) [Slogan]: 5款實用配件. [Variety]: 創作神隊友. (3) [Slogan]: Elgato Prompter. [Subtitle]: 內建9吋螢幕的提詞器. (4) [Slogan]: Stream Deck XL. [Subtitle]: 32鍵自定義LCD控制面板. (5) [Slogan]: Key Light Mini. [Subtitle]: 輕巧可攜LED補光燈. (6) [Slogan]: Facecam Pro. [Subtitle]: 全球首款4K 60fps網路攝影機. (7) [Slogan]: 智慧型手機支架. [Subtitle]: 可升降調節高度. (8) [Variety]: 穩固又防滑. [Slogan]: 專業就差這一步!",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main male creator presenting tech products.",
+        "mainCharacterDescription": "A middle-aged male with glasses, wearing a light blue flat cap and a white t-shirt with a Canadian flag and 'Roots' branding."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Office / Workplace"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A home office setup featuring a desk with a PC monitor, Elgato accessories, and decorative shelves holding anime figures like Gundam and Mario.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Summer"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Panning",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Extreme close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Low angle"
+        ],
+        "editingTechniques": [
+          "Jump cut",
+          "Montage",
+          "Smash cut"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Laptop",
+          "Desktop computer / monitor",
+          "Camera / DSLR",
+          "Microphone / lavalier mic",
+          "TV / display screen",
+          "Keyboard / mouse",
+          "Lighting equipment / ring light",
+          "Tripod / stabilizer"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Elgato",
+          "Sony"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM",
+          "Pop"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Digital UI SFX",
+          "Pop / Bubble SFX",
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 5,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Stingers"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A high-energy male voice speaks rapidly in Mandarin Chinese, opening the video with an enthusiastic greeting. The tone is professional yet excited. A high-tempo, upbeat electronic background music track with a strong, driving beat begins immediately, filling the acoustic space. (2) A subtle 'whoosh' transition sound marks a shift in the narration as the speaker begins describing the first product. His speech remains fast-paced and articulated clearly. The BGM continues at a consistent volume, maintaining the energetic atmosphere without masking the vocals. (3) A digital 'ding' sound effect triggers a transition to the next product description. The speaker's pitch rises slightly as he emphasizes the features of the control panel. The background music's synthesizer texture becomes more prominent during brief pauses in speech. (4) Another sharp 'click' or transition sound effect is heard as the audio focuses on the lighting equipment. The speaker's volume is projected and steady. The ambient noise floor is extremely low, indicating a clean studio-style recording with high signal clarity. (5) A rhythmic shift in the background music coincides with the description of the webcam. The speaker's intonation is dynamic, using rising contours to maintain viewer interest. Short, percussive sound effects are peppered throughout to punctuate key technical specifications mentioned. (6) The narrator's voice remains dominant and authoritative as he explains the final accessory. The BGM maintains its major-key tonality and steady BPM. There is a noticeable lack of any significant background interference or incidental noise during this segment. (7) The final phase begins with a concluding summary from the speaker. His arousal level remains high, ending on a positive and assertive note. The music swells slightly in volume toward the end before a final hard cut or fade out."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Tech Review",
+        "Product Showcase"
+      ],
       "location": {
         "country": [
-          "None"
+          "Taiwan"
         ],
         "city": [
           "None"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A man wearing a light blue hat, glasses, and a white t-shirt sits at a desk in a room filled with figurines, including a large Gundam head. (2) The scene cuts to a close-up of a teleprompter device attached to a monitor, displaying a script in Chinese. (3) The man demonstrates a macro keyboard with multiple LCD buttons, showing various app icons. (4) A small LED light panel is shown, then its light output is adjusted on camera. (5) A high-definition webcam is displayed on top of a monitor. (6) The man picks up and demonstrates a black metal smartphone clamp, stretching the spring-loaded jaw with his thumb. (7) Finally, the man gestures towards the camera while summarizing the utility of the devices shown.",
-      "audio_narrative_log": "(1) Fast-paced, upbeat electronic background music starts immediately and continues throughout the video. (2) A male voice speaks enthusiastically and professionally in Mandarin, introducing the '5 useful accessories'. (3) Brief 'whoosh' and 'click' sound effects occur during scene transitions and when products are highlighted. (4) The speaker's voice remains dominant and clear over the background music, which maintains a steady rhythm.",
-      "text_narrative_log": "(1) '打造高質感影音內容!?' - Hook text in bold white letters with a black outline, meaning 'Create high-quality video content!?'. (2) '5款實用配件' - Functional text indicating '5 useful accessories'. (3) 'Elgato Prompter', 'Stream Deck XL', 'Key Light Mini', 'Facecam Pro' - Functional labels for the specific products being reviewed. (4) Subtitles at the bottom of the screen translate the spoken Mandarin narration throughout the video."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 24,
-      "averageSceneDuration": 2.9,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro -> Itemized Product Showcase -> Summary and CTA"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Hands only",
-        "Full body"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main creator appearing in the intro and outro scenes.",
-      "mainCharacterDescription": "Middle-aged male creator wearing a blue newsboy cap, rectangular glasses, and a white t-shirt with a 'ROOTS ATHLETICS' logo."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Studio",
-          "Home Office"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A professional desk setup featuring a monitor, keyboard, and various Elgato streaming equipment. In the background, there is a shelving unit with a large Gundam head, Mario figurines, and other toys.",
-      "lightingStyle": "Intense studio lights",
-      "weather": "None",
-      "season": "None",
+      "sceneCutCount": 54,
+      "averageSceneDuration": 2.03,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Close-up"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone",
-        "Monitor",
-        "Keyboard",
-        "Webcam",
-        "Teleprompter",
-        "LED Light"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Elgato",
-        "Roots",
-        "Sony"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Steady and professional",
-        "pitch": "Medium",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat electronic",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Meme sounds",
-        "Click"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Categorized Demonstration -> Conclusion",
-      "mainPurpose": "To provide a structured review of streaming and video production hardware, specifically showcasing the Elgato ecosystem to help content creators improve their production value.",
-      "visualEmotion": "Energetic"
+      "narrativeStructure": "List-based: Hook -> Introduction of 5 items -> Closing recommendation",
+      "mainPurpose": "To showcase and recommend Elgato tech accessories specifically designed for content creators and streamers to improve production quality.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -168,14 +279,11 @@
         "Explicit",
         "Full"
       ],
-      "endorsementCues": "The creator systematically reviews five products from the same brand, demonstrating their features and encouraging viewers to upgrade their equipment.",
+      "endorsementCues": "Detailed features display and enthusiastic recommendation of Elgato products.",
       "endorsementObject": [
         "Elgato"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Creator's signature blue cap and high-energy Mandarin delivery.",
-      "freeDescribe": "The video follows a standard 'tech review' format optimized for short-form social media platforms like TikTok or Reels, utilizing fast cuts and clear text hooks."
-    }
+    "freeDescribe": "A professional tech-vlog style video with high production value, focusing on product utility for creative workflows."
   }
 }

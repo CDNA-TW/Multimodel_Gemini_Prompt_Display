@@ -1,179 +1,287 @@
 {
   "videoName": "3ctim-20250613035657-782824927708782.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 52,
-      "aspectRatio": "9:16",
+      "videoDuration": 51.13,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The video begins with a close-up shot of a person's hands holding a large tablet encased in a black gaming controller attachment. The screen displays a Google Search interface. The background is a brightly lit showroom with a prominent purple wall and a pink pedestal. (2) The person uses their right thumb to swipe through an app drawer on the tablet's screen. Icons for YouTube, Gmail, and various system apps are visible. The lighting is bright and stylized, typical of a tech exhibition. (3) The user launches the game 'Genshin Impact.' The screen shows a fantasy landscape with mountains and grass. The user's hands are positioned on the controller's analog sticks and buttons. (4) A sequence of gameplay follows, showing the character 'Lisa' running through a grassy field, jumping over a wooden fence, and navigating a stone path. The camera angle remains a high-perspective close-up on the device. (5) The tablet is flipped around to show its backside, revealing a 'Lenovo' logo, a 'Legion' sub-brand mark, and a dual-camera module. A 'Google' logo is also visible on the magnetic attachment. (6) The person returns to the game screen, demonstrating movements and attacks in a coastal area. In the blurred background, other attendees of the event can be seen walking by.",
+      "text_narrative_log": "(1) [Logo]: Google. [Subtitle]: 幫你拿啦. (2) [Subtitle]: 來來你操作一下. (3) [Subtitle]: 我們現在是台哥大商務長在幫我操作. (4) [Subtitle]: 還有這一台最厲害的是什麼. (5) [Subtitle]: 這一台最厲害的是什麼你說. (6) [Subtitle]: 它有震動. (7) [Subtitle]: 這個就是完全就是跟那個掌機一樣. (8) [Subtitle]: 那這個平板本身啊它帶這個雙震動引擎. (9) [Subtitle]: 然後再加上超高的觸控反應超低延遲的觸控反應然後超高取樣率. (10) [Subtitle]: 那當然它是用到這個A Elite的這個CPU所以性能很強之外. [Logo]: Lenovo. [Logo]: Legion. (11) [Subtitle]: 這個電競平板還可以拍照. (12) [Subtitle]: 然後搭配控制器啊感受非常好. (13) [Subtitle]: 重點是它很輕啊. (14) [Subtitle]: 然後整個配重也做得很好所以應該是可以玩得蠻開心的. (15) [Variety]: 哎喲. [Subtitle]: 台哥大獨家嗎. (16) [Subtitle]: 敬請期待敬請期待.",
+      "visual_human_presence": {
+        "totalHumanCount": 4,
+        "maleDetectAmount": 3,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Hands only",
+          "Partial body",
+          "Full body"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main person holding the device (hands visible), at least 3 other people seen in the background blur.",
+        "mainCharacterDescription": "Only the hands of the main character are clearly visible, wearing a dark ring on the right index finger and a dark watch on the left wrist."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Exhibition / Museum / Gallery",
+          "Event Venue / Convention Hall"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "An indoor event space featuring vibrant purple and pink lighting. There are white display pedestals and blurred figures of other attendees in the distance.",
+        "lightingStyle": [
+          "Neon / colored light",
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Warm and vibrant",
+          "High saturation"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Panning"
+        ],
+        "shotSize": [
+          "Close-up",
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "High angle"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Tablet",
+          "Camera / DSLR",
+          "Game console / controller"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Lenovo",
+          "Legion",
+          "Google"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 2,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Animated/Excited",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 7,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Chatter",
+          "Crowd Murmur"
+        ],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone",
+          "Commercial/Recreational"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "Mechanical Click / Latch"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with two male voices in a lively conversation. Speaker A has a higher-pitched, enthusiastic tone, while Speaker B sounds more professional yet relaxed. An upbeat, electronic pop BGM with a steady 4/4 beat plays at a moderate level in the background. (2) As the discussion shifts to the demonstrator (the 'Business Officer'), there is a slight increase in vocal arousal and speech rate. Distant murmurs of a crowd are audible, suggesting a busy public event. (3) The rhythmic clicks of the controller buttons and analog sticks are occasionally audible over the voices. Speaker B describes the 'dual vibration' feature with clear articulation and a rising intonation pattern. (4) The voices maintain a high density, discussing technical specifications like touch response and latency. The BGM remains consistent, providing a bright, energetic acoustic floor. (5) As the tablet is flipped, the voices discuss the physical build and camera, with Speaker A expressing audible surprise and interest. (6) The video ends with a lighter, more humorous exchange and laughter as they discuss the product's exclusivity, with the music fading slightly toward the end."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
         "Tech Review",
-        "Product Demo"
+        "Product Showcase",
+        "Event / Festival"
       ],
-      "withRealPeople": true,
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "Unknown"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video starts with a close-up of a person's hands holding a black tablet with gaming controller grips attached to both ends. (2) The screen displays an Android home interface before launching the game 'Genshin Impact'. (3) The user demonstrates gameplay where a purple-clad character runs through a scenic open-world environment with stone paths and grass. (4) The camera shows the device being rotated to display its slim profile and the back, which features a dual-camera setup and branding. (5) The video concludes with continued gameplay and the person manipulating the controller's joysticks and buttons.",
-      "audio_narrative_log": "(1) Two male voices are heard in an enthusiastic and conversational dialogue in Mandarin. (2) Melodic orchestral music from the video game plays continuously in the background. (3) A consistent hum of background chatter and movement characteristic of a large public event or tech expo is audible throughout. (4) No distinct mechanical sound effects from the physical device buttons are heard over the speech and BGM.",
-      "text_narrative_log": "(1) Functional Text: Standard Android app icons like 'Google', 'Gmail', 'YouTube', and 'Play Store' appear on the menu. (2) Functional Text: Game UI elements including HP bars, skill icons, and character names 'Mona' and 'Chris' appear during gameplay. (3) Content Text: The brands 'Lenovo' and 'GAMESIR' are clearly printed on the rear of the device and controller. (4) Content Text: Technical labels like '13MP CAMERA' and 'Bluetooth' are visible on the back of the hardware."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 6,
-      "averageSceneDuration": 8.6,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Intro -> Software Demo -> Gameplay -> Hardware Reveal -> Conclusion"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 3,
-      "maleDetectAmount": 2,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Hands only",
-        "Back view"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "Hands of 1 main creator; at least 2 blurred figures visible in the background background.",
-      "mainCharacterDescription": "Only hands and forearms are visible; wearing a dark watch and a decorative ring on the right index finger."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Expo Hall",
-          "Indoor Studio"
-        ],
-        "topography": [
           "None"
         ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A professional exhibition booth with purple and white panels, featuring some blurred tech display tables and passers-by.",
-      "lightingStyle": "Bright, even expo lighting with purple ambient hues",
-      "weather": "None",
-      "season": "None",
-      "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "Low",
-        "language": [
-          "Traditional Chinese",
-          "English"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "Vibrant",
-      "cameraWork": [
-        "Handheld",
-        "Follow shot"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Tablet",
-        "Game Controller",
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Lenovo",
-        "GAMESIR",
-        "Google"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 0,
-        "offscreen": 2,
-        "backgroundCrowdVoices": 2,
-        "vocal_demographics": {
-          "male_vocal_count": 2,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Lively and informative",
-        "pitch": "Medium",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Game Soundtrack",
-      "bgmBPM": 110,
-      "instrumentFamiliesAudible": [
-        "Strings",
-        "Woodwind"
-      ],
-      "instrumentsAudible": [
-        "Violin",
-        "Flute"
-      ],
-      "musicSourceType": [
-        "Copyrighted Song"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Crowd",
-        "Studio quiet"
-      ],
-      "audioQuality": "Field"
-    }
-  },
-  "high_inference_interpretations": {
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 3.65,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Feature Highlight -> Performance Test -> Hardware Specs",
-      "mainPurpose": "To showcase the gaming performance and hardware design of a Lenovo tablet paired with a GameSir controller, specifically targeting mobile gamers by demonstrating smooth frame rates in 'Genshin Impact'.",
-      "visualEmotion": "Energetic"
+      "narrativeStructure": "Linear: Hook -> Product Demo -> Technical Specs -> Conclusion",
+      "mainPurpose": "The video serves as a live product demonstration for a Lenovo Legion gaming tablet and its controller attachment. By showcasing real-time gameplay of 'Genshin Impact' and discussing technical advantages such as vibration feedback and low latency, the creators aim to generate excitement and awareness for the device's capabilities within a mobile gaming context.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
-        "Implicit",
+        "Explicit",
         "Full"
       ],
-      "endorsementCues": "Detailed hands-on demonstration focusing on performance benefits and positive verbal highlights of technical specifications.",
+      "endorsementCues": "The video focuses entirely on demonstrating the features and performance of the Lenovo Legion device, with explicit verbal praise for its capabilities.",
       "endorsementObject": [
-        "Lenovo",
-        "GAMESIR"
+        "Lenovo Legion",
+        "Taiwan Mobile"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Hands-on tech review style typical of 3C influencers.",
-      "freeDescribe": "The video effectively uses a popular high-demand game (Genshin Impact) to validate the device's high-end performance claims."
-    }
+    "freeDescribe": "The video effectively captures the tactile experience of using the device through close-up shots and audible descriptions of physical feedback."
   }
 }

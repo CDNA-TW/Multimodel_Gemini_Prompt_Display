@@ -1,178 +1,284 @@
 {
   "videoName": "3ctim-20250928184048-1670787694081538.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 44,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Street Observation"
-      ],
+      "videoDuration": 43,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "Japan"
+      "visual_narrative_log": "(1) The camera pans across a massive crowd of people lined up behind a black retractable belt barrier on a paved urban sidewalk. A security guard in a dark uniform with reflective stripes and white gloves stands at the glass entrance of a modern building, holding a clipboard and interacting with visitors. People in the queue are dressed in various casual summer outfits, some carrying shopping bags and others holding white umbrellas to protect themselves from the intense daylight. (2) The camera tilts upwards to capture a large, silver Apple logo mounted high on the glass panels of the building's facade, reflecting the surrounding city and bright sky. It then tilts back down to show more people waiting and staff members in blue uniforms coordinating the queue near the entrance. (3) A continuous handheld tracking shot moves along the extensive line as it stretches far down the street. Diverse individuals of various ages are seen looking at their smartphones, wearing backpacks, and standing patiently. The background reveals high-end retail stores like Akris and urban street elements including traffic cones and passing vehicles under a clear blue sky. (4) A staff member in a blue shirt holds a large white sign featuring the black Apple logo and text. The camera focuses on the sign in a close-up shot, revealing instructions for the queue. The camera then continues to pan further down the street, showing the line extending far into the distance, emphasizing the significant scale of the event.",
+      "text_narrative_log": "(1) [Logo]: Apple. (2) [Slogan]: Apple 銀座. 最後尾はこちらです。 Please queue here. [Logo]: Apple.",
+      "visual_human_presence": {
+        "totalHumanCount": 65,
+        "maleDetectAmount": 40,
+        "femaleDetectAmount": 25,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 0,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face",
+          "Back view",
+          "Side view"
         ],
-        "city": [
-          "Tokyo",
-          "Ginza"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video opens with a shot of security personnel and staff in dark uniforms managing a crowd outside a large glass-fronted building. (2) The camera begins to pan and move rapidly along a sidewalk, revealing an exceptionally long queue of people extending several city blocks. (3) Many individuals in the line are holding umbrellas to shield themselves from the bright sun while looking at their smartphones. (4) The camera passes high-end retail stores like Prada and Louis Vuitton as it follows the line. (5) A staff member is shown holding a large white sign with the Apple logo that indicates the end of the queue. (6) The video concludes with wide shots showing the full scale of the crowd in the urban setting of Ginza.",
-      "audio_narrative_log": "(1) A high-energy, upbeat trap-pop song with male vocals starts immediately and continues throughout the entire duration. (2) The music has a heavy rhythmic beat with electronic percussion. (3) No ambient street noises, traffic sounds, or human voices from the queue are audible, indicating the audio track is a post-production overlay. (4) The volume remains constant without any fading or transitions.",
-      "text_narrative_log": "(1) Apple logo on the building (Functional, brand identification). (2) Building signs including 'PRADA', 'LOUIS VUITTON', and 'VAN CLEEF & ARPELS' (Functional, location context). (3) Handheld sign: 'Apple 銀座 最後尾はこちらです。 Please queue here.' (Functional, instructional text for crowd control, formal tone)."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 22,
-      "averageSceneDuration": 2.0,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Intro at Apple Store -> Fast-paced panning along the massive queue -> Conclusion at the end-of-line sign."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 100,
-      "maleDetectAmount": 60,
-      "femaleDetectAmount": 40,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 0,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Back view"
-      ],
-      "crowdLevel": "Crowd",
-      "countingEvidence": "The line contains hundreds of people stretching across several city blocks; staff and security are also present.",
-      "mainCharacterDescription": "None; the video focuses on the collective crowd rather than individuals."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
+        "crowdLevel": [
+          "Crowd"
+        ],
+        "countingEvidence": "The video shows a long, continuous line of dozens of people stretching down a major city sidewalk.",
+        "mainCharacterDescription": "No single main character; a diverse group of customers in casual attire and staff members in professional uniforms."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
           "Outdoor Street",
-          "Urban District"
+          "Retail Store",
+          "Urban Plaza / Square"
         ],
-        "topography": [
-          "Plain"
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The exterior of the Apple Store Ginza, characterized by large glass panels and a silver logo, set against a busy city street with luxury shops and urban infrastructure.",
+        "lightingStyle": [
+          "Natural daylight"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Summer"
+        ],
+        "colorTone": [
+          "Natural and bright"
         ]
       },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "Modern urban architecture in Ginza, featuring clean sidewalks, luxury retail buildings, and clear blue skies.",
-      "lightingStyle": "Bright natural daylight",
-      "weather": "Sunny",
-      "season": "Summer",
-      "editingPace": "Fast",
-      "textOverlay": {
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Panning",
+          "Tilting",
+          "Tracking shot"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Full shot",
+          "Long shot",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "High angle"
+        ],
+        "editingTechniques": [
+          "Jump cut",
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Compilation / montage sequence"
+        ]
+      },
+      "visual_text_overlay": {
         "density": "Low",
-        "language": [
+        "textLanguage": [
           "Japanese",
           "English"
         ],
         "isSubtitled": false
       },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Panning",
-        "Follow shot",
-        "Handheld"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "Car",
-        "Truck"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "Apple Ginza"
-      ],
-      "brandLogos": [
-        "Apple",
-        "Prada",
-        "Louis Vuitton",
-        "Van Cleef & Arpels"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "None",
-      "vocalRatio": "Low"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 0,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Energetic and melodic",
-        "pitch": "Medium",
-        "loudness": "High",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "English"
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "Car",
+          "Van / shuttle",
+          "Bus",
+          "Truck"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "Apple Ginza"
+        ],
+        "brandLogos": [
+          "Apple",
+          "Akris",
+          "Prada",
+          "Adidas"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Trap/Pop",
-      "bgmBPM": 140,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "None"
-      ],
-      "musicSourceType": [
-        "Copyrighted Song"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 5,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Hip-Hop/Trap"
+        ],
+        "tempoBPM": 124,
+        "mode": [
+          "Minor / Aeolian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 1,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "Korean"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Crowd Murmur"
+        ],
+        "crowdNoiseIntensity": 1,
+        "ambientNoiseDetails": [
+          "Urban/Traffic"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 1,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) A contemporary hip-hop track with an aggressive electronic beat and a male vocalist rapping in Korean begins immediately and continues throughout. The production features a prominent kick drum and rhythmic synthesizer patterns at approximately 124 BPM. A low-level urban noise floor, including distant traffic and a subtle crowd murmur, is barely audible under the driving music bed. (2) The music remains consistent with its rhythmic intensity and high arousal vocal delivery. The spectral balance is weighted toward the low-end bass and sharp mid-range transients from the electronic percussion. There is no significant acoustic change or use of sound effects, as the video relies entirely on the continuous musical track for its auditory atmosphere."
     }
   },
-  "high_inference_interpretations": {
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Vlog",
+        "Event / Festival",
+        "Short Video"
+      ],
+      "location": {
+        "country": [
+          "Japan"
+        ],
+        "city": [
+          "Tokyo"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 12,
+      "averageSceneDuration": 3.58,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Evidence -> Conclusion",
-      "mainPurpose": "To showcase the overwhelming scale of the consumer queue at the Apple Store in Ginza, Japan. By panning along the blocks-long line, the video emphasizes the popularity and cultural impact of an Apple product launch.",
-      "visualEmotion": "Energetic"
+      "narrativeStructure": "Montage: Hook -> Observation -> Contextual Conclusion",
+      "mainPurpose": "The video aims to highlight the massive public interest and huge crowds gathered at the Apple Ginza store in Tokyo, likely for the launch of a new product such as an iPhone. By showing the length of the queue and the organized staff presence, it emphasizes the cultural phenomenon and brand loyalty surrounding Apple products.",
+      "visualEmotion": [
+        "energetic",
+        "informative"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
       "endorsementMethod": [
         "None"
       ],
-      "endorsementCues": "The video appears to be organic street observation or user-generated content documenting a viral scene.",
+      "endorsementCues": "None",
       "endorsementObject": [
-        "Apple"
+        "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-speed panning shots synced with energetic background music.",
-      "freeDescribe": "The presence of many umbrellas for sun protection suggests a high-temperature day, highlighting the persistence of the fans waiting in line."
-    }
+    "freeDescribe": "The video uses effective panning and tilting to showcase both the storefront and the immense scale of the queue, creating a sense of urban excitement."
   }
 }

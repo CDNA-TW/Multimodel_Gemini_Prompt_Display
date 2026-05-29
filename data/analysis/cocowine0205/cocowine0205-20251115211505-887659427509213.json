@@ -1,180 +1,290 @@
 {
   "videoName": "cocowine0205-20251115211505-887659427509213.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 67.5,
-      "aspectRatio": "9:16",
+      "videoDuration": 69,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The video begins in a large retail warehouse with bright, clinical fluorescent lighting. A young woman with long dark hair, dressed in a white blouse and a black skirt, stands in the foreground holding a transparent plastic bowl filled with a colorful salad. She gestures animatedly with her right hand while looking towards the camera. In the background, blurred shoppers walk past refrigerated display cases containing stacks of meat. Large red and blue graphical text overlays the top and center of the frame. (2) The camera transitions to a close-up shot focusing on the salad container. The woman's hands, with manicured nails, hold the box steady. Inside, sliced hard-boiled eggs, pale chicken breast strips, vibrant purple cabbage, and green soybeans are visible atop a bed of grains. A white price label is visible on the lid. The woman points her index finger at the label while moving the container slightly. (3) Returning to a medium shot, the woman lifts the salad bowl closer to her nose, closing her eyes briefly as if inhaling the scent. Her facial expression is one of curiosity followed by a slight grimace. The background remains the busy warehouse aisle with silver metal shelving and bright lighting. New yellow and red text blocks appear at the bottom of the screen. (4) The scene cuts to an indoor residential setting with warm, soft ambient lighting. Two women are seated at a grey table; the woman from the previous scene is now wearing a dark purple top, and another woman next to her is wearing a yellow striped shirt and a bright red bucket hat. They are using chopsticks and forks to eat from smaller bowls. Behind them is a home interior with a couch and household items. (5) An extreme close-up shows the large salad bowl again. A hand holding a small plastic cup pours a thick, dark brown sauce over the sliced eggs and chicken. The liquid coats the ingredients smoothly. The lighting is bright and direct, highlighting the textures of the food. (6) The final phase shows the two women at the table again, both looking into the camera while chewing and talking. They gesture with their hands to express approval, with the woman in the red hat nodding enthusiastically. The setting remains the same home environment, and various colored text overlays pop up around them.",
+      "text_narrative_log": "(1) [Logo]: COSTCO WHOLESALE. [Variety]: 100公克 8.8克蛋白質 減肥人專吃 蛋白質穀物沙拉. (2) [Slogan]: 一公斤419元. (3) [Slogan]: 它其實聞起來 蠻難吃. (4) [Variety]: 它目前量最多. (5) [Variety]: 好市多 蛋白質穀物沙拉. (6) [Slogan]: 亞洲風味沙拉醬 加上去. (7) [Variety]: 好吃又便宜. (8) [Variety]: 醬料好棒喔 有蔥薑蒜的味道.",
+      "visual_human_presence": {
+        "totalHumanCount": 12,
+        "maleDetectAmount": 4,
+        "femaleDetectAmount": 8,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "2 main female creators, approximately 10 shoppers visible in the warehouse background at various distances.",
+        "mainCharacterDescription": "The primary character is a young woman with long black hair, initially wearing a white long-sleeved shirt and later a dark purple top. The secondary character wears a yellow striped collared shirt and a bright red bucket hat."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Supermarket / Warehouse Store",
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The first half is set in a Costco warehouse featuring refrigerated aisles, metal shelving, and other shoppers. The second half is set in a modern apartment's dining area with a neutral-colored table and home furnishings.",
+        "lightingStyle": [
+          "Bright indoor lighting",
+          "Warm indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Bright and colorful"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Extreme close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Meme-style edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Vegetables",
+          "Meat / beef / pork / chicken",
+          "Egg",
+          "Rice / grains",
+          "Condiments / sauce"
+        ],
+        "trafficDetect": [
+          "Shopping cart"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Costco"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 0,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly",
+          "Casual"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Rising",
+          "Complex"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM",
+          "Pop"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Crowd Murmur"
+        ],
+        "crowdNoiseIntensity": 1,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone",
+          "Commercial/Recreational"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Plastic / Bag Rustle",
+          "Mechanical Click / Latch",
+          "Liquid Pour / Splash",
+          "Ceramics / Glass  Clink"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Pop / Bubble SFX",
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Stingers"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A high-pitched female voice speaks with rapid, energetic prosody, characterized by frequent rising intonations. The background music is an upbeat, electronic pop track with a synthesized bassline and a tempo of approximately 128 BPM. Faint ambient noise of a public space is barely audible beneath the speech and music. (2) A sharp 'click' sound of plastic friction triggers a shift in vocal tone to a more inquisitive, slightly nasal quality as the speaker mentions a price point. The BGM remains steady and driving. The female voice maintains a high arousal level with no significant pauses between phrases. (3) A 'whoosh' transition sound occurs as a second female voice enters the mix. This voice has a similar pitch but a more casual, conversational timbre. They laugh together, creating a layered vocal texture. The BGM ducks slightly but keeps its rhythmic pulse. (4) A distinct, wet splashing sound of liquid being poured is heard, immediately followed by a synchronized high-pitched 'ding' sound effect. The vocal pitch of both women rises sharply in excitement, and the speech rate increases, indicating a high-valence emotional response. (5) Percussive 'clink' sounds of chopsticks hitting a bowl are layered over the continuous BGM. The speakers continue to talk while chewing, resulting in a slightly muffled but still clear articulation. The BGM remains bright and sharp in the high-frequency spectrum until the end. (6) The audio concludes with a final enthusiastic exclamation from the primary speaker. A short synthesizer stinger plays as the music and voices stop abruptly. The overall production is clean with a high signal-to-noise ratio, typical of a post-produced social media vlog."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
         "Food Review",
-        "Vlog"
+        "Vlog",
+        "Shopping"
       ],
-      "withRealPeople": true,
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "None"
+          "Unknown"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman stands in a Costco store holding a packaged salad, gesturing excitedly toward the camera while the background shows rows of refrigerated food. (2) The scene shifts to an indoor dining area where two women sit at a table with the opened salad. The main character picks up ingredients with chopsticks and points at them, while her companion in a red hat eats and reacts. (3) Close-up shots feature the salad's contents: sliced eggs, chicken strips, purple cabbage, edamame, and various grains. Dressing is seen being poured over the salad from a plastic cup. (4) The two women continue to taste the food, smiling and giving thumbs-up gestures to indicate their satisfaction.",
-      "audio_narrative_log": "(1) High-pitched, energetic female vocals speak in Mandarin over a light, upbeat electronic background track. Slight ambient hum from a large public space is present. (2) The music continues at a steady tempo while a second female voice joins in, adding sounds of agreement like 'Mmm' and 'Wow'. (3) Brief 'ting' and 'sparkle' sound effects occur during food close-ups, alongside the muffled sound of plastic packaging. (4) The primary female voice maintains a high speech density, concluding with an enthusiastic recommendation as the music fades.",
-      "text_narrative_log": "(1) Functional Text: 'COSTCO WHOLESALE' logo and '100公克 8.8克蛋白質' (100g, 8.8g protein). Decorative Text: '減肥人專吃' (Weight-loss must-eat). (2) Functional Text: Subtitles tracking the price of 419 NTD/kg and the list of ingredients. (3) Decorative Text: '完全不會柴' (Not dry at all) and '亞洲風味沙拉醬加上去' (Adding Asian-style dressing) in stylized variety-show fonts. (4) Functional Text: Final summary recommendation '好吃又便宜' (Delicious and cheap) with emotional emojis."
     },
     "temporal_pacing_summary": {
-      "sceneCutCount": 18,
-      "averageSceneDuration": 3.75,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Store introduction -> Home tasting/ingredient breakdown -> Final recommendation"
+      "sceneCutCount": 14,
+      "averageSceneDuration": 4.9,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
     },
-    "visual_human_presence": {
-      "totalHumanCount": 4,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 3,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Head and shoulders"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "2 main female creators, 1 female passerby, and 1 male passerby in the background of the store scene.",
-      "mainCharacterDescription": "One young woman with long dark hair wearing a white cardigan and black dress; another woman wearing a yellow striped shirt and a red bucket hat."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Costco Wholesale",
-          "Indoor Dining Room"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "First scene is a bright warehouse-style grocery store with refrigerated shelves; second scene is a modern home dining room with a marble-patterned table.",
-      "lightingStyle": "Bright, even indoor artificial lighting.",
-      "weather": "None",
-      "season": "None",
-      "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural and High Saturation",
-      "cameraWork": [
-        "Static",
-        "Handheld",
-        "Close-up"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Salad",
-        "Boiled Egg",
-        "Chicken Breast",
-        "Edamame",
-        "Sweet Potato",
-        "Grains"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "COSTCO"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 1,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 2,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Cheerful and persuasive",
-        "pitch": "High-pitched",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speechDensity": "High",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat/Vlog-style",
-      "bgmBPM": 125,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Digital Drums"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "Ding",
-        "Sparkle SFX"
-      ],
-      "ambientNoise": [
-        "Muffled grocery store hum"
-      ],
-      "audioQuality": "Field Recording"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Evidence -> Review -> Verdict",
-      "mainPurpose": "The video is a food review vlog intended to influence viewers to purchase the 'Protein Grain Salad' from Costco. It leverages the hook of health/weight-loss benefits (high protein) and combines an on-site discovery with a practical home-tasting experience to prove the product's value and taste quality.",
-      "visualEmotion": "Energetic and positive"
+      "narrativeStructure": "Linear: Hook -> Product Introduction -> Tasting/Trial -> Conclusion/Recommendation",
+      "mainPurpose": "The video serves as a review and recommendation of a specific high-protein salad found at Costco, targeting health-conscious viewers or those on a diet. It uses a dynamic vlog style to show both the purchase and the actual consumption, emphasizing the value, nutritional content, and surprising flavor profile of the product.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
-      "isEndorsement": true,
+      "isEndorsement": false,
       "endorsementMethod": [
-        "Implicit",
-        "Integrated"
+        "None"
       ],
-      "endorsementCues": "The creator provides a highly favorable review, detailed pricing, and nutritional information, concluding with an explicit recommendation for a specific audience (weight loss/fitness).",
+      "endorsementCues": "While featuring a specific brand (Costco), the content appears to be a user-generated review/vlog rather than a paid advertisement.",
       "endorsementObject": [
-        "COSTCO"
+        "Costco"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-energy Mandarin narration, variety-show style text graphics, and a focus on cost-performance (CP value).",
-      "freeDescribe": "Typical lifestyle content format prevalent in Taiwanese social media targeting health-conscious grocery shoppers."
-    }
+    "freeDescribe": "The video uses typical social media editing cues like fast cuts, bright text overlays, and enthusiastic voices to maintain high viewer engagement throughout its duration."
   }
 }

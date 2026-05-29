@@ -1,14 +1,244 @@
 {
   "videoName": "3ctim-20250908172749-1273059391401971.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 45,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Tech Commentary",
-        "Gaming News"
-      ],
+      "videoDuration": 46,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A middle-aged man with glasses and a flat cap stands in a studio setting, speaking directly to the camera with high energy. He wears a dark shirt with green accents and a wooden bead bracelet. Behind him is a blurred indoor background with soft lighting. (2) The scene cuts to high-fidelity video game footage showing a man on a motorcycle and a vintage airplane flying over a tropical cityscape. The primary speaker remains in a circular inset at the bottom right. (3) Nighttime game footage follows, featuring a boat speeding through water and a car transporter truck on a city bridge. Lighting is high-contrast with vibrant neon and streetlights. (4) The visuals shift to a daytime aerial view of a sprawling coastal city with turquoise water and many boats. The camera pans across a dense urban environment with palm trees. (5) Fast-paced action sequences from the game are shown, including characters fighting in a ring, a police standoff, and jet skis racing on the water. (6) The man returns to full screen, gesturing towards the camera as graphic overlays of game consoles (PS5, Xbox) and a release date appear around him.",
+      "text_narrative_log": "(1) [Logo]: 3c有意思tim哥. [Logo]: 3ctim. [Logo]: miko. [Variety]: 睽違11年. (2) [Logo]: Rockstar Games. [Variety]: GTA6 正式回歸了!. (3) [Subtitle]: 遊戲公司無預警釋出. (4) [Variety]: 突破了4000萬. (5) [Subtitle]: 展現了主角犯罪冒險. [Variety]: 逼真真的有如電影. (6) [Slogan]: MAY 26, 2026. [Logo]: PS5. [Logo]: Xbox Series X/S.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main creator present throughout; gameplay footage characters are excluded from physical pixel census as they are CGI.",
+        "mainCharacterDescription": "Middle-aged man wearing a black t-shirt with green text, a grey patterned flat cap, and wire-frame glasses."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio",
+          "Digital Interface / Screen Capture"
+        ],
+        "locationTopography": [
+          "Urban High-rise / Skyline",
+          "Coastline / Beach"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A blurred indoor studio environment and high-fidelity CGI tropical urban landscapes including beaches, highways, and swamps.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Summer"
+        ],
+        "colorTone": [
+          "Warm and vibrant"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Fast cuts",
+          "Picture-in-picture / inset"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Compilation / montage sequence"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Bird"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "Car",
+          "Scooter / motorcycle",
+          "Airplane",
+          "Boat / ferry / ship",
+          "Truck"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Rockstar Games",
+          "PlayStation",
+          "Xbox"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Impact / Hit SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 5,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The narrator begins with high-energy speech, delivered at a rapid rate with upward inflections, while a rhythmic, synth-heavy EDM track plays at a moderate volume in the background. (2) A sharp whoosh sound effect transitions the audio as game trailer sounds, including a distant aircraft engine hum, are introduced. (3) The narrator's voice remains clear and centered, maintaining high arousal as a percussive impact sound coincides with a scene change in the background. (4) The music tempo remains steady while environmental wind noise is briefly audible beneath the commentary. (5) A series of quick rhythmic pulses in the music match the intensity of the spoken words as the speaker discusses game mechanics. (6) The vocal loudness increases for the final delivery, ending on a strong rising tone, while the background music fades out slightly into a clean studio finish."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Tech News / Commentary",
+        "Gaming"
+      ],
       "location": {
         "country": [
           "Taiwan"
@@ -18,166 +248,30 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A male host wearing a plaid cap and glasses speaks to the camera, pointing and gesturing. (2) Montage of video game trailer footage begins, showing motorcycles, airplanes, and cityscapes. (3) Cinematic action scenes including car chases, explosions, and characters Lucia and Jason are shown. (4) The host reappears in a circular inset over game footage. (5) Final shot shows the host talking while graphics of game consoles and a release date are displayed.",
-      "audio_narrative_log": "(1) Fast-paced, upbeat electronic background music starts. A male voice speaks in a professional, energetic tone. (2) SFX including engine revving, tires screeching, and distant sirens are layered under the narration during game clips. (3) The vocal intensity remains high as the host delivers information about release dates and platforms. (4) Music continues at a consistent volume until the video ends.",
-      "text_narrative_log": "(1) Functional Text: Traditional Chinese subtitles throughout the video translating the spoken content. (2) Decorative/Effect Text: 'GTA 6' title with a glowing effect. (3) Decorative/Effect Text: '4000萬' (40 million) highlights view counts. (4) Functional Text: '2026年5月26號發售' indicating the release date. (5) Functional Text: 'PS5' and 'Xbox Series X/S' labels next to console images."
-    },
     "temporal_pacing_summary": {
       "sceneCutCount": 18,
       "averageSceneDuration": 2.5,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Hook (GTA 6 announcement) -> Montage (Game Trailer clips) -> Outro (Release info and platforms)"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main creator (Tim) appearing throughout; other characters in trailer are CGI game assets.",
-      "mainCharacterDescription": "Middle-aged male with glasses, wearing a grey plaid newsboy cap and a black t-shirt with a green graphic."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Studio"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A blurred home office or studio with shelves and ambient lighting; switches to Vice City-style game environments (beach, city streets, swamps).",
-      "lightingStyle": "Studio softbox lighting on host; cinematic lighting in game trailer clips.",
-      "weather": "Sunny (in game footage)",
-      "season": "Summer (in game footage)",
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural/Warm (Host), Vibrant/Saturated (Game Footage)",
-      "cameraWork": [
-        "Static",
-        "POV",
-        "Follow shot"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "Motorcycle",
-        "Car",
-        "Airplane",
-        "Helicopter",
-        "Boat"
-      ],
-      "techDetect": [
-        "PlayStation 5",
-        "Xbox Series X",
-        "Smartphone"
-      ],
-      "landmark": [
-        "Vice City (Fictional)"
-      ],
-      "brandLogos": [
-        "Rockstar Games",
-        "miko",
-        "3c有意思tim哥"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and professional",
-        "pitch": "Medium",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Engine rev",
-        "Explosion",
-        "Siren"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Information Breakdown -> CTA",
-      "mainPurpose": "To report on the latest trailer release of Grand Theft Auto 6, providing analysis of the trailer's content, view counts, and official release information for consoles.",
-      "visualEmotion": "Energetic and Anticipatory"
+      "narrativeStructure": "Montage: Hook -> Information Synthesis -> Call to Action",
+      "mainPurpose": "To report and discuss the release of the GTA 6 trailer, providing details on release dates and platform availability to build anticipation among the gaming community.",
+      "visualEmotion": [
+        "energetic",
+        "informative"
+      ]
     },
     "endorsement_analysis": {
-      "isEndorsement": true,
+      "isEndorsement": false,
       "endorsementMethod": [
-        "Explicit",
-        "Full"
+        "None"
       ],
-      "endorsementCues": "Presence of 'miko' logo throughout the video and branded graphics.",
+      "endorsementCues": "None",
       "endorsementObject": [
-        "miko"
+        "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Host's signature cap and '3c有意思tim哥' branding.",
-      "freeDescribe": "The video effectively uses B-roll from game trailers to maintain high engagement while providing tech-specific release details."
-    }
+    "freeDescribe": "High-intensity social media style news report focusing on trending gaming news. The fast-paced editing and vibrant CGI overlays make it ideal for high-engagement short-form video clusters."
   }
 }

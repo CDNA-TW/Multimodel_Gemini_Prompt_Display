@@ -1,153 +1,259 @@
 {
   "videoName": "0_shufen-20251208135743-2660784704301085.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 10,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Comedy"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A woman with long, flowing dark hair and sunglasses perched atop her head faces the camera in a vertical selfie-style shot. She wears a floral-patterned dress with pink and white tones, partially covered by a black jacket. She exhibits a warm, smiling facial expression with her eyes crinkled and her mouth curved upwards. The background consists of a multi-story building with white tiling and windows, suggesting an outdoor urban setting with bright, natural daylight providing even illumination on her face. (2) The scene cuts to a black and white cat positioned on a red-patterned brick pavement, crouching directly beneath the metallic undercarriage and rear axle of a large vehicle. The cat has distinctive green eyes and a small black patch on its pink nose. It opens its mouth wide, displaying its tongue as if vocalizing, while maintaining a steady gaze. Several layers of white text in different font styles and sizes appear and disappear across the bottom and center of the frame against the urban background.",
+      "text_narrative_log": "(1) [Subtitle]: 喵喵. (2) [Subtitle]: 喵喵. (3) [Variety]: (衝三小). (4) [Subtitle]: 我的姻緣在台南嗎? (5) [Variety]: (靠邀喔). (6) [Subtitle]: 沒有啊..?",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Head and shoulders",
+          "Face",
+          "Face close-up"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main female creator",
+        "mainCharacterDescription": "A young woman with long dark hair, wearing sunglasses on her head and a floral dress under a black jacket."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Outdoor Street"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "An urban street with a white tiled building in the background of the first shot, and the undercarriage of a truck on a red brick pavement in the second.",
+        "lightingStyle": [
+          "Natural daylight"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Spring / Summer"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Selfie handheld"
+        ],
+        "shotSize": [
+          "Close-up",
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Selfie perspective"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Cat"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "Car",
+          "Truck"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 3
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 6,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 120,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 2,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Nature/Outdoor"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Animal Sound / Barking"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 3,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 3,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) A female voice with a high-pitched, playful, and high-arousal delivery produces two distinct 'meow' sounds. The speech rate is moderate, and the tone is cheerful and friendly. Accompanying this is a whimsical background music track featuring light percussive taps and a melodic synthesizer or acoustic guitar line at approximately 120 BPM. The ambient noise floor is low, characteristic of a quiet outdoor environment, and the recording sounds clean with high articulation clarity. (2) A sharp, raspy, and low-fidelity animal vocalization occurs, identified as a cat's meow with significant vocal roughness and strain. This transient sound marks a clear shift in the acoustic texture. The background music continues uninterrupted, maintaining its playful and lighthearted mode. There is a subtle resonance as if the sound is captured in a semi-enclosed space, likely reflecting off the ground and vehicle parts, while the female speaker remains silent. (3) The female voice returns to the mix, speaking a short sentence in Mandarin Chinese with a melodic, questioning intonation and high pitch variability. The delivery is clear and conversational, with a moderate volume that sits comfortably above the background music. The musical track remains consistent in tempo and volume, providing a steady harmonic foundation. No significant incidental noises like footsteps or wind are audible, keeping the focus on the vocal-music interplay. (4) A second animal vocalization, similar in raspy timbre and intensity to the first, is heard responding to the human speech. This sound event has a high spectral bandwidth and a sharp attack, cutting through the background music. The music continues with its light rhythm, and the female speaker is absent during this specific acoustic event. The overall dynamic range is moderate, with the animal sound providing a peak in the loudness profile. (5) The female voice delivers a final short phrase with a falling intonation and a decrease in arousal and volume, conveying a sense of realization or mild disappointment. The articulation remains clear and professional. The background music maintains its light tempo before eventually tapering off. The signal-to-noise ratio remains high throughout this phase, with the vocals and music clearly separated from any faint environmental hum or studio silence."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Meme / Trend",
+        "Short Video"
+      ],
       "location": {
         "country": [
-          "Taiwan"
+          "Unknown"
         ],
         "city": [
           "Tainan"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman with long dark hair and sunglasses on her head smiles and looks into the camera, wearing a floral dress and black jacket in an outdoor setting. (2) The scene cuts to a black and white cat crouching under the chassis of a parked vehicle on a brick-patterned ground. (3) The cat opens its mouth wide, making exaggerated facial expressions as if responding to a question, while the camera remains static on the animal.",
-      "audio_narrative_log": "(1) Upbeat electronic BGM starts with a high-pitched female voice saying 'Meow meow' in a rhythmic manner. (2) The same female voice asks a question in Mandarin with a cheerful, curious tone. (3) A distorted, screechy cat sound effect plays as a meme-style SFX, followed by the female voice speaking again with a slightly disappointed or humorous questioning tone.",
-      "text_narrative_log": "(1) '喵喵' (Meow meow) - Decorative text mimicking a cat sound. (2) '(衝三小)' - Humorous variety-style caption expressing 'What on earth?'. (3) '我的姻緣在台南嗎?' - Functional subtitle asking 'Is my fate/marriage in Tainan?'. (4) '(靠邀喔)' - Humorous decorative text using Taiwanese slang for exclamation. (5) '沒有啊..?' - Functional subtitle translating the final spoken response 'None..?'."
-    },
     "temporal_pacing_summary": {
       "sceneCutCount": 1,
-      "averageSceneDuration": 5.0,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro -> Questioning the cat for a humorous response"
+      "averageSceneDuration": 5,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
     },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main female creator visible at the start",
-      "mainCharacterDescription": "A young woman with long dark hair, wearing sunglasses on her head, a black jacket, and a floral dress."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Outdoor Street"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "First scene shows a building facade; second scene shows the undercarriage and tire of a car parked on red brick pavement.",
-      "lightingStyle": "Natural light",
-      "weather": "Sunny",
-      "season": "Unknown",
-      "editingPace": "Fast",
-      "textOverlay": {
-        "density": "Medium",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "POV"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "Cat"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "Car"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Friendly and humorous",
-        "pitch": "Normal",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic"
-      ],
-      "instrumentsAudible": [
-        "None"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Meme sounds"
-      ],
-      "ambientNoise": [
-        "Street"
-      ],
-      "audioQuality": "Field"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Question -> Reaction",
-      "mainPurpose": "The video is a short comedy vlog intended for social media engagement. It uses a relatable theme of seeking romantic guidance from an unlikely source (a stray cat). The humor is derived from the anthropomorphic interpretation of the cat's expressions through text and sound effects.",
-      "visualEmotion": "Humorous"
+      "narrativeStructure": "Montage: Hook -> Evidence -> Conclusion",
+      "mainPurpose": "The video presents a humorous and whimsical interaction between the creator and a stray cat. By anthropomorphizing the cat's meows with funny text overlays, the creator explores the theme of searching for romantic prospects in Tainan, resulting in a relatable comedy piece for social media audiences.",
+      "visualEmotion": [
+        "humorous",
+        "energetic",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -159,9 +265,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Use of Taiwanese slang and variety-show style animated captions.",
-      "freeDescribe": "The video leverages the popularity of animal content combined with personal storytelling to create a lighthearted, shareable clip."
-    }
+    "freeDescribe": "The use of Tainan local context and slang text overlays enhances the comedic value for regional viewers."
   }
 }

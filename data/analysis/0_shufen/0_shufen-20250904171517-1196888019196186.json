@@ -1,154 +1,254 @@
 {
   "videoName": "0_shufen-20250904171517-1196888019196186.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 10.6,
-      "aspectRatio": "9:16",
+      "videoDuration": 10.3,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A young woman with long, sleek dark hair and expressive eyes stares into the camera in a medium close-up. She wears a brown spaghetti-strap top that highlights her décolletage. Her makeup is polished with defined eyeliner and red lipstick. She speaks directly to the viewer with a slight smile, set against a plain, brightly lit indoor background. (2) The background changes slightly to include a yellow zig-zag neon light that appears behind her shoulder. The woman's expression shifts to one of slight shock as colorful, stylized comic-book style text bubbles with bold characters appear around her. The lighting remains bright, focusing on her reaction and the vibrant graphical overlays that dominate the upper frame. (3) The woman maintains a wide-eyed, stunned expression, looking speechless towards the camera lens. Multiple white thought bubbles containing black question marks appear around her head, signifying her utter confusion at the preceding statement. The scene ends on this frozen reaction, with the neon light still visible in the background and the woman's posture remaining static in a selfie perspective.",
+      "text_narrative_log": "(1) [Subtitle]: 今天有個弟弟跟我告白. (2) [Subtitle]: 我就拒絕他說.. (3) [Subtitle]: 我不喜歡小孩子. (4) [Subtitle]: 他就.. (5) [Subtitle]: 信誓旦旦的保證.. (6) [Variety]: 你放心吧. [Variety]: 我會帶套的!!. [Variety]: ?",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Head and shoulders",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main female character talking to the camera.",
+        "mainCharacterDescription": "A young woman with long dark hair, wearing a brown spaghetti strap top and heavy makeup."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A plain white indoor wall that later features a yellow zig-zag neon light overlay.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Selfie handheld"
+        ],
+        "shotSize": [
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Graphic transition",
+          "Subtitled social-media edit",
+          "Freeze frame"
+        ],
+        "visualRhythm": [
+          "Rhythm matched to speech"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Comedic/Exaggerated"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 6,
+        "valence": 7,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop"
+        ],
+        "tempoBPM": 110,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 2,
+        "instrumentFamiliesAudible": [
+          "Keyboard",
+          "Electronic"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Pop / Bubble SFX",
+          "Digital UI SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 0,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A clear female voice begins a narrative in Mandarin Chinese with a friendly and casual tone. The speech is delivered at a moderate rate with clear articulation and conversational inflections. In the background, a soft, mid-tempo electronic keyboard background music plays at a low volume, providing a lighthearted and positive atmosphere. The ambient noise floor is very low, indicating a controlled indoor environment. (2) A distinctive 'pop' sound effect, characteristic of post-production comic-style overlays, occurs twice as the woman's speech pattern reaches the narrative climax. The background music continues consistently without interruption, but the vocal intensity increases slightly to emphasize the humor of the reported dialogue. The audio design effectively highlights the contrast between the narration and the sudden digital SFX. (3) The vocal narration concludes with a surprised lilt, followed by a strategic pause in the speaking track. A final, subtle 'bubble' sound effect is heard, coinciding with the visual appearance of question marks. The background music fades out cleanly at the very end of the clip. The overall production quality is crisp and professional, with a high signal-to-noise ratio typical of social media content."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
         "Comedy",
-        "Talking Head"
+        "Meme / Trend"
       ],
-      "withRealPeople": true,
       "location": {
         "country": [
-          "Unknown"
+          "None"
         ],
         "city": [
           "None"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman with long dark hair and heavy makeup, wearing a brown spaghetti strap top, faces the camera directly and begins speaking with a slight smile. (2) As she continues her story, she gestures slightly with her head and looks away momentarily to emphasize her narrative. (3) Upon reaching the punchline, she opens her eyes wide in a shocked or stunned expression as cartoon question mark graphics appear around her.",
-      "audio_narrative_log": "(1) A female voice speaks in Mandarin with a clear, storytelling tone at a moderate pace. (2) The speaker changes her tone slightly to mimic a dialogue, adopting a more assertive, deeper voice for the quoted line. (3) A brief cartoonish 'boing' or 'confused' sound effect plays at the end as the speech stops.",
-      "text_narrative_log": "(1) Functional Text: White subtitles appear at the bottom: '今天有個弟弟跟我告白' (Today a younger brother confessed to me). (2) Functional Text: '我就拒絕他說...' (I rejected him saying...). (3) Decorative Text: '我不喜歡小孩子' (I don't like kids) appears in a stylized pink font for emphasis. (4) Decorative Text: '妳放心吧 我會帶套的!!' (Don't worry, I'll bring a condom!!) appears in bold red and yellow variety-show style text to highlight the punchline."
-    },
     "temporal_pacing_summary": {
       "sceneCutCount": 0,
-      "averageSceneDuration": 10.6,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro/Context -> Conflict/Rejection -> Unexpected Twist/Punchline"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full face",
-        "Shoulders",
-        "Upper chest"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main female creator speaking directly to camera.",
-      "mainCharacterDescription": "A young woman with long dark hair, wearing heavy eyeliner and false lashes, a red lipstick, and a brown camisole top."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Bedroom"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A simple indoor setting with a white wall and a portion of a bed with a blue sheet and pillow visible in the background.",
-      "lightingStyle": "Soft indoor lighting, possibly a ring light for content creation.",
-      "weather": "Unknown",
-      "season": "Unknown",
+      "averageSceneDuration": 10.3,
       "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "Medium",
-        "language": [
-          "Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Warm, high saturation on the lips and skin.",
-      "cameraWork": [
-        "Static"
-      ]
+      "isNarrativeShift": false
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "None",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Humorous and expressive",
-        "pitch": "Medium-high",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": false,
-      "bgmGenre": "No Music",
-      "bgmBPM": 0,
-      "instrumentFamiliesAudible": [
-        "None"
-      ],
-      "instrumentsAudible": [
-        "None"
-      ],
-      "musicSourceType": [
-        "None"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "Cartoon shock SFX"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Field"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Narrative Conflict -> Humorous Punchline",
-      "mainPurpose": "To entertain the audience with a 'dirty joke' or 'adult humor' anecdote based on a linguistic misunderstanding between 'kid' (age) and 'kid' (offspring).",
-      "visualEmotion": "Humorous, Provocative"
+      "narrativeStructure": "Linear: Hook -> Narrative -> Punchline",
+      "mainPurpose": "To entertain the audience through a humorous anecdote about a linguistic misunderstanding. The creator recounts rejecting a younger admirer by saying she 'doesn't like kids', which he interprets in a sexual safety context rather than an age preference context, leading to a comedic 'speechless' ending.",
+      "visualEmotion": [
+        "humorous",
+        "energetic"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -160,9 +260,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-angle selfie-style framing, variety-show style text effects.",
-      "freeDescribe": "The video relies heavily on the 'attractive female teller of crude jokes' trope common in short-form video platforms."
-    }
+    "freeDescribe": "Social media skit utilizing standard comedy tropes and editing styles (text overlays, SFX cues)."
   }
 }

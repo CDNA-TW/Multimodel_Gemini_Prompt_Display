@@ -1,160 +1,260 @@
 {
   "videoName": "2uncle987-20251101215245-1984885685769000.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 41,
-      "aspectRatio": "9:16",
+      "videoDuration": 41.0,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A young woman with long dark hair, wearing a blue long-sleeved shirt, leans her chin on her hands on a wooden desk. Several books are stacked in front of her. The background features colorful wall art, including a large blue puzzle piece and a tomato-themed poster. She looks off-camera with a pouting expression, then points her finger upward as if reporting someone. (2) The scene changes to the woman in a pink-patterned dress, crouching on a rug with a geometric pattern. She uses her finger to trace circles on the floor while looking dejected. A person's hand in a black sleeve reaches in and touches her shoulder. (3) The woman is now in a dark green hoodie, smiling and giggling while holding her hand to her cheek. In the background, a man in a floral shirt and a woman in a red shirt are seen interacting; the man playfully pats the other woman's head. (4) The woman is wearing a black sweatshirt, looking to the side with a defiant expression. She later looks directly at the camera with a subtle smile. (5) Dressed in a tan shirt, she holds both hands up, interlocking her index fingers and pulling them apart in a 'cutting' motion. She is in a room with a record player and various posters on the wall. (6) Wearing an off-shoulder black sweatshirt, she points her finger aggressively toward someone off-camera, then bursts into laughter, covering her mouth. (7) A black screen appears with yellow Chinese text and a laughing emoji.",
+      "text_narrative_log": "(1) [Subtitle]: 超線. [Variety]: (愛告狀 😡). (2) [Subtitle]: 地板繞圈圈. [Variety]: (是要繞幾圈). (3) [Subtitle]: 男生愛女生. [Subtitle]: 男生愛女生羞羞臉. (4) [Subtitle]: 筆借我一下. [Subtitle]: 不要. [Subtitle]: 小氣鬼喝涼水. [Subtitle]: 小氣鬼喝涼水喝到半夜變魔鬼. (5) [Subtitle]: 怎樣啦. [Subtitle]: 我要跟你切八段. [Variety]: (這句打開切不斷). (6) [Subtitle]: 你很笨欸. [Subtitle]: 指別人就是指自己. [Variety]: (無俚頭). (7) [Slogan]: 還有什麼底下留言😆.",
+      "visual_human_presence": {
+        "totalHumanCount": 3,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face close-up",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main female creator appears in every scene; 1 male and 1 additional female appear in the background of one segment.",
+        "mainCharacterDescription": "A young Asian woman with long, dark, wavy hair, wearing various casual outfits including a blue long-sleeve shirt, a pink camouflage dress, a green hoodie, and a black sweatshirt."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio",
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A studio space decorated to look like a youthful indoor room with colorful posters, puzzle-shaped wall decor, a yellow chair, a red record, and various small props like books and a stuffed dog.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Bright and colorful"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium close-up",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Compilation / montage sequence"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Plush / decoration / toy animal"
+        ],
+        "foodsDetect": [
+          "Food on packaging / logo"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "PRADA"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 1,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Comedic/Exaggerated",
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 7,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 115,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter"
+        ],
+        "crowdNoiseIntensity": 1,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A female voice speaks with a high-pitched, exaggerated whining tone, complaining about someone crossing a line. The background music is a playful, upbeat synthesizer melody with a steady electronic drum beat. (2) The same female voice continues with a lower, slightly sadder tone, telling someone not to touch her. The BGM remains consistent in tempo and mood. (3) The female voice transitions into a rhythmic, teasing chant or rhyme about boys liking girls. Laughter is audible in the background. (4) A male voice briefly asks to borrow a pen, followed by the female voice's sharp refusal. She then launches into another rhythmic, mocking rhyme about a 'stingy ghost.' (5) An argumentative exchange occurs between a male and female voice, ending with the female voice declaring a desire to 'cut ties' in a sharp, assertive manner. (6) The female voice mocks someone's intelligence and recites a playground logic rhyme about pointing fingers. The BGM concludes with the female creator laughing heartily."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
         "Comedy",
-        "Vlog",
-        "Social Sketch"
+        "Meme / Trend",
+        "Short Video"
       ],
-      "withRealPeople": true,
       "location": {
         "country": [
           "Unknown"
         ],
         "city": [
-          "Unknown"
+          "None"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) 00:00-00:06: A woman in a blue sweater sits at a desk cluttered with books, looking annoyed and pointing her finger aggressively, eventually shouting toward the ceiling while looking distressed. (2) 00:07-00:13: The scene changes to the woman in a pink dress crouching on a play mat, drawing circles on the floor with her finger; she looks sulky and brushes away a hand that tries to touch her shoulder. (3) 00:14-00:19: The woman, now in a green hoodie, giggles and points at a man in a colorful shirt and a woman in red standing in the background. (4) 00:20-00:27: Wearing a black sweatshirt, the woman reacts with dramatic indignation to someone off-camera, eventually reciting something with a mocking expression. (5) 00:28-00:32: The woman in a tan t-shirt makes a crossing gesture with her fingers toward the camera, looking angry. (6) 00:33-00:39: Back in the black sweatshirt, she points at an off-camera person, then turns her palm toward herself while laughing hysterically. (7) 00:40-00:41: Black screen with golden text.",
-      "audio_narrative_log": "(1) 00:00-00:06: A high-pitched female voice speaks in a complaining tone, followed by an upbeat, playful woodwind and percussion BGM. (2) 00:07-00:13: A male voice asks a question in a soft tone, followed by the female voice shouting \"Don't touch me!\" with a sharp, annoyed pitch. (3) 00:14-00:19: The female voice chants a rhythmic, taunting nursery-rhyme-like phrase about boys and girls. (4) 00:20-00:27: A brief dialogue occurs where a voice asks to borrow something and the woman shouts \"No!\" followed by a longer, rhythmic mocking chant. (5) 00:28-00:32: High-decibel female shouting expressing anger and a desire to break ties. (6) 00:33-00:39: Playful banter ending in loud, genuine female laughter. (7) 00:40-00:41: BGM fades out.",
-      "text_narrative_log": "(1) \"超線\" - Decorative Hook text, dramatic tone. (2) \"吼~你超線了啦 老師\" - Functional subtitle, complaining tone. (3) \"(愛告狀)\" - Decorative label, teasing tone. (4) \"地板繞圈圈\" - Decorative Hook text. (5) \"你還好嗎\" - Functional subtitle, concerned tone. (6) \"不要碰我啦\" - Functional subtitle, angry tone. (7) \"(是要轉幾圈)\" - Decorative caption, sarcastic tone. (8) \"男生愛女生\" - Decorative Hook text. (9) \"男生愛女生羞羞臉\" - Functional subtitle, mocking tone. (10) \"小氣鬼喝涼水\" - Decorative Hook text. (11) \"筆借我一下\" - Functional subtitle, inquisitive tone. (12) \"小氣鬼喝涼水 喝到半夜變魔鬼\" - Functional subtitle, rhythmic mocking tone. (13) \"切八段\" - Decorative Hook text. (14) \"我要跟你切八段\" - Functional subtitle, angry tone. (15) \"指別人就是指自己\" - Decorative Hook text. (16) \"你很笨欸\" - Functional subtitle, teasing tone. (17) \"(無情笑場)\" - Decorative label, humorous tone. (18) \"還有什麼底下的留言\" - Call to action text."
     },
     "temporal_pacing_summary": {
       "sceneCutCount": 6,
       "averageSceneDuration": 6.8,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro -> Vignette 1 (Classroom) -> Vignette 2 (Sulking) -> Vignette 3 (Teasing) -> Vignette 4 (Stingy) -> Vignette 5 (Conflict) -> Outro"
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
     },
-    "visual_human_presence": {
-      "totalHumanCount": 4,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Upper body"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 main female creator, 1 man in colorful shirt, 1 woman in red shirt, 1 person only showing a hand.",
-      "mainCharacterDescription": "A young Asian woman with long dark hair, wearing various casual outfits including a blue sweater, pink dress, and green hoodie."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Studio",
-          "Bedroom",
-          "Classroom-style set"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "The backgrounds are decorated with posters, puzzle pieces, vinyl records, and bright colors, resembling a teenager's room or a creative studio.",
-      "lightingStyle": "Bright studio lighting",
-      "weather": "Unknown",
-      "season": "Unknown",
-      "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "High Saturation",
-      "cameraWork": [
-        "Static",
-        "Close-up"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "Teddy bear"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Prada"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Fragmented",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 2,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 2,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Humorous, dramatic, mocking, and high-pitched",
-        "pitch": "High",
-        "loudness": "High",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat",
-      "bgmBPM": 115,
-      "instrumentFamiliesAudible": [
-        "Percussion",
-        "Woodwind"
-      ],
-      "instrumentsAudible": [
-        "Drum kit",
-        "Flute"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Vignettes -> CTA",
-      "mainPurpose": "The video aims to entertain by performing a series of relatable comedic sketches that recreate common social scenarios and 'unspoken rules' from childhood or student life, using exaggeration and nostalgic references to engage the audience.",
-      "visualEmotion": "Energetic and Humorous"
+      "narrativeStructure": "List-based: Introduction -> Thematic Compilation -> Engagement Outro",
+      "mainPurpose": "The video is a comedic compilation of common childhood sayings and behavior patterns familiar to Mandarin speakers. The creator uses exaggerated facial expressions and acting to recreate nostalgic scenarios like reporting classmates, chanting playground rhymes, and 'cutting ties' (social distancing) as kids do. The intent is to evoke nostalgia and entertain through relatable cultural tropes.",
+      "visualEmotion": [
+        "humorous",
+        "energetic",
+        "nostalgic"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -166,9 +266,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-energy acting, quick cuts between character costumes, and use of variety-show style text stickers.",
-      "freeDescribe": "The video utilizes cultural tropes specific to Sinosphere childhoods (e.g., 'cutting ties into eight segments' or 'stingy ghost' rhymes), which serves as a strong hook for viewers from those backgrounds."
-    }
+    "freeDescribe": "The video relies heavily on cultural context and linguistic rhymes to deliver its humor. The visual style is consistent with high-energy short-form social media content."
   }
 }

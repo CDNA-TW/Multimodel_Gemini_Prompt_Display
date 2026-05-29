@@ -1,180 +1,283 @@
 {
   "videoName": "3ctim-20250914211139-915192644816996.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 34,
-      "aspectRatio": "9:16",
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A man with glasses, wearing a blue cap and a white hoodie with a rainbow Apple logo, stands in a brightly lit indoor room. He gestures with both hands as if explaining something. An image of white AirPods Pro earbuds in a charging case is superimposed on the lower-left side of the frame with large white text underneath. (2) The scene cuts to a high-detail close-up of the AirPods Pro charging case mounted on a thin metal stand against a blurred background. The case is white and glossy. A small circular inset in the bottom left shows the man continuing to speak. (3) The man is back in full view, speaking with high energy. Yellow text overlays appear horizontally across the middle of the screen. He moves his hands dynamically to emphasize his points. (4) A close-up shot shows a hand holding a dark-colored smartphone. The screen displays a 'Live Translation' interface with multiple languages. The background is slightly blurred. (5) The man is shown indoors again, gesturing with his fingers spread. He looks directly at the camera with a serious but informative expression. (6) A screen capture of a smartphone's fitness app is shown, displaying metrics like '45 FT', '24'46\"', and '105' in large white font. (7) A close-up of the man's ear shows a white AirPod earbud. He is now outdoors in a natural daylight environment with green trees and a clear sky in the background. He turns his head to show the fit of the earbud. (8) The final shot shows the man outdoors, looking slightly upward and then back to the camera. He is smiling slightly, and subtitles continue to scroll at the bottom of the frame.",
+      "text_narrative_log": "(1) [Logo]: 3c有趣思tim哥. [Logo]: @3ctim. (2) [Subtitle]: AirPods Pro 3 有更新了哪些重點? [Variety]: 更新什麼重點? (3) [Slogan]: #1 主動式降噪功能. (4) [Subtitle]: 包含第一個, 主動式的降噪功能, 它比AirPods Pro 2 是它的性能的兩倍. [Variety]: (比上一代更降噪了) 性能2倍. (5) [Slogan]: #2 即時翻譯功能. (6) [Subtitle]: 而且還具備了即時翻譯功能, 但目前還不支援中文. (7) [Subtitle]: 心律的偵測功能, 搭配手機, 你按下去就可以看. [Slogan]: #3 心律偵測功能. (8) [Slogan]: #4 五款耳塞供選擇. (9) [Subtitle]: 另外有五款不同的耳塞呢, 可以配合不同的需要. (10) [Subtitle]: 主動降噪的功能呢, 正常可以使用8小時, 跟上一代比起來呢, 增加了兩個小時. [Variety]: (增加了) 2個小時. (11) [Subtitle]: 如果你是用通透模式的話, 一樣可以用10小時, 支援IP57 抗汗. (12) [Subtitle]: 遇到下雨也完全不用怕.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Face close-up",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main creator speaking to the camera.",
+        "mainCharacterDescription": "An adult male wearing a light-colored cap, glasses, and a white hoodie with a colorful Apple logo and a yellow lanyard."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Living Room",
+          "Outdoor Street"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban",
+          "Park / Green Space"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The initial scenes are set in a clean, modern indoor environment with white walls and a large circular mirror. Later scenes transition to an outdoor setting with trees and natural light.",
+        "lightingStyle": [
+          "Bright indoor lighting",
+          "Natural daylight"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Summer"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Walking handheld"
+        ],
+        "shotSize": [
+          "Medium close-up",
+          "Close-up",
+          "Insert shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Side view"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Picture-in-picture / inset"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Headphones / earbuds"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Apple"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Professional/Narrative",
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 7,
+        "dominance": 8,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 124,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence",
+          "Nature/Outdoor"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Pop / Bubble SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 5,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) A male voice speaks with high clarity and professional energy, delivering technical information in Traditional Chinese. The pitch is moderate but shows dynamic variability, especially on concluding words of sentences. (2) A synthetic 'whoosh' sound effect triggers a transition in speech focus. The background music is a steady, upbeat electronic track with a consistent 4/4 beat and bright synth pads. (3) The speaker's intensity increases slightly when listing features, followed by a brief 'pop' sound effect as graphics appear on screen. (4) The audio texture remains clean with high signal-to-noise ratio, though a very faint outdoor ambient floor (wind/leaves) becomes audible in the final third of the track, corresponding to a change in vocal acoustics as the recording environment shifts."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
         "Tech Review",
-        "Vlog"
+        "Product Showcase"
       ],
-      "withRealPeople": true,
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "Unknown"
+          "None"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video starts with a male host wearing a cap and glasses, speaking directly to the camera with a graphic of AirPods Pro 3 overlaid on the screen. (2) Transitions to close-up shots of the AirPods Pro 3 charging case mounted on a stand, rotating slightly. (3) Screen captures of a smartphone interface demonstrating live translation and heart rate tracking data are shown. (4) A graphic displays five different sizes of ear tips. (5) The host is shown outdoors walking in a park, wearing the white earbuds and demonstrating their fit while moving. (6) Close-ups of the earbuds in his ear while he is walking and talking.",
-      "audio_narrative_log": "(1) A male voice starts speaking in a clear, upbeat, and informative tone in Mandarin. (2) Upbeat, medium-tempo electronic background music begins and continues throughout the video. (3) Light ambient outdoor wind and environmental noise are heard during the park segment. (4) Subtle sound effects (swooshes or pings) coincide with the appearance of text graphics and scene transitions.",
-      "text_narrative_log": "(1) Functional Text: Subtitles in Traditional Chinese translating the host's speech. (2) Decorative/Hook Text: 'AirPods Pro 3' (Title), '#1 主動式降噪功能' (Active Noise Cancellation), '#2 即時翻譯功能' (Real-time Translation), '#3 心率偵測功能' (Heart Rate Detection), '#4 五款耳塞供選擇' (Five ear tip options), '(增加) 2個小時' (Increased by 2 hours), 'IP57' (Water/Dust resistance rating)."
     },
     "temporal_pacing_summary": {
-      "sceneCutCount": 14,
-      "averageSceneDuration": 2.4,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro -> Feature List -> Practical Outdoor Demo -> Conclusion"
+      "sceneCutCount": 11,
+      "averageSceneDuration": 3.09,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
     },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Head and shoulders",
-        "Hands only",
-        "Close-up of ear"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main male creator appearing both indoors and outdoors.",
-      "mainCharacterDescription": "A middle-aged man wearing glasses, a blue/grey flat cap, and a white hoodie with a yellow lanyard around his neck."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Studio",
-          "Outdoor Park"
-        ],
-        "topography": [
-          "Plain"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "The indoor scene features a plain grey wall with a circular wall decoration. The outdoor scene is a grassy field or park with trees and a soccer goal visible in the background.",
-      "lightingStyle": "Natural light and soft indoor studio lighting.",
-      "weather": "Sunny",
-      "season": "Unknown",
-      "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Follow shot",
-        "Close-up"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone",
-        "AirPods Pro 3",
-        "Wireless Earbuds"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Apple"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and professional",
-        "pitch": "Medium",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic",
-      "bgmBPM": 120,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "UI click sounds",
-        "Transition swoosh"
-      ],
-      "ambientNoise": [
-        "Wind",
-        "Outdoor air"
-      ],
-      "audioQuality": "Field"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Feature Presentation -> Real-world Demo -> Summary",
-      "mainPurpose": "The video serves as a promotional tech review intended to inform viewers about the rumored or newly released features of the AirPods Pro 3, highlighting improvements in noise cancellation, battery life, and health tracking to encourage interest or purchase.",
-      "visualEmotion": "Energetic and Informative"
+      "narrativeStructure": "List-based: Hook -> Feature 1 -> Feature 2 -> Feature 3 -> Feature 4 -> Conclusion",
+      "mainPurpose": "To quickly showcase and review the key upgraded features of the Apple AirPods Pro 3 for a tech-interested audience.",
+      "visualEmotion": [
+        "informative",
+        "energetic",
+        "bright"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
-        "Implicit",
+        "Explicit",
         "Integrated"
       ],
-      "endorsementCues": "The host prominently features Apple branding and focuses entirely on the positive features of a specific product.",
+      "endorsementCues": "The creator is reviewing a specific product (AirPods Pro 3) and highlighting its benefits and features.",
       "endorsementObject": [
         "Apple AirPods Pro 3"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Host uses a consistent greeting and a high-energy delivery style typical of tech influencers in the region.",
-      "freeDescribe": "The video uses high-density text overlays to maintain viewer engagement in a short-form vertical format."
-    }
+    "freeDescribe": "A typical short-form tech review video with high information density, using on-screen text and fast cuts to maintain engagement."
   }
 }

@@ -1,160 +1,265 @@
 {
   "videoName": "2uncle987-20251020164148-1458252856165442.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 101,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Commercial",
-        "Comedy",
-        "Skincare"
-      ],
+      "videoDuration": 100,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "Unknown"
+      "visual_narrative_log": "(1) A young woman with long dark hair, wearing a light green button-down shirt over a white top, stands in a room decorated with colorful posters and stickers. She smiles broadly while applying a thick white cream to her right cheek, looking directly at the camera. (2) She holds up a white pump bottle and its gray packaging box, gesturing enthusiastically. Her hands are expressive, and she maintains high eye contact with the viewer. (3) A second woman enters, wearing a white shirt and a red polka-dot pinafore, waving and pointing at the first woman to introduce a segment. (4) The first woman attempts to speak while holding the bottle but bursts into laughter, looking off-camera. Large 'NG!!' text overlays appear. (5) In a series of jump cuts, the woman is seen with varying amounts of white cream smeared on her face, repeatedly laughing and failing to complete her sentence while holding the product. (6) She successfully speaks to the camera, showcasing the product bottle. Text labels identifying different skin types appear as she points toward the camera. (7) A fourth person, a man with blonde hair wearing a black t-shirt, appears briefly at the end, laughing heartily and pointing toward the women off-screen. (8) The second woman takes the lead, holding the product box and attempting her own pitch, also experiencing several comedic failures and laughing alongside the first woman who now has her face covered in white cream.",
+      "text_narrative_log": "(1) [Subtitle]: 好亮好亮. [Logo]: @2uncle987. (2) [Subtitle]: 真的有變嫩變亮的感覺. [Variety]: Before / After. (3) [Subtitle]: 保養呢變簡單. (4) [Slogan]: 羊酪素生肌蜜 讓你素顏都美麗. (5) [Variety]: 二伯羊酪素不NG挑戰. [Subtitle]: START! (6) [Subtitle]: 一瓶就達到保濕緊實. [Variety]: NG!! (7) [Subtitle]: 緊實啦!! (8) [Slogan]: 全效養膚面膜. [Variety]: 乾肌 油肌 混合肌. (9) [Variety]: 一敷就有感!! (10) [Slogan]: 15週年限定重量版. (11) [Variety]: 你教!你來!",
+      "visual_human_presence": {
+        "totalHumanCount": 3,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only"
         ],
-        "city": [
-          "Unknown"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video starts with a split-screen 'Before/After' comparison of a woman's face, showing a brighter complexion in the 'After' shot. (2) A woman in a light green shirt introduces a white skincare bottle, gesturing to her face where she has applied a white cream. (3) A 'Challenge Start' screen appears, and the scene shifts to a humorous attempt by the woman to recite product features while a friend applies the mask, leading to multiple 'NG' (no good) takes where she laughs and forgets lines. (4) A second woman in a white t-shirt joins the challenge, also attempting to recite the script with the mask on her face. (5) The video ends with a man in a black t-shirt appearing, laughing with the women as they celebrate the successful completion of the promotion.",
-      "audio_narrative_log": "(1) Upbeat, high-energy pop music starts immediately and remains consistent. (2) A female voice-over describes the visible skin improvement. (3) The audio becomes a mix of rapid-fire dialogue, loud laughter, and frequent sound effects (like buzzers for 'NG' and dings for success). (4) Multiple voices overlap as the group jokes around during the challenge. (5) A male voice joins in with loud laughter and playful shouting toward the end.",
-      "text_narrative_log": "(1) Functional text: 'Before' and 'After' labels. (2) Hook text: 'Really feels softer and brighter!' and 'Maintenance becomes simple'. (3) Decorative text: 'NG!!' and 'START' labels in variety-show style. (4) Product info: 'TTKLAB Goat Casein Multi Recovery Mask Cream' and '15th Anniversary Limited Edition'."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 48,
-      "averageSceneDuration": 2.1,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro Comparison -> Product Introduction -> Multi-take Fail/Challenge Montage -> Final Endorsement"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 3,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Face-up"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 female main creator, 1 female assistant/friend, 1 male friend appearing at the end.",
-      "mainCharacterDescription": "The primary woman is wearing a light green button-down shirt over a white top, with dark hair and a cheerful demeanor."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Studio"
+        "crowdLevel": [
+          "Small Group"
         ],
-        "topography": [
+        "countingEvidence": "2 main female creators, 1 male guest appearing at the end.",
+        "mainCharacterDescription": "One woman in a light green shirt, another in a red polka-dot top."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home",
+          "Studio"
+        ],
+        "locationTopography": [
           "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A domestic indoor setting with walls covered in diverse, colorful aesthetic posters, postcards, and a small wooden shelf.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
         ]
       },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A wall decorated with various colorful posters, stickers, and a puzzle piece graphic.",
-      "lightingStyle": "Intense studio lights",
-      "weather": "Unknown",
-      "season": "Unknown",
-      "editingPace": "Fast",
-      "textOverlay": {
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Jump cut",
+          "Fast cuts",
+          "Graphic transition",
+          "Meme-style edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Compilation / montage sequence"
+        ]
+      },
+      "visual_text_overlay": {
         "density": "High",
-        "language": [
-          "Traditional Chinese"
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
         ],
         "isSubtitled": true
       },
-      "colorTone": "High Saturation",
-      "cameraWork": [
-        "Static",
-        "Follow shot"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "TTKLAB"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut with SFX",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 3,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 2,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and humorous",
-        "pitch": "High",
-        "loudness": "High",
-        "speed": "Extremely fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Traditional Chinese"
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "TTKLAB"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Buzzer",
-        "Ding",
-        "Laughter track"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 3,
+        "male_vocal_count": 1,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Comedic/Exaggerated"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter"
+        ],
+        "crowdNoiseIntensity": 3,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Ding / Bell SFX",
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 5,
+        "audioCutFrequency": 4,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with high-tempo, major-key electronic background music. A woman's voice speaks with high pitch and excitement, describing skin benefits. (2) A sharp 'whoosh' sound effect triggers as a second female voice enters with high energy, introducing a challenge. (3) A 'pop' sound effect marks a transition to a series of comedic clips. The first woman speaks rapidly but breaks into loud, high-pitched laughter. (4) A 'buzzer' or 'NG' sound effect recurs as she repeatedly messes up her script, accompanied by spontaneous outbursts of laughter and background giggling. (5) A 'ding' sound effect plays as the first woman finally hits her lines accurately, though the BGM remains constant. (6) The second woman's voice rises in a rhythmic, chanting tone as she fails her own script, followed by the sound of a male voice laughing loudly in a deep, booming tone at the conclusion."
     }
   },
-  "high_inference_interpretations": {
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Promotion / Advertisement / Indoresment",
+        "Comedy",
+        "Challenge"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 22,
+      "averageSceneDuration": 4.5,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Repeated Challenge Fails -> Success/CTA",
-      "mainPurpose": "To endorse the TTKLAB skin mask by using a 'fail-montage' challenge format that highlights the product's benefits (moisturizing, whitening, smoothing) in a relatable and funny way, making the brand feel approachable.",
-      "visualEmotion": "Humorous and Energetic"
+      "narrativeStructure": "Montage: Hook -> Series of Failures -> Successful Pitch -> Outro",
+      "mainPurpose": "To promote the TTKLAB skin recovery mask through a 'No-NG' challenge format, using humor and perceived authenticity to engage the audience while highlighting product features.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -162,14 +267,11 @@
         "Explicit",
         "Full"
       ],
-      "endorsementCues": "Direct product naming, brand logo visibility, and detailed listing of product benefits throughout the video.",
+      "endorsementCues": "Direct display of product, mention of brand name 'TTKLAB', and detailed explanation of benefits.",
       "endorsementObject": [
         "TTKLAB"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-energy comedic timing and use of variety-show style 'NG' graphics.",
-      "freeDescribe": "The video leverages 'behind-the-scenes' style humor to keep viewers engaged with what is essentially a long list of product benefits."
-    }
+    "freeDescribe": "The video uses a 'variety show' editing style with heavy text overlays and sound effects to maintain high engagement."
   }
 }

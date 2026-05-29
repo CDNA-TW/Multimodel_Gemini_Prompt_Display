@@ -1,169 +1,267 @@
 {
   "videoName": "0_shufen-20250901133301-795960446842082.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 7,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Comedy"
-      ],
+      "videoDuration": 7.4,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A young woman with long dark hair and purple-rimmed glasses sits at a green tabletop in a small eatery. She is wearing a white zip-up hoodie over a grey sports bra and has a black crossbody bag strap visible. She holds a blue and white pen in her right hand, hovering it over a densely packed pink and yellow menu grid. Behind her, the wall features a blue-framed whiteboard with small cards and a colorful world map. The lighting is bright and even, typical of an indoor restaurant environment. (2) The scene remains static in framing, but several digital graphic overlays appear around the woman's face. Blue cartoon tear-tracks are superimposed over her eyes, and multiple small white text boxes containing various Chinese characters (Variety-show style stickers) surround her head. She maintains a pouting expression with her mouth slightly open, looking down at the menu with an exaggeratedly sad or overwhelmed facial posture while continuing to move the pen slowly across the paper.",
+      "text_narrative_log": "(1) [Subtitle]: 為什麼台灣人吃早餐. (2) [Subtitle]: 可以不看菜單直接講. (3) [Subtitle]: 而我卻像在考學測. [Variety]: 痛苦面具. [Variety]: 5555.... [Variety]: 嚶嚶嚶. [Variety]: 難過. [Variety]: 委屈. [Variety]: 我哭了.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main female creator in a medium shot.",
+        "mainCharacterDescription": "A young woman with long, straight black hair, wearing glasses, a white hoodie, and a grey inner top."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Restaurant / Dining"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A traditional local breakfast shop or eatery interior with maps and a bulletin board on the wall. A digital clock is visible in the top right corner.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Graphic transition"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Humorous",
+          "Casual"
+        ],
+        "vocalLanguage": [
+          "Mandarin"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 5,
+        "valence": 6,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop"
+        ],
+        "tempoBPM": 118,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Drum Kit / Drum Set",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Cartoon / Comedy SFX",
+          "Human Vocal SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 1,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A female voice speaks with a clear, expressive Mandarin intonation, sounding slightly puzzled yet humorous. The speech rate is natural and engaging. Underneath the voice, a cheerful, mid-tempo electronic pop BGM plays with a consistent drum beat and bright synth melodies. The acoustics are clean, resembling a studio-recorded narration track with very low ambient floor. (2) A transition is marked by the introduction of a post-production sound effect: a high-pitched, comical 'crying' or whimpering vocal sound. The main female narrator's tone shifts to a mock-distressed, higher-pitched inflection to match the punchline of the script. The BGM continues unchanged, maintaining the lighthearted and rhythmic mood of the clip until the end."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Lifestyle",
+        "Short Video"
+      ],
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "Unknown"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman with long dark hair and glasses sits at a green table in a breakfast shop, holding a pen and looking intensely at a large, multi-colored menu. (2) She begins to circle items on the menu while looking stressed. (3) Animated crying stickers and variety-show style text appear around her face as she continues to study the menu like a test paper.",
-      "audio_narrative_log": "(1) Upbeat, medium-tempo background music plays. A young woman's voice speaks Mandarin in a humorous and slightly complaining tone. (2) Faint ambient noise of a public space, likely a shop, can be heard underneath the voice and music. (3) The vocal track remains continuous throughout the clip until it ends.",
-      "text_narrative_log": "(1) Functional Text: Subtitles provided in Traditional Chinese translating the spoken dialogue about the difficulty of ordering breakfast. (2) Decorative/Hook Text: Large bold characters appearing on screen: '台灣人' (Taiwanese people), '吃早餐' (eat breakfast), '可以不看菜單直接講' (can order without looking at the menu), '而我卻像在考學測' (while I am like taking a university entrance exam). (3) Emotional stickers: '痛苦面具' (mask of pain), '难过' (sad), '我哭了' (I cried), '委屈' (aggrieved) along with crying face emojis."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 0,
-      "averageSceneDuration": 7.0,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Intro -> Character studying menu with text commentary"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main female creator",
-      "mainCharacterDescription": "Young female with long dark hair, purple-tinted glasses, wearing a white zip-up jacket over a light blue top."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Restaurant",
-          "Breakfast Shop"
-        ],
-        "topography": [
           "None"
         ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A green table, a map of Taiwan on the wall behind, and a white grate/shelf structure.",
-      "lightingStyle": "Natural indoor lighting",
-      "weather": "None",
-      "season": "None",
-      "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "None",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Humorous and slightly frustrated",
-        "pitch": "Medium-high",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat",
-      "bgmBPM": 115,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "None"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Cafe"
-      ],
-      "audioQuality": "Field Recording"
-    }
-  },
-  "high_inference_interpretations": {
+    "temporal_pacing_summary": {
+      "sceneCutCount": 1,
+      "averageSceneDuration": 7.4,
+      "editingPace": "Slow",
+      "isNarrativeShift": true
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Observation -> Emotional Reaction",
-      "mainPurpose": "The video serves as a humorous social observation about the 'daunting' nature of complex breakfast menus in Taiwan for non-locals. It uses the visual metaphor of the creator 'studying' the menu as if for an exam to highlight the contrast between an outsider's struggle and a local's effortless familiarity with the ordering process.",
-      "visualEmotion": "Humorous"
+      "narrativeStructure": "Linear: Setup -> Observation -> Comedic Comparison",
+      "mainPurpose": "The video uses a humorous comparison to highlight the cultural phenomenon of complex breakfast menus in Taiwan. It contrasts the locals' ability to order without a menu against the narrator's feeling of being overwhelmed, likening the process of choosing food to taking a difficult academic exam.",
+      "visualEmotion": [
+        "humorous",
+        "informative"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
       "endorsementMethod": [
         "None"
       ],
-      "endorsementCues": "No specific product or service is being promoted; the menu is used as a generic prop for a cultural joke.",
+      "endorsementCues": "None",
       "endorsementObject": [
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Use of heavy text overlays and 'crying' stickers typical of Douyin/TikTok comedic vlogs.",
-      "freeDescribe": "The video targets viewers interested in Taiwanese culture or those who have shared the experience of being overwhelmed by large menus in foreign casual eateries."
-    }
+    "freeDescribe": "The video relies heavily on the juxtaposition of the serious 'exam-taking' visual of the woman and the exaggerated 'crying' effects to drive home the joke about the complexity of local breakfast shops."
   }
 }

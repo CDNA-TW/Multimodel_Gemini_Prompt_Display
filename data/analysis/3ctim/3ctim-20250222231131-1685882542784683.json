@@ -1,175 +1,280 @@
 {
   "videoName": "3ctim-20250222231131-1685882542784683.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 28,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Tutorial",
-        "Tech-Vlog"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A middle-aged man wearing a gray flat cap and silver-framed glasses lies relaxed on a white sofa. He wears a gray sweatshirt and is intently looking at a silver iPhone held in his hands. Behind his head is a red rectangular pillow designed like a vintage game controller. The lighting is soft and even indoor light. (2) The scene cuts to a graphic animation featuring a yellow taxi driving through a tunnel of neon pink and blue light rings. A small circular inset in the bottom right shows the man from the first phase talking. This transitions to a flat 2D map animation with red location pins dropping onto it. (3) A screen recording of an iPhone interface appears, showing the Settings menu. The user navigates from 'General' to 'Keyboard' and then into 'Text Replacement.' The circular inset of the man remains, showing him gesturing with his hands. (4) The screen displays a messaging app interface. A single phonetic character is typed, and a suggested phone number and long address string instantly appear. The man in the inset points forward enthusiastically. (5) The video ends with a shot of the man back on the sofa, holding the phone and looking directly into the camera with a smile, pointing his finger towards the viewer.",
+      "text_narrative_log": "(1) [Logo]: 3c有意思tim哥. [Logo]: @3ctim. [Variety]: 老闆! (2) [Subtitle]: 都花多少時間? (3) [Subtitle]: 不到三秒! [Subtitle]: 我現在教你 iPhone 替代文字的秘技. (4) [Subtitle]: 出國要叫車, 這樣設定方便快速. (5) [Subtitle]: 不只是地址, 你的飛機航班, 甚至於手機號碼, email 都可以. (6) [Variety]: 打出來! 一秒快速. (7) [Subtitle]: 你只要點開 設定>一般>鍵盤>替代文字. (8) [Subtitle]: 點擊右上角 +, 輸入文字跟代碼. (9) [Subtitle]: 注音符號 ㄉ, ㄓ, ㄌ 都可以. (10) [Subtitle]: 不只出國, 日常生活也很好用. (11) [Subtitle]: 這麼方便的技巧, 還不趕快分享給你的朋友吧.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main creator appearing on camera and in an inset circle.",
+        "mainCharacterDescription": "A middle-aged man with glasses, wearing a gray flat cap and a gray sweatshirt."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Living Room",
+          "Digital Interface / Screen Capture",
+          "Animation / Graphic Background"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A domestic indoor setting with a white sofa and curtains, transitioning to stylized 3D animations of a taxi and a 2D map, followed by a screen recording of an iOS mobile interface.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Screen / interface close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Graphic transition",
+          "Picture-in-picture / inset",
+          "Screen recording edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Cartoon / animated animal"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "Car",
+          "Cartoon / animated Traffic"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "iPhone"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 2,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Digital UI SFX",
+          "Pop / Bubble SFX",
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Stingers"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A male voice asks an energetic question. High-tempo electronic BGM kicks in immediately with a sharp 4/4 beat. (2) A quick 'whoosh' sound marks the transition as the main male narrator begins a rapid, enthusiastic explanation. The vocal clarity is high with professional broadcasting quality. (3) As the tutorial begins, distinct digital 'pop' and 'click' sound effects are audible, perfectly timed with visual UI interactions. The BGM maintains a steady, upbeat energy. (4) Short 'stinger' effects emphasize specific technical terms. The narrator's speech rate is fast but well-enunciated. (5) A final rising 'riser' effect leads into the concluding call-to-action, where the music swells slightly before a clean hard cut to silence at the end."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Tutorial / How-to",
+        "Tech Review"
+      ],
       "location": {
         "country": [
-          "Taiwan"
+          "Unknown"
         ],
         "city": [
           "None"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A middle-aged man wearing a flat cap and glasses is lying on a sofa, holding an iPhone and talking to the camera with an expressive face. (2) Transition to a stylized animation of a car driving through a neon tunnel, followed by a 3D map graphic with location pins. (3) The screen displays a screen recording of the iPhone Settings interface, navigating through 'General' to 'Keyboard' and 'Text Replacement'. (4) The man reappears in the bottom corner of the screen while the main frame shows a messaging app interface where text is being automatically filled. (5) The man returns to the full frame on the sofa, pointing at the camera and gesturing enthusiastically.",
-      "audio_narrative_log": "(1) Fast-paced, upbeat electronic pop BGM starts immediately. A high-pitched, energetic male voice speaks in Mandarin with a friendly tone. (2) The music remains consistent in tempo as the narrator continues explaining the technical steps. (3) Subtle clicking sound effects occur when the screen recording shows menu selections. (4) The music and vocal narration continue until the end, concluding with a final call-to-action tone.",
-      "text_narrative_log": "(1) Functional Text: '3c有意思tim哥' (Watermark). (2) Hook Text: '不到三秒!' (Less than three seconds!) in a bright yellow bubble, conveying excitement. (3) Main Title: 'iPhone 替代文字' (iPhone Text Replacement) with a starburst effect. (4) Functional Text: '設定 > 一般 > 鍵盤 > 替代文字' showing the navigation path. (5) Decorative Text: '一秒快速打出來!' (Type it out in one second!) emphasizing speed. (6) Closing Hook: '還不趕快分享給你的朋友吧' (Quickly share this with your friends) with a pointing emoji."
-    },
     "temporal_pacing_summary": {
       "sceneCutCount": 12,
       "averageSceneDuration": 2.3,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro Hook -> Animated Context -> UI Step-by-Step Demo -> Practical Application -> Outro"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Head and shoulders"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main male creator (Tim) appearing on the sofa and in corner overlays.",
-      "mainCharacterDescription": "A middle-aged man wearing a grey flat cap, silver-rimmed glasses, and a light grey sweatshirt with 'GIANTS' text."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Living Room",
-          "Studio"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A comfortable living room setting with a light-colored sofa, a grey curtain, and a unique red cushion shaped like a vintage radio/cassette player.",
-      "lightingStyle": "Bright studio lighting",
-      "weather": "Indoor",
-      "season": "Unknown",
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural and Vibrant",
-      "cameraWork": [
-        "Static",
-        "Screen Recording"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "Car"
-      ],
-      "techDetect": [
-        "Smartphone",
-        "iPhone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Apple"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "High-pitched and excited",
-        "pitch": "Medium-High",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic",
-      "bgmBPM": 125,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "UI Click Sounds"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Step 1 -> Step 2 -> Benefit -> CTA",
-      "mainPurpose": "The video serves as a technical life hack tutorial designed to increase efficiency for iPhone users. It demonstrates the 'Text Replacement' feature to help users avoid repetitive typing for things like addresses, flight numbers, or emails, presented in an energetic and accessible format common to social media influencers.",
-      "visualEmotion": "Energetic and Helpful"
+      "narrativeStructure": "Linear: Hook -> Problem -> Solution/Tutorial -> CTA",
+      "mainPurpose": "To educate iPhone users on a productivity shortcut ('Text Replacement') that saves time when typing repetitive information like addresses or phone numbers.",
+      "visualEmotion": [
+        "informative",
+        "energetic",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
-      "isEndorsement": true,
+      "isEndorsement": false,
       "endorsementMethod": [
-        "Implicit",
-        "Integrated"
+        "None"
       ],
-      "endorsementCues": "Detailed demonstration of specific iOS software features and Apple hardware.",
+      "endorsementCues": "Tutorial for a built-in OS feature, no specific sponsorship mentioned.",
       "endorsementObject": [
-        "Apple",
         "iPhone"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Starts with 'Lao Ban' (Boss) greeting, fast-paced editing, grey flat cap aesthetic.",
-      "freeDescribe": "The video uses variety-show style text graphics and high-speed narration to maintain viewer retention for a technical subject."
-    }
+    "freeDescribe": "High-quality tech content with professional editing, using mixed media (live action, animation, screen capture) to maintain viewer engagement."
   }
 }

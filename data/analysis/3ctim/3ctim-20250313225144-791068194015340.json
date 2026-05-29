@@ -1,184 +1,298 @@
 {
   "videoName": "3ctim-20250313225144-791068194015340.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 50,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Tech Commentary"
-      ],
+      "videoDuration": 51,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A middle-aged man with glasses and a black-and-white checkered flat cap is speaking directly to the camera in a bright studio environment. He is wearing a light blue sweatshirt. A logo for 'miko' is in the top left. (2) Close-up shot of a white, extremely long and narrow mechanical keyboard being held horizontally. It features blue edges and standard QWERTY keycaps arranged in a single line. (3) A man in a blue button-down shirt holds the keyboard in a workshop filled with tools and electronic equipment, looking at it with an intrigued expression. (4) An animated sequence shows a blue background with white keyboard keys sliding across the frame. (5) Various scenes of people using the long keyboard: one person stretches their arms wide to type on a desk, another uses it as a walking stick while hiking in a lush green forest, and another uses it to reach for something under a wooden sofa. (6) The original man in the checkered hat returns to the screen, gesturing with his hands as he continues to narrate. (7) The video concludes with the Google logo appearing over a white background with red, yellow, green, and blue accents.",
+      "text_narrative_log": "(1) [Subtitle]: 這絕對是!!. [Logo]: 3c有意思tim哥, @3ctim, miko. (2) [Variety]: 最適合1人使用的鍵盤. (3) [Subtitle]: 先說這並不是愚人節企劃. (4) [Subtitle]: 而是 Google 工程師. (5) [Subtitle]: 耗時數個月打造出來的. (6) [Subtitle]: 長165公分 寬6.4公分的多功能鍵盤. (7) [Subtitle]: 你沒有聽錯. (8) [Subtitle]: 就是一根這麼長的鍵盤啊. (9) [Subtitle]: 社恐人士如果擁有它. (10) [Subtitle]: 上班就能跟左右同事保持距離. (11) [Subtitle]: 除了這個好處以外. (12) [Subtitle]: Google的日本團隊認為說. (13) [Subtitle]: 這種排列方式符合人體的工學. (14) [Subtitle]: 同時也對身體的健康也發揮了一定的幫助. (15) [Subtitle]: 對於長期有固定姿勢的上班族來說. (16) [Subtitle]: 它可以讓你展開雙臂. (17) [Subtitle]: 左右活動腰椎有沒有. (18) [Subtitle]: 此外官方還列舉出多個用途方法. (19) [Subtitle]: 例如你可以來找沙發底下的遺失物. (20) [Subtitle]: 或者是爬山的時候當登山杖. (21) [Subtitle]: 可惜目前沒有實體販售. (22) [Subtitle]: 僅在網站開放原始碼. (23) [Subtitle]: 有興趣的朋友可以下載動手做.",
+      "visual_human_presence": {
+        "totalHumanCount": 5,
+        "maleDetectAmount": 4,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Hands only",
+          "Full body"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main host, 1 engineer in workshop, 3 different people in demonstration clips.",
+        "mainCharacterDescription": "A man wearing a light blue sweatshirt, a black-and-white checkered flat cap, and clear-framed glasses."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio",
+          "Office / Workplace",
+          "Indoor Living Room",
+          "Mountain / Forest / Trail",
+          "Digital Interface / Screen Capture"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban",
+          "Forest",
+          "Urban High-rise / Skyline"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The primary background is a warm-toned studio with soft lighting. Secondary backgrounds include a messy tech workshop, a modern office desk, a green forest trail, and a domestic living room.",
+        "lightingStyle": [
+          "Bright studio lighting",
+          "Natural daylight",
+          "Soft indoor lighting"
+        ],
+        "weather": [
+          "Sunny / Clear",
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Summer"
+        ],
+        "colorTone": [
+          "Natural and bright",
+          "Warm"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Panning",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Medium full shot",
+          "Full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "High angle"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Fast cuts",
+          "Graphic transition"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Cartoon / animated animal"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Keyboard / mouse",
+          "Monitor",
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Google",
+          "miko"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 124,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Ding / Bell SFX",
+          "Pop / Bubble SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a high-energy, cheerful male narrator speaking in Mandarin. An upbeat electronic pop track with a strong, driving beat and bright synth melodies plays at a lower volume in the background. (2) As the narrator describes the dimensions of the keyboard, a subtle 'ding' sound effect emphasizes the numbers shown on screen. The music tempo remains steady and optimistic. (3) During the transition to the clips of the keyboard in use, a quick 'whoosh' sound effect occurs. The narrator's voice maintains a consistently high arousal and positive valence, acting as an enthusiastic guide. (4) The audio concludes with a final 'pop' sound effect as the Google logo appears, while the music fades out alongside the narrator's closing sentence."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Tech News / Commentary",
+        "Comedy",
+        "Meme / Trend"
+      ],
       "location": {
         "country": [
           "Taiwan",
           "Japan"
         ],
         "city": [
-          "None"
+          "Unknown"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A middle-aged man with a plaid hat and glasses is talking directly to the camera in a studio setting. (2) A graphic sequence shows a white bar with keys labeled as a keyboard. (3) A man in a blue shirt holds an extremely long, single-row keyboard in a workshop environment. (4) Split-screen and full-screen demonstrations show the long keyboard being used in an office, to stretch arms, and to reach under a sofa. (5) Footage of people hiking using the keyboard as a walking stick. (6) Close-up of the keyboard showing 'Google' branding and its open-source nature on a website.",
-      "audio_narrative_log": "(1) Upbeat, fast-paced electronic background music plays throughout. (2) A male voice speaks enthusiastically and rapidly in Mandarin, describing the product. (3) Sound effects like 'dings' and digital pops occur during text transitions. (4) In the hiking segment, low ambient outdoor noise is layered under the music.",
-      "text_narrative_log": "(1) '這絕對是!!' (This definitely is!! - Hook). (2) '最適合1人使用的鍵盤' (Most suitable keyboard for one person - Hook). (3) '先說這並不是愚人節企劃' (First of all, this is not an April Fool's plan - Functional). (4) '長165公分 寬6.4公分' (165cm long, 6.4cm wide - Functional/Spec). (5) '社恐人士...保持距離' (Socially anxious people... keep distance - Decorative/Humorous). (6) '找沙發底下的遺失物' (Find lost items under the sofa - Functional). (7) '爬山的時候當登山杖' (Use as a walking stick when hiking - Functional). (8) '僅在網站開放原始碼' (Only open-source on the website - Functional)."
     },
     "temporal_pacing_summary": {
-      "sceneCutCount": 21,
-      "averageSceneDuration": 2.38,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Host Intro -> Product Reveal -> Specifications -> Usage Scenarios -> Conclusion/Availability"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 7,
-      "maleDetectAmount": 5,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Torso"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 main host, 1 engineer in workshop, 1 office worker, 4 hikers seen in various shots.",
-      "mainCharacterDescription": "Middle-aged male host wearing a grey and white plaid newsboy cap, glasses, and a light blue sweatshirt."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Studio",
-          "Office",
-          "Outdoor Forest",
-          "Workshop"
-        ],
-        "topography": [
-          "Hill",
-          "Forest"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A clean studio with soft lighting for the host; a cluttered tech workshop for the product reveal; a modern office; a lush green hiking trail.",
-      "lightingStyle": "Bright studio lighting mixed with natural outdoor light.",
-      "weather": "Sunny",
-      "season": "Unknown",
+      "sceneCutCount": 18,
+      "averageSceneDuration": 2.8,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese",
-          "Japanese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural and Vibrant",
-      "cameraWork": [
-        "Static",
-        "Follow shot",
-        "POV"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Keyboard",
-        "Monitor",
-        "Laptop"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Google",
-        "miko"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut with SFX",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and humorous",
-        "pitch": "Medium-high",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat/Tech Pop",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum kit"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Ding",
-        "Digital Pop"
-      ],
-      "ambientNoise": [
-        "Outdoor nature sounds"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Feature Breakdown -> Humorous Application -> Call to Action",
-      "mainPurpose": "To introduce a viral, unconventional piece of hardware (the Gboard Bar by Google Japan) through a humorous lens, explaining its physical dimensions and quirky use cases while clarifying its availability as an open-source project.",
-      "visualEmotion": "Energetic and Whimsical"
+      "narrativeStructure": "Linear: Hook -> Evidence -> Benefit Analysis -> Alternative Use Cases -> Conclusion",
+      "mainPurpose": "To share a humorous and quirky piece of tech news about an absurdly long keyboard created by Google Japan engineers, highlighting its unusual form factor and mock-serious 'benefits' like physical health and social distancing.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "informative"
+      ]
     },
     "endorsement_analysis": {
-      "isEndorsement": true,
+      "isEndorsement": false,
       "endorsementMethod": [
-        "Explicit",
-        "Full"
+        "None"
       ],
-      "endorsementCues": "The host prominently features the 'miko' brand logo in the top left and bottom left throughout the video, which is a common setup for sponsored tech content in Taiwan.",
+      "endorsementCues": "While Tim is a tech influencer and mentions Google, this video is framed as a commentary on a viral/experimental project rather than a commercial endorsement.",
       "endorsementObject": [
-        "miko 悠適生活的好鄰居"
+        "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Host's signature plaid hat and '3C有意思tim哥' branding on the overlay.",
-      "freeDescribe": "The video capitalizes on the 'weird tech' trend to drive engagement, using fast cuts and variety-show style captions common in Taiwanese YouTube/Shorts culture."
-    }
+    "freeDescribe": "The video utilizes a high-energy delivery common in social media tech commentary to engage viewers with an unusual product story."
   }
 }

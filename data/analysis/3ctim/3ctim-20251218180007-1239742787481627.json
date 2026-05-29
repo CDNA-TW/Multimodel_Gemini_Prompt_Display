@@ -1,174 +1,297 @@
 {
   "videoName": "3ctim-20251218180007-1239742787481627.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 49,
-      "aspectRatio": "9:16",
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The video begins in a bustling, warmly-lit Taiwanese hot stir-fry restaurant (Izakaya style). Two men, the main creator Tim and a Caucasian guest who resembles OpenAI's CEO Sam Altman, are seated at a wooden table clinking beer glasses. The table is filled with dishes like stir-fry clams, greens, and edamame. The lighting is amber and inviting, with other patrons visible in the background. (2) Close-ups focus on the guest's face as he talks and smiles, then cuts back to Tim who is laughing and wearing a flat cap and glasses. The camera uses handheld movements to create a casual, vlog-like feel. Variety-show style emojis and text overlays appear around their heads. (3) The setting shifts abruptly to a professional studio with a light gray backdrop. Tim is seen from the chest up, gesturing with both hands as he explains something directly to the camera. He maintains an energetic expression, wearing a beige 'ROOTS' branded sweatshirt. (4) A screen recording of an iPhone interface is shown, demonstrating an app called 'Sora'. A hand is seen typing a prompt into the search bar, and several AI-generated profile videos are visible. The UI is clean with a blue cloud icon. (5) A humorous sequence shows Tim in a heavy brown winter parka standing in a vast, snowy landscape with a mountain in the background. A large brown bear suddenly appears to roar and engage in a playful wrestle with him, which is clearly an AI-generated or composited visual effect. (6) Another screen recording shows a face verification process. Tim's live camera feed is inside a circular frame on the phone, and he is reading out displayed numbers '65 37 79' to verify his identity within the app. (7) Returning to the studio, Tim continues his presentation, showing further social feed features on the phone screen, such as videos of cats and people around a campfire. He concludes by pointing toward a large Sora app logo that appears on screen.",
+      "text_narrative_log": "(1) [Logo]: 3c有趣意tim哥, @3ctim. [Subtitle]: 來乾一杯. [Logo]: Sora @timt677. (2) [Variety]: 🤣🤣🤣🤣. [Subtitle]: 乾杯 今天的熱炒不錯吧. [Slogan]: 居然是Sam Altman?😳😳😳. (3) [Subtitle]: 等下還有牛肉鐵板 剛上桌就香的不得了. [Slogan]: #這個口音XD到底是誰在講話. (4) [Subtitle]: 謝謝你帶我來這裡. (5) [Subtitle]: 難道我認識 Open AI執行長 這件事也要跟大家說嗎. (6) [Subtitle]: 沒有啦 這其實是喔 我用 Sora的 Cameos功能 做出來的. [Logo]: Sora. (7) [Subtitle]: 這款AI App的 Sora 它除了可以依照你的文字 生成影片之外 還可以把你自己 放到影片裡面. [Logo]: Sora. (8) [Subtitle]: 只要在App簡單驗證以後 就可以讓你在影片中 做出各種不可思議的事情. [Slogan]: 跟北海道棕熊打架🐻???. (9) [Subtitle]: (人臉驗證中...). [Variety]: 驗證中... (10) [Subtitle]: 除了生成影片 Sora還有一個類似社群的 Sora動態. [Variety]: 互動性滿滿😎😎😎. (11) [Subtitle]: 可以滑最新AI創作 追蹤其他創作者 看到喜歡的影片 還能直接套用場景 拍自己的版本. (12) [Subtitle]: 互動性超高! 這麼有趣的APP 還不下載來玩玩看!. [Slogan]: 快下載來玩玩看!!!",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Face close-up",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 main creator Tim, 1 AI-generated guest resembling Sam Altman.",
+        "mainCharacterDescription": "Tim: Asian male with glasses, wearing a flat cap and a beige sweatshirt. Guest: Caucasian male with short light-brown hair, wearing a blue t-shirt."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Restaurant / Dining",
+          "Studio",
+          "Snow / Arctic Landscape",
+          "Digital Interface / Screen Capture"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban",
+          "Forest",
+          "Snowfield / Arctic"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A traditional Taiwanese stir-fry restaurant with yellow lanterns and wooden tables; a clean gray studio; a snowy field with mountains and trees; a smartphone interface.",
+        "lightingStyle": [
+          "Warm indoor lighting",
+          "Bright studio lighting",
+          "Natural daylight"
+        ],
+        "weather": [
+          "Sunny / Clear",
+          "Snowy"
+        ],
+        "season": [
+          "Winter"
+        ],
+        "colorTone": [
+          "Natural and bright",
+          "Warm"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Handheld",
+          "Screen recording / screen capture"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Medium close-up",
+          "Close-up",
+          "Full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "High angle"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Screen recording edit",
+          "Fast cuts"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots",
+          "Compilation / montage sequence"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Bear",
+          "Cat",
+          "Dog"
+        ],
+        "foodsDetect": [
+          "Seafood / fish / shrimp",
+          "Vegetables",
+          "Meat / beef / pork / chicken",
+          "Beverage / juice"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Sora",
+          "OpenAI"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 2,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Professional/Narrative",
+          "Friendly"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 124,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Synthesizer",
+          "Electronic",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter",
+          "Chatter"
+        ],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone",
+          "Commercial/Recreational"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "Ceramics / Glass Clink",
+          "Object Impact / Thud / Drop"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Pop / Bubble SFX",
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Cross-fade"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with upbeat, rhythmic electronic pop music featuring a strong synthesizer lead. Background ambient noise of a busy restaurant, including muffled chatter and the sharp, percussive clinking of glasses, is audible. Tim's voice enters with a high-pitched, enthusiastic Mandarin greeting. (2) A second male voice, an English speaker with a deep, calm tone, replies with 'Cheers' and positive comments about the food. There is the sound of light laughter in the background, adding to the jovial atmosphere. The music remains steady in tempo and volume. (3) A hard cut in the track transitions the acoustic environment to a clean, reverb-free studio space. Tim's vocal delivery shifts to a more structured, narrative style, though his arousal remains high. The music ducking ensures his explanation of the AI technology is clear. (4) Frequent digital sound effects like 'pops', 'bubbles', and 'dings' are interspersed to emphasize UI movements on the screen. These effects have a bright, piercing quality. A 'whoosh' transition effect signals the move to the bear encounter scene. (5) In the bear scene, the audio includes a low-frequency roar of a bear and a synthesized wind-floor noise. Tim's voice becomes playful and slightly exaggerated. (6) During the face verification segment, a sequence of high-pitched UI confirmation 'dings' occurs. Tim's articulation is precise as he reads out the numbers. (7) The finale features a swell in the background music's intensity and volume. Tim concludes with a fast-paced call to action, ending with a final logo-inspired digital chime."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
         "Tech Review",
-        "Tutorial",
-        "Vlog"
+        "Product Showcase",
+        "Promotion / Advertisement / Indoresment",
+        "Meme / Trend"
       ],
-      "withRealPeople": true,
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "None"
+          "Unknown"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video begins with a live-action scene of two men clinking beer glasses in a crowded restaurant; the man on the left wears glasses and a newsboy cap, while the man on the right bears a strong resemblance to Sam Altman. (2) The scene transitions to a studio setting where the man in the cap (the creator) speaks directly to the camera with high energy and hand gestures. (3) Close-up shots of a smartphone screen display the 'Sora' app interface, showing a user typing Chinese characters into a text field. (4) A series of AI-generated clips are shown: the creator standing in a snowy landscape near a mountain, followed by a surreal scene where he is tackled by a large black bear in a forest. (5) A face verification sequence on a phone shows the creator's face centered in a circle while he speaks. (6) The video shows a social-media-style scrollable feed within the app featuring videos of cats, dogs, and people camping. (7) The creator returns to the studio frame to deliver final remarks.",
-      "audio_narrative_log": "(1) Starts with loud ambient noise of a busy restaurant including the sound of glasses clinking and multiple voices chatting. A male voice says 'Cheers' and 'Ganbei' (Cheers in Mandarin). (2) An upbeat, rhythmic electronic BGM starts and remains consistent throughout the video. A middle-aged male voice speaks in a friendly, high-pitched, and excited tone in Mandarin. (3) During the app demonstration, the speaker's voice is dominant over the BGM, maintaining a quick, explanatory pace. (4) In the verification segment, the speaker clearly recites numbers in Mandarin: '65, 37, 79'. (5) The BGM continues with a steady tempo until the video ends, with no significant SFX detected.",
-      "text_narrative_log": "(1) Functional Text: '來乾一杯' (Let's toast) and '乾杯 今天的熱炒不錯吧' (Cheers, the stir-fry today is good). (2) Hook Text: '居然是Sam Altman???' (Actually Sam Altman???) and '這個口音XD到底誰在講話' (This accent XD who is talking). (3) App Interface Text: 'Sora', '建立視訊' (Create video), 'tim677', 'sama', and prompts describing two people chatting. (4) Decorative Text: '互動性滿滿' (Full of interactivity) and 'Sora動態' (Sora feed). (5) CTA: '快下載來玩看看!!!' (Download and try it out!!!)."
     },
     "temporal_pacing_summary": {
-      "sceneCutCount": 18,
-      "averageSceneDuration": 2.7,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro Hook -> Studio Explanation -> Feature Demo -> AI Sample Clips -> Call to Action"
+      "sceneCutCount": 16,
+      "averageSceneDuration": 3.06,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
     },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 2,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Face"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 main creator, 1 man resembling Sam Altman, and distant blurred figures in restaurant background.",
-      "mainCharacterDescription": "Tim: middle-aged Asian male, wearing glasses, a grey newsboy cap, and a grey Roots t-shirt. Guest: Caucasian male in a dark t-shirt."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Kitchen",
-          "Studio",
-          "Outdoor Snow"
-        ],
-        "topography": [
-          "Plain",
-          "Mountain",
-          "Forest"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A traditional Taiwanese 'Re-chao' restaurant with yellow lanterns; a professional studio with a light grey backdrop; a snowy forest with a mountain in the distance.",
-      "lightingStyle": "Mixed: warm ambient in restaurant, professional softbox in studio, natural daylight in AI scenes.",
-      "weather": "Sunny",
-      "season": "Winter",
-      "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "POV",
-        "Follow shot"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "Bear",
-        "Cat",
-        "Dog"
-      ],
-      "foodsDetect": [
-        "Stir-fry dishes",
-        "Beer",
-        "Edamame"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Sora",
-        "Roots",
-        "Apple",
-        "Facebook",
-        "Instagram"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 1,
-        "vocal_demographics": {
-          "male_vocal_count": 2,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Friendly, excited, and professional",
-        "pitch": "Normal",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Traditional Chinese",
-          "English"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat/Electronic",
-      "bgmBPM": 115,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Kit"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Cafe",
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Explanation -> Demo -> Use-cases -> Social Features -> CTA",
-      "mainPurpose": "The video serves as a promotional tutorial for the 'Sora' AI application. It uses a comedic hook (pretending to dine with Sam Altman) to introduce the app's 'Cameo' feature, which allows users to insert themselves into AI-generated videos with others. The creator demonstrates the technical process (typing prompts, face verification) and shows the final creative results to encourage audience downloads.",
-      "visualEmotion": "Energetic and Humorous"
+      "narrativeStructure": "Montage: Hook -> Surprise Reveal -> Technical Explanation -> Feature Demo -> Social/Community -> CTA",
+      "mainPurpose": "To promote the 'Sora' AI video application (by Sora AI, specializing in cameos) by demonstrating its ability to insert users into celebrity-like scenarios or impossible environments using AI. It uses a parody of Sam Altman to hook the viewer.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "informative"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -176,14 +299,11 @@
         "Explicit",
         "Full"
       ],
-      "endorsementCues": "Direct verbal recommendation, on-screen logo, and full feature demonstration of the app.",
+      "endorsementCues": "Direct demonstration of the 'Sora' app UI, explanation of its specific 'Cameos' and 'Feed' features, and a clear call to action to download the app.",
       "endorsementObject": [
-        "Sora"
+        "Sora AI App"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "3C有意思tim哥 branding and social media handles visible on screen.",
-      "freeDescribe": "The video leverages current AI trends and the likeness of famous tech figures to capture viewer attention in the short-video format."
-    }
+    "freeDescribe": "The video successfully blends influencer-style entertainment with a product demo, utilizing AI-generated deepfake hooks to drive engagement."
   }
 }

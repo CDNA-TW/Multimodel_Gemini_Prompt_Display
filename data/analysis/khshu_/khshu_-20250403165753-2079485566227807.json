@@ -1,155 +1,261 @@
 {
   "videoName": "khshu_-20250403165753-2079485566227807.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 8,
-      "aspectRatio": "1:1",
-      "videoGenre": [
-        "Advertisement",
-        "Interactive Quiz"
-      ],
+      "videoDuration": 9,
+      "aspectRatio": "1:1"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) The video begins with a graphic header titled '眼力大考驗' resembling a school test paper with blanks for class, seat number, and name. A central circular aperture provides a view of a vast green field under a clear blue sky, where three minute human figures stand far away in the distance along a central dirt path. (2) The circular frame undergoes a steady digital zoom into the landscape. As the frame tightens, the three figures become larger and more distinct; they are two adult males and one adult female standing side-by-side. A small red-roofed house icon appears behind them. (3) The zoom settles into a medium shot. The female character on the left has long dark hair, wearing a white top, smiling and pointing upwards. The two male characters on the right both wear glasses and have long hair, standing shoulder-to-shoulder. A handwritten red text prompt appears at the top right of the frame as they maintain a stationary pose.",
+      "text_narrative_log": "(1) [Logo]: 寶島眼鏡. [Variety]: 眼力大考驗. [Slogan]: 班級： 座號： 姓名：. [Subtitle]: 問 圖中的寶島眼鏡 2025 雙代言人是？ (2) [Variety]: 再靠近一點點～ (3) [Subtitle]: 解 就是動力火車和美食水水千千. [Variety]: 你答對了嗎？",
+      "visual_human_presence": {
+        "totalHumanCount": 3,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 3,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "3 main spokespersons appear in the central circle",
+        "mainCharacterDescription": "One female with long dark hair in a white sleeveless top; two males with long dark hair wearing spectacles and casual collared shirts."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Farm / Countryside",
+          "Animation / Graphic Background"
+        ],
+        "locationTopography": [
+          "Farmland",
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A composite background featuring a white school-paper graphic overlaying a scenic view of lush green agricultural fields stretching into the horizon under a bright sky.",
+        "lightingStyle": [
+          "Natural daylight"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Summer"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Digital zoom"
+        ],
+        "shotSize": [
+          "Long shot",
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Graphic transition"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "寶島眼鏡"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Professional/Narrative",
+          "Friendly"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 6,
+        "valence": 7,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 124,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free",
+          "Original Jingle/Brand Theme"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 0,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Ding / Bell SFX",
+          "Whoosh / Transition SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 3,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 5,
+        "speechMusicOverlap": 4,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 2,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio track opens with high-energy, upbeat electronic pop music featuring a strong percussive beat and bright synthesizer pads. A male narrator with clear, professional articulation asks a riddle-like question regarding the brand's spokespersons. The vocal delivery is friendly and energetic. (2) As the visual zoom occurs, a subtle whoosh-like transition effect is heard. The narrator's pitch rises playfully while saying 'A little closer', maintaining a high arousal level that aligns with the interactive game format of the clip. (3) A sharp, bright 'ding' sound effect marks the revelation of the answer. The narrator confirms the names of the celebrities with confident, conclusive prosody. The music remains consistent in tempo and energy until the track cuts cleanly at the end."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Promotion / Advertisement / Indoresment"
+      ],
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "None"
+          "Unknown"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video begins with a graphic designed like a school exam paper titled 'Eye Test'; a circular window shows a stylized painting of a vast green field with three tiny figures in the distance. (2) The visual cuts to a closer view of the field, revealing three people standing in front of a small red-roofed house. (3) The final phase shows the actual people: a woman on the left in a white outfit pointing upward with a smile, and two men on the right wearing eyeglasses and posing confidently for the camera.",
-      "audio_narrative_log": "(1) Playful, upbeat electronic music starts with a light and inquisitive tempo. (2) A female voice speaks in a friendly, high-pitched tone, acting as a narrator for the quiz. (3) A 'ding' sound effect rings out as the text reveals the answer, followed by a short, energetic musical resolution.",
-      "text_narrative_log": "(1) Functional Text: '眼力大考驗' (Eye Test) and '寶島眼鏡' (Formosa Optical). (2) Hook Text: '問：圖中的寶島眼鏡 2025 雙代言人是？' (Question: Who are the 2025 dual brand ambassadors for Formosa Optical?). (3) Decorative Text: '再靠近一點點~' (A little closer~) appears during the zoom. (4) Functional Text: '解：就是動力火車和美食水水千千' (Answer: It is Power Station and Foodie Water Water Qian Qian) and '你答對了嗎？' (Did you get it right?)."
     },
     "temporal_pacing_summary": {
-      "sceneCutCount": 3,
-      "averageSceneDuration": 2.6,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro Hook -> Progressive Visual Reveal -> Brand Ambassador Reveal"
+      "sceneCutCount": 1,
+      "averageSceneDuration": 9.0,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
     },
-    "visual_human_presence": {
-      "totalHumanCount": 3,
-      "maleDetectAmount": 2,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 3,
-      "bodyPartVisibility": [
-        "Full body",
-        "Waist up"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 female creator (Qian Qian) and 2 male musicians (Power Station band members)",
-      "mainCharacterDescription": "A woman in a white sleeveless jumpsuit and two men wearing professional eyeglasses and light-colored suits."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Studio",
-          "Graphic Background"
-        ],
-        "topography": [
-          "Plain"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A digital painting of an endless green agricultural field with neat rows under a bright blue sky, featuring a small house with a red roof.",
-      "lightingStyle": "Bright studio lighting on characters",
-      "weather": "Sunny (illustrated)",
-      "season": "Spring/Summer",
-      "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Chinese"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "High Saturation",
-      "cameraWork": [
-        "Static"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "寶島眼鏡"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut sync with visual zoom",
-      "vocalRatio": "Medium"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 0,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Friendly and humorous",
-        "pitch": "High",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Occasional narration",
-        "language": [
-          "Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat",
-      "bgmBPM": 120,
-      "instrumentFamiliesAudible": [
-        "Electronic"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Ding",
-        "Chime"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Progressive Reveal -> Solution",
-      "mainPurpose": "The video serves as a promotional reveal for Formosa Optical's 2025 brand ambassadors. By using an interactive 'Eye Test' format, it engages the audience to guess who the small figures are, eventually revealing the popular influencers and musicians, thereby associating the brand with these celebrities in a playful and memorable way.",
-      "visualEmotion": "Energetic and Cheerful"
+      "narrativeStructure": "Linear: Hook -> Evidence -> CTA",
+      "mainPurpose": "The video serves as an interactive promotional announcement for Formosa Optical (寶島眼鏡) to reveal their 2025 brand spokespersons, utilizing an 'eye power test' game format to engage the audience before the final reveal.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -157,14 +263,11 @@
         "Explicit",
         "Full"
       ],
-      "endorsementCues": "Direct naming of the brand 'Formosa Optical' and the reveal of official 2025 ambassadors.",
+      "endorsementCues": "The video explicitly uses the brand logo '寶島眼鏡' and names the celebrities as the '2025 dual spokespersons' for the brand.",
       "endorsementObject": [
         "寶島眼鏡"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "School exam paper layout for visual framing.",
-      "freeDescribe": "The video targets a Taiwanese audience familiar with the band Power Station and the foodie influencer Qian Qian."
-    }
+    "freeDescribe": "The video effectively combines a gamified visual approach with high-energy audio to create a memorable brand announcement."
   }
 }

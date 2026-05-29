@@ -1,162 +1,268 @@
 {
   "videoName": "khshu_-20251124013506-3344580025721947.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 27,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Tutorial",
-        "Cultural Vlog"
-      ],
+      "videoDuration": 27.23,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A person dressed in a complete black ninja outfit emerges from a hidden revolving wall panel in a traditional Japanese room with tatami mats. They quickly duck back inside, and the panel revolves again. (2) A woman wearing a white and pink patterned jacket and a long white dress steps through the same revolving door, looking slightly bewildered but smiling. (3) The woman and the ninja stand side-by-side in the room. The ninja begins a series of complex finger movements and hand seals. (4) A close-up shot focuses on their hands as the ninja demonstrates a specific seal and the woman mimics it. (5) They both hold the completed seal pose in front of their chests, with the ninja looking focused and the woman smiling at the camera. Yellow and black text overlays appear on the screen throughout the sequence.",
+      "text_narrative_log": "(1) [Subtitle]: 登場. (2) [Variety]: 他帥我偏爛. [Variety]: (小偷)???. (3) [Logo]: 忍者拍照姿勢公開! [Slogan]: 想拍得像忍者? 學這個姿勢! (4) [Subtitle]: 我們今天請忍者大人來教我們. [Subtitle]: 怎麼密的手勢才是. [Variety]: 專業的忍者. (5) [Subtitle]: 那麼首先. [Subtitle]: 伸出手指像剪刀一樣打開. [Subtitle]: 然後夾緊. (6) [Subtitle]: 然後將左手手指. [Subtitle]: 放進右手裡面. (7) [Subtitle]: 再將結印放在胸前. [Variety]: (正確手勢) (千年殺?). [Slogan]: ProNinja. (8) [Subtitle]: 大家也學會了嗎. [Subtitle]: 大家有明白了嗎.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "One person in a ninja suit and one female creator.",
+        "mainCharacterDescription": "The woman has dark hair in a bun and wears a pink/white jacket. The ninja is fully garbed in black with a mask and headband."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home",
+          "Historical / Cultural Site"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A traditional Japanese interior featuring tatami mat flooring and dark wooden structures, including a functional revolving ninja door.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium full shot",
+          "Medium shot",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Graphic transition"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "Japanese",
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 1,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Mandarin",
+          "Japanese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 6,
+        "valence": 7,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Acoustic/Folk"
+        ],
+        "tempoBPM": 110,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Strings",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Guitar",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Ding / Bell SFX",
+          "Pop / Bubble SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A sharp 'whoosh' sound effect triggers as a door is heard sliding open. Upbeat, mid-tempo acoustic pop music begins. A female voice speaks in an energetic, high-pitched Mandarin tone. (2) The music continues with a steady drum beat. A male voice enters, speaking in a calm, instructional Japanese cadence, describing hand motions. (3) A 'pop' sound effect occurs as the hands change position. A 'ding' chime sounds when a specific hand seal is completed. The female voice reacts with enthusiastic vocal inflections. (4) The track concludes with the two voices overlapping in a friendly manner, asking a final question over the continuous major-key background music."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Tutorial / How-to",
+        "Lifestyle",
+        "Meme / Trend"
+      ],
       "location": {
         "country": [
           "Japan"
         ],
         "city": [
-          "None"
+          "Unknown"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video starts in a traditional Japanese room with tatami mats. A person dressed as a ninja rotates a hidden door in a black wall and enters, followed by a woman in a white and pink jacket who also spins through the hidden door. (2) The ninja and the woman stand side-by-side; the ninja is wearing a full black outfit with a mask, while the woman smiles at the camera. (3) The ninja begins demonstrating a sequence of hand gestures, moving his fingers precisely. The woman watches closely and attempts to replicate each hand movement. (4) The scene cuts between close-ups of the hands and medium shots of both individuals. (5) They conclude by holding a specific ninja hand sign in front of their chests, with the woman looking proudly at the camera.",
-      "audio_narrative_log": "(1) Upbeat, fast-paced music with traditional Japanese instruments (taiko drums and shamisen-style strings) begins immediately. A woman's voice is heard speaking excitedly in Chinese. (2) As the scene transitions to the demonstration, the background music lowers slightly, and a male voice is heard speaking calmly in Japanese, providing instructions. (3) Sound effects like a 'sparkle' chime and a 'ding' are heard when specific hand signs are completed. (4) The woman responds with short affirmative sounds ('Hai!'). (5) The music reaches a short crescendo as they finish the pose.",
-      "text_narrative_log": "(1) Decorative Hook: '忍者拍照姿勢公開！' (Ninja photo pose revealed!) appears at the top in large yellow text. (2) Functional Text: Chinese subtitles translate the spoken dialogue throughout the video. (3) Decorative Effect: 'Pro Ninja' appears with a cartoon ninja emoji when the final pose is shown. (4) Closing Hook: '大家也學廢了嗎' (Did everyone 'learn' it? - using a pun) appears at the end."
     },
     "temporal_pacing_summary": {
-      "sceneCutCount": 14,
-      "averageSceneDuration": 1.9,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro -> Hand sign demonstration step-by-step -> Final pose showcase"
+      "sceneCutCount": 7,
+      "averageSceneDuration": 3.89,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
     },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "1 male dressed as a ninja, 1 female host",
-      "mainCharacterDescription": "The ninja is in traditional black shinobi shozoku with a face mask. The female host is wearing a white hoodie/jacket with pink accents and a long white skirt."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Traditional Japanese Room",
-          "Indoor"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A traditional Japanese interior with tatami flooring, sliding shoji screens, and a 'kakure-michi' (hidden revolving door) set into a dark wooden wall.",
-      "lightingStyle": "Natural indoor lighting with soft shadows",
-      "weather": "Indoor",
-      "season": "Unknown",
-      "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese",
-          "Japanese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Medium Shot",
-        "Close-up"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone (implied by vertical format)"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade",
-      "vocalRatio": "Medium"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Host is high-pitched and enthusiastic; Ninja is deep and instructional",
-        "pitch": "Mixed (High female, Deep male)",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Chinese",
-          "Japanese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Traditional Japanese Fusion",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Percussion",
-        "Strings"
-      ],
-      "instrumentsAudible": [
-        "Taiko",
-        "Shamisen"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Chime",
-        "Sparkle",
-        "Swoosh"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
       "narrativeStructure": "Linear: Hook -> Tutorial -> Conclusion",
-      "mainPurpose": "To provide an entertaining and educational tutorial on how to perform traditional ninja hand signs (kuji-kiri) for the purpose of taking themed photos. The video leverages the contrast between a professional-looking ninja and a cheerful tourist-like host to engage the audience.",
-      "visualEmotion": "Enthusiastic and Cultural"
+      "mainPurpose": "To provide an entertaining and educational short tutorial on how to perform traditional ninja hand seals for the purpose of photography posing.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "informative"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -168,9 +274,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Use of hidden revolving door intro; variety-show style text graphics",
-      "freeDescribe": "The video effectively uses dual languages (Japanese for authenticity, Chinese for the target audience) to create a cultural bridge."
-    }
+    "freeDescribe": "The video successfully uses cultural tropes and professional performers to create engaging social media content."
   }
 }

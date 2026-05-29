@@ -1,15 +1,249 @@
 {
   "videoName": "cocowine0205-20250806175730-668026723061927.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 53,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Product Review",
-        "Shopping"
-      ],
+      "videoDuration": 53.0,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) The scene begins in a brightly lit warehouse retail environment. A female with long black hair, wearing a white knit cardigan over a white lace dress and carrying a small white crossbody bag, stands next to a white chest freezer. She smiles and gestures with her right hand while looking at the camera. In the background, aisles of electronics, including TVs and washing machines, are visible under bright studio-style lighting. (2) The camera moves closer to focus on the top of the white chest freezer. The brand name 'LIEBHERR' is clearly visible on the silver metallic handle. The woman's right hand, adorned with a pearl ring, rests on the sliding glass lid. The background remains the bustling warehouse interior with other shoppers faintly visible in the distance. (3) The shot returns to a medium framing of the woman as she continues to talk and gesture towards the appliance. She leans slightly forward, her facial expression animated and engaging. To her right, a shopping cart with a green child seat is partially visible. (4) A close-up shot shows her sliding the glass lid of the freezer open and then shut, demonstrating its functionality. The reflection of the overhead warehouse lights glints on the smooth glass surface. (5) The woman leans her arms on the freezer, looking directly into the camera with a cheerful expression. Graphic overlays with price and capacity information appear on the screen, momentarily partially obscuring the background racks of appliances.",
+      "text_narrative_log": "(1) [Logo]: COSTCO WHOLESALE. (1) [Variety]: 卧室冷凍櫃. (1) [Subtitle]: 我要. (2) [Subtitle]: 你是要藏到這裡面嗎? 卧室冷凍櫃哇. (3) [Slogan]: 售價含運送到家. (3) [Subtitle]: 14,499元它的大小比我想像中的可愛哎. (4) [Subtitle]: 做工呢整體呢比一般那種小賣部或者火鍋店霜淇淋區看到的可愛. (5) [Variety]: 107公升. (5) [Subtitle]: 看這一個哎呦這個材質很美耶. (6) [Subtitle]: 其實我覺得是OK啦雖然它沒有直立. (7) [Subtitle]: 等一下它這個是椅子嗎就是讓你坐在裡面. (8) [Subtitle]: 讓你可以放在卧室坐在裡面不用開冷氣哎. (9) [Variety]: 107公升. (9) [Subtitle]: 你覺得值得嗎 107公升那它的玻璃推拉好拉嗎? 划算就是如果我朋友家放這個我會想買冰棒放他家. (10) [Variety]: 冷凍櫃. (10) [Subtitle]: 哇所以如果你很愛來好市多的人直接買一個回去因為你絕對缺冷凍櫃. (11) [Subtitle]: 它只是沒有立式那麽時尚但是它感覺比較省空好像可以放更多哈.",
+      "visual_human_presence": {
+        "totalHumanCount": 4,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only",
+          "Partial body"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 female main character in the foreground; approximately 3 distant passers-by visible in the background aisles.",
+        "mainCharacterDescription": "A young female with long, straight black hair, wearing a cream-colored knit cardigan over a white lace-patterned dress, carrying a white luxury-style small bag."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Supermarket / Warehouse Store"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A large-scale warehouse interior with high ceilings, industrial shelving, and rows of consumer electronics and household appliances like refrigerators and washing machines.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Summer"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Static",
+          "Panning"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Meme-style edit"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "Shopping cart"
+        ],
+        "techDetect": [
+          "Home appliance",
+          "TV / display screen",
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Costco",
+          "Liebherr",
+          "Hitachi",
+          "Sharp"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 1,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Casual",
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 6,
+        "valence": 7,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop"
+        ],
+        "tempoBPM": 115,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Keyboard",
+          "Percussion",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Piano",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Commercial/Recreational"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Metal  Bump ",
+          "Mechanical Click / Latch"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Ding / Bell SFX",
+          "Pop / Bubble SFX",
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) A female voice begins speaking with a bright, friendly tone, introducing the product. Low-volume upbeat acoustic-pop background music sets a positive mood. (2) A sharp 'ding' sound effect triggers as a text overlay appears on screen. The female voice remains energetic. (3) A male voice briefly chimes in off-camera with a inquisitive, casual remark, suggesting a dialogue. (4) The female voice continues with a moderate tempo, laughing slightly, while the faint mechanical sliding of a glass lid is heard in the mix. (5) Another 'pop' sound effect occurs as technical details like the price are mentioned. (6) The video concludes with the female speaker giving a final enthusiastic recommendation, while the music maintains a steady rhythmic beat until the end."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Product Showcase"
+      ],
       "location": {
         "country": [
           "Taiwan"
@@ -19,160 +253,32 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman with long dark hair, wearing a white lace dress and a beige cardigan, stands in a brightly lit Costco warehouse. A large 'COSTCO WHOLESALE' logo is superimposed at the top of the frame. (2) She stands next to a white chest freezer (Liebherr brand), pointing at its price tag and features. (3) She demonstrates the sliding glass lid of the freezer, opening and closing it repeatedly to show the movement. (4) The camera alternates between medium shots of her talking and close-ups of the freezer's details, including the logo and the price. Background shoppers and warehouse shelves are visible throughout.",
-      "audio_narrative_log": "(1) Upbeat, high-tempo pop/electronic background music starts immediately and continues throughout. (2) A female voice (main character) speaks in an excited and friendly tone, introducing the freezer as a 'bedroom freezer'. (3) A male voice from behind the camera (off-screen) interacts with her, asking questions and making humorous remarks. (4) Cartoon-style sound effects (like a 'bling' or 'sparkle' sound) play occasionally when decorative text overlays appear.",
-      "text_narrative_log": "(1) Functional Text: 'COSTCO WHOLESALE' logo at the top center. (2) Decorative Hook: '我要臥室冷凍櫃' (I want a bedroom freezer) in a stylized banner. (3) Price information: '$14,499' appears on screen. (4) Subtitles: Standard Chinese subtitles follow the spoken dialogue. (5) Decorative Text: '冷凍櫃' (Freezer) with a lifebuoy emoji and '划算' (Good deal) appear for emphasis."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 14,
-      "averageSceneDuration": 3.7,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro -> Product Detail Inspection -> Discussion of Value -> Recommendation."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 4,
-      "maleDetectAmount": 2,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 main female creator, 1 male shopper in red vest in background, 2 other blurred shoppers in distance.",
-      "mainCharacterDescription": "A young woman with long dark hair wearing a white lace skirt, a striped top, and a beige cardigan."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Warehouse Club",
-          "Indoor Retail"
-        ],
-        "topography": [
-          "Plain"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "Large industrial warehouse interior with high ceilings, shelves of home appliances (washers, refrigerators), and price tags.",
-      "lightingStyle": "Intense studio-style warehouse lighting",
-      "weather": "Indoor",
-      "season": "Unknown",
+      "sceneCutCount": 12,
+      "averageSceneDuration": 4.4,
       "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Handheld",
-        "Follow shot"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Chest Freezer",
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "COSTCO WHOLESALE",
-        "LIEBHERR"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade with background music",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "High-pitched and excited",
-        "pitch": "Sharp",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "Bling",
-        "Whoosh"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Field Recording"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Feature Demo -> User Benefit -> Call to Action.",
-      "mainPurpose": "The video serves as a lifestyle recommendation and product review. It aims to persuade viewers of the utility and aesthetic appeal of a small Liebherr chest freezer available at Costco, specifically marketing it as a 'cute' and practical addition to a bedroom or home office.",
-      "visualEmotion": "Energetic and positive"
+      "narrativeStructure": "Linear: Hook -> Product Feature Demo -> Price/Capacity Disclosure -> Personal Recommendation",
+      "mainPurpose": "The video serves as a product review and recommendation for a Liebherr chest freezer found at Costco Wholesale, focusing on its design, size, and practicality for household use.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
-      "isEndorsement": true,
+      "isEndorsement": false,
       "endorsementMethod": [
-        "Implicit",
-        "Full"
+        "None"
       ],
-      "endorsementCues": "Detailed display of product brand, price tag, and positive commentary on build quality and price value.",
+      "endorsementCues": "While recommending a specific brand, the video adopts the style of a personal vlog or shopping find rather than a formal paid advertisement.",
       "endorsementObject": [
-        "Costco",
-        "Liebherr"
+        "Liebherr",
+        "Costco Wholesale"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-energy presentation style with playful banter between the host and cameraman.",
-      "freeDescribe": "The video targets young homeowners or apartment dwellers in Taiwan looking for compact storage solutions. The use of 'cute' (可愛) to describe a freezer suggests a focus on home aesthetics."
-    }
+    "freeDescribe": "The video uses typical social media short-form editing with variety-show captions to make a mundane appliance review engaging."
   }
 }

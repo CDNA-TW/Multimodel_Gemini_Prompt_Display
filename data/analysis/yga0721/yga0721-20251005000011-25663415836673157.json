@@ -1,171 +1,263 @@
 {
   "videoName": "yga0721-20251005000011-25663415836673157.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 10,
-      "aspectRatio": "9:16",
+      "videoDuration": 11,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A man with styled brown hair, wearing a vibrant orange oversized t-shirt over a white undershirt and blue denim shorts, stands on a balcony of a traditional stone and brick building. He holds a bright orange smartphone prop to his ear with a smug, boastful expression, leaning against a weathered stone balustrade. (2) A hand wearing a blue and white striped shirt enters from the right and taps the screen of the man's phone. The man's boastful expression instantly drops into a state of shocked embarrassment as the phone is revealed to be a standard device displaying a full-screen image of a backplate. (3) The man looks down at the actual screen of his phone, which now shows a photo gallery application. He looks toward the camera with a deflated, sheepish smile while standing in the same balcony setting under bright, natural daylight.",
+      "text_narrative_log": "None",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 main male creator, 1 hand of another person appearing from off-screen.",
+        "mainCharacterDescription": "A man in his 30s with light brown hair, wearing a bright orange short-sleeved pocket t-shirt, a white shirt underneath, and blue denim shorts."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Historical / Cultural Site",
+          "Tourist Attraction / Landmark"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A traditional brick and stone building with European-style arched railings and white balustrades. Green foliage is visible in the background courtyard.",
+        "lightingStyle": [
+          "Natural daylight"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Summer"
+        ],
+        "colorTone": [
+          "Warm and vibrant"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "None",
+        "textLanguage": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Apple"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Comedic/Exaggerated"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": true,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 7,
+        "dominance": 6,
+        "hasVocalTension": true
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Nature/Outdoor"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Mechanical Click / Latch"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": true,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 2,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) A male voice speaks rapidly in an exaggerated, high-pitched, and boastful tone. The speech is continuous with high energy, accompanied by a very faint outdoor ambient noise floor. (2) A sharp, distinct 'tap' or clicking sound occurs as the speech abruptly pauses. The silence creates a sudden contrast to the previous high-energy vocalization. (3) The male voice returns but at a much lower volume and pitch, characterized by a hesitant, slightly embarrassed tone and short, fragmented utterances before fading into ambient silence."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
         "Comedy",
-        "Skit"
+        "Meme / Trend"
       ],
-      "withRealPeople": true,
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "None"
+          "Unknown"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A man with brown hair, wearing a bright orange shirt, stands on a red-brick balcony with white stone railings, holding a bright orange smartphone to his ear while smiling and speaking expressively. (2) He gestures with his free hand while leaning against the balcony railing, maintaining a boastful facial expression. (3) A hand wearing a blue and white striped shirt enters from the right and flips the phone over, revealing a photo gallery interface on the screen; the man's expression shifts to a neutral, slightly confused look as he stares at the camera.",
-      "audio_narrative_log": "(1) Upbeat, medium-tempo electronic music starts along with a male voice speaking loudly and excitedly in Mandarin. (2) The male voice continues a continuous monologue with a boastful tone. (3) A sharp 'swish' or 'pop' sound effect occurs as the phone is flipped, followed by a brief pause in speech while the background music continues at the same intensity.",
-      "text_narrative_log": "(1) Functional Text: 'iPhone 17 拿到手了' (Got my hands on the iPhone 17) - boastful and exciting tone. (2) Functional Text: '庫克上禮拜就給嘎哥了' (Tim Cook gave it to Ga Ge last week) - bragging tone. (3) Functional Text: '大家都在開箱了' (Everyone is doing unboxings) - informative tone."
     },
     "temporal_pacing_summary": {
-      "sceneCutCount": 0,
-      "averageSceneDuration": 10.0,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro/Bragging -> Interruption/Reveal"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "1 main male creator, 1 hand of an off-screen person (likely female based on hand size/sleeve style)",
-      "mainCharacterDescription": "A man with short brown hair, wearing an oversized bright orange t-shirt over a white shirt, dark blue denim-style shorts, white socks with red stripes, and red athletic shoes."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Outdoor Balcony",
-          "Heritage Building"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A traditional red brick building with white stone balustrades and arched architectural details; greenery and trees are visible in the background.",
-      "lightingStyle": "Natural daylight",
-      "weather": "Overcast",
-      "season": "None",
+      "sceneCutCount": 1,
+      "averageSceneDuration": 5.5,
       "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "Medium",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural and warm",
-      "cameraWork": [
-        "Static",
-        "Medium Shot"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Apple"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "None",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "High-pitched and excited",
-        "pitch": "Medium-high",
-        "loudness": "High",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat/Comedic",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Electronic Drums"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "Swish/Flip SFX"
-      ],
-      "ambientNoise": [
-        "Outdoor ambiance"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Exposure",
-      "mainPurpose": "The video is a comedic short designed to parody technology unboxing culture and influencers who claim to have early access to products. The creator humorously brags about owning a non-existent 'iPhone 17' in an orange color, only to be immediately exposed when another person flips the phone to reveal it is just a digital image being held to his ear.",
-      "visualEmotion": "Humorous"
+      "narrativeStructure": "Linear: Hook -> Reveal -> Reaction",
+      "mainPurpose": "The video is a comedic skit poking fun at the hype cycle of new technology. The creator pretends to be boastfully using an unreleased iPhone 17, only for an off-screen person to reveal it's simply a photo on a current device, resulting in a humorous 'reality check'.",
+      "visualEmotion": [
+        "humorous",
+        "energetic"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
       "endorsementMethod": [
         "None"
       ],
-      "endorsementCues": "The product shown is a fictional/prank version of an iPhone that does not exist in the market.",
+      "endorsementCues": "The video parodies tech unboxing and early-adopter culture rather than promoting a specific product.",
       "endorsementObject": [
-        "Apple"
+        "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "The creator uses a characteristic high-energy, comedic delivery typical of Taiwanese variety skits.",
-      "freeDescribe": "The contrast between the traditional architectural setting and the modern 'fake' tech gadget enhances the comedic effect."
-    }
+    "freeDescribe": "The contrast between the bright orange shirt and the traditional brick building creates high visual salience for the main character. The comedic timing relies on the sudden shift from high-vocal arousal to silence."
   }
 }

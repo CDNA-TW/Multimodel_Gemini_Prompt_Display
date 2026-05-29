@@ -1,166 +1,271 @@
 {
   "videoName": "2uncle987-20251023164618-1216724440031164.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 89,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Variety Show",
-        "Challenge",
-        "Vlog"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "Unknown"
+      "visual_narrative_log": "(1) A group of young adults is gathered indoors in a bright studio-like environment. A woman in a pink striped dress stands centrally, gesturing enthusiastically as she explains the rules of a game to those around her. Others are seated on chairs, watching her closely. (2) Three participants sit on grey chairs aligned at the end of long newspaper strips spread across the floor. On a command, they begin frantically using their feet to pull the newspaper toward them. The woman in pink scrunches her paper with high speed and celebrates her victory. (3) A young man with glasses and a purple shirt takes a seat to compete. He struggles visibly, his feet failing to gain traction on the paper while a woman in a black skirt scrunches hers effortlessly in a few seconds. The crowd laughs at his lack of progress. (4) A special 'PK' round is held between the man in the purple shirt and another participant. He leans forward intensely, using all his leg strength to pull the paper. He eventually succeeds, standing up to cheer with high energy as the group applauds his 'redemption'. (5) The group huddles together at the end. One woman has her sock off and is pointing at her toes, indicating the physical toll of the game. Everyone is laughing and discussing the humorous outcomes of the competition.",
+      "text_narrative_log": "(1) [Variety]: 遊戲規則. [Slogan]: ROUND 1. [Slogan]: ROUND 2. [Slogan]: FINAL. [Slogan]: PK. (2) [Slogan]: Round 1. [Variety]: 預備. (3) [Variety]: 開始. (4) [Variety]: 精彩回放. (5) [Variety]: 中看不中用. (6) [Subtitle]: 因為傑哥在室內帶捏小孩他就... (7) [Variety]: 下一組... (8) [Subtitle]: 算你多厲害. (9) [Slogan]: Round 2. [Variety]: 預備. (10) [Variety]: 開始. (11) [Variety]: 中看不中用? (12) [Variety]: 半斤八兩. (13) [Variety]: 總監親自示範. (14) [Variety]: 再看一次. (15) [Variety]: 下去. (16) [Slogan]: Round 3. [Variety]: 預備. (17) [Variety]: 開始. (18) [Variety]: 因為...為什麼每次都會有人滑不動?! (19) [Variety]: 所以... (20) [Slogan]: 滑不動的比賽. [Variety]: (臨時加開). (21) [Slogan]: 賽外賽. [Slogan]: 滑不動PK賽. (22) [Variety]: 雪恥成功. (23) [Slogan]: 可以追到KIKI了. (24) [Variety]: 我真的很用力. (25) [Variety]: 手連腳上頭了.",
+      "visual_human_presence": {
+        "totalHumanCount": 10,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 8,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face",
+          "Feet / Legs"
         ],
-        "city": [
-          "None"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video opens with a group of people in an indoor setting. A woman in a pink dress explains the rules of a game while others sit on chairs placed on rows of newspapers. (2) Round 1 begins; participants use their feet to shuffle their chairs forward along the newspaper tracks. A woman in pink reaches the end first and celebrates excitedly. (3) Highlights and interactions between the participants follow, showing laughter and teasing. (4) Round 2 features a different set of players, including a woman in a grey shirt who wins her heat. (5) A 'Director's Demonstration' or special round occurs with more participants joining in. (6) Round 3 and a special 'PK' match take place, focusing on players who struggled to move. (7) The video concludes with a celebration of a male participant's success and a close-up of a participant's foot showing a hole in their sock from the intense movement.",
-      "audio_narrative_log": "(1) Upbeat and energetic BGM plays throughout. A female voice enthusiastically explains the game rules. (2) Shouts of 'Ready, Go!' and 'Start!' are heard, followed by the loud crinkling sound of newspapers being shredded by feet and chairs. (3) High-pitched cheering, laughter, and variety-show style commentary from multiple people fill the soundscape. (4) Frequent sound effects (SFX) like whistles, bells for winners, and comedic 'fail' sounds are interspersed with the dialogue. (5) The BGM remains consistent in tempo, maintaining a lively atmosphere. (6) The final segments feature more conversational talking, laughter, and a celebratory ending track.",
-      "text_narrative_log": "(1) '遊戲規則' (Game Rules) - Informative and energetic. (2) 'Round 1 預備... 開始' (Round 1 Ready... Start) - Functional. (3) '精彩回放' (Highlights) - Decorative/Hook. (4) '中看不中用' (Looks good but useless) - Humorous caption targeting a participant. (5) '下一組' (Next group) - Functional. (6) '總監親自示範' (Director demonstrates personally) - Informative hook. (7) '賽外賽 滑不動PK大賽' (Side match: Can't Slide PK) - Decorative hook. (8) '雪恥成功' (Successfully redeemed) - Emotional/Celebratory. (9) '可以追到Kiki了' (Can catch Kiki now) - Humorous inside joke. (10) '我真的很用力' (I really used a lot of strength) - Emotional emphasis."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 45,
-      "averageSceneDuration": 1.9,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Intro -> Game Rounds -> Highlights/Replays -> Special PK -> Outro"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 10,
-      "maleDetectAmount": 2,
-      "femaleDetectAmount": 8,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 4,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Back view",
-        "Feet"
-      ],
-      "crowdLevel": "Crowd",
-      "countingEvidence": "Around 8-10 people are seen throughout the room as participants and observers.",
-      "mainCharacterDescription": "A woman in a pink dress (host/participant), a woman in a grey long-sleeve shirt (winner), and a man in a purple t-shirt (PK participant)."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Studio",
-          "Office"
+        "crowdLevel": [
+          "Crowd"
         ],
-        "topography": [
-          "None"
+        "countingEvidence": "1 female host in pink, 1 male participant in purple, and approximately 8 other participants or observers in the background.",
+        "mainCharacterDescription": "A woman with her hair in two buns wearing a pink striped dress and a man with glasses wearing a purple t-shirt and wide-leg jeans."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "An indoor studio or office space with white walls, recessed lighting, marble-patterned flooring, and some storage cabinets or shelves in the background.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
         ]
       },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A spacious indoor room with white walls, shelves with toys/items, a glass cabinet, and curtains. Newspapers are laid out in long tracks on the floor.",
-      "lightingStyle": "Bright studio lighting",
-      "weather": "Indoor",
-      "season": "Unknown",
-      "editingPace": "Fast",
-      "textOverlay": {
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Panning"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Full shot",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Low angle"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Slow motion",
+          "Meme-style edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
         "density": "High",
-        "language": [
-          "Traditional Chinese"
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
         ],
         "isSubtitled": true
       },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Follow shot",
-        "Zoom",
-        "POV"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "HAHABABY"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade and Hard cut",
-      "vocalRatio": "Medium"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 6,
-        "offscreen": 2,
-        "backgroundCrowdVoices": 4,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 7,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited, humorous, and loud",
-        "pitch": "High",
-        "loudness": "High",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "HAHABABY"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Whistle",
-        "Ding",
-        "Slide sound",
-        "Cartoon SFX"
-      ],
-      "ambientNoise": [
-        "Studio quiet",
-        "Crinkling paper"
-      ],
-      "audioQuality": "Studio"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 8,
+        "male_vocal_count": 1,
+        "female_vocal_count": 7,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Comedic/Exaggerated"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": true,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": true
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter",
+          "Cheering",
+          "Chatter"
+        ],
+        "crowdNoiseIntensity": 4,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Paper / Page Rustle",
+          "Footsteps"
+        ],
+        "incidentalNoiseIntensity": 3,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Ding / Bell SFX",
+          "Cartoon / Comedy SFX",
+          "Applause / Laugh Track SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Fade out"
+        ],
+        "audioEventDensity": 5,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) High-energy female speech dominates the opening as rules are explained at a fast rate. A bright, upbeat electronic pop track plays in the background. (2) A sharp vocal start signal is followed by the loud, rhythmic crinkling of paper and sudden bursts of cheering and applause. (3) The audio texture shifts to include comedic sound effects and exaggerated laughter as a participant fails. The music maintains a constant high-tempo beat. (4) Grunts of physical effort from a male voice are layered over intense newspaper rustling. The crowd volume rises to a peak of high-arousal cheering. (5) The track concludes with a mixture of relaxed group chatter, fading laughter, and a final humorous sound effect sting."
     }
   },
-  "high_inference_interpretations": {
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Challenge",
+        "Vlog"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 24,
+      "averageSceneDuration": 3.7,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Stage 1 -> Stage 2 -> Special Stage -> Outro",
-      "mainPurpose": "The video is designed for entertainment, showcasing a creative and energetic physical challenge among a group of friends or coworkers. It leverages variety-show editing techniques—fast cuts, colorful text overlays, and enthusiastic audio—to engage the audience and highlight the fun and competitive spirit of the 'chair-sliding' game.",
-      "visualEmotion": "Energetic"
+      "narrativeStructure": "Linear: Hook -> Challenge Rounds -> PK Climax -> Aftermath/Reaction",
+      "mainPurpose": "To entertain viewers with a funny and competitive group game challenge involving physical exertion and humorous outcomes.",
+      "visualEmotion": [
+        "energetic",
+        "humorous"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -168,14 +273,11 @@
         "Implicit",
         "Integrated"
       ],
-      "endorsementCues": "Participants are wearing clothing with the 'HAHABABY' brand prominently displayed, which is likely a brand associated with the content creator.",
+      "endorsementCues": "Participants are wearing apparel clearly labeled with 'HAHABABY', which is a known brand associated with the creators.",
       "endorsementObject": [
         "HAHABABY"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Variety show editing style with high-density Chinese captions and humorous commentary.",
-      "freeDescribe": "The video emphasizes group dynamics and lighthearted competition, typical of influencer-led variety content."
-    }
+    "freeDescribe": "The video uses typical variety show editing techniques including slow-motion replays, vibrant text overlays, and sound effects to maximize comedic impact."
   }
 }

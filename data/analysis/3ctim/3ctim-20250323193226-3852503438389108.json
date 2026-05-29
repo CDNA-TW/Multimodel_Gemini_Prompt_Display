@@ -1,158 +1,265 @@
 {
   "videoName": "3ctim-20250323193226-3852503438389108.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 91,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Tech Review"
-      ],
+      "videoDuration": 132,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A close-up shot focuses on a light blue MacBook Air resting on a light brown wooden retail table. A hand with a wedding ring enters the frame, touching the table surface near a small white display tag that identifies the product. The lighting is bright and even, typical of a professional retail showroom. (2) The camera pans slightly upwards to reveal the laptop screen, which displays the text 'Built for Apple Intelligence' against a dark background. The user begins to partially close the lid, showing the keyboard and the sleek, thin profile of the device. (3) The laptop is now fully closed, showcasing the matte, light blue finish on the top case with a reflective Apple logo in the center. The camera follows the person's hand as they point towards another MacBook across the table in a different color. (4) Multiple sets of hands enter the frame, including one person wearing a lavender-colored long-sleeve shirt. They lift the laptop, tilting it at various angles to demonstrate how the blue color shifts and reflects light. The person with the ring points specifically at the Apple logo while others gesture nearby. (5) The video concludes with a side-by-side comparison where the light blue MacBook is held up next to a starlight or gold-colored MacBook. The hands move the devices closer together and further apart to emphasize the contrast in their metallic finishes.",
+      "text_narrative_log": "None",
+      "visual_human_presence": {
+        "totalHumanCount": 3,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Hands only",
+          "Partial body"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main male creator (hands only), 1 female assistant (lavender sleeves), and 1 other male hand observed during comparison.",
+        "mainCharacterDescription": "Male with a silver ring on his ring finger, wearing a short-sleeved top; another person is wearing a lavender/light purple long-sleeved sweater."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Retail Store"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A clean, minimalist retail environment, likely an Apple Store, featuring long light-brown wooden display tables. Other electronic devices and display signage are visible in the soft-focus background.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Panning",
+          "Zoom in"
+        ],
+        "shotSize": [
+          "Close-up",
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "High angle",
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "None",
+        "textLanguage": [
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Laptop",
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Apple"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 3,
+        "male_vocal_count": 2,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Animated/Excited",
+          "Casual"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop"
+        ],
+        "tempoBPM": 115,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Chatter",
+          "Laughter"
+        ],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": [
+          "Commercial/Recreational",
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "Mechanical Click / Latch",
+          "Object Impact / Thud / Drop"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 2,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) A main male speaker begins talking in an energetic Mandarin dialect, expressing excitement about the 'new' product. The background features a steady, upbeat pop instrumental with a clear electronic beat. (2) As the speaker touches the table and moves the device, a faint 'thud' of a hand hitting the wood is heard. The ambient chatter of a busy store provides a low-level background layer. (3) A distinct mechanical 'click' sounds as the laptop lid is lowered. The speaker's pitch rises as he describes the blue color, followed by a brief giggle from a female voice. (4) The conversation becomes more collaborative with multiple speakers overlapping slightly. The main speaker uses rising intonations frequently to emphasize specific features of the color finish. (5) Sounds of the laptop being handled—soft friction and metallic clinks—are audible as it is compared with another device. The music maintains a constant volume and rhythm until the clip ends abruptly."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Tech Review",
+        "Product Showcase",
+        "Vlog"
+      ],
       "location": {
         "country": [
-          "USA"
+          "Unknown"
         ],
         "city": [
           "Unknown"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video begins with a close-up of a minimalist wooden display table featuring a white oval tag that reads 'MacBook Air 13-inch'. A male hand wearing a beaded bracelet enters the frame and moves toward an open laptop. (2) The screen of the laptop displays the text 'Built for Apple Intelligence'. The person closes the lid of the laptop, which has a distinct light blue-silver metallic finish and a mirrored Apple logo. (3) A woman wearing a lavender/purple hoodie enters the frame, interacting with the laptop by lifting and tilting it to demonstrate how the color changes under the light. (4) The camera pans to compare this blue laptop with a gold-toned MacBook sitting nearby. Both individuals move the laptops side-by-side to highlight the color differences before the camera settles back on the blue model.",
-      "audio_narrative_log": "(1) A male voice speaking Mandarin Chinese is heard immediately with a friendly and enthusiastic tone, accompanied by the low-frequency hum of a busy indoor environment. (2) As the laptop lid is closed, a soft physical 'thud' is audible. A female voice joins the conversation in Mandarin, sounding curious and impressed. (3) The acoustic environment includes background chatter from other people in the store, including some faint English phrases. There is no background music. (4) The voices maintain a consistent volume and conversational pace throughout, with occasional sounds of fingers tapping on the metal chassis of the devices.",
-      "text_narrative_log": "(1) Functional Text: 'MacBook Air 13-inch' on the table display tag. (2) Functional Text: 'Built for Apple Intelligence' shown on the laptop screen in a bold, modern font. (3) Functional Text: 'See models and pricing' and 'Get ready for a new era' visible on the web page on the screen."
-    },
     "temporal_pacing_summary": {
       "sceneCutCount": 12,
-      "averageSceneDuration": 7.5,
-      "isNarrativeShift": false,
-      "mainActionFlow": "The video follows a continuous demonstration and comparison of a laptop's color in a showroom setting."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 5,
-      "maleDetectAmount": 3,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Hands only",
-        "Partial torso",
-        "Back view"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 main male creator (hands/arm), 1 female companion (purple hoodie), and at least 3 blurry figures in the background.",
-      "mainCharacterDescription": "One male with a beaded bracelet on his right wrist; one female wearing a light purple/lavender hoodie."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Store",
-          "Studio"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A clean, high-end electronics retail store with light-colored wooden tables, minimalist displays, and other laptops in the background.",
-      "lightingStyle": "Intense studio lights",
-      "weather": "Unknown",
-      "season": "Unknown",
+      "averageSceneDuration": 11.0,
       "editingPace": "Moderate",
-      "text_overlay": {
-        "density": "Low",
-        "language": [
-          "English"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Follow shot",
-        "Handheld"
-      ]
+      "isNarrativeShift": false
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Laptop",
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Apple"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "None",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 0,
-        "offscreen": 2,
-        "backgroundCrowdVoices": 3,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Friendly and humorous",
-        "pitch": "Normal",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": false,
-      "bgmGenre": "None",
-      "bgmBPM": 0,
-      "instrumentFamiliesAudible": [
-        "None"
-      ],
-      "instrumentsAudible": [
-        "None"
-      ],
-      "musicSourceType": [
-        "None"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Studio quiet",
-        "Crowd chatter"
-      ],
-      "audioQuality": "Field Recording"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Demo -> Comparison",
-      "mainPurpose": "The video aims to provide a first-hand look at the new light blue color of the MacBook Air. It focuses on how the metallic finish reacts to light and compares it visually with the existing starlight/gold model to help potential buyers choose a color.",
-      "visualEmotion": "Calm"
+      "narrativeStructure": "List-based: Demonstration -> Comparison -> Reaction",
+      "mainPurpose": "The video aims to showcase the aesthetic appeal of the new light blue color for the MacBook Air. By using hands-on interaction and comparing it with other existing colors, the creator provides a first-person perspective on the product's physical appearance in real-world lighting.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -160,14 +267,12 @@
         "Implicit",
         "Integrated"
       ],
-      "endorsementCues": "The video features a detailed hands-on demonstration of a brand-new tech product in a retail environment, highlighting specific aesthetic features.",
+      "endorsementCues": "The video focuses entirely on a specific brand's new product release in a retail setting, highlighting positive features like the 'blue color' and 'Apple Intelligence'.",
       "endorsementObject": [
-        "Apple MacBook Air"
+        "Apple",
+        "MacBook Air"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Mandarin tech vlogger style focusing on aesthetic details.",
-      "freeDescribe": "The video is likely from a tech influencer ('3ctim') covering an Apple event or store launch."
-    }
+    "freeDescribe": "The video effectively captures the tactile and visual qualities of the hardware through handheld camera movements and close-up framing. The social interaction between the creator and others adds a sense of authentic, on-site reporting."
   }
 }

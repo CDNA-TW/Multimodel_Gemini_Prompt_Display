@@ -1,172 +1,270 @@
 {
   "videoName": "0_shufen-20251023124807-26148841931367902.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 14,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Social Skit"
-      ],
+      "videoDuration": 15,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) The video begins with an out-of-focus POV shot looking down at a concrete floor next to a dark grey wall. The camera is unstable, suggesting a handheld movement or someone struggling to walk. A single yellow character appears in the center as an overlay. (2) The scene cuts to a close-up of a young woman leaning over the camera. She has long dark hair, heavy makeup, and is wearing a white garment over a red top. Her facial expressions transition from concern to a slight smile. The lighting is bright and indoor. (3) The camera moves forward through a doorway into a brighter room. A large, traditional circular wooden bathtub is the central object, filled with water and sitting on a platform. The background features large windows letting in natural daylight. Yellow text overlays continue to appear. (4) The final phase shows the woman again in a close-up framing. She is smiling broadly, almost laughing, and points her index finger toward the camera or the viewer. Her body posture is leaning forward, and the background remains the bright room from the previous phase.",
+      "text_narrative_log": "(1) [Variety]: 欸. (2) [Subtitle]: 先生你還好嗎？. (3) [Subtitle]: 有需要幫忙嗎？. (4) [Subtitle]: 我的眼鏡掉了. (5) [Subtitle]: 我看不見路. (6) [Subtitle]: 那我先扶你去一個地方坐坐. (7) [Subtitle]: 來..跟著我走. (8) [Subtitle]: 妳要帶我去哪裡呀？. (9) [Variety]: 嘿嘿嘿.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Face",
+          "Head and shoulders",
+          "Hands only",
+          "Upper body"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "One main female creator is visible; the male is only represented by the camera's POV.",
+        "mainCharacterDescription": "A young woman with long dark hair, wearing a white top and red inner garment, featuring dramatic facial makeup."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Hotel / Accommodation"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "Starts in a dimly lit hallway or corridor with concrete floors and grey walls, then moves into a bright room with a large wooden bathtub and windows.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Dolly in / push in"
+        ],
+        "shotSize": [
+          "Close-up",
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "POV / first-person view",
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 1,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Comedic/Exaggerated"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 5,
+        "valence": 7,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Clothing / Fabric Rustle",
+          "Footsteps"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 2,
+        "noisinessAndPercussiveness": 1,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 2,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a male voice making short, inquisitive 'Eh?' sounds. The pitch is slightly high and the tone is one of mild confusion. The environment is very quiet, with minimal background hiss or ambient floor. (2) A clear female voice enters the mix, asking 'Mister, are you okay? Do you need help?' in a polite and helpful tone. The male voice responds, explaining in a slightly lower and vulnerable pitch that his glasses fell and he cannot see. (3) The female voice speaks again, suggesting she lead him to a place to sit. There are faint shuffling sounds suggesting movement. The male voice asks where they are going with a rising, inquisitive intonation. (4) The sequence ends with the female voice producing a rhythmic, staccato laughter, 'Hehehe,' with a playful and mischievous tone. The vocal energy increases significantly during this laughter, contrasting with the previous helpful dialogue."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Short Video",
+        "Meme / Trend"
+      ],
       "location": {
         "country": [
-          "China"
+          "Unknown"
         ],
         "city": [
           "Unknown"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video starts with a heavily blurred view of a grey tiled floor, simulating impaired vision from a first-person perspective. (2) A young woman with long dark hair, wearing a white top, enters the frame from above, looking concernedly at the camera and gesturing with her hands. (3) The scene cuts to the woman leading the camera (POV) through a doorway into a bright, well-lit room. (4) The woman looks back at the camera with a playful smile and points toward a large, round wooden bathtub situated in the center of the room.",
-      "audio_narrative_log": "(1) The audio begins with ambient indoor noise and the sound of light footsteps. (2) A gentle female voice speaks with concern, followed by a low-pitched male voice responding. (3) An upbeat, rhythmic electronic background music track fades in as the dialogue continues. (4) Sounds of walking on a hard surface and a door opening are heard, concluding with a playful female giggle.",
-      "text_narrative_log": "(1) \"欸\" - Surprise tone, catching someone's attention. (2) \"先生 你還好嗎？\" - Concerned tone, asking if the man is okay. (3) \"有需要幫忙嗎？\" - Helpful tone, offering assistance. (4) \"我的眼睛掉了 我看不到路\" - Explanatory tone, stating vision loss. (5) \"那我先扶你去一個地方 坐坐\" - Suggestive tone, proposing a place to sit. (6) \"來..跟著我走\" - Directing tone, leading the way. (7) \"妳要帶我去哪裡呀\" - Curious tone, questioning the destination. (8) \"嘿嘿嘿\" - Playful and mischievous tone."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 5,
-      "averageSceneDuration": 2.8,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Interaction -> Guided Walk -> Discovery of Destination"
+      "sceneCutCount": 4,
+      "averageSceneDuration": 3.75,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
     },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Face"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "1 female main character visible; 1 male voice identified as the POV photographer.",
-      "mainCharacterDescription": "A young woman with long black hair, wearing a white off-the-shoulder top."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor",
-          "Spa"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "An indoor hallway with grey walls and circular lights, leading into a bright room with large windows and a central wooden bathtub.",
-      "lightingStyle": "Bright studio lighting",
-      "weather": "None",
-      "season": "None",
-      "editingPace": "Fast",
-      "textOverlay": {
-        "density": "Medium",
-        "language": [
-          "Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural and Bright",
-      "cameraWork": [
-        "POV",
-        "Follow shot"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Helpful then mischievous",
-        "pitch": "Mixed",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic",
-      "bgmBPM": 120,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Footsteps",
-        "Indoor ambiance"
-      ],
-      "audioQuality": "Field"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Interaction -> Transition -> Reveal",
-      "mainPurpose": "The video presents a playful first-person scenario where a man with impaired vision is helped by a kind stranger. The narrative shifts from a serious tone of concern to a lighthearted, humorous ending when the woman leads him to a bath, implying a prank or a scripted comedy skit.",
-      "visualEmotion": "Warm and Playful"
+      "narrativeStructure": "Linear: Hook -> Development -> Twist",
+      "mainPurpose": "A scripted comedic skit designed for social media. It depicts a helpful interaction where a woman leads a man (who claims to be unable to see) to a room with a large wooden tub, ending with a mischievous laugh that suggests a humorous or slightly provocative punchline.",
+      "visualEmotion": [
+        "humorous",
+        "mysterious"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
       "endorsementMethod": [
         "None"
       ],
-      "endorsementCues": "No specific product or service brand is mentioned or shown as a focus.",
+      "endorsementCues": "None",
       "endorsementObject": [
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Use of POV camera with a blur effect to represent a character's perspective.",
-      "freeDescribe": "The use of variety-show style subtitles enhances the comedic and interactive feel of the skit."
-    }
+    "freeDescribe": "The video uses a first-person perspective (POV) to immerse the viewer in the role of the person being helped, enhancing the comedic effect of the twist."
   }
 }

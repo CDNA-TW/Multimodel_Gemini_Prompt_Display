@@ -1,15 +1,249 @@
 {
   "videoName": "yga0721-20250430140758-1435500961616519.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 57,
-      "aspectRatio": "1:1",
+      "videoDuration": 58,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) Close-up shot of a printed document held by a woman. The camera pans up to show a woman reading the text with a neutral expression. She is wearing an orange uniform similar to the man. The lighting is bright and studio-focused. (2) Sudden cut to a man with short brown hair, also in an orange uniform. He looks shocked, eyes wide, mouth agape, holding the same papers. Large variety text overlays flash on the screen. (3) The man becomes highly animated, waving his hands and pointing to the papers. A screenshot of a Wikipedia page is superimposed on the frame with highlights on specific dates and milestones. (4) The man shouts directly at the camera, pointing aggressively. Various colorful, bold text overlays flash on the screen matching his emphasized words. (5) Final shot shows the man leaning forward over a wooden desk, still shouting and gesturing, while the woman beside him smiles. A smartphone and microphone are visible on the desk.",
+      "text_narrative_log": "(1) [Subtitle]: 或許是幫公司做了太多. [Variety]: 鳩都媽得. (2) [Subtitle]: 頻道訂閱數從數萬. [Variety]: 2020? 2022? 2021?. (3) [Subtitle]: 維基百科. [Variety]: 維基百科^^. (4) [Subtitle]: 2014年達成Facebook百萬粉絲. [Variety]: 百萬訂閱. (5) [Variety]: 很夯. (6) [Variety]: 很紅. (7) [Subtitle]: 不然你會來? [Variety]: 不然你會來?. (8) [Subtitle]: 三高風險? [Variety]: 三高風險. (9) [Variety]: 福利太好. (10) [Variety]: 吃太好. (11) [Variety]: 過太爽.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face close-up",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 male main creator, 1 female assistant reading the script",
+        "mainCharacterDescription": "Male with short brown hair, wearing a bright orange uniform with a 'I GOT MY COVID-19 VACCINE' patch on the sleeve."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A dark teal curtain backdrop in a studio setting, with a wooden table in the foreground holding a smartphone and documents.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Warm and vibrant"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Zoom in"
+        ],
+        "shotSize": [
+          "Medium close-up",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Graphic transition",
+          "Meme-style edit",
+          "Freeze frame"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Japanese",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Microphone / lavalier mic"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Wikipedia"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 1,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 5,
+        "intensityAndLoudness": 5,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Comedic/Exaggerated",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese",
+          "Japanese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": true,
+        "hasStrain": true,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 9,
+        "valence": 8,
+        "dominance": 9,
+        "hasVocalTension": true
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 132,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Synthesizer",
+          "Electronic",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Paper / Page Rustle"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Impact / Hit SFX",
+          "Ding / Bell SFX",
+          "Cartoon / Comedy SFX",
+          "Meme SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 5,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 5,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A calm female voice reads a passage in Mandarin. There is a low-level ambient room tone and the subtle sound of paper rustling. (2) A sharp, loud impact SFX occurs as a male voice shouts 'Chotto matte!' in an exaggerated Japanese accent. The vocal arousal is extremely high. (3) An upbeat, high-tempo electronic synthesizer BGM starts playing. The male voice continues shouting in Mandarin with rapid-fire delivery and frequent pitch fluctuations. (4) The sound of rhythmic clapping is heard as the male voice emphasizes certain words with increased volume and strained vocal texture. Short cartoonish 'ding' SFX punctuate his points. (5) The BGM swells slightly as the male voice delivers a final series of punchlines. A comical 'boing' SFX marks the end of his last sentence before the audio cuts."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
         "Comedy",
-        "Reaction",
-        "Commentary"
+        "Meme / Trend",
+        "Storytelling"
       ],
-      "withRealPeople": true,
       "location": {
         "country": [
           "Taiwan"
@@ -19,144 +253,19 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video starts with a male and a female character sitting at a desk indoors, both wearing matching orange jumpsuits; they are looking at papers. (2) The man, Tsai Aga, begins reacting with exaggerated shock, opening his mouth wide and looking intensely at the documents. (3) A graphic overlay of a Wikipedia page and a long text block appears over the scene as the man gestures aggressively, slamming the papers on the desk. (4) The editing switches between close-ups of the man's angry, funny facial expressions and medium shots where he points at the camera or looks at his colleague. (5) The man continues to shout and gesture with a mix of papers and his hands until the final comedic punchline.",
-      "audio_narrative_log": "(1) A calm female voice reads a narrative in Mandarin. (2) A male voice suddenly interrupts with a loud, high-pitched Japanese shout 'Chotto Matte!', followed by rapid, high-volume speaking in a mix of Mandarin and Hokkien. (3) Fast-paced, upbeat comedic music begins, featuring electronic beats and variety-show style sound effects like 'boing' and impact noises. (4) The male voice remains energetic and loud, yelling and hitting the table, which creates percussive thuds. (5) The audio ends with the man's loud delivery of a joke followed by a brief silence or musical tail.",
-      "text_narrative_log": "(1) Functional text appears in a white box on the left, telling a story about a boss's success versus an employee's frustration. (2) Decorative hook text '鳩都媽得' (Chotto Matte!) pops up in large yellow characters. (3) Variety-show style captions like '2014年', '百萬訂閱' (Million subscribers), and '很夯 很紅' appear to emphasize the man's energetic claims. (4) Decorative text '三高風險' (Triple high risk) appears in large red and white font as a punchline."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 32,
-      "averageSceneDuration": 1.78,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Reading intro -> Shocked interruption -> Angry/Comedic debunking -> Punchline"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Upper body",
-        "Hands",
-        "Face"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "1 main male creator, 1 female assistant sitting beside him.",
-      "mainCharacterDescription": "A male creator with short brown hair wearing an orange jumpsuit with various patches, including one that says '嘉義' (Chiayi) and another about COVID-19 vaccination."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Studio"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A simple indoor studio setup with light blue/teal curtains and a wooden table.",
-      "lightingStyle": "Studio lights, bright and even.",
-      "weather": "Unknown",
-      "season": "Unknown",
+      "sceneCutCount": 22,
+      "averageSceneDuration": 2.6,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Zoom"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone",
-        "Microphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "維基百科"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Loud, energetic, and humorous",
-        "pitch": "High-pitched",
-        "loudness": "Very loud",
-        "speed": "Extremely fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin",
-          "Hokkien"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum kit"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Impact",
-        "Cartoon SFX",
-        "Ding"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Confrontation -> Climax",
-      "mainPurpose": "The video is a comedic reaction piece designed to entertain and clarify the creator's history. Tsai Aga uses an exaggerated, high-energy persona to address a narrative about his channel's growth and employee conditions, ultimately turning the situation into a joke about 'Triple High Risk' being related to health and benefits rather than danger.",
-      "visualEmotion": "Energetic"
+      "narrativeStructure": "Linear: Hook -> Evidence -> Rebuttal/Reaction",
+      "mainPurpose": "A comedic reaction video where the creator debunks a false claim or exaggerated story about his past career and earnings. He uses high-energy delivery and on-screen evidence to ridicule the inaccuracies of the text being read to him.",
+      "visualEmotion": [
+        "energetic",
+        "humorous"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -168,9 +277,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Tsai Aga's signature loud shouting, rapid-fire speech, and use of orange jumpsuits.",
-      "freeDescribe": "The video heavily relies on variety-show aesthetics common in Taiwanese YouTube content to drive engagement through high-contrast text and loud audio cues."
-    }
+    "freeDescribe": "The video employs a classic social media 'reaction' format, characterized by rapid edits, visual gags, and contrasting energy between the 'reader' and the 'reactor'."
   }
 }

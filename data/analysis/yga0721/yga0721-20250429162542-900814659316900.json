@@ -1,178 +1,272 @@
 {
   "videoName": "yga0721-20250429162542-900814659316900.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 38.6,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Comedy",
-        "Commentary"
-      ],
+      "videoDuration": 38.0,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A man with short, styled brown hair and an expressive face is wearing a bright orange jumpsuit with reflective silver tape and various patches. He sits in a studio setting against a backdrop of vertical teal curtains. Large white Chinese characters appear as an overlay. He looks directly at the camera with wide eyes and an open mouth. (2) The man points his finger toward the left side of the frame as a logo with the text 'GA GARMY' and pixelated graphics appears in the center. He holds several white papers in his other hand, gesturing with them. The lighting is bright and even, typical of a professional studio setup. (3) A woman with long dark hair, wearing an identical orange jumpsuit, enters the frame and sits next to him. They both look at the papers on the desk. Dynamic red and yellow graphic overlays resembling flames and sparkles appear around the man as he continues to speak animatedly, his facial expressions shifting rapidly between shock and excitement. (4) A small picture-in-picture video appears, showing the man in the same orange uniform standing outdoors, pointing at a sign. In the main frame, he continues to wave his papers and point his finger towards the camera. The woman beside him laughs and looks at the papers. (5) The man leans closer to the camera, his eyes bulging slightly for comedic effect. He continues to gesture aggressively with the papers in his hand. The background remains the static teal curtain, but the visual rhythm is maintained through frequent jump cuts and the reappearance of various text overlays.",
+      "text_narrative_log": "(1) [Variety]: 網軍. (2) [Subtitle]: 妳是講我們嘎家軍嘎mi哦. [Logo]: GA GARMY Army. (3) [Variety]: 又變成妳協助了!!. (4) [Subtitle]: 我一手拉拔的嘎家軍. (5) [Variety]: GArmy 我組的. (6) [Subtitle]: 正規網軍. (7) [Slogan]: 嘎哥砸中國店家招牌?. (8) [Variety]: 543有拍影片 又沒訂閱!!!. (9) [Variety]: 我組的!!!. (10) [Subtitle]: 妳不要沾光 要蹭哦. [Variety]: 火 要蹭哦 火. (11) [Subtitle]: 網軍我組的. (12) [Subtitle]: 沒有組GArmy之前 網友粉絲. (13) [Variety]: 有花錢才叫網軍. (14) [Subtitle]: 妳疑似. (15) [Subtitle]: 花錢請公關媒體操作. [Variety]: 那才叫網軍. (16) [Subtitle]: 自發性的義勇軍 不是叫網軍抱歉哦.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Head and shoulders",
+          "Upper body"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 main male creator, 1 female co-host sitting beside him.",
+        "mainCharacterDescription": "Male, short brown hair, wearing a bright orange uniform jumpsuit with reflective stripes and patches."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A simple studio setup with vertical teal curtains and a desk surface covered with papers and documents.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Warm and vibrant"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Jump cut",
+          "Fast cuts",
+          "Meme-style edit",
+          "Picture-in-picture / inset"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Microphone / lavalier mic"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 1,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 5,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Comedic/Exaggerated"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": true,
+        "hasStrain": true,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 9,
+        "valence": 7,
+        "dominance": 8,
+        "hasVocalTension": true
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Drum Kit / Drum Set",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Paper / Page Rustle"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Impact / Hit SFX",
+          "Ding / Bell SFX",
+          "Whoosh / Transition SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 5,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A high-pitched male voice shouts the phrase '網軍' with intense energy. Simultaneously, an upbeat electronic dance track with a strong 4/4 drum beat kicks in. The acoustics are clean, indicating a studio environment. (2) A sharp 'ding' sound effect cuts through as the speaker continues at a high volume, his voice showing significant strain and excitement. He speaks at a rapid rate with frequent rising intonations. (3) A distinct 'whoosh' transition sound occurs, followed by the audible crinkling and rustling of papers being shuffled quickly. The background music maintains a constant high-tempo energy. (4) A percussive 'hit' sound effect emphasizes a word as the speaker's arousal level increases further. His speech becomes almost melodic in its exaggerated comedic delivery, with short pauses between loud exclamations. (5) The female voice is heard laughing briefly in the background, providing a textural contrast to the male's dominant shouting. The track concludes with a final energetic sentence and a sudden hard cut in the audio."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Personal Talk",
+        "Meme / Trend"
+      ],
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "Unknown"
+          "None"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video starts with a close-up of a man with short brown hair wearing an orange jumpsuit; he has an exaggerated, wide-eyed facial expression and is shouting toward the camera. (2) A graphic showing a \"GArmy\" logo and another showing a YouTube video thumbnail appear briefly on screen as the man continues to gesture wildly and point. (3) A woman with long dark hair, also wearing an orange jumpsuit, enters the frame and sits next to him at a table covered with papers; they interact, with the man appearing to argue or explain something intensely while holding a stack of papers. (4) The man points directly at the camera and then back at the papers, his expression shifting between anger and triumphant laughter.",
-      "audio_narrative_log": "(1) High-pitched, loud male vocals dominate the audio, speaking Mandarin and Taiwanese with an aggressive and excited tone. (2) An upbeat, fast-tempo electronic background track with strong percussion beats plays continuously. (3) A calmer female voice is heard briefly responding to the male speaker, creating a dialogue dynamic. (4) Sound effects (SFX) like sparkles or emphasis hits accompany the appearance of text overlays.",
-      "text_narrative_log": "(1) \"網軍\" (Internet Army) appears in large bold letters, expressing a central theme. (2) \"又變成妳協助了!!\" (It's become your help again!!) appears as decorative hook text with exclamation marks. (3) \"GArmy\" is shown as a brand logo. (4) \"我組的!!!\" (I organized it!!!) appears to emphasize the speaker's claim. (5) \"有花錢才叫網軍\" (It's only called an internet army if money is spent) serves as a functional summary of his argument."
     },
     "temporal_pacing_summary": {
       "sceneCutCount": 18,
       "averageSceneDuration": 2.1,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro shouting -> Interaction/Argument with second person -> Conclusion/Point delivery."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Head",
-        "Torso",
-        "Hands"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "1 male main creator and 1 female companion present at the table.",
-      "mainCharacterDescription": "The man has short brown hair and wears a bright orange flight-suit style jumpsuit. The woman has long dark hair and wears the same orange jumpsuit."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Studio"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A studio setting with teal-colored curtains and a desk containing papers, a smartphone, and a microphone stand.",
-      "lightingStyle": "Bright studio lights",
-      "weather": "Indoor",
-      "season": "Unknown",
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "High Saturation",
-      "cameraWork": [
-        "Static",
-        "Close-up"
-      ]
+      "isNarrativeShift": false
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone",
-        "Microphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "GArmy"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "High-pitched, excited, and argumentative",
-        "pitch": "High",
-        "loudness": "Loud",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin",
-          "Taiwanese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat/Electronic",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Transition swoosh",
-        "Emphasis dings"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Evidence/Argument -> Conclusion",
-      "mainPurpose": "The video is a high-energy comedic commentary where the creator, Tsai A-ga, humorously distinguishes his fan group ('GArmy') from paid 'internet armies' (cyber trolls). He uses exaggerated expressions and loud delivery to engage the audience while responding to a perceived claim or misunderstanding regarding his community's influence.",
-      "visualEmotion": "Energetic, Chaotic, Humorous"
+      "narrativeStructure": "Montage: Hook -> Point-by-Point Rant -> Comedic Conclusion",
+      "mainPurpose": "The video is a high-energy comedic rant clarifying the distinction between the creator's organic fan base (Garmy) and paid internet astroturfers (internet water army). The creator uses exaggerated vocal delivery and fast-paced editing to entertain while asserting the authenticity of his community.",
+      "visualEmotion": [
+        "energetic",
+        "humorous"
+      ]
     },
     "endorsement_analysis": {
-      "isEndorsement": true,
+      "isEndorsement": false,
       "endorsementMethod": [
-        "Implicit",
-        "Integrated"
+        "None"
       ],
-      "endorsementCues": "He is promoting his fan base 'GArmy' and his content channel through logos and thumbnails.",
+      "endorsementCues": "None",
       "endorsementObject": [
-        "GArmy",
-        "Tsai A-ga YouTube Channel"
+        "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Tsai A-ga's signature high-volume delivery, orange jumpsuit costume, and use of variety-show style large text overlays.",
-      "freeDescribe": "The video leverages Taiwanese internet slang and celebrity culture to create a highly relatable and viral-style short-form clip."
-    }
+    "freeDescribe": "Typical social media short-form content from a major Taiwanese influencer, characterized by high sensory density and meme-based humor."
   }
 }

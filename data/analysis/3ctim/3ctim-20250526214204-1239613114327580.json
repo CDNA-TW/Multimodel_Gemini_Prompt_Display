@@ -1,179 +1,280 @@
 {
   "videoName": "3ctim-20250526214204-1239613114327580.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 43,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Tech News",
-        "Educational",
-        "Commentary"
-      ],
+      "videoDuration": 44,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "Taiwan"
+      "visual_narrative_log": "(1) Tim, a middle-aged male with glasses and a checkered cap, points his finger directly at the camera in a medium close-up shot. He is in a studio setting with soft background lighting. Social media logos for Facebook and Instagram appear at the top left, alongside a 'miko' brand logo. (2) The visual transitions to include large text overlays and graphics. An OpenAI logo and icons representing money appear as Tim gestures with his hands, explaining financial costs. The lighting is bright and professional. (3) A digital interface/screen capture of a post from the X platform is shown, detailing a user's question about AI etiquette. Tim remains the central figure, narrating the context. (4) A static image of Sam Altman is overlaid on the screen with a speech bubble. Tim continues to speak, using hand movements to drive the narrative forward. (5) Graphic illustrations representing GPUs, battery levels, and energy calculations appear. Tim explains technical details while the background remains a consistent studio environment. (6) A series of lightbulb icons and water bottle graphics are displayed to visually quantify the energy and water consumption of AI prompts. (7) In the final phase, Tim is shown looking down at a device, simulating a typing action. Text overlays appear showing his polite response to the AI, concluding the educational segment.",
+      "text_narrative_log": "(1) [Logo]: 3c有意思tim哥. [Logo]: 3ctim. [Logo]: miko. [Subtitle]: 你知道嗎. (2) [Slogan]: OpenAI. [Slogan]: 多燒了數千萬美元. (3) [Subtitle]: 一名使用者在X平台詢問說. (4) [Slogan]: 使用Chat GPT. [Slogan]: 請 謝謝. (5) [Subtitle]: 是否會對OpenAI的營運成本造成影響?. (6) [Subtitle]: 大概是幾千萬美元. [Subtitle]: 山姆 阿特曼. [Variety]: 👍. [Subtitle]: 這個錢花的值得. (7) [Slogan]: 大量GPU計算. [Slogan]: 耗電、發熱. (8) [Slogan]: 0.14度電. (9) [Slogan]: 14顆LED的燈. (10) [Slogan]: open AI的水費. (11) [Slogan]: 三罐的瓶裝水. (12) [Variety]: (調皮). [Subtitle]: 回一下 謝謝. [Subtitle]: 辛苦你了.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Head and shoulders",
+          "Upper body",
+          "Face",
+          "Hands only"
         ],
-        "city": [
-          "None"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video begins with a close-up of a middle-aged man wearing glasses and a patterned flat cap, pointing directly at the camera with a surprised/serious expression. (2) A graphic of the OpenAI logo appears, followed by a cut to Sam Altman speaking at a conference. (3) Transitions back to the man who uses hand gestures to explain technical concepts while animated icons of lightning (electricity), light bulbs, and water bottles appear as overlays. (4) The man continues speaking enthusiastically, occasionally leaning into the camera. (5) The final scene shows the man looking down at a device, typing with a playful expression, followed by an overlay of a ChatGPT chat bubble.",
-      "audio_narrative_log": "(1) Fast-paced, rhythmic electronic background music (BGM) starts immediately. A male voice speaks in an energetic, high-pitched, and fast-paced tone. (2) The music remains constant as the narrator explains data points; sound effects (SFX) like digital 'pops' and 'dings' occur simultaneously with the appearance of on-screen graphics. (3) The vocal intensity increases slightly during the 'revealing' parts of the explanation. (4) The audio concludes with a final SFX accompanying the closing text, with the BGM fading out.",
-      "text_narrative_log": "(1) '你知道嗎' (Did you know?) - Hook text with a curious tone. (2) '讓OpenAI多燒了數千萬美元' (Made OpenAI burn tens of millions of dollars) - Informative and shocking tone. (3) '請 謝謝' (Please, Thank you) - Functional text highlighting the core topic of politeness. (4) '大量GPU計算' (Massive GPU calculations) - Technical term for context. (5) '0.14度電' (0.14 kWh) and '14顆LED的燈' (14 LED bulbs) - Comparison data. (6) '三罐的瓶裝水' (Three bottles of bottled water) - Visual measurement text. (7) '辛苦你了' (You've worked hard) - Closing emotional hook/sticker."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 14,
-      "averageSceneDuration": 3.07,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Hook -> Evidence/Data Presentation -> Real-world Analogy -> Personal Conclusion/Call to Action"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 2,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Head and shoulders",
-        "Hands",
-        "Full body (partial in graphics)"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main host (Tim哥), 1 public figure (Sam Altman) in B-roll footage.",
-      "mainCharacterDescription": "Middle-aged male with glasses, wearing a grey/black patterned flat cap, a black T-shirt with white/green graphics, and a beaded bracelet on his right wrist."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Studio"
+        "crowdLevel": [
+          "Single"
         ],
-        "topography": [
-          "None"
+        "countingEvidence": "1 main creator (Tim) appearing throughout the video.",
+        "mainCharacterDescription": "A middle-aged male wearing a black t-shirt, clear-framed glasses, and a black-and-white checkered flat cap."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A professional studio background with soft, neutral colors and vertical strip lighting accents.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
         ]
       },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A blurred, neutral indoor background, likely a studio or a home office with soft, warm lighting.",
-      "lightingStyle": "High-key studio lighting, bright and even.",
-      "weather": "None",
-      "season": "None",
-      "editingPace": "Fast",
-      "textOverlay": {
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Fast cuts",
+          "Graphic transition",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
         "density": "High",
-        "language": [
+        "textLanguage": [
           "Traditional Chinese",
-          "English"
+          "English",
+          "Emoji / Symbols"
         ],
         "isSubtitled": true
       },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Digital Zoom"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone",
-        "Server (icon)",
-        "GPU (text)"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "OpenAI",
-        "ChatGPT",
-        "X (formerly Twitter)"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut with beat-sync",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Enthusiastic and educational",
-        "pitch": "Medium-high",
-        "loudness": "Clear and projected",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Beverage / juice"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Laptop"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "OpenAI",
+          "X"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Pop",
-        "Ding",
-        "Swoosh"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Professional/Narrative",
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 6,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM",
+          "Pop"
+        ],
+        "tempoBPM": 124,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 0,
+        "incidentalNoiseDetails": [
+          "Mechanical Click / Latch",
+          "None"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Pop / Bubble SFX",
+          "Digital UI SFX",
+          "Ding / Bell SFX",
+          "Other"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a male speaker's energetic, high-arousal voice delivering a punchy hook. A high-tempo electronic pop track with a strong 4/4 beat plays in the background. (2) A 'pop' sound effect triggers as the OpenAI logo appears visually, while the speaker maintains a bright, professional tone. (3) A series of 'digital click' and 'UI interface' sound effects occur as text boxes populate the screen. The BGM remains steady and rhythmic. (4) A melodic 'chime' sound effect marks the shift to showing the Sam Altman graphic. The speaker's pitch variability increases to emphasize a specific quote. (5) Fast-paced percussive 'bubble' sound effects are integrated as technical energy data is discussed. The speaker's articulation is very clear. (6) A distinct 'liquid pouring' or 'splash' sound effect is heard when the topic of water cooling is introduced, providing a literal acoustic anchor. (7) The video concludes with a rapid series of 'keyboard typing' sounds as the speaker's voice fades out along with the BGM."
     }
   },
-  "high_inference_interpretations": {
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Tech News / Commentary",
+        "Short Video",
+        "Education / Knowledge"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 3.1,
+      "editingPace": "Fast",
+      "isNarrativeShift": false
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Data Analysis -> Comparison -> Conclusion",
-      "mainPurpose": "The video aims to educate viewers about the high environmental and operational costs (electricity and water) associated with using AI like ChatGPT, specifically highlighting how unnecessary polite phrases like 'please' and 'thank you' increase computational load and resource consumption.",
-      "visualEmotion": "Energetic and Eye-opening"
+      "narrativeStructure": "List-based: Hook -> Evidence Presentation -> Comparative Analytics -> Conclusion",
+      "mainPurpose": "The video serves as a tech-focused educational commentary, aiming to inform the audience about the significant environmental and financial costs—specifically electricity and water—incurred by AI models like ChatGPT, highlighting how even polite social etiquette in prompts increases computational load.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "focused"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
       "endorsementMethod": [
         "None"
       ],
-      "endorsementCues": "Content is presented as a technology news commentary rather than a paid promotion.",
+      "endorsementCues": "The video provides neutral commentary on OpenAI costs without promoting a specific alternative product or paid service.",
       "endorsementObject": [
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-energy pointing at start, fast-paced 'talking head' style with dense infographic overlays, signature flat cap and glasses.",
-      "freeDescribe": "The video uses effective data visualization (bottled water, light bulbs) to translate abstract technical costs into relatable everyday concepts, typical of modern short-form educational content."
-    }
+    "freeDescribe": "The video utilizes high-density visual and auditory cues typical of social-native short-form content to maintain high viewer engagement while delivering technical information."
   }
 }

@@ -1,173 +1,277 @@
 {
   "videoName": "cocowine0205-20250216054206-1533304761520515.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 28,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Food Vlog",
-        "Product Review"
-      ],
+      "videoDuration": 29,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "Unknown"
+      "visual_narrative_log": "(1) Two young women sit side-by-side behind a white marble-textured table in a bright indoor room. The woman on the left has long, straight dark hair and wears a white ribbed sweater. The woman on the right wears a pink beret and a blue layered top. They both hold bright green Shine Muscat grapes toward the camera. On the table, a clear plastic container and a small blue plate both hold more grapes. (2) The scene cuts to a supermarket display shelf filled with numerous packs of green grapes. Each pack is wrapped in clear plastic with white mesh padding. Large yellow and red price tags with black text are prominently displayed over the produce. (3) The scene returns to the two women. The woman in the beret holds a single grape close to the lens, showing its size relative to her thumb, then puts it in her mouth and eats it. They both continue to talk and gesture enthusiastically while holding the fruit, with the lighting remaining bright and even throughout the sequence.",
+      "text_narrative_log": "(1) [Subtitle]: 價格非常划算的. (2) [Logo]: 唐吉訶德. [Variety]: 359元. [Subtitle]: 麝香葡萄. [Logo]: 日本岡山縣. [Slogan]: Must Buy. (3) [Subtitle]: 它每一個都比大拇哥還要大. (4) [Subtitle]: 品相很漂亮 果肉QQ軟軟的. (5) [Subtitle]: 然後完全不會澀 就是嚼起來都完全不澀. (6) [Subtitle]: 以及非常的多汁juicy. (7) [Subtitle]: 但喜歡脆脆的人可能會不喜歡. (8) [Subtitle]: 這個麝香葡萄呢 它是比較偏向果香. [Variety]: 果香. (9) [Subtitle]: 它是有一點那種荔枝 高級香味 水蜜桃那種果香. [Variety]: 高級香味 水蜜桃那種果香. (10) [Subtitle]: 然後美國的葡萄就是綠葡萄的甜.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Face close-up",
+          "Hands only"
         ],
-        "city": [
-          "None"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video begins with two females sitting in an indoor setting; the female on the right holds a green grape and talks with an expressive face. (2) The scene cuts to a supermarket display of Shine Muscat grapes with price tags indicating '359' and brand 'Don Don Donki'. (3) The duo returns to the screen, holding grapes next to their thumbs to compare size, then they both eat the grapes, nodding and gesturing to indicate the texture and sweetness. (4) Close-up shots of the grapes on a plate are shown while they continue to describe the taste through expressions.",
-      "audio_narrative_log": "(1) An upbeat, medium-tempo electronic background music starts. A high-pitched, enthusiastic female voice begins narrating immediately. (2) The narration remains continuous and energetic throughout the video, with no significant ambient noise from the supermarket scene. (3) Subtle chewing sounds occur when they eat, but the primary focus remains on the enthusiastic vocal delivery and the consistent BGM.",
-      "text_narrative_log": "(1) '價格非常劃算的' (Very cost-effective price) - Functional/Hook. (2) '唐吉訶德 359元 麝香葡萄' (Don Quijote 359 NTD Muscat Grapes) - Functional information. (3) '它每一個都比大拇哥還要大' (Each one is bigger than a thumb) - Descriptive hook. (4) '軟軟的' (Soft), '完全不會澀' (Not astringent at all), '非常的多汁 juicy' (Very juicy) - Emotional/descriptive captions. (5) '果香' (Fruit fragrance), '高級香味' (Premium scent) - Comparative descriptions."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 12,
-      "averageSceneDuration": 2.33,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro -> Product Evidence (Store shot) -> Tasting & Review -> Comparison"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "2 main female creators sitting together.",
-      "mainCharacterDescription": "A female with a pink beret and a blue ruffled sweater (right) and a female with long dark hair and a white cardigan (left)."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Studio",
-          "Supermarket"
+        "crowdLevel": [
+          "Duo"
         ],
-        "topography": [
-          "None"
+        "countingEvidence": "2 main female creators sitting at a table",
+        "mainCharacterDescription": "One woman has long black hair and a white sweater; the other has a pink beret, a blue top, and a white lace pinafore."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Living Room",
+          "Retail Store",
+          "Supermarket / Warehouse Store"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The indoor scene shows a neutral-toned wall with soft lighting and a blurred glimpse of a shelf with toys. The store scene features packed grocery shelves with colorful promotional signage.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
         ]
       },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A modern indoor room with soft lighting and a store shelf filled with packaged grapes in yellow mesh.",
-      "lightingStyle": "Bright, even indoor lighting.",
-      "weather": "Indoor",
-      "season": "Unknown",
-      "editingPace": "Fast",
-      "textOverlay": {
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium close-up",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
         "density": "High",
-        "language": [
+        "textLanguage": [
           "Traditional Chinese",
           "English"
         ],
         "isSubtitled": true
       },
-      "colorTone": "Warm and Vibrant",
-      "cameraWork": [
-        "Static",
-        "Close-up"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Shine Muscat Grapes"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "唐吉訶德"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "High-pitched and excited",
-        "pitch": "High",
-        "loudness": "Loud",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Plush / decoration / toy animal"
+        ],
+        "foodsDetect": [
+          "Fruit"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "唐吉訶德"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum kit"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 124,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Food Bite / Crunch"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Pop / Bubble SFX"
+        ],
+        "soundEffectsIntensity": 2,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A high-pitched female voice speaks with rapid-fire enthusiasm and a bright, friendly timbre. An upbeat, major-key electronic pop track with a synthesized beat plays continuously in the background at a moderate volume. (2) As the speaker describes the texture and taste of the fruit, her voice exhibits high pitch variability, often rising at the end of phrases to convey excitement. The background music maintains a steady 124 BPM tempo with clear percussive hits. (3) A very brief, subtle squish or bite sound is heard as the presenter eats, followed by a continuation of the high-arousal vocal delivery. The spectral balance is bright, emphasizing the clarity of the speech and the sharpness of the electronic BGM."
     }
   },
-  "high_inference_interpretations": {
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Food Review",
+        "Shopping"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 2,
+      "averageSceneDuration": 9.6,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Price/Availability -> Taste Test -> Comparison Conclusion",
-      "mainPurpose": "The video aims to influence consumer behavior by showcasing the affordability and high quality of Shine Muscat grapes available at Don Don Donki. It uses size comparisons, sensory descriptions, and enthusiastic reactions to validate the product's value proposition.",
-      "visualEmotion": "Energetic and Savoring"
+      "narrativeStructure": "Linear: Hook -> Evidence -> Analysis -> Comparison",
+      "mainPurpose": "The video serves as a shopping recommendation and taste test for Shine Muscat grapes purchased at Don Don Donki. It aims to persuade viewers of the product's value by highlighting its large size, sweet and floral flavor profile (compared to lychee or peach), and attractive pricing through both visual demonstration and energetic verbal review.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
-        "Implicit",
+        "Explicit",
         "Integrated"
       ],
-      "endorsementCues": "Detailed mention of price point and specific retailer (Don Don Donki) combined with a highly positive review.",
+      "endorsementCues": "Prominent display of the Don Don Donki store logo, price tags, and brand name in both subtitles and visual overlays.",
       "endorsementObject": [
-        "唐吉訶德 (Don Don Donki)"
+        "唐吉訶德"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-energy reaction shots and thumbs-up size comparisons.",
-      "freeDescribe": "The video utilizes 'variety-show' style editing with colorful, oversized text to emphasize key selling points like 'Juicy' and 'Price'."
-    }
+    "freeDescribe": "The video uses typical social media food-blogging techniques, including high-energy delivery and colorful text overlays to maximize engagement."
   }
 }

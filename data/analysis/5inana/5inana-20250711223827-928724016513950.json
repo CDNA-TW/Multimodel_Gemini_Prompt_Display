@@ -1,167 +1,267 @@
 {
   "videoName": "5inana-20250711223827-928724016513950.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 8.0,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Beauty"
-      ],
+      "videoDuration": 8,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "China"
+      "visual_narrative_log": "(1) The camera remains static in a medium close-up shot throughout the entire duration. A young woman with shoulder-length, brown, wavy hair tied in a high ponytail with bangs is the central figure. She wears a cream-colored t-shirt featuring a colorful cartoon character and heart graphic. She holds a circular black-backed mirror in her right hand, positioned to reflect her face. Her left hand holds a lipstick tube, which she carefully applies to her lower lip while looking intently into the mirror with a focused, neutral expression. The setting is indoors, appearing to be a bright room with white furniture or appliances like a washing machine or cabinet in the background. The lighting is soft and even, creating a natural and clear aesthetic.",
+      "text_narrative_log": "None",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face"
         ],
-        "city": [
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main female creator in the center of the frame.",
+        "mainCharacterDescription": "A young woman with wavy brown hair tied in a high ponytail and bangs, wearing a cream-colored t-shirt with a colorful cartoon character graphic."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A bright indoor room with white surfaces, possibly a kitchen or laundry area, featuring what looks like a white household appliance or cabinet in the upper background.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "None"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "None / Low / Medium / High",
+        "textLanguage": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
           "None"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman with short, curly brown hair is seen from the chest up, looking into a round hand mirror. (2) She holds a dark lipstick tube and begins to apply it to her lower lip while glancing intently at her reflection. (3) She continues the application, slightly adjusting her head angle to ensure precision, while her facial expression remains focused and neutral.",
-      "audio_narrative_log": "(1) The audio begins with a young female voice speaking in a casual, conversational tone. (2) There is no background music, only the clear sound of her voice and a very faint ambient room hum. (3) The speaking continues until the end of the clip with natural pauses between sentences.",
-      "text_narrative_log": "(1) Functional Text: \"怎么样？\" (How about it?) - Questioning tone. (2) Functional Text: \"像不像？\" (Does it look like it?) - Playful tone. (3) Functional Text: \"我是在补口红了。\" (I'm touching up my lipstick.) - Explanatory tone."
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Casual"
+        ],
+        "vocalLanguage": [
+          "Simplified Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 5,
+        "valence": 6,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ],
+        "keySignature": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Mechanical Click / Latch",
+          "Clothing / Fabric Rustle"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 2,
+        "noisinessAndPercussiveness": 1,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 3,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 2,
+        "audioCutFrequency": 0,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a period of studio silence and a faint indoor room tone. No background music is present. The acoustic environment is very clean, with only extremely subtle incidental rustling sounds that are likely produced by the subject's minor movements or breathing as she prepares herself to apply her makeup. (2) A female speaker enters the audio track with a moderate speech rate and a natural, conversational pitch. She asks '怎么样？现在是这样' in a casual and friendly tone. The vocal quality is clear and well-articulated, recorded in what sounds like a quiet indoor setting without any competing music or significant noise interference. (3) The speaker continues with the phrase '我只是在补口红,' providing context for her visible actions. Her voice maintains a calm and natural prosody throughout. A small, percussive incidental sound, possibly from the lipstick container or the mirror shifting, is audible during the brief pause between sentences. The audio finishes with the voice fading back into the quiet room tone."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Vlog",
+        "Selfie / Portrait"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
     },
     "temporal_pacing_summary": {
       "sceneCutCount": 0,
       "averageSceneDuration": 8.0,
-      "isNarrativeShift": false,
-      "mainActionFlow": "A continuous static shot of a person applying makeup while talking."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 female main character visible in the frame.",
-      "mainCharacterDescription": "Young woman with short curly brown hair, wearing a light yellow T-shirt with a colorful cartoon girl graphic."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "An indoor environment with white cabinetry and what appears to be a washing machine or dryer behind the subject.",
-      "lightingStyle": "Bright, soft interior lighting.",
-      "weather": "Indoor",
-      "season": "Unknown",
       "editingPace": "Slow",
-      "textOverlay": {
-        "density": "Medium",
-        "language": [
-          "Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural and slightly warm.",
-      "cameraWork": [
-        "Static"
-      ]
+      "isNarrativeShift": false
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "None",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Casual and friendly",
-        "pitch": "Medium",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": false,
-      "bgmGenre": "None",
-      "bgmBPM": 0,
-      "instrumentFamiliesAudible": [
-        "None"
-      ],
-      "instrumentsAudible": [
-        "None"
-      ],
-      "musicSourceType": [
-        "None"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Field"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Action",
-      "mainPurpose": "The video serves as a casual social media update or 'behind-the-scenes' moment where the creator interacts with her audience while performing a routine grooming task. The intent is to foster a sense of closeness and daily life sharing with viewers.",
-      "visualEmotion": "Calm"
+      "narrativeStructure": "Linear: Action -> Explanation",
+      "mainPurpose": "A personal, casual lifestyle update or 'get ready with me' (GRWM) style clip. The creator is capturing a mundane moment of daily grooming and directly addressing the audience to explain her actions, which serves to build a personal connection and share her routine with followers in a relatable way.",
+      "visualEmotion": [
+        "calm",
+        "focused",
+        "casual"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
       "endorsementMethod": [
         "None"
       ],
-      "endorsementCues": "No specific product brand is highlighted or praised for promotional purposes.",
+      "endorsementCues": "No specific brand names are mentioned or clearly showcased for promotional purposes.",
       "endorsementObject": [
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Direct-to-camera eye contact via the mirror, soft conversational style.",
-      "freeDescribe": "Typical short-form content found on platforms like Douyin or TikTok, focusing on mundane but relatable aesthetic routines."
-    }
+    "freeDescribe": "The video is a typical short-form social media snippet characterized by its single-take format and intimate, eye-level perspective."
   }
 }

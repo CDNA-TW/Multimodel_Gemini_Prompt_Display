@@ -1,180 +1,277 @@
 {
   "videoName": "cocowine0205-20250321205505-940529702251344.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 54,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Product Review",
-        "Food"
-      ],
+      "videoDuration": 55,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "None"
+      "visual_narrative_log": "(1) A woman with long dark hair and a blue beret stands in a Costco warehouse. She wears a white puffer vest over a blue top and holds a large green bag of snacks. Behind her are rows of shelving units stacked with similar pistachio snack bags. The lighting is bright and even. (2) The scene cuts to closer shots of the bag she is holding, emphasizing the Japanese packaging. Her facial expressions are animated and cheerful as she points to the price tag of 279 dollars displayed on the shelf. (3) The scene shifts to an indoor living room. The woman is now seated, holding the opened large bag. She reaches inside and pulls out a small, triangular individual packet. The background shows a wooden shelf filled with various plush toys and collectibles. (4) A close-up shot focuses on her hands as she opens the small packet and reveals a single green, coated nut. She holds it up to the camera to show its texture and size. (5) She puts the nut in her mouth and chews enthusiastically. Her eyes widen in a look of pleasant surprise. (6) She uses her fingers to break another nut apart, showing the interior pistachio. The video concludes with her gesturing excitedly towards the camera while holding the bag.",
+      "text_narrative_log": "(1) [Subtitle]: 不用在日本買了. [Logo]: COSTCO WHOLESALE. (2) [Subtitle]: 現在他們有進這個. (3) [Subtitle]: 千成堂綠色酥脆開心果. (4) [Subtitle]: 279元小袋包裝. (5) [Subtitle]: 行李的空間又可以省一些. (6) [Subtitle]: 回去吃看看. (7) [Subtitle]: 這個好好吃哦. [Variety]: 超級香. (8) [Subtitle]: 我們剛剛打開來然後還來不及講評就已經吃掉一袋了. (9) [Subtitle]: 首先每個都單獨三角形的包裝. (10) [Subtitle]: 這那麼大對不對. (11) [Subtitle]: 可是它的那個面皮啊其實就薄薄的. (12) [Subtitle]: 它裡面是一顆大顆的開心果. (13) [Subtitle]: 然後外面是日本的那種米果子. (14) [Subtitle]: 米果子上面有一點細細的鹽. (15) [Subtitle]: 你先吃到細鹽然後酥脆的殼接下來是滿滿的開心果. (16) [Subtitle]: 還有它的殼呢非常的清脆. (17) [Subtitle]: 老人跟小朋友也可以輕鬆吃. (18) [Subtitle]: 你吃你聽. (19) [Subtitle]: 好好吃哦. (20) [Subtitle]: 米餅就這樣子是有空氣口感超好的. (21) [Subtitle]: 真的要買超喜歡的一下子整包就會不見了.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face close-up",
+          "Hands only"
         ],
-        "city": [
-          "None"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A woman wearing a blue beret and white vest stands in an aisle at Costco, gesturing towards a large green bag of snacks. Behind her are stacked boxes of the same product. (2) The scene shifts to an indoor living room setting where the same woman, now with pigtails, sits at a table. She picks up a large bag of snacks, takes out a small triangular packet, and opens it. (3) She shows a single green-coated pistachio to the camera, breaks it in half to show the inside, and then eats it while smiling and giving a thumbs-up. (4) Close-up shots show the cross-section of the snack and its crispy texture.",
-      "audio_narrative_log": "(1) Upbeat, high-tempo pop music begins playing. A high-pitched, energetic female voice speaks in Chinese about finding a specific snack at Costco. (2) The music continues at a consistent volume. The speaker's tone remains enthusiastic as she describes the packaging and the taste of the snack. (3) A distinct 'crunch' sound effect (SFX) is heard when the woman bites into the snack. (4) The audio ends with her final enthusiastic remarks and the music fading out.",
-      "text_narrative_log": "(1) Functional Text: 'COSTCO WHOLESALE' logo at the top. (2) Hook Text: '不用在日本買了' (No need to buy in Japan anymore), '千成堂綠色酥脆開心果' (Sennarido Green Crispy Pistachio) in large, colorful variety-show style font. (3) Functional Text: '279元 小袋包裝' (279 dollars, small bag packaging), '行李的空間又可以省一些' (Save some luggage space). (4) Decorative Text: '這個 好好吃哦' (This is so delicious), '超級香' (Super fragrant), '非常清脆' (Very crispy) appearing with stars or impact graphics."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 14,
-      "averageSceneDuration": 3.8,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro at retail store -> Transition to home demo -> Close-up product tasting -> Outro recommendation"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Upper body",
-        "Hands only"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 female main creator throughout the video.",
-      "mainCharacterDescription": "A young woman with dark hair, initially wearing a blue beret and white vest, later appearing in a teal sweater with hair in pigtails."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Supermarket",
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 female main creator appearing throughout the video.",
+        "mainCharacterDescription": "A young woman with long dark hair, wearing a dark blue beret with a kangaroo logo, a white sleeveless puffer vest, and a dark blue long-sleeved turtleneck."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Retail Store",
           "Indoor Living Room"
         ],
-        "topography": [
-          "None"
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The initial scene is a Costco warehouse with industrial shelving and bulk products. The second half is a domestic living room with a couch and shelves of toys.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
         ]
       },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "First scene is a warehouse-style supermarket (Costco) with shelves and palletized goods. Second scene is a cozy home environment with a wooden table and soft furniture visible.",
-      "lightingStyle": "Bright indoor lighting / Natural light",
-      "weather": "Unknown",
-      "season": "Unknown",
-      "editingPace": "Moderate",
-      "textOverlay": {
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Insert shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
         "density": "High",
-        "language": [
-          "Chinese",
+        "textLanguage": [
+          "Traditional Chinese",
           "English"
         ],
         "isSubtitled": true
       },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Handheld",
-        "Close-up"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Pistachios",
-        "Snack bag"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "COSTCO",
-        "千成堂"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and friendly",
-        "pitch": "High-pitched",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Chinese"
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Snack / chips / candy"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Costco Wholesale",
+          "Kangaroo"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum kit"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "Crunching",
-        "Pop sound"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Field"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Acoustic/Folk"
+        ],
+        "tempoBPM": 115,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "String",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Guitar",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Plastic / Bag Rustle",
+          "Food Bite / Crunch"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Pop / Bubble SFX",
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) A cheerful female voice introduces the product with high energy and a fast speech rate. The background music is an upbeat acoustic guitar track with a steady beat. (2) A sharp 'ding' sound effect coincides with a visual text reveal. The rustling of a plastic snack bag is clearly audible. (3) The voice continues in a conversational and friendly tone as she transitions scenes. The ambient noise floor lowers, suggesting a more controlled indoor environment. (4) Distinct, percussive 'crunch' sounds occur multiple times as the speaker bites into the snack. These sounds are bright and prominent. (5) The speaker's arousal level remains high as she expresses praise for the food, accompanied by subtle popping sound effects during text transitions."
     }
   },
-  "high_inference_interpretations": {
-    "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Location Intro -> Product Demonstration -> Recommendation",
-      "mainPurpose": "The video serves as a product recommendation and 'shopping hack' for Costco members. It informs viewers that a popular Japanese snack brand (Sennarido) is now available at Costco, suggesting they no longer need to travel to Japan or use luggage space to bring it home. The creator demonstrates the product's quality and taste to validate the recommendation.",
-      "visualEmotion": "Energetic and Positive"
-    },
-    "endorsement_analysis": {
-      "isEndorsement": true,
-      "endorsementMethod": [
-        "Implicit",
-        "Integrated"
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Food Review",
+        "Shopping",
+        "Vlog"
       ],
-      "endorsementCues": "Direct product showcase, mention of price, and specific brand focus.",
-      "endorsementObject": [
-        "千成堂",
-        "COSTCO"
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 3.9,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Discovery -> Demonstration -> Tasting -> Recommendation",
+      "mainPurpose": "The creator aims to inform viewers about a popular Japanese snack being available at Costco in Taiwan and to provide a positive taste test review to encourage purchase.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Heavy use of colorful, oversized Chinese captions and high-energy vocal delivery.",
-      "freeDescribe": "Typical short-form social media review style popular in East Asian markets, focusing on convenience and 'life hacks'."
-    }
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The video appears to be a personal shopping vlog/review rather than a paid advertisement, though it features a specific product prominently.",
+      "endorsementObject": [
+        "Sennarido"
+      ]
+    },
+    "freeDescribe": "High-density subtitles and energetic editing characteristic of short-form social media food reviews."
   }
 }

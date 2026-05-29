@@ -1,15 +1,242 @@
 {
   "videoName": "khshu_-20251028034011-909806481515960.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 44,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Food Review",
-        "Tutorial"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) Close-up of a succulent piece of raw crab meat covered in vibrant orange roe, held by a hand wearing a clear plastic glove. In the background, a woman's lower face is partially visible. The lighting is bright and even, highlighting the glossy texture of the crab. (2) The woman, wearing a green TERRA apron and sunglasses on her head, brings the crab to her mouth and takes a large bite. She is sitting in a well-lit indoor restaurant space. The camera focuses on her facial expression and the physical act of chewing. (3) The scene shifts to the restaurant's interior showing a white wall with a red Michelin Guide 2024 sticker. A male waiter in a blue shirt and black apron moves through the dining area, which contains wooden tables and other seated patrons in the background. (4) The camera pans across a spread of Korean dishes on a wooden table. There are multiple plates of soy-marinated crabs, a bubbling pot of white soup with green vegetables, small side dishes in gold bowls, and a red Coca-Cola can. (5) The woman demonstrates different ways to eat the crab: first biting it directly, then mixing the meat with white rice in a metal bowl, and finally wrapping it in a sheet of dark green roasted seaweed using a spoon and chopsticks.",
+      "text_narrative_log": "(1) [Subtitle]: 來吃吃看曾經得過米其林的醬蟹. (2) [Subtitle]: 很幸運去的時候完全不用排隊. (3) [Variety]: 第一吃直接吃. (4) [Variety]: 第二吃配飯. (5) [Variety]: 第三吃配海苔. (6) [Subtitle]: 調味跟之前吃的醬蟹不太一樣. (7) [Subtitle]: 有點像台灣的鹹蜆仔. (8) [Subtitle]: 但多了一個不太喜歡的味道也不是腥味. (9) [Subtitle]: 但總算解鎖之前的想吃清單了紀錄到這 bye bye.",
+      "visual_human_presence": {
+        "totalHumanCount": 5,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 4,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Face",
+          "Upper body",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main female creator, 1 male waiter serving, and at least 3 other diners visible in the restaurant background.",
+        "mainCharacterDescription": "A young woman with dark hair, wearing a black tank top and a green TERRA branded apron, with sunglasses perched on top of her head."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Restaurant / Dining"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "The interior of a Korean restaurant with wood-paneled accents, Michelin Guide signage, and tables filled with other customers. The atmosphere is casual and brightly lit.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Close-up",
+          "Medium close-up",
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Fast cuts"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Seafood / fish / shrimp",
+          "Rice / grains",
+          "Soup / hotpot / curry",
+          "Beverage / juice"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "TERRA",
+          "Coca-Cola",
+          "MICHELIN"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 1,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 2,
+        "intensityAndLoudness": 2,
+        "speechRate": 3,
+        "speechPauseDensity": 4
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Casual"
+        ],
+        "vocalLanguage": [
+          "Korean"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 3,
+        "intonationAndContour": [
+          "Level"
+        ],
+        "speakingRisingRatio": 2,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 3,
+        "valence": 5,
+        "dominance": 4,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop"
+        ],
+        "tempoBPM": 95,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 1,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "English"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Synthesizer",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Chatter"
+        ],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Ceramics / Glass Clink",
+          "Plastic / Bag Rustle"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 1,
+        "vocalRatio": 1,
+        "musicToSpeechLoudRatio": 4,
+        "musicDuration": 5,
+        "speechMusicOverlap": 1,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 2,
+        "audioCutFrequency": 2,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) The video begins with upbeat, medium-tempo pop music featuring a male vocalist singing in English. The music contains a steady electronic beat and synth layers that persist as the dominant audio element throughout the entire clip. (2) As the scene moves into the restaurant, the sound of a male waiter saying 'gamsahamnida' in Korean is heard quietly. This is accompanied by the percussive clinking of ceramic dishes and bowls being arranged on a wooden table. (3) Background restaurant noise is audible, consisting of soft human chatter and environmental room tone from other diners. These sounds remain in the background, providing a natural atmosphere without interfering with the primary music track. (4) Subtle incidental noises, such as the rustling of plastic gloves and the soft metallic sound of spoons against metal bowls, occur periodically. These sounds correspond to the subject's eating actions but are kept at a low volume in the mix."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Food Review",
+        "Vlog"
+      ],
       "location": {
         "country": [
           "South Korea"
@@ -19,169 +246,31 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video opens with a close-up of a piece of raw marinated crab held in a gloved hand, immediately followed by a woman taking a large, enthusiastic bite. (2) A transition shows the entrance of a restaurant featuring a Michelin Guide plaque, then cuts to a wooden counter and a waiter arranging a variety of side dishes and a main plate of soy-marinated crab on a table. (3) The woman is seen putting on a green apron with a blue frog logo. (4) The sequence continues with her demonstrating three specific ways to consume the dish: eating it directly from the shell, squeezing the meat onto a bowl of white rice, and wrapping a spoonful of crab and rice in a sheet of dried seaweed. (5) The final phase shows her mixing rice into the crab carapace to soak up the remaining roe and sauce, then eating it with a spoon.",
-      "audio_narrative_log": "(1) Upbeat pop music with rhythmic female vocals and a steady electronic beat begins and maintains a constant presence. (2) Ambient sounds of a bustling restaurant are heard, including the clinking of ceramic bowls and low-level background chatter. (3) A female voice (waitress) is heard briefly in Korean saying 'Gamsahamnida' as she places dishes on the table. (4) Subtle foley-like sounds of eating and the scratching of a spoon against a metal bowl are interspersed with the music.",
-      "text_narrative_log": "(1) '来吃吃看曾经得过米其林的酱蟹' - Hook text introducing the Michelin-starred marinated crab. (2) '很幸运去的时候完全不用排队' - Informative text about the lack of a queue. (3) '第一吃直接吃', '第二吃配饭', '第三吃配海苔' - Instructional functional text labeling the three ways to eat the crab. (4) '调味跟之前吃的酱蟹不太一样', '有点像台湾的咸蚬子' - Opinionated captions comparing the flavor to Taiwanese salty clams. (5) '但总算解锁之前的想吃清单了' - Conclusion text expressing satisfaction with completing a bucket list item."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 22,
-      "averageSceneDuration": 2.0,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Hook -> Restaurant Entrance -> Table Setup -> Eating Demonstration -> Personal Review"
+      "sceneCutCount": 16,
+      "averageSceneDuration": 2.75,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
     },
-    "visual_human_presence": {
-      "totalHumanCount": 4,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 3,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Face close-up"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 main female creator, 1 female waitress, 1 male staff behind counter, 1 female customer in background",
-      "mainCharacterDescription": "A young woman with black hair tied up, wearing sunglasses on her head, a black tank top, and a green promotional apron."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Restaurant"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A traditional yet modern Korean restaurant interior with wooden furniture, Michelin Guide signage, various side dishes (banchan), and indoor plants.",
-      "lightingStyle": "Bright indoor lighting",
-      "weather": "Unknown",
-      "season": "Unknown",
-      "editingPace": "Fast",
-      "textOverlay": {
-        "density": "Medium",
-        "language": [
-          "Chinese",
-          "Korean",
-          "English"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "High Saturation",
-      "cameraWork": [
-        "Static",
-        "Close-up",
-        "POV"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "Crab"
-      ],
-      "foodsDetect": [
-        "Marinated Crab",
-        "Rice",
-        "Seaweed",
-        "Banchan",
-        "Soup"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone",
-        "POS Terminal"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "TERRA",
-        "Coca-Cola",
-        "Michelin Guide",
-        "JINRO"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade",
-      "vocalRatio": "Low"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 0,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 2,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 2,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Polite and upbeat",
-        "pitch": "Medium-high",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Occasional narration",
-        "language": [
-          "Korean"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop",
-      "bgmBPM": 115,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Copyrighted Song"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Restaurant chatter",
-        "Dish clinking"
-      ],
-      "audioQuality": "Field"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Intro -> Sequence of Methods -> Result",
-      "mainPurpose": "The video serves as a lifestyle food vlog intended to review a specific Michelin-recommended restaurant in Korea. It combines elements of a 'mukbang' (eating show) with instructional content by showing viewers the proper or traditional 'three ways' to enjoy Korean marinated crab, thereby providing both entertainment and travel/dining tips.",
-      "visualEmotion": "Energetic and Appetizing"
+      "narrativeStructure": "List-based: Intro -> Serving -> Three ways to eat -> Review Conclusion",
+      "mainPurpose": "To share a personal dining experience at a Michelin-recommended Korean soy-marinated crab restaurant, illustrating different ways to enjoy the dish and providing a brief review of the flavors through text overlays.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
-      "isEndorsement": true,
+      "isEndorsement": false,
       "endorsementMethod": [
-        "Implicit",
-        "Integrated"
+        "None"
       ],
-      "endorsementCues": "The creator prominently wears a TERRA/JINRO branded apron and features a Coca-Cola can, while specifically naming the restaurant's Michelin status.",
+      "endorsementCues": "The video appears to be a personal food vlog; brand logos like Terra are incidental to the restaurant environment.",
       "endorsementObject": [
-        "TERRA",
-        "JINRO",
-        "Coca-Cola"
+        "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Detailed 'how-to' text overlays paired with close-up macro shots of food being handled with gloves.",
-      "freeDescribe": "The video targets food enthusiasts and potential travelers to Korea, emphasizing the sensory experience of the food through high-saturation visuals and fast-paced editing."
-    }
+    "freeDescribe": "The video relies entirely on on-screen text and background music to tell its story rather than spoken narration, emphasizing the visual appeal of the food."
   }
 }

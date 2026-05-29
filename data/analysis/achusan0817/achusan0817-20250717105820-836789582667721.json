@@ -1,14 +1,231 @@
 {
   "videoName": "achusan0817-20250717105820-836789582667721.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 7,
-      "aspectRatio": "9:16",
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": false,
+      "visual_narrative_log": "(1) The video begins with an extreme close-up of a blue, round animated creature with a fierce yet cute expression. It has two small tufts of black hair, large slanted yellow eyes with small pupils, and a pinkish mouth held wide open in a shout. A thick pink straw is visible behind its head, set against a bright blue background featuring yellow and pink circular patterns. (2) The camera performs a smooth digital zoom out, revealing that the creature is positioned on top of a clear plastic bubble tea cup filled with a brown liquid. The creature has small, dark purple bat wings on either side of its body. Inside the liquid at the bottom of the cup, several smaller versions of the creature's face are visible as the 'pearls' or boba. (3) The background shifts to a dynamic graphic style with rotating concentric circles in green, yellow, and blue, overlaid with floating pink stars and yellow heart icons. The scene remains centered on the character-topped cup throughout the remainder of the clip, maintaining a high-energy and colorful aesthetic.",
+      "text_narrative_log": "None",
+      "visual_human_presence": {
+        "totalHumanCount": 0,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 0,
+        "bodyPartVisibility": [
+          "None"
+        ],
+        "crowdLevel": [
+          "None"
+        ],
+        "countingEvidence": "The video is entirely a 2D digital animation with no real human presence.",
+        "mainCharacterDescription": "An original animated character consisting of a blue sphere with bat wings, yellow eyes, and black ear-like tufts."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Animation / Graphic Background"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A colorful, graphic background consisting of abstract circular patterns, stars, and hearts that change colors and rotate behind the central animated object.",
+        "lightingStyle": [
+          "Flat animation lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not applicable"
+        ],
+        "colorTone": [
+          "Animation vivid colors"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Zoom out"
+        ],
+        "shotSize": [
+          "Close-up",
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Loop / replay"
+        ],
+        "visualRhythm": [
+          "Rhythm matched to music"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "None",
+        "textLanguage": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Cartoon / animated animal"
+        ],
+        "foodsDetect": [
+          "Beverage / juice",
+          "Cartoon / animated Food"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 1
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 7,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 0,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 1,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio starts with a high-pitched, feminine, and extremely energetic cartoon voice speaking Mandarin with an exaggerated and playful intonation. The voice has high spectral brightness and is accompanied by a buoyant synthesizer bassline and a crisp 4/4 electronic drum beat. (2) As the voice transitions into a rhythmic, repetitive chant that sounds like 'zhen nai gu lu', the musical tempo remains steady at approximately 128 BPM. The percussion is sharp, providing a driving energy that matches the animated movement of the character on screen. (3) The chant continues with a playful, high-arousal delivery, maintaining perfect synchronization with the electronic backing track. There is no background noise or room tone, indicating a clean digital production where the vocals and music are mixed with professional clarity and no audible distortion."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
         "Animation",
-        "Meme"
+        "Meme / Trend"
       ],
-      "withRealPeople": false,
       "location": {
         "country": [
           "None"
@@ -18,149 +235,30 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) This is a 2D digital animation. It begins with a tight close-up on the face of a dark blue, blob-like creature with glowing yellow eyes and a small pink mouth. The creature has a determined, slightly angry expression. (2) The camera zooms out to reveal that the creature's head is actually the lid of a clear milk tea cup filled with brown liquid. The 'pearls' inside the tea are small, identical versions of the blue creature's face. The cup has small bat-like wings on the sides. (3) The background consists of moving, colorful shapes including yellow textured planets, pink hearts, and blue stars against a light blue sky. A pink straw sticks out from the creature's head.",
-      "audio_narrative_log": "(1) High-pitched, energetic female vocals begin immediately, singing a rhythmic chant in Chinese accompanied by an upbeat electronic beat. (2) As the chant continues, synchronized slurping or 'gulping' sound effects (SFX) are layered over the vocals, matching the 'gulu gulu' lyrics. (3) The music maintains a constant, fast tempo with no ambient noise from the physical world.",
-      "text_narrative_log": "(1) None detected."
-    },
     "temporal_pacing_summary": {
       "sceneCutCount": 1,
       "averageSceneDuration": 7.0,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro close-up -> Reveal full object with rhythmic animation"
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
     },
-    "visual_human_presence": {
-      "totalHumanCount": 0,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "None"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 animated creature serving as the main subject",
-      "mainCharacterDescription": "A dark blue, winged creature acting as a milk tea cup lid with small versions of itself as pearls."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Studio"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A vibrant, abstract space background with colorful planets, hearts, and stars.",
-      "lightingStyle": "Bright, even digital lighting",
-      "weather": "Unknown",
-      "season": "Unknown",
-      "editingPace": "Fast",
-      "textOverlay": {
-        "density": "None",
-        "language": [
-          "None"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "High Saturation",
-      "cameraWork": [
-        "Static"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Milk Tea"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "None",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 0,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "high-pitched and excited",
-        "pitch": "High",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Slurping SFX"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Reveal",
-      "mainPurpose": "To showcase a creative and cute character animation themed around boba tea, using a catchy rhythmic song and synchronized visuals to create an engaging, loopable social media snippet.",
-      "visualEmotion": "Energetic"
+      "narrativeStructure": "Montage: Hook -> Rhythmic Loop",
+      "mainPurpose": "The video is designed to showcase an original animated character in a fun, rhythmic, and high-energy format. It utilizes catchy, repetitive audio and vibrant, pop-art visuals to create a shareable and memorable short-form clip, likely intended for social media entertainment or as character promotion.",
+      "visualEmotion": [
+        "energetic",
+        "humorous"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
       "endorsementMethod": [
         "None"
       ],
-      "endorsementCues": "None",
+      "endorsementCues": "No products, brands, or commercial logos are identifiable in the animation.",
       "endorsementObject": [
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Rhythmic 'gulu' vocal chant synchronized with animation",
-      "freeDescribe": "High potential for viral usage as a sound bite or background for food-related short-form content."
-    }
+    "freeDescribe": "The video's impact relies on the tight synchronization between the high-pitched cartoon vocal and the upbeat electronic BGM, which creates a 'cute-but-fierce' aesthetic."
   }
 }

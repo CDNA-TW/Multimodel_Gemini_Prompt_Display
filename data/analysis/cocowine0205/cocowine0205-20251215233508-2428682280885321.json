@@ -1,15 +1,243 @@
 {
   "videoName": "cocowine0205-20251215233508-2428682280885321.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 77,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Shopping",
-        "Product Showcase"
-      ],
+      "videoDuration": 76.5,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) Two women stand in a Costco warehouse, positioned in front of a shelf labeled 'PHARMACY'. The woman on the right wears a white bucket hat and a black off-shoulder dress, while the woman on the left wears a long brown pleated dress. They hold three Disney-themed Lip Smacker sets. The lighting is bright and industrial. (2) The camera zooms slightly into the pink 'Princess' set. The woman in the white hat points at the Ariel, Elsa, and Minnie characters depicted on the packaging. The background consists of blue boxes stacked high. (3) The perspective shifts to focus on the blue 'Stitch' set. Both women use their fingers to indicate the different Tsum Tsum-style character balms inside the plastic packaging. (4) The women turn the packages around to inspect the back labels. A close-up shot shows the printed text detailing flavors. Other shoppers are briefly visible in the background aisles. (5) The woman in the white hat looks directly at the camera, pointing her finger as she delivers a final piece of advice. The editing uses straight cuts to move between product shots and the hosts.",
+      "text_narrative_log": "(1) [Logo]: COSTCO WHOLESALE. [Subtitle]: 阿姑親一下. [Slogan]: 迪士尼最新潤唇膏 779元. (2) [Subtitle]: 有兩種款式. [Variety]: 少女派. (3) [Subtitle]: 這裡有愛麗兒 Elsa跟米妮. [Variety]: 神秘的角色. (4) [Subtitle]: 然後都會做成那種像扭蛋盒 這裡就是可以轉. (5) [Subtitle]: 可是實際上 它就是一個2D的紙啊 就是做一個造型 然後還有貼紙有送. (6) [Subtitle]: 另外一個 萌萌天團有 史迪奇 瑪麗貓跟熊抱哥. (7) [Subtitle]: 那一樣有個神秘的角色 就是你要買才知道. (8) [Subtitle]: 而且他們的口味很可愛哦 比如說熊抱哥是黑草莓香 瑪麗貓是梨子 史迪奇是藍莓香味. (9) [Subtitle]: 然後他有可能會扭出小飛象 小飛象是什麼口味的唇膏 你們猜猜看. (10) [Subtitle]: 大象口味. (11) [Subtitle]: 花生醬哎. (12) [Subtitle]: 哇 我超想要花生醬哎. (13) [Subtitle]: 趕快來扭扭看你抽到什麼款吧. (14) [Subtitle]: 我這邊是愛麗兒 是葡萄柚 Elsa冰薄荷 米妮是草莓棒棒糖 隱藏款可能是大眼仔或伊耳或小兔子. (15) [Subtitle]: 那大眼仔你猜是什麼. (16) [Subtitle]: 我這邊有答案啊 青蘋果. (17) [Subtitle]: 青蘋果. (18) [Subtitle]: 我以為是綠豆口味耶. (19) [Subtitle]: 但最重要的是它是護唇膏 所以就是孩子也可以用的. (20) [Subtitle]: 你剛剛說大眼仔像綠豆嗎. (21) [Subtitle]: 不像嗎. (22) [Subtitle]: 長大的綠豆. (23) [Subtitle]: 但最重要的一句就是 我跟你說它一定會特價 你們就等 一定會特價 現在要一個要快200塊 一定會特價.",
+      "visual_human_presence": {
+        "totalHumanCount": 4,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 3,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "2 main female creators, 2 shoppers in the distant background.",
+        "mainCharacterDescription": "One woman wears a white bucket hat, a black off-shoulder dress, and white boots. The second woman wears a long brown pleated dress and a black choker."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Supermarket / Warehouse Store"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "Costco warehouse interior with industrial shelving, pharmaceutical signs, and blue product packaging stacked on pallets.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Meme-style edit"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Fruit",
+          "Snack / chips / candy"
+        ],
+        "trafficDetect": [
+          "Shopping cart"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Costco Wholesale",
+          "Disney",
+          "Lip Smacker"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 0,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM",
+          "Pop"
+        ],
+        "tempoBPM": 124,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Pop / Bubble SFX",
+          "Whoosh / Transition SFX",
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) A sharp 'Pop' sound effect signals the start. The primary female speaker has a high-arousal, energetic greeting. The BGM is a bouncy electronic pop track with a strong 4/4 drum machine beat. (2) A 'Ding' sound effect plays as pricing text appears. The vocal pitch is high with dramatic intonation. (3) A 'Whoosh' transition sound occurs as the camera pans. A second female voice enters with lower pitch variability. The BGM remains consistent in tempo. (4) A bubble-pop sound effect triggers a laughter reaction from both speakers. The acoustic texture is dominated by clean vocal frequencies and bright synthesizer layers. (5) A final 'Ding' effect accompanies the 'special tip' segment. The main speaker's tone becomes more authoritative and rhythmic. The music swells slightly before a hard cut silence at the end."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Shopping",
+        "Product Showcase",
+        "Vlog"
+      ],
       "location": {
         "country": [
           "Taiwan"
@@ -19,160 +247,33 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) Two young women are standing in a Costco pharmacy/personal care aisle. The woman on the right wears a white bucket hat, a black dress, and white boots; the woman on the left wears a long brown pleated dress. They are holding two large Disney-themed Lip Smacker sets. (2) The woman in the white hat takes the lead, pointing to the characters on the pink 'Girly' themed package, including Ariel, Elsa, and Minnie. She uses expressive hand gestures to highlight the 'mystery' ball part of the packaging. (3) They switch focus to the blue 'Cute Squad' package, identifying characters like Stitch and Lotso. (4) The camera zooms in on the back of the packaging as they point to the flavor descriptions. (5) The main character leans in closer to the camera to deliver her final advice while pointing at the product.",
-      "audio_narrative_log": "(1) Fast-paced, upbeat electronic background music starts immediately. An energetic female voice begins speaking in Mandarin, introducing the product with high enthusiasm. (2) As the visuals transition to product details, the primary speaker maintains a consistent, friendly tone while describing the prices and styles. (3) A second female voice is heard off-camera (the person filming), engaging in a lighthearted dialogue about the flavors, such as 'peanut butter flavor'. (4) Ambient store noise is very low, indicating focused recording. (5) The primary speaker's volume increases slightly during the conclusion to emphasize her 'insider' tip about waiting for a sale.",
-      "text_narrative_log": "(1) 'COSTCO WHOLESALE' (Decorative: brand banner at top). (2) '阿菇 親一下' (Decorative: variety-style caption). (3) '迪士尼最新 潤唇膏 779元' (Functional: product title and price). (4) '少女派' (Decorative: category name). (5) '神祕的角色' (Decorative: emphasizing mystery element). (6) '萌萌天團' (Decorative: category name). (7) '哇 我超想要花生醬哎' (Decorative: reaction text). (8) '它一定會特價' (Hook: advice/prediction)."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 12,
-      "averageSceneDuration": 6.4,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Intro -> Product Feature Breakdown -> Flavor Discussion -> Shopping Tip"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 3,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 3,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Torso"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "2 main female creators in focus, 1 blurred female shopper passing in the background.",
-      "mainCharacterDescription": "One woman wears a white bucket hat with an 'NY' logo and a black ruffled dress. The other wears a brown, layered maxi dress."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Warehouse Store"
-        ],
-        "topography": [
-          "Plain"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "Shelves filled with various personal care and pharmaceutical products, Costco signage, and blue metal warehouse shelving units.",
-      "lightingStyle": "Bright indoor store lighting",
-      "weather": "Indoor",
-      "season": "None",
+      "sceneCutCount": 14,
+      "averageSceneDuration": 5.4,
       "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Handheld",
-        "Zoom"
-      ]
+      "isNarrativeShift": false
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "COSTCO",
-        "Disney",
-        "Lip Smacker"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 2,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Enthusiastic and conversational",
-        "pitch": "High-pitched",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Electronic Drums"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "Pop SFX"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Field"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Item 1 Features -> Item 2 Features -> Insider Tip",
-      "mainPurpose": "The video serves as a consumer guide for Costco members, specifically targeting Disney fans. It highlights the features of a new lip balm set, including characters and unique flavors, while providing practical buying advice (predicting a future discount) to build trust with the audience.",
-      "visualEmotion": "Energetic and Cheerful"
+      "narrativeStructure": "List-based: Introduction -> Product Features -> Flavor Detailed Review -> Mystery Speculation -> Buying Advice",
+      "mainPurpose": "To provide a lighthearted and informative shopping guide for a new Disney-branded lip balm set found at Costco, highlighting its value, variety, and flavor profiles.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
-      "isEndorsement": true,
+      "isEndorsement": false,
       "endorsementMethod": [
-        "Implicit",
-        "Integrated"
+        "Implicit"
       ],
-      "endorsementCues": "Detailed showcasing of product features and price tag within a retail environment.",
+      "endorsementCues": "The creators are sharing a discovery in a warehouse store without formal promotional tagging, acting as enthusiasts rather than paid actors.",
       "endorsementObject": [
-        "Lip Smacker",
-        "Costco"
+        "Costco Wholesale",
+        "Disney",
+        "Lip Smacker"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-density variety-show style captions and the 'wait for the sale' catchphrase.",
-      "freeDescribe": "The video fits the 'Costco finds' niche popular on social media platforms in Taiwan, characterized by high-energy presentation and functional text overlays."
-    }
+    "freeDescribe": "The video uses typical social media 'variety show' editing styles with colorful captions and sound effects to maintain high engagement."
   }
 }

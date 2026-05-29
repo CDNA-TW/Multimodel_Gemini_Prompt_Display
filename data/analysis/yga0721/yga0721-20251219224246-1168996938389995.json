@@ -1,15 +1,243 @@
 {
   "videoName": "yga0721-20251219224246-1168996938389995.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 23,
-      "aspectRatio": "9:16",
+      "videoDuration": 22,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A man with reddish-brown hair wearing a white cardigan with black flower patterns and a woman in a red and white striped sweater with a green collar are in a brightly lit indoor space. Behind them is a large flat-screen TV displaying a digital menu interface. The woman gestures with her hands while speaking towards the man. (2) Rapid jump cuts show several different women in various indoor locations. One woman wears a beige jacket, another a blue and brown striped sweater. They are filmed in medium close-ups, using hand gestures like pointing or the peace sign while looking directly at the camera. (3) The scene shifts to a consistent background which is a gray wall featuring a logo for Da tou fo with a smiling cartoon head. Multiple individuals appear in sequence, posing cutely by pointing to their faces or sticking out their tongues while smiling. (4) A woman wearing bright yellow headphones over a white fleece jacket poses in front of the logo wall. She suddenly reacts with a ducking motion and a pained or startled facial expression as if being swiped at or hit by something off-camera. (5) The male from the first phase reappears in front of the same logo background. He poses with his finger to his cheek and later points upward while making a puckered facial expression towards the camera. A text slogan appears at the bottom.",
+      "text_narrative_log": "(1) [Subtitle]: 當我們年終想加薪. [Subtitle]: 請問我年終可以加6個月嗎？ (2) [Subtitle]: 8個月可以嗎？ (3) [Subtitle]: 10個月呢？ (4) [Logo]: Da tou fo 大頭佛娛樂有限公司. (5) [Slogan]: 想打的底下留言+1.",
+      "visual_human_presence": {
+        "totalHumanCount": 5,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 4,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 5,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face close-up",
+          "Head and shoulders"
+        ],
+        "crowdLevel": [
+          "Duo",
+          "Single"
+        ],
+        "countingEvidence": "1 male creator and 4 female staff members appearing in a montage.",
+        "mainCharacterDescription": "Multiple creators dressed in casual yet stylish clothing including a white cardigan with floral patterns, striped sweaters, and a beige jacket."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio",
+          "Indoor Home"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "An indoor setting with a TV and curtains initially, transitioning to a specialized gray wall backdrop with a company logo.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Jump cut",
+          "Montage",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Compilation / montage sequence"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "TV / display screen",
+          "Headphones / earbuds"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Da tou fo 大頭佛娛樂有限公司"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 5,
+        "total_distinct_voices": 5,
+        "male_vocal_count": 1,
+        "female_vocal_count": 4,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Casual",
+          "Animated/Excited",
+          "Comedic/Exaggerated"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM",
+          "Phonk/Brazilian Funk"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 0,
+        "female_singer_count": 1,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "English"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 5,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Impact / Hit SFX",
+          "Whoosh / Transition SFX",
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 3,
+        "vocalRatio": 3,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 4,
+        "speechMusicOverlap": 3,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with clear, conversational female vocals in Mandarin Chinese expressing a question. The speech rate is moderate and the tone is inquisitive. No background music is prominent at this stage, ensuring high clarity and a focus on the dialogue. (2) A high-energy electronic music track with a strong, rhythmic bass beat begins abruptly. It features synthesizers and an upbeat vocal sample. The music is dominant, while occasional short vocal clips from different characters are integrated seamlessly into the rhythmic flow. (3) The music is momentarily punctuated by a sudden, loud, high-pitched shout or vocal sound effect, resembling a comedic reaction to a physical strike. This sound has high intensity and momentarily cuts through the music track before the rhythm continues. (4) The upbeat electronic music track resumes its full volume, featuring a prominent female vocal line repeating a stylized phrase. The music maintains a high BPM and energetic atmosphere until the video concludes, coinciding with the visual poses of the character."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
         "Comedy",
-        "Humor",
-        "Vlog"
+        "Meme / Trend"
       ],
-      "withRealPeople": true,
       "location": {
         "country": [
           "Taiwan"
@@ -19,156 +247,32 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video starts in an indoor office/studio setting. A woman in a red and white striped sweater speaks to a man wearing a white floral cardigan. A TV screen in the background displays colorful graphics. (2) Two more women appear sequentially, one in a beige jacket and another in a blue and brown striped sweater, leaning into the frame to speak. (3) A montage follows where each person (the three women and the man) performs a \"cute\" pose with a finger on their cheek, synced to the beat of a pop song. One woman wears yellow headphones over a white hoodie. (4) The woman with the headphones continues to pose dramatically while the man, appearing as the boss, looks annoyed and eventually lunges toward the camera as if to stop the nonsense. The final shot is the man making a silly face with a text prompt on screen.",
-      "audio_narrative_log": "(1) A female voice starts by asking for a 6-month year-end bonus in a playful, pleading tone. (2) Two other female voices chime in asking for 8 months and 10 months respectively. Ambient studio silence is replaced by a fast-paced pop music track with a strong electronic beat. (3) The music \"Overdrive\" plays prominently during a posing montage. (4) A male voice suddenly yells loudly \"夠了! 現在! 現在!\" (Enough! Now! Now!) in an exaggeratedly angry and humorous tone, cutting through the music briefly before the track continues and fades.",
-      "text_narrative_log": "(1) Functional Text: \"當我們年終想加薪\" (When we want a year-end bonus increase), \"老闆 老闆\" (Boss, Boss), \"請問我年終可以加6個月嗎?\" (Can I have a 6-month bonus?), \"8個月可以嗎?\" (Is 8 months okay?), \"10個月呢?\" (How about 10 months?). (2) Hook Text: \"想打的底下留言+1\" (Comment +1 if you want to hit him) appears at the end, set in a playful, provocative tone."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 11,
-      "averageSceneDuration": 2.09,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Dialogue intro -> Bonus request sequence -> Rhythmic posing montage -> Comic payoff"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 5,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 4,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 5,
-      "bodyPartVisibility": [
-        "Full body",
-        "Upper body",
-        "Hands only"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 man (the boss), 4 women (employees/co-workers) participating in the skit.",
-      "mainCharacterDescription": "A diverse group in casual modern clothing: one in a red striped polo, one in a floral white cardigan, one in a beige leather-look jacket, one in a brown striped sweater, and one in a white hoodie with yellow headphones."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Studio",
-          "Office"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A clean studio environment with a display screen, light-colored walls, and a logo plate reading 'Da tou fo'.",
-      "lightingStyle": "Bright studio lighting",
-      "weather": "Indoor",
-      "season": "None",
+      "sceneCutCount": 14,
+      "averageSceneDuration": 1.57,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Follow shot"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "TV Screen",
-        "Headphones"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "大頭佛"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "Medium"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 5,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 4,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Playful, humorous, then shouting",
-        "pitch": "Varied (mostly medium to high)",
-        "loudness": "Normal to High",
-        "speed": "Normal",
-        "speechDensity": "Fragmented",
-        "language": [
-          "Mandarin Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Copyrighted Song"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Setup -> Thematic Posing -> Comic Resolution",
-      "mainPurpose": "A comedy short designed to entertain through relatable office workplace humor regarding year-end bonuses. It uses a popular music trend (posing to the beat) to contrast the employees' 'cute' requests with the boss's increasingly irritated reaction, ultimately driving engagement via the '+1' comment prompt.",
-      "visualEmotion": "Humorous"
+      "narrativeStructure": "Montage: Hook -> Posing Sequence -> Comedic Climax -> Call-to-Action",
+      "mainPurpose": "This video serves as a comedic short for social media, utilizing a popular musical trend to showcase company culture and employee humor. It starts with a relatable office premise about year-end bonuses and transitions into a high-energy montage of staff members posing to the beat, concluding with a slapstick-style punchline and an engagement prompt for the audience.",
+      "visualEmotion": [
+        "humorous",
+        "energetic",
+        "vibrant"
+      ]
     },
     "endorsement_analysis": {
-      "isEndorsement": false,
+      "isEndorsement": true,
       "endorsementMethod": [
-        "None"
+        "Implicit",
+        "Integrated"
       ],
-      "endorsementCues": "No specific products are being promoted other than the channel's own branding.",
+      "endorsementCues": "The presence of the company logo Da tou fo in the background throughout the montage suggests branding/promotion for the entity.",
       "endorsementObject": [
-        "None"
+        "Da tou fo 大頭佛娛樂有限公司"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Features the 'Da Tou Fo' (Big Head Buddha) studio members, a known Taiwanese social media group.",
-      "freeDescribe": "The video relies heavily on the 'cuteness' contrast and localized workplace culture (year-end bonus culture in Taiwan)."
-    }
+    "freeDescribe": "The video effectively combines relatable humor with high-energy editing and branding, making it suitable for short-form video platform engagement."
   }
 }

@@ -1,157 +1,257 @@
 {
   "videoName": "3ctim-20250803085527-1638715790473885.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 21,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Tech Demo",
-        "Vlog"
-      ],
+      "videoDuration": 21.6,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "None"
+      "visual_narrative_log": "(1) A young woman with long dark hair sits at a white desk, wearing a cream-colored crochet tank top with embroidered flowers. She is carefully adjusting a silver and black high-tech VR headset (Apple Vision Pro) onto her head. A person on the left, whose arms are visible, helps her position the device. On the desk, a tablet displays a home screen and a gaming controller sits nearby. The environment appears to be a brightly lit indoor studio or tech showroom. (2) Once the headset is on, the woman smiles brightly and begins waving both hands in front of her face as if interacting with a virtual environment. Her movements are exploratory and enthusiastic. The lighting remains consistent, highlighting the metallic finish of the headset and the texture of her clothing. (3) She continues her hand interactions, using pointing gestures with her index fingers. A man's hands enter the frame from the side, gesturing while he speaks to her, though he remains mostly off-camera. The camera stays static at a medium shot, capturing her upper body and the tabletop clearly throughout the sequence.",
+      "text_narrative_log": "None",
+      "visual_human_presence": {
+        "totalHumanCount": 3,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Hands only"
         ],
-        "city": [
-          "None"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman sits at a white table, adjusting an Apple Vision Pro headset over her eyes with the help of an assistant's hands. (2) She begins waving her hands in front of her face as if interacting with a virtual interface, smiling and showing a surprised facial expression. (3) A male assistant enters the frame partially to guide her hand movements; she points her fingers and gestures while continuing to wear the headset, with a game controller and tablet visible on the table.",
-      "audio_narrative_log": "(1) The audio begins with the ambient hum of a crowded indoor space and indistinct chatter. (2) A female voice says '開啟旅行模式' (Open travel mode) in a clear, excited tone, followed by several 'Hi' greetings and laughter. (3) A male voice enters, speaking in a calm, instructional tone about the device's functionality, with the female voice responding in short, affirmative phrases as she follows the guidance.",
-      "text_narrative_log": "None"
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 0,
-      "averageSceneDuration": 21.0,
-      "isNarrativeShift": false,
-      "mainActionFlow": "The video follows a single continuous shot of a product demonstration from setup to interaction."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 3,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "1 main female user, 1 male assistant guiding her, and 1 background passerby appearing briefly.",
-      "mainCharacterDescription": "A young woman wearing a white, floral-patterned crochet tank top and denim shorts."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Exhibition Hall",
-          "Tech Store"
+        "crowdLevel": [
+          "Small Group"
         ],
-        "topography": [
-          "None"
+        "countingEvidence": "1 female main character, 1 person helping on the left, 1 person partially visible in background.",
+        "mainCharacterDescription": "A young woman with long dark hair, wearing a cream-colored crochet top with floral embroidery and denim jeans."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A clean, bright indoor space with a white desk. A tablet and a game controller are on the desk. Other people are visible in the background, suggesting a tech event or office.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Summer"
+        ],
+        "colorTone": [
+          "Natural and bright"
         ]
       },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A white minimalist table with a tablet and a PS5 controller, set against a backdrop of a lavender-colored wall and office chairs.",
-      "lightingStyle": "Bright, even studio lighting",
-      "weather": "None",
-      "season": "None",
-      "editingPace": "Slow",
-      "textOverlay": {
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
         "density": "None",
-        "language": [
+        "textLanguage": [
           "None"
         ],
         "isSubtitled": false
       },
-      "colorTone": "Clean and Natural",
-      "cameraWork": [
-        "Static"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Apple Vision Pro",
-        "Tablet",
-        "PS5 Controller"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Apple"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "None",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 5,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and instructional",
-        "pitch": "Medium-high (female), Medium (male)",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Tablet",
+          "Game console / controller"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Apple"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": false,
-      "bgmGenre": "None",
-      "bgmBPM": 0,
-      "instrumentFamiliesAudible": [
-        "None"
-      ],
-      "instrumentsAudible": [
-        "None"
-      ],
-      "musicSourceType": [
-        "None"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Crowd chatter",
-        "Indoor room tone"
-      ],
-      "audioQuality": "Field"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 4,
+        "male_vocal_count": 1,
+        "female_vocal_count": 3,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Rising"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Chatter",
+          "Laughter"
+        ],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Mechanical Click / Latch",
+          "Clothing / Fabric Rustle"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 2,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) A female voice speaks in enthusiastic Mandarin, explaining the setup of a device. The tone is cheerful and high-arousal. In the background, there is a steady hum of a crowded room with distant chatter and the faint sound of objects being moved. No music is playing. (2) The woman exclaims 'Hi!' and mentions 'Travel Mode.' A male voice responds with short, affirmative laughs ('Hey hey hey'), creating a lively, conversational atmosphere. Short percussive sounds from the headset's physical adjustments are briefly audible over the speech. (3) The conversation continues with the female and male discussing the features of the virtual environment. Their speech is rapid but clear, indicating high engagement. The ambient noise of the room remains at a consistent, low-intensity level throughout."
     }
   },
-  "high_inference_interpretations": {
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Tech Review"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 2,
+      "averageSceneDuration": 7.2,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Setup -> Interaction -> Demonstration",
-      "mainPurpose": "The video serves as an experiential demonstration of the Apple Vision Pro's spatial computing capabilities, specifically highlighting the user's reaction and physical interaction with the travel mode interface.",
-      "visualEmotion": "Curiosity and Excitement"
+      "narrativeStructure": "Linear: Setup -> Interaction -> Discussion",
+      "mainPurpose": "To demonstrate the user experience and specific 'Travel Mode' feature of the Apple Vision Pro headset in a hands-on tech preview setting.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -159,14 +259,11 @@
         "Implicit",
         "Integrated"
       ],
-      "endorsementCues": "The subject is actively testing and demonstrating a specific identifiable high-tech consumer product.",
+      "endorsementCues": "Positive first-hand experience and demonstration of a specific brand-name product.",
       "endorsementObject": [
         "Apple Vision Pro"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "None",
-      "freeDescribe": "The video captures the authentic physical awkwardness and wonder associated with first-time spatial computing usage."
-    }
+    "freeDescribe": "A standard tech product demonstration video focusing on user reaction and feature functionality."
   }
 }

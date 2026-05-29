@@ -1,174 +1,280 @@
 {
   "videoName": "cocowine0205-20250806200700-1284573580403341.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 46,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Product Review",
-        "Shopping"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) The scene opens in a brightly lit Costco warehouse. Two young women, one wearing a zebra-print bucket hat and a white lace dress, and the other in a black dress, stand behind a shopping cart containing a massive, fluffy grey cat plushie with a grumpy expression. The warehouse background features high industrial shelving and other shoppers in the distance. (2) The woman in the bucket hat stands next to a large cardboard display stand filled with giant plushies. She gestures enthusiastically toward a price sign above the shelf, her facial expressions showing high excitement. The lighting is bright and even, characteristic of a retail environment. (3) The camera captures the women interacting closely with the giant plush cat. They lift it up, press their faces into its fur, and demonstrate its soft texture. A small circular picture-in-picture overlay of a white dog briefly appears at the bottom of the frame while they handle the plush. (4) The focus shifts to the back of the plush cat near its tail. The woman in the bucket hat uses her hands to unzip a hidden compartment in the grey fur. She pulls out a folded white fabric item, which reveals itself to be a blanket with the same cat character's motif. (5) The women are shown holding two different sizes of the plush cat—a large 80cm version and a smaller 50cm version with a pink bow. They compare the two side-by-side while smiling and talking directly toward the camera, emphasizing the product's features and value.",
+      "text_narrative_log": "(1) [Logo]: COSTCO WHOLESALE. [Subtitle]: 這個是什麼?. (2) [Subtitle]: 我養的新貓. (3) [Subtitle]: 這個貓砂盆. (4) [Subtitle]: 要用浴缸吧?. (5) [Subtitle]: 我快看不到路了. (6) [Slogan]: 比人還大 2499元! 超巨大的路西法!!. (7) [Subtitle]: 而且只要2499元. (8) [Subtitle]: 這什麼神仙價格. (9) [Subtitle]: 也太佛了吧. (10) [Subtitle]: 直接帶一隻回家. (11) [Subtitle]: 嚇嚇66. (12) [Logo]: 66. (13) [Subtitle]: 哇!他尾巴就可以把66壓扁耶. (14) [Slogan]: 80公分 超巨大. (15) [Subtitle]: 超好看80公分那麼巨大. (16) [Subtitle]: 你在迪士尼還買不到那麼大的. (17) [Subtitle]: 可愛喔 而且摸起來很舒服. (18) [Subtitle]: 這個迪士尼買了也帶不回來. (19) [Subtitle]: 他的臉好好看. (20) [Subtitle]: 好可愛喔. (21) [Subtitle]: 貓尾巴下面藏著是什麼?. (22) [Subtitle]: 他這裡有個拉鍊 裡面就有毛毯. (23) [Subtitle]: 而且是路西法圖案的 好好看喔. (24) [Subtitle]: 他還有1000元 附有啾啾50公分版. (25) [Subtitle]: 50公分跟80公分 我支持直接升80公分. (26) [Subtitle]: 小屁股裡面都有毛毯. (27) [Subtitle]: 上面還有小魚骨頭 好可愛喔.",
+      "visual_human_presence": {
+        "totalHumanCount": 8,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 6,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "2 main female creators in the foreground, with approximately 6 other shoppers visible in the warehouse background at various points.",
+        "mainCharacterDescription": "One woman wears a zebra-patterned bucket hat, a white strap dress with lace details, and a dark undershirt. The second woman wears a simple black short-sleeved dress."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Supermarket / Warehouse Store"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A typical Costco warehouse interior with high-reaching steel shelves loaded with boxed inventory. Large cardboard display bins for plush toys are visible, along with grey concrete floors and bright industrial overhead lighting.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Walking handheld",
+          "Panning",
+          "Zoom in"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Plush / decoration / toy animal"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "Shopping cart"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Costco",
+          "Disney"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 0,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Crowd Murmur"
+        ],
+        "crowdNoiseIntensity": 1,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Plastic / Bag Rustle",
+          "Mechanical Click / Latch",
+          "Clothing / Fabric Rustle"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Pop / Bubble SFX",
+          "Whoosh / Transition SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audio_narrative_log": "(1) The audio begins with a high-pitched, enthusiastic female voice greeting the audience over an upbeat electronic dance track with a prominent synth bassline. A subtle 'pop' sound effect punctuates the start of the narration. (2) As the narrator describes the cat plushie, the speech rate increases, exhibiting a high-energy, rising intonation pattern. The music remains consistent with a driving 4/4 beat at roughly 128 BPM. (3) A distinct mechanical zipping sound occurs as the hidden compartment is opened, followed by the soft rustling of polyester fabric. The narrator's tone remains cheerful and informative throughout the action. (4) The track features a quick 'whoosh' transition sound as the camera cuts to the smaller plushie version. Multiple voices briefly overlap as the two women discuss the price and size differences with high vocal arousal. (5) The audio concludes with a final energetic sentence from the main narrator, with the background music sustaining its volume until a sharp cut at the video's end.",
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      }
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Shopping",
+        "Product Showcase"
+      ],
       "location": {
         "country": [
-          "Taiwan"
+          "Unknown"
         ],
         "city": [
           "Unknown"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) Two women stand in a Costco warehouse behind a shopping cart containing a massive grey plush cat with green eyes and pink ears. (2) One woman, wearing a zebra-print bucket hat, excitedly points at the cat and gestures its size. (3) The camera focuses on the plush cat's face and then the price tag nearby. (4) The woman in the hat opens a zipper hidden in the cat's tail/body and pulls out a white blanket with character illustrations. (5) They hold up a smaller version of the cat to show the difference in size and features.",
-      "audio_narrative_log": "(1) High-energy female vocals in Mandarin Chinese speak continuously with an excited and enthusiastic tone. (2) Upbeat, fast-paced electronic pop background music plays throughout the video. (3) Occasional digital sound effects (pings and sparkle sounds) emphasize on-screen text and price reveals. (4) Faint warehouse ambient noise is heard in the background under the music and speech.",
-      "text_narrative_log": "(1) Functional Text: 'COSTCO WHOLESALE' logo appears at the top. (2) Functional Text: Subtitles translate the spoken dialogue regarding the cat's features and price. (3) Decorative Text: '比人還大 2499元!' (Bigger than a person, 2499 NTD) appears in bright colors. (4) Decorative Text: '80公分 超巨大' (80cm super giant) and '也太佛了吧' (Such a great deal) emphasize the value proposition."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 15,
-      "averageSceneDuration": 3.06,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Intro Hook -> Product Feature Showcase -> Hidden Feature Reveal -> Size Comparison -> Recommendation"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 8,
-      "maleDetectAmount": 2,
-      "femaleDetectAmount": 6,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "2 main female creators, approximately 6 shoppers visible in the background aisles.",
-      "mainCharacterDescription": "One woman in a black dress, another in a white tank top with a zebra-print bucket hat."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Warehouse Store"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A typical Costco interior featuring high metal shelving stacked with bulk goods, price tags, and other shoppers.",
-      "lightingStyle": "Bright indoor industrial lighting",
-      "weather": "None",
-      "season": "None",
+      "sceneCutCount": 14,
+      "averageSceneDuration": 3.28,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural and vibrant",
-      "cameraWork": [
-        "Static",
-        "Follow shot"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "Cat (Plush Toy)"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "Shopping Cart"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Costco",
-        "Disney"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 1,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 2,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Cheerful and excited",
-        "pitch": "High",
-        "loudness": "High",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic Pop",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Digital pings",
-        "Glitter effects"
-      ],
-      "ambientNoise": [
-        "Warehouse echo"
-      ],
-      "audioQuality": "Field"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Evidence -> Comparison -> Recommendation",
-      "mainPurpose": "The video is a shopping recommendation aimed at Disney fans and Costco shoppers. It seeks to inform viewers about a new, high-value giant plush toy (Lucifer the cat) by demonstrating its size, hidden features (the blanket), and price compared to smaller versions, ultimately encouraging a purchase.",
-      "visualEmotion": "Energetic and Playful"
+      "narrativeStructure": "List-based: Hook -> Feature Exploration -> Value Proposition -> Call to Action",
+      "mainPurpose": "The video serves as a consumer lifestyle showcase intended to highlight a specific oversized Disney character product (Lucifer the Cat) available at Costco. It aims to generate excitement through enthusiastic narration and visual demonstration of the item's size, hidden features (the blanket), and competitive pricing compared to official Disney parks.",
+      "visualEmotion": [
+        "energetic",
+        "warm",
+        "informative"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
-        "Implicit Integrated"
+        "Implicit",
+        "Integrated"
       ],
-      "endorsementCues": "The video focuses specifically on a product available at Costco, displaying the brand logo and price prominently while reviewing its features.",
+      "endorsementCues": "Detailed price mention, store location (Costco), and specific product feature breakdown typical of shopping haul content.",
       "endorsementObject": [
-        "Costco",
+        "Costco Wholesale",
         "Disney"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-density variety-show style text overlays and high-energy Mandarin narration.",
-      "freeDescribe": "The fast editing and constant use of emotional hooks make it highly suitable for short-form video platforms like TikTok or Reels."
-    }
+    "freeDescribe": "High-energy social media edit with significant text overlay and upbeat music, typical of TikTok/Reels shopping influencers."
   }
 }

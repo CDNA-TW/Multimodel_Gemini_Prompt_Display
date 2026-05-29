@@ -1,15 +1,250 @@
 {
   "videoName": "cocowine0205-20250807014436-2686769478377013.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 22,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Food Review",
-        "Lifestyle"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A woman with long dark hair, wearing a white sleeveless top and a silver necklace, stands inside a brightly lit convenience store. She holds a packaged dessert with white and yellow branding towards the camera, smiling broadly with her eyes squinted. The background shows refrigerated shelves stocked with various packaged food items. (2) A second woman wearing a brown bucket hat and a white lace top stands outdoors at night in front of a storefront. She holds the same dessert package with both hands in front of her face, displaying a wide smile and expressive facial movements while speaking. Street lights and store signs are visible in the blurred background. (3) A close-up shot focuses on a pair of hands opening the plastic packaging. A clear tray containing four pieces of light-yellow sponge cake rolls with thick white cream filling is revealed on a gray table surface. The hands gently touch and lift one piece of the cake. (4) Both women are seated together in an indoor living room setting with soft domestic lighting. They each hold a piece of the mochi cake, taking bites and looking directly at the camera with exaggerated surprised and happy facial expressions. They use their hands to gesture towards the food, emphasizing its texture.",
+      "text_narrative_log": "(1) [Variety]: 不用飛日本. [Slogan]: 好吃嗎?. [Slogan]: 超紅711麻糬蛋糕. [Subtitle]: 你看我找到了什麼. (2) [Variety]: 買到了最後一個. [Subtitle]: 買到了最後一個. (3) [Logo]: 7-ELEVEN. [Logo]: mochi. (4) [Variety]: 像麻糬一樣QQ的欸. [Subtitle]: 他蛋糕皮真的像麻糬一樣QQ的欸. [Subtitle]: 他有把麻糬的口感做出來. [Subtitle]: 但是必須說日本的還是再更Q一些. [Subtitle]: 只好飛進去了.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "2 female creators appearing in alternating scenes and together at the end.",
+        "mainCharacterDescription": "Two young adult females; one with long dark hair in a white top, the other often wearing a brown bucket hat."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Retail Store",
+          "Outdoor Street",
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A convenience store interior with refrigerated food racks; an urban street at night with neon signs; a tidy indoor home living room with a shelf and plush toys.",
+        "lightingStyle": [
+          "Bright indoor lighting",
+          "Night artificial light",
+          "Soft indoor lighting"
+        ],
+        "weather": [
+          "Night clear"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Static"
+        ],
+        "shotSize": [
+          "Medium close-up",
+          "Close-up",
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "POV / first-person view"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Plush / decoration / toy animal"
+        ],
+        "foodsDetect": [
+          "Dessert / cake / cookies",
+          "Prepared meal / plated dish"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "7-ELEVEN"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 0,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Meme/Comedy",
+          "Pop"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence",
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Plastic / Bag Rustle"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Impact / Hit SFX",
+          "Pop / Bubble SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Stingers"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Low-fi/Phone"
+        ]
+      },
+      "audio_narrative_log": "(1) A high-pitched female voice speaks with rapid, energetic prosody over a bouncy, medium-fast electronic BGM. The voice exhibits high emotional valence. (2) A rhythmic plastic rustling sound occurs, marking the transition. A second female voice joins with high arousal and a comedic tone. (3) A 'pop' sound effect triggers during the close-up of the hands, followed by the steady beat of the electronic music. (4) Both female voices overlap in a casual, conversational manner with occasional laughter and high-pitched exclamations. The background music maintains a constant tempo until a sharp percussive 'stinger' marks the end."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Food Review",
+        "Vlog"
+      ],
       "location": {
         "country": [
           "Taiwan"
@@ -19,162 +254,33 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video begins with a close-up of a hand reaching into a 7-Eleven refrigerated shelf to pick up a packaged 'Mochi QQ' cake. (2) A young woman wearing a white off-the-shoulder top and a brown bucket hat stands outside the store at night, holding the package and smiling excitedly at the camera. (3) The shot cuts to a close-up of the package being torn open, revealing four pieces of light-yellow sponge cake rolls with cream filling. (4) A hand picks up one piece, squeezing it slightly to show the soft, elastic texture. (5) Two women are seen indoors sitting at a marble table; they take bites of the cake and look directly at the camera with expressive, surprised facial expressions.",
-      "audio_narrative_log": "(1) Upbeat, fast-paced background music starts immediately. A high-pitched, energetic female voice says 'Look what I found!'. (2) The same woman continues speaking outside with a joyful tone, mentioning she bought the last one and no longer needs to fly to Japan. (3) Sound of plastic packaging crinkling as the product is opened. (4) Two female voices engage in a dialogue, discussing the 'QQ' (chewy) texture of the cake skin and comparing it to the version found in Japan. (5) One woman makes a loud gasp of mock-despair as the music reaches a peak.",
-      "text_narrative_log": "(1) '不用飛日本' (No need to fly to Japan) - Decorative Hook. (2) '好吃嗎？' (Is it delicious?) - Decorative Question. (3) '超紅711麻糬蛋糕' (Super popular 7-11 Mochi Cake) - Functional Title. (4) '買到了最後一個' (Bought the last one) - Decorative text. (5) '像麻糬一樣QQ的欸' (Chewy like mochi!) - Impact caption with variety show graphics. (6) Standard functional subtitles translate the spoken dialogue throughout the video."
-    },
     "temporal_pacing_summary": {
       "sceneCutCount": 8,
       "averageSceneDuration": 2.75,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Discovery at store -> Product reveal -> Tasting and comparison review."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Torso"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "Two women appearing as co-hosts/reviewers.",
-      "mainCharacterDescription": "One woman with a brown bucket hat and white top; the second woman with dark hair wearing a white ruffled top."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Convenience Store",
-          "Outdoor Street",
-          "Indoor Dining Room"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "Convenience store refrigerated shelves, night-time street with store lights, and a modern home interior with a marble table.",
-      "lightingStyle": "Mixed: Artificial store lighting and indoor home lighting.",
-      "weather": "Clear night",
-      "season": "Summer",
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese",
-          "Japanese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "High Saturation",
-      "cameraWork": [
-        "Static",
-        "Close-up",
-        "Follow shot"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Mochi Cake",
-        "Cream Roll"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "7-ELEVEN",
-        "KANGOL"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut synced with visual transitions.",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 2,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and enthusiastic",
-        "pitch": "High",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat/Pop",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum kit"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Packaging crinkle"
-      ],
-      "ambientNoise": [
-        "Outdoor street atmosphere"
-      ],
-      "audioQuality": "Field"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Action -> Review -> Conclusion",
-      "mainPurpose": "The video aims to review a viral dessert from 7-Eleven, specifically comparing its texture to Japanese mochi cakes. It serves as a consumer recommendation, emphasizing the excitement of finding the 'last one' and the high quality of the product relative to its price and availability.",
-      "visualEmotion": "Energetic and Happy"
+      "narrativeStructure": "Linear: Hook -> Discovery -> Unboxing -> Review",
+      "mainPurpose": "To share a food discovery of a popular dessert at a 7-Eleven convenience store and review its taste and texture for an audience interested in trendy food items.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
-        "Implicit",
+        "Explicit",
         "Integrated"
       ],
-      "endorsementCues": "The video features a specific product from a well-known brand (7-Eleven) prominently and provides a positive review.",
+      "endorsementCues": "The creators specifically name the brand (7-11) and the product (mochi cake), showing the packaging clearly and giving a direct review.",
       "endorsementObject": [
-        "7-ELEVEN"
+        "7-ELEVEN",
+        "mochi"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Fast-paced editing with variety show-style text effects and high-energy food tasting reactions.",
-      "freeDescribe": "Typical short-form food vlog content designed to trigger FOMO (Fear Of Missing Out) and encourage viewers to try a local convenience store product."
-    }
+    "freeDescribe": "The video uses typical short-form social media editing with heavy text overlays and high-energy audio to maintain viewer engagement during a simple product review."
   }
 }

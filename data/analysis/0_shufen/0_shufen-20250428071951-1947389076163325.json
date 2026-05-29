@@ -1,158 +1,259 @@
 {
   "videoName": "0_shufen-20250428071951-1947389076163325.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 6,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Travel"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "Taiwan"
+      "visual_narrative_log": "(1) The camera is held in a selfie position by a young woman with long, straight black hair, wearing a vibrant pink zip-up jacket over a light blue inner shirt. She walks forward through a glass-walled airport jet bridge, looking directly into the lens with a wide, friendly smile that reveals her teeth. Outside the windows to her left, the fuselage of a large white commercial airplane with distinctive orange and blue livery, identifiable as Singapore Airlines, is parked stationary on the tarmac under bright, clear daylight. (2) As she continues her walk, the handheld camera exhibits slight rhythmic shaking consistent with walking. In the background, a man wearing a dark green t-shirt and a backpack walks in the opposite direction through the bridge, creating a sense of natural movement in a busy travel hub. The indoor environment of the jet bridge is exceptionally well-lit by natural sunlight, with metallic structural frames and large glass panes defining the clean, modern setting, while the woman maintains her upbeat expression.",
+      "text_narrative_log": "(1) [Subtitle]: 去國外尋找我的未來老公. 因為我在自己的國家找不到🙄.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Face close-up",
+          "Upper body",
+          "Partial body"
         ],
-        "city": [
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 female main character in foreground, 1 male passer-by in background",
+        "mainCharacterDescription": "A young woman with long black hair, wearing a pink jacket over a blue top, with a cheerful and smiling expression."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Airport"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "An airport jet bridge with large glass windows showing a Singapore Airlines airplane parked at the gate under bright daylight.",
+        "lightingStyle": [
+          "Natural daylight"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Selfie handheld",
+          "Walking handheld"
+        ],
+        "shotSize": [
+          "Close-up",
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Selfie perspective"
+        ],
+        "editingTechniques": [
+          "Single continuous take"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "Traditional Chinese",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "Airplane"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Singapore Airlines"
+        ],
+        "instrumentsVisible": [
           "None"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video is a live-action selfie shot. A young woman with long black hair, wearing a pink zip-up jacket and a light blue top, smiles at the camera inside an airport boarding bridge. (2) She begins walking forward along the glass-walled corridor, while the camera follows her face. Outside the window, a large commercial airplane with green and orange tail markings is parked on the tarmac. (3) She continues walking with a happy expression, passing a male traveler carrying a bag in the blurred background.",
-      "audio_narrative_log": "(1) An upbeat pop song with female vocals and electronic beats starts immediately at the beginning of the video. (2) The music continues as the primary audio source with no audible speech from the person on screen. (3) The track maintains its tempo and volume until the video ends, with ambient airport noise completely suppressed by the background music.",
-      "text_narrative_log": "(1) Decorative/Hook Text: \"去國外尋找我的未來老公 因為我在自己的國家找不到 🙄\" (Going abroad to find my future husband because I can't find one in my own country). The text is written in Traditional Chinese and appears as a central caption with a playful and humorous tone."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 1,
-      "averageSceneDuration": 6.0,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Selfie walking through an airport jet bridge."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Face"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "1 main female creator filming herself, 1 male traveler visible in the background.",
-      "mainCharacterDescription": "A young woman with long, straight black hair, wearing a pink sports jacket over a light blue shirt, with a bright smile."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Airport",
-          "Indoor"
-        ],
-        "topography": [
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
           "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop"
+        ],
+        "tempoBPM": 105,
+        "mode": [
+          "Major / Ionian"
         ]
       },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "An airport boarding bridge (jet bridge) with large glass windows showing the tarmac and an EVA Air airplane.",
-      "lightingStyle": "Bright natural daylight",
-      "weather": "Sunny",
-      "season": "Unknown",
-      "editingPace": "Slow",
-      "textOverlay": {
-        "density": "Low",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "POV",
-        "Selfie",
-        "Follow shot"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "Airplane"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "EVA Air"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "None",
-      "vocalRatio": "Low"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 0,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Musical",
-        "pitch": "Medium",
-        "loudness": "Moderate",
-        "speed": "Normal",
-        "speechDensity": "None",
-        "language": [
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 1,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
           "English"
         ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Pop",
-      "bgmBPM": 115,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Keyboard"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Electronic Drums"
-      ],
-      "musicSourceType": [
-        "Copyrighted Song"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "String",
+          "Electronic"
+        ],
+        "instrumentsAudible": [
+          "Guitar",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 2,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocal_ratio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 1,
+        "audioCutFrequency": 0,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio track features a mid-tempo English pop song characterized by a rhythmic, steady beat and a clear male vocal melody. The musical arrangement includes bright acoustic guitar strumming and subtle electronic synthesizer textures, creating an optimistic and energetic tone suitable for travel content. There is no audible speech or dialogue from the individuals present in the video, nor are there any distinct environmental sound effects like footsteps or jet engine noise, suggesting the music has been professionally overlaid as the primary auditory layer. The sound quality is consistent with digital social media production standards, with a clean frequency balance and moderate dynamic range throughout the clip."
     }
   },
-  "high_inference_interpretations": {
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Vlog",
+        "Selfie / Portrait",
+        "Travel",
+        "Comedy"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 6,
+      "editingPace": "Slow",
+      "isNarrativeShift": false
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Action",
-      "mainPurpose": "The video serves as a lighthearted social media update. By combining a happy selfie walk at the airport with a humorous caption about seeking a husband abroad, the creator aims to entertain her audience while sharing a moment from her travels.",
-      "visualEmotion": "Cheerful"
+      "narrativeStructure": "Linear: Action -> Statement",
+      "mainPurpose": "The video is a humorous and engaging social media vlog post. It uses the visual context of an airport boarding process to symbolize the start of a journey, paired with a playful text overlay about traveling abroad to find a romantic partner. The creator's warm smile and the upbeat music combine to create a lighthearted, relatable narrative about dating and travel, aimed at entertaining a general audience through self-deprecating humor.",
+      "visualEmotion": [
+        "energetic",
+        "warm",
+        "humorous"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -164,9 +265,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Self-deprecating humor through text overlay.",
-      "freeDescribe": "The video follows standard short-form content trends where a travel visual is paired with a relatable or funny personal anecdote."
-    }
+    "freeDescribe": "The video leverages the recognizable branding of Singapore Airlines in the background to ground the travel context, though it is likely an organic vlog rather than an airline promotion. The text-driven humor is the primary driver of engagement."
   }
 }

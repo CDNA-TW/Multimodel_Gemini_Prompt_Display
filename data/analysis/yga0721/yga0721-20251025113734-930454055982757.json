@@ -1,159 +1,262 @@
 {
   "videoName": "yga0721-20251025113734-930454055982757.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 18,
-      "aspectRatio": "9:16",
+      "videoDuration": 17,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The video begins in a bright, modern indoor living room with a white hallway in the background. A woman with long dark hair, wearing a black and white striped sleeveless top and white shorts, is bent forward at the waist over a wooden dining table. She is holding a smartphone and looking intently at its screen. A man with short brown hair, wearing an oversized white t-shirt and dark blue denim shorts, walks into the frame from the hallway. He stops walking and stares at the woman's bent-over posture with an expression of confusion and suspicion, his hands resting by his sides. (2) A rapid montage sequence begins, featuring several famous male actors in close-up or medium shots. These include Michael Caine nodding slightly, Leonardo DiCaprio smiling while holding a card, Jon Hamm making a serious facial expression, Ryan Gosling nodding slowly, and Robert De Niro adjusting a black fedora and sunglasses. These clips are interspersed with shots of the man from the first phase, who is now looking directly into the camera lens. He displays a smug, knowing, and mischievous smile, mirroring the approving expressions of the actors in the montage. (3) The scene returns to the living room setting. The woman remains in the exact same bent-over position at the wooden table, focused on her smartphone. The man walks toward her from behind, pauses to pull up his shorts slightly, and then takes out his own smartphone. He squats down low to the floor, positioning his phone to capture a photograph of the woman's backside. He maintains a focused yet playful facial expression as he prepares to take the shot, while the woman remains oblivious to his presence.",
+      "text_narrative_log": "None",
+      "visual_human_presence": {
+        "totalHumanCount": 7,
+        "maleDetectAmount": 6,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Face close-up"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "2 main characters (1 male, 1 female) in the room, plus 5 distinct male actors appearing in the montage sequence.",
+        "mainCharacterDescription": "One man in his 20s or 30s with brown hair, wearing an oversized white t-shirt and dark blue shorts. One woman with long dark hair wearing a striped top and white shorts."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Living Room",
+          "Indoor Home"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A modern, minimalist apartment interior featuring light wood flooring, white walls, a wooden dining table with grey chairs, and a white air conditioning unit mounted on the wall above a sliding door. A long, brightly lit hallway leads to other rooms.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Montage",
+          "Reaction shot"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Compilation / montage sequence"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "None",
+        "textLanguage": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Meme/Comedy",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 105,
+        "mode": [
+          "Minor / Aeolian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 3
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Impact / Hit SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 5,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio sequence opens with an atmospheric, low-frequency suspenseful tone that establishes a sense of mystery or anticipation. There are no human voices present. The background environment is extremely quiet, suggesting a controlled studio or indoor environment with high signal-to-noise ratio and tonal purity. (2) A sharp, synthesized 'whoosh' sound effect occurs, signaling a transition. This is immediately followed by the introduction of a steady, rhythmic electronic beat with a tempo of approximately 105 BPM. The musical texture is clean, featuring synthetic bass and percussive hits that build rhythmic tension throughout the montage sequence. (3) The rhythmic electronic beat continues at a consistent volume. A subtle digital click sound, mimicking a camera shutter, is heard as the man in the video appears to take a photograph. The track maintains its minor-mode tonal framework, concluding with a final percussive hit that ends the audio loop abruptly."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
         "Comedy",
-        "Skit",
-        "Meme"
+        "Meme / Trend"
       ],
-      "withRealPeople": true,
       "location": {
         "country": [
           "Unknown"
         ],
         "city": [
-          "None"
+          "Unknown"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A woman in a white skirt and patterned top is bent over a dining table, extending her arms to hold a smartphone. A man in a white oversized t-shirt and blue shorts walks into the background, stops, and looks at her. (2) The man's face is shown in a close-up with a confused and then realization-filled expression. This is followed by a rapid montage of clips featuring various men (including famous actors) smiling, nodding, or tipping their hats knowingly. (3) The scene returns to the original room; the man smiles mischievously, adjusts his shorts, and sneaks behind the woman to take a photo of her from a low squatting position.",
-      "audio_narrative_log": "(1) Upbeat, rhythmic string and percussion music starts immediately at a moderate tempo. (2) The music continues consistently through the sequence; no spoken vocals or dialogue are detected. (3) The audio remains constant with no significant ambient noise or sound effects during the transition to the montage or the final action.",
-      "text_narrative_log": "(1) None"
     },
     "temporal_pacing_summary": {
-      "sceneCutCount": 11,
-      "averageSceneDuration": 1.63,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro -> Reaction Montage -> Action Outcome"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 8,
-      "maleDetectAmount": 7,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Face",
-        "Hands"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 main male, 1 main female, and approximately 6 different men in the movie montage clips.",
-      "mainCharacterDescription": "A young woman in a summer outfit (white skirt) and a young man in casual streetwear (white t-shirt, blue shorts)."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Living Room",
-          "Studio"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A modern, minimalist apartment with light wood floors, white walls, a dining table with chairs, and an air conditioning unit. Montage scenes show various cinematic backgrounds.",
-      "lightingStyle": "Bright, even indoor lighting",
-      "weather": "Indoor",
-      "season": "Unknown",
+      "sceneCutCount": 12,
+      "averageSceneDuration": 1.4,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "None",
-        "language": [
-          "None"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Close-up"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone",
-        "Air Conditioner"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "None",
-      "vocalRatio": "None"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 0,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "None",
-        "pitch": "None",
-        "loudness": "None",
-        "speed": "None",
-        "speechDensity": "None",
-        "language": [
-          "None"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat",
-      "bgmBPM": 120,
-      "instrumentFamiliesAudible": [
-        "Strings",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Unknown"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Observation -> Collective Reaction -> Mischievous Action",
-      "mainPurpose": "To create a humorous social media skit using the 'men of culture' meme trope. The video suggests a shared, silent understanding between men when seeing a woman in a specific pose, highlighted by the montage of approving cinematic figures, leading to the man taking a cheeky photo.",
-      "visualEmotion": "Humorous"
+      "narrativeStructure": "Montage: Hook -> Comedic Evidence -> Payoff",
+      "mainPurpose": "To create a humorous, meme-style short video where a man reacts mischievously to a woman's posture. The video uses a montage of famous actors nodding in approval to heighten the comedic effect before showing the man taking a photo of her.",
+      "visualEmotion": [
+        "humorous",
+        "mischievous",
+        "energetic"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -165,9 +268,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Usage of popular reaction memes (Gatsby, etc.)",
-      "freeDescribe": "The video relies heavily on intertextuality, referencing existing internet meme culture to convey its punchline without dialogue."
-    }
+    "freeDescribe": "The video utilizes popular meme editing tropes, specifically the montage of approving actors, to create relatable comedic content based on observational humor."
   }
 }

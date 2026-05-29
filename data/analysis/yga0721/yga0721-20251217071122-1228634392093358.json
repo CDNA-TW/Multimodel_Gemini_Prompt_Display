@@ -1,158 +1,261 @@
 {
   "videoName": "yga0721-20251217071122-1228634392093358.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 53,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Talk Show",
-        "Podcast",
-        "Interview"
-      ],
+      "videoDuration": 51,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A young woman with dark hair and bangs, wearing a dark grey sweatshirt, sits in a studio with a faux brick wall background. She is speaking into a professional large-diaphragm condenser microphone mounted on a boom arm. Behind her are framed illustrations featuring Japanese-style characters. (2) The camera cuts to a man with dyed reddish-brown hair, wearing a light grey utility-style jacket and white over-ear headphones. He sits at a wooden table with a disposable coffee cup and papers, talking enthusiastically into a similar microphone. (3) An individual wearing a large, stylized orange character mask with bold black features and a blue/black hairpiece appears. They are dressed in a grey hoodie and gesticulate with their hands while talking into the microphone against a green curtain background. (4) A second woman, wearing a brown fuzzy jacket, is shown in a medium shot. She is initially looking down at papers, then looks up, brushes her hair back, and bursts into hearty laughter, displaying expressive facial movements. (5) The scene concludes with the reddish-haired man laughing and gesturing while a logo for '蔡阿嘎543' and text urging viewers to watch the full video on his channel appear as an overlay.",
+      "text_narrative_log": "(1) [Subtitle]: 我覺得我的優點就是都可以. (2) [Subtitle]: 都可以. 有時候公事是OK. 但有時候牽涉到人生大事. (3) [Subtitle]: 不是什麼事都都可以. 就是大家還是要理性一點. 想清楚. (4) [Subtitle]: 多想. 多想幾天. 然後多走兩圈. (5) [Subtitle]: 有時候只是剪個片. 那都可以. 無所謂. 還有機會挽救. (6) [Subtitle]: 我們巴菲特說過. 如果一件事不會影響你10年. 那你10分鐘內決定沒關係. 但是會影響你10年的事情要怎樣. (7) [Subtitle]: 10、20年一輩子. 要慎重決定. 是是是. 了解齁. (8) [Subtitle]: 闆娘有什麼話. 俐馨的這個. 有沒有優缺點. 優缺點嗎. 挑男人眼光. (9) [Subtitle]: 我自己覺得不太好. (!!!!!) 她自己覺得不太好. (10) [Logo]: 蔡阿嘎543. [Slogan]: 完整影片請上蔡阿嘎543頻道收看.",
+      "visual_human_presence": {
+        "totalHumanCount": 3,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 3,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main male host, 1 female guest in grey, 1 female guest in brown.",
+        "mainCharacterDescription": "The main male host has reddish-brown hair and wears a grey jacket; one female guest wears a dark grey 'WOLDMEN' sweatshirt; the other female guest wears a brown fuzzy jacket."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A podcast studio setup with brick walls, green curtains, microphones, and table accessories like coffee and papers.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Reaction shot",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multi-camera / cutaway"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Coffee"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Microphone",
+          "Headphones",
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "CITY CAFE"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 3,
+        "total_distinct_voices": 4,
+        "male_vocal_count": 2,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Animated/Excited",
+          "Casual"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Acoustic/Folk"
+        ],
+        "tempoBPM": 90,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 2,
+        "instrumentFamiliesAudible": [
+          "String"
+        ],
+        "instrumentsAudible": [
+          "Guitar"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter",
+          "Applause"
+        ],
+        "crowdNoiseIntensity": 3,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Pop / Bubble SFX",
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 2,
+        "soundEffectsCoverage": 1
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 1,
+        "musicDuration": 2,
+        "speechMusicOverlap": 2,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A female voice speaks with a clear, conversational tone and moderate pitch, discussing her flexible nature. The recording is studio-clean with minimal background interference. (2) A male voice enters with higher energy and a faster speech rate, emphasizing decision-making logic. A sudden burst of laughter from multiple people marks an emotional peak. (3) A third voice, sounding like a muffled male, contributes a humorous anecdote. (4) Collective laughter erupts again, becoming the dominant acoustic signal for several seconds. (5) A final female voice delivers a punchline with a rising pitch contour, triggering a high-arousal chorus of laughter and clapping from everyone present."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Personal Talk",
+        "Comedy",
+        "Storytelling"
+      ],
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "None"
+          "Unknown"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) Live-action video. A woman with dark hair and bangs in a grey 'OLDMEN' sweatshirt speaks while looking off-camera in a studio setting. (2) The scene cuts to a man with reddish-brown hair wearing white headphones and a grey shirt, sitting at a table with a professional microphone and a 'CITY PRIMA' coffee cup, gesturing while he speaks. (3) A figure wearing a large, bright orange cartoon-style mask with a blue headband appears, speaking into a microphone and pointing to their head. (4) The camera switches back to the man in headphones, who continues the conversation. (5) A woman in a brown fuzzy jacket is shown; she initially looks thoughtful, then smiles and laughs heartily while touching her hair. (6) The final shot shows the man in headphones laughing as a promotional overlay appears.",
-      "audio_narrative_log": "(1) A young woman's voice is heard speaking clearly about her personality. Faint, upbeat background music is present. (2) A male voice with an energetic, friendly tone takes over, speaking at a moderate pace. (3) A deeper, slightly muffled male voice enters, speaking with a more rhythmic and instructional tone as if giving advice. (4) The soundscape becomes filled with the sound of multiple people laughing simultaneously. (5) The primary male voice returns, laughing and providing a concluding remark with high energy. Ambient studio noise is minimal.",
-      "text_narrative_log": "(1) Functional Text: '我覺得我的優點就是都可以' (I think my strength is that I'm okay with anything) - Neutral conversational tone. (2) Functional Text: '要大家還是要理性一點... 想清楚' (Everyone still needs to be a bit more rational... think it through) - Advisory tone. (3) Functional Text: '我們巴菲特說過... 要慎重決定' (Our Warren Buffett once said... must decide carefully) - Philosophically serious tone. (4) Decorative/Effect Text: '(!!!!!)' - Indicates shock or a high-impact humorous moment. (5) Functional Text: '我自己覺得不太好' (I personally think it's not very good) - Humorous, self-deprecating tone. (6) Functional Text: '完整影片請上蔡阿嘎543頻道收看' (Watch the full video on Tsay A-ga 543 channel) - Informative call to action."
     },
     "temporal_pacing_summary": {
-      "sceneCutCount": 14,
-      "averageSceneDuration": 3.7,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro dialogue -> Advisory anecdote -> Humorous reveal -> Call to action"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 4,
-      "maleDetectAmount": 2,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 3,
-      "bodyPartVisibility": [
-        "Full body",
-        "Head and shoulders",
-        "Hands only"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 main male host, 2 female guests appearing separately, and 1 person in a mask.",
-      "mainCharacterDescription": "The main host has reddish-brown hair, wears headphones and a light grey shirt. One female guest has dark hair with bangs in a dark grey sweatshirt. Another female guest wears a brown fuzzy zip-up jacket."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Studio"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A podcast studio with white brick walls, acoustic foam panels, colorful pop-art posters of women, and professional broadcasting equipment including microphones on boom arms.",
-      "lightingStyle": "Bright studio lighting",
-      "weather": "Indoor",
-      "season": "None",
+      "sceneCutCount": 12,
+      "averageSceneDuration": 4.25,
       "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Close-up"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Coffee"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Microphone",
-        "Headphones",
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "CITY PRIMA"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 4,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 2,
-          "female_vocal_count": 2,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Energetic and humorous",
-        "pitch": "Varied",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Traditional Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat/Lo-fi",
-      "bgmBPM": 95,
-      "instrumentFamiliesAudible": [
-        "Electronic"
-      ],
-      "instrumentsAudible": [
-        "None"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Discussion -> Advice -> Punchline -> Promo",
-      "mainPurpose": "The video serves as a promotional highlight or 'short' for a podcast/talk show hosted by Tsay A-ga. It begins with a guest's trait, transitions into a piece of philosophical advice about decision-making (using a Warren Buffett quote), and ends with a humorous subversion regarding personal taste, aiming to entertain and drive traffic to the full episode on the main channel.",
-      "visualEmotion": "Cheerful and engaging"
+      "narrativeStructure": "List-based: Discussion -> Anecdote -> Humorous Reveal",
+      "mainPurpose": "To entertain the audience by sharing a humorous and self-deprecating moment during a group conversation/podcast about life choices and personal traits.",
+      "visualEmotion": [
+        "humorous",
+        "warm",
+        "energetic"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -164,9 +267,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Fast-paced banter, variety-show style large subtitles, presence of well-known YouTuber Tsay A-ga.",
-      "freeDescribe": "The video uses a mix of life advice and comedy to appeal to a broad audience, typical of modern social media clips used to market longer podcast content."
-    }
+    "freeDescribe": "The video is a typical social media teaser for a longer podcast or talk show, using rapid-fire dialogue and reaction shots to drive engagement."
   }
 }

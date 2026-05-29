@@ -1,14 +1,245 @@
 {
   "videoName": "yga0721-20250430042309-917539137499884.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 33,
-      "aspectRatio": "9:16",
+      "videoDuration": 35,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A young woman with her hair in braided pigtails, wearing a dusty rose long-sleeved jumpsuit, stands in a brightly lit retail store. She looks at the camera as a hand from the left holds up a dark blue New Balance shoe with a red strap. The background features clothing racks and red 'SALE' signage. (2) The camera focuses on the child's shoe, showing its blue fabric and red velcro strap. Hands rotate the shoe to display a white price tag showing '699' and a bright '20% OFF' sticker. The lighting is consistent with a department store environment. (3) The woman holds two pairs of the shoes while laughing. A man wearing a red and white horizontal striped shirt and olive green pants enters the frame from the left, carrying several cardboard shoe boxes and a red crossbody bag. (4) The woman continues talking to the camera with high energy, gesturing with the shoes in her hands. She wears a black backpack over her jumpsuit. The scene concludes as she turns and walks away towards a cashier area in the store background.",
+      "text_narrative_log": "(1) [Subtitle]: 撿便宜大師啊. (2) [Slogan]: New balance. (3) [Subtitle]: 小朋友的. [Subtitle]: 毛毛的鞋子. (4) [Subtitle]: 毛毛鞋. [Subtitle]: 一雙多少 萊萊萊萊. (5) [Subtitle]: 哎呦 只要699 再打八折 所以 8x7=56 560. (6) [Subtitle]: 日幣. [Subtitle]: 臺幣都會買. [Subtitle]: 臺幣都買. (7) [Subtitle]: 日幣 給小朋友粗穿. [Subtitle]: 沒關係. [Subtitle]: 下雨天沒關係. (8) [Subtitle]: 撿便宜大師啊 一次兩雙. [Subtitle]: 兩雙 兩個都買.",
+      "visual_human_presence": {
+        "totalHumanCount": 6,
+        "maleDetectAmount": 3,
+        "femaleDetectAmount": 3,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 female main character, 1 male main character, and approximately 4 shoppers/passers-by in the background.",
+        "mainCharacterDescription": "The woman wears pigtail braids and a pink/dusty rose jumpsuit with a black backpack. The man wears a red and white striped long-sleeve shirt, olive cargo pants, and a red crossbody bag."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Retail Store",
+          "Shopping Mall / Department Store"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A large indoor retail shoe and clothing store, likely an outlet or department store, featuring white tiled floors, multiple clothing racks, and shelves stocked with shoeboxes. Prominent red 'SALE' banners are visible.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Panning",
+          "Zoom in"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "New Balance",
+          "Adidas"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 1,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Animated/Excited",
+          "Comedic/Exaggerated"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 6,
+        "valence": 7,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 105,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Crowd Murmur"
+        ],
+        "crowdNoiseIntensity": 1,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "Clothing / Fabric Rustle",
+          "Object Impact / Thud / Drop"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Pop / Bubble SFX",
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 2,
+        "soundEffectsCoverage": 1
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) A male voice excitedly exclaims about a bargain discovery. Upbeat, synthesized pop music plays in the background with a steady electronic beat. Subtle ambient room tone from a large retail space is audible. (2) A female voice enters the mix, speaking with a high-pitched, enthusiastic tone about the footwear. Sounds of shoes being handled and fabric rustling are heard as she describes the items as 'furry' and 'for children.' (3) The male speaker loudly calculates the price calculation, speaking rhythmically as he does the math. Both speakers laugh, showing high positive valence and arousal. The music remains a constant bed throughout the dialogue. (4) Short, digital 'pop' sound effects accentuate transitions in the woman's speech as she compares the Japanese price to Taiwan Dollars. The female speaker maintains a fast-paced delivery until the end of the recording."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
         "Vlog",
-        "Shopping"
+        "Shopping",
+        "Lifestyle"
       ],
-      "withRealPeople": true,
       "location": {
         "country": [
           "Japan"
@@ -18,156 +249,31 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A woman with black hair in braids, wearing a pink jumpsuit, stands in a brightly lit clothing and shoe store. She is holding a blue children's sneaker with red straps. (2) A hand holding the camera moves in for a close-up of the shoe's price tag, which displays Japanese Yen prices and a '20% OFF' sticker. (3) The woman smiles, laughs, and looks at the shoe while gesturing with her hands. (4) She holds two pairs of the same sneakers and walks away towards the back of the store, showing her black backpack.",
-      "audio_narrative_log": "(1) Upbeat, medium-tempo electronic background music starts. A man's voice enthusiastically calls out a nickname, sounding excited. (2) A conversation between the man and the woman begins; they discuss the price of the item, specifically mentioning 'New Balance' and calculating the discount. Their tone is friendly and high-pitched. (3) Store ambient noise, including distant chatter and the shuffling of items, is heard faintly beneath the music and dialogue. (4) The music continues as the conversation ends with laughter and the sound of footsteps on the store floor.",
-      "text_narrative_log": "(1) Functional Text: 'Bargain Master' appears at the bottom center in Traditional Chinese with an enthusiastic tone. (2) Functional Text: 'New Balance children's fuzzy shoes' describes the product on screen. (3) Functional Text: 'Just 699, then 20% off, so 8x7=56, 560 Japanese Yen' explains the price calculation. (4) Decorative Text: 'Would buy them even in Taiwan Dollars' and 'Two pairs at once, bought both' emphasizes the perceived value and the decision to purchase."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 6,
-      "averageSceneDuration": 5.5,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Intro -> Product Demo and Price Analysis -> Final Decision/Outro"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 4,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 3,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 main female character on screen, 1 male character visible by hands/partially off-camera, 2 female passers-by in the background.",
-      "mainCharacterDescription": "A woman with black hair styled in two long braids, wearing a light pink collared jumpsuit and a black drawstring backpack."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Clothing Store",
-          "Shoe Store"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A typical retail store environment with racks of clothing, shoe display shelves, and red 'SALE' signs hanging from the ceiling. A 'CASHIER' sign is visible in the distance.",
-      "lightingStyle": "Bright, even indoor retail lighting.",
-      "weather": "Unknown",
-      "season": "Unknown",
+      "sceneCutCount": 9,
+      "averageSceneDuration": 3.8,
       "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "Medium",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural and warm",
-      "cameraWork": [
-        "Handheld",
-        "Follow shot",
-        "Close-up"
-      ]
+      "isNarrativeShift": false
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "New Balance",
-        "TERREX"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 1,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Cheerful and excited",
-        "pitch": "Medium-high",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop",
-      "bgmBPM": 115,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Store atmosphere"
-      ],
-      "audioQuality": "Field"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Evidence -> Conclusion",
-      "mainPurpose": "The video is a personal shopping vlog aimed at sharing a successful 'bargain hunt'. It highlights the extremely low price of a branded item (New Balance children's shoes) in Japan to entertain the audience and demonstrate the value of shopping overseas or during sales.",
-      "visualEmotion": "Cheerful"
+      "narrativeStructure": "Linear: Discovery -> Evidence -> Calculation -> Reaction",
+      "mainPurpose": "To share a specific bargain-hunting success while shopping in Japan. The creators showcase a pair of discounted New Balance kids' shoes and explain why the price is exceptionally low compared to their home market (Taiwan), aiming to entertain and inform viewers about current deals.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "informative"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
       "endorsementMethod": [
         "None"
       ],
-      "endorsementCues": "The tone and style are consistent with a personal shopping experience rather than a sponsored advertisement.",
+      "endorsementCues": "The video appears to be a natural vlog-style discovery rather than a paid promotion, as the speakers are comparing prices and discussing the practicality for personal use.",
       "endorsementObject": [
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "On-screen price calculations and currency comparisons common in Asian travel vlogs.",
-      "freeDescribe": "The video effectively uses text hooks and energetic dialogue to maintain viewer interest in a mundane activity like shopping."
-    }
+    "freeDescribe": "The video uses typical social-media editing styles, including text overlays and cheerful BGM, to emphasize the excitement of travel and shopping."
   }
 }

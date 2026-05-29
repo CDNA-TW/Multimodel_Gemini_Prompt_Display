@@ -1,179 +1,280 @@
 {
   "videoName": "yga0721-20250830170718-1256430443060366.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 87.0,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Commercial",
-        "Comedy",
-        "Vlog"
-      ],
+      "videoDuration": 90,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) Two young Asian men in an indoor studio attempt a water bottle flip challenge on a large wooden table. One man wears a white sweatshirt with red stripes, the other a black striped sweater. Cartoon posters decorate the white wall. (2) Transition to a talking-head style interaction. The man in the black sweater examines the other man's face closely, pointing out signs of fatigue. The lighting is bright and even studio light. The man in white holds a gray prop. (3) The man in black presents a product bottle, Centrum Sleep Probiotics. Close-up shots show the packaging detail, followed by a macro shot of white capsules held in a palm. A graphic overlay with five icons appears to list ingredients. (4) The man in black takes a capsule with water from a glass. Graphic text continues to highlight endorsements and satisfaction rates. The background remains the consistent white studio with posters. The camera uses close-ups for clarity. (5) The scene returns to a wider shot. The man in black humorously scolds the other man, using a gray foam stick to playfully hit him. Both are laughing and moving energetically. They stand behind the wooden table.",
+      "text_narrative_log": "(1) [Variety]: 失敗. (2) [Variety]: 恭喜. (3) [Subtitle]: 學著點. (4) [Variety]: 輕鬆. (5) [Variety]: 完勝. (6) [Subtitle]: 跟我想的一樣... (7) [Subtitle]: 為什麼老闆你可以一直成功, 你是不是有天天熬夜. (8) [Variety]: 天天熬夜. (9) [Subtitle]: 有什麼關係. (10) [Subtitle]: 當然有關係啊, 睡飽精神好當然就會成功啊. (11) [Variety]: 睡飽精神好. (12) [Subtitle]: 不是啊, 我就早上工作繁忙壓力大, 晚上就容易緊張無法好好放鬆啊. (13) [Subtitle]: 你看你這樣注意力不集中, 整個黑眼圈有沒有. (14) [Variety]: 靠臉吃飯的. (15) [Subtitle]: 推薦你這罐. (16) [Logo]: Centrum. [Variety]: 善存 舒眠益生菌. (17) [Variety]: 5大晚安因子. (18) [Variety]: 法國專利舒眠番紅花. (19) [Variety]: 芝麻萃取物. (20) [Variety]: GABA. (21) [Variety]: 多國舒眠專利益生菌. (22) [Variety]: 食品級植萃. (23) [Variety]: 百位醫師認可. (24) [Variety]: 9成消費者試用滿意. (25) [Subtitle]: 愛喝酒. (26) [Subtitle]: 跑夜店.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face close-up",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "2 main creators interacting throughout the video.",
+        "mainCharacterDescription": "One male in a white sweatshirt with a brown collar and red sleeve stripes; one male in a black sweater with vertical white pinstripe patterns and blue jeans."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A white studio wall decorated with several framed cartoon-style group portraits. A large, light-colored wooden table is centered in the frame.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Zoom in"
+        ],
+        "shotSize": [
+          "Medium full shot",
+          "Close-up",
+          "Macro close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Fast cuts",
+          "Graphic transition",
+          "Meme-style edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Beverage / juice"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Centrum"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 2,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Comedic/Exaggerated",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 7,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter"
+        ],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Object Impact / Thud / Drop",
+          "Liquid Pour / Splash"
+        ],
+        "incidentalNoiseIntensity": 3,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Ding / Bell SFX",
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Stingers"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) Loud thud of a plastic bottle hitting wood followed by high-energy male shouting. BGM is a bouncy, high-tempo pop track with a strong electronic beat. Vocals are high-pitched and very excited, exhibiting significant pitch variability and high arousal. (2) The music volume ducks slightly. A clear, conversational dialogue begins between two male voices. One voice has a narrative, authoritative tone, while the other sounds slightly whiny and inquisitive. Ambient studio noise is minimal, replaced by clean vocal tracks. (3) A sharp 'ding' sound effect marks a transition. The music becomes bright and promotional with a steady rhythm. The main narrator's voice is clear, professionally enunciated, and calm as he describes the product features. No incidental background noise is audible. (4) A comedic sequence follows with rapid-fire dialogue and loud vocal outbursts. Frequent 'thud' sound effects from a foam prop hitting a body are heard. The BGM tempo feels faster, and high-arousal laughter punctuates the energetic shouting."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Promotion / Advertisement / Indoresment"
+      ],
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "None"
+          "Unknown"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) Two men are standing behind a wooden table; one in a black sweater fails to hit a sliding bottle with a foam rod, while the other in a white sweatshirt succeeds easily, followed by a triumphant pose. (2) The scene transitions to the two men talking directly to the camera; the man in the black sweater appears energetic while the other looks tired. (3) The man in black introduces a white box of Centrum probiotics, showing the packaging, the capsules in his hand, and then swallowing one with a glass of water. (4) Detailed shots of the product packaging and capsule ingredients are shown via overlays. (5) The man in black playfully chases and hits the other man with the foam rod while they continue to shout and laugh, ending with both men holding product boxes.",
-      "audio_narrative_log": "(1) Fast-paced, rhythmic background music with clear sound effects of the foam rod hitting the table and the bottle sliding. (2) Music continues as two energetic male voices engage in a loud, fast-paced dialogue with frequent laughter. (3) The tone becomes slightly more instructional as one male voice clearly articulates the product name 'Centrum' and its benefits, though the upbeat music remains. (4) The audio ends with high-energy shouting and laughing as the sound of the foam rod hitting continues over the fading music.",
-      "text_narrative_log": "(1) Variety-show style captions like '失敗' (Failure) and '完勝' (Complete Victory) appear with bright colors and shadows. (2) Functional subtitles translate the spoken dialogue throughout the video. (3) Large, decorative 'hook' text such as '睡飽精神好' (Sleep well, spirit good) and '9成消費者試用滿意' (90% consumers satisfied) pop up to emphasize key promotional points."
     },
     "temporal_pacing_summary": {
-      "sceneCutCount": 35,
-      "averageSceneDuration": 2.48,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Challenge Intro -> Comedic Dialogue -> Product Demo -> Chaotic Outro"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 2,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Head and shoulders"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "2 main male creators interacting throughout the video.",
-      "mainCharacterDescription": "One man with brown hair wearing a black striped sweater and jeans; one man with black hair wearing a white and red sweatshirt and olive cargo pants."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Studio",
-          "Indoor"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A white studio wall decorated with several framed cartoon-style portraits of families and groups. A light-colored wooden table is in the foreground.",
-      "lightingStyle": "Bright, even studio lighting.",
-      "weather": "None",
-      "season": "None",
+      "sceneCutCount": 22,
+      "averageSceneDuration": 4.1,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "High Saturation",
-      "cameraWork": [
-        "Static",
-        "Follow shot",
-        "Close-up"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Water"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Centrum",
-        "善存"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 2,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Energetic, humorous, and persuasive",
-        "pitch": "Normal",
-        "loudness": "High",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Traditional Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Comedic",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum kit"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Hitting SFX",
-        "Meme sounds",
-        "Whip sound"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage -> Hook -> Evidence -> CTA",
-      "mainPurpose": "This video is a humorous commercial for Centrum Sleep Probiotics. It uses a comedic 'challenge' format to hook the audience, followed by a relatable discussion about sleep deprivation and stress. The content then shifts to a professional product introduction highlighting specific ingredients (Saffron, GABA) to build trust, concluding with a chaotic, high-energy sequence to maintain engagement while reinforcing the brand message.",
-      "visualEmotion": "Energetic, Humorous"
+      "narrativeStructure": "Montage: Hook -> Problem Discovery -> Product Introduction -> Feature List -> Social Proof -> Comedic Reiteration.",
+      "mainPurpose": "To promote Centrum Sleep Probiotics as a solution for work-related stress and poor sleep through a comedic interaction between two creators.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "informative"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
-        "Explicit",
-        "Full"
+        "Explicit Integrated"
       ],
-      "endorsementCues": "The creators directly show the product box, consume the product, list its benefits via text overlays, and mention the brand name multiple times.",
+      "endorsementCues": "Direct display of the product bottle, detailed explanation of ingredients and benefits, and call to action.",
       "endorsementObject": [
-        "Centrum",
-        "善存"
+        "Centrum"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-intensity physical comedy, rapid-fire dialogue, and heavy use of colorful variety-show style motion graphics.",
-      "freeDescribe": "The video successfully blends influencer-style vlog content with traditional product placement, relying on the chemistry between the two male characters to make the advertisement feel like entertainment."
-    }
+    "freeDescribe": "The video effectively blends entertainment with a health product advertisement, utilizing high-energy editing and humor to maintain viewer engagement."
   }
 }

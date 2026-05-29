@@ -1,14 +1,240 @@
 {
   "videoName": "2uncle987-20250311234240-1340376461180042.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 18,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Dance",
-        "Vlog"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) Three young females stand in an indoor room with a gray floor. The central figure wears a long light-blue shirt-dress, dark socks, and black chunky shoes. The person on the left wears a brown sweatshirt with white text and blue pants, while the person on the right wears a dark blue hoodie with a burger graphic and blue pants. They perform a synchronized dance involving rhythmic side-to-side steps and hand rotations. Behind them are tall wooden cabinets and a large whiteboard. (2) A young male in a white long-sleeved shirt and a young female in a blue shirt-dress dance on a concrete patio in front of a school building. A large green banner with white text is visible above them. Several people stand on a balcony in the background, observing or filming. The lighting is bright natural daylight. (3) A female in a blue shirt-dress stands between two young males in an outdoor lot. One male wears a black sweatshirt, and the other wears a gray zip-up hoodie. They perform the same rhythmic hand and foot movements. In the background, four large yellow and green transit buses are parked side-by-side under a clear blue sky. (4) A large group of young females stands on wide concrete stairs outside a building. The central figure in the blue shirt-dress leads the dance while the others in the background perform various gestures. Many students are seen walking and standing in the background area. The sun creates high contrast and deep shadows on the ground. (5) A single female in a blue shirt-dress dances alone in the center of a large, empty asphalt parking lot. She moves with high energy, smiling while pointing her hands and shifting her weight. The background features distant trees, parked cars under a canopy, and city buildings against a bright, clear sky.",
+      "text_narrative_log": "(1) [Slogan]: CENTRAL PARK. [Slogan]: PEOPLE DRINK OUR PASSION. [Logo]: @HanHan. (2) [Slogan]: 金K書中心. [Logo]: @HanHan. (3) [Logo]: @HanHan. (4) [Logo]: @HanHan. (5) [Logo]: @HanHan.",
+      "visual_human_presence": {
+        "totalHumanCount": 15,
+        "maleDetectAmount": 3,
+        "femaleDetectAmount": 12,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Crowd"
+        ],
+        "countingEvidence": "1 main female creator in blue, multiple secondary dancers in different scenes, and various background students.",
+        "mainCharacterDescription": "A young female with dark hair tied in low twin buns, wearing a light-blue oversized button-down shirt-dress and black platform shoes."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "School / Education Venue",
+          "Outdoor Street",
+          "Road / Highway / Parking Area"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The video cycles through an indoor classroom/hallway, a school building entrance with a banner, a bus parking lot, school stairs, and an open asphalt parking area.",
+        "lightingStyle": [
+          "Natural daylight",
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Autumn / Winter"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Full shot",
+          "Medium full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut"
+        ],
+        "visualRhythm": [
+          "Rhythm matched to music"
+        ],
+        "takeStructure": [
+          "Compilation / montage sequence"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "English",
+          "Traditional Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Food on packaging / logo"
+        ],
+        "trafficDetect": [
+          "Bus"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "New Balance"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 4
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Korean"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Rising"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 1
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 0,
+        "female_singer_count": 1,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "Korean"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 5,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Other"
+        ],
+        "soundEffectsIntensity": 2,
+        "soundEffectsCoverage": 1
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 1,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 1,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) High-energy electronic dance music begins immediately with a bright, synthesized lead melody. A female vocal sample exclaims 'Gwaenchana' with high arousal and positive valence. The beat is highly percussive with deep electronic kick drums and crisp claps, maintaining a tempo of approximately 128 BPM. (2) The rhythmic loop continues without interruption, featuring a repetitive four-on-the-floor beat structure. The female vocal repeats the single phrase at the start of the musical phrase, integrated perfectly into the EDM mix. The spectral brightness is high, emphasizing the sharp treble of the synths. (3) The audio remains consistent as the beat continues to drive the track forward. No ambient background noise or incidental sounds are audible, indicating a clean master track used for the production. The harmonic tension is low, focusing on a catchy and stable major-mode tonal progression. (4) A slight variation in the synth texture is heard as the melody loops, maintaining high emotional energy. The female vocal sample provides a rhythmic anchor for the audio track. The production style is polished and optimized for mobile broadcast, with limited dynamic range. (5) The track reaches its conclusion with the same high-tempo electronic pulse. The spectral density remains thick with layers of synthesizers and electronic percussion. The audio ends abruptly on a beat, maintaining a high level of intensity and clarity throughout the entire duration."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Meme / Trend",
+        "Dance",
+        "Short Video"
+      ],
       "location": {
         "country": [
           "Taiwan"
@@ -18,140 +244,20 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video starts indoors in a room with white walls and wooden cabinets; a young woman in a light blue oversized shirt-dress is flanked by two other girls; they perform a rhythmic dance with arm swings and side steps. (2) The scene cuts to an outdoor location in front of a green sign; the main girl dances with a young man while students watch from a balcony above. (3) The scene shifts to an outdoor parking area with several yellow school buses in the background; the girl is now accompanied by two young men as they continue the same dance routine. (4) The setting changes to a set of stairs outside a building; the girl dances with a group of four other young women. (5) The video moves to an open asphalt area; the girl performs the dance alone, ending with a close-up shot of her laughing and gesturing toward the camera.",
-      "audio_narrative_log": "(1) An upbeat electronic dance track begins immediately with a female voice saying \"Kenchana\" followed by a series of high-pitched \"ding\" sound effects. (2) The music maintains a steady, rhythmic beat with the vocal hook repeating at regular intervals. (3) The audio remains continuous and studio-quality throughout the transitions, with no ambient noise or on-site vocalizations audible over the track.",
-      "text_narrative_log": "(1) \"K 書中心\" (Functional Text: Signage on a building indicating a study center). (2) \"校長...\" (Functional Text: Partially visible name on the sign, likely a school official)."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 5,
+      "sceneCutCount": 4,
       "averageSceneDuration": 3.6,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro -> Location Montage -> Close-up Outro"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 16,
-      "maleDetectAmount": 6,
-      "femaleDetectAmount": 10,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Waist up"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 main female creator, 2 female dancers in intro, 1 male dancer in scene 2, 6 students in background, 2 male dancers in scene 3, 4 female dancers in scene 4.",
-      "mainCharacterDescription": "A young woman with dark hair in pigtails, wearing an oversized light blue long-sleeved shirt-dress, grey socks, and black chunky loafers."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Studio",
-          "Outdoor School",
-          "Parking Lot"
-        ],
-        "topography": [
-          "Plain"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "An indoor room with a whiteboard and cabinets, a school building exterior with a study center sign, a row of yellow and green school buses, and a wide asphalt parking area.",
-      "lightingStyle": "Mixed: Indoor fluorescent and bright outdoor natural daylight.",
-      "weather": "Sunny",
-      "season": "Unknown",
       "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "Low",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static"
-      ]
+      "isNarrativeShift": false
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "Bus"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Seamless",
-      "vocalRatio": "Medium"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 0,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Upbeat and rhythmic",
-        "pitch": "High",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Occasional narration",
-        "language": [
-          "Korean"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat/Electronic Pop",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Copyrighted Song"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Location A -> Location B -> Location C -> Outro",
-      "mainPurpose": "The video is a social media dance challenge or trend participation. It utilizes a montage of different locations within a school environment to show the main creator dancing with various peers to a specific viral audio track. The goal is to entertain and showcase the creator's personality and community.",
-      "visualEmotion": "Joyful and Energetic"
+      "narrativeStructure": "Montage: Introduction -> Variety of Scenes -> Conclusion",
+      "mainPurpose": "To participate in a viral dance trend ('Gwaenchana' challenge) by showcasing the routine in multiple visually distinct locations, likely to generate engagement on social media.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -163,9 +269,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Signature light blue shirt-dress and specific 'Kenchana' dance choreography.",
-      "freeDescribe": "The video leverages the popularity of a specific trend (likely the Kenchana/Ding-Ding trend) and effectively uses location cuts to keep the short duration engaging."
-    }
+    "freeDescribe": "The video uses a popular sound bite and dance move, characteristic of TikTok or Reels trends. The consistent use of the same blue outfit across different locations creates a visual anchor for the viewer."
   }
 }

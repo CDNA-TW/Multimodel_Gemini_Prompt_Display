@@ -1,166 +1,270 @@
 {
   "videoName": "2uncle987-20250311234240-1855561948426789.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 43,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "DIY",
-        "Tutorial",
-        "Comedy"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "None"
+      "visual_narrative_log": "(1) The video begins with a stylized red background featuring blurred calligraphy. A young woman with long dark hair and a black hoodie appears, smiling broadly. She holds a small red square with the character '福' and sticks it onto a grey metal safe or locker. (2) She holds up a larger red paper with '春' and cheerful text overlays appear. The setting is an indoor office or studio with shelves and posters in the background. (3) A sequence of close-up shots follows, showing her materials: a beige beauty blender, a purple-capped ink bottle, and blank red squares. She pours ink into a small jar and dips the pointed end of the beauty blender into it. (4) Detailed shots show her using the beauty blender as a stamp or brush to write '春' and '滿' on the red paper. Her hands have manicured nails. (5) She displays the finished couplets '平安' and '福' to the camera with a joyful expression. (6) She sticks the couplets on white cabinets and the grey safe. Animated gold coin icons and 'overflowing' text stickers emerge from the safe. (7) She poses for the camera making peace signs. (8) The final segment shows a 'fail' scene where a very large, slightly messy '招財進寶' calligraphy piece on red paper is compared to a reference on a smartphone screen.",
+      "text_narrative_log": "(1) [Logo]: 新年到! HAPPY NEW YEAR. (2) [Subtitle]: 這是我們的錢箱. (3) [Subtitle]: 今天來. [Slogan]: 用美妝蛋寫春聯. (4) [Subtitle]: 準備的材料有. [Variety]: 美妝蛋. [Variety]: 墨水. [Variety]: 空白春聯. (5) [Subtitle]: 尖頭位置沾墨水. (6) [Variety]: 平安. [Variety]: 福. (7) [Subtitle]: 滿出來. [Variety]: $$$. (8) [Variety]: 翻車現場. [Subtitle]: (不是字歪, 是紙太大型).",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only"
         ],
-        "city": [
-          "None"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman with long dark hair and a black hoodie smiles at the camera, holding a red paper with the character 'Chun' (Spring). (2) She sits at a wooden table, opens a bottle of dark ink, and dips a yellow beauty sponge into it. (3) Chronological shots show her hands with red glittery nail polish using the sponge to write Chinese characters on square red papers. (4) She holds up the finished papers 'Chun' and 'Man' (Full) with a celebratory 'V' gesture. (5) She attaches the papers to a grey safe and a white cabinet. (6) The final shot shows a close-up of a poorly written large character on red paper next to a smartphone showing a professional reference image, intended as a humorous fail.",
-      "audio_narrative_log": "(1) Upbeat, fast-paced festive Chinese-style music starts with a high-energy female voice speaking in an excited tone. (2) Sound effects like a 'pop' when opening the ink bottle and shimmering 'sparkle' sounds when she shows the results. (3) The background music maintains a consistent tempo throughout the DIY demonstration. (4) The female voice continues to narrate enthusiastically, peaking in volume during the reveal of the finished couplets. (5) Ambient indoor noise is minimal, masked by the BGM.",
-      "text_narrative_log": "(1) '新年到了 HAPPY NEW YEAR' - Festive hook. (2) '這是我們的錢箱' (This is our money box) - Functional context. (3) '今天來用美妝蛋寫春聯' (Today, let's write Spring Festival couplets with a beauty sponge) - Title/Hook. (4) '準備的材料有: 美妝蛋, 墨水, 空白春聯' (Prepared materials are: Beauty sponge, ink, blank couplets) - Functional instructions. (5) '滿出來' (Overflowing) - Decorative text appearing with money bag emojis. (6) '翻車現場...' (Fail scene/Accident scene) - Humorous effect text."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 18,
-      "averageSceneDuration": 2.3,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro Hook -> Tutorial/Process -> Result Reveal -> Humorous Outtake"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Hands only",
-        "Full body",
-        "Face"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "1 main female creator, 1 male passerby visible briefly in the background.",
-      "mainCharacterDescription": "A young Asian woman with long dark hair, wearing a black oversized hoodie and sporting red glittery nail polish."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Office",
-          "Studio"
+        "crowdLevel": [
+          "Duo"
         ],
-        "topography": [
-          "None"
+        "countingEvidence": "1 main female creator, 1 male colleague briefly visible in the background background during setup.",
+        "mainCharacterDescription": "A young woman with long, dark hair wearing a casual oversized black zip-up hoodie."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Office / Workplace"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "An indoor office or craft studio containing white cabinets, a grey metal safe, various toy figures on shelves, and a wooden table.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Warm and vibrant"
         ]
       },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "An indoor office or studio setting with wooden tables, white shelving units filled with figurines/collectors' items, a grey metal safe, and a white cabinet.",
-      "lightingStyle": "Bright indoor studio lighting",
-      "weather": "Indoor",
-      "season": "Winter (Lunar New Year context)",
-      "editingPace": "Fast",
-      "textOverlay": {
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium close-up",
+          "Close-up",
+          "Insert shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Top-down / overhead"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Fast cuts",
+          "Graphic transition",
+          "Meme-style edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
         "density": "High",
-        "language": [
+        "textLanguage": [
           "Traditional Chinese",
           "English"
         ],
         "isSubtitled": true
       },
-      "colorTone": "Warm and Vibrant",
-      "cameraWork": [
-        "Static",
-        "Close-up",
-        "Handheld"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone",
-        "Laptop"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Cheerful and excited",
-        "pitch": "High",
-        "loudness": "High",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Laptop"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Festive",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Percussion",
-        "Electronic",
-        "Strings"
-      ],
-      "instrumentsAudible": [
-        "Drums",
-        "Synthesizer",
-        "Erhu"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Sparkle SFX",
-        "Pop sound"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Liquid Pour / Splash",
+          "Mechanical Click / Latch"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Ding / Bell SFX",
+          "Cartoon / Comedy SFX",
+          "Pop / Bubble SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Stingers"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) High-energy synthesized electronic BGM starts immediately with a strong 4/4 beat. A bright, high-pitched female voice speaks with high arousal and fast delivery. (2) A clear liquid pouring sound (glug-glug) occurs as the narrator mentions materials, overlapping with a popping sound effect for text entry. (3) A soft percussive thud or squish sound accompanies the beauty blender hitting the paper, synced with the rhythmic BGM. (4) Frequent 'whoosh' and 'ding' sound effects mark fast visual transitions. (5) In the final phase, the main BGM cuts to a humorous, quirky accordion-like jingle to emphasize the 'blooper' or 'fail' context, accompanied by a slide-whistle SFX."
     }
   },
-  "high_inference_interpretations": {
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Tutorial / How-to",
+        "Meme / Trend",
+        "Vlog"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 24,
+      "averageSceneDuration": 1.79,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Tutorial -> Outcome -> Twist",
-      "mainPurpose": "To provide a creative and entertaining lifestyle hack for Chinese New Year, demonstrating how to use a common makeup tool (beauty sponge) as a calligraphy brush while maintaining a humorous and relatable persona through a 'fail' ending.",
-      "visualEmotion": "Energetic and Humorous"
+      "narrativeStructure": "List-based: Hook -> Introduction of Materials -> Process Demonstration -> Result Showcase -> Humorous Blooper.",
+      "mainPurpose": "To entertain and inform viewers about a creative, non-traditional 'hack' for writing Lunar New Year couplets using a makeup sponge (beauty blender) instead of a traditional brush.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -172,9 +276,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-energy presentation style, fast-cut editing synced to festive music, and a focus on 'life hacks'.",
-      "freeDescribe": "The video leverages the Lunar New Year cultural trend to engage viewers with a DIY activity that is both practical and comedic."
-    }
+    "freeDescribe": "The video utilizes high-density social media editing styles with rapid cuts and playful SFX to maintain high engagement."
   }
 }

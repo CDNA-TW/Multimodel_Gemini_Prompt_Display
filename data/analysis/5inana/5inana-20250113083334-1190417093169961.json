@@ -1,173 +1,271 @@
 {
   "videoName": "5inana-20250113083334-1190417093169961.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 6,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Lifestyle"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) The shot begins with a tight close-up on a person's mouth and right hand. The individual has dark pink lipstick and is sipping from a clear straw in a tall, terra-cotta colored paper cup with a white lid. They are wearing a vibrant yellow fleece jacket with a distinctive red and white checkered pattern on the inner lining of the hood. The background is a soft, warm blur. (2) The camera zooms out to reveal a medium close-up of a young woman with short black hair. She is wearing a tan aviator-style hat with earflaps, featuring the word 'ROXY' embroidered on the front. She continues to sip the drink while looking directly at the camera with a calm, neutral expression. The setting is revealed as a tea shop, with a wooden wall behind her displaying multiple circular, paper-wrapped tea cakes. A glowing yellow circular logo with a teapot icon and text is mounted on the wall to the left.",
+      "text_narrative_log": "(1) [Logo]: 一藝茶一. [Logo]: ROXY. [Slogan]: 香氣自家，一生相隨. [Slogan]: 普洱茶.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "One female main character holding a beverage cup.",
+        "mainCharacterDescription": "A young woman with short black hair and dark pink lipstick. She wears a bright yellow fleece jacket with a checkered hood and a tan aviator hat."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Cafe / Tea Shop"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A tea shop interior with a light-colored wooden wall. The wall is decorated with numerous circular 'Bing Cha' (tea cakes) wrapped in white paper. A bright, glowing yellow neon sign with a teapot icon and brand name is visible.",
+        "lightingStyle": [
+          "Warm indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Winter"
+        ],
+        "colorTone": [
+          "Warm and vibrant"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Zoom out"
+        ],
+        "shotSize": [
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "None"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Tea",
+          "Milk"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "ROXY",
+          "一藝茶一"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 2,
+        "pitchVariability": 2,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Casual"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Level"
+        ],
+        "speakingRisingRatio": 1,
+        "speakingFallingRatio": 1
+      },
+      "vocal_affective": {
+        "arousal": 4,
+        "valence": 5,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Lo-fi"
+        ],
+        "tempoBPM": 85,
+        "mode": [
+          "Major / Ionian"
+        ],
+        "keySignature": [
+          "Unknown"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Keyboard",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Liquid Pour / Splash"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 2,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 2,
+        "vocalRatio": 1,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 5,
+        "speechMusicOverlap": 1,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 2,
+        "audioCutFrequency": 0,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) A smooth lo-fi instrumental track begins with a steady electronic drum beat and soft synthesizer chords. A male voice with a clear, neutral tone speaks in Mandarin, briefly detailing a beverage order including 'winter melon fresh milk' and sugar levels. The background features a very faint room tone, consistent with a clean indoor shop environment. (2) The voice ceases, and the lo-fi music continues as the sole audio element. The rhythm is consistent and the spectral balance is warm, with no sharp transients or disruptive noises. The track maintains its volume and tempo until the audio concludes, providing a relaxing and steady acoustic backdrop."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Vlog"
+      ],
       "location": {
         "country": [
-          "China"
+          "Unknown"
         ],
         "city": [
           "Unknown"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video begins with an extreme close-up of a young woman's face and hands as she drinks through a straw from a brown branded paper cup. She is wearing a bright yellow jacket. (2) The camera slowly zooms out to reveal her wearing a tan trapper hat. She maintains eye contact with the camera with a neutral, calm expression while continuing to sip. (3) The background is revealed to be a wooden wall in a tea shop, decorated with circular tea cakes on shelves and a large circular logo featuring a tea leaf icon.",
-      "audio_narrative_log": "(1) Upbeat, medium-tempo electronic pop music with a steady drum beat plays continuously from the start. (2) Very faint background ambient noise of a public indoor space is audible beneath the music. (3) No vocals or speech are detected throughout the clip.",
-      "text_narrative_log": "(1) Functional Text: '自然。每一滴都是好茶' appearing on the paper cup, emphasizing product quality. (2) Functional Text: '一整杯' and '茶' visible on the background logo, identifying the establishment as a tea shop. The tone of the text is informative and branding-oriented."
-    },
     "temporal_pacing_summary": {
       "sceneCutCount": 0,
       "averageSceneDuration": 6.0,
-      "isNarrativeShift": false,
-      "mainActionFlow": "A single continuous shot featuring a slow zoom-out from a product close-up to a medium character portrait."
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
     },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Face",
-        "Hands",
-        "Upper body"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main female character is clearly visible in the center of the frame.",
-      "mainCharacterDescription": "A young woman with short dark hair, wearing a tan trapper hat with 'ROXY' branding, a white inner shirt, and a bright yellow oversized jacket with a red and white checkered hood lining."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Tea Shop",
-          "Indoor"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A modern indoor tea shop environment with light-colored wooden paneling, shelves holding wrapped pu-erh tea cakes, and a circular glowing logo for the brand.",
-      "lightingStyle": "Soft, warm indoor studio lighting.",
-      "weather": "None",
-      "season": "Unknown",
-      "editingPace": "Slow",
-      "textOverlay": {
-        "density": "None",
-        "language": [
-          "Chinese"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "Warm and vibrant, dominated by the bright yellow of the jacket and the natural wood tones of the background.",
-      "cameraWork": [
-        "Zoom"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Tea"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "ROXY",
-        "一整杯"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "None",
-      "vocalRatio": "None"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 0,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "None",
-        "pitch": "None",
-        "loudness": "None",
-        "speed": "None",
-        "speechDensity": "None",
-        "language": [
-          "None"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop",
-      "bgmBPM": 115,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Cafe"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Detail -> Context",
-      "mainPurpose": "This is a lifestyle brand promotion video. It uses a high-contrast visual (the bright yellow jacket) and a slow reveal to draw attention to the creator enjoying a beverage from the '一整杯' tea brand, effectively creating an aspirational and cozy atmosphere for the product.",
-      "visualEmotion": "Cozy, Trendy, Calm"
+      "narrativeStructure": "Linear: Hook -> Observation",
+      "mainPurpose": "The video captures a casual, aesthetic moment of a young woman enjoying a specialty beverage at a traditional tea shop. The intent is likely to share a slice-of-life experience or lifestyle highlight, emphasizing the warm atmosphere of the shop and the visual appeal of the character's style.",
+      "visualEmotion": [
+        "warm",
+        "calm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
         "Implicit",
-        "Full"
+        "Integrated"
       ],
-      "endorsementCues": "The video focuses entirely on the character consuming the branded product while positioned directly in front of the brand's logo in a physical store location.",
+      "endorsementCues": "The prominent display of the shop logo '一藝茶一' and the tea products in the background suggest an endorsement of the establishment.",
       "endorsementObject": [
-        "一整杯"
+        "一藝茶一"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Signature yellow jacket and Roxy hat combination, calm and steady gaze at the camera while drinking.",
-      "freeDescribe": "The video utilizes 'ASMR-lite' visual cues (focus on the straw/mouth) combined with fashion-forward clothing to appeal to young, urban tea consumers."
-    }
+    "freeDescribe": "The video uses a single continuous take with a smooth zoom-out to transition from a detail shot to a character portrait, creating a professional and polished vlog-style aesthetic."
   }
 }

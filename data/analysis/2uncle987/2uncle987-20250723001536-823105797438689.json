@@ -1,174 +1,281 @@
 {
   "videoName": "2uncle987-20250723001536-823105797438689.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 9,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Humor",
-        "Family"
-      ],
+      "videoDuration": 8,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A woman in a white tank top and orange leggings stands behind a boy with glasses in a green and blue striped shirt. She guides his hands as they stir a thick yellow batter in a large stainless steel bowl in a brightly lit modern kitchen. (2) The scene cuts to the woman, the boy, and a younger girl in a white shirt standing together at a kitchen counter. They are flattening dough under plastic wrap using their hands and a yellow rolling pin. (3) The boy is now sitting on the wooden floor, focused on using a white electric hand mixer to blend ingredients in a metal bowl. The mother's bare feet are visible standing nearby on the floor. (4) A horizontal split-screen appears; the top section shows the children playfully wrestling and piling on each other on the floor in a living room area, while the bottom section shows the mother sifting flour into a bowl. (5) The mother is seen at a table filled with many bags, water bottles, and baking tools, working diligently. (6) The mother rolls out yellow dough on a pink mat, looking up at the camera and laughing heartily. Several pink flower-shaped cookie cutters are spread across the table. (7) A large, stylized black and white text overlay appears in the center of the frame over the mother's laughing face, covering her features briefly.",
+      "text_narrative_log": "(1) [Slogan]: 你以為 親子同樂溫馨畫面. (2) [Slogan]: 實際上 小孩呢？ (3) [Subtitle]: 我以為是很溫馨的畫面. (4) [Variety]: 沒有.",
+      "visual_human_presence": {
+        "totalHumanCount": 3,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 2,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Full body",
+          "Face",
+          "Hands only",
+          "Feet / Legs"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 adult female (mother), 1 male child (son), 1 female child (daughter).",
+        "mainCharacterDescription": "A woman with her hair in a messy bun, wearing a white ribbed tank top with a small cartoon logo and orange athletic pants."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home",
+          "Indoor Kitchen",
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A modern home interior featuring a clean kitchen with white cabinetry, a large kitchen island, and an adjacent living room area with a light-colored sofa and large windows showing an outdoor urban or suburban view.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Medium close-up",
+          "Full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "High angle"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Split-screen",
+          "Graphic transition"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Bread / pastry",
+          "Dessert / cake / cookies",
+          "Beverage / juice"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Home appliance"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 3,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 2
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Casual",
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Acoustic/Folk"
+        ],
+        "tempoBPM": 115,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Keyboard",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Piano"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter",
+          "Screaming/Yelling"
+        ],
+        "crowdNoiseIntensity": 3,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Mechanical Click / Latch"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 2,
+        "vocalRatio": 3,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 3,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Mixed"
+        ]
+      },
+      "audio_narrative_log": "(1) A cheerful, mid-tempo piano melody starts with a simple major-key chord progression. The acoustic texture is bright and clean. (2) As the music continues, a prominent mechanical whirring sound of a handheld mixer enters, sustained for approximately two seconds. (3) The background music maintains its steady rhythm, but is suddenly accompanied by high-pitched, energetic screams and laughter from children, indicating a shift to high-arousal activity. (4) A clear female voice speaking Mandarin narrates, '我以為是很溫馨的畫面' (I thought it was a very warm scene), with a conversational and slightly humorous inflection. (5) The woman's speech is followed immediately by her own short, melodic laugh as the music continues to play until the track abruptly cuts out at the end of the video."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Lifestyle",
+        "Family / Kids"
+      ],
       "location": {
         "country": [
           "Unknown"
         ],
         "city": [
-          "None"
+          "Unknown"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video starts with a woman in a white tank top helping a young boy in a green and blue striped shirt mix dough in a large metal bowl on a kitchen counter. (2) The scene cuts to multiple children and the woman using pink cookie cutters on yellow dough spread across the table. (3) A sudden transition shows two boys wrestling on the floor in a living room area, with one child climbing on top of another who is face-down. (4) A split-screen appears: on the left, the woman is seen working with dough, and on the right, a young girl is smiling while playing with a plastic container and straw. (5) Finally, the woman is seen laughing while rolling out dough on a table covered with kitchen supplies.",
-      "audio_narrative_log": "(1) Upbeat, high-tempo pop/remix music starts immediately with rhythmic percussion. (2) Sounds of children's excited shouting and laughter are heard over the music. (3) A female voice (the woman) is heard laughing and speaking in Mandarin with a cheerful, slightly overwhelmed tone. (4) The music continues at a consistent volume until the end.",
-      "text_narrative_log": "(1) Functional Text: '你以為 親子同樂溫馨畫面' (You thought it was a warm parent-child scene) appears in yellow, setting up a contrast. (2) Decorative/Hook Text: '實際上 小孩呢？' (Actually, where are the kids?) appears at the top, marking a shift in the video's focus. (3) Functional Text: '我以為是很溫馨的畫面' (I thought it was a very warm scene) appears at the bottom. (4) Hook Text: '沒有' (None/No) appears in large, bold black characters to emphasize the humorous reality."
     },
     "temporal_pacing_summary": {
-      "sceneCutCount": 5,
-      "averageSceneDuration": 1.8,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro -> Reality Contrast -> Humorous Conclusion"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 4,
-      "maleDetectAmount": 2,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 3,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 main female adult, 1 boy in striped shirt, 1 girl in white shirt, 1 boy in red shirt.",
-      "mainCharacterDescription": "A woman with her hair tied up in a bun, wearing a white tank top and red leggings."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Kitchen",
-          "Living Room"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A modern home interior with a clean kitchen counter, white cabinets, and a living room with a white sofa and large windows.",
-      "lightingStyle": "Natural light",
-      "weather": "Indoor",
-      "season": "Unknown",
+      "sceneCutCount": 6,
+      "averageSceneDuration": 1.3,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Handheld"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Dough",
-        "Cookies"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "妙潔"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "Medium"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 3,
-        "backgroundCrowdVoices": 2,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 2
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Cheerful and chaotic",
-        "pitch": "High-pitched",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Occasional narration",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Social Media Remix",
-      "bgmBPM": 120,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Copyrighted Song"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Field Recording"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Expectation -> Subversion -> Reality",
-      "mainPurpose": "The video aims to humorously contrast the 'Instagrammable' expectation of family baking with the chaotic and messy reality of parenting. It uses a series of quick cuts showing the transition from a calm activity to children wrestling and the mother laughing at the lack of the 'ideal' scene. This is likely an implicit endorsement for '妙潔' baking supplies by showing them in use during a relatable domestic scenario.",
-      "visualEmotion": "Humorous and Energetic"
+      "narrativeStructure": "Linear: Expectation -> Reality",
+      "mainPurpose": "The video uses a humorous contrast to depict the reality of 'parent-child bonding' through baking. It starts with scenes of cooperation and focus, then shifts to showing the chaos of children playing while the mother is left with the actual work and a messy kitchen, aiming to evoke relatability and amusement from other parents.",
+      "visualEmotion": [
+        "humorous",
+        "energetic",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
-      "isEndorsement": true,
+      "isEndorsement": false,
       "endorsementMethod": [
-        "Implicit",
-        "Full"
+        "None"
       ],
-      "endorsementCues": "Prominent placement of '妙潔' (Miao Jie) products (plastic wrap/baking paper) on the counter during a lifestyle vlog.",
+      "endorsementCues": "None",
       "endorsementObject": [
-        "妙潔"
+        "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Reality-check parenting humor",
-      "freeDescribe": "The video leverages a popular social media trope of showing 'Expectation vs. Reality' to create engagement and relatability for parents."
-    }
+    "freeDescribe": "The video relies heavily on the 'Expectation vs. Reality' trope, using fast cuts and a split-screen to emphasize the comedic discrepancy between the idealized baking session and the actual chaotic behavior of the children."
   }
 }

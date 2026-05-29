@@ -1,15 +1,257 @@
 {
   "videoName": "yga0721-20250815212818-1254296250142147.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 109,
-      "aspectRatio": "9:16",
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The scene begins inside a car. A woman with braided hair sits in the passenger seat holding a pastry, while a man in a white t-shirt sits beside her. The man suddenly leans over and bites into the woman's pastry, causing her to react with shock and anger. (2) The setting shifts to the exterior of a bakery called 'Ruyi Sunny Cake.' The man, now wearing a yellow cardigan, runs excitedly toward the entrance, pointing at the large brand signage and promotional posters on the wall. (3) Inside the brightly lit store, the man encounters an elderly chef in a white uniform and tall chef's hat. They engage in a dynamic conversation with large, exaggerated hand gestures and expressive facial reactions. (4) The visuals move to a professional kitchen area where the chef demonstrates the process of rolling dough and shaping pastries. Extreme close-ups highlight the texture of the charcoal-colored dough and the creamy fillings inside. (5) Multiple product showcase shots follow, featuring layers of golden-brown sun cakes and dark truffle pastries stacked on plates, with cutaway views revealing melting lava interiors. The video concludes with the man walking through the store carrying several shopping bags.",
+      "text_narrative_log": "(1) [Variety]: ！！！！！. [Subtitle]: 欸你很煩欸. (2) [Logo]: 如邑堂. [Slogan]: 五屆太陽餅冠軍. (3) [Subtitle]: 這裡啦! 就是這間! 太陽餅得過5屆冠軍. (4) [Variety]: 急躁. [Variety]: 穩重. (5) [Subtitle]: 120層純手工黃金比例. [Subtitle]: 最新選用義大利頂級野生松露. (6) [Subtitle]: 餡金流蛋黃酥. [Slogan]: 送禮就選五屆太陽餅冠軍如邑堂.",
+      "visual_human_presence": {
+        "totalHumanCount": 4,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 male main creator, 1 female character in car, 1 male chef, and 1 female staff member visible in the background kitchen.",
+        "mainCharacterDescription": "The main man is wearing a white t-shirt initially, later a vibrant yellow textured cardigan over a white shirt with light grey trousers. The chef wears a standard white culinary uniform with a white cap and purple gloves."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Car / Van Interior",
+          "Retail Store",
+          "Indoor Kitchen"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The video moves from a modern car interior to a spacious, well-lit bakery retail space with wooden displays and finally into a clean, stainless-steel industrial kitchen.",
+        "lightingStyle": [
+          "Bright indoor lighting",
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Warm and vibrant"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Panning",
+          "Zoom in"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Extreme close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "High angle"
+        ],
+        "editingTechniques": [
+          "Jump cut",
+          "Fast cuts",
+          "Graphic transition",
+          "Slow motion"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Dessert / cake / cookies",
+          "Bread / pastry",
+          "Egg"
+        ],
+        "trafficDetect": [
+          "Car"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "如邑堂",
+          "Sun Cake des Rois"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 3,
+        "male_vocal_count": 2,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Professional/Narrative",
+          "Comedic/Exaggerated"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Synthesizer",
+          "Percussion",
+          "Keyboard"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Object Impact / Thud / Drop",
+          "Food Bite / Crunch"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Cartoon / Comedy SFX",
+          "Meme SFX",
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Stingers"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a high-tempo, upbeat synth-pop track. A sudden sharp gasp and high-pitched female scream of protest trigger the first phase, overlaid with comedic 'boing' sound effects. (2) The man's voice enters with extremely high arousal and a rapid speech rate, delivering a loud, enthusiastic promotional pitch. (3) A digital 'ding' sound marks a shift to the store interior. The male speaker's tone becomes slightly more narrative but remains high-energy as he greets the chef. (4) The chef's voice provides a lower-pitched, calmer acoustic contrast, speaking with a steady, authoritative professional rhythm. (5) Crunching sound effects with high spectral brightness are used during pastry close-ups, accompanied by a swelling BGM volume and rhythmic whooshes for transitions between product shots."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
         "Vlog",
-        "Comedy",
-        "Promotion"
+        "Food Review",
+        "Promotion / Advertisement / Indoresment"
       ],
-      "withRealPeople": true,
       "location": {
         "country": [
           "Taiwan"
@@ -19,152 +261,20 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A man in a white t-shirt and a woman in a striped shirt are inside a car; they are arguing intensely with exaggerated facial expressions, and the man appears to be eating something that belongs to the woman. (2) The scene shifts to the man, now wearing a yellow overshirt, standing excitedly in front of a shop called 'Ruyi Sunny Cake' (如邑堂). (3) He enters the shop and interacts with an elderly pastry chef (Master A-ming), gesturing wildly. (4) The video transitions to a kitchen workshop where the man and the chef are preparing 'Truffle Sunny Cakes' with detailed close-ups of the pastry layers and ingredients like black truffle and dough being rolled. (5) A series of close-up product shots follow, showing different flavors of pastries being sliced or broken open to reveal fillings. (6) The man is seen tasting the pastries with highly emotional, positive reactions. (7) Finally, the man is shown leaving the shop carrying multiple branded gift bags.",
-      "audio_narrative_log": "(1) Fast-paced, upbeat, and comical music plays throughout. Loud, shouting voices of a male and female arguing in Mandarin and Taiwanese Hokkien dominate the start. (2) The male voice becomes high-pitched and enthusiastic, introducing the shop with high energy. (3) Sounds of dough being rolled and kitchen activity are layered with the energetic BGM. (4) A deeper, older male voice (the master) explains the pastry-making process in a friendly and professional tone. (5) Frequent comical sound effects (SFX) like pops and dings emphasize specific actions or text reveals. (6) The music remains consistent in tempo until a final crescendo at the end.",
-      "text_narrative_log": "(1) Decorative text: '!!!!!' and variety-show style captions like '好吃啊' (So delicious) and '去台中' (Go to Taichung) appear to emphasize the argument. (2) Functional text identifies the shop: '如邑堂' and its accolades: '五屆太陽餅冠軍' (5-time Sunny Cake Champion). (3) Product feature text: '120層純手工 黃金比例' (120 layers handmade, golden ratio), and descriptions of ingredients like '義大利頂級野生松露' (Top Italian wild truffles). (4) Product name labels: '松露太陽餅', '法式國王太陽餅', '抹茶', etc. (5) Closing hook text: '送禮就選 五屆太陽餅冠軍 如邑堂' (Choose the 5-time champion for gifts)."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 48,
-      "averageSceneDuration": 2.27,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro conflict in car -> Journey to the shop -> Behind-the-scenes production -> Product showcase and tasting -> Outro/CTA."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 4,
-      "maleDetectAmount": 2,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Face"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 main male creator, 1 female in the car, 1 master chef, and 1 female kitchen assistant visible in the background at 00:49.",
-      "mainCharacterDescription": "A young Asian male with reddish-brown hair, wearing a white t-shirt then a yellow short-sleeved overshirt; an older Asian male (the master) wearing a white chef uniform and hairnet."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Car Interior",
-          "Outdoor Street",
-          "Bakery",
-          "Commercial Kitchen"
-        ],
-        "topography": [
-          "Plain"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "The interior of a modern car; the exterior of a 'Ruyi Sunny Cake' storefront; the brightly lit, clean interior of a retail pastry shop; and a professional kitchen workshop with stainless steel tables and baking equipment.",
-      "lightingStyle": "Bright, even studio and natural lighting.",
-      "weather": "Sunny",
-      "season": "Summer",
+      "sceneCutCount": 42,
+      "averageSceneDuration": 2.6,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "High Saturation",
-      "cameraWork": [
-        "Static",
-        "Follow shot",
-        "Close-up",
-        "POV"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Sunny Cake",
-        "Egg Yolk Pastry",
-        "Truffle",
-        "Dough"
-      ],
-      "trafficDetect": [
-        "Car"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "如邑堂"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut with SFX",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 3,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 2,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Energetic and humorous",
-        "pitch": "High",
-        "loudness": "Loud",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin",
-          "Taiwanese Hokkien"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Cartoon SFX",
-        "Ding",
-        "Whoosh"
-      ],
-      "ambientNoise": [
-        "Car interior noise",
-        "Kitchen activity"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Conflict -> Solution -> Demonstration -> CTA",
-      "mainPurpose": "The video is a humorous commercial vlog designed to promote 'Ruyi Sunny Cake'. It uses a relatable conflict (a husband eating his wife's food) as a hook to lead the audience to the shop in Taichung. The narrative then shifts to showcase the high-quality, handmade nature of the products, specifically highlighting the 'Truffle Sunny Cake' and other varieties to drive sales and brand awareness.",
-      "visualEmotion": "Energetic"
+      "narrativeStructure": "Montage: Hook -> Discovery -> Demonstration -> Product Showcase -> CTA",
+      "mainPurpose": "The video aims to promote 'Ruyi Sunny Cake' by using a comedic skit as a hook (the car scene) to lead the viewer to the bakery's Taichung location. It highlights the quality of their pastries through expert endorsement (the chef) and visual 'food porn' close-ups of luxury ingredients like truffles.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "informative"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -172,14 +282,11 @@
         "Explicit",
         "Full"
       ],
-      "endorsementCues": "The entire video centers around the brand '如邑堂', featuring the creator visiting the shop, interacting with the staff, and reviewing the products in a promotional manner.",
+      "endorsementCues": "Direct mention of the brand name, filming at the storefront, featuring the head chef, and listing product features with price-like slogans.",
       "endorsementObject": [
         "如邑堂"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Exaggerated facial expressions and rapid-fire Taiwanese-Mandarin code-switching.",
-      "freeDescribe": "The video combines high-intensity editing and variety-show elements (text effects, sound effects) to maintain viewer engagement for a commercial message."
-    }
+    "freeDescribe": "The video uses a high-arousal social media editing style with frequent meme sound effects to maintain viewer engagement during a commercial promotion."
   }
 }

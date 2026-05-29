@@ -1,177 +1,270 @@
 {
   "videoName": "3ctim-20250809190132-2554317405003752.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 59,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Commentary",
-        "Vlog",
-        "Technology"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "Taiwan"
+      "visual_narrative_log": "(1) A middle-aged man with glasses and a patterned flat cap sits in a brightly lit indoor space, speaking directly toward the camera. He wears a green t-shirt and several colorful bracelets on his left wrist. The background is a soft-focus living room with neutral curtains. (2) A screen capture of a music player interface appears on the screen, prominently showing a song titled 'Dust on the Wind' by 'The Velvet Sundown' on the Spotify platform. The background of the digital player displays a grainy, silhouetted figure walking in a field with birds flying overhead. (3) The man returns to the frame, gesturing actively with his hands as he continues his narration. Large Traditional Chinese text overlays appear at the bottom, and a circular Spotify logo is shown briefly on his right side. (4) A short, blue-tinted clip of a rock band performing live shows musicians in silhouette against bright stage lights and smoke, creating a concert-like atmosphere. (5) Back to the man's close-up shot. Various graphics like a red 'certified' stamp icon and stylized icons for music notes and pencils appear near his head as he speaks about song creation. (6) The man continues his explanation of the AI music controversy, moving his hands frequently to emphasize his points. More dynamic text overlays appear to describe the ethical concerns and the impact on original creators. (7) A final shot of the man pointing his index finger towards the camera lens, with a closing question in text appearing at the bottom of the frame.",
+      "text_narrative_log": "(1) [Logo]: 3c意思tim哥. [Logo]: @3ctim. [Subtitle]: 你聽過這首. (2) [Slogan]: Spotify上爆紅的歌嗎. (3) [Subtitle]: 這首近期在 Spotify 上面爆紅!. (4) [Subtitle]: 就發行兩張專輯的 獨立迷幻搖滾樂團 The Velvet Sundown. (5) [Variety]: 認證. (6) [Subtitle]: 他們的來歷引發了音樂界的質疑. (7) [Subtitle]: 因為透過多個音樂串流平台的AI辨識工具發現他們的歌曲均是 出自AI之手!. (8) [Subtitle]: 而且該樂團的官方臉書也證實了這項消息. (9) [Subtitle]: 承認所有的音樂、歌詞、甚至於視覺內容都是由AI所生成的. (10) [Subtitle]: 帶來了疑問 更多大家對於AI生成人聲 還有旋律的爭議. (11) [Subtitle]: 自2023年以來 許多主流AI的語音的程式 未經同意 便去模仿知名歌手 創作未授權的歌曲. (12) [Subtitle]: 雖然成功吸引了大量點閱 但也被質疑說這種行為 是對原創音樂的盜竊. (13) [Subtitle]: 除此之外 AI音樂的爆紅 似乎也間接抹殺了 音樂創作者 多年的努力寫歌. (14) [Subtitle]: 所以也不敵這類缺乏靈魂的AI歌手. (15) [Subtitle]: 那你怎麼認為呢?",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Head and shoulders",
+          "Hands only",
+          "Face"
         ],
-        "city": [
-          "None"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A middle-aged man with glasses and a checkered cap, wearing a green polo shirt, speaks directly to the camera with active hand gestures. (2) The screen transitions to a music player interface showing the song 'Dust on the Wind' by 'The Velvet Sundown' with scrolling lyrics over a sunset background. (3) The man returns to the frame, explaining the origin of the band while icons for Spotify and AI-generated content appear around him. (4) A brief clip of a rock band in silhouette against a smoky blue light is shown. (5) The man continues his explanation, accompanied by various graphic overlays: a 'verified' stamp, music note icons, a 'thief' cartoon sticker, and a red 'X' mark. (6) The video concludes with the man pointing his finger toward the camera as if asking a question.",
-      "audio_narrative_log": "(1) A middle-aged male voice speaks with an enthusiastic and steady tone. (2) A rock song begins, featuring deep male vocals, distorted electric guitar, and steady drums. (3) The song fades out as the male narrator resumes his fast-paced, informative speech. (4) Occasional subtle sound effects accompany the appearance of on-screen graphics, while the main audio remains the narrator's voice with minimal ambient studio noise.",
-      "text_narrative_log": "(1) '你聽過這首 Spotify 上爆紅的歌嗎' - Hook asking if the viewer has heard a viral song. (2) 'The Velvet Sundown - Dust on the Wind' - Functional text identifying the song and artist. (3) '出自 AI 之手！' - Hook highlighting that the music was made by AI. (4) '音樂、歌詞、甚至於視覺內容都是由 AI 所生成的' - Functional description explaining all content is AI-generated. (5) '未經同意' - Hook emphasizing lack of consent. (6) '是對原創音樂的盜竊' - Hook labeling the act as theft of original music. (7) '那你怎麼認為呢？' - Functional call to action asking for viewer opinions."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 11,
-      "averageSceneDuration": 5.36,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Hook -> Song Demonstration -> Revelation of AI Origin -> Ethical Discussion -> Outro/Question"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Head and shoulders",
-        "Hands"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main male creator (3c Tim) on screen throughout most of the video.",
-      "mainCharacterDescription": "A middle-aged Asian man with short hair, wearing a green polo shirt, a tan/orange/white checkered newsboy cap, and thick-rimmed glasses."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Studio",
-          "Living Room"
+        "crowdLevel": [
+          "Single"
         ],
-        "topography": [
+        "countingEvidence": "One male narrator is present throughout the majority of the video.",
+        "mainCharacterDescription": "A middle-aged man wearing glasses, a green t-shirt, and a two-toned flat cap with stripes."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home"
+        ],
+        "locationTopography": [
           "None"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A blurred residential interior with a warm white curtain and soft ambient light, interspersed with screen captures of Spotify and concert footage.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
         ]
       },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A blurred indoor domestic setting with a neutral-colored wall and a glimpse of a grey curtain.",
-      "lightingStyle": "Intense studio lights",
-      "weather": "Unknown",
-      "season": "Unknown",
-      "editingPace": "Fast",
-      "textOverlay": {
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Graphic transition"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
         "density": "High",
-        "language": [
-          "Chinese",
+        "textLanguage": [
+          "Traditional Chinese",
           "English"
         ],
         "isSubtitled": true
       },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone",
-        "Microphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Spotify",
-        "Roots",
-        "3c有意思tim哥"
-      ],
-      "instrumentsVisible": [
-        "Electric Guitar",
-        "Drums"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade and Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 2,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Steady and professional",
-        "pitch": "Normal",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Chinese"
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Bird"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Microphone / lavalier mic"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Spotify"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Rock",
-      "bgmBPM": 115,
-      "instrumentFamiliesAudible": [
-        "Strings",
-        "Percussion",
-        "Electronic"
-      ],
-      "instrumentsAudible": [
-        "Electric Guitar",
-        "Drums"
-      ],
-      "musicSourceType": [
-        "Copyrighted Song"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "Cartoon SFX"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 2,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Level"
+        ],
+        "speakingRisingRatio": 2,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 5,
+        "valence": 5,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Rock/Metal"
+        ],
+        "tempoBPM": 110,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 1,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "English"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "String",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Guitar",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Pop / Bubble SFX",
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 2,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 1,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A male voice speaks in Mandarin with a clear, engaging, and professional tone. The speech rate is moderate. Low-volume acoustic guitar background music provides a steady rhythm throughout the introduction phase as the speaker addresses the camera directly. (2) A sharp transition occurs to a snippet of a rock song. A male singer's voice is heard with moderate vocal arousal, accompanied by strummed acoustic guitar and a steady drum beat. (3) The primary narrator returns. A soft, high-pitched 'ding' sound effect plays as a visual graphic appears on screen. The narrator's pitch remains stable with natural conversational pauses as he discusses the Spotify chart success. (4) A short burst of energetic live band sound with distorted electric guitars and loud drumming transitions back to the narrator. (5) The narrator continues explaining the AI music controversy. The BGM remains consistent and low. Another soft 'pop' SFX is heard as more informative graphics are introduced. (6) The video concludes with the narrator's final question to the audience, followed by a slight fade in the background music track as the audio ends."
     }
   },
-  "high_inference_interpretations": {
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Tech News / Commentary",
+        "Music / Performance / MV"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 4.2,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Demonstration -> Investigation -> Controversy -> CTA",
-      "mainPurpose": "The video aims to inform the audience about a specific viral band on Spotify that was discovered to be entirely AI-generated. It explores the controversy surrounding AI mimicking real artists without consent and questions whether such content constitutes music 'theft' or a lack of soul, ultimately seeking viewer engagement on the ethics of AI in the creative industry.",
-      "visualEmotion": "Energetic"
+      "narrativeStructure": "Linear: Hook -> Case Presentation -> Conflict Analysis -> Critical Questioning",
+      "mainPurpose": "The video informs the audience about a controversy involving an AI-generated rock band, 'The Velvet Sundown,' on Spotify. It explores the implications of AI technology in the music industry, raising questions about authorship, ethical imitation of human voices, and the potential displacement of original human creators.",
+      "visualEmotion": [
+        "informative",
+        "energetic",
+        "serious"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
       "endorsementMethod": [
         "None"
       ],
-      "endorsementCues": "The video is a commentary piece; though brands like Spotify are mentioned, it is for topical context rather than promotion.",
+      "endorsementCues": "None",
       "endorsementObject": [
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "The creator uses a distinctive checkered cap and '3ctim' branding icons in the top corners.",
-      "freeDescribe": "The high density of variety-show style stickers and text overlays suggests this is targeted at a social media audience (like Reels or TikTok) used to fast-paced information delivery."
-    }
+    "freeDescribe": "This video is a standard short-form social media commentary piece, utilizing high-density visual text and professional audio editing to deliver a complex topic in an accessible format."
   }
 }

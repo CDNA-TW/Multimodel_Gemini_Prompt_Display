@@ -1,162 +1,260 @@
 {
   "videoName": "3ctim-20260103235619-1971451643808436.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 53.0,
-      "aspectRatio": "1:1",
-      "videoGenre": [
-        "Concert",
-        "Performance",
-        "Music Video"
-      ],
+      "videoDuration": 53,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "Taiwan"
+      "visual_narrative_log": "(1) A woman with long, wavy reddish-brown hair stands on a stage platform. She wears an intricate white costume featuring a structured corset, translucent fabrics, long gloves, and knee-high lace-up boots, complemented by a long, sheer white cape. She holds a black microphone close to her face, her expression gentle and reflective. The background consists of a massive, dark arena filled with thousands of tiny blue lights from audience lightsticks. (2) At a transition point, white confetti or glitter begins to fall from above. The woman smiles broadly, opening her arms wide in a welcoming gesture towards the audience. She begins to move rhythmically, pointing her finger and swaying her body. (3) The camera follows her as she turns gracefully, her long cape billowing behind her. She faces the side and then the back, revealing the full silhouette of her outfit against the sea of blue lights. Her movements are fluid and expressive as she continues her stage performance. (4) She remains on the elevated platform, looking out over the crowd while gesturing with her free hand, the lighting shifting slightly to emphasize her presence in the center of the arena.",
+      "text_narrative_log": "None",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face"
         ],
-        "city": [
-          "Taipei"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A female singer with long, wavy blonde hair and white-rimmed glasses stands on a stage in a large arena. She is dressed in a white corset-style outfit featuring fringe details, a long flowing white cape, and white lace-up boots. She holds a microphone and addresses the crowd with a calm expression. (2) Around the 0:23 mark, the singer raises her arms wide as purple and white confetti begins to rain down on the stage. She shifts from a standing position to more active movement, singing with an energetic and joyful expression. (3) As the performance continues, she turns her back to the camera, showcasing the length and flow of her cape while audience members in the background wave blue light sticks.",
-      "audio_narrative_log": "(1) A female voice speaks in Mandarin with a sincere and emotional tone. The soundscape is dominated by her voice with ambient arena noise and low-level crowd chatter in the background. No music is present. (2) At 0:23, high-energy pop-rock music begins abruptly with strong percussion and electric guitar riffs. The female speaker transitions to singing in a powerful, high-pitched tone. (3) The crowd's cheering and screaming significantly increase in volume, blending with the loud, upbeat music and the singer's vocals for the remainder of the clip.",
-      "text_narrative_log": "None"
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 1,
-      "averageSceneDuration": 26.5,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro Speech -> High-energy Musical Performance"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body"
-      ],
-      "crowdLevel": "Crowd",
-      "countingEvidence": "1 main female singer; a large crowd of fans is visible as light points in the background.",
-      "mainCharacterDescription": "Female with long wavy blonde hair, wearing white glasses, a white corset outfit with fringes, a long translucent white cape, and white thigh-high boots."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Arena",
-          "Stage"
+        "crowdLevel": [
+          "Single"
         ],
-        "topography": [
+        "countingEvidence": "One main female performer on stage.",
+        "mainCharacterDescription": "A woman with long reddish-brown hair dressed in an elaborate white corset-style stage outfit with a long cape and white boots."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Stage / Performance Venue"
+        ],
+        "locationTopography": [
           "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A large concert arena at night, with a vast audience visible as a dense field of glowing blue lightsticks.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Cool tone"
         ]
       },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A massive indoor arena filled with thousands of fans holding glowing blue light sticks. Large LED screens are visible in the distance.",
-      "lightingStyle": "Dramatic stage lighting with a follow spot on the performer and ambient blue light from the audience.",
-      "weather": "Indoor",
-      "season": "Unknown",
-      "editingPace": "Moderate",
-      "textOverlay": {
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Panning",
+          "Tracking shot"
+        ],
+        "shotSize": [
+          "Medium full shot",
+          "Full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
         "density": "None",
-        "language": [
+        "textLanguage": [
           "None"
         ],
         "isSubtitled": false
       },
-      "colorTone": "Cinematic with high contrast between the white stage outfit and the blue arena lighting.",
-      "cameraWork": [
-        "Static",
-        "Follow shot"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Microphone",
-        "LED Screens",
-        "Light sticks"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "vivo"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 1,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Emotional and sincere, then energetic and powerful",
-        "pitch": "High",
-        "loudness": "High",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking and singing",
-        "language": [
-          "Mandarin"
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Microphone / lavalier mic"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Pop-rock",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Percussion",
-        "Electronic",
-        "Strings"
-      ],
-      "instrumentsAudible": [
-        "Drums",
-        "Electric Guitar",
-        "Synthesizer"
-      ],
-      "musicSourceType": [
-        "Live"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Crowd cheering",
-        "Arena reverb"
-      ],
-      "audioQuality": "Field Recording"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 0,
+        "female_singer_count": 1,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "Traditional Chinese"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Live Performance"
+        ],
+        "harmonicTensionLevel": 3
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Cheering",
+          "Applause",
+          "Laughter"
+        ],
+        "crowdNoiseIntensity": 4,
+        "ambientNoiseDetails": [
+          "Commercial/Recreational"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 2,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 3,
+        "speechMusicOverlap": 3,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 2,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a female voice speaking Mandarin with a warm, slightly emotional narrative tone. The acoustics suggest a large, reverberant space with a constant low-level murmur from a surrounding crowd. There is no background music at this stage, only the clear vocal and the atmosphere of the audience. (2) A sudden burst of high-arousal cheering and applause occurs as the music track kicks in. The music is a mid-tempo electronic pop track with a clear, steady beat and bright synthesizer textures. The female voice transitions seamlessly from speaking to singing with high energy and melodic precision. (3) As the song progresses, the interplay between the driving percussion of the track and the powerful female vocal dominates the mix. Periodic waves of crowd noise (screaming and cheering) rise and fall in the background, adding to the live concert feel. (4) The audio maintains this high-energy balance of vocal and upbeat music until the end of the clip, with the spectral brightness remaining high due to the sharp synth leads and crisp vocal delivery."
     }
   },
-  "high_inference_interpretations": {
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Music / Performance / MV"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 2,
+      "averageSceneDuration": 17.6,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Narrative -> Performance",
-      "mainPurpose": "To document and share a climactic moment from a live concert performance, emphasizing the emotional bond between the artist and her fans through a heartfelt speech followed by an energetic musical number.",
-      "visualEmotion": "Energetic and Inspiring"
+      "narrativeStructure": "Linear: Interaction -> Performance",
+      "mainPurpose": "The video captures a moment of a live concert where the artist first addresses the fans emotionally and then transitions into an energetic musical performance, aimed at sharing the concert experience and showcasing the artist's charisma.",
+      "visualEmotion": [
+        "energetic",
+        "warm",
+        "joyful"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -168,9 +266,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Signature white stage costume and high-energy crowd interaction.",
-      "freeDescribe": "The video effectively captures the scale of the event through the use of blue light sticks in the background, creating a strong sense of atmosphere."
-    }
+    "freeDescribe": "Live concert footage featuring Jolin Tsai (or a similar high-profile artist) performing for a large crowd."
   }
 }

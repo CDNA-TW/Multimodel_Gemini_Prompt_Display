@@ -1,173 +1,283 @@
 {
   "videoName": "cocowine0205-20250408132508-941007494972371.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 14,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Informational",
-        "Lifestyle",
-        "Vlog"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "Taiwan"
+      "visual_narrative_log": "(1) Two young women stand outdoors at night in front of a large white industrial building with a prominent Costco sign. The woman on the right wears a white coat and blue beret, holding a membership card. The woman on the left wears a beige cardigan and leans on a shopping cart. Bright artificial lights illuminate the parking lot setting. (2) An insert shot shows a membership verification kiosk inside a lobby. A person in a red jacket scans a card under a red light. The camera focus is on the scanning device and the physical interaction. (3) The video cuts back to the two women outdoors. The woman in the beret holds her card close to the camera, pointing at the barcode with her right hand while speaking. Her facial expressions are lively and engaged. (4) Another brief insert shot shows the digital screen of the scanner, displaying a graphical user interface with a scan prompt circle. (5) Final shot shows the two women again outdoors; the woman in the beret points towards a smartphone she is holding in her other hand, demonstrating an alternative scanning method.",
+      "text_narrative_log": "(1) [Logo]: COSTCO WHOLESALE. [Slogan]: 新制上路 掃臉才能入場. [Subtitle]: 好市多現在進去. (2) [Subtitle]: 都要刷會員卡. [Variety]: 都要刷會員卡. (3) [Subtitle]: 你要用你這個 條碼去感應. (4) [Subtitle]: 或者是手機上的 APP去掃描. (5) [Subtitle]: 然後他的顯示器 就會有你拍照的臉. (6) [Subtitle]: 這樣子你才能 安全進去. (7) [Subtitle]: 所以進去前 大家記得要翻成 條碼對面哦. (8) [Subtitle]: 也可以用APP刷哦.",
+      "visual_human_presence": {
+        "totalHumanCount": 4,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 3,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Full body",
+          "Face",
+          "Hands only"
         ],
-        "city": [
-          "Unknown"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video begins with two women standing in front of a Costco warehouse at night. One woman leans on a shopping cart, and both are smiling as they address the camera. Large text overlays dominate the upper and lower portions of the frame. (2) A quick cut shows a close-up of a person's hand scanning a membership card at a red scanning kiosk inside the entrance. (3) The scene returns to the two women outside. One woman holds up a Costco membership card to demonstrate how to scan the barcode. A small circular inset appears showing a close-up of the scanning interface. They continue gesturing and speaking enthusiastically.",
-      "audio_narrative_log": "(1) Fast-paced, upbeat electronic background music begins immediately. A high-pitched, energetic female voice starts speaking in Mandarin Chinese, providing information in a friendly and clear tone. (2) The vocal narration continues smoothly over the music, explaining the new entry procedures. Occasional very low-level background ambient noise from the outdoor setting is audible but suppressed. (3) The music and the energetic vocal delivery remain consistent until the end of the clip, maintaining a lively tempo.",
-      "text_narrative_log": "(1) Functional Text: 'COSTCO WHOLESALE' (Logo). (2) Hook Text: '新制上路 掃臉才能入場' (New system implemented, face scan required for entry - Exciting/Urgent tone). (3) Functional Text: '好市多現在進去 都要刷會員卡' (Entering Costco now requires scanning membership card - Informative tone). (4) Functional Text: '或者是手機上的 APP去掃描' (Or use the app on your phone to scan - Instructional tone). (5) Functional Text: '然後他的顯示器 就會有你拍照的臉' (Then the display will show your registered face photo - Explanatory tone). (6) Decorative Text: '也可以用APP刷' (Can also use the app - Reminder tone)."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 4,
-      "averageSceneDuration": 3.5,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Hook -> Demonstration -> Instructional Advice"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 3,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "2 main female creators in the foreground, 1 person (likely male) visible scanning a card in the cutaway.",
-      "mainCharacterDescription": "Two young women; one wearing a cream-colored knit sweater and a black beret, the other in a similar cream sweater and a black pleated skirt."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Outdoor Retail",
-          "Store Entrance"
+        "crowdLevel": [
+          "Small Group"
         ],
-        "topography": [
-          "Plain"
+        "countingEvidence": "2 main female creators, 1 person scanning a card in the insert shot, and 1 person standing in the background of the same insert shot.",
+        "mainCharacterDescription": "One woman has long black hair and wears a beige button-up cardigan with black pants. The other woman wears a white coat over a white top, a navy blue beret, and carries a brown shoulder bag."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Retail Store",
+          "Road / Highway / Parking Area"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The primary background is the exterior of a Costco warehouse store at night with a large blue and red sign. Secondary backgrounds include the indoor entrance area with a membership scanning kiosk and tiled flooring.",
+        "lightingStyle": [
+          "Night artificial light",
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Night clear"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
         ]
       },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "The exterior of a Costco Wholesale store at night, featuring the large white and red logo, metal siding, and bright outdoor lighting. Briefly shows an indoor entrance area with a scanning kiosk.",
-      "lightingStyle": "Artificial outdoor lighting",
-      "weather": "Clear Night",
-      "season": "Unknown",
-      "editingPace": "Moderate",
-      "textOverlay": {
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium full shot",
+          "Medium shot",
+          "Close-up",
+          "Insert shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Insert shot",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
         "density": "High",
-        "language": [
+        "textLanguage": [
           "Traditional Chinese",
           "English"
         ],
         "isSubtitled": true
       },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone",
-        "Scanning Kiosk"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "COSTCO"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 2,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "High-pitched and excited",
-        "pitch": "High",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "Shopping cart"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Other"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Costco"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Electronic Drum"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 7,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 124,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone",
+          "Urban/Traffic"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Mechanical Click / Latch"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Digital UI SFX",
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A high-pitched female voice speaks with rapid, energetic prosody in Traditional Chinese. Background music is an upbeat electronic pop track with a synthesized bassline and steady 4/4 rhythm. (2) A sharp, high-frequency digital UI 'beep' sound triggers as the speaker mentions scanning. The BGM maintains its constant tempo and brightness. (3) The vocal delivery continues with high variability in pitch and dynamic intonation. The BGM features shimmering synth pads. (4) A second electronic 'beep' occurs, coinciding with a transition in the narration about the mobile app. (5) The speaker finishes with a rising, friendly intonation while the BGM kicks into a final rhythmic cycle before a hard cut at the end of the video."
     }
   },
-  "high_inference_interpretations": {
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "News / Commentary",
+        "Tutorial / How-to",
+        "Vlog"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 5,
+      "averageSceneDuration": 2.8,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Evidence -> Advice",
-      "mainPurpose": "To provide an informational update for Costco members in Taiwan regarding a newly implemented entry policy. The video explains that members must now scan their physical or digital cards at a kiosk, which displays their registered photo for security verification. It aims to guide shoppers on how to prepare before they reach the entrance to ensure a smooth entry process.",
-      "visualEmotion": "Energetic and helpful"
+      "narrativeStructure": "Linear: Hook -> Evidence -> Practical Guide",
+      "mainPurpose": "To inform Costco members in Taiwan about a new mandatory membership verification system where cards must be scanned at the entrance, displaying the member's facial photo on a digital screen for security.",
+      "visualEmotion": [
+        "informative",
+        "energetic",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
       "endorsementMethod": [
         "None"
       ],
-      "endorsementCues": "None",
+      "endorsementCues": "The video provides informational content regarding a retail policy change rather than promoting a specific product purchase.",
       "endorsementObject": [
-        "None"
+        "Costco"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-density variety-show style captions and energetic female narration typical of lifestyle influencers in East Asia.",
-      "freeDescribe": "The video utilizes a fast-paced 'short-form' style designed for social media consumption, using clear visual cues and large text to convey information quickly."
-    }
+    "freeDescribe": "The video utilizes a high-energy social media format to disseminate practical store policy information, effectively using on-screen text to reinforce the auditory message."
   }
 }

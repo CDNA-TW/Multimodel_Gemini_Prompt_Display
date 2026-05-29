@@ -1,168 +1,264 @@
 {
   "videoName": "khshu_-20251029171342-2028647437982284.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 6,
-      "aspectRatio": "9:16",
+      "videoDuration": 7,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A young woman with dark hair tied up in a bun, wearing a black tank top under a white lace sleeveless garment, sits behind a table covered with red fabric. She faces the camera with a neutral expression. In front of her stands a glass bottle with amber liquid; a pair of metal scissors is taped to the bottle's neck. A small glass sits next to it. The background shows a wooden cabinet and a large fish tank with green plants. (2) The woman raises her hand and performs a 'paper' gesture for a game of Rock Paper Scissors. She then quickly changes her facial expression to a mock-disappointed pout, closing her eyes as if reacting to a loss. (3) Her expression softens into a slight smile as she picks up the small glass and takes a sip of the drink. A text overlay appears near her face. (4) The scene transitions to a man on the left side of the frame wearing a black t-shirt and a dark cap. He holds a pink can and looks toward the camera with a squinted, confused facial expression. A yellow question mark graphic appears beside his head.",
+      "text_narrative_log": "(1) [Slogan]: 禁止酒駕. [Variety]: (No-drinking icon) 未滿18歲禁止飲酒. (2) [Variety]: 嘴角微微上揚? (3) [Variety]: ?",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 main female creator, 1 male reacting character.",
+        "mainCharacterDescription": "A young woman wearing a white lace overlay on a black tank top with a bun hairstyle."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "An indoor home setting featuring dark brown wooden cabinets and a brightly lit aquarium containing green aquatic plants and small fish.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Reaction shot"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "Traditional Chinese",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Fish / seafood animal"
+        ],
+        "foodsDetect": [
+          "Alcohol"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Simplified Chinese"
+        ],
+        "hasBreathiness": true,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 6,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 2,
+        "noisinessAndPercussiveness": 1,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 2,
+        "vocalRatio": 3,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": true,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 2,
+        "audioCutFrequency": 1,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) A female voice speaks a fast-paced Mandarin phrase, 'Jiǎndāo shítou bù' (Rock Paper Scissors), with a bright, high-pitched resonance and animated energy. The recording is clean with a very faint indoor background hum. (2) The vocal ends and is immediately followed by a short, breathy vocal sigh 'Hoh' with a falling pitch contour, suggesting mock disappointment. (3) The audio becomes near-silent, containing only the subtle low-frequency resonance of the room tone. No music or additional sound effects are present during this interval. (4) The silence continues as the visual cuts to the man; no speech or movement sounds are audible, maintaining a stark focus on the ambient atmosphere."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
         "Comedy",
-        "Short Sketch"
+        "Meme / Trend"
       ],
-      "withRealPeople": true,
       "location": {
         "country": [
           "Unknown"
         ],
         "city": [
-          "None"
+          "Unknown"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A woman wearing a white lace top and black tank top sits at a table. A bottle of alcohol with a pair of scissors clipped to the neck sits in front of her. She plays rock-paper-scissors against the scissors on the bottle, loses by showing 'paper', and makes a disappointed face. (2) She picks up a glass of amber liquid and drinks it. (3) The camera cuts to a man in a black T-shirt and a baseball cap holding a pink can, looking at her with a confused and disgusted facial expression.",
-      "audio_narrative_log": "(1) A female voice clearly says '剪刀石頭布' (Rock-Paper-Scissors) followed by a disappointed groan 'Hoo~'. (2) A slight gulping sound is heard as the woman drinks. (3) The audio fades into quiet ambient room noise with no further vocals or music.",
-      "text_narrative_log": "(1) Functional Text: '禁止酒駕 🚫 未滿 18 歲禁止飲酒' (No drunk driving 🚫 No drinking under 18) remains at the bottom throughout the video. (2) Decorative Text: '嘴角微微上揚?' (Corners of the mouth slightly raised?) appears in the center with a playful, questioning tone. (3) Decorative Text: A yellow '?' appears near the man's head to signal his confusion."
     },
     "temporal_pacing_summary": {
       "sceneCutCount": 1,
-      "averageSceneDuration": 3.0,
-      "isNarrativeShift": true,
-      "mainActionFlow": "The woman drinks after losing a game to a bottle -> Reaction shot of a man watching her."
+      "averageSceneDuration": 3.5,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
     },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "1 female sitting at the table, 1 male standing in the background during the cut.",
-      "mainCharacterDescription": "The female wears a white lace sleeveless top over a black top; the male wears a black oversized t-shirt and a grey cap."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor",
-          "Dining Room"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A dark wooden cabinet with glass doors containing wine glasses, and a large fish tank with green aquatic plants and wood decor.",
-      "lightingStyle": "Natural indoor lighting with soft highlights from the fish tank.",
-      "weather": "Indoor",
-      "season": "Unknown",
-      "editingPace": "Fast",
-      "textOverlay": {
-        "density": "Medium",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Alcoholic Beverage"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Playful and slightly dramatic",
-        "pitch": "Normal",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Occasional",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": false,
-      "bgmGenre": "None",
-      "bgmBPM": 0,
-      "instrumentFamiliesAudible": [
-        "None"
-      ],
-      "instrumentsAudible": [
-        "None"
-      ],
-      "musicSourceType": [
-        "None"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Field"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Action -> Reaction",
-      "mainPurpose": "The video is a comedic short intended to amuse viewers by showing a woman's humorous excuse to drink. She rigs a game of rock-paper-scissors against a bottle (by clipping scissors to it) and 'loses' to justify taking a drink, followed by a 'straight man' reaction from a male companion that highlights the absurdity of her actions.",
-      "visualEmotion": "Humorous"
+      "narrativeStructure": "Montage: Hook -> Climax -> Reaction",
+      "mainPurpose": "The video is a humorous skit designed for social media consumption. It features a woman 'competing' in a game of chance against a bottle of alcohol as a playful excuse to drink. The comedic effect is driven by her feigned disappointment followed by immediate satisfaction, capped by a 'straight man' reaction shot of a confused observer.",
+      "visualEmotion": [
+        "humorous",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
       "endorsementMethod": [
         "None"
       ],
-      "endorsementCues": "None",
+      "endorsementCues": "No specific brand call-to-action or positive product attribute highlights are present; products appear as props for the gag.",
       "endorsementObject": [
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Drinking game parody",
-      "freeDescribe": "The video uses a common social media trope where a character performs a illogical action to satisfy a desire (drinking), framed as a joke."
-    }
+    "freeDescribe": "The video utilizes a split-narrative structure where the action and the reaction are isolated to create a classic punchline effect."
   }
 }

@@ -1,169 +1,293 @@
 {
   "videoName": "3ctim-20251003005923-1596475211603068.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 77,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Tech Review",
-        "Travel"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "USA"
+      "visual_narrative_log": "(1) Tim stands in an outdoor park with green foliage. He is wearing a grey flat cap, glasses, a green windbreaker, and a pink shirt. He speaks directly to the camera while a blue car passes in the distance. (2) Cut to a brightly lit phone store where Tim gestures at mobile devices behind glass. (3) Close-up shots show a person's hands holding an iPhone. The screen displays the 'Tesla Robotaxi' app with a map of the Bay Area. (4) A blue Tesla Model Y arrives at a curb and flashes its hazard lights. Tim and a friend approach the car. (5) Inside the car, Tim is seated in the back row. He pulls the black seatbelt across his chest and clicks it into place. A large center console screen is visible showing vehicle status. (6) The car drives autonomously. The camera zooms in on the interior screen, which shows the car's navigation route and then switches to playing a YouTube video. (7) The steering wheel is shown moving automatically without human contact. Tim reacts with visible excitement. (8) The video concludes with the blue Tesla driving away on a suburban road, showing its rear 'TCP' license plate.",
+      "text_narrative_log": "(1) [Logo]: 3c有意思tim哥. [Logo]: @3ctim. [Logo]: miko 米可手機館. [Subtitle]: Hello 我是Tim哥. (2) [Variety]: 特斯拉 Robotaxi. (3) [Slogan]: 推薦大家 買手機到米可. (4) [Variety]: Tesla Robotaxi. [Variety]: (來試乘看看!). (5) [Variety]: 各位準備上車!. (6) [Variety]: 閃爍車燈 告知乘客可以上車. (7) [Variety]: 點擊螢幕的「Start Ride」. (8) [Variety]: 前方螢幕顯示路線與路況. (9) [Variety]: 多媒體娛樂螢幕. (10) [Variety]: 行程中可自訂 冷氣、座椅、音樂等細節. (11) [Variety]: 自動輔助導航駕駛. (12) [Variety]: WOW!. (13) [Variety]: 自動停車功能 Autopark. (14) [Variety]: 太厲害了!. (15) [Variety]: 超讚的體驗!.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Hands only"
         ],
-        "city": [
-          "San Francisco Bay Area"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video starts with the main creator, Tim, wearing a green jacket, a pink shirt, and a gray flat cap, standing outdoors in a park-like setting. (2) A blue Tesla Model 3 (Robotaxi) drives by and parks. Tim's friend shows the Tesla app on an iPhone 15 Pro, demonstrating the booking process. (3) The blue Tesla arrives at their location; the car dings and flashes its lights. (4) Tim and his friend get into the back seat. Tim buckles his seatbelt and explores the rear infotainment screen. (5) The car begins to drive autonomously. Tim navigates through apps like YouTube on the back screen and watches his own channel. (6) The video shows a POV of the front dashboard as the car navigates traffic and performs an 'Autopark' maneuver. (7) The video concludes with the car parked and Tim standing outside the vehicle, gesturing thumbs up.",
-      "audio_narrative_log": "(1) Upbeat, medium-tempo electronic background music starts. Tim introduces himself and the plan to ride the Tesla Robotaxi in an excited, friendly tone. (2) Sound of wind and ambient outdoor traffic. Tim's friend explains the app requirements (US Apple ID) in a steady, conversational voice. (3) Electronic dings and car horn sounds as the Tesla arrives. (4) Interior sounds include the rustle of clothing as they sit, the click of the seatbelt, and the car's system UI sound effects (blips and chimes). (5) Audio from the Tesla's speakers plays a snippet of a YouTube video. (6) Ambient hum of the electric car's motor during movement and parking. (7) Music swells for the outro as Tim gives his final thoughts.",
-      "text_narrative_log": "(1) Functional Text: Standard Chinese subtitles throughout the video translating the spoken dialogue. (2) Decorative/Hook Text: 'Tesla Robotaxi' (0:02), 'Miko 米可手機館' logo (fixed in top left), '推薦大家買手機到米可' (0:06, encouraging viewers to buy phones at Miko), 'WOW!' (1:08), '太厲害了!' (1:13, meaning 'Too powerful!'), '超讚的體驗!' (1:16, meaning 'Super great experience!'). (3) Informational Text: '美國 Apple ID 才可以下載' (0:14), '自動輔助導航駕駛' (1:05), '自動停車功能 Autopark' (1:10)."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 22,
-      "averageSceneDuration": 3.5,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro -> App Booking -> Vehicle Arrival -> Autonomous Drive Demo -> Outro"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 3,
-      "maleDetectAmount": 3,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Head and shoulders"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 main creator (Tim), 1 friend holding the phone/talking, 1 safety officer in the driver seat.",
-      "mainCharacterDescription": "Tim is a middle-aged Asian male wearing glasses, a grey flat cap, a bright pink t-shirt under a light green windbreaker jacket."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 main creator (Tim) and 1 passenger/officer in the front seat of the vehicle.",
+        "mainCharacterDescription": "Middle-aged man wearing a grey flat cap, glasses, a light green windbreaker over a bright pink t-shirt."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
           "Outdoor Street",
-          "Car Interior"
+          "Car / Van Interior",
+          "Retail Store",
+          "Park / Garden"
         ],
-        "topography": [
-          "Plain"
+        "locationTopography": [
+          "Plain / Flat Urban",
+          "Park / Green Space"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The video moves between a lush green outdoor park, a clean modern mobile phone retail store, and the interior of a high-tech Tesla vehicle driving through Silicon Valley suburban streets.",
+        "lightingStyle": [
+          "Natural daylight",
+          "Bright indoor lighting",
+          "Mixed natural and artificial light"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Summer"
+        ],
+        "colorTone": [
+          "Natural and bright"
         ]
       },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "The video moves from an outdoor parking lot/street with green trees and parked cars to the modern, minimalist interior of a blue Tesla with large touchscreens.",
-      "lightingStyle": "Natural light (overcast)",
-      "weather": "Cloudy",
-      "season": "Spring/Autumn",
-      "editingPace": "Fast",
-      "textOverlay": {
-        "density": "Medium",
-        "language": [
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Selfie handheld",
+          "Static"
+        ],
+        "shotSize": [
+          "Close-up",
+          "Medium shot",
+          "Medium close-up",
+          "Insert shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Selfie perspective",
+          "POV / first-person view"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Graphic transition",
+          "Meme-style edit",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
           "Traditional Chinese",
-          "English"
+          "English",
+          "Emoji / Symbols"
         ],
         "isSubtitled": true
       },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "POV",
-        "Handheld",
-        "Static"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "Tesla Model 3",
-        "Car"
-      ],
-      "techDetect": [
-        "Smartphone",
-        "Tesla Infotainment Screen",
-        "Smartwatch"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Tesla",
-        "Apple",
-        "YouTube",
-        "Miko"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut with background music overlay",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 2,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and professional",
-        "pitch": "Normal",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "Car",
+          "Electric vehicle"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Laptop",
+          "TV / display screen"
+        ],
+        "landmark": [
+          "Apple Park Visitor Center"
+        ],
+        "brandLogos": [
+          "Tesla",
+          "iPhone",
+          "miko",
+          "Apple"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Lo-fi",
-      "bgmBPM": 110,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "Car UI Dings",
-        "Interface clicks"
-      ],
-      "ambientNoise": [
-        "Wind",
-        "Road Noise"
-      ],
-      "audioQuality": "Field"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 2,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Animated/Excited",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM",
+          "Pop"
+        ],
+        "tempoBPM": 125,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone",
+          "Urban/Traffic"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "Mechanical Click / Latch",
+          "Metal Bump ",
+          "Notification Sound"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Pop / Bubble SFX",
+          "Ding / Bell SFX",
+          "Whoosh / Transition SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Fades",
+          "Stingers"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) The video begins with Tim's high-energy narration over an upbeat electronic BGM with a strong rhythmic pulse. His voice is clear and projected. (2) A sharp 'pop' sound effect accompanies the visual transition to the store. The music maintains a constant 125 BPM tempo. (3) A metallic 'click' sound occurs when the phone is held up, followed by digital UI 'pings' as the app is opened. Tim's voice becomes more conversational. (4) The sound of a car door opening and closing is followed by the mechanical click of a seatbelt buckle. The BGM continues without interruption. (5) A series of digital 'dings' signal the car's autonomous system startup. A low-frequency hum from the electric motor is audible as the car accelerates. (6) Tim laughs and expresses surprise with a sharp 'Wow!', showing high vocal arousal. A digital UI chime plays as the car screen switches modes. (7) During the parking phase, the sound of the car's electric steering servos can be heard faintly. A final 'ding' confirms the end of the parking maneuver. (8) The BGM swells as Tim gives a closing remark, followed by a quick hard cut to silence."
     }
   },
-  "high_inference_interpretations": {
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Tech Review",
+        "Vlog",
+        "Promotion / Advertisement / Indoresment"
+      ],
+      "location": {
+        "country": [
+          "United States"
+        ],
+        "city": [
+          "Palo Alto"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 4.2,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Experience -> Feature Demo -> Recommendation",
-      "mainPurpose": "To demonstrate the real-world usage and advanced features of the Tesla Robotaxi (FSD) service in the US, while simultaneously promoting the sponsor 'Miko Mobile Store' as a destination for purchasing smartphones.",
-      "visualEmotion": "Energetic and Curious"
+      "narrativeStructure": "Linear: Intro -> Application Setup -> Experience Showcase -> Conclusion",
+      "mainPurpose": "To showcase the innovative experience of using the Tesla Robotaxi service while cross-promoting the Miko mobile retail brand.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -171,14 +295,12 @@
         "Explicit",
         "Integrated"
       ],
-      "endorsementCues": "Fixed logo overlay and a direct verbal call-to-action for the brand 'Miko' at the start of the video.",
+      "endorsementCues": "The creator wears brand logos, explicitly mentions a specific mobile store (miko), and provides a call to action to buy phones there.",
       "endorsementObject": [
-        "miko 米可手機館"
+        "miko",
+        "Tesla"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Tim's signature flat cap and opening self-introduction 'Hello 我是Tim哥'.",
-      "freeDescribe": "The video emphasizes the lifestyle convenience of autonomous driving (watching YouTube in the car) and serves as a tech bridge between US software availability and Chinese-speaking audiences."
-    }
+    "freeDescribe": "The video efficiently combines tech lifestyle content with commercial sponsorship through rapid editing and high-energy narration."
   }
 }

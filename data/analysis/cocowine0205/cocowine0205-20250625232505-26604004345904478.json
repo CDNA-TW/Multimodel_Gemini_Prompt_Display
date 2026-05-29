@@ -1,178 +1,281 @@
 {
   "videoName": "cocowine0205-20250625232505-26604004345904478.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 42.6,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Product Review",
-        "Shopping"
-      ],
+      "videoDuration": 42,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A young woman with dark hair wearing a black top with a red cutout collar stands in a Costco wholesale store. She gestures towards a shelf of produce and holds up a clear plastic container of multi-colored cherry tomatoes. The background is a brightly lit warehouse with shelves of mushrooms and other shoppers visible. (2) The camera zooms in on the plastic container of tomatoes, showing vibrant red, yellow, and orange cherry tomatoes. Overlays with price and product names appear on the screen. (3) The scene transitions to a home setting. Two women are sitting at a table with the bowl of tomatoes. The first woman and a companion wearing a black beret hold tomatoes up to their eyes and smile at the camera. (4) Close-up shots show the tomatoes in a white bowl and a beige bowl, highlighting their glossy textures and varied colors. (5) The two women continue to taste and discuss the tomatoes, gesturing with their hands and giving a thumbs-up. The room is a typical living room with soft lighting and home decor.",
+      "text_narrative_log": "(1) [Logo]: COSTCO WHOLESALE. [Slogan]: 隱藏優惠. [Slogan]: 加拿大彩色小番茄. (2) [Subtitle]: 坐飛機來的吶. (3) [Slogan]: 原價299 現在只要197. (4) [Variety]: 飯後水果甜點. (5) [Variety]: 色彩很繽紛.",
+      "visual_human_presence": {
+        "totalHumanCount": 4,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 3,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face close-up",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "2 main female characters, 1 male shopper in background, 1 female shopper in background",
+        "mainCharacterDescription": "One woman has long dark hair and wears a black top with a red detail. The second woman has shorter hair and wears a black beret and a white lace dress."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Retail Store",
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "Costco warehouse interior with shelves and signage; Indoor living room with a table, bowls, and a sofa.",
+        "lightingStyle": [
+          "Bright studio lighting",
+          "Warm indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright",
+          "Warm and vibrant"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Insert shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Fast cuts",
+          "Graphic transition"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Fruit",
+          "Vegetables",
+          "Prepared meal / plated dish"
+        ],
+        "trafficDetect": [
+          "Shopping cart"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Costco"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 0,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Plastic / Bag Rustle"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Pop / Bubble SFX",
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) High-energy female voice begins narration with bright, upbeat electronic pop background music. The pitch is high and delivery is fast. (2) A clear 'ding' SFX sounds as text overlays appearing. (3) The audio switches to a home environment feel, featuring two female voices interacting playfully with laughter and synchronized reactions. (4) The BGM maintains a consistent upbeat rhythm, while the dialogue focuses on taste descriptions with high vocal valence. (5) Fast-paced vocal exchange continues until the end, accompanied by rhythmic synthesizer sounds."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Food Review",
+        "Shopping",
+        "Product Showcase"
+      ],
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "Unknown"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman with long dark hair stands in a Costco warehouse, holding a plastic container of colorful cherry tomatoes. She points at the label and then to the side. (2) The scene transitions to an indoor dining area where two women, one wearing a black top and the other a white lace top with a black beret, sit at a table. They are holding up the cherry tomatoes, smiling, and performing a synchronized pose. (3) Close-up shots of the tomatoes in a bowl and the women eating them, showing facial expressions of enjoyment and giving thumbs up. They compare different colors of the tomatoes by holding them next to each other.",
-      "audio_narrative_log": "(1) Fast-paced, upbeat electronic background music begins. A high-pitched, enthusiastic female voice narrates, introducing the 'Canada colorful cherry tomatoes' found at Costco. (2) The music continues at a steady volume as the narrator describes the price discount and the physical characteristics of the tomatoes. (3) The audio shifts to a dialogue-style recording where the women's voices are heard commenting on the taste, crunchiness, and acidity of the fruit compared to local Taiwanese varieties. Cheerful sound effects (like a 'ding' or pop) occur during specific points of emphasis.",
-      "text_narrative_log": "(1) Functional Text: 'COSTCO WHOLESALE' logo appears at the top. Hook Text: '隱藏優惠' (Hidden Discount) in a yellow bubble. Main Title: '加拿大彩色小番茄' (Canada Colorful Cherry Tomatoes) in large, colorful Chinese characters. (2) Functional Text: '原價299 現在只要197' (Original price 299, now only 197) indicating the discount. (3) Decorative/Effect Text: Subtitles translate the dialogue, such as '皮比較薄' (Skin is thinner) and '甜度比較高' (Sweetness is higher), accompanied by emotional stickers like a thumbs-up icon."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 12,
-      "averageSceneDuration": 3.5,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro at retail store -> Tasting and comparison at home -> Final recommendation."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Face only"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "2 main female creators appearing throughout the video.",
-      "mainCharacterDescription": "One woman has long straight black hair wearing a black cold-shoulder top; the second woman has short hair and wears a black beret with a white lace shirt."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Retail",
-          "Indoor Kitchen"
-        ],
-        "topography": [
           "None"
         ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "First scene is a Costco warehouse aisle with industrial shelving and cardboard boxes of produce. Second scene is a modern home dining area with white walls and a kitchen counter visible.",
-      "lightingStyle": "Bright indoor lighting",
-      "weather": "Unknown",
-      "season": "Unknown",
-      "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "High Saturation",
-      "cameraWork": [
-        "Static",
-        "Close-up"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Cherry Tomatoes",
-        "Fruit"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "COSTCO",
-        "Wild Wonders",
-        "SUNSET"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 2,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "High-pitched and excited",
-        "pitch": "High",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
-        ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Cartoon SFX"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 2.3,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Information -> Comparison -> Conclusion",
-      "mainPurpose": "The video serves as a lifestyle recommendation and product review. It captures the viewer's attention with a 'hidden discount' at a popular retail chain (Costco) and provides a detailed sensory comparison between imported Canadian tomatoes and local Taiwanese ones to justify the purchase.",
-      "visualEmotion": "Energetic and Positive"
+      "narrativeStructure": "Linear: Hook -> Intro -> Experience -> Conclusion",
+      "mainPurpose": "The video aims to promote a specific cherry tomato product imported from Canada available at Costco, highlighting its multi-colored aesthetic and a temporary discount to encourage purchase.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
-        "Explicit",
-        "Integrated"
+        "Explicit Integrated"
       ],
-      "endorsementCues": "Directly showcasing the product packaging, mentioning the price discount, and providing a positive review of the taste.",
+      "endorsementCues": "Detailed product close-ups, pricing information, and positive review of a specific brand found in a specific store.",
       "endorsementObject": [
-        "COSTCO",
-        "Wild Wonders"
+        "Costco",
+        "Sunset Wild Wonders"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-density colorful text overlays and fast-paced narration typical of Taiwanese 'good-find' influencers.",
-      "freeDescribe": "The video uses beat-sync editing where scene cuts align with the BGM rhythm, enhancing viewer engagement for short-form content."
-    }
+    "freeDescribe": "Social media style editing with high-density information and energetic audio to capture viewer attention quickly."
   }
 }

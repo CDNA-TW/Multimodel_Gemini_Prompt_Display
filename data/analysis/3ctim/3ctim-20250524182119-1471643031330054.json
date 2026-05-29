@@ -1,158 +1,261 @@
 {
   "videoName": "3ctim-20250524182119-1471643031330054.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 43,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Commentary",
-        "Finance"
-      ],
+      "videoDuration": 44,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A man with glasses and a grey patterned flat cap is featured in a medium shot, wearing a dark sweatshirt. He is speaking to the camera with active hand gestures in a brightly lit indoor room with a soft-focus background. Social media handles for Facebook and Instagram are displayed as logos in the upper left corner. (2) Various graphic elements appear around the man, including an illustration of Donald Trump and a map of New Hampshire. Text captions in colorful boxes appear at the bottom center of the frame, changing rapidly to match his speech. The man continues to use expressive hand movements, including pointing and clasping his hands. (3) Icons of gold bars, silver stacks, and the Bitcoin symbol are overlaid on the screen. A financial chart with a red upward-sloping line and stacks of gold coins is shown to visualize market trends. The man maintains a friendly and engaging facial expression while looking directly at the camera. (4) The video concludes with the man leaning slightly forward, his hands held up as if asking a question. Large bold text appears over his torso, followed by a final question directed at the audience. The lighting remains bright and professional studio-quality throughout the sequence.",
+      "text_narrative_log": "(1) [Logo]: f 3c有意思tim哥. [Logo]: 3ctim. [Subtitle]: 不止喔. (2) [Subtitle]: 川普狂囤比特幣. (3) [Subtitle]: 美國州政府也跟進了. [Subtitle]: 新罕布夏州正式立法. (4) [Subtitle]: 將比特幣納入了戰略財政儲備. (5) [Subtitle]: 依據《HB302法案》. (6) [Subtitle]: 州政府可以將最多5%的公共資金. [Subtitle]: 投資於黃金、白銀. (7) [Subtitle]: 還有市值超過5000億美元的數位資產. [Subtitle]: 5000億美元. (8) [Subtitle]: 目前唯一符合數位資產就是什麼？比特幣. (9) [Subtitle]: 消息一出整個市場看漲. [Subtitle]: 剛看手機啊現在已經97000了. [Subtitle]: 97000. (10) [Subtitle]: 希望呢它可以挑戰100K美元的大關. [Subtitle]: 100K. (11) [Subtitle]: 同時也呼應了川普在3月啟動的戰略比特幣儲備. [Variety]: 比特幣儲備. (12) [Subtitle]: 那怎麼說呢？動用政府去查扣. (13) [Subtitle]: 20萬的比特幣作為國家資產. [Subtitle]: 20萬的比特幣. (14) [Subtitle]: 還強調說永久持有、不賣一枚. [Subtitle]: 永久持有、不賣一枚. (15) [Subtitle]: 現在美國聯邦還有地方州政府同步進場. (16) [Subtitle]: 難道比特幣真的要從虛擬貨幣變成國家級黃金了嗎？. [Variety]: ？？？. [Slogan]: 國家級黃金. (17) [Subtitle]: 你們覺得呢？.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 male main character talking to the camera",
+        "mainCharacterDescription": "A middle-aged man wearing glasses, a grey patterned flat cap, and a dark long-sleeved sweatshirt."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio",
+          "Indoor Home"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A blurred indoor room, possibly a home office or small studio, with neutral grey walls and soft indoor elements.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Graphic transition",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Facebook",
+          "Instagram",
+          "Bitcoin"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Professional/Narrative",
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 2,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 6,
+        "valence": 6,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 120,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Pop / Bubble SFX",
+          "Digital UI SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A male narrator speaks with a clear, energetic tone in Mandarin. The pitch is moderate, and the delivery is rapid and professional. The recording environment is extremely quiet, consistent with a professional studio or high-quality home setup. No ambient noise or room tone is detectable. (2) A sharp, short digital \"pop\" sound effect occurs, coinciding with a shift in the narrator's sentence structure. An upbeat electronic background music track is present, characterized by a steady rhythmic beat and clean synthesizer textures. The music is mixed well below the voice. (3) Frequent, rhythmic \"click\" and \"pop\" sound effects are heard, creating a sense of information being presented in sequence. The narrator's voice maintains high arousal and a positive valence. The music's tempo is approximately 120 BPM, providing a consistent energy layer. (4) The track continues with the narrator posing a question, noted by a rising intonation pattern. The music and speech end abruptly with a final digital UI sound effect. The overall mix exhibits high dynamic range and clear spectral separation between the vocal and instrumental tracks."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Tech News / Commentary"
+      ],
       "location": {
         "country": [
-          "None"
+          "United States"
         ],
         "city": [
           "None"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A middle-aged man (main creator) wearing glasses and a patterned flat cap is speaking directly to the camera in an indoor setting. (2) Graphic stickers of Donald Trump and Bitcoin logos appear next to him as he gestures. (3) A map of the United States with New Hampshire highlighted in red appears on screen. (4) Visual representations of gold and silver bars, along with a Bitcoin coin, are overlaid on the frame. (5) An upward-pointing red arrow and stacks of gold coins appear next to a '97000' text. (6) A large Bitcoin coin with '100K' text and a sunburst effect is shown. (7) The video concludes with the man looking into the camera with three red question marks appearing above his head.",
-      "audio_narrative_log": "(1) A male voice starts speaking in an energetic and clear tone. Upbeat, fast-tempo electronic background music begins simultaneously. (2) The vocal continues without interruption, maintaining a professional and informative delivery style. (3) The background music remains consistent in volume and rhythm throughout the entire video. (4) Only the speaker's voice and the background music are heard, with no significant ambient noise or sound effects detected.",
-      "text_narrative_log": "(1) '3c 有意思 tim哥' and social handles (Functional/Identity). (2) '不止喔' (Decorative/Hook: Not just that). (3) '川普狂囤比特幣' (Functional: Trump hoarding Bitcoin). (4) '美國州政府也跟進了' (Functional: US state governments also followed suit). (5) '新罕布夏州 正式立法' (Functional: New Hampshire officially legislates). (6) '將比特幣納入了戰略財政儲備' (Functional: Include Bitcoin in strategic financial reserves). (7) '依據《HB302法案》' (Functional: Based on HB302 bill). (8) '州政府可以將最多5%的公共資金投資於黃金、白銀' (Functional: State government can invest up to 5% of public funds in gold, silver). (9) '還有市值超過5000億美元的數位資產' (Functional: And digital assets with market value over 500bn USD). (10) '目前唯一符合數位資產就是什麼 比特幣' (Functional: Currently the only digital asset that fits is Bitcoin). (11) '消息一出整個市場看漲' (Functional: Market turned bullish upon news). (12) '剛看手機啊 現在已經97000了' (Functional: Just checked phone, already 97000). (13) '希望呢它可以挑戰10萬美元的大關' (Functional: Hope it challenges the 100k USD mark). (14) '同時也呼應了川普在3月啟動的戰略比特幣信託' (Functional: Echoes Trump's strategic Bitcoin trust in March). (15) '動用政府去查扣20萬的比特幣作為國家資產' (Functional: Using government to seize 200k Bitcoin as national assets). (16) '還強調說永久持有、不賣一枚' (Functional: Emphasized permanent holding, not selling one). (17) '現在美國聯邦還有地方州政府同步進場' (Functional: US Federal and state governments entering simultaneously). (18) '難道比特幣真的要從虛擬貨幣變成國家級的黃金了嗎' (Functional: Is Bitcoin really turning from virtual currency to national-grade gold?). (19) '你們覺得呢' (Decorative/Hook: What do you think?)."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 16,
-      "averageSceneDuration": 2.6,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Intro -> Detailed Information -> Market News -> Future Perspective -> Audience Engagement"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Head and shoulders",
-        "Hands"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main male creator presenting the content.",
-      "mainCharacterDescription": "A male wearing a grey patterned flat cap, clear-framed glasses, and a dark long-sleeved shirt with a green patch."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Studio"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A blurred indoor room with a neutral-colored curtain and soft lighting.",
-      "lightingStyle": "Soft studio light",
-      "weather": "Indoor",
-      "season": "Unknown",
+      "sceneCutCount": 15,
+      "averageSceneDuration": 2.9,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static"
-      ]
+      "isNarrativeShift": false
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Facebook",
-        "Instagram",
-        "Bitcoin"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Friendly and professional",
-        "pitch": "Normal",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Fact -> Legislation Detail -> Market Impact -> Strategic Context -> CTA",
-      "mainPurpose": "To provide a commentary on the latest cryptocurrency news, specifically focusing on New Hampshire's legislation to include Bitcoin in its strategic reserves and Trump's influence on national Bitcoin strategy, aiming to inform and engage a tech/finance-oriented audience.",
-      "visualEmotion": "Energetic and Informative"
+      "narrativeStructure": "List-based: Hook -> Explaining New Hampshire Legislation -> Trump's Strategic Influence -> Market Analysis -> Call to Action",
+      "mainPurpose": "To inform the audience about recent news involving New Hampshire's legislation to include Bitcoin in its strategic reserves and to discuss Donald Trump's potential impact on US Bitcoin policy.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -164,9 +267,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Use of '3c 有意思 tim哥' branding and social media handles in the upper left corner.",
-      "freeDescribe": "The video follows a standard 'talking head' tech-influencer format common on short-video platforms like TikTok or Reels, utilizing dynamic text overlays to maintain viewer attention."
-    }
+    "freeDescribe": "The video uses a high density of visual graphics and synchronized sound effects to make financial news more engaging for a social media audience."
   }
 }

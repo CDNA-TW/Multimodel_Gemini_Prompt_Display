@@ -1,15 +1,242 @@
 {
   "videoName": "3ctim-20251209012010-1221596393508394.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 102,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Unboxing",
-        "Review",
-        "Tech News"
-      ],
+      "videoDuration": 102.5,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A man wearing a gray flat cap and glasses sits on a light-colored sofa in a home setting. He holds up the boxes for an iPad Pro and a Magic Keyboard, smiling and gesturing towards the camera. The lighting is bright and even. (2) He begins unboxing the tablet, removing the lid to show the device itself. He then picks up the accessories from inside the box, specifically highlighting a black braided USB-C cable and a white Apple power adapter. (3) Holding the slate-colored iPad, he displays both the front and back of the device. He uses enthusiastic hand gestures to point out specific physical features while the camera cuts between different angles of the tablet. (4) The focus shifts to the Magic Keyboard. He demonstrates the new aluminum palm rest and the larger trackpad. Close-up shots capture his fingers interacting with the keys and the magnetic hinge mechanism of the case. (5) In a final blooper segment, the man stutters while trying to say technical terms, resulting in him laughing at himself. This phase is presented as a behind-the-scenes look at the recording process.",
+      "text_narrative_log": "(1) [Logo]: 3c有意思tim哥 @3ctim. [Subtitle]: 我們今天來快速開箱. (2) [Variety]: M5 iPad Pro 11吋 Magic Keyboard. (3) [Variety]: 15% 10核心 45% 3.5倍. (4) [Variety]: 1TB 16GB RAM 1600尼特 OLED. (5) [Variety]: Wi-Fi 7 藍牙 6 5G 50%. (6) [Variety]: 幕後花絮.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Head and shoulders",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main tech reviewer",
+        "mainCharacterDescription": "An adult male wearing a gray flat cap, glasses, and a blue long-sleeved shirt with the word 'ROOTS' on it."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Living Room",
+          "Studio"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A modern indoor living room with a beige fabric sofa and a wooden coffee table in the foreground.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Panning"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Insert shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Jump cut",
+          "Fast cuts",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Tablet",
+          "Keyboard / mouse",
+          "Lighting equipment / ring light"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Apple"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 7,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 124,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Plastic / Bag Rustle",
+          "Mechanical Click / Latch"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Pop / Bubble SFX",
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) An energetic male voice provides an introduction over a mid-tempo, upbeat electronic pop background track. The voice is clear, with a high speech rate and positive valence, setting a fast-paced tone for the technical review. (2) A sharp pop sound effect triggers as graphical text appears. This is accompanied by the physical sound of paper rustling and plastic peeling as the boxes are opened. The music continues with a steady electronic beat. (3) The speaker delivers a series of technical specifications with high vocal arousal. Each major point is emphasized by a ding or click sound effect, which synchronizes with the colorful text overlays flashing on the screen. (4) A sequence of percussive clicks and taps is heard as the keyboard is tested. The ambient room tone remains very low, suggesting a controlled recording environment, while the background music maintains its consistent energy and rhythm. (5) The professional narration breaks into a natural, unrehearsed laugh. The speech becomes muffled and less articulated as the speaker makes a mistake. The background music ends abruptly, leaving a brief moment of studio silence."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Tech Review",
+        "Unboxing"
+      ],
       "location": {
         "country": [
           "Taiwan"
@@ -19,148 +246,19 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video starts with a man in a blue sweatshirt and a flat cap sitting on a floor in front of a beige sofa, presenting two Apple product boxes: an iPad Pro and a Magic Keyboard. (2) He proceeds to unbox the iPad Pro, showing the contents which include the tablet itself, a manual, a USB-C cable, and a 20W power adapter. (3) He holds the tablet and gestures while explaining its specifications, with close-up shots of the tablet's back and screen. (4) He switches to showing the Magic Keyboard, focusing on the metallic finish, the larger trackpad, and the function keys. (5) The final segment shows a 'behind-the-scenes' clip where the man laughs after misspeaking during a take.",
-      "audio_narrative_log": "(1) Fast-paced Mandarin male vocals introduce the products with an energetic tone. An upbeat, electronic background track with a steady rhythm plays continuously. (2) Sounds of plastic peeling and cardboard boxes opening are heard as the man speaks about the M5 chip and 3nm process. (3) The vocal density remains high as he compares performance stats, with the music maintaining a constant tempo. (4) Toward the end, the tone becomes more casual and humorous during the blooper reel, followed by a sudden cut to silence at the very end.",
-      "text_narrative_log": "(1) Functional Text: '我們今天要來快速開箱' (We are doing a quick unboxing today) - Informative tone. (2) Hook Text: 'M5 的 iPad Pro 11吋' (M5 iPad Pro 11-inch) - Highlighting the core product. (3) Decorative Text: 'CPU 效能提升 15%', 'GPU 達到 10 核心', 'AI 運算快了 3.5 倍' - Highlighting technical specs with a hook-like style. (4) Effect Text: '幕後花絮' (Behind the scenes) - Indicating a shift to humorous content."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 24,
-      "averageSceneDuration": 4.25,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro -> Unboxing -> Specification Review -> Accessory Demo -> Outro/Bloopers"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Upper body"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main tech creator throughout the video.",
-      "mainCharacterDescription": "A middle-aged man wearing a dark blue 'ROOTS' sweatshirt, glasses, and a grey flat cap."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor",
-          "Living Room"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A simple indoor setting with a large beige fabric sofa and a plain white/beige wall.",
-      "lightingStyle": "Bright indoor lighting",
-      "weather": "Indoor",
-      "season": "Unknown",
+      "sceneCutCount": 32,
+      "averageSceneDuration": 3.2,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Close-up",
-        "Medium Shot"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "iPad Pro",
-        "Magic Keyboard",
-        "Smartphone",
-        "Power Adapter",
-        "USB Cable"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Apple",
-        "Roots"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Friendly, energetic, and professional",
-        "pitch": "Normal",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Electronic Drums"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "Pop",
-        "Whoosh"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Hands-on -> Spec Comparison -> Accessory Highlight -> Humor Outro",
-      "mainPurpose": "The video serves as a comprehensive first-look and review of the iPad Pro with the M5 chip. It targets tech enthusiasts by combining unboxing, hardware demonstration, and detailed technical performance comparisons against the previous generation to encourage purchasing decisions.",
-      "visualEmotion": "Informative and energetic"
+      "narrativeStructure": "List-based: Hook -> Unboxing -> Feature Showcase -> Performance Comparison -> Bloopers",
+      "mainPurpose": "To provide a highly energetic and informative unboxing and review of the iPad Pro M5, focusing on technical specifications and accessories to inform and engage tech-savvy viewers.",
+      "visualEmotion": [
+        "energetic",
+        "informative"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -168,14 +266,13 @@
         "Explicit",
         "Full"
       ],
-      "endorsementCues": "Detailed product review and recommendation of high-end Apple products.",
+      "endorsementCues": "The video is entirely dedicated to showcasing the features and performance of specific new Apple products.",
       "endorsementObject": [
-        "Apple"
+        "Apple",
+        "iPad Pro",
+        "Magic Keyboard"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Opening introduction referencing the '3ctim' brand.",
-      "freeDescribe": "The video uses typical tech-vlogger tropes: rapid-fire specs, on-screen dynamic text, and a relatable 'blooper' ending to build audience rapport."
-    }
+    "freeDescribe": "Professional and fast-paced tech review optimized for social media engagement with clear visuals and high-quality audio production."
   }
 }

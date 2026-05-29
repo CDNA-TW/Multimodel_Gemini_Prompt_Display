@@ -1,178 +1,281 @@
 {
   "videoName": "cocowine0205-20250627234511-1559847061768328.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 65,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Food Review",
-        "Recommendation"
-      ],
+      "videoDuration": 66,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A young woman with long dark hair and a lavender blouse stands in a warehouse-style store with large freezer doors in the background. She holds up a large orange and white plastic bag containing chicken nuggets. She smiles and speaks to the camera while gesturing toward the product. (2) The camera moves closer to the product bag, showing details like the price tag and cooking instructions. The woman rotates the bag to reveal the frozen nuggets visible through a clear section on the back. (3) The scene shifts to an indoor living room setting. Two women sit at a small table. A plate of golden-brown fried chicken nuggets sits between them. One woman has her hair tied back with a purple bow. They use silver forks to pick up the nuggets and hold them close to the lens. (4) Close-up shots show the internal texture of a bitten nugget, highlighting the white chicken meat. The women alternate between eating, talking, and giving thumbs-up gestures. The background shows a cozy room with a sofa and some plush toys.",
+      "text_narrative_log": "(1) [Subtitle]: 酥炸原塊雞胸丁. [Logo]: COSTCO WHOLESALE. [Slogan]: 超級黑馬!. [Variety]: 好吃. (2) [Subtitle]: 元進莊的 1.5公斤. (3) [Subtitle]: 369元. (4) [Subtitle]: 耶 我們為了 方便來看. (5) [Subtitle]: 回去用氣炸鍋 氣炸鍋炸 出來好不好吃. (6) [Subtitle]: 它裡面是兩包裝 然後有750克 哇哦. (7) [Subtitle]: 他這邊有寫 你可以直接 氣炸鍋 180度加熱 10-12分鐘. (8) [Subtitle]: 很方便喔 還蠻不錯喔 欸. (9) [Subtitle]: 咬現在就看得到 炸雞耶. (10) [Subtitle]: 回去試試看. (11) [Subtitle]: 這炸雞呢 水準非常的高. (12) [Subtitle]: 我們用最簡單的 方式氣炸鍋 180度11分鐘. (13) [Subtitle]: 炸出來的跟現炸 並沒有太大的區別. (14) [Subtitle]: 不輸現炸的. (15) [Subtitle]: 然後口感呢 它的皮呢 不是薄皮. (16) [Subtitle]: 可是它的那個 肉跟皮的比例 抓的剛剛好. (17) [Subtitle]: 你咬下去是脆脆. (18) [Subtitle]: 然後接下來你就 吃到那個雞肉 雞胸肉. (19) [Subtitle]: 完全不柴 吃起來 就像雞腿肉一樣. (20) [Subtitle]: 很多汁多汁. (21) [Subtitle]: 然後它的醃料呢 跟一般 台式炸雞比. (22) [Subtitle]: 它醃料比例不會 那麼的重. (23) [Subtitle]: 自認為這是一款 非常高水準 的炸雞. (24) [Subtitle]: 如果你是 炸雞愛好者. (25) [Subtitle]: 一定買回家試試看. (26) [Subtitle]: 如果你家 有氣炸鍋. (27) [Subtitle]: 一定要買回家試試. (28) [Subtitle]: 我覺得他 贏過了 速食店.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "2 main female creators appearing throughout the review.",
+        "mainCharacterDescription": "One woman has long black hair and wears a lavender blouse; the second woman has black hair with bangs, a purple bow, and a teal turtleneck."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Supermarket / Warehouse Store",
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The first half is shot in a Costco warehouse near the refrigerated section. The second half is shot in a brightly lit indoor apartment with a dining table and home decor.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Zoom in"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Insert shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Reaction shot"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Meat / beef / pork / chicken",
+          "Fast food / burger / fries / pizza",
+          "Prepared meal / plated dish"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Lighting equipment / ring light"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Costco",
+          "元進莊"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 0,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Food Bite / Crunch",
+          "Ceramics / Glass  Clink"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Pop / Bubble SFX",
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) Fast-paced female narration begins over a bright, synthesized pop track. The voice is energetic with high pitch variability. (2) A subtle 'ding' SFX occurs when the price is mentioned. Background music continues consistently with a steady electronic beat. (3) Transition to a home setting; the vocal texture changes slightly to a less dampened, more natural room tone. (4) Distinct 'crunch' sound effects are heard as the women bite into the chicken nuggets, synchronized with the visual close-ups. (5) Multiple celebratory 'pop' sound effects play during the thumbs-up and final recommendation sequence."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Food Review",
+        "Shopping",
+        "Product Review"
+      ],
       "location": {
         "country": [
-          "Unknown"
+          "Taiwan"
         ],
         "city": [
           "None"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A woman stands in a refrigerated aisle of a Costco warehouse, holding a large orange and white bag of 'Yuan Jin Chuang' crispy chicken breast nuggets. She gestures toward the product and turns it around to show the back packaging. (2) The scene transitions to a home kitchen setting where two women sit at a table. A plate of golden-brown fried chicken nuggets is in the center. They pick up pieces with forks, hold them close to the camera to show the texture, and eat with exaggerated expressions of enjoyment. (3) They continue to talk and point at the chicken pieces while gesturing with their hands, finally giving thumbs up to the camera.",
-      "audio_narrative_log": "(1) High-pitched, energetic female vocals begin immediately, speaking enthusiastically over upbeat, rhythmic background music with a medium tempo. Subtle ambient store noise is audible. (2) The music continues as two female voices engage in a conversation, describing the cooking process and flavor profiles. Sound effects of chewing and 'ping' noises for text highlights are heard. (3) The vocal density remains high as they conclude their review with encouraging tones, accompanied by a final musical flourish.",
-      "text_narrative_log": "(1) Functional Text: 'COSTCO WHOLESALE' and '超級黑馬!' (Super Dark Horse!) appear as a header. Subtitles translate the dialogue about price (369 yuan) and weight (1.5kg). (2) Decorative/Effect Text: '酥炸原塊雞胸丁' (Crispy Fried Original Chicken Breast Pieces) and '好吃' (Delicious) appear in colorful bubbles. (3) Instructions: '180度加熱 10-12分鐘' (Heat at 180 degrees for 10-12 minutes) and '贏過了速食店' (Beat the fast food restaurants) appear with emotional emphasis."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 14,
-      "averageSceneDuration": 4.6,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro in store -> Product display -> Home cooking result -> Tasting and review"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Waist up"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "2 main female creators appearing throughout the video.",
-      "mainCharacterDescription": "Two young women with long dark hair, one wearing a grey sweater and the other a teal turtleneck."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Warehouse",
-          "Indoor Kitchen"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "First scene is a Costco cold storage aisle with glass doors and various food items. Second scene is a home dining area with a table and blurred background items.",
-      "lightingStyle": "Bright fluorescent and natural indoor light",
-      "weather": "Unknown",
-      "season": "Unknown",
+      "sceneCutCount": 24,
+      "averageSceneDuration": 2.75,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Chinese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Follow shot"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Fried Chicken",
-        "Nuggets"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "COSTCO",
-        "元進莊"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 2,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "High-pitched and excited",
-        "pitch": "High",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat",
-      "bgmBPM": 120,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drums"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "Meme sounds",
-        "Notification sounds"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Field Recording"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Product Info -> Demo -> Evaluation",
-      "mainPurpose": "The video serves as a commercial recommendation for a specific brand of frozen chicken nuggets sold at Costco. It aims to persuade viewers of the product's value by highlighting its size, price, and ease of preparation in an air fryer, concluding with a highly positive taste test.",
-      "visualEmotion": "Energetic"
+      "narrativeStructure": "Linear: Hook -> Product Intro -> Preparation Details -> Tasting/Review -> Final Recommendation",
+      "mainPurpose": "To review and promote '元進莊' Crispy Chicken Breast Nuggets purchased at Costco, demonstrating how to cook them in an air fryer and validating their taste quality to encourage viewers to purchase them.",
+      "visualEmotion": [
+        "energetic",
+        "warm",
+        "informative"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
         "Explicit",
-        "Full"
+        "Integrated"
       ],
-      "endorsementCues": "Direct presentation of the brand logo, focus on product features, and strong positive verbal recommendation.",
+      "endorsementCues": "The creators explicitly name the brand '元進莊', show the packaging clearly, describe the price and store location (Costco), and give an overwhelmingly positive review with a clear call-to-action to buy it.",
       "endorsementObject": [
-        "元進莊 (Yuan Jin Chuang)"
+        "元進莊"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-energy variety show style editing with pop-up text and emotional reactions.",
-      "freeDescribe": "The video uses typical 'KOL' (Key Opinion Leader) marketing tactics, focusing on 'Costco finds' which is a popular niche for lifestyle content."
-    }
+    "freeDescribe": "The video uses a typical social-media influencer style with high-energy narration, bright colors, and 'food-porn' style close-ups to appeal to Costco shoppers."
   }
 }

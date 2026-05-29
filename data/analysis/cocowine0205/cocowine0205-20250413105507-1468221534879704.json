@@ -1,178 +1,286 @@
 {
   "videoName": "cocowine0205-20250413105507-1468221534879704.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 77,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Food Review",
-        "Product Unboxing"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "Taiwan"
+      "visual_narrative_log": "(1) In a brightly lit warehouse environment, a woman with long black hair wearing a white fluffy cardigan over a dark dress stands next to a large stack of purple and green boxes. She gestures enthusiastically toward the products. (2) The camera zooms in on a specific green and purple box featuring illustrations of rolled chips, which the woman holds up. (3) The scene shifts to an indoor room with soft lighting. Two women sit behind a table; one is the woman from the warehouse, and the other wears a black and white patterned bucket hat. They hold small green bags of chips. (4) A close-up shot shows the interior of a green bag, revealing dozens of thin, orange-colored rolled snack sticks. (5) The two women taste the snacks, smiling and nodding with high-energy facial expressions. They hold up the individual rolled chips and point at them while looking directly at the camera.",
+      "text_narrative_log": "(1) [Logo]: Costco Wholesale. [Variety]: 來來來. [Subtitle]: 最新出爐. (2) [Subtitle]: 7小時前新上的. 多力多滋迷們出動了. 青花椒風味多力多滋捲. [Variety]: 超麻超爽. (3) [Subtitle]: 而且還是捲的耶. 啊哇然後搭配青花椒. 因為以前多力多滋只吃起司口味. 青花椒耶怎麼那麼懂選. 一下起司下一個青花椒. 懂選味道. (4) [Subtitle]: 回去看有沒有真的好吃. 他這一盒是229. [Logo]: $ 259. (5) [Subtitle]: 多力多滋青花椒風味多力多滋捲259元. 裡面有8包. 所以每一袋是32.3塊錢. (6) [Subtitle]: 因為捲起來所以量看起來好少喔. (7) [Subtitle]: 注意看多力多滋把它的餅乾捲起來了. 新口味青花椒風味. 吃起來呢一入口就是那個像麻辣鍋一樣. 那個青花椒的香味在你嘴裡爆發. (8) [Subtitle]: 然後你吃第一根的話只會麻麻. 但吃到第四根的話就會有點微微辣辣. 但是又麻麻香香的感覺. 所以如果你喜歡鹹辣餅乾的話一定要試試看. (9) [Subtitle]: 然後它把它捲起來呢老實說我們沒有那麼喜歡. 可是它就是口感變得更硬更脆. 如果你很喜歡那種嚼嚼嚼的人個不喜歡. (10) [Subtitle]: 但是總體來說我覺得這個調味是成功的. 沒錯還非常的麻. 然後一包小小包只要60克. 吃了也部會就是太辛苦. 然後或者打開沒吃完怕軟掉. 我覺得非常適合家庭購買喲.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Head and shoulders",
+          "Upper body",
+          "Face",
+          "Hands only"
         ],
-        "city": [
-          "None"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman with long black hair, wearing a white fluffy jacket over a brown tiered dress, stands in a large warehouse store. She excitedly gestures toward a stack of green and yellow Doritos Dinamita boxes. (2) She picks up a box, turns it around to show the labeling, and points at the shelves. A quick shot shows a shelf price tag for the product. (3) The scene shifts to an indoor room with warmer lighting. Two women sit at a table; the first woman is joined by a friend wearing a zebra-patterned bucket hat. (4) They hold a single bag of the snacks, open it to show the rolled chips inside, and begin eating. They use expressive hand gestures and facial expressions, such as wide eyes and nodding, while holding the chips and the bag up to the camera. (5) They continue the tasting, showing a small plate with the chips and pointing at the packaging details.",
-      "audio_narrative_log": "(1) An energetic, high-pitched female voice speaks in Mandarin Chinese. Upbeat, rhythmic pop music with a steady electronic beat plays in the background. Subtle ambient warehouse noise like distant chatter and cart sounds are heard. (2) The sound of plastic crinkling is heard clearly as a snack bag is opened. (3) Loud, crisp crunching sound effects accompany the women biting into the chips. (4) Two female voices engage in a fast-paced, enthusiastic conversation, alternating between speaking and reacting. The music remains consistent in tempo and volume until the end.",
-      "text_narrative_log": "(1) Functional Text: 'Costco Wholesale' logo at the top. (2) Hook Text: '7小時前新上的' (Just arrived 7 hours ago) in yellow. (3) Decorative Text: '多力多滋迷們出動了' (Doritos fans, let's go) with pink heart stickers. (4) Descriptive Text: '超麻超爽 青花椒風味' (Super numbing and cool, Green Peppercorn flavor). (5) Functional Text: '259元', '裡面有8包' (Price: 259, 8 bags inside) describing product details. (6) Subtitles: Chronological transcription of the spoken review focusing on the spicy and numbing taste sensations."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 24,
-      "averageSceneDuration": 3.2,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Store Discovery -> Price/Packaging Reveal -> Home Unboxing -> Tasting Reaction"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 4,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 3,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Waist up"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 female main creator in the store, 1 male shopper in background, 2 female main characters in the tasting segment",
-      "mainCharacterDescription": "One woman with long dark hair in a white textured jacket and brown dress; another woman with a black and white zebra-striped bucket hat."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Warehouse",
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "2 main female creators reviewing food.",
+        "mainCharacterDescription": "One woman has long black hair and wears a white fluffy cardigan; the other has short dark hair and wears a black and white bucket hat."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Supermarket / Warehouse Store",
           "Indoor Living Room"
         ],
-        "topography": [
-          "None"
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "First scene is a Costco warehouse with high shelves and cardboard product boxes. Second scene is a home interior with a couch and warm ambient lighting.",
+        "lightingStyle": [
+          "Bright indoor lighting",
+          "Warm indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright",
+          "Warm"
         ]
       },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "First scene is a Costco warehouse with high shelves and stacks of bulk products. Second scene is a modern living room with a couch, a table, and home decor.",
-      "lightingStyle": "Bright indoor lighting in the store; soft, warm domestic lighting at home",
-      "weather": "Unknown",
-      "season": "Unknown",
-      "editingPace": "Fast",
-      "textOverlay": {
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Medium close-up",
+          "Close-up",
+          "Insert shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
         "density": "High",
-        "language": [
-          "Traditional Chinese"
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Emoji / Symbols"
         ],
         "isSubtitled": true
       },
-      "colorTone": "Natural and Bright",
-      "cameraWork": [
-        "Static",
-        "Handheld",
-        "Close-up"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Chips",
-        "Snacks"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Costco Wholesale",
-        "Doritos"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 1,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 2,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and humorous",
-        "pitch": "High-pitched",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Snack / chips / candy"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Costco",
+          "Doritos"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic Pop",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Crunching",
-        "Pop sound"
-      ],
-      "ambientNoise": [
-        "Warehouse ambient"
-      ],
-      "audioQuality": "Studio"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 0,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM",
+          "Pop"
+        ],
+        "tempoBPM": 124,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone",
+          "Other"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Plastic / Bag Rustle",
+          "Food Bite / Crunch"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Ding / Bell SFX",
+          "Pop / Bubble SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Mixed"
+        ]
+      },
+      "audio_narrative_log": "(1) A high-energy female voice speaks Mandarin with a bright and animated tone. Behind her, a fast-tempo electronic pop track with a heavy synth beat plays continuously. (2) The vocal track continues with rapid speech and high pitch variability. Faint background room tone from a large space is present but muffled. (3) A second female voice joins, creating a lively dialogue. The sound of plastic bag rustling (high frequency transient) is heard. (4) A sharp digital 'Ding' sound effect emphasizes a point. The voices maintain a high arousal level. (5) Audible percussive 'crunch' sounds occur intermittently as the speakers eat. The background music remains constant in volume and tempo until the end of the clip."
     }
   },
-  "high_inference_interpretations": {
-    "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Discovery -> Demo -> Verdict",
-      "mainPurpose": "The video aims to review a newly released, store-exclusive snack (Doritos Dinamita Green Peppercorn) from Costco. It combines the 'treasure hunt' excitement of finding new products with a detailed tasting test to inform viewers whether the purchase is worth the cost.",
-      "visualEmotion": "Energetic and Enthusiastic"
-    },
-    "endorsement_analysis": {
-      "isEndorsement": true,
-      "endorsementMethod": [
-        "Explicit",
-        "Full"
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Food Review",
+        "Shopping",
+        "Vlog"
       ],
-      "endorsementCues": "Direct display of packaging, price discussion, and a dedicated tasting session with a final recommendation.",
-      "endorsementObject": [
-        "Doritos Dinamita Green Peppercorn"
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 12,
+      "averageSceneDuration": 6.4,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Discovery -> Evaluation -> Recommendation",
+      "mainPurpose": "To review a new flavor of Doritos found at Costco, providing information on price and taste to encourage viewers to try the product.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-energy Mandarin narration with variety-show style text bubbles and coordinated crunching sound effects.",
-      "freeDescribe": "The video targets younger consumers and 'Costco hunters' looking for the latest trends in the Taiwanese snacks market."
-    }
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "Organic product review style without explicit sponsorship disclosure.",
+      "endorsementObject": [
+        "Doritos",
+        "Costco"
+      ]
+    },
+    "freeDescribe": "High-energy social media style food review with dense text overlays and upbeat music typical of short-form video platforms."
   }
 }

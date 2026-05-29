@@ -1,17 +1,249 @@
 {
   "videoName": "khshu_-20251101230014-1837397833598006.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 18,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Tutorial",
-        "Vlog",
-        "Lifehack"
-      ],
+      "videoDuration": 17.5,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) The video opens with a split-screen montage featuring a recording of a television broadcast. The top section shows a white block of tofu being released from a plastic container onto a ceramic plate after two taps on its corners. The bottom section displays a close-up of a Japanese man's face, wearing a dark suit, expressing intense surprise with widened eyes and slightly parted lips in a studio setting. (2) The scene transitions to a brightly lit modern kitchen where a young Asian woman with her hair in space buns, wearing a white top under a black apron, stands in front of a stainless steel refrigerator. She speaks animatedly to the camera, gesturing with her hands and holding a packaged tofu container, while smiling with high energy. (3) A medium close-up shot follows, showing the woman placing the tofu container upside down on a light blue ceramic plate. She uses her fingers to tap two corners of the plastic packaging firmly. The white tofu block slides out smoothly and perfectly onto the plate, leaving the container clean. (4) The woman reacts with an open-mouthed expression of extreme shock and joy. Digital colorful confetti graphics burst across the screen. She picks up the plate to show the successfully released tofu, looks directly into the lens with a bright smile, and holds up a peace sign to signal her success.",
+      "text_narrative_log": "(1) [Subtitle]: 充填豆腐はするりと出る!. [Logo]: 緯來日本台 HD. (2) [Slogan]: 實測 讓豆腐掉出的方法. [Variety]: 只要敲兩次. (3) [Subtitle]: 看完日本節目說 只要叩叩兩下就可以把豆腐敲出來 我們就來實測看看可不可以. (4) [Variety]: 大為震驚. [Subtitle]: 欸 有效耶. (5) [Slogan]: 實測成功. [Subtitle]: 大家可以試試看 兩下！真的兩下就下來了. (6) [Logo]: 千千好吃驚?!",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Face close-up",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main female creator in the kitchen, 1 male guest seen in the TV broadcast clip.",
+        "mainCharacterDescription": "A young Asian woman with space buns, wearing a white halter-neck top and a black apron over her clothing."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Kitchen",
+          "Studio"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A domestic kitchen with a large silver refrigerator, wooden countertops, and various kitchen utensils visible; a separate broadcast studio background for the TV clip guest.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Insert shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Split-screen",
+          "Graphic transition"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "Japanese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Prepared meal / plated dish"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "緯來日本台"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 1,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese",
+          "Japanese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Pop / Bubble SFX",
+          "Ding / Bell SFX",
+          "Whoosh / Transition SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio track opens with a brief, high-pitched Japanese male exclamation of shock, lasting less than a second. This is immediately overlaid by a punchy, high-tempo electronic pop BGM characterized by a bright synthesizer melody and a consistent 4/4 drum beat. (2) A cheerful female voice enters, speaking in enthusiastic Mandarin. Her speech rate is rapid, and her pitch is notably high, conveying excitement and curiosity as she describes the experiment. The BGM remains a steady presence beneath her clear, well-enunciated vocal tracking. (3) Two soft, percussive sound effects occur as the woman taps the container, followed by a resonant 'ding' sound effect as the tofu successfully drops onto the plate. These intentional SFX are crisp and timed perfectly with the visual actions. (4) The woman's voice peaks in arousal with a joyful shout of success. A festive 'pop' and digital shimmer sound effect play simultaneously with the appearance of confetti. The music swells slightly for a second before reaching a fast, clean finish as the video ends."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Vlog",
+        "Food Review",
+        "Tutorial / How-to"
+      ],
       "location": {
         "country": [
+          "Japan",
           "Taiwan"
         ],
         "city": [
@@ -19,158 +251,31 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video begins with a split-screen or overlay of a Japanese TV show clip where a male character watches someone demonstrate a tofu removal trick. A young Asian woman with her hair in a bun, wearing a white tank top and a black apron, stands in a kitchen holding a packaged block of tofu. (2) She places the tofu package upside down on a white plate. She uses her fingers to tap two corners of the container's bottom. The camera zooms in as the tofu smoothly slides out of the plastic container and onto the plate. (3) The woman reacts with a wide-mouthed expression of shock and excitement. She then gives a V-sign to the camera while holding the plate of tofu, smiling broadly. Confetti effects appear on screen.",
-      "audio_narrative_log": "(1) The audio starts with a short clip of a male voice speaking Japanese and the sound of a studio audience reacting. This is quickly followed by a high-pitched, enthusiastic female voice speaking Mandarin, introducing the tofu experiment. An upbeat, fast-paced electronic pop background music track starts. (2) Two distinct 'tap' sound effects (SFX) are heard, followed by a sudden gasp of surprise from the female speaker. (3) The upbeat music continues as the female speaker expresses her amazement loudly, concluding with a cheerful and energetic closing statement. The sound of digital 'sparkles' or celebratory SFX plays at the end.",
-      "text_narrative_log": "(1) Functional Text: '實測 讓豆腐掉出的方法' (Testing the method to make tofu drop out). Decorative Text: '只要敲兩次' (Just tap twice), '看完日本節目說' (After watching a Japanese show). Tone is curious and hook-driven. (2) Decorative Text: '大為震驚' (Extremely shocked). Tone is dramatic and emotional. (3) Functional Text: '實測成功' (Test successful). Decorative Text: '兩下！真的兩下就下來了' (Two taps! It really came down in two), '千千好吃驚' (Qianqian is surprised). Tone is triumphant and surprised."
-    },
     "temporal_pacing_summary": {
       "sceneCutCount": 6,
-      "averageSceneDuration": 3.0,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro/Hook -> Demonstration -> Reaction/Verification"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Face"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main female creator in the foreground, 1 male visible in the Japanese TV clip overlay.",
-      "mainCharacterDescription": "A young Asian woman with dark hair tied in a bun, wearing a white tank top and a black kitchen apron."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Kitchen"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A modern kitchen setting with white cabinets, a refrigerator, a countertop, and kitchen tools visible in the background.",
-      "lightingStyle": "Bright studio lighting",
-      "weather": "Indoor",
-      "season": "Unknown",
+      "averageSceneDuration": 2.9,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "Bright and saturated",
-      "cameraWork": [
-        "Static",
-        "Close-up"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Tofu"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone",
-        "TV Screen Overlay"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Fragmented",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 1,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and energetic",
-        "pitch": "High",
-        "loudness": "Loud",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin",
-          "Japanese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Tap sound",
-        "Shock/Surprise sound",
-        "Celebration/Confetti sound"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Action -> Validation",
-      "mainPurpose": "To verify a lifehack found in a Japanese variety show. The video demonstrates that tapping two corners of a tofu container allows the tofu to slide out perfectly without sticking, successfully proving the tip to the audience.",
-      "visualEmotion": "Excited, Humorous, Surprised"
+      "narrativeStructure": "Linear: Hook -> Experiment -> Result -> Reaction",
+      "mainPurpose": "To demonstrate and verify the effectiveness of a 'life hack' sourced from a Japanese television program regarding the easy removal of tofu from its packaging.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
       "endorsementMethod": [
         "None"
       ],
-      "endorsementCues": "No specific brand is promoted; the focus is on the technique of opening generic tofu packaging.",
+      "endorsementCues": "The video focuses on testing a general kitchen hack rather than promoting a specific commercial product.",
       "endorsementObject": [
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-energy reaction style, use of Japanese TV clips for inspiration, variety-show style text graphics.",
-      "freeDescribe": "The video follows a popular short-form content trend where creators 'verify' hacks found in traditional media, bridging the gap between TV and social media content."
-    }
+    "freeDescribe": "A typical social media 'fact-check' or 'life-hack' test video with high engagement cues and vibrant editing."
   }
 }

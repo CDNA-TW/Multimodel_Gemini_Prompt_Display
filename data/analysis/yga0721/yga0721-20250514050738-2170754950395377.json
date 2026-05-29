@@ -1,15 +1,243 @@
 {
   "videoName": "yga0721-20250514050738-2170754950395377.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 16,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Fashion",
-        "Haul"
-      ],
+      "videoDuration": 15.6,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A young male with brown hair is in a fitting room, wearing a grey jacket over a pink striped shirt, patterned blue pants, and white socks. He holds a pink phone with a camouflage case to a mirror. (2) The scene cuts to him wearing a dark blue and red striped long-sleeve shirt, posing with his hands near his neck. (3) He switches to a yellow and grey horizontal striped shirt, adjusting it while looking in the mirror. (4) He appears in a textured orange knit sweater, pulling at the bottom hem. (5) He wears an olive green utility-style jacket over a blue top, smiling slightly. (6) He shows the back of a red sweatshirt with white text overlays, standing in a brightly lit fitting room. (7) He is seen in a light purple crewneck sweatshirt. (8) He wears a peach-colored long-sleeve shirt with a central white graphic. (9) He models another peach long-sleeve shirt featuring a white square 'HH' logo on the chest. (10) He is seen in a white and brown color-blocked jacket inside a retail space with brick accents. (11) He walks through a mall hallway carrying several large shopping bags, giving a thumbs-up and smiling broadly.",
+      "text_narrative_log": "(1) [Logo]: Gap. (2) [Slogan]: Gap Standard. (3) [Logo]: HH. (4) [Slogan]: HELLY HANSEN.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main creator appearing in all shots.",
+        "mainCharacterDescription": "A young Asian male with short brown hair, wearing various casual outfits including sweaters, jackets, and striped shirts."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Retail Store",
+          "Shopping Mall / Department Store"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The video moves between a small, neutral-toned fitting room with a tan curtain and a wooden door, a retail floor with brick walls and clothing racks, and a wide tiled shopping mall corridor.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Walking handheld",
+          "Selfie handheld"
+        ],
+        "shotSize": [
+          "Medium full shot",
+          "Full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Selfie perspective"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Fast cuts",
+          "Montage"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "English",
+          "Japanese"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Gap",
+          "Helly Hansen"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Acoustic/Folk",
+          "Pop"
+        ],
+        "tempoBPM": 115,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 1,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "English"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "String",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Guitar",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 0,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 2,
+        "audioCutFrequency": 0,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) Background music begins with a bright, mid-tempo acoustic guitar strumming pattern and a steady, light drum beat in a major key. The texture is clean and optimistic. (2) At approximately 12 seconds, a melodic male singing voice enters, singing the lyrics 'Nobody ever knows...' with clear articulation and moderate pitch, blending smoothly with the continuous folk-pop instrumentation until the end."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Shopping",
+        "Fashion",
+        "Vlog"
+      ],
       "location": {
         "country": [
           "Japan"
@@ -19,160 +247,33 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young Asian man with brown hair stands in front of a mirror in a fitting room, holding a pink camouflage patterned phone case. He is wearing a light grey jacket over a pink striped t-shirt and navy blue patterned trousers. (2) Through rapid cuts, he poses in various outfits: a dark navy and orange striped sweater, a yellow and grey striped sweater, and a peach-colored ribbed knit sweater. (3) He then showcases a green utility jacket, a red bomber jacket with 'Gap Standard' printed on the back, and a light purple sweatshirt while holding a promotional flyer. (4) The sequence continues with a peach sweatshirt featuring an 'HH' logo and a beige/white color-blocked outdoor jacket. (5) In the final scene, he is walking through a mall corridor, holding several large shopping bags, smiling broadly at the camera and giving a thumbs-up gesture.",
-      "audio_narrative_log": "(1) The video begins with an upbeat, medium-tempo indie-pop track featuring a steady electronic drum beat and a rhythmic bass line. No vocals are present. (2) The music continues at a consistent volume and tempo throughout the montage of outfit changes. (3) Towards the end of the video, a clear, melodic male vocal enters singing the phrase 'Nobody ever knows...' as the subject appears with his shopping bags. The audio is high-quality and sounds like a studio recording.",
-      "text_narrative_log": "(1) Decorative/Effect Text: 'GAP Standard' appears in white capital letters on the back of a red jacket during the montage (neutral). (2) Functional Text: 'HH' logo is visible on the center of a peach sweatshirt (neutral). (3) Functional Text: Japanese characters and a QR code are visible on a promotional poster held by the man in one of the clips (informative)."
-    },
     "temporal_pacing_summary": {
       "sceneCutCount": 11,
-      "averageSceneDuration": 1.45,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro -> Rapid Outfit Montage -> Success/Resolution in mall corridor"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main male creator appearing in various outfits and in the final mall shot.",
-      "mainCharacterDescription": "A young Asian male with short brown hair, wearing a variety of trendy casual and streetwear outfits."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Fitting Room",
-          "Clothing Store",
-          "Mall"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "The initial scenes are set in a fitting room with beige curtains and wooden doors. The final scene is a modern shopping mall corridor with bright lighting and other storefronts visible in the background.",
-      "lightingStyle": "Bright indoor retail lighting",
-      "weather": "Unknown",
-      "season": "Unknown",
+      "averageSceneDuration": 1.4,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "Low",
-        "language": [
-          "Japanese",
-          "English"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "POV",
-        "Static",
-        "Handheld"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Gap",
-        "HH"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "None",
-      "vocalRatio": "Low"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 0,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Melodic and steady",
-        "pitch": "Medium",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Occasional singing",
-        "language": [
-          "English"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Indie Pop",
-      "bgmBPM": 115,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drums"
-      ],
-      "musicSourceType": [
-        "Copyrighted Song"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Series of Actions -> Resolution",
-      "mainPurpose": "To showcase a fashion haul and the results of a shopping trip, emphasizing the variety of clothing choices and the creator's satisfaction with the purchases.",
-      "visualEmotion": "Energetic and positive"
+      "narrativeStructure": "Montage: Hook -> Evidence -> CTA",
+      "mainPurpose": "The video serves as a fashion haul or 'outfit of the day' (OOTD) showcase, documenting the creator's shopping experience and various items tried on, concluding with the successful outcome of multiple purchases.",
+      "visualEmotion": [
+        "energetic",
+        "warm",
+        "informative"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
         "Implicit",
-        "Full"
+        "Integrated"
       ],
-      "endorsementCues": "Displaying multiple branded items and posing with shopping bags at the end of the video.",
+      "endorsementCues": "Visible brand logos on clothing (Gap, Helly Hansen) and prominent display of shopping bags at the end suggest a soft promotion of these retail brands.",
       "endorsementObject": [
         "Gap",
-        "HH"
+        "Helly Hansen"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Fast-paced mirror selfie transitions synced to music.",
-      "freeDescribe": "The video follows a typical fashion influencer format common on platforms like TikTok or Reels."
-    }
+    "freeDescribe": "A high-energy, positive shopping montage characterized by rapid cuts and a cohesive musical backing."
   }
 }

@@ -1,166 +1,282 @@
 {
   "videoName": "602avenue-20250807002852-2106322826609785.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 115,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Skincare Review",
-        "Vlog",
-        "Tutorial"
-      ],
+      "videoDuration": 112,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "South Korea"
+      "visual_narrative_log": "(1) A split-screen composition presents a viral video of a woman applying edible rice paper to her face on the left, while the main female creator on the right reacts by eating a blue gummy bear. The lighting is bright and even across both panels. (2) The creator transitions to a full-screen shot where she holds up a silver box of 'Sungboon Editor' deep collagen masks. She wears a vibrant pink top and gestures excitedly with her hands, which feature gold rings. The background is a clean, neutral indoor setting. (3) Handheld footage shows the creator navigating a retail store, specifically an Olive Young branch in Korea. She points to empty display shelves that have red exclamation marks superimposed, indicating the product is sold out. The scene is lit with overhead commercial lighting. (4) Returning to her home environment, the creator performs a step-by-step demonstration of the mask. She applies small patches to her forehead and cheeks before layering the full white hydrogel sheet. She wears a casual white t-shirt during this sequence. (5) A time-lapse jump leads to a 'next morning' close-up of the creator's face. The once-opaque white mask has turned completely transparent against her skin. She gives two thumbs up to the camera, showcasing her glowing, hydrated complexion with a joyful expression. (6) The final sequence displays various promotional graphics, listing buy-one-get-one deals and other ampoule products. The creator continues to speak directly to the lens, pointing at on-screen text overlays that detail the group-buy event and pricing.",
+      "text_narrative_log": "(1) [Slogan]: 韓網上爆紅!. [Variety]: 可以吃的米紙面膜!?. [Subtitle]: 用米紙敷面膜?. (2) [Subtitle]: 還能吃起來?!. (3) [Subtitle]: 敷了之後還會變顏色?. [Subtitle]: 聽說超級保濕欸.... (4) [Subtitle]: 實驗歐膩. [Variety]: (米紙登場). [Variety]: 馬上吃?. [Variety]: 不行喔!!. (5) [Subtitle]: 可是...在Olive Young已經賣完了.... [Logo]: Olive Young. [Variety]: (為什麼!!!!!!!!). (6) [Variety]: (跑去別的分店). [Slogan]: 終於入手. (7) [Slogan]: Sungboon Editor 膠原蛋白面膜. (8) [Slogan]: 一晚重塑膠原蛋白. [Slogan]: 極光潤彈面膜. (9) [Subtitle]: 隔天早上 (*素顏*). [Subtitle]: 真的吸收完後變透明了!. (10) [Slogan]: 買三送三. [Slogan]: 買三贈三. [Variety]: 臉部鎮靜!. [Variety]: 彈力up up!. (11) [Logo]: NO.1 amazon. [Logo]: 1位 Olive Young Global.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Head and shoulders",
+          "Face",
+          "Face close-up",
+          "Upper body",
+          "Hands only"
         ],
-        "city": [
-          "None"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video begins with a split-screen layout: on the left, a person applies a translucent sheet mask; on the right, the main female character eats a gummy candy while looking surprised. (2) The scene shifts to the main character holding a white sheet mask close to her face, showing its texture. She then appears in a retail environment (Olive Young), looking at empty shelves with a disappointed expression. (3) She transitions to her home, showing the 'Sungboon Editor' product packaging. She applies the mask over serum, demonstrating the multi-step process. (4) A series of close-ups show the mask turning transparent on her face overnight. (5) The final phase shows the creator holding several variations of the product and associated serums, gesturing excitedly while showcasing her glowing skin.",
-      "audio_narrative_log": "(1) Upbeat, energetic electronic background music starts immediately with a fast-paced tempo. (2) A female voice speaking Mandarin begins a high-energy narration, maintaining a friendly and persuasive tone throughout. (3) Subtle sound effects like 'dings' and 'sparkles' (SFX) are layered over the music during scene transitions and product reveals. (4) The music shifts slightly in volume to accommodate the detailed explanation of product ingredients but remains constant in style. (5) The audio concludes with a clear, enthusiastic call-to-action directed at the audience.",
-      "text_narrative_log": "(1) Hook text: '韓國網上爆紅！可以吃的米紙面膜！？' (Excited tone, questioning the 'rice paper' mask trend). (2) Functional text: '用米紙敷面膜？' (Clarifying the method). (3) Brand text: 'Sungboon Editor' and 'Deep Collagen Anti-Wrinkle Lifting Mask' (Identifying the product). (4) Scientific/Effect text: '138%', '83%', '243Da' (Highlighting technical specs and efficacy). (5) Promotional text: '買三就贈三', '有史以來最低價' (Communicating the deal and urgency)."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 62,
-      "averageSceneDuration": 1.85,
-      "isNarrativeShift": true,
-      "mainActionFlow": "The video follows a Hook -> Problem/Search (Sold out) -> Solution (Unboxing/Demo) -> Result -> Promotion/CTA flow."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Face",
-        "Hands"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main creator, 1 person in the initial comparison footage",
-      "mainCharacterDescription": "A young Asian woman with long dark hair, wearing a pink top and later a grey t-shirt/pajamas."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Studio",
-          "Bathroom",
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 main female creator, 1 person in background demonstration footage",
+        "mainCharacterDescription": "A young woman with long dark hair, wearing a vibrant pink top and later a white t-shirt."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home",
           "Retail Store"
         ],
-        "topography": [
-          "None"
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A plain white residential wall and shelves filled with skincare products in a pharmacy-style retail store.",
+        "lightingStyle": [
+          "Bright indoor lighting",
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
         ]
       },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A domestic indoor setting with white walls, a bathroom with vanity mirrors, and the interior of an Olive Young retail store in Korea.",
-      "lightingStyle": "Bright studio lighting and natural indoor light.",
-      "weather": "Indoor",
-      "season": "None",
-      "editingPace": "Fast",
-      "textOverlay": {
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Panning",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium close-up",
+          "Close-up",
+          "Extreme close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "POV / first-person view"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Split-screen",
+          "Graphic transition",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Compilation / montage sequence"
+        ]
+      },
+      "visual_text_overlay": {
         "density": "High",
-        "language": [
+        "textLanguage": [
           "Traditional Chinese",
+          "Simplified Chinese",
           "English",
-          "Korean"
+          "Emoji / Symbols"
         ],
         "isSubtitled": true
       },
-      "colorTone": "Bright, High Saturation, Clean",
-      "cameraWork": [
-        "Static",
-        "POV",
-        "Close-up"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Gummy bears"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Sungboon Editor",
-        "Olive Young"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut with beat matching",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "High-pitched and excited",
-        "pitch": "High",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Snack / chips / candy"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Microphone / lavalier mic"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Sungboon Editor",
+          "Olive Young",
+          "Amazon"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat K-Pop style",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Electronic Drums"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Ding",
-        "Sparkle",
-        "Whoosh"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Drum Kit / Drum Set",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Pop / Bubble SFX",
+          "Ding / Bell SFX",
+          "Whoosh / Transition SFX",
+          "Sparkle / Magic SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Stingers"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A high-pitched, energetic female voice delivers a rapid-fire introduction. An upbeat electronic background music track starts immediately with a strong, driving beat and synthesizer pads. A sharp 'ding' sound effect punctuates the appearance of the first on-screen title. (2) The speaker's pitch rises in excitement as she mentions the product brand. A 'pop' sound effect is heard as visual elements transition. The music maintains a constant 128 BPM tempo, providing a rhythmic framework for the fast speech delivery. (3) A low-frequency 'whoosh' sound effect marks the transition to the store recording. The voice remains consistent in its high arousal and positive valence. There is very little ambient noise from the store, suggesting a clean, post-produced audio layer. (4) As the demonstration begins, multiple 'pop' and 'bubble' sound effects are used to mirror the physical actions of applying the mask. The background music swells slightly in volume but never masks the clear, enunciated narration of the speaker. (5) A 'sparkle' or 'magic' sound effect is layered over the vocal track when the transparent mask is revealed. The speaker's tone becomes more persuasive and authoritative, emphasizing the positive results with a wide pitch variability and frequent rising intonations. (6) The final phase concludes with a percussive stinger and a gradual fade of the background music. The speaker delivers a final call to action with high dominance and confidence, accompanied by a final 'ding' sound effect for the brand logo."
     }
   },
-  "high_inference_interpretations": {
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Product Review",
+        "Beauty / Fashion",
+        "Promotion / Advertisement / Indoresment"
+      ],
+      "location": {
+        "country": [
+          "South Korea",
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 35,
+      "averageSceneDuration": 3.2,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Evidence -> Demonstration -> Review -> CTA",
-      "mainPurpose": "To promote and sell 'Sungboon Editor' collagen masks by demonstrating their unique 'rice paper' texture, showing the visual proof of absorption (transparency), and offering a specific group-buy discount.",
-      "visualEmotion": "Energetic and Enthusiastic"
+      "narrativeStructure": "List-based: Hook -> Problem Search -> Product Solution -> Practical Demonstration -> Promotional Offer",
+      "mainPurpose": "To promote and facilitate a group-buy sale for 'Sungboon Editor' collagen masks by demonstrating their unique transparent transformation and effectiveness.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -168,14 +284,11 @@
         "Explicit",
         "Full"
       ],
-      "endorsementCues": "Direct mention of brand, demonstration of product use, showing price discounts, and link in bio call-to-action.",
+      "endorsementCues": "The creator explicitly names the brand, demonstrates the product in detail, and provides a direct group-buy link with promotional pricing.",
       "endorsementObject": [
         "Sungboon Editor"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-energy Mandarin narration, split-screen hooks, and fast-paced editing style typical of beauty influencers.",
-      "freeDescribe": "The video effectively utilizes 'curiosity gap' marketing by comparing the mask to edible rice paper before explaining its real collagen-based composition."
-    }
+    "freeDescribe": "A fast-paced, high-engagement beauty tutorial and commercial hybrid designed for mobile social media consumption."
   }
 }

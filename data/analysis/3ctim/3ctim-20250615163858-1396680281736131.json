@@ -1,178 +1,275 @@
 {
   "videoName": "3ctim-20250615163858-1396680281736131.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 32,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Tech Review",
-        "Unboxing"
-      ],
+      "videoDuration": 33,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A middle-aged man wearing a grey newsboy cap, glasses, and a grey 'Original Beaver Brand' hoodie stands in front of a grey textured wall. He is holding a white iPhone 16e retail box with both hands, presenting it to the camera with an enthusiastic smile. The lighting is bright and even, characteristic of an outdoor daylight setting. (2) The scene shifts to a top-down close-up view where the man's hands are seen peeling back the paper pull-tabs on the back of the iPhone 16e box. Inside, the white back of the smartphone is revealed, lying next to a white braided USB-C cable and a small packet of documentation. The textures of the cardboard and cable are clearly visible. (3) A macro close-up highlights the single rear camera of the phone, showing the black circular lens module against the smooth white glass back. The camera then cuts to the side frame of the phone, focusing on the newly added 'Action Button' and volume rockers, which have a matte metallic finish. (4) The camera focuses on the bottom edge of the device, showing the USB-C charging port. Next, the screen is shown powered on, displaying a vibrant home screen with the iOS interface, specifically pointing out the notch area at the top. The background is slightly blurred to keep focus on the device. (5) The man is seen again in a medium shot, holding the white iPhone 16e. He rotates the phone slightly to catch the light, demonstrating its thin profile and design. He continues to speak with high energy, gesturing with his free hand while the camera maintains a stable selfie perspective.",
+      "text_narrative_log": "(1) [Logo]: Facebook 3c有意思tim哥. [Logo]: Instagram 3ctim. [Subtitle]: 我拿到 iPhone 16e!. (2) [Subtitle]: 來快速開箱!. (3) [Slogan]: iPhone 16e 搶先開箱. (4) [Variety]: 白色!. (5) [Subtitle]: 4800 萬像素單鏡頭. (6) [Subtitle]: 動作按鈕. (7) [Subtitle]: Apple Intelligence. (8) [Subtitle]: 視覺智慧功能. (9) [Subtitle]: USB-C (沒有 Lightning 了). (10) [Subtitle]: 變成瀏海了. [Subtitle]: 手機的尺寸 6.1\". (11) [Subtitle]: OLED 螢幕. [Subtitle]: 所以黑色可以看到更黑喔!.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main male creator presenting the phone",
+        "mainCharacterDescription": "A male creator with a grey newsboy cap, glasses, and a light grey hoodie."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Outdoor Street"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A neutral grey textured wall, likely the exterior of a building or a public urban space.",
+        "lightingStyle": [
+          "Natural daylight"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Summer"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Selfie handheld",
+          "Static"
+        ],
+        "shotSize": [
+          "Medium close-up",
+          "Close-up",
+          "Insert shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Top-down / overhead"
+        ],
+        "editingTechniques": [
+          "Jump cut",
+          "Straight cut",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Apple",
+          "iPhone"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Paper / Page Rustle",
+          "Mechanical Click / Latch"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Pop / Bubble SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio track opens with a high-energy male voice speaking excitedly in Mandarin. An upbeat, fast-tempo electronic pop BGM starts simultaneously, providing a rhythmic bed with a strong 4/4 beat. You can hear the crisp rustling of plastic being removed and the soft friction of cardboard. (2) As the narration continues with high vocal arousal and variable pitch, a subtle 'whoosh' transition SFX accompanies the visual cut. The BGM maintains its steady synth pulse. The narrator's speech rate is fast and clear, indicating a professional or seasoned broadcasting style with high articulation clarity. (3) A distinct 'pop' sound effect is used to punctuate the appearance of on-screen text labels. The BGM volume ducks slightly but remains prominent. The acoustics are clean, with no significant ambient noise interference, suggesting high-quality audio mastering or a controlled recording environment. (4) The final segment features a continuation of the high-energy narration over the loop-based electronic track. The vocal remains assertive and positive. Small incidental sounds of the phone being handled are occasionally audible under the music, providing a sense of physical interaction with the device before the track fades."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Tech Review"
+      ],
       "location": {
         "country": [
-          "Unknown"
+          "Taiwan"
         ],
         "city": [
           "Unknown"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A middle-aged man wearing a grey hoodie and a flat cap stands against a grey concrete wall, excitedly holding an iPhone box towards the camera. (2) The scene shifts to a top-down view of a wooden table where hands unbox a white iPhone 16e, removing the protective paper seals. (3) Close-up shots highlight specific features: the single 48MP camera lens on the back, the new action button on the side, the USB-C port at the bottom, and the front screen displaying the iOS 18 interface with a notch. (4) The phone is held and rotated in the hand to show its matte white finish and the silver Apple logo as the video ends.",
-      "audio_narrative_log": "(1) Fast-paced, upbeat electronic music begins immediately. An enthusiastic male voice speaks in Mandarin, announcing the arrival of the iPhone 16e. (2) Sound effects such as paper tearing and digital 'pings' are heard during the unboxing and when text overlays appear. (3) The vocal remains high-energy as it describes the technical specifications (camera, button, port, screen), maintaining a consistent volume over the background music. (4) The music reaches a peak and ends abruptly with the visual cut.",
-      "text_narrative_log": "(1) Functional Text: '我拿到 iPhone 16e!' (I got iPhone 16e!) appearing with a hook-like graphic. (2) Decorative Text: 'iPhone 16e 搶先開箱' (iPhone 16e Early Unboxing) displayed in a stylized pink and white box. (3) Functional Text: '4800 萬像素單鏡頭' (48MP Single Lens), '動作按鈕' (Action Button), 'USB-C (沒有 Lightning 了)' (USB-C - No more Lightning), '6.1 吋' (6.1 inch), 'OLED 螢幕' (OLED Screen) providing technical details with a professional tone. (4) Social Media Branding: '3c有意思tim哥' and '@3ctim' visible as persistent watermarks."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 16,
-      "averageSceneDuration": 2.0,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Hook Intro -> Physical Unboxing -> Feature Close-ups -> Final Product Showcase"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Hands only",
-        "Full body",
-        "Head and shoulders"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main male creator presenting the product",
-      "mainCharacterDescription": "Middle-aged Asian man wearing a grey 'Original Beaver Brand 73' hoodie, a grey patterned flat cap, and a wooden beaded bracelet."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Studio",
-          "Outdoor Street"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "Initial scene features a grey textured concrete wall outdoors; subsequent scenes use a light-colored wooden table top in a brightly lit indoor studio setting.",
-      "lightingStyle": "Bright studio lighting with minimal shadows",
-      "weather": "Unknown",
-      "season": "Unknown",
+      "sceneCutCount": 12,
+      "averageSceneDuration": 2.75,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Clean and Bright",
-      "cameraWork": [
-        "Static",
-        "Close-up",
-        "Top-down"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone",
-        "Charging Cable"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Apple"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and professional",
-        "pitch": "Normal",
-        "loudness": "High",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Whoosh",
-        "Digital Ping",
-        "Paper Tearing"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Demonstration -> Feature Review",
-      "mainPurpose": "The video is designed to provide an immediate 'first look' at a new tech product, the iPhone 16e. It combines the tactile excitement of a physical unboxing with a rapid-fire breakdown of new hardware features to inform and engage tech-savvy viewers during a product launch period.",
-      "visualEmotion": "Energetic"
+      "narrativeStructure": "Linear: Hook -> Unboxing -> Feature Detail -> Summary",
+      "mainPurpose": "The video serves as a quick, high-energy unboxing and initial feature review of the iPhone 16e, designed to capture the viewer's attention and showcase key hardware updates.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "positive"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
-        "Explicit",
-        "Full"
+        "Implicit",
+        "Integrated"
       ],
-      "endorsementCues": "The creator is directly presenting and reviewing the product by name, showing all its features in a positive light.",
+      "endorsementCues": "Early access to a new technology product and a positive, showcase-style presentation by a tech influencer.",
       "endorsementObject": [
         "Apple iPhone 16e"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Use of specific social media handles (3ctim) and a distinct hosting style involving technical enthusiasm.",
-      "freeDescribe": "The video follows the 'Short-form Tech Review' trend, characterized by fast cuts, beat-synced editing, and high-density information delivery."
-    }
+    "freeDescribe": "This is a typical social-media style tech unboxing with fast pacing, high vocal energy, and informative text overlays."
   }
 }

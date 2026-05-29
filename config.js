@@ -33,15 +33,15 @@ export const APP_CONFIG = {
     // 排除不顯示的欄位 (例如中繼資料)
     EXCLUDE_PATHS: ["metadata"],
     HIDE_FIELDS: [
-        "low_inference_observations.basic_metadata.location.country",
-        "low_inference_observations.basic_metadata.location.city",
-        "low_inference_observations.visual_scene_and_style.season",
-        "low_inference_observations.visual_scene_and_style.textOverlay.language",
-        "low_inference_observations.visual_objects_and_brands.animalDetect",
-        "low_inference_observations.visual_objects_and_brands.foodsDetect",
-        "low_inference_observations.visual_objects_and_brands.trafficDetect",
-        "low_inference_observations.visual_objects_and_brands.techDetect",
-        "low_inference_observations.audio_vocal_characterization.vocal_qualities.language",
+        // "low_inference_observations.basic_metadata.location.country",
+        // "low_inference_observations.basic_metadata.location.city",
+        // "low_inference_observations.visual_scene_and_style.season",
+        // "low_inference_observations.visual_scene_and_style.textOverlay.language",
+        // "low_inference_observations.visual_objects_and_brands.animalDetect",
+        // "low_inference_observations.visual_objects_and_brands.foodsDetect",
+        // "low_inference_observations.visual_objects_and_brands.trafficDetect",
+        // "low_inference_observations.visual_objects_and_brands.techDetect",
+        // "low_inference_observations.audio_vocal_characterization.vocal_qualities.language",
     ],
 
     // 影片 API 設定

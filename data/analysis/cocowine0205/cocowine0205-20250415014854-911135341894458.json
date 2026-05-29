@@ -1,180 +1,285 @@
 {
   "videoName": "cocowine0205-20250415014854-911135341894458.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 73,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Food Review"
-      ],
+      "videoDuration": 74,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) The video begins inside a Costco warehouse store. A woman with long dark hair, wearing a white long-sleeved shirt and a black vest, stands in front of a refrigerated shelf holding two large black bags of clam chowder. The lighting is bright and industrial, and product price tags are clearly visible. (2) The scene transitions to a close-up of a white, creamy soup with chunks of clams and potatoes being stirred in a metal pot with a black ladle in a kitchen setting. The lighting shifts to a warmer, domestic style. (3) The scene moves to an indoor living room where the woman, now wearing a teal turtleneck, sits at a wooden table tasting the soup from a yellow bowl with a yellow spoon. The background includes a brown couch and shelves with various items. She uses animated hand gestures and smiles. (4) In the final segment, two women sit together at the table, addressing the camera and demonstrating the product's consistency and pairing it with bread. The setting remains the same indoor living room.",
+      "text_narrative_log": "(1) [Logo]: COSTCO WHOLESALE. [Subtitle]: 小朋友你在拿什麼. (2) [Variety]: 一袋250元. [Variety]: 成人版的海蚌濃湯. (3) [Subtitle]: 哇!一次兩袋對不對. [Subtitle]: 海底棒棒濃湯. (4) [Subtitle]: 一次兩袋總共是499元. [Subtitle]: 算一包算是250元. (5) [Subtitle]: 買的不便宜我們來看好不好喝. (6) [Subtitle]: 他這樣一袋有830克哎. [Subtitle]: 而且你知道他是從加拿大來的. (7) [Subtitle]: 所以他的飛機票值得了啦. [Subtitle]: 哇他是冰山蚌蛤蜊湯. (8) [Subtitle]: 有沒有棒棒回去試試看. (9) [Variety]: 非常地濃郁. [Variety]: 料超級多的. (10) [Variety]: 成人版的蛤蜊濃湯. [Variety]: 海蚌濃湯. (11) [Subtitle]: 他喝起來真是好棒棒. [Subtitle]: 他比一般的蛤蜊濃湯更濃縮. (12) [Subtitle]: 他的冰山蚌非常的多. [Subtitle]: 這個紅色的肉肉都是. (13) [Subtitle]: 然後湯也非常的濃郁. [Subtitle]: 馬鈴薯也有. (14) [Subtitle]: 這整個呢就是你一定要沾麵包. [Subtitle]: 然後想像自己在高級的西餐廳. (15) [Subtitle]: 高級的法式西餐廳. [Subtitle]: 然後一口麵包冷冷的天. (16) [Subtitle]: 哇哦!真的是非常高層次的享受. (17) [Subtitle]: 如果你是喜歡吃一些重海鮮呐. [Subtitle]: 烏魚子這種重口味的一定要試試看. (18) [Slogan]: 更濃郁風味的海蚌濃湯. (19) [Subtitle]: 但小提醒他是一個非常重口味的湯. (20) [Variety]: 非常重口味的湯. (21) [Subtitle]: 所以適合配麵包做濃湯麵包就好. (22) [Subtitle]: 然後也不用自己另外加熱水因為都不搭. (23) [Subtitle]: 嗯所有都不搭牛奶不搭豆漿不搭.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "Two female creators present the product throughout the video.",
+        "mainCharacterDescription": "One woman with long dark hair, initially in a white shirt and black vest, later in a teal turtleneck."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Retail Store",
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "Costco refrigerated section with shelves and price tags followed by a home living room with a couch and decorated shelves.",
+        "lightingStyle": [
+          "Bright indoor lighting",
+          "Warm indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright",
+          "Warm"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Panning"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Fast cuts"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Seafood / fish / shrimp",
+          "Soup / hotpot / curry",
+          "Bread / pastry",
+          "Vegetables"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "COSTCO WHOLESALE",
+          "Anne's Table"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 0,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Acoustic/Folk"
+        ],
+        "tempoBPM": 115,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "String",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Guitar",
+          "Other Percussion Instrument"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Liquid Pour / Splash",
+          "Metal  Bump "
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Pop / Bubble SFX",
+          "Ding / Bell SFX",
+          "Whoosh / Transition SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) Energetic female narration begins with a bright, high-pitched tone, speaking rapidly about a product at Costco. A medium-tempo acoustic guitar and shaker percussion BGM plays continuously underneath, creating a cheerful atmosphere. (2) A metallic clinking sound triggers as the scene shifts to stirring soup, accompanied by a slight bubble sound effect. The narration continues with high emotional arousal. (3) A ding sound effect marks a transition to the tasting phase. The voice becomes even more animated, emphasizing the flavor with rising intonation patterns. (4) The audio concludes with both female voices present, maintaining a friendly and helpful tone over the consistent BGM bed, ending with a final percussive thud SFX."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Food Review",
+        "Product Showcase"
+      ],
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "Unknown"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman in a black vest and white shirt is browsing the refrigerated section of a Costco, picking up a pack of Anne's Table Clam Chowder. (2) The camera zooms in on the product and the price tag on the shelf. (3) The scene shifts to the same woman at home, wearing a blue sweater and pigtails, stirring a thick white soup with a black spoon to show the clams and potatoes inside. (4) She shows the packaging again and then eats the soup by dipping bread into it, making enthusiastic facial expressions. (5) Finally, she and another woman sit at a table, gesturing with their hands as they explain how to eat the soup and what not to add to it.",
-      "audio_narrative_log": "(1) Upbeat, energetic pop music plays throughout. An excited, high-pitched female voice speaks about the product found at Costco. (2) A deep-toned male voice is heard off-screen, contributing to the conversation about the price and the product's origin in Canada. (3) Subtle sound effects like 'pop' and 'ting' sounds occur when text overlays appear. (4) The female voice's tone becomes more exaggerated and loud during the tasting sequence. (5) Towards the end, two distinct female voices engage in a dialogue, providing serving suggestions and warnings about the flavor intensity.",
-      "text_narrative_log": "(1) Functional Text: 'ANNE'S TABLE CLAM CHOWDER', '$499', '一袋 250 元' (250 yuan per bag). (2) Decorative/Hook Text: '小朋友你在拿什麼' (What are you taking, kid?), '成人版的蛤蜊濃湯' (Adult version of clam chowder) in a playful tone. (3) Effect Text: '非常濃郁' (Very rich), '料超級多' (Super many ingredients) emphasizing the quality. (4) Instructional Text: '非常重口味的湯' (Very heavy flavored soup), '適合配麵包' (Suitable with bread), '不要加水' (Do not add water)."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 24,
-      "averageSceneDuration": 3.0,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Shopping intro -> Product showcase -> Home cooking/tasting -> Final discussion and tips."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Face"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "1 main female creator in two different outfits/settings, 1 secondary female companion in the final shot.",
-      "mainCharacterDescription": "A young Asian woman, first seen in a black vest over a white blouse, later seen with pigtails and a teal/blue turtleneck sweater."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Kitchen",
-          "Supermarket"
-        ],
-        "topography": [
           "None"
         ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "The video starts in a bright, industrial Costco warehouse with metal shelves and refrigerated units. It then moves to a modern home interior with a wooden table, sofa, and soft indoor lighting.",
-      "lightingStyle": "Bright studio lights and natural indoor light",
-      "weather": "Indoor",
-      "season": "Unknown",
-      "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Chinese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "High Saturation",
-      "cameraWork": [
-        "Static",
-        "Handheld",
-        "POV"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Soup",
-        "Bread",
-        "Clams",
-        "Potatoes"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "COSTCO",
-        "ANNE'S TABLE"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 2,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "High-pitched, excited, and persuasive",
-        "pitch": "High",
-        "loudness": "Loud",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
-        ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum kit"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Cartoon SFX",
-        "Ding"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Field"
-    }
-  },
-  "high_inference_interpretations": {
+    "temporal_pacing_summary": {
+      "sceneCutCount": 22,
+      "averageSceneDuration": 3.36,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Product Intro -> Evidence/Tasting -> CTA/Tips",
-      "mainPurpose": "To provide a highly energetic and positive review of Anne's Table Clam Chowder available at Costco, encouraging viewers to buy it while providing specific preparation advice (not adding water) to ensure the best taste.",
-      "visualEmotion": "Energetic"
+      "narrativeStructure": "Linear: Hook -> Product Introduction -> Tasting/Detailed Review -> Usage Tips",
+      "mainPurpose": "To provide a detailed review and recommendation for Anne's Table Clam Chowder purchased at Costco, explaining its value, ingredients, and best serving methods.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
         "Explicit",
-        "Full"
+        "Integrated"
       ],
-      "endorsementCues": "Direct display of product, price, and enthusiastic recommendation of flavor and quality.",
+      "endorsementCues": "Direct display of product, price, and enthusiastic recommendation of the specific brand found at Costco.",
       "endorsementObject": [
-        "ANNE'S TABLE"
+        "Anne's Table",
+        "Costco"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-energy variety-show style text overlays and rapid-fire dialogue common in Taiwanese lifestyle Vlogs.",
-      "freeDescribe": "The video uses a mix of shopping footage and home tasting to build authenticity. The heavy use of captions and fast pacing is designed to maintain viewer attention on mobile platforms."
-    }
+    "freeDescribe": "The video uses fast-paced editing and variety-show style text overlays to maintain high viewer engagement during a food review."
   }
 }

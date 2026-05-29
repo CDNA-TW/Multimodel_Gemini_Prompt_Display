@@ -1,14 +1,234 @@
 {
   "videoName": "0_shufen-20251030004957-1224032665953959.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 9,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Artistic",
-        "Performance"
-      ],
+      "videoDuration": 7,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A person completely draped in a white bedsheet stands centered against a light wall, which features a large red silhouette of a violin on the left. The figure holds their arms out to the sides, creating a classic 'ghost' shape. The lighting is dim with a cool temperature. (2) The scene cuts to a back-view close-up of the figure on the floor in a kneeling position. The person begins to rhythmically shake their hips in a dance-like motion. The room's lighting shifts to a saturated purple and pink hue. (3) The shot changes to show the same white sheet spread across a bed in a dark room, with the figure seemingly lying flat underneath, making the sheet appear as ordinary bedding. (4) The video cuts back to the initial standing pose against the red violin wall, with the figure holding their arms raised in the ghost stance.",
+      "text_narrative_log": "None",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main individual completely covered by a white sheet.",
+        "mainCharacterDescription": "The character is disguised as a ghost using a large, white, opaque fabric sheet covering the entire body from head to floor."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Bedroom"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "An indoor room featuring a white wall with a prominent red violin-shaped decal and a second scene showing a bed with patterned pillows and headboard.",
+        "lightingStyle": [
+          "Dim / low light",
+          "Neon / colored light"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Muted",
+          "Cool tone"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Full shot",
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Low angle"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "None",
+        "textLanguage": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop"
+        ],
+        "tempoBPM": 105,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 0,
+        "female_singer_count": 1,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "English"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 0,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 0,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) High-pitched female vocals begin singing a melodic pop melody with lyrics 'I can see you from...'. The track has a polished studio production quality with a clear synthesizer background. (2) A rhythmic electronic drum beat enters the track, emphasizing a moderate tempo. The vocals continue smoothly, maintaining a bright spectral profile and stable pitch contour. The music carries the entire audio track without any incidental noise or environmental interference."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Meme / Trend"
+      ],
       "location": {
         "country": [
           "Unknown"
@@ -18,139 +238,19 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A person is completely covered by a large white sheet, sitting upright with their arms holding the edges of the sheet outward to resemble a ghost or a sculptural figure. The background is a white wall with red decals of string instruments. (2) The scene cuts to a low-angle rear view of the figure kneeling on a tiled floor, performing a rhythmic, swaying hip movement under the sheet as the lighting shifts to a dim, reddish tone. (3) The shot changes to the figure lying flat on a bed, fully covered by the white sheet, with a vertical light glare effect moving across the screen. (4) The visual returns to the initial seated ghost-like pose against the wall.",
-      "audio_narrative_log": "(1) A soft, melodic keyboard track begins accompanied by a high-pitched, child-like female vocal singing 'I can see you from behind'. (2) The vocals maintain a consistent, slightly eerie yet sweet tone with a reverb effect as the music continues at a slow tempo. (3) The song concludes as the vocal phrase ends, leaving only the soft background atmosphere.",
-      "text_narrative_log": "(1) None"
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 4,
-      "averageSceneDuration": 2.25,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro Pose -> Performance -> Static Shot -> Loop Outro"
+      "sceneCutCount": 3,
+      "averageSceneDuration": 1.75,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
     },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 individual completely covered by a sheet, female gender inferred by body proportions and movement.",
-      "mainCharacterDescription": "The character is entirely hidden beneath a voluminous white fabric sheet, creating a shapeless, ghostly aesthetic."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Bedroom",
-          "Indoor Studio"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A room with white walls featuring red cello/violin decals, a tiled floor, and a bed with curtains in the background.",
-      "lightingStyle": "Mixed; shifts from bright indoor light to dim red lighting.",
-      "weather": "Indoor",
-      "season": "Unknown",
-      "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "None",
-        "language": [
-          "None"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "Muted and Cinematic with a red color shift mid-video.",
-      "cameraWork": [
-        "Static",
-        "Low Angle"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 0,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Eerie, high-pitched, melodic",
-        "pitch": "High",
-        "loudness": "Normal",
-        "speed": "Slow",
-        "speechDensity": "Occasional narration",
-        "language": [
-          "English"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Suspenseful Melodic",
-      "bgmBPM": 85,
-      "instrumentFamiliesAudible": [
-        "Keyboard",
-        "Electronic"
-      ],
-      "instrumentsAudible": [
-        "Electric Piano",
-        "Synthesizer"
-      ],
-      "musicSourceType": [
-        "Unknown"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Performance -> Outro",
-      "mainPurpose": "This video serves as a creative performance piece, likely for social media, combining the 'ghost' aesthetic with rhythmic dance movements to evoke a sense of mystery and allure. The use of a simple white sheet as a prop focuses the viewer's attention on the silhouette and motion rather than the individual's identity.",
-      "visualEmotion": "Eerie and Alluring"
+      "narrativeStructure": "Montage: Introduction -> Humorous Subversion -> Resolution",
+      "mainPurpose": "The video is a comedic short-form clip participating in a social media trend where a person uses a simple sheet to create a ghost costume and performs a dance to a specific song snippet for humorous effect.",
+      "visualEmotion": [
+        "humorous",
+        "energetic"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -162,9 +262,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "White sheet ghost costume, instrument wall decals",
-      "freeDescribe": "The video leans into the 'ghost trend' or similar aesthetic-focused content where anonymity and visual style take precedence over narrative dialogue."
-    }
+    "freeDescribe": "The video relies heavily on the juxtaposition of the 'scary' ghost imagery with the modern, playful dance movement and pop music."
   }
 }

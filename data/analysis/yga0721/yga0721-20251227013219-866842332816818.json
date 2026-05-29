@@ -1,162 +1,274 @@
 {
   "videoName": "yga0721-20251227013219-866842332816818.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 63,
-      "aspectRatio": "9:16",
+      "videoDuration": 64,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A man with reddish-brown hair wearing a black jacket with bird embroidery stands in a bright white indoor room, talking animatedly with a woman in a gray top. Several other people stand in the background behind them. (2) The man holds out several small red cards while gesturing excitedly with his other hand. He looks directly at the camera with wide eyes and an open mouth. (3) The scene transitions to a different part of the room where a clothing rack filled with garments is visible. The man and a group of women are laughing and showing cards to the camera. (4) Close-up shots of colorful collectible cards featuring different people's faces are shown within graphic frames. The people continue to interact with high energy, gesturing at the cards and each other.",
+      "text_narrative_log": "(1) [Variety]: 哈佛卡包. [Subtitle]: 總共會有50個角色. (2) [Slogan]: (兩萬分之一的機會). [Subtitle]: 林蘿拉的鬼牌. (3) [Slogan]: (價值約3000萬). [Subtitle]: 換你去討債. (4) [Subtitle]: 頭髮最短的淘汰. [Variety]: 頭髮很短. [Logo]: @yga0721. (5) [Variety]: 得救了!! [Slogan]: 靠瀏海贏了. (6) [Subtitle]: 出道年資淘汰. [Variety]: 拿到最強的牌!! [Slogan]: 保證進前三強了. (7) [Variety]: 獲勝. [Slogan]: 小熊竟然贏鴨鴨.",
+      "visual_human_presence": {
+        "totalHumanCount": 8,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 6,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Full body",
+          "Face close-up",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main male creator, approx 7 staff members/participants in the background.",
+        "mainCharacterDescription": "A man with styled reddish-brown hair wearing a black kimono-style jacket over a white t-shirt and light-colored pants."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home",
+          "Office / Workplace"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A clean, modern indoor space with white walls, minimalist shelving, and a professional-looking studio setup including a clothing rack and furniture.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Panning",
+          "Zoom in"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Medium full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Graphic transition",
+          "Meme-style edit",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Highly dynamic / rapid montage"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Roots",
+          "Gucci"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 5,
+        "male_vocal_count": 1,
+        "female_vocal_count": 4,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Comedic/Exaggerated"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM",
+          "Pop"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter",
+          "Cheering"
+        ],
+        "crowdNoiseIntensity": 3,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Clothing / Fabric Rustle",
+          "Object Impact / Thud / Drop"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Ding / Bell SFX",
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Stingers"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio starts with a high-pitched, fast-paced male voice speaking Mandarin over a driving, upbeat electronic BGM with a strong kick drum. (2) A sharp 'whoosh' sound effect marks a transition, immediately followed by the sound of multiple female voices laughing and cheering in a group setting. (3) A loud 'ding' sound effect occurs as the speaker highlights a specific card, with the BGM maintaining its high energy and bright synthesized texture. (4) The track continues with a mix of rapid dialogue and frequent comedic sound effects that emphasize the excited reactions and competitive atmosphere among the speakers."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
         "Vlog",
-        "Variety Show",
-        "Promotional"
+        "Promotion / Advertisement / Indoresment",
+        "Comedy"
       ],
-      "withRealPeople": true,
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "Unknown"
+          "Taipei"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A man with reddish-brown hair in a crane-patterned black jacket stands in a studio environment holding red card packs, explaining the game to female staff. (2) He gestures energetically to the camera, holding up a specific 'ghost card' featuring a woman. (3) The scene shifts through various shots of staff members holding up different character cards (featuring young children) and reacting with laughter and cheers. (4) Close-up shots show the details of the cards, specifically 'Baozi', 'An-an', 'Ryuu', and 'Duck' cards with stats. (5) The man points and interacts with the staff, comparing their drawn cards and announcing winners based on arbitrary rules like hair length or seniority.",
-      "audio_narrative_log": "(1) Fast-paced, upbeat variety-show music with electronic beats begins. A male voice speaks very loudly and excitedly in Mandarin Chinese about 'Harvard card packs'. (2) Background chatter and laughing sounds are heard from multiple women. Sound effects like 'ding' and 'cheering' are layered over the dialogue. (3) The man's voice remains the dominant audio source, describing the rarities and rules of the cards. (4) High-energy music continues throughout, punctuated by collective 'Oh!' reactions and louder peaks of laughter as winners are declared.",
-      "text_narrative_log": "(1) Functional Text: '哈佛卡包', '總共會有50個角色', '還有一個鬼牌也有', '林蘿拉的鬼牌'. (2) Decorative/Hook Text: '(價值約3000萬)', '換你去討債', '頭髮最短的淘汰', '(得救了!!)', '(喬安抽到)', '靠瀏海贏了', '(拿到最強的牌!!)', '小熊竟然贏鴨鴨'. (3) Tone: Extremely enthusiastic, humorous, and focused on creating hype for the collectible items."
     },
     "temporal_pacing_summary": {
-      "sceneCutCount": 22,
-      "averageSceneDuration": 2.8,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Product Intro -> Card Drawing Interaction -> Competitive Comparison -> Final Winner Announcement"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 8,
-      "maleDetectAmount": 2,
-      "femaleDetectAmount": 6,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Waist up"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 main male host, 1 male staff in background, 6 female staff members participating in the card game.",
-      "mainCharacterDescription": "Adult male, reddish hair, wearing a black haori jacket with crane embroidery over a white t-shirt and white trousers."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Studio",
-          "Office"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A bright indoor room with white walls, wooden shelves holding various items, and clothing racks with garments in the background.",
-      "lightingStyle": "High-key studio lighting",
-      "weather": "None",
-      "season": "None",
+      "sceneCutCount": 24,
+      "averageSceneDuration": 2.6,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Bright and Saturated",
-      "cameraWork": [
-        "Static",
-        "Handheld",
-        "Follow shot"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "hahababy"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 5,
-        "offscreen": 3,
-        "backgroundCrowdVoices": 4,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 5,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and humorous",
-        "pitch": "High",
-        "loudness": "Loud",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Variety Show Pop",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Kit"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Cartoon SFX",
-        "Cheering",
-        "Laughter"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Demonstration -> Comparison -> Outro",
-      "mainPurpose": "The video is a high-energy promotional piece for 'hahababy' collectible cards. It uses a variety-show game format to showcase the different cards and their attributes, leveraging the personality of the host and his staff to create an entertaining unboxing experience that builds hype for the brand's new products.",
-      "visualEmotion": "Energetic"
+      "narrativeStructure": "Montage: Hook -> Demonstration -> Comparison -> Resolution",
+      "mainPurpose": "To showcase and promote a set of collectible character cards (Harvard Card Packs) through a high-energy, humorous 'battle' game played by the creator and his staff members.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "joyful"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -164,14 +276,11 @@
         "Explicit",
         "Full"
       ],
-      "endorsementCues": "Direct display and verbal promotion of the branded card packs.",
+      "endorsementCues": "The video focuses entirely on the unboxing and demonstration of the Harvard Card Packs, with clear calls to action and branding throughout.",
       "endorsementObject": [
-        "hahababy"
+        "哈佛卡包"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-octane hosting style, staff participation, heavy use of colorful Traditional Chinese variety captions.",
-      "freeDescribe": "The video effectively utilizes the 'surprise reveal' mechanic common in trading card communities to maintain viewer interest."
-    }
+    "freeDescribe": "The video utilizes a variety-show editing style with high text density and frequent SFX to maintain viewer engagement for short-form platforms."
   }
 }

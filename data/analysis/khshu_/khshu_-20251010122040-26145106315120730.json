@@ -1,157 +1,262 @@
 {
   "videoName": "khshu_-20251010122040-26145106315120730.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 13,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Comedy"
-      ],
+      "videoDuration": 12.5,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A right hand wearing a black sleeve pushes open a light-colored wooden door featuring a distinct yellow semi-transparent frame. The camera enters a bright office environment where two women are seated at a white conference table. One woman, wearing a white lace off-the-shoulder top, hair in a bun, and clear glasses, looks directly at the camera while holding a yellow bag of potato chips. A silver laptop and various papers are scattered on the table in front of her under even, bright indoor lighting. (2) The camera focuses on the seated woman as she gestures with the yellow chip bag and talks directly to the viewer. She reaches into the bag with her right hand, pulls out a chip, and eats it. Behind her, large windows are covered with white vertical blinds, creating a clean and professional background with no distracting shadows. Another female figure is partially visible in the background sitting at the same table, though she remains out of focus.",
+      "text_narrative_log": "(1) [Subtitle]: 你知道洋芋片吃到一半的封法嗎 You know that hack for sealing half a bag of chips? [Variety]: (ŏ_ŏ)? (2) [Subtitle]: 你美食水水應該會吧 (3) [Subtitle]: 洋芋片有什麼好封的 Seal chips? For what? (4) [Subtitle]: 一包打開就吃完了 Once it's open... I just finish the whole bag. (5) [Subtitle]: 學這個幹嘛 Why even bother learning this [Variety]: ಠ_ಠ.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 main female character in the foreground, 1 female colleague in the background.",
+        "mainCharacterDescription": "A young woman with black hair in a bun, wearing clear-rimmed glasses and a white off-the-shoulder lace top."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Office / Workplace"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A clean, modern office or meeting room with a large white table, white chairs, and windows with white vertical blinds.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Walking handheld"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Snack / chips / candy"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Laptop"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Lay's"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 0,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Casual",
+          "Sarcastic/Teasing"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 5,
+        "valence": 6,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Plastic / Bag Rustle",
+          "Mechanical Click / Latch",
+          "Footsteps"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 2,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio track opens with the sharp mechanical sound of a door latch clicking open, followed by a slight creak and the rhythmic thud of two footsteps on a hard floor. There is no music, leaving the room's quiet ambient floor as the primary background texture. (2) A clear, female voice begins speaking in Mandarin Chinese. The tone is relaxed and casual, possessing moderate pitch and a natural speech rate. There is a brief conversational response from a second female voice, though it is lower in volume and less prominent than the first speaker. (3) The distinct high-frequency crinkling of a plastic snack bag is heard as the primary speaker interacts with the object. Her vocal tone shifts slightly toward a playful, dismissive inflection while she continues her dialogue. The audio remains focused on the speech with high signal clarity and no interfering background noise or music."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Lifestyle",
+        "Short Video"
+      ],
       "location": {
         "country": [
-          "Taiwan"
+          "Unknown"
         ],
         "city": [
           "Unknown"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The camera moves through a doorway into a bright, modern office space where a woman is sitting at a large wooden conference table. (2) The woman, with her hair in a bun and wearing a white lace top, holds a yellow bag of Lay's potato chips while looking at the camera with a slightly confused expression. (3) She pulls a chip out, eats it, and speaks directly to the camera with a dismissive yet humorous facial expression as the camera stays focused on her.",
-      "audio_narrative_log": "(1) The sound of a door opening is heard, followed by a male voice asking a question in Mandarin Chinese about a chip-sealing hack. (2) A female voice responds in a clear, casual, and slightly sassy tone, explaining why she doesn't need the hack. (3) A light, quirky, and upbeat background music track fades in towards the end of the conversation to emphasize the comedic timing.",
-      "text_narrative_log": "(1) Functional Text: '你知道洋芋片吃到一半的封法嗎？' (You know that hack for sealing half a bag of chips?) - Questioning tone. (2) Decorative Text: '(ŏ_ŏ)?' - Expressing confusion. (3) Functional Text: '你美食水水應該會吧' (As a foodie influencer, you should know it) - Expectant tone. (4) Functional Text: '洋芋片有什麼好封的' (What's the point of sealing chips?) - Skeptical tone. (5) Functional Text: '一包打開就吃完了' (I just finish the whole bag once it's open) - Relatable/Funny tone. (6) Decorative Text: '學這個幹嘛 ಠ_ಠ' (Why even bother learning this?) - Mock annoyance."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 2,
-      "averageSceneDuration": 6.5,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro POV movement -> Dialogue interaction -> Humorous punchline"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 3,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 main female creator at the table, 2 female figures visible in the background background through the door/at the table.",
-      "mainCharacterDescription": "A young woman with dark hair tied in a high bun, wearing a white off-the-shoulder lace or crochet top."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Office"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A clean, minimalist office or conference room with white blinds, a large light-wood table, white chairs, a laptop, and some documents.",
-      "lightingStyle": "Natural, bright light coming from large windows.",
-      "weather": "Sunny",
-      "season": "Unknown",
+      "sceneCutCount": 1,
+      "averageSceneDuration": 6.25,
       "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "Medium",
-        "language": [
-          "Traditional Chinese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Bright, Natural, High Key",
-      "cameraWork": [
-        "POV",
-        "Follow shot"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Potato Chips"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Laptop",
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Lay's"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Casual and Humorous",
-        "pitch": "Normal",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Quirky Upbeat",
-      "bgmBPM": 110,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Field Recording"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
       "narrativeStructure": "Linear: Hook -> Dialogue -> Punchline",
-      "mainPurpose": "To create a short, humorous piece of social media content where a known influencer subverts expectations about 'life hacks' by revealing her relatable habit of eating an entire bag of chips in one sitting.",
-      "visualEmotion": "Humorous and Relaxed"
+      "mainPurpose": "To create a humorous moment by subverting the 'lifestyle hack' trend. The video starts as if teaching a method to seal snacks but ends with the speaker admitting she just eats the whole bag, making hacks unnecessary.",
+      "visualEmotion": [
+        "humorous",
+        "casual",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -159,14 +264,11 @@
         "Implicit",
         "Integrated"
       ],
-      "endorsementCues": "The brand 'Lay's' is clearly visible and is the central focus of the entire dialogue and action.",
+      "endorsementCues": "The Lay's potato chip bag is centrally featured and handled throughout the video, though it is presented in a casual, non-promotional comedy context.",
       "endorsementObject": [
         "Lay's"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Foodie influencer persona (美食水水), deadpan humor.",
-      "freeDescribe": "The video utilizes a popular POV interaction format to drive engagement through relatability."
-    }
+    "freeDescribe": "The video uses a relatable office scenario and a common social media trope (hacks) to engage the audience with humor. The high-quality indoor lighting and clear audio production enhance the comedic timing."
   }
 }

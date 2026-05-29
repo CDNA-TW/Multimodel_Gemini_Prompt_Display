@@ -1,171 +1,297 @@
 {
   "videoName": "2uncle987-20251201091754-883817217723256.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 62,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Commercial",
-        "Event Coverage"
-      ],
+      "videoDuration": 63,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) The video opens with a close-up of a promotional poster for a 'One-Day Store Manager' event. A girl with pigtails and a red beret is seen smiling broadly. (2) Transition to a bright indoor studio set with a colorful backdrop featuring mascots and the logos of TKK Fried Chicken and haha baby. A man in a yellow-and-white checkered shirt and a woman in a maroon hoodie are posing energetically with brand merchandise. (3) A series of rapid close-up shots showcases collaborative merchandise: acrylic keychains, colorful patterned wrist straps, red envelopes with gold foil details, and plush embroidered pouches. (4) The scene shifts to the interior of a TKK Fried Chicken restaurant. The two main characters are now behind the service counter wearing blue sanitary gloves and masks, serving a crowd of customers while surrounded by a large group of reporters holding microphones and cameras. (5) Detailed shots of food items follow: crispy fried chicken, stuffed 'Gua Gua Bao' rolls, and brown sugar pearl sweet buns being pulled apart to reveal the filling. (6) The video concludes with multiple group photos taken both inside and outside the store, showing the main characters posing with fans and staff members who are all smiling and making peace signs.",
+      "text_narrative_log": "(1) [Logo]: TKK Fried Chicken. [Slogan]: 一日店長. [Subtitle]: 內用區暫不開放. (2) [Slogan]: 2025.01.15 頂呱呱金門店同步自慶. [Variety]: $399 $379. 只需消費滿$219 即可1次加購3款運連嚕! (3) [Subtitle]: 我們跟頂呱呱聯名. [Variety]: JAN 15 2025. MAR 31 2025. (4) [Slogan]: 擁抱好運印花布手腕掛繩. 會員價:379元. (5) [Slogan]: 擁抱好運刺繡絨毛包. 會員價:479元. (6) [Variety]: 很可以. [Slogan]: 擁抱金喜刺繡絨毛枕. 會員價:459元. (7) [Slogan]: 青花藤椒春雨呱呱包. 黑糖珍珠甜甜包. (8) [Slogan]: 擁抱金喜 呱好運. [Logo]: TKK Fried Chicken x haha baby.",
+      "visual_human_presence": {
+        "totalHumanCount": 35,
+        "maleDetectAmount": 15,
+        "femaleDetectAmount": 20,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Crowd"
+        ],
+        "countingEvidence": "2 main creators (man in yellow, woman in maroon), many reporters in the middle section, and various fans in the group shots at the end.",
+        "mainCharacterDescription": "A woman with her hair in two small buns wearing a maroon oversized hoodie and a beige skirt. A man wearing a yellow and white color-blocked polo shirt and loose blue jeans."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Restaurant / Dining",
+          "Studio"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A vibrant indoor studio with character-themed wall graphics and a TKK Fried Chicken restaurant interior with menus, counters, and promotional posters.",
+        "lightingStyle": [
+          "Bright studio lighting",
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Winter"
+        ],
+        "colorTone": [
+          "Warm and vibrant",
+          "High saturation"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Panning",
+          "Zoom in",
+          "Static",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Close-up",
+          "Medium shot",
+          "Full shot",
+          "Group shot",
+          "Insert shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "High angle"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Fast cuts",
+          "Montage",
+          "Graphic transition",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Fast pace",
+          "Rhythm matched to music"
+        ],
+        "takeStructure": [
+          "Compilation / montage sequence"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Cartoon / animated animal"
+        ],
+        "foodsDetect": [
+          "Meat / beef / pork / chicken",
+          "Dessert / cake / cookies",
+          "Beverage / juice",
+          "Prepared meal / plated dish",
+          "Fast food / burger / fries / pizza"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Camera / DSLR",
+          "Microphone / lavalier mic",
+          "TV / display screen"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "TKK Fried Chicken",
+          "haha baby"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 4,
+        "male_vocal_count": 1,
+        "female_vocal_count": 3,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Rising",
+          "Complex"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 126,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Cheering",
+          "Applause",
+          "Chatter"
+        ],
+        "crowdNoiseIntensity": 3,
+        "ambientNoiseDetails": [
+          "Commercial/Recreational",
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "Food Bite / Crunch",
+          "Object Impact / Thud / Drop",
+          "Camera Shutter / Camera Operation"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Ding / Bell SFX",
+          "Cartoon / Comedy SFX",
+          "Pop / Bubble SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Cross-fade"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio",
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) High-tempo electronic pop music with a bright synth melody and driving 4/4 beat starts immediately. A female voice with a high-pitched, enthusiastic tone begins a fast-paced narration. (2) A sharp 'pop' and 'whoosh' sound effect triggers a transition. The speaker introduces collaboration details as the music continues with consistent energy. (3) Sound of multiple camera shutters and muffled crowd cheering enters the mix as the scene shifts to a public event. The female voice maintains high arousal, clearly audible above the background noise. (4) A crisp 'crunch' sound effect is synchronized with a food bite, followed by short cartoonish ding sounds to emphasize product prices. (5) The track features a collective 'Yeah!' cheer from a mixed group of voices during the final photos. The music concludes with a bright melodic riser."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Promotion / Advertisement / Indoresment",
+        "Vlog",
+        "Food Review"
+      ],
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "Unknown"
+          "Kinmen"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video begins with rapid close-ups of colorful posters and logos on glass windows. (2) A woman in a red hoodie and a man in a yellow-and-white checkered shirt pose energetically with large, character-themed cushions in front of a branded backdrop. (3) Shots transition between various merchandise items like small pouches, lanyards, and pillows, followed by a close-up of fried food in a bucket. (4) The scene shifts to a press-style event where the two main characters stand behind a microphone stand, surrounded by a large crowd of photographers and reporters with various recording equipment. (5) The woman in the red hoodie is seen speaking directly towards the camera in a room filled with merchandise, holding up different items like a colorful lanyard and a pink plush bag. (6) The characters are then shown wearing face masks and blue gloves, working behind a fast-food service counter, interacting with customers and handing over branded paper bags. (7) A montage follows showing the woman happily eating a piece of fried chicken and breaking open a small bun to reveal a dark filling. (8) The video concludes with several group photos of the main characters posing with a large crowd of fans and staff, all giving thumbs up or peace signs.",
-      "audio_narrative_log": "(1) High-energy, upbeat electronic pop music with a fast tempo starts immediately and remains constant. (2) Multiple voices are heard simultaneously, creating a lively atmosphere of a public event; a male voice speaks enthusiastically followed by a clear female voice. (3) The female voice becomes dominant, delivering a fast-paced, high-pitched, and excited narrative in Mandarin. (4) Subtle sound effects like 'pops' or 'dings' are heard accompanying the visual transitions of products. (5) Occasional background chatter and camera shutter sounds are audible during the press conference and store service segments.",
-      "text_narrative_log": "(1) Functional text includes dates like '2025.01.15' and 'MAR 31 2025' indicating the campaign period. (2) Product prices such as '$399', '$379', and '$479' are shown next to specific items. (3) Decorative 'hook' text appears in large, bold Chinese characters including the brand names 'TKK Fried Chicken' and 'haha baby', as well as promotional phrases like 'One day store manager' and 'limited collaboration'. (4) Functional subtitles provide a literal transcription of the woman's narration regarding the product details and availability."
     },
     "temporal_pacing_summary": {
-      "sceneCutCount": 48,
-      "averageSceneDuration": 1.29,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Event Promotion -> Product Showcase -> Behind-the-scenes Service -> Food Tasting -> Community Celebration"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 35,
-      "maleDetectAmount": 15,
-      "femaleDetectAmount": 20,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Head and shoulders"
-      ],
-      "crowdLevel": "Crowd",
-      "countingEvidence": "2 main influencers, approximately 15 reporters/photographers, and 18+ fans/staff in the final group shots.",
-      "mainCharacterDescription": "One female with her hair in two buns wearing a red oversized hoodie; one male wearing a yellow and white checkered shirt with blue jeans."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Fast Food Restaurant",
-          "Studio",
-          "Event Space"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "Features a TKK Fried Chicken store interior with menu boards and service counters, as well as a dedicated event space with a 'haha baby' branded colorful wall mural.",
-      "lightingStyle": "Bright, high-key indoor lighting suitable for promotional content.",
-      "weather": "None",
-      "season": "None",
+      "sceneCutCount": 42,
+      "averageSceneDuration": 1.5,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "High Saturation",
-      "cameraWork": [
-        "Static",
-        "Follow shot",
-        "Hand-held",
-        "POV"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Fried Chicken",
-        "Buns",
-        "Sweet Potato Balls"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Microphone",
-        "DSLR Camera",
-        "Smartphone",
-        "Video Camera"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "TKK Fried Chicken",
-        "haha baby"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade",
-      "vocalRatio": "Medium"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 1,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited, friendly, and promotional",
-        "pitch": "High-pitched",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic Pop",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Electronic Drums"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Pop SFX",
-        "Ding"
-      ],
-      "ambientNoise": [
-        "Crowd chatter",
-        "Camera shutters"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Event Highlight -> Product Features -> Interactive Experience -> Conclusion",
-      "mainPurpose": "This video serves as a promotional highlight for a cross-brand collaboration between 'TKK Fried Chicken' and 'haha baby'. It aims to generate excitement for the limited-edition merchandise and food menu items by showing the influencers' active participation in a launch event and their direct interaction with the products and customers.",
-      "visualEmotion": "Energetic, joyful, and commercial"
+      "narrativeStructure": "Montage: Hook -> Product Showcase -> Event Coverage -> Food Review -> CTA",
+      "mainPurpose": "To announce and promote the limited-time collaboration between the YouTuber's brand 'haha baby' and the fast-food chain 'TKK Fried Chicken', highlighting specific merchandise, new menu items, and the 'One-Day Store Manager' event.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -173,15 +299,12 @@
         "Explicit",
         "Full"
       ],
-      "endorsementCues": "The influencers are wearing the brand's uniform, working in the store, and directly pitching specific products and prices to the camera.",
+      "endorsementCues": "The video is a dedicated promotional piece for a brand collaboration, featuring brand logos, product close-ups, pricing, and event dates.",
       "endorsementObject": [
         "TKK Fried Chicken",
         "haha baby"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-energy presentation style characteristic of Taiwanese lifestyle vloggers.",
-      "freeDescribe": "The video uses very fast-paced editing and bright colors to appeal to a younger, trend-conscious demographic."
-    }
+    "freeDescribe": "The video utilizes a high-energy social media editing style with frequent text overlays and sound effects to maintain viewer engagement for a commercial announcement."
   }
 }

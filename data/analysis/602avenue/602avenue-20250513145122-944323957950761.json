@@ -1,15 +1,239 @@
 {
   "videoName": "602avenue-20250513145122-944323957950761.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 19,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Comedy",
-        "Short Video"
-      ],
+      "videoDuration": 18,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A young man with black hair, wearing a black puffer vest over a black turtleneck, stands on a paved urban sidewalk at night. He looks directly at the camera with a neutral but attentive expression. The background features blurred city lights, shop signs with Chinese characters, and a quiet street environment. (2) The man leans closer to the camera, smiling broadly and gesturing with his hands as he speaks. Inset graphics of Taiwanese breakfast items (soy milk and fried dough sticks) appear briefly on the left. The lighting is dominated by artificial street lamps and shop glows. (3) He stands upright again, holding a small white plastic bag in his left hand. He pauses, looking thoughtful for a second, then smiles and brings both hands together in a prayer-like or grateful gesture near his chest. (4) A second man, wearing a blue puffer jacket, enters from the right. He smiles at the camera and mimics the prayer-like hand gesture, appearing to give instructions or demonstrating a specific mannerism. A small lavalier microphone is visible on his jacket collar. (5) Both men are now in the frame, standing side-by-side. They are smiling widely, moving their heads rhythmically, and repeatedly performing the hand gesture while looking at the camera in a friendly, high-energy manner.",
+      "text_narrative_log": "(1) [Variety]: POV 剛學台語的韓國歐巴🇰🇷. [Slogan]: 你說說剛學到的🇹🇼台語吧！. [Subtitle]: 배우 대만 방언 말해주세요. (2) [Slogan]: 我可是有學到一句！. [Variety]: 豆漿?... 原來是「多謝」😍. [Subtitle]: 하나 배웠습니다. (3) [Slogan]: 還有！. [Variety]: ?????? 感恩 !. [Subtitle]: 이랑... (4) [Slogan]: 不不 感恩要這種氣氣. [Variety]: (不確定有什麼差異😂). [Subtitle]: 이게 감은 살짝 이런 느낌으로. (5) [Variety]: 多謝 多謝 多謝. [Slogan]: 如果在台北看到韓國男人講多謝的話就是他們兩個囉^^...",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "2 main male creators interacting with the camera.",
+        "mainCharacterDescription": "Two young Asian men; one in a black puffer vest and black turtleneck, the other in a blue puffer jacket."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Outdoor Street"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A typical urban street in Taiwan at night with shop signs in Chinese, parked scooters, and soft artificial lighting.",
+        "lightingStyle": [
+          "Night artificial light"
+        ],
+        "weather": [
+          "Night clear"
+        ],
+        "season": [
+          "Winter"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Fast cuts"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "Korean",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Soy milk",
+          "Fast food / burger / fries / pizza"
+        ],
+        "trafficDetect": [
+          "Scooter / motorcycle"
+        ],
+        "techDetect": [
+          "Microphone / lavalier mic"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 3,
+        "male_vocal_count": 2,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly"
+        ],
+        "vocalLanguage": [
+          "Korean",
+          "Other"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Rising"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop"
+        ],
+        "tempoBPM": 124,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Synthesizer",
+          "Electronic",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Urban/Traffic"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Ding / Bell SFX",
+          "Pop / Bubble SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) A female voice asks a question in Korean with a polite, inquiring tone. Upbeat, high-tempo electronic pop music fades in. Background ambient noise is a faint urban hum. (2) A male voice responds in Korean with a cheerful, energetic tone. He then says 'Do-sia' with a clear, sharp rising intonation, followed by a 'Ding' sound effect. The BGM beat is prominent. (3) The same male voice says 'and' in Korean, pauses briefly, then articulates 'Gam-un' with high pitch and strong volume. A 'Pop' sound effect triggers immediately after. (4) A second male voice with a slightly deeper, warmer timbre enters, speaking Korean and laughing lightly. He explains the 'feeling' of the word with a gentle, explanatory cadence. (5) Both male voices join together, chanting 'Do-sia' in a fast, rhythmic, and high-pitched manner several times. The voices overlap with the energetic BGM and conclude with shared laughter and a final upbeat musical flourish."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Vlog"
+      ],
       "location": {
         "country": [
           "Taiwan"
@@ -19,144 +243,20 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video starts with a young Korean man in a black jacket and a black scarf standing on a sidewalk at night. He is looking at the camera with a curious expression. (2) As he speaks, a pop-up image of soy milk and fried dough sticks appears at the bottom of the screen, followed by his transition into a wide smile. (3) A second man wearing a blue puffer jacket enters the frame from the left. Both men stand together, putting their hands together in a prayer-like gesture of gratitude. (4) The two men laugh, wave at the camera, and repeatedly bow slightly while continuing to smile brightly against the backdrop of a brightly lit storefront.",
-      "audio_narrative_log": "(1) A male voice starts speaking in a mix of Korean and Mandarin with a friendly tone. There is light ambient street noise. (2) An upbeat, medium-tempo electronic background music track enters as the man says 'Toh-sia' (Hokkien for thank you). (3) Sound effects like a subtle 'ding' occur when text/images appear. (4) Two male voices are heard laughing and repeating the phrase 'Toh-sia' several times until the audio fades out.",
-      "text_narrative_log": "(1) Hook text at the top: 'POV 剛學台語的韓國歐巴' (POV: Korean Oppa who just learned Taiwanese Hokkien) with a South Korean flag emoji. (2) Functional subtitles: '你說說剛學到的台語吧！' (Tell me the Taiwanese you just learned!) and '我可是有學到一句！' (I actually learned one sentence!). (3) Decorative/Pun text: '豆漿？...' (Soy milk?...) with a food image, followed by '原來是「多謝」' (Turns out it was 'thank you'). (4) Closing hook: '如果在台北看到韓國男人講多謝的話就是他們兩個囉' (If you see Korean men saying thank you in Taipei, it's these two)."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 6,
-      "averageSceneDuration": 3.1,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro -> Language Demo -> Pun reveal -> Duo interaction/Outro"
+      "sceneCutCount": 4,
+      "averageSceneDuration": 4.5,
+      "editingPace": "Fast",
+      "isNarrativeShift": false
     },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 2,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Waist up",
-        "Hands"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "1 main creator in black, 1 friend in blue joining later.",
-      "mainCharacterDescription": "Two stylish young Korean men; one in a black leather jacket and scarf, the other in a bright blue puffer jacket."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Outdoor Street"
-        ],
-        "topography": [
-          "Plain"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A nighttime city street in Taipei with illuminated storefronts, a red poster on a glass door, and a street light casting a warm glow.",
-      "lightingStyle": "Natural night lighting with artificial store lights",
-      "weather": "Clear",
-      "season": "Winter/Spring (based on heavy jackets)",
-      "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese",
-          "Korean"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "POV"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Soy milk",
-        "You tiao"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Fade-in BGM",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 2,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Friendly and humorous",
-        "pitch": "Normal",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin",
-          "Korean",
-          "Taiwanese Hokkien"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop",
-      "bgmBPM": 115,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Keyboard"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "Ding"
-      ],
-      "ambientNoise": [
-        "Studio quiet",
-        "Street noise"
-      ],
-      "audioQuality": "Field"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Evidence -> Interaction",
-      "mainPurpose": "The video is a lighthearted cultural vlog intended to entertain by showing the humorous side of Korean people learning Taiwanese Hokkien. It uses a phonetic pun between 'Toh-sia' (thank you) and 'Dou-jiang' (soy milk) to create a comedic moment, followed by a wholesome interaction between friends.",
-      "visualEmotion": "Humorous and Warm"
+      "narrativeStructure": "List-based: Hook -> Interaction 1 -> Interaction 2 -> Demonstration -> Outro",
+      "mainPurpose": "To entertain by showing Korean men attempting to speak Taiwanese Hokkien in a humorous and charming way, highlighting cultural interaction and the 'cuteness' of their linguistic efforts.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -168,9 +268,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Korean-accented Taiwanese, POV style",
-      "freeDescribe": "The use of 'Oppa' in the title and the focus on linguistic puns makes this highly relatable to a Taiwanese audience interested in Korean culture."
-    }
+    "freeDescribe": "The video uses typical social media editing styles with variety-show captions and sound effects to enhance the comedic effect of the language learning challenge."
   }
 }

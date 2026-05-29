@@ -1,175 +1,282 @@
 {
   "videoName": "cocowine0205-20251228171506-1241360020806554.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 15,
-      "aspectRatio": "9:16",
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A young woman with long black hair, wearing a brown fuzzy jacket and a white and grey checkered skirt, stands in a warehouse supermarket aisle. She holds two small white paper plates containing food samples—a shrimp salad bun and a small cake roll. A hand appears from the left side of the frame, holding another small cake sample toward her. Behind her are refrigerated metal shelves stocked with various packaged meat products under bright, flat indoor lighting. (2) The camera transitions to a close-up of the food samples. One plate features a generous portion of shrimp salad in a bun, followed by a close-up of a hand holding a piece of coffee-colored layered cake. The camera focuses on the size and texture of the food. (3) The shot returns to the woman in a medium full shot. She continues speaking to the camera with a bright, smiling expression, occasionally gesturing with the plates. Other shoppers and a silver shopping cart are partially visible in the background as she stands in the open aisle.",
+      "text_narrative_log": "(1) [Logo]: COSTCO WHOLESALE. [Slogan]: 逛好市多的正確時間. [Variety]: 吃不完的試吃!!! (2) [Subtitle]: 大家好我是多拉. [Subtitle]: 要打烊的時候食物都是那麼大. [Subtitle]: 我們沙拉堡 哇我的天吶. [Subtitle]: 每一個都是這樣子小拳頭的量. [Subtitle]: 然後這個蛋糕比雨拿了 哇兩個口味. (3) [Subtitle]: 天吶. [Subtitle]: 所以大家最值得逛好市多時間是什麼. [Subtitle]: 晚上8點半.",
+      "visual_human_presence": {
+        "totalHumanCount": 3,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face close-up",
+          "Hands only",
+          "Full body"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main female speaker, 1 person's hand offering food, and 1 female shopper in the background.",
+        "mainCharacterDescription": "A young Asian woman with long, straight dark hair, wearing a brown zip-up fuzzy jacket over a checkered skirt."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Supermarket / Warehouse Store"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A Costco warehouse interior featuring long, open aisles with refrigerated stainless steel shelves containing pre-packaged food like meat and salads. Bright white industrial lighting illuminates the space.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Autumn / Winter"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Static",
+          "Zoom in"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Jump cut",
+          "Straight cut",
+          "Graphic transition"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Bread / pastry",
+          "Seafood / fish / shrimp",
+          "Dessert / cake / cookies",
+          "Prepared meal / plated dish"
+        ],
+        "trafficDetect": [
+          "Shopping cart"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "COSTCO WHOLESALE"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Synthesizer",
+          "Electronic",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 1,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "Clothing / Fabric Rustle"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX"
+        ],
+        "soundEffectsIntensity": 2,
+        "soundEffectsCoverage": 1
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A female voice speaks with a high-pitched, enthusiastic tone and rapid speech rate, introducing herself as Dora. An upbeat, major-mode electronic BGM track with a steady 4/4 beat starts immediately. There is a low-level indoor background hum consistent with a commercial space. (2) As she describes the large portions of the samples, her vocal arousal increases, punctuated by variations in pitch. The music remains consistent with a synthetic bass and light percussion. A sharp 'whoosh' sound effect triggers during the transition between shots of the shrimp salad and the cake. (3) The speaker asks a question using a rising pitch contour, followed by a slight pause and a definitive answer. The BGM concludes with a final synthesized chord as she finishes speaking, with the overall audio maintaining high clarity and a narrow dynamic range typical of a social media vlog."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
         "Vlog",
-        "Food",
-        "Lifestyle"
+        "Food Review",
+        "Shopping"
       ],
-      "withRealPeople": true,
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "Unknown"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman with long dark hair stands in front of Costco meat display cases, holding a small plate with a food sample. Large text hooks are overlaid on the screen. (2) Hands reach into the frame multiple times to offer her larger-than-usual food samples including cakes and salad buns. The woman looks surprised and delighted as she receives them. (3) She shows multiple plates of samples simultaneously towards the camera, smiling while more text appears concluding the tip.",
-      "audio_narrative_log": "(1) Upbeat, medium-tempo electronic background music starts immediately. A young woman's voice (Dora) introduces herself and excitedly talks about the 'correct time' to visit Costco. (2) The sound of a busy supermarket environment with distant chatter is audible under the narration. The speaker continues describing the large portions of free samples available. (3) The music continues at a steady pace as the speaker delivers the final punchline about the specific time to visit, ending with an energetic tone.",
-      "text_narrative_log": "(1) '逛好市多的正確時間' (Correct time to visit Costco) - Hook text, informative. (2) '吃不完的試吃!!!' (Endless samples!!!) - Decorative text, enthusiastic tone. (3) '大家好我是Dora' (Hi everyone, I'm Dora) - Functional text, self-introduction. (4) Functional subtitles are present throughout, translating the speaker's Mandarin narration into Traditional Chinese text."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 11,
-      "averageSceneDuration": 1.36,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Hook -> Demo of food samples -> Conclusion/Secret reveal"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 3,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Head and shoulders"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 main female creator, 1 female passer-by in background, 1 person (likely male based on watch) whose hands are visible giving out samples.",
-      "mainCharacterDescription": "A young woman with long black hair wearing a brown puffer-style jacket with a faux-fur collar."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Supermarket"
-        ],
-        "topography": [
           "None"
         ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A typical Costco warehouse interior with refrigerated shelving units containing packaged meat and bakery products.",
-      "lightingStyle": "Bright artificial supermarket lighting",
-      "weather": "Indoor",
-      "season": "Winter (inferred from clothing)",
-      "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Handheld",
-        "Static"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Cake",
-        "Salad",
-        "Bread",
-        "Meat"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Costco Wholesale"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 2,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and energetic",
-        "pitch": "Medium-high",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
-        ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Supermarket chatter"
-      ],
-      "audioQuality": "Field"
-    }
-  },
-  "high_inference_interpretations": {
-    "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Evidence -> Conclusion",
-      "mainPurpose": "To share a lifestyle 'hack' or tip for Costco shoppers, demonstrating that visiting near closing time results in significantly larger free food samples. The video uses the creator's surprise and the physical evidence of the food to validate the tip.",
-      "visualEmotion": "Energetic and pleasant"
+    "temporal_pacing_summary": {
+      "sceneCutCount": 4,
+      "averageSceneDuration": 3.75,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
     },
-    "endorsement_analysis": {
-      "isEndorsement": false,
-      "endorsementMethod": [
-        "None"
-      ],
-      "endorsementCues": "The video is presented as a personal tip/vlog rather than a formal sponsorship.",
-      "endorsementObject": [
-        "None"
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Demonstration -> Key Advice",
+      "mainPurpose": "To share a shopping 'hack' for Costco, informing viewers that food samples are significantly larger when the store is nearing its closing time.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Self-introduction opening ('大家好我是Dora').",
-      "freeDescribe": "Typical short-form social media formatting with high-contrast text overlays and fast-paced editing to maximize engagement."
-    }
+    "endorsement_analysis": {
+      "isEndorsement": true,
+      "endorsementMethod": [
+        "Implicit",
+        "Integrated"
+      ],
+      "endorsementCues": "The video prominently features the Costco logo and showcases their products in a positive, helpful light for the consumer.",
+      "endorsementObject": [
+        "COSTCO"
+      ]
+    },
+    "freeDescribe": "The video uses a typical fast-paced social media vlog format with energetic narration and colorful text overlays to engage a lifestyle-oriented audience."
   }
 }

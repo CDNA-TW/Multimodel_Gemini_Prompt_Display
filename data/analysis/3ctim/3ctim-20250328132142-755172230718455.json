@@ -1,15 +1,248 @@
 {
   "videoName": "3ctim-20250328132142-755172230718455.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 49,
-      "aspectRatio": "1:1",
-      "videoGenre": [
-        "Vlog",
-        "Interview",
-        "Career Story"
-      ],
+      "videoDuration": 50,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A middle-aged man with a gray newsboy cap, round glasses, and a red Roots brand polo shirt is seen driving a car. He speaks animatedly with his mouth open, gesturing with his head. A cartoon Shiba Inu character is overlaid in the center-bottom of the frame. (2) The camera angle shifts slightly to a side profile as the man continues to drive through an urban area. Buildings and greenery are visible through the car's side windows. The lighting is bright and natural daylight. (3) The man looks towards the camera (the passenger seat) while explaining something, occasionally taking one hand off the steering wheel to gesture. His facial expressions are expressive and engaged as he recounts a story.",
+      "text_narrative_log": "(1) [Logo]: 3c有趣思tim哥. [Logo]: @3ctim. [Subtitle]: 你難道50歲！ [Variety]: 你難道50歲！ (2) [Subtitle]: 你還要站在旁邊盯場嗎？ (3) [Subtitle]: 老闆！你說你以前是做活動公司的，那為什麼現在會變成 YouTuber？ (4) [Subtitle]: 沒有，其實中間有一個過渡期，就是我那時候做活動公司，然後做了一陣子以後，突然有一個廠商跟我講了一句話，讓我心有戚戚焉。 (5) [Subtitle]: 他跟我說：你難道50歲！你還要站在旁邊盯場嗎？ (6) [Subtitle]: 這句話開啟了我，後來就開始轉型了，幫品牌公司做贈品。 (7) [Subtitle]: 我發現做活動除了軟硬體設備以外，來參加的媒體或消費者，他們都要拿到一個小禮物。 (8) [Subtitle]: 欸，我覺得我可以幫一些品牌做這些贈品，因為我知道我做了活動的經驗，我可以去包裝說哪些的贈品是消費者想要的，所以我就第一次轉型。 (9) [Subtitle]: 那你那時候不就等於說你還要從頭去找說製造的廠商。 (10) [Subtitle]: 那又是一個故事了，超累的。",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 male driver as the main character; interviewer is off-camera.",
+        "mainCharacterDescription": "A middle-aged man wearing a patterned newsboy cap, glasses, and a red short-sleeved polo shirt with a circular logo on the chest."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Car / Van Interior"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "Interior of a modern car with a black headliner. The windows show a moving urban environment with apartment buildings, street trees, and a gray overcast sky.",
+        "lightingStyle": [
+          "Natural daylight"
+        ],
+        "weather": [
+          "Cloudy / Overcast"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Side view"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Rhythm matched to speech"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Cartoon / animated animal"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "Car"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Roots"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 2,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Casual",
+          "Animated/Excited",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 6,
+        "valence": 7,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Acoustic/Folk"
+        ],
+        "tempoBPM": 120,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "String",
+          "Percussion",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Guitar",
+          "Piano",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone",
+          "Urban/Traffic"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Mechanical Click / Latch"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Pop / Bubble SFX",
+          "Ding / Bell SFX",
+          "Whoosh / Transition SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) High-energy male voice opens the dialogue over a light, upbeat acoustic guitar and piano BGM track. A clear 'ding' sound effect punctuates the first sentence. (2) The primary speaker maintains a rapid, narrative speech rate. A second, softer male voice (the interviewer) is heard asking a question with a curious tone. (3) Subtle bubble-pop sound effects occur whenever variety-style text appears on the screen. (4) The conversation continues with the main speaker's voice dominating the mix, ending with a humorous tone and a final narrative flourish as the BGM maintains a steady, positive rhythmic bed."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Personal Talk",
+        "Storytelling",
+        "Vlog"
+      ],
       "location": {
         "country": [
           "Taiwan"
@@ -19,155 +252,31 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video is a live-action recording of a man driving a car. He wears a checkered flat cap, glasses, and a red polo shirt. He is speaking animatedly while gesturing with his hands. (2) As he drives through an urban environment, variety-show style text overlays and dog stickers appear on the screen. (3) The man continues his story, looking between the road and the off-camera interviewer, maintaining an expressive facial expression.",
-      "audio_narrative_log": "(1) A male voice (onscreen) speaks with high energy and an enthusiastic tone. An upbeat, medium-tempo electronic background track is playing. (2) A second male voice (offscreen) is heard asking questions, creating a conversational interview style. (3) The sound of the car engine and muffled outside traffic noise provide a consistent ambient layer throughout the dialogue.",
-      "text_narrative_log": "(1) Decorative/Hook Text: '你難道50歲！你還要站在旁邊盯場嗎？' (Don't tell me you're 50! Do you still want to be standing on the sidelines monitoring the site?) - provocative and dramatic tone. (2) Functional Text: '老闆！你說你以前是做活動公司的...為什麼現在會變成 YouTuber' (Boss! You said you used to run an event company... why did you become a YouTuber?) - informative and curious tone. (3) Functional Text: '幫品牌公司做贈品' (Doing giveaways/gifts for brand companies) - explanatory tone."
-    },
     "temporal_pacing_summary": {
       "sceneCutCount": 12,
-      "averageSceneDuration": 4.08,
-      "isNarrativeShift": false,
-      "mainActionFlow": "The video follows a constant talking-head flow inside a moving car, structured as an interview Q&A."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Upper body",
-        "Hands",
-        "Head"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main male creator is visible in the driver's seat.",
-      "mainCharacterDescription": "A middle-aged man wearing glasses, a checkered brown flat cap, and a red polo shirt with a visible logo."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Car"
-        ],
-        "topography": [
-          "Urban"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "The interior of a modern car with a view of city buildings and streets through the side window.",
-      "lightingStyle": "Natural daylight from outside the car windows.",
-      "weather": "Overcast",
-      "season": "Unknown",
+      "averageSceneDuration": 4.16,
       "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "POV"
-      ]
+      "isNarrativeShift": false
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "Car"
-      ],
-      "techDetect": [
-        "Car Console"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Roots"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 2,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Friendly and humorous",
-        "pitch": "Normal",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat",
-      "bgmBPM": 115,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Traffic",
-        "Car Engine"
-      ],
-      "audioQuality": "Field"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Question -> Reflection -> Insight",
-      "mainPurpose": "The video aims to share a pivotal moment in the creator's career journey. By recounting a blunt comment from a client about his age and role, the creator explains the motivation behind his transition from traditional event planning to becoming a content creator/YouTuber.",
-      "visualEmotion": "Energetic and Reflective"
+      "narrativeStructure": "Linear: Hook -> Narrative -> Insight",
+      "mainPurpose": "The creator, a well-known tech influencer in Taiwan, shares a personal story about his career transition. He explains how a provocative question from a client about his age made him realize the physical limitations of running an event production company, leading him to pivot into the merchandise business and eventually content creation.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "humorous"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
       "endorsementMethod": [
         "None"
       ],
-      "endorsementCues": "The video focuses on personal career storytelling rather than promoting a specific product.",
+      "endorsementCues": "None",
       "endorsementObject": [
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Usage of shiba inu stickers and '3c有意思Tim哥' watermark branding.",
-      "freeDescribe": "Typical 'car-talk' vlog format which creates a sense of intimacy and authenticity with the audience."
-    }
+    "freeDescribe": "The video is a typical social media story/vlog snippet with high information density provided via speech and subtitles. The casual car setting and conversational tone make it feel authentic and relatable."
   }
 }

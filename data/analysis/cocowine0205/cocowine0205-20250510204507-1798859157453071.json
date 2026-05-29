@@ -1,164 +1,262 @@
 {
   "videoName": "cocowine0205-20250510204507-1798859157453071.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 47,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Shopping",
-        "Product Review"
-      ],
+      "videoDuration": 46,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A young woman with long dark hair, wearing a white crochet-style shrug over a dark brown dress, stands in the aisle of a warehouse supermarket. She is positioned next to a retail display showcasing large, grey Moai-head-shaped planters. The environment features bright, overhead industrial lighting and metal shelving units in the background. The woman smiles and gestures toward the products as she speaks, her hands moving dynamically to emphasize her points. (2) The scene shifts to a tighter framing of the Moai planters on the shelf. There are three distinct versions: one with a rough, grey stone-like texture, one with a smooth mint green finish, and another with a terracotta-colored surface. The woman’s hand, wearing a pink watch strap, is seen touching the textured grey planter to highlight its material details and size relative to her hand. (3) The woman picks up the mint green planter and turns it upside down to display its underside to the camera. She points her index finger at a circular drainage hole in the center of the base, demonstrating the functional aspect of the item. The background shows blurred warehouse shelves stacked with various boxes and household goods, characteristic of a large-scale retail store. (4) In the final segment, the woman returns to a medium shot, standing in front of the Moai display and engaging directly with the camera. She uses expressive hand gestures and facial expressions to deliver her concluding remarks. The store's department signage, specifically for the meat section, is visible in the upper background, and yellow text overlays appear briefly across the lower third of the frame.",
+      "text_narrative_log": "(1) [Logo]: COSTCO WHOLESALE. [Slogan]: 300元超便宜. [Slogan]: 摩艾石盆栽. [Subtitle]: 妹妹最喜歡的. (2) [Variety]: 摩艾石控注意了. [Subtitle]: 好市多新進這個三個一波的摩艾石盆栽. (3) [Slogan]: 陶土橘. [Slogan]: 1149元. [Slogan]: 超划算. [Subtitle]: 底部也有漏水孔. (4) [Slogan]: 有漏水孔喔. [Subtitle]: 是一個很不錯的盆栽. [Subtitle]: 可以考慮看看哦.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main female creator presenting the product directly to the camera.",
+        "mainCharacterDescription": "A young female with long dark hair, wearing a white lacy shrug and a brown pleated dress."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Supermarket / Warehouse Store"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "Costco warehouse interior with high-reaching metal industrial shelving, boxed merchandise, and department signage such as 'PORK' and 'BEEF'.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Costco"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop"
+        ],
+        "tempoBPM": 120,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Mechanical Click / Latch"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Sparkle / Magic SFX",
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio opens with a high-pitched, enthusiastic female voice delivering an energetic introduction. A mid-tempo electronic pop background track provides a steady beat at approximately 120 BPM. A bright 'sparkle' sound effect triggers at the one-second mark, coinciding with the narrator’s initial excitement. (2) As the narrator describes the variety of planter colors, her speech remains fast-paced and clearly articulated. Additional 'sparkle' sound effects trigger periodically to emphasize visual transitions. The background music maintains a consistent volume, featuring synthesized keyboard textures and a light percussive rhythm with no audible background environmental noise. (3) A distinct 'ding' sound effect occurs as the narrator announces the price of the products. Her vocal arousal increases, characterized by a louder intensity and more dramatic pitch variability. The music continues to overlap seamlessly with the primary speech, providing a rhythmic bed that supports the upbeat promotional tone of the review. (4) The narrator concludes her presentation with a warm and persuasive vocal delivery, maintaining a high level of clarity. A minor incidental sound, likely from the planter being placed back on the shelf, is heard faintly. The background music persists until the final second, ending with a clean finish and high overall signal fidelity."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Product Review",
+        "Shopping",
+        "Lifestyle"
+      ],
       "location": {
         "country": [
-          "Taiwan"
+          "Unknown"
         ],
         "city": [
           "Unknown"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman with long dark hair, wearing a white lace cardigan over a brown dress, stands in front of a shelf in a Costco warehouse. She points excitedly at a large grey stone-textured Moai-shaped planter. (2) The camera zooms in on the planters, showing three different sizes and colors: a large grey stone one, a medium light-green one, and a smaller terracotta-orange one. The woman's hand touches the textures to demonstrate the material. (3) She picks up the green Moai planter to show its underside, highlighting a drainage hole. She gestures toward the price tag and the surrounding Costco environment, which includes signs for meat products and shelves of tools.",
-      "audio_narrative_log": "(1) Upbeat and energetic pop music plays in the background. A female voice starts speaking with high excitement, introducing the Moai planters found at Costco. (2) A male voice joins off-screen, engaging in a dialogue about the price and the weight of the items. The sound of light tapping on the ceramic/stone material is heard. (3) Short sound effects like 'dings' and 'sparkle' chimes are added during key feature reveals. The female speaker concludes with a recommendation as the music maintains its lively tempo.",
-      "text_narrative_log": "(1) Functional Text: Subtitles in Traditional Chinese throughout the video translating the dialogue. (2) Decorative/Hook Text: Large, colorful titles appear: '300元超便宜' (300 dollars super cheap), '摩艾石盆栽' (Moai stone planter), and '摩艾石控注意了' (Moai fans pay attention). (3) Content & Tone: The text uses bold fonts and emojis to convey an enthusiastic and helpful shopping guide tone."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 16,
-      "averageSceneDuration": 2.9,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Intro -> Product Detail Showcase -> Feature/Price Analysis -> Summary"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Waist up"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main female creator appears throughout; an off-screen male voice is heard but not seen.",
-      "mainCharacterDescription": "A young Asian woman with long black hair, wearing a white patterned cardigan and a brown ruffled dress."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Retail Store",
-          "Warehouse"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "Costco wholesale warehouse interior with high ceilings, industrial shelving, and department signage for Pork, Poultry, and Beef.",
-      "lightingStyle": "Bright industrial warehouse lighting",
-      "weather": "None",
-      "season": "None",
+      "sceneCutCount": 6,
+      "averageSceneDuration": 7.6,
       "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural and bright",
-      "cameraWork": [
-        "Static",
-        "Follow shot",
-        "Close-up"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "COSTCO WHOLESALE",
-        "DeWALT",
-        "KIRKLAND SIGNATURE"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and friendly",
-        "pitch": "Medium-high",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Digital Drums"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Bell chime",
-        "Sparkle SFX",
-        "Whoosh"
-      ],
-      "ambientNoise": [
-        "Store hum"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Feature Demonstration -> Value Proposition -> Conclusion",
-      "mainPurpose": "The video is a lifestyle and shopping recommendation vlog aimed at Moai enthusiasts. It highlights the availability of a specific Moai-themed planter set at Costco, emphasizing its aesthetic variety, functional drainage features, and cost-effectiveness (approx. 300 TWD per unit) to encourage viewers to purchase.",
-      "visualEmotion": "Energetic and enthusiastic"
+      "narrativeStructure": "List-based: Hook -> Feature Highlight -> Pricing Analysis -> Functional Demo -> Recommendation",
+      "mainPurpose": "To promote and review a set of Moai-head-shaped planters available at Costco, emphasizing their low price point, aesthetic appeal, and functional features like drainage holes to encourage viewers to purchase them.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -166,15 +264,12 @@
         "Implicit",
         "Integrated"
       ],
-      "endorsementCues": "The creator specifically visits a brand-name retailer (Costco), features a specific product set, mentions the exact price, and provides a positive review of its build quality.",
+      "endorsementCues": "The creator is actively showcasing specific retail products, highlighting their price, and recommending them to fans of the Moai theme.",
       "endorsementObject": [
-        "COSTCO",
-        "Moai Planter"
+        "Costco",
+        "好市多"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-density variety-show style text overlays and rapid-fire dialogue between an on-screen and off-screen host.",
-      "freeDescribe": "The video uses typical 'treasure hunting' vlog tropes common in Taiwanese social media to showcase retail finds."
-    }
+    "freeDescribe": "The video uses typical social-media-native editing styles, including high-energy narration, sparkle SFX, and large text overlays to maintain engagement."
   }
 }

@@ -1,171 +1,269 @@
 {
   "videoName": "602avenue-20251004222425-903219402634583.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 14,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Short-form Content"
-      ],
+      "videoDuration": 14.34,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A female character with long dark hair and a white rib-knit top stands in an indoor hallway. A male figure wearing a blue Adidas track jacket stands directly behind her, his facial features obscured by a digital blur filter. The lighting is bright and even, highlighting the clean white interior. (2) The female character performs a series of rhythmic hand gestures, pointing at text overlays that appear in sequence. Her expressions shift from playful to dismissive as she reacts to the different 'ideal type' qualities displayed on the screen. (3) The man behind her leans forward and embraces her in a back hug. She smiles broadly at the camera, her facial arousal high as she points to herself and her partner, signaling the conclusion of the video's narrative reveal.",
+      "text_narrative_log": "(1) [Slogan]: 99%女生理想型. [Slogan]: 99% of Girls Will Agree. [Subtitle]: 帥哥 ✅. (2) [Subtitle]: 暖男 ❌. (3) [Subtitle]: 只對我好的男生 ✅. (4) [Subtitle]: 愛喝冬瓜茶的男生 ✅. (5) [Subtitle]: 我已經有 💖.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Upper body"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 main female creator and 1 male partner appearing in a back hug.",
+        "mainCharacterDescription": "The female has long dark wavy hair, wearing a white long-sleeve knit top. The male wears a blue Adidas jacket with white stripes."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A minimalist white indoor hallway or living area with a visible doorway and closet in the background.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Rhythm matched to music"
+        ],
+        "takeStructure": [
+          "Looped short-form sequence"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Simplified Chinese",
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Adidas"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 0,
+        "female_singer_count": 1,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "English"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Pop / Bubble SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) An upbeat, high-tempo electronic pop BGM starts with a heavy kick drum and bright synth melody. The rhythm is consistent and driving. (2) Short 'pop' sound effects trigger every few seconds, perfectly synchronized with the appearance of the text bubbles on the screen. There is no speech, but high-frequency vocal chops are mixed into the BGM. (3) The track maintains its full frequency spectrum and high arousal level throughout the duration, ending with a clean finish. The mix is professionally compressed and clear."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Short Video",
+        "Comedy",
+        "Meme / Trend"
+      ],
       "location": {
         "country": [
           "Unknown"
         ],
         "city": [
-          "None"
+          "Unknown"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman with long dark hair, wearing a white long-sleeved top and jeans, stands in an indoor hallway. Behind her stands a man in a blue Adidas tracksuit with his face blurred. (2) The woman gestures with her hands, pointing to the man and performing rhythmic movements synchronized with the text overlays listing relationship preferences. Her facial expressions are cheerful and expressive. (3) Towards the end, the man wraps his arms around her from behind in a hug as she smiles and points to the final text overlay reveal.",
-      "audio_narrative_log": "(1) An upbeat electronic dance track with a heavy bassline and male rap vocals starts immediately. (2) The music remains continuous with a consistent, energetic tempo throughout the video. (3) No ambient environmental noise or live spoken dialogue is audible; the soundscape consists entirely of the studio-produced background track.",
-      "text_narrative_log": "(1) Hook text at the top: '99% 女生的理想型 / 99% of Girls Will Agree'. (2) Sequential trait text: '帅哥 ✅' (Handsome guy - Positive), '暖男 ❌' (Warm man - Negative), '只对我好的男生 ✅' (Only good to me guy - Positive), '爱喝冬瓜茶的男生 ✅' (Guy who likes to drink winter melon tea - Positive). (3) Closing reveal text: '我已经有 💖' (I already have [one] - Romantic/Satisfied tone)."
     },
     "temporal_pacing_summary": {
-      "sceneCutCount": 0,
-      "averageSceneDuration": 14.0,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Intro/Hook -> List of traits -> Final reveal/hug."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "1 female main creator in foreground, 1 male with blurred face in background.",
-      "mainCharacterDescription": "A young woman with long dark hair wearing a white fitted long-sleeved top and light blue denim jeans."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Hallway"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A simple indoor residential hallway with a white door, a closet, and warm interior lighting.",
-      "lightingStyle": "Warm indoor light",
-      "weather": "None",
-      "season": "Unknown",
+      "sceneCutCount": 1,
+      "averageSceneDuration": 14.34,
       "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Chinese",
-          "English"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Adidas"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "None",
-      "vocalRatio": "Low"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 0,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Rhythmic and energetic",
-        "pitch": "Medium",
-        "loudness": "High",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "English"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Electronic Pop / Hip-hop Remix",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Copyrighted Song"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Evidence -> CTA/Reveal",
-      "mainPurpose": "The video uses a popular short-video trend to list characteristics of an 'ideal boyfriend' while implicitly endorsing a specific beverage ('Winter Melon Tea'). It concludes with a romantic reveal of the creator's partner to engage viewers emotionally and showcase relationship satisfaction.",
-      "visualEmotion": "Energetic and Happy"
+      "narrativeStructure": "List-based -> Reveal: The video lists several generic 'ideal' traits before revealing the creator's actual relationship status as the punchline.",
+      "mainPurpose": "To participate in a viral social media trend where creators list criteria for an ideal partner, ultimately showing off their actual partner in a heartwarming or comedic reveal.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
-      "isEndorsement": true,
+      "isEndorsement": false,
       "endorsementMethod": [
-        "Implicit",
-        "Integrated"
+        "None"
       ],
-      "endorsementCues": "The text '爱喝冬瓜茶的男生' (Guy who likes to drink winter melon tea) is listed as a specific ideal trait, which is a common form of soft-product placement.",
+      "endorsementCues": "No specific promotional language or links were detected.",
       "endorsementObject": [
-        "冬瓜茶"
+        "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Rhythmic hand gestures synced to text pop-ups; use of blurred 'mystery' partner.",
-      "freeDescribe": "The video follows a classic Douyin/TikTok 'ideal type' challenge format, utilizing beat-sync editing to keep viewers engaged."
-    }
+    "freeDescribe": "The video uses a high-contrast visual style with bright lighting and clearly synchronized text and audio. The emotional turn at the end is reinforced by the sudden physical intimacy of the hug."
   }
 }

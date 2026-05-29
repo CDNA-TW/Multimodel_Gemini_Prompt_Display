@@ -1,162 +1,264 @@
 {
   "videoName": "2uncle987-20250927231124-3281982821982035.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 26,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Promotional",
-        "Retail"
-      ],
+      "videoDuration": 25,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) Outside a white modern building with a 'haha baby HAMU CAFE' sign, a woman with long dark hair, dressed in a grey sweatshirt and white pants, holds a paper airplane. She smiles at the camera and throws it towards the building entrance. (2) The camera switches to a first-person perspective, following the paper airplane's flight path. It glides through the glass door, soaring over wooden tables filled with yellow bottles and packaged goods. The lighting is bright and inviting. (3) The airplane continues its journey, banking around a corner and flying up a set of grey concrete stairs with white railings. In the background, wooden shelves display colorful patterned helmets and blue plush toys, maintaining a playful atmosphere. (4) Entering the second floor, the airplane flies through a clothing showroom. It zips past racks of colorful children's and adult clothing, then glides over a long wooden shelf lined with numerous pairs of white and patterned shoes. (5) The paper airplane finally reaches the woman, who is now standing in the showroom. She catches it with a joyful expression, unfolds the paper, and reveals a handwritten message in Chinese inviting viewers to an event. (6) The woman holds the unfolded paper close to the camera, then bursts into a happy dance. She waves her arms and hops around in the room filled with clothing racks, her pink shoes adding a vibrant touch to the energetic scene.",
+      "text_narrative_log": "(1) [Variety]: 一定要看到最後. [Logo]: haha baby HAMU CAFE. (2) [Slogan]: 惜福祭 等你來喔.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "One woman is seen throughout the video, first throwing then catching the paper airplane.",
+        "mainCharacterDescription": "A woman with long black hair wearing a grey and black striped sweatshirt, white baggy sweatpants, and pink platform shoes."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Retail Store",
+          "Cafe / Tea Shop"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The video transitions from the exterior of a white minimalist building into a cafe area with wooden merchandise shelves, and then upstairs into a bright clothing showroom with white walls and grey stairs.",
+        "lightingStyle": [
+          "Bright indoor lighting",
+          "Natural daylight"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Follow shot",
+          "Tracking shot"
+        ],
+        "shotSize": [
+          "Full shot",
+          "Medium shot",
+          "POV / first-person view"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "POV / first-person view"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Fast cuts"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Beverage / juice",
+          "Prepared meal / plated dish"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "haha baby"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 9,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 124,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 2,
+        "vocalRatio": 2,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 5,
+        "speechMusicOverlap": 2,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with bright, medium-tempo synth-pop music. A sharp 'whoosh' sound effect occurs as the paper airplane is thrown, adding a dynamic feel to the start. The music has a steady electronic beat and a high spectral brightness. (2) As the camera follows the airplane, the upbeat music continues at a steady pace. There is a very subtle change in the acoustic floor representing the transition from outdoors to an indoor room, but the music remains the dominant feature. (3) The rhythmic drive of the BGM remains consistent as the airplane ascends the stairs. The sound is clean with no incidental environmental noises like footsteps or voices, suggesting a focused post-production mix intended for a professional promotional clip. (4) The airplane glides through the showroom with the music maintaining its cheerful energy. The synthesizer textures are lush and layered. The audio remains high-fidelity with a clear focus on the musical progression and the simulated flight's momentum. (5) A female voice enters with high emotional arousal, speaking excitedly to the viewers. Her tone is very friendly and enthusiastic. The music dips slightly in volume to allow for clear articulation of the spoken promotional message. (6) The video ends with a joyful exclamation from the speaker, coinciding with an energetic peak in the BGM. The audio concludes abruptly with a hard cut, leaving a sense of lively excitement and a strong call to action."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Promotion / Advertisement / Indoresment",
+        "Vlog"
+      ],
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "None"
+          "Unknown"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video opens with a girl in a grey sweater and white pants standing in front of a white building labeled 'haha baby HAMU CAFE'. She throws a white paper airplane toward the building. (2) The camera transitions to a POV shot following the airplane's flight path inside the building. It passes through multiple rooms filled with merchandise including snacks, boxes of drinks, patterned pillows, and colorful helmets on wooden shelves. (3) The flight path continues up a set of concrete stairs and through a second-floor area filled with racks of vibrant, multi-colored clothing, display shelves with handbags, and rows of white and patterned shoes. (4) The scene shifts back to the girl in the upstairs clothing area as she catches the paper airplane. She unfolds it to reveal a handwritten sign. (5) She holds the sign close to the camera and then performs a short, high-energy dance routine among the clothing racks.",
-      "audio_narrative_log": "(1) Upbeat, fast-paced electronic pop music starts immediately and continues throughout the video. There are no spoken vocals. (2) Accompanying the rapid camera movement (POV of the plane), subtle wind-like whooshing sound effects (SFX) are layered over the music. (3) The music maintains a consistent, high-energy tempo until the video concludes, with the ambient noise of the store being completely filtered out.",
-      "text_narrative_log": "(1) '(一定要看到最後)' (Must watch until the end) - Decorative/Hook text appearing at the top right throughout the first half. (2) '惜福祭 等你來喔' (Blessing Festival, waiting for you to come) - Functional text revealed on the unfolded paper sign at the end, intended to invite viewers to an event."
     },
     "temporal_pacing_summary": {
-      "sceneCutCount": 14,
-      "averageSceneDuration": 1.85,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro (Airplane throw) -> Fast-paced POV tour of products -> Reveal and celebration dance."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main female creator appearing at the beginning and end.",
-      "mainCharacterDescription": "A young woman wearing a grey and black striped sweater over a grey shirt, white baggy sweatpants, and pink chunky sneakers."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Outdoor Street",
-          "Indoor Store",
-          "Studio"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A clean, modern white building exterior transitioning to a well-organized retail interior with wooden shelving, concrete stairs, and checkered blue/white tile floors.",
-      "lightingStyle": "Bright, even indoor lighting and natural overcast daylight.",
-      "weather": "Overcast",
-      "season": "Unknown",
+      "sceneCutCount": 12,
+      "averageSceneDuration": 2.08,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "Low",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "POV",
-        "Follow shot"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Bottled drinks",
-        "Snack packages"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Air conditioner"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "haha baby",
-        "HAMU CAFE"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "None"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 0,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "None",
-        "pitch": "None",
-        "loudness": "None",
-        "speed": "None",
-        "speechDensity": "None",
-        "language": [
-          "None"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop/Electronic",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Whoosh SFX"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Montage (Tour) -> CTA",
-      "mainPurpose": "To promote the 'Blessing Festival' (惜福祭) event for the brand 'haha baby'. The video uses a creative paper airplane POV to showcase the wide range of products available at the Hamu Cafe/Store, building excitement before revealing the event details through the main creator's energetic presence.",
-      "visualEmotion": "Energetic, Welcoming, Playful"
+      "narrativeStructure": "Montage: Introduction -> Journey -> Reveal -> Celebration",
+      "mainPurpose": "The video aims to promote the 'haha baby' brand's upcoming 'Blessing Festival' by using a creative POV flight sequence to showcase the store's interior and variety of goods, ending with a warm personal invitation from the host.",
+      "visualEmotion": [
+        "energetic",
+        "warm",
+        "informative"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -164,14 +266,11 @@
         "Explicit",
         "Full"
       ],
-      "endorsementCues": "The video is centered entirely on the brand's store and a specific upcoming event, ending with a call to action on a sign.",
+      "endorsementCues": "The host is explicitly promoting an event for the 'haha baby' store while showcasing its products.",
       "endorsementObject": [
         "haha baby"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Fast-paced retail tour POV, energetic dancing.",
-      "freeDescribe": "The video effectively uses the 'follow-the-object' editing technique to maintain high viewer engagement while displaying inventory."
-    }
+    "freeDescribe": "The innovative use of first-person perspective for the paper airplane effectively tours the viewer through the retail space in a fun, high-engagement manner."
   }
 }

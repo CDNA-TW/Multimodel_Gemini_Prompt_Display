@@ -1,14 +1,233 @@
 {
   "videoName": "0_shufen-20251210223053-1221132536826852.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 8,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Social Media"
-      ],
+      "videoDuration": 7,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A young woman with long dark hair, wearing large black-framed glasses and a pink dress with a pink bow accent, appears in a close-up shot. She is indoors with a yellow storage shelf in the background. She looks directly into the lens and begins to speak while adjusting her hair with her left hand. (2) The camera remains static as she continues her speech. Her facial expressions are animated and playful as she delivers a joke. The lighting is bright and even, highlighting her face clearly. The video ends with her finishing her sentence and looking at the camera.",
+      "text_narrative_log": "(1) [Subtitle]: 過年不能. (2) [Subtitle]: 睡懶覺. (3) [Subtitle]: 因為會導致. (4) [Subtitle]: 懶覺被睡.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Face close-up",
+          "Upper body"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "One main female character in a close-up framing.",
+        "mainCharacterDescription": "A young Asian woman with long black hair, wearing black-rimmed glasses and a pink top with a bow."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A yellow shelving unit with various household items and boxes in a well-lit indoor setting.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Casual",
+          "Humorous"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 5,
+        "valence": 6,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Acoustic/Folk",
+          "Pop"
+        ],
+        "tempoBPM": 85,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 2,
+        "instrumentFamiliesAudible": [
+          "String",
+          "Keyboard"
+        ],
+        "instrumentsAudible": [
+          "Guitar",
+          "Piano"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 2,
+        "noisinessAndPercussiveness": 1,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 2,
+        "audioCutFrequency": 0,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A female voice speaks in Traditional Chinese with a lighthearted, casual, and slightly teasing tone. The speech is clear and well-articulated, following a steady conversational pace. Background music consisting of an acoustic guitar and a soft piano melody plays throughout at a consistent, non-intrusive volume. (2) The speaker delivers a humorous punchline, ending the vocal track with a playful inflection. The music continues without interruption until the end of the video, maintaining a cheerful and positive mood. There are no noticeable background noises or sound effects."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Meme / Trend",
+        "Selfie / Portrait"
+      ],
       "location": {
         "country": [
           "Unknown"
@@ -18,152 +237,30 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman with long dark hair and glasses, wearing a pink top with a prominent pink bow, appears in a close-up shot. She is adjusting her hair behind her ear while looking into the camera. (2) She maintains a steady gaze and speaks directly to the lens, with subtle facial movements reflecting her speech. (3) The background shows a domestic indoor setting with shelves containing various items. The camera remains static on her face throughout.",
-      "audio_narrative_log": "(1) A young female voice speaks in Mandarin with a clear, calm, and slightly playful tone. There is no background music. (2) The vocal track is continuous and clear, with minimal ambient noise. (3) The audio remains consistent until the end of the clip without any sound effects or transitions.",
-      "text_narrative_log": "(1) Functional Text: \"過年不能\" (Cannot during the New Year) - Informative and setting the premise. (2) Functional Text: \"睡懶覺\" (Sleep in/Sleep late) - Clarifying the action. (3) Functional Text: \"因為會導致\" (Because it will lead to) - Transitional phrase. (4) Functional Text: \"懶覺被睡\" (The sleep-in being slept/Wordplay) - Humorous punchline tone."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 1,
-      "averageSceneDuration": 8.0,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Constant talking head shot with a short humorous monologue."
+      "sceneCutCount": 2,
+      "averageSceneDuration": 3.5,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
     },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Face",
-        "Shoulders",
-        "Hands"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 female main character speaking to the camera.",
-      "mainCharacterDescription": "A young female with long black hair, wearing rectangular glasses, a thin gold necklace, and a pink tank top featuring a large pink bow."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Room"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A domestic indoor environment with shelves containing yellow and white containers or boxes.",
-      "lightingStyle": "Soft indoor lighting",
-      "weather": "None",
-      "season": "None",
-      "editingPace": "Slow",
-      "textOverlay": {
-        "density": "Medium",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Handheld"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone (Recording)"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "None",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Friendly and humorous",
-        "pitch": "Medium",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": false,
-      "bgmGenre": "None",
-      "bgmBPM": 0,
-      "instrumentFamiliesAudible": [
-        "None"
-      ],
-      "instrumentsAudible": [
-        "None"
-      ],
-      "musicSourceType": [
-        "None"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Field Recording"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Reasoning -> Punchline",
-      "mainPurpose": "The video is a short, humorous social media post using a play on words (Mandarin pun) regarding sleeping in during the Chinese New Year. The creator engages the audience by speaking directly to the camera in a relatable, casual vlog format.",
-      "visualEmotion": "Calm and Playful"
+      "narrativeStructure": "Linear: Setup -> Punchline",
+      "mainPurpose": "The video is intended for entertainment, featuring a creator telling a humorous joke or play on words related to sleeping during the Chinese New Year.",
+      "visualEmotion": [
+        "humorous",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
       "endorsementMethod": [
         "None"
       ],
-      "endorsementCues": "No products are featured or promoted.",
+      "endorsementCues": "None",
       "endorsementObject": [
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Close-up selfie view with center-aligned white subtitles.",
-      "freeDescribe": "The video relies heavily on the linguistic joke in the subtitles and the creator's delivery."
-    }
+    "freeDescribe": "Short comedy skit with on-screen subtitles that enhance the joke's delivery."
   }
 }

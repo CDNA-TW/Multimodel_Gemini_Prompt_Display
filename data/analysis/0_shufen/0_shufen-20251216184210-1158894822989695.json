@@ -1,155 +1,252 @@
 {
   "videoName": "0_shufen-20251216184210-1158894822989695.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 9.2,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Humor",
-        "Vlog"
-      ],
+      "videoDuration": 9.1,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "Unknown"
+      "visual_narrative_log": "(1) A young woman with long, dark hair is featured in a medium close-up shot, looking directly into the camera lens with a bright, welcoming smile. She is wearing a simple grey spaghetti strap top and a delicate silver pendant necklace. The background is a minimally decorated indoor room with a plain off-white wall; some clear plastic water bottles are partially visible on the right side. The lighting is bright and soft, evenly illuminating her facial features. (2) As the video progresses, the woman maintains her selfie-style framing, exhibiting expressive facial movements while speaking. She occasionally brings her right hand up towards her chin or cheek in a playful gesture. Her eye contact remains consistent, and her facial expressions shift from a gentle smile to a more wide-eyed, animated look. Yellow and white text subtitles begin to appear at the bottom center of the frame, synchronized with her speech. (3) In the final segment, the camera remains static as the subject continues her playful delivery. She performs a series of micro-expressions, including a slight head tilt and a brief, cute tongue-out expression. The text overlays at the bottom change rapidly to display various food names. The setting remains constant, with the neutral wall and the soft indoor lighting providing a consistent background for her performance.",
+      "text_narrative_log": "(1) [Subtitle]: 好喜. (2) [Subtitle]: 好喜歡小動物喔!. (3) [Subtitle]: 尤其是那種.. (4) [Subtitle]: 很可愛的. (5) [Subtitle]: 鹽酥雞. (6) [Subtitle]: 魯肉飯. (7) [Subtitle]: 牛肉湯. (8) [Subtitle]: 虱目魚肚.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Head and shoulders"
         ],
-        "city": [
-          "Unknown"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman is positioned close to the camera, looking directly into the lens with a smiling expression, gesturing with her left hand near her chin. (2) She remains in the same position, speaking and maintaining eye contact, with slight shifts in her facial expressions and hand movements. (3) She continues to look at the camera with a playful smile as several text overlays appear sequentially on the screen near her shoulder.",
-      "audio_narrative_log": "(1) A female voice speaking in a friendly, enthusiastic tone in Mandarin says she loves small animals. (2) The background music is a light, mid-tempo instrumental that maintains a steady rhythm. (3) The female voice continues by listing several Taiwanese food dishes in a playful, deadpan delivery, creating a contrast with the initial statement.",
-      "text_narrative_log": "(1) Functional Text: '好喜歡小動物喔！' (I love small animals so much!). Emotional tone: Enthusiastic. (2) Functional Text: '尤其是那種..很可愛的' (Especially those... very cute ones). Emotional tone: Anticipatory. (3) Decorative/Effect Text: '鹽酥雞呀' (Salt-and-pepper chicken), '滷肉飯' (Braised pork rice), '牛肉湯' (Beef soup), '虱目魚肚' (Milkfish belly). Emotional tone: Humorous, subverting expectations."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 0,
-      "averageSceneDuration": 9.2,
-      "isNarrativeShift": false,
-      "mainActionFlow": "The video consists of a single static talking-head shot where the protagonist delivers a joke via speech and text overlays."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full face",
-        "Shoulders",
-        "Hands"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main female character is visible throughout the video.",
-      "mainCharacterDescription": "A young Asian woman with long dark hair, wearing a grey spaghetti strap top and a thin necklace with a cross pendant."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Bedroom"
+        "crowdLevel": [
+          "Single"
         ],
-        "topography": [
+        "countingEvidence": "1 main female character looking at the camera",
+        "mainCharacterDescription": "The main character is a young woman with long dark hair, wearing a grey camisole and a heart-shaped necklace."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
           "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A simple indoor room with a plain, off-white wall. On the right side, there are some partially visible plastic water bottles.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
         ]
       },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A simple indoor wall background with some plastic bottles visible in the upper right corner.",
-      "lightingStyle": "Soft, diffused indoor lighting.",
-      "weather": "None",
-      "season": "None",
-      "editingPace": "Moderate",
-      "textOverlay": {
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Rhythm matched to speech"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
         "density": "Medium",
-        "language": [
+        "textLanguage": [
           "Traditional Chinese"
         ],
         "isSubtitled": true
       },
-      "colorTone": "Natural and warm",
-      "cameraWork": [
-        "Static"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "None",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Sweet, playful, and humorous",
-        "pitch": "Medium-high",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous",
-        "language": [
-          "Mandarin Chinese"
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Pop",
-      "bgmBPM": 85,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Keyboard"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Field"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop"
+        ],
+        "tempoBPM": 120,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "String",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Guitar",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Pop / Bubble SFX",
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Low-fi/Phone"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a high-pitched, energetic female vocal track in Mandarin Chinese, delivered with a friendly and playful prosody. The background is filled with a bright, acoustic-pop musical layer featuring a clean guitar strumming pattern and a steady, low-impact percussive rhythm. The recording environment is acoustically dry, suggesting a close-proximity capture in a quiet indoor room with minimal ambient noise. (2) A distinct, synthesized \"pop\" sound effect with a short spectral decay occurs, signaling a transition in the content. The speaker's voice maintains its high arousal and positive valence, setting up a humorous misdirection. The background music continues at a consistent volume, providing a lighthearted tonal foundation that complements the playful vocal quality and the clear, professional-grade articulation of the speech. (3) A series of rapid \"pop\" and \"ding\" sound effects punctuate the audio track as the speaker lists various items in a rhythmic, staccato fashion. The vocal intensity remains moderate, while the pitch variability stays high to maintain listener engagement. The interaction between the dry vocal stems, the bright BGM, and the repetitive, high-frequency SFX creates a highly dynamic and edited acoustic structure typical of short-form social media content."
     }
   },
-  "high_inference_interpretations": {
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy"
+      ],
+      "location": {
+        "country": [
+          "None"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 0,
+      "averageSceneDuration": 9.1,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Misdirection -> Punchline",
-      "mainPurpose": "The video is a short comedy skit intended to entertain viewers through linguistic subversion. The creator begins by stating a fondness for 'small animals,' leading the audience to expect a display of pets, but then lists various popular Taiwanese dishes made from animals, turning the sentiment into a joke about appetite.",
-      "visualEmotion": "Playful and Charming"
+      "narrativeStructure": "List-based: Hook -> Misdirection -> Punchline",
+      "mainPurpose": "The video is a lighthearted comedy clip that uses a play on words to create humor. The speaker starts by expressing a love for 'small animals,' which typically implies affection for pets, but then subverts expectations by listing various popular meat-based dishes. This 'bait and switch' narrative structure is designed to amuse the audience through misdirection.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -161,9 +258,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Close-up direct camera engagement, variety-show style text overlays for punchlines.",
-      "freeDescribe": "The video utilizes a common short-form content trope where visual expectations are flipped by the audio/text content."
-    }
+    "freeDescribe": "The video is a typical short-form social media joke characterized by a high-arousal female performance and bright, cute production elements."
   }
 }

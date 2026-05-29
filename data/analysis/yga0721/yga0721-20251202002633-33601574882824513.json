@@ -1,14 +1,231 @@
 {
   "videoName": "yga0721-20251202002633-33601574882824513.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 22,
-      "aspectRatio": "9:16",
+      "videoDuration": 23.46,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A young boy with short black hair is captured in a medium shot, wearing pink and white floral-patterned pajamas. He stands in a narrow hallway next to a dark brown door frame, looking intently into a brightly lit bathroom. The bathroom interior features a dark wooden vanity, white towels, and colorful wall decals including a prominent rainbow. (2) The boy turns his head to face the camera, maintaining a curious but neutral facial expression before glancing back toward the bathroom interior. Behind him, light green wallpaper with sea creature motifs, such as a blue whale, is visible under bright, even indoor lighting that eliminates deep shadows. (3) The boy looks at the camera again and breaks into a wide, happy smile, showing his teeth. He remains standing by the door frame, occasionally looking back into the room while the handheld camera stays relatively stable, focusing on his upper body and facial reactions during the interaction.",
+      "text_narrative_log": "None",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 1,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 young boy in pajamas standing in a doorway.",
+        "mainCharacterDescription": "A young boy wearing pink and white floral-patterned pajamas with short black hair."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A home interior showing a doorway leading to a bathroom. The bathroom has a dark wood vanity, white porcelain toilet, and walls decorated with a rainbow decal and sea-themed wallpaper with fish and whales.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Single continuous take"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "None",
+        "textLanguage": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 2,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 1
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Casual"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 6,
+        "valence": 7,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter"
+        ],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Applause / Laugh Track SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 0,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Low-fi/Phone"
+        ]
+      },
+      "audio_narrative_log": "(1) A young child's voice with a high-pitched, clear timbre asks a question in Mandarin. Simultaneously, high-energy electronic pop music with a tempo around 128 BPM plays in the background. The BGM features bright synthesizer textures and a driving, rhythmic beat with a Major tonality. (2) A mature male voice with a lower pitch and calm prosody responds. A sudden sound of canned laughter and cheering, likely from a recording or podcast being discussed, erupts at a moderate volume level. The ambient floor is clean, suggesting a quiet indoor environment. (3) The adult asks a follow-up question about the volume of the audio source in the other room. The child responds with short, simple vocalizations. The music remains constant in the background, maintaining a consistent energy level without any structural pauses or transitions."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
         "Vlog",
-        "Family"
+        "Family / Kids"
       ],
-      "withRealPeople": true,
       "location": {
         "country": [
           "Unknown"
@@ -18,138 +235,20 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young boy with dark hair wearing pink patterned pajamas stands in a doorway between a carpeted hallway and a bathroom. He looks towards the camera and then away towards the bathroom interior. (2) He turns back to the camera with a bright, wide smile. Behind him, the wall features a colorful mural of aquatic characters and sea life. (3) He remains standing in the doorway, glancing curiously into the bathroom which contains standard hotel fixtures like a toilet and sink area.",
-      "audio_narrative_log": "(1) Upbeat, orchestral background music with a whimsical theme plays continuously. An adult male voice is heard speaking in Mandarin with a gentle, inquisitive tone. (2) A young boy's voice responds in a high-pitched, cheerful tone. The overall soundscape is that of a quiet interior room. (3) The dialogue continues between the adult and the child over the steady music volume until the end of the video.",
-      "text_narrative_log": "(1) \"媽媽是不是好的 Theme Park?\" (Functional: Inquiry about a parent and a theme park). (2) \"他在裡面大便\" (Functional: Statement regarding someone in the bathroom). (3) \"他聽得到嗎?\" (Functional: Question about whether an individual can hear the speaker)."
-    },
     "temporal_pacing_summary": {
       "sceneCutCount": 0,
-      "averageSceneDuration": 22.0,
-      "isNarrativeShift": false,
-      "mainActionFlow": "A continuous shot of a child interacting with an off-screen adult in a hotel room doorway."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 1,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "One male child is visible in the center of the frame throughout the video.",
-      "mainCharacterDescription": "A young boy with short black hair, wearing pink long-sleeved pajamas with strawberry and heart patterns."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Hotel Room",
-          "Bathroom"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A themed hotel room featuring a colorful marine-life mural on the walls and a bathroom with a sink, mirror, and toilet visible through the door.",
-      "lightingStyle": "Bright indoor lighting",
-      "weather": "Unknown",
-      "season": "Unknown",
+      "averageSceneDuration": 23.46,
       "editingPace": "Slow",
-      "textOverlay": {
-        "density": "Low",
-        "language": [
-          "Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Bright and Saturated",
-      "cameraWork": [
-        "Static"
-      ]
+      "isNarrativeShift": false
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "None",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 1
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Cheerful and curious",
-        "pitch": "Mix of deep adult and high child",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Whimsical Orchestral",
-      "bgmBPM": 115,
-      "instrumentFamiliesAudible": [
-        "Strings",
-        "Woodwind"
-      ],
-      "instrumentsAudible": [
-        "Violin",
-        "Flute"
-      ],
-      "musicSourceType": [
-        "Unknown"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Field"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Interaction -> Reaction",
-      "mainPurpose": "To document a candid family moment in a themed hotel room, capturing the child's amusement and the casual interaction between him and an off-screen relative. The content emphasizes the whimsical atmosphere of the travel accommodation.",
-      "visualEmotion": "Cheerful"
+      "narrativeStructure": "Linear: Observation -> Interaction -> Reaction",
+      "mainPurpose": "A candid home video capturing a humorous and warm moment between a father and his young son. The boy stands at the bathroom door, curiously observing someone listening to a loud podcast or recording inside, while his father talks to him from behind the camera.",
+      "visualEmotion": [
+        "warm",
+        "humorous",
+        "innocent"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -161,9 +260,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Candid family vlog style focusing on domestic/travel charm.",
-      "freeDescribe": "The video likely serves as a personal memory or vlog entry showcasing the unique experience of a themed hotel stay."
-    }
+    "freeDescribe": "The video features high-energy background music that contrasts with the simple, domestic scene, likely added to enhance the playful atmosphere."
   }
 }

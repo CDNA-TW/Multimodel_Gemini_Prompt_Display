@@ -1,172 +1,285 @@
 {
   "videoName": "3ctim-20251022023009-903252018966408.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 56,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Unboxing"
-      ],
+      "videoDuration": 55,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A middle-aged man wearing round glasses, a grey flat cap, and a white T-shirt with a cartoon peanut graphic stands in a brightly lit indoor space. He holds a dark blue cardboard box with both hands while speaking toward the camera. Behind him is a plain white wall and a blurred screen. (2) He places the box on a wooden desk and uses his thumbs and fingers to tear off a perforated cardboard strip along the top edge of the package. (3) He pulls back the cardboard flaps to open the box, looking inside with an expectant expression. The interior of the box reveals items wrapped in clear plastic. (4) He retrieves two white T-shirts from the box; one features a yellow cartoon character and a red heart, while the other shows a Poké Ball graphic within a heart shape. He holds them up for the camera to see. (5) He reaches back into the box and pulls out a small heart-shaped accessory in a plastic bag. A second person's arms briefly enter the frame to assist. (6) He uses his fingers to unpack a small, translucent heart-shaped clip, holding it between his thumb and index finger for a close-up shot. (7) He turns the empty blue box around to show white printed text on the inner flaps and then presents the heart-shaped clip directly to the lens.",
+      "text_narrative_log": "(1) [Logo]: 3c有意思tim哥. [Logo]: @3ctim. [Slogan]: 回到辦公室. (2) [Slogan]: 第一件事情. (3) [Slogan]: 就是看我上禮拜. (4) [Slogan]: 出差之前. (5) [Slogan]: 我在HUMAN MADE. (6) [Slogan]: 買的寶可夢. (7) [Slogan]: 很多人. (8) [Slogan]: 都買不到. (9) [Slogan]: 包含我老婆的. (10) [Slogan]: 親戚朋友. (11) [Slogan]: 但我有了. (12) [Slogan]: 直接簡單開箱. (13) [Slogan]: 這個HUMAN MADE. (14) [Slogan]: 他們是可以寄國外的. (15) [Slogan]: 然後呢. (16) [Slogan]: 這邊這裡可以拉開. (17) [Slogan]: 它這邊有個卡榫. (18) [Slogan]: HUMAN MADE. (19) [Slogan]: 沒錯. (20) [Slogan]: 我買了兩件都到. (21) [Slogan]: 竟然能搶到兩件. (22) [Slogan]: 一件兩件. (23) [Slogan]: 它還送了一個這個. (24) [Slogan]: 這個HUMAN MADE. (25) [Slogan]: 這個應該可以收. (26) [Slogan]: 欸! 另有東西. (27) [Slogan]: 這個東西. (28) [Slogan]: 是什麼啊. (29) [Slogan]: 我覺得我助理會把我幹走. (30) [Slogan]: 我看一下. (31) [Subtitle]: 我比較想要這個. [Slogan]: 助理這什麼. (32) [Subtitle]: 我不管我要這個衣服啦. [Slogan]: 迴紋針. (33) [Slogan]: 你看它這裡有. [Variety]: Thank you.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Face",
+          "Upper body",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 main male creator, 1 female assistant's arms visible during the second half",
+        "mainCharacterDescription": "A middle-aged man wearing a grey flat cap, round black-rimmed glasses, a white T-shirt with a 'Mr. Peanut' graphic, a yellow smartwatch, and multiple beaded bracelets."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio",
+          "Office / Workplace"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A clean white wall with social media handle icons in the top left corner; a wooden desk surface is visible in the foreground, and a blurred computer monitor is in the back.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Graphic transition"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Smartwatch",
+          "TV / display screen"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "HUMAN MADE",
+          "Pokemon",
+          "MR. PEANUT"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 1,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Casual"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Rising",
+          "Complex"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Meme/Comedy",
+          "Acoustic/Folk"
+        ],
+        "tempoBPM": 110,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 2,
+        "instrumentFamiliesAudible": [
+          "Percussion",
+          "String"
+        ],
+        "instrumentsAudible": [
+          "Guitar"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Object Impact / Thud / Drop",
+          "Paper / Page Rustle",
+          "Plastic / Bag Rustle",
+          "Mechanical Click / Latch"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Pop / Bubble SFX",
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A male voice speaks energetically in Traditional Chinese over a cheerful acoustic guitar melody with a subtle percussion shaker. The tone is casual and narrative. (2) A synthetic 'whoosh' sound effect triggers a transition in the male voice's intensity as he describes a rare item. The acoustic BGM maintains a steady pace. (3) The rhythmic sound of tearing perforated cardboard is heard, layered beneath the continuous narration. A sudden 'pop' bubble sound effect punctuates the track. (4) A soft cardboard thud is audible. A female voice briefly enters the mix with a high-pitched, enthusiastic exclamation, overlapping with the male speaker. (5) High-frequency rustling of plastic bags is heard as the primary speaker's pitch rises in excitement. A bright 'ding' chime sound effect is introduced. (6) Sharp clicking sounds of small plastic or metal objects are heard as a small package is manipulated. The male and female voices engage in a brief, playful verbal exchange. (7) A final digital chime rings out. The male voice delivers a clear, projected closing sentence with a distinct rising intonation."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Unboxing",
+        "Lifestyle",
+        "Fashion / Beauty"
+      ],
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "Unknown"
+          "None"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A man wearing a grey newsboy cap and a white T-shirt with a 'Mr. Peanut' mascot stands in a bright indoor setting, excitedly holding a dark blue shipping box. (2) He moves to a wooden table, places the box down, and tears open the security strip on the cardboard. (3) He opens the box to reveal two white t-shirts inside plastic packaging, one featuring a Pikachu graphic. (4) He retrieves a small circular plastic container holding a small accessory and examines it. (5) He pulls out a heart-shaped gold-toned paper clip and holds it up to the camera with a wide smile.",
-      "audio_narrative_log": "(1) Upbeat, medium-tempo electronic background music starts. A high-pitched, energetic male voice begins speaking about returning to the office and a recent purchase. (2) The sound of cardboard tearing and plastic rustling is heard over the music. (3) The male speaker continues his narration with an excited tone. A female voice briefly responds from off-camera. (4) The male speaker continues to describe the items with a high-pitched, enthusiastic tone until the music fades out.",
-      "text_narrative_log": "(1) '回到辦公室' (Back to the office) - Functional, energetic. (2) '第一件事情' (The first thing) - Functional. (3) '就是看我上禮拜出差之前' (Is to see what I got before my business trip last week) - Functional. (4) '我在HUMAN MADE買的寶可夢' (The Pokemon stuff I bought at HUMAN MADE) - Functional. (5) '很多人都買不到' (Many people can't buy it) - Hook, proud. (6) '包含我老婆的親戚朋友' (Including my wife's relatives and friends) - Functional. (7) '但我有了' (But I have it) - Hook, proud. (8) '直接簡單開箱' (A direct and simple unboxing) - Functional. (9) 'HUMAN MADE' - Brand name. (10) '竟然能搶到兩件' (Actually managed to grab two) - Hook, surprised. (11) '助理這是什麼' (Assistant, what is this?) - Functional. (12) '迴紋針' (Paper clip) - Functional."
     },
     "temporal_pacing_summary": {
       "sceneCutCount": 18,
-      "averageSceneDuration": 3.1,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro -> Box Opening -> Item Reveal -> Detailed Accessory Examination"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main male creator visible; 1 female assistant heard off-screen.",
-      "mainCharacterDescription": "Middle-aged man wearing a grey flat cap, glasses, and a white graphic tee with a cartoon peanut mascot."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Office"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A clean indoor room with white walls, a wooden table, and a monitor visible in the background.",
-      "lightingStyle": "Bright studio lighting",
-      "weather": "Indoor",
-      "season": "Unknown",
+      "averageSceneDuration": 3.0,
       "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "Medium",
-        "language": [
-          "Traditional Chinese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Handheld"
-      ]
+      "isNarrativeShift": false
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Monitor"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "HUMAN MADE",
-        "Pokemon"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and friendly",
-        "pitch": "Sharp/High",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drums"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Unboxing -> Showcase -> Outro",
-      "mainPurpose": "To share a lifestyle unboxing experience of a limited-edition fashion collaboration (Human Made x Pokemon), emphasizing the scarcity of the items and the creator's excitement.",
-      "visualEmotion": "Energetic"
+      "narrativeStructure": "Montage: Hook -> Demonstration -> Close-up Reveal",
+      "mainPurpose": "To showcase a successful unboxing of highly sought-after collaboration apparel and accessories, sharing the creator's personal excitement and the brand's unique packaging details with the audience.",
+      "visualEmotion": [
+        "Energetic",
+        "Humorous",
+        "Warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
       "endorsementMethod": [
         "None"
       ],
-      "endorsementCues": "The creator describes the purchase as a personal acquisition made during a business trip.",
+      "endorsementCues": "The creator states he bought the items ('我買的') and presents the unboxing as a personal lifestyle update rather than a paid promotion.",
       "endorsementObject": [
-        "None"
+        "HUMAN MADE",
+        "Pokemon"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Creator's distinct newsboy cap and variety-show style text overlays.",
-      "freeDescribe": "Typical high-energy content creator style from the Taiwan region, focusing on consumer culture and limited-edition goods."
-    }
+    "freeDescribe": "A typical social-media unboxing video utilizing variety-show style editing, rhythmic sound effects, and high-arousal vocal delivery to maintain engagement."
   }
 }

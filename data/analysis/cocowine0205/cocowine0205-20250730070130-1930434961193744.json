@@ -1,180 +1,287 @@
 {
   "videoName": "cocowine0205-20250730070130-1930434961193744.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 60,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Food Review",
-        "Shopping"
-      ],
+      "videoDuration": 61,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A young woman with black hair stands in a Costco warehouse aisle, wearing a black top with a distinctive chest cutout. She points excitedly at a stack of Aunt Stella's cookie boxes. The background is filled with industrial warehouse shelving and bulk food products under bright fluorescent lighting. (2) The woman picks up a large box of cookies, displaying the colorful floral and fruit illustrations on the front to the camera. She maintains a wide-eyed, enthusiastic facial expression and uses broad hand gestures while standing in the same warehouse setting. (3) The camera zooms in on a second product, Aunt Stella Corn Flake Cookie Balls, which has yellow and pink packaging. The woman points to the price tag on the shelf above the products while smiling directly at the lens. (4) The scene shifts to an indoor living room with warm lighting. Two women sit at a grey counter with the cookie box. One wears a black headband, and the other wears a zebra-patterned bucket hat and an orange top. They open the box with exaggerated excitement. (5) They pull out individually wrapped cookie packets, holding them up for close-up shots. The women break a dark-colored cookie in half, revealing the internal texture and pieces of dried fruit. They both take bites and react with intense positive expressions. (6) The women continue to hold different types of cookies and the box, gesturing toward the product and their own faces to show satisfaction. The background shows domestic furniture and a shelf with several plush animal toys.",
+      "text_narrative_log": "(1) [Logo]: COSTCO WHOLESALE. [Variety]: 比百貨公司便宜超多. [Slogan]: 必買水果餅乾組. [Subtitle]: 你笑那麼開心~做什麼. (2) [Slogan]: 好事成雙!!. [Subtitle]: 因為我手上有些茶的. (3) [Subtitle]: 詩特莉經典水果餅乾組. (4) [Subtitle]: 我們有茶 接下來要水果. (5) [Subtitle]: 聽我一直報 然後我一直買不到 我很生氣. (6) [Subtitle]: 好啦 水果的也買 然後它後面還有玉米的. (7) [Subtitle]: 他的玉米酥球是247元 很大一個 但就是單一口味. (8) [Variety]: 太有面子了. [Subtitle]: 家裡放一組 詩特莉餅乾 真的是太有面子了. (9) [Subtitle]: 首先她的盒子好漂亮. (10) [Subtitle]: 然後打開以後 裡面有15包餅乾. (11) [Subtitle]: 每一包都有兩片. 那他裡面總共有三種口味. (12) [Subtitle]: 藍莓、蘋果以及覆盆莓酸櫻桃. (13) [Variety]: 超多料. [Subtitle]: 我們可以看到她的藍莓 超多料. (14) [Subtitle]: 啦啦~好多藍莓乾在裡面 以及你吃下去. (15) [Variety]: 藍莓濃郁. [Subtitle]: 她怎麼可以做的比藍莓馬芬 還要更藍莓濃郁呢. (16) [Subtitle]: 蘋果呢 上面還有蘋果果乾 裡面是完熟的蘋果. (17) [Subtitle]: 所以酸甜的味道 真的是太完美. (18) [Subtitle]: 酸度最高的 覆盆莓酸櫻桃. (19) [Subtitle]: 這個好好吃喔 好喜歡喔. (20) [Subtitle]: 你吃了以後就是 嗯~. (21) [Subtitle]: 嘴巴的口水就是會 流不停的那一種. (22) [Slogan]: 好市多買最划算. [Subtitle]: 詩特莉餅乾 真的是 好市多買最划算.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "Two primary female creators appearing in both warehouse and home settings.",
+        "mainCharacterDescription": "One woman has black hair with a black cutout top; the second has long dark hair and wears a zebra-print bucket hat with an orange top."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Supermarket / Warehouse Store",
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "Transitions from a large Costco warehouse with tall steel racks and bulk boxes to a home kitchen/living room with a grey counter and plush toys on a shelf.",
+        "lightingStyle": [
+          "Bright studio lighting",
+          "Soft indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Warm and vibrant"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Handheld",
+          "Zoom in"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Macro close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Meme-style edit",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Plush / decoration / toy animal"
+        ],
+        "foodsDetect": [
+          "Dessert / cake / cookies",
+          "Fruit",
+          "Snack / chips / candy"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "COSTCO",
+          "AUNT STELLA"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 0,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly",
+          "Comedic/Exaggerated"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 122,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Synthesizer",
+          "Electronic"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Plastic / Bag Rustle",
+          "Object Impact / Thud / Drop"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Ding / Bell SFX",
+          "Whoosh / Transition SFX",
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Stingers"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) High-tempo electronic background music with a synthesized beat begins instantly. A high-pitched female voice speaks with high arousal and rapid speed. A comical 'whoosh' sound effect triggers as she gestures. (2) A 'ding' bell sound effect highlights a brand name. The speaker's voice maintains a bright, professional clarity with frequent rising intonations. (3) A second female voice joins in, creating a high-energy dialogue. There is a short cartoon-style pop effect. The voices sound projected as if using a professional lavalier microphone. (4) Audible plastic rustling is heard as packaging is handled, followed by a soft impact sound as the box is placed on the table. The music keeps a consistent, happy major-mode vibe. (5) Exaggerated chewing sounds are followed by a loud, satisfied 'Mmm!' vocalization. The audio concludes with a final energetic slogan and a musical stinger."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Food Review",
+        "Shopping",
+        "Vlog"
+      ],
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "Unknown"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video starts at a Costco warehouse where a woman in a black dress is standing in front of shelves of Aunt Stella cookie boxes. She holds a box and smiles excitedly. (2) The camera cuts to close-ups of different cookie gift sets on the shelves, showing the Aunt Stella branding and price tags ($369, $269, $247). (3) The scene transitions to an indoor setting where the woman from the store and another woman in a zebra-print hat sit at a table. They open the 'Aunt Stella Classic Fruit Cookie Set', take out individual cookie packs, and show the camera the contents. (4) Both women taste the cookies (blueberry, apple, and raspberry flavors), breaking them open to show the fruit bits inside, and reacting with exaggerated expressions of delight.",
-      "audio_narrative_log": "(1) Upbeat, high-tempo electronic background music plays throughout. A female voice speaks in an energetic, high-pitched tone, introducing the Costco deal. (2) As the scene moves to the products, the vocal continues describing the prices and the 'Buy one, get one' or dual-set nature of the deal. (3) In the indoor scene, two female voices are heard. The main speaker describes the packaging and flavors, while the second woman provides supporting exclamations like 'Wow' and 'So many ingredients'. Sound effects like 'pop' and 'ting' are occasionally heard during transitions or text pop-ups. (4) The audio ends with a concluding recommendation to buy at Costco.",
-      "text_narrative_log": "(1) Functional Text: 'COSTCO WHOLESALE' logo is fixed at the top center. (2) Decorative/Hook Text: '比百貨公司便宜超多' (Much cheaper than department stores) in bright yellow/red. '必買水果餅乾組' (Must-buy fruit cookie set) with a purple background. (3) Functional Text: Subtitles in white with black borders translate the spoken Chinese throughout. (4) Decorative Text: '好事成雙!' (Good things come in pairs), '詩特莉經典水果餅乾組' (Aunt Stella Classic Fruit Cookie Set), '超多料' (Full of ingredients) with sparkling stickers."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 18,
-      "averageSceneDuration": 3.3,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Store discovery -> Price/Product showcase -> Indoor unboxing -> Tasting and review -> Final recommendation"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Upper body",
-        "Hands"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "2 main female creators appearing on screen.",
-      "mainCharacterDescription": "One woman has long dark hair and wears a black cut-out dress; the other wears a tan top and a black-and-white zebra-print bucket hat."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Warehouse",
-          "Studio"
-        ],
-        "topography": [
           "None"
         ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "First half is the aisle of a Costco store with high shelves and bulk goods; second half is a brightly lit indoor space with a gray table, decorative pillows, and plush toys in the background.",
-      "lightingStyle": "Bright indoor lighting, consistent throughout.",
-      "weather": "Indoor",
-      "season": "Unknown",
-      "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Bright and Saturated",
-      "cameraWork": [
-        "Static",
-        "Close-up",
-        "Follow shot"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Cookies",
-        "Biscuits",
-        "Fruit pieces"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Costco Wholesale",
-        "Aunt Stella"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade with SFX",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 2,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and persuasive",
-        "pitch": "High",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
-        ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Pop sounds",
-        "Sparkle effects"
-      ],
-      "ambientNoise": [
-        "Muted warehouse noise"
-      ],
-      "audioQuality": "Field Recording"
-    }
-  },
-  "high_inference_interpretations": {
+    "temporal_pacing_summary": {
+      "sceneCutCount": 25,
+      "averageSceneDuration": 2.44,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Discovery -> Demonstration -> Evaluation -> Conclusion",
-      "mainPurpose": "The video is a commercial promotion intended to drive sales of Aunt Stella's cookie gift sets at Costco Taiwan. It uses a 'shopping find' narrative to emphasize the cost-saving benefit (compared to department stores) and validates the product's quality through a visual and gustatory unboxing review.",
-      "visualEmotion": "Energetic and Happy"
+      "narrativeStructure": "Linear: Hook -> Product Intro -> Unboxing -> Tasting Review -> Recommendation",
+      "mainPurpose": "The video serves as a promotional product review intended to inform Costco shoppers about a specific Aunt Stella cookie gift set. It highlights the value proposition compared to department stores and uses high-energy tasting segments to validate the product's quality and appeal.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
-        "Explicit",
-        "Full"
+        "Implicit",
+        "Integrated"
       ],
-      "endorsementCues": "Direct display of the product brand, price comparison, and verbal call to action to buy at Costco.",
+      "endorsementCues": "Direct display of product packaging, pricing information, and repeated positive verbal endorsements within a lifestyle context.",
       "endorsementObject": [
-        "Aunt Stella",
-        "Costco"
+        "Aunt Stella"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-energy presentation style with constant variety-show style text overlays.",
-      "freeDescribe": "The video follows standard Taiwanese influencer marketing templates: bright lighting, high-pitched vocal delivery, and text-heavy visual cues to maintain viewer attention on mobile devices."
-    }
+    "freeDescribe": "A highly dynamic, social-media-native edit with consistent text overlays and sound effects designed to maintain high viewer engagement."
   }
 }

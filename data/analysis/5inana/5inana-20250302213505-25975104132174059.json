@@ -1,160 +1,259 @@
 {
   "videoName": "5inana-20250302213505-25975104132174059.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 10,
-      "aspectRatio": "9:16",
+      "videoDuration": 10.33,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A person wearing a vibrant yellow jacket and a red-and-white checkered scarf stands behind a wooden table. They are holding long metal chopsticks and carefully poking at a fried egg resting on a bowl of rice and braised meat. A professional Sony cinema camera with a large white telephoto lens is mounted on a tripod, positioned at an extreme close-up distance just inches away from the food bowl. (2) As the chopsticks break the yolk of the fried egg, the person maintains steady hand movements. In the background, a brightly lit indoor food court is visible with other diners seated at tables. A smartphone is mounted on a bracket near the bottom right, acting as a secondary monitor or recording device. (3) The scene remains focused on the interaction between the chopsticks and the food while the background environment shows the typical bustle of a casual restaurant with individuals in everyday clothing eating their meals under bright, even fluorescent lighting.",
+      "text_narrative_log": "(1) [Logo]: @5inana",
+      "visual_human_presence": {
+        "totalHumanCount": 4,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main creator in the foreground, 3 diners visible in the background at various tables.",
+        "mainCharacterDescription": "The main creator is wearing a bright yellow coat with a red and white checkered scarf, having dark curly hair."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Restaurant / Dining"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A casual indoor dining area or food court with light wood tables and black chairs. Other patrons are eating in the background.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Winter"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Rice / grains",
+          "Egg",
+          "Meat / beef / pork / chicken"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Camera / DSLR",
+          "Smartphone",
+          "Tripod / stabilizer"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Sony"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Acoustic/Folk"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ],
+        "keySignature": [
+          "C Major"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "String",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Guitar",
+          "Glockenspiel"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Crowd Murmur"
+        ],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "Ceramics / Glass  Clink"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 2,
+        "audioCutFrequency": 1,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A cheerful, rhythmic acoustic guitar track begins with a bright glockenspiel accentuating the upbeat tempo. There are no human vocals present, only the background murmur of a dining hall and a faint clinking of dishes. (2) A sharp, high-pitched 'ding' sound effect occurs at the 3-second mark, punctuating the music. The acoustic music continues its steady, major-key progression while ambient indoor room tone persists. (3) Another crisp 'ding' chime sounds at the 6-second mark, perfectly integrated with the musical rhythm. The overall audio mix is clean, favoring the production BGM over the low-level environmental noise of the restaurant."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
-        "Vlog",
         "Behind-the-scenes"
       ],
-      "withRealPeople": true,
       "location": {
         "country": [
-          "China"
+          "Unknown"
         ],
         "city": [
           "Unknown"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The scene begins with a side view of a person wearing a vibrant yellow jacket and a red checkered scarf, focused on filming a plate of food. They are holding a professional camera setup featuring a large white telephoto lens and a smartphone mounted as a monitor. (2) The person uses a single metal chopstick to gently poke and adjust a fried egg sitting atop a plate of noodles, ensuring the perfect shot for the camera which is positioned inches away. (3) In the background, other patrons are visible sitting at tables and eating in what appears to be a casual indoor eatery or small restaurant. The camera capturing this footage remains static throughout.",
-      "audio_narrative_log": "(1) The audio consists of a series of repetitive, sharp mechanical clicking sounds, resembling a high-speed camera shutter or a motorized device being triggered. (2) Beneath the clicking, there is a consistent layer of ambient restaurant noise, including the faint clatter of dishes and low-level background chatter. (3) No human vocals or music are present; the soundscape is dominated by the rhythmic mechanical clicks and environmental room tone.",
-      "text_narrative_log": "None"
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 0,
-      "averageSceneDuration": 10.0,
-      "isNarrativeShift": false,
-      "mainActionFlow": "The video shows a single, continuous shot of a person meticulously arranging food while filming with professional equipment."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 4,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 3,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Hands only",
-        "Full body",
-        "Side view"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 main individual filming, 2 patrons sitting directly behind, and 1 person visible in the further background.",
-      "mainCharacterDescription": "A person with dark hair wearing a bright yellow raincoat or jacket and a red and white checkered scarf."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Eatery",
-          "Restaurant"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A casual indoor restaurant with wooden tables and chairs, fluorescent lighting, and other customers eating in the background.",
-      "lightingStyle": "Bright fluorescent indoor lighting",
-      "weather": "Unknown",
-      "season": "Winter",
+      "sceneCutCount": 1,
+      "averageSceneDuration": 10.33,
       "editingPace": "Slow",
-      "textOverlay": {
-        "density": "None",
-        "language": [
-          "None"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "Bright and saturated",
-      "cameraWork": [
-        "Static"
-      ]
+      "isNarrativeShift": false
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Fried Egg",
-        "Noodles"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Professional Camera",
-        "Telephoto Lens",
-        "Tripod",
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "None",
-      "vocalRatio": "None"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 0,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "None",
-        "pitch": "None",
-        "loudness": "None",
-        "speed": "None",
-        "speechDensity": "None",
-        "language": [
-          "None"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": false,
-      "bgmGenre": "None",
-      "bgmBPM": 0,
-      "instrumentFamiliesAudible": [
-        "None"
-      ],
-      "instrumentsAudible": [
-        "None"
-      ],
-      "musicSourceType": [
-        "None"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "Camera Shutter Clicks"
-      ],
-      "ambientNoise": [
-        "Restaurant Ambience",
-        "Dish Clinking"
-      ],
-      "audioQuality": "Field Recording"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Setup -> Action",
-      "mainPurpose": "The video serves as a behind-the-scenes look at the professional effort required for high-quality food content creation. It highlights the contrast between the sophisticated camera gear and the humble, everyday setting of a local diner, emphasizing the 'craft' behind social media or commercial food imagery.",
-      "visualEmotion": "Focused and Industrious"
+      "narrativeStructure": "Linear: Preparation -> Action",
+      "mainPurpose": "To showcase the professional-grade filming techniques and high-end equipment used to capture food-related short-form content in a casual setting.",
+      "visualEmotion": [
+        "informative",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -166,9 +265,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Juxtaposition of high-end cinematography gear with casual, everyday environments.",
-      "freeDescribe": "The use of a telephoto lens for macro-style food shots suggests a professional or high-level hobbyist approach to content creation."
-    }
+    "freeDescribe": "The video highlights the technical disparity between high-end cinematography gear and everyday dining environments."
   }
 }

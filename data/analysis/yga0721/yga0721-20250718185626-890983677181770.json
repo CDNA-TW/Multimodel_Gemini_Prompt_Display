@@ -1,162 +1,283 @@
 {
   "videoName": "yga0721-20250718185626-890983677181770.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 58,
-      "aspectRatio": "9:16",
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The video begins with an outdoor street scene showing various people walking towards the camera. A woman in a tan coat and a bear-ear hat walks alongside several others. (2) The scene shifts indoors to a brightly lit, crowded room where many people are browsing through blue plastic shopping baskets filled with items and racks of clothing. (3) A male character with short brown hair, wearing a black mesh sweater over a striped shirt, is seen gesturing and talking animatedly in a room with white walls and a display case containing handbags and shoes. (4) Close-up shots show a glass display cabinet containing high-end brand bags and boxed products, with yellow 'caution' tape across some boxes. (5) The male character interacts with a female character wearing a black beanie and striped shirt; they are surrounded by a crowd in a clothing section. He holds up various garments and uses a black marker to write on tags. (6) The camera focuses on large, detailed anime figurines, specifically characters from Dragon Ball Z like Vegeta and Goku, arranged on white tables. The male character points at them while speaking to a group of onlookers. (7) People in the crowd hold shopping baskets and take photos with their smartphones. The male character continues to joke and interact with the attendees, at one point smelling a piece of clothing. (8) The final phase shows the male and female characters standing together, holding packages and smiling directly at the camera in a room filled with clothes racks.",
+      "text_narrative_log": "(1) [Subtitle]: 哎呦 我們一年一度. (2) [Subtitle]: Hahababy惜福季第3年. (3) [Logo]: 拍照打卡區. (4) [Subtitle]: 前辦公室AB合約製造所. (5) [Subtitle]: 大家都看影片啦. (6) [Subtitle]: 1比1嗎???. (7) [Subtitle]: 她本人更瘦好不好. (8) [Logo]: 二手衣物區. (9) [Subtitle]: 600太貴了啦!!!. (10) [Subtitle]: 我幫妳打折啦!!!. (11) [Subtitle]: 洪+0賣600. (12) [Subtitle]: 沒水準!!!. (13) [Subtitle]: 這二伯的味道. (14) [Subtitle]: 剛買4000多. (15) [Logo]: 公仔出清區. (16) [Subtitle]: 大隻的10萬 小隻的5萬. (17) [Variety]: 成交!!!. (18) [Subtitle]: 這隻是正版授權的. (19) [Subtitle]: 我幫它拍個遺照. (20) [Logo]: 玩具出清區. (21) [Subtitle]: 均一價300元. (22) [Subtitle]: 我們明年的惜福季再見.",
+      "visual_human_presence": {
+        "totalHumanCount": 25,
+        "maleDetectAmount": 10,
+        "femaleDetectAmount": 12,
+        "kidsDetectAmount": 3,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Head and shoulders",
+          "Face close-up",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Crowd"
+        ],
+        "countingEvidence": "1 main male creator, 1 main female creator, numerous staff and customers in the background.",
+        "mainCharacterDescription": "A male with brown hair wearing a black mesh oversized sweater over a black and white striped shirt and light blue jeans. A female wearing a black beanie, a black and white striped long-sleeved shirt, and denim overalls."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Event Venue / Convention Hall",
+          "Retail Store",
+          "Outdoor Street"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The video moves between an outdoor street with parked scooters and an indoor event space featuring white walls, wooden shelving, clothing racks, and display tables for merchandise and toys.",
+        "lightingStyle": [
+          "Bright indoor lighting",
+          "Natural daylight"
+        ],
+        "weather": [
+          "Overcast"
+        ],
+        "season": [
+          "Autumn / Winter"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Panning",
+          "Follow shot"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Full shot",
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Jump cut",
+          "Fast cuts",
+          "Montage",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Compilation / montage sequence"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "Scooter / motorcycle"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Microphone / lavalier mic",
+          "Camera / DSLR"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Hahababy",
+          "Gucci"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 5,
+        "male_vocal_count": 3,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Comedic/Exaggerated",
+          "Friendly"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Synthesizer",
+          "Percussion",
+          "Electronic"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter",
+          "Chatter",
+          "Applause"
+        ],
+        "crowdNoiseIntensity": 3,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Clothing / Fabric Rustle",
+          "Object Impact / Thud / Drop"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Pop / Bubble SFX",
+          "Ding / Bell SFX",
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a high-pitched, enthusiastic male voice announcing an annual event over an upbeat, fast-tempo electronic pop track. A sudden 'pop' sound effect accompanies the visual transition. (2) Vocal density increases as multiple voices are heard laughing and chatting in the background, creating a lively bazaar atmosphere. The primary male speaker maintains a high energy level, his voice peaking in volume during jokes. (3) A distinct 'ding' sound effect occurs as the male speaker mentions prices. The background music remains consistent with a steady 4/4 electronic beat. (4) The male speaker's tone becomes more comedic and exaggerated as he interacts with customers, followed by a burst of group laughter (applause/laugh track SFX). (5) Sound of clothing being moved and plastic bags rustling is audible during the second-hand clothing segments. (6) The male and female speakers engage in a fast-paced back-and-forth dialogue, with the music swelling slightly during transition points. (7) The video concludes with the male speaker lowering his volume slightly to deliver a closing remark, accompanied by a final bright synthesizer chord from the BGM."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
         "Vlog",
-        "Event Coverage",
-        "Charity Sale"
+        "Lifestyle",
+        "Event / Festival",
+        "Comedy"
       ],
-      "withRealPeople": true,
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "None"
+          "Unknown"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video opens with a crowd of people walking along a street towards an event space. (2) It transitions indoors to a bustling second-hand sale event titled 'Hahababy'. (3) The main male creator, wearing a black mesh sweater with floral patterns, is seen energetically interacting with customers in the 'Second-hand Clothing' section, signing items and laughing. (4) The camera pans across various zones including a photo booth with large posters, a high-end action figure clearance area featuring large 'Dragon Ball' statues, and a toy clearance section. (5) The male and female creators are shown together at the end, smiling and waving to the camera as they thank the participants.",
-      "audio_narrative_log": "(1) Upbeat, high-tempo pop music plays throughout the video. (2) A loud, energetic male voice provides continuous narration and interacts with people, shouting prices and jokes. (3) The background is filled with the ambient sounds of a large crowd: constant chatter, laughter, and the rustling of shopping bags. (4) Distinct cartoonish sound effects (boing, ding) and recorded laughter are used to emphasize humorous interactions between the creator and the shoppers.",
-      "text_narrative_log": "(1) Functional Text: 'Hahababy惜福季 第3年' (Hahababy Charity Season Year 3) indicating the event. (2) Decorative/Hook Text: '600太貴了啦!!!' (600 is too expensive!!!), '沒水準!!!' (No manners!!!), '1比1嗎???' (Is it 1:1 scale?) appearing in variety-show style fonts with various colors. (3) Location Labels: '拍照打卡區' (Photo check-in area), '二手衣物區' (Second-hand clothing area), '公仔出清區' (Figure clearance area)."
     },
     "temporal_pacing_summary": {
-      "sceneCutCount": 42,
-      "averageSceneDuration": 1.38,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro -> Scene Montage -> Interactive Highlights -> Outro"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 25,
-      "maleDetectAmount": 10,
-      "femaleDetectAmount": 12,
-      "kidsDetectAmount": 3,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Faces",
-        "Hands only"
-      ],
-      "crowdLevel": "Crowd",
-      "countingEvidence": "Two main creators, numerous shoppers of various ages and genders, including children.",
-      "mainCharacterDescription": "The male creator has brown hair and wears a black knit sweater with yellow and white flowers. The female creator has black hair in braids and wears a striped long-sleeve shirt."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Market",
-          "Event Hall"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A crowded indoor space filled with clothing racks, tables covered in toys and action figures, and large wall-mounted event posters.",
-      "lightingStyle": "Bright studio-style indoor lighting",
-      "weather": "Indoor",
-      "season": "None",
+      "sceneCutCount": 24,
+      "averageSceneDuration": 2.4,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Bright and Saturated",
-      "cameraWork": [
-        "Handheld",
-        "Follow shot",
-        "Static"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "Scooter"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Hahababy"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 15,
-        "vocal_demographics": {
-          "male_vocal_count": 8,
-          "female_vocal_count": 10,
-          "kids_vocal_count": 2
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and Humorous",
-        "pitch": "Moderate to High",
-        "loudness": "Loud",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese",
-          "Hokkien"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drums"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Cartoon SFX",
-        "Recorded Laughter"
-      ],
-      "ambientNoise": [
-        "Crowd chatter"
-      ],
-      "audioQuality": "Field"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Location Tour -> Interaction Highlights -> CTA",
-      "mainPurpose": "This video serves as a high-energy event highlight reel for the 'Hahababy Charity Season'. It aims to showcase the success and lively atmosphere of the second-hand sale, promote the creators' brand (Hahababy) by showing their personal involvement, and build community rapport through humorous interactions with fans and shoppers.",
-      "visualEmotion": "Energetic, Fun, Community-oriented"
+      "narrativeStructure": "Montage: Hook -> Event Highlights -> Interactions -> Closing",
+      "mainPurpose": "The video documents and promotes a specific charity or second-hand clearance event called 'Hahababy 惜福季' (Gratitude Season). It uses high-energy interactions and a comedic tone to showcase the variety of goods available—from luxury bags to second-hand clothes and expensive anime figurines—while emphasizing a fun, community-driven shopping experience.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -164,14 +285,11 @@
         "Explicit",
         "Full"
       ],
-      "endorsementCues": "The entire video focuses on the creators' own brand 'Hahababy' and its charity event.",
+      "endorsementCues": "Direct display of products and mentions of the brand 'Hahababy' and specific event pricing.",
       "endorsementObject": [
         "Hahababy"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Cai A-ga's high-energy comedic delivery and quick-witted interactions with passers-by.",
-      "freeDescribe": "The video heavily utilizes variety-show editing techniques common in Taiwanese YouTube content to maintain a fast, engaging pace."
-    }
+    "freeDescribe": "The video uses typical social media 'variety show' editing with heavy use of on-screen text and sound effects to maintain viewer engagement. The main creator, Cai Aga, leads the narrative with high vocal arousal."
   }
 }

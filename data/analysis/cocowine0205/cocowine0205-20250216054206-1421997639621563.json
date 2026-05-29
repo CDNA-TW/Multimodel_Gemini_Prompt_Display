@@ -1,181 +1,284 @@
 {
   "videoName": "cocowine0205-20250216054206-1421997639621563.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 34,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Shopping",
-        "Unboxing"
-      ],
+      "videoDuration": 33,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "Unknown"
+      "visual_narrative_log": "(1) The scene starts indoors in a brightly lit living room. A young woman with long dark hair, wearing a grey beanie and a grey and black patterned knit top, is the central figure. She holds a small red paper bag with 'CHOCOLATE' printed on it towards the camera, smiling excitedly. Behind her is a brown leather sofa and a pink plush toy. (2) The woman then holds up a white paper bag with a pink handle and a Mickey Mouse illustration. She lowers herself to pick up another bag. (3) She stands up holding a large yellow tote bag with a Donald Duck illustration. The background remains the indoor living room with a shelf containing various decorative items and a digital clock. (4) A quick transition shows a hand moving over four pink cards laid out on a wooden floor, suggesting a selection process. (5) The scene shifts to an outdoor location with a red brick wall. A large pink poster featuring Chiikawa characters is visible. The woman is now wearing a grey coat and holding a large black bag filled with multiple Chiikawa plushies. (6) She holds up the pink Mickey Mouse bag again in front of the brick wall, then shows the large black bag which has several small plushies attached to its handles. (7) Close-up shots of various Chiikawa themed merchandise are shown: a plushie in a green and white dress, a pink plushie with a star, a roll of washi tape, and several character cards. (8) The woman is back indoors, sitting at a wooden table. She has all the Chiikawa merchandise laid out in front of her. She gestures towards the items with both hands, looking directly at the camera with a satisfied expression. A large TV and a pet cage are visible in the background.",
+      "text_narrative_log": "(1) [Subtitle]: 巧克力. [Variety]: 巧克力. (2) [Subtitle]: 米妮. [Variety]: 米妮. (3) [Subtitle]: 還有唐老鴨👍. [Variety]: 還有唐老鴨👍. (4) [Subtitle]: 他會抽到哪一個呢?. (5) [Variety]: 魔法吉伊卡哇 塞爆你的袋. (6) [Subtitle]: 妹妹來吉伊卡哇展 給他抽袋子 只要塞進去 我都會付錢. (7) [Subtitle]: 塞這個 不行. (8) [Subtitle]: 他抽到了這個袋子 看看他買了些什麼 第三棟透天厝要來了. (9) [Subtitle]: 透天厝 第三棟 即將落成 滿滿的. (10) [Subtitle]: 總共是 3,550元 醬醬. [Variety]: 3,550元.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Hands only"
         ],
-        "city": [
-          "None"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A woman in a grey beanie and a grey-and-black top holds up small paper bags with Disney characters and chocolate themes. (2) She points to a selection of cards on a wooden floor representing different bags. (3) A second woman in a grey coat stands in front of a pink brick wall with a Chiikawa poster, holding a large black bag filled with plushies. (4) Close-up shots show various Chiikawa-themed plush toys, stickers, and cards being arranged. (5) The second woman sits indoors behind a table filled with the items, gesturing with her hands while smiling. (6) The video ends with a montage of the items on display.",
-      "audio_narrative_log": "(1) A high-pitched, excited female voice introduces different bag styles with upbeat, fast-paced synth-pop music. (2) Sound effects like 'pop' and 'ting' occur as items are presented. (3) The second woman's voice is heard describing her haul at the exhibition, maintaining a cheerful and energetic tone. (4) The BGM remains consistent throughout with electronic beats and cute melody loops. (5) A final sound effect accompanies the display of the total price.",
-      "text_narrative_log": "(1) Functional Text: 'Chocolate', 'Minnie', 'Donald Duck' identifying bag styles. (2) Hook Text: 'Which one will she pick?' (3) Title/Hook: 'Magic Chiikawa - Stuffing your bag to the max'. (4) Decorative Text: 'Sister came to the Chiikawa exhibition', 'Whatever she fits in, I'll pay'. (5) Functional Text: 'Total is 3,550 yuan' in large orange font. (6) Emotional stickers and emojis appear throughout."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 18,
-      "averageSceneDuration": 1.88,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro -> Choice Challenge -> Exhibition Shopping -> Haul Reveal -> Price Summary"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Upper body"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "1 female narrator/introducer and 1 female sister/shopper.",
-      "mainCharacterDescription": "The first woman wears a grey knit beanie and a unique grey/black bow-detail top. The second woman wears a grey coat and later a black top."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main female creator presenting items.",
+        "mainCharacterDescription": "A young Asian woman with long dark hair, wearing a grey beanie, a grey and black patterned knit top, and later a grey coat."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
           "Indoor Living Room",
           "Outdoor Street",
-          "Exhibition"
+          "Exhibition / Museum / Gallery"
         ],
-        "topography": [
-          "None"
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The video moves between a cozy indoor living room with a leather sofa, decorative shelves, and a TV, and an outdoor exhibition area with a red brick wall and large character posters.",
+        "lightingStyle": [
+          "Bright indoor lighting",
+          "Natural daylight"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Winter"
+        ],
+        "colorTone": [
+          "Natural and bright"
         ]
       },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "An indoor room with a leather couch and art on the wall; a brick wall with a pink Chiikawa exhibition poster; a wooden floor.",
-      "lightingStyle": "Bright studio lighting indoors and natural daylight outdoors.",
-      "weather": "Clear",
-      "season": "Winter (based on beanie and coats)",
-      "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese",
-          "English"
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Graphic transition"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese"
         ],
         "isSubtitled": true
       },
-      "colorTone": "High Saturation",
-      "cameraWork": [
-        "Static",
-        "Handheld",
-        "Close-up"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Chocolate"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Chiikawa",
-        "Disney",
-        "McDonald's"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Fragmented",
-      "audioTransition": "Hard cut with SFX",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 2,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and humorous",
-        "pitch": "High",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Traditional Chinese"
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Cartoon / animated animal",
+          "Plush / decoration / toy animal"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "TV / display screen"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Disney",
+          "Chiikawa"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat/Cute Pop",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Ding",
-        "Cartoon Pop",
-        "Sparkle"
-      ],
-      "ambientNoise": [
-        "Outdoor city hum"
-      ],
-      "audioQuality": "Field"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Anime/J-Pop"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 0,
+        "female_singer_count": 1,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "Japanese"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone",
+          "Urban/Traffic"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Paper / Page Rustle",
+          "Plastic / Bag Rustle"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Ding / Bell SFX",
+          "Sparkle / Magic SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Stingers"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a high-pitched, energetic female voice speaking excitedly in Chinese. A bright, upbeat Japanese pop song with a strong electronic beat serves as the background music. (2) A distinct rustling sound of paper bags is heard as the speaker moves items. (3) A 'whoosh' transition sound effect marks a scene change. (4) The woman's voice continues, maintaining a high level of arousal and positive valence. (5) Short, melodic 'sparkle' or 'ding' sound effects are synchronized with the visual presentation of various small toys and cards. (6) The background music remains continuous, with the female vocals of the song clearly audible beneath the narrator's speech. (7) Towards the end, the narrator's tone becomes slightly more narrative as she summarizes the total cost, followed by a celebratory sound effect."
     }
   },
-  "high_inference_interpretations": {
-    "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Shopping Challenge -> Result Reveal",
-      "mainPurpose": "To document a fun shopping trip and 'challenge' where the creator pays for her sister's haul at a popular character exhibition, showcasing the merchandise and total cost to engage viewers interested in cute collectibles.",
-      "visualEmotion": "Energetic and Happy"
-    },
-    "endorsement_analysis": {
-      "isEndorsement": true,
-      "endorsementMethod": [
-        "Implicit",
-        "Integrated"
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Vlog",
+        "Shopping",
+        "Product Showcase"
       ],
-      "endorsementCues": "The entire video focuses on showing the merchandise from the Chiikawa exhibition and mentions the location and pricing.",
-      "endorsementObject": [
-        "Chiikawa"
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 12,
+      "averageSceneDuration": 2.75,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Setup -> Action -> Reveal",
+      "mainPurpose": "The video documents a shopping challenge or treat where the creator lets her sister pick bags at a Chiikawa exhibition and promises to pay for whatever fits. It concludes by revealing the specific items purchased and the total cost of the shopping spree.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Heavy use of variety-show style text bubbles and fast-paced 'haul' style editing.",
-      "freeDescribe": "The video leverages the current popularity of Chiikawa merchandise in East Asia to generate interest."
-    }
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The video focuses on a personal shopping experience at an exhibition rather than a paid promotion.",
+      "endorsementObject": [
+        "Chiikawa",
+        "Disney"
+      ]
+    },
+    "freeDescribe": "The video uses fast-paced editing and popular character merchandise (Chiikawa) to create an engaging short-form vlog."
   }
 }

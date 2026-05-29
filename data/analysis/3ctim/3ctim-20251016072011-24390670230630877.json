@@ -1,160 +1,268 @@
 {
   "videoName": "3ctim-20251016072011-24390670230630877.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 50,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Tech News",
-        "Product Introduction",
-        "Commentary"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A middle-aged male host wearing a dark flat cap and glasses speaks directly to the camera in a medium close-up shot. He is wearing a light pink t-shirt with a green chameleon logo. The background is a simple gray curtain with soft studio lighting. (2) The scene transitions to a high-quality product render of the Sony FlexStrike Wireless Fight Stick, featuring a black base and colorful buttons against a digital blue grid background. Animated text overlays highlight the product name and its 2026 release date. (3) Detailed close-up shots showcase the joystick's mechanical components, side ports for USB-C, and the textured non-slip base. The lighting is bright and clinical to emphasize product details. (4) The host reappears, gesturing enthusiastically while more variety-show style text graphics pop up around him, concluding the review with a humorous comparison.",
+      "text_narrative_log": "(1) [Logo]: 3c有意思tim哥. [Logo]: @3ctim. [Subtitle]: 你是. (2) [Variety]: 絕對要注意. [Slogan]: ALWAYS READY FOR THE FIGHT. [Slogan]: Available 2026. (3) [Subtitle]: 超低延遲傳輸的. [Subtitle]: PlayStation Link無線連接技術. (4) [Subtitle]: 整合了DualSense. [Variety]: 阿輝會買!",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Head and shoulders",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main male creator presenting the tech news.",
+        "mainCharacterDescription": "The main character is a middle-aged Asian male with short hair, wearing glasses and a dark blue flat cap. He is dressed in a light pink t-shirt with a green graphic of a chameleon on a tree."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The primary background is a neutral gray curtain in a studio setting. This alternates with a high-tech CGI environment featuring a blue glowing grid and product renders of the gaming controller.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Digital zoom"
+        ],
+        "shotSize": [
+          "Medium close-up",
+          "Insert shot",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Graphic transition",
+          "Subtitled social-media edit",
+          "Speed ramp"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Animal on packaging / logo"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Game console / controller",
+          "Smartphone",
+          "Microphone / lavalier mic"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Sony",
+          "PlayStation",
+          "DualSense"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Professional/Narrative",
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 7,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Ding / Bell SFX",
+          "Pop / Bubble SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 5,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Stingers"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A crisp, energetic male voice begins speaking in a professional yet excited tone over a high-tempo electronic beat. The BGM features sharp synth chords and a steady 4/4 electronic drum rhythm. (2) A sharp 'Whoosh' sound effect triggers as the topic shifts to the FlexStrike product. The speaker's pitch rises to emphasize technical keywords. (3) Short 'Pop' sound effects punctuate the appearance of on-screen text features. The music maintains a constant high energy level without pauses. (4) The audio concludes with a slightly more casual, humorous vocal inflection from the narrator, ending with a brief musical stinger that hard cuts to silence."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Tech Review"
+      ],
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "Unknown"
+          "None"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video features a middle-aged male with glasses and a black flat cap, wearing a pink t-shirt with a green graphic, speaking directly to the camera in a medium close-up shot against a grey curtain background. (2) Throughout the video, various product images of the Sony FlexStrike Wireless Fight Stick are overlaid, showing the stick, buttons, and underside. The man gestures enthusiastically with his hands as he speaks. (3) A yellow warning icon overlay appears briefly to emphasize a point. The man maintains high energy and facial engagement, concluding with a pointing gesture toward the camera.",
-      "audio_narrative_log": "(1) High-energy male vocals in Mandarin Chinese begin immediately, accompanied by upbeat, mid-tempo electronic background music. (2) The soundscape remains consistent with the continuous voiceover and steady music. Subtle 'pop' sound effects trigger during text and image transitions. (3) The vocal tone remains excited and persuasive until the end, where the music fades out alongside the speaker's closing remarks.",
-      "text_narrative_log": "(1) Functional text: 'Sony正式公佈旗下第一款 (FlexStrike) 無線格鬥搖桿' (Sony officially announces its first FlexStrike wireless fight stick). (2) Decorative/Hook text: '絕對要注意' (Must pay attention) with a warning sign emoji; '預計2026年推出' (Expected launch in 2026); '很重要的' (Very important) with a drooling face emoji. (3) Feature callouts: '超低延遲傳輸', '止滑底座', '特製機械開關', '整合了DualSense', '(我超好奇)' (I'm super curious), and a final hook '我賭！阿輝會買！' (I bet! Ah Hui will buy it!)."
     },
     "temporal_pacing_summary": {
       "sceneCutCount": 18,
       "averageSceneDuration": 2.7,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Intro -> Feature breakdown with product overlays -> Closing personal opinion"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body (upper half)",
-        "Hands only"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main creator (Tim) visible throughout the frame.",
-      "mainCharacterDescription": "Middle-aged Asian man, glasses, black flat cap, pink casual t-shirt with a green nature/frog graphic."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Studio"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A simple indoor studio setting with a neutral grey pleated curtain backdrop.",
-      "lightingStyle": "Bright studio lighting, soft and even.",
-      "weather": "Indoor",
-      "season": "Unknown",
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Chinese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Game Controller",
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Sony",
-        "PlayStation",
-        "3ctim"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and professional",
-        "pitch": "Normal",
-        "loudness": "High",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Kit"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "Cartoon SFX"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Technical Specification List -> Value Proposition -> Closing",
-      "mainPurpose": "The video serves as a rapid-fire tech news update intended to inform the audience about Sony's new 'FlexStrike' fight stick. It uses a talking-head format combined with high-density visual aids to highlight key features like ultra-low latency, PlayStation Link integration, and durable mechanical switches, ultimately generating hype for a 2026 release.",
-      "visualEmotion": "Energetic"
+      "narrativeStructure": "Linear: Hook -> Product Introduction -> Feature Deep Dive -> Market Comparison -> CTA/Conclusion",
+      "mainPurpose": "The video aims to introduce Sony's new 'FlexStrike' wireless fight stick, focusing on its innovative low-latency wireless technology and ergonomic design to appeal to the fighting game community. The fast-paced editing and energetic narration serve to generate hype for its 2026 release.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "humorous"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -162,14 +270,12 @@
         "Implicit",
         "Integrated"
       ],
-      "endorsementCues": "Detailed product feature breakdown, use of official product photography, and positive commentary by a known tech influencer.",
+      "endorsementCues": "The host speaks positively about the technical features and build quality of the Sony product while showcasing official branding and logos.",
       "endorsementObject": [
-        "Sony FlexStrike"
+        "Sony",
+        "FlexStrike Wireless Fight Stick"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "3C有意思Tim哥 signature intro style and fast-paced variety-show editing.",
-      "freeDescribe": "The mention of another creator ('阿輝') at the end suggests a tight-knit community of tech influencers in the region."
-    }
+    "freeDescribe": "High-production-value tech snippet tailored for social media with dense subtitles and rapid visual cuts."
   }
 }

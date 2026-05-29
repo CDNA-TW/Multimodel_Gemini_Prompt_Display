@@ -1,165 +1,272 @@
 {
   "videoName": "3ctim-20250915172644-1164545035648547.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 73,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Tech Review",
-        "Unboxing",
-        "Tutorial"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "Unknown"
+      "visual_narrative_log": "(1) A middle-aged male host wearing a beige cap, glasses, and a bright yellow pocket t-shirt stands against a plain white background. He holds a white rectangular Sony Xperia 10 VII product box towards the camera while speaking with animated facial expressions and hand gestures. (2) The scene cuts to a close-up of the host holding a vibrant green smartphone. He rotates the device to showcase the rear panel, specifically pointing his finger at the two circular camera lenses arranged horizontally on a raised island. The lighting is bright and even. (3) The video transitions to screen captures of the mobile interface. The host's hands scroll through a YouTube feed to demonstrate scrolling smoothness. Text overlays highlight the jump from a 60Hz to a 120Hz refresh rate. Colors on the display are vivid and saturated. (4) Extreme close-ups show the top of the phone with a 3.5mm headphone jack and the bottom edge with a SIM card tray being pulled out. A hand inserts a micro-SD card and an Apacer brand memory card. Graphical text indicates a 2TB storage capacity. (5) The host returns to the screen, holding the phone inside a matching green protective case. He then demonstrates the device's durability and water resistance by placing the phone into a small glass fish tank filled with water and blue pebbles.",
+      "text_narrative_log": "(1) [Subtitle]: 我們來開箱. [Logo]: f 3c有意思tim哥. [Logo]: @3ctim. (2) [Slogan]: Sony Xperia 10 VII. (3) [Variety]: 輕巧. [Variety]: 防水. [Variety]: 電力持久. (4) [Variety]: 變化最大. (5) [Variety]: 相機橫向排列. (6) [Variety]: 土耳其藍. (7) [Variety]: 21:9 -> 19.5:9. (8) [Variety]: 60Hz -> 120Hz. (9) [Variety]: 3.5mm. [Variety]: 雙eSIM. [Variety]: 2TB. (10) [Variety]: 1 1/5吋. [Variety]: 5000mAh.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only"
         ],
-        "city": [
-          "Unknown"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video opens with a middle-aged male creator wearing a yellow t-shirt and a beige flat cap, standing against a plain white background and holding a white smartphone box. (2) He proceeds to unbox the device, revealing a teal-colored smartphone; the camera switches between his facial reactions and extreme close-ups of the phone's back, particularly the horizontal camera module and the Sony logo. (3) The sequence continues with several quick cuts demonstrating specific features: scrolling through a YouTube interface on the screen, a close-up of the 3.5mm headphone jack, the SIM/SD card tray being pulled out, and the phone being placed inside a small aquarium to show its waterproof capabilities. (4) The video concludes with the creator holding the phone in its protective case, gesturing with his hands while looking directly into the camera.",
-      "audio_narrative_log": "(1) Fast-paced, upbeat electronic background music begins immediately, accompanied by an energetic male voice-over in Mandarin. (2) As the unboxing starts, the music maintains a consistent, high-tempo rhythm while the narrator lists technical specifications. (3) Occasional 'whoosh' and 'ding' sound effects are synchronized with the appearance of text overlays on the screen. (4) The vocal density is high throughout, with the music fading slightly in the final seconds as the creator delivers a concluding call-to-action.",
-      "text_narrative_log": "(1) Functional Text: Traditional Chinese subtitles appear at the bottom center of the screen, providing a literal transcription of the narration. (2) Decorative/Hook Text: Large, stylized captions appear periodically, such as 'Sony Xperia 10 VII' (blue/white title), '輕巧、防水、電力持久' (green/white bullet points with checkmarks), '19.5:9' (large white font), and '5000mAh' (bright yellow font). (3) The text use is highly dynamic, intended to emphasize key selling points with an informative and enthusiastic tone."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 26,
-      "averageSceneDuration": 2.8,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Hook/Unboxing -> Feature-by-feature demonstration -> Durability test -> Summary"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Head and shoulders",
-        "Hands"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main male creator appearing throughout the video; close-ups focus on his hands holding the product.",
-      "mainCharacterDescription": "Middle-aged man with glasses, wearing a beige flat cap and a yellow 'Roots' t-shirt."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Studio",
-          "Indoor"
+        "crowdLevel": [
+          "Single"
         ],
-        "topography": [
-          "None"
+        "countingEvidence": "1 main creator (Tim哥) appearing throughout the video.",
+        "mainCharacterDescription": "Middle-aged man, short hair, wearing a beige baseball cap, glasses, and a bright yellow pocket t-shirt."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A clean white studio background is primary, interspersed with screen recording overlays and a short night exterior scene showing a car near a graffiti wall.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
         ]
       },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "Minimalist white indoor studio wall; a small aquarium is briefly used as a secondary scene for the waterproof test.",
-      "lightingStyle": "Bright, even studio lighting",
-      "weather": "None",
-      "season": "None",
-      "editingPace": "Fast",
-      "textOverlay": {
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Handheld",
+          "Zoom in"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Macro close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Jump cut",
+          "Fast cuts",
+          "Insert shot",
+          "Meme-style edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
         "density": "High",
-        "language": [
+        "textLanguage": [
           "Traditional Chinese",
-          "English"
+          "English",
+          "Emoji / Symbols"
         ],
         "isSubtitled": true
       },
-      "colorTone": "Natural and bright with high saturation",
-      "cameraWork": [
-        "Static",
-        "Close-up",
-        "Macro"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "Car"
-      ],
-      "techDetect": [
-        "Smartphone",
-        "SD Card"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Sony",
-        "Roots",
-        "Apacer"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Energetic, professional, and persuasive",
-        "pitch": "Medium-high",
-        "loudness": "Clear and projected",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "Car"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Laptop",
+          "Microphone / lavalier mic"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Sony",
+          "Apacer",
+          "Google Play"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat/Electronic",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum kit"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Whoosh",
-        "Ding",
-        "Splashing"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Professional/Narrative",
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 8,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 120,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Mechanical Click / Latch",
+          "Plastic / Bag Rustle"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Pop / Bubble SFX",
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 5,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Stingers"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A male voice speaks with high energy and professional clarity, introducing the Sony Xperia 10 VII unboxing. Background music begins with a driving electronic beat and synthetic textures. A subtle, brief rustling sound is heard as the physical box is handled near the microphone. (2) As the host lists the phone's strengths, three distinct high-pitched \"ding\" sound effects occur in rapid succession, emphasizing the words 'lightweight', 'waterproof', and 'long battery life'. The narrator’s pitch varies significantly to maintain engagement, and his speech rate remains consistently fast. (3) A quick, synthesized \"whoosh\" sound effect marks the transition to technical screen demonstrations. The background music maintains a constant 120 BPM tempo with a prominent bass rhythm. The narrator’s voice remains the dominant audio layer, projecting loudly with a clear, authoritative yet friendly tone. (4) A sharp mechanical \"click\" sound is heard when the SIM tray is ejected, followed by the faint rustling of small plastic components being handled. The music continues without pause, though its volume slightly ducks during the narration of memory expansion capabilities. Speech density is high with very few pauses. (5) The host concludes with a summary, his voice rising in arousal and volume for the final recommendation. A soft \"pop\" sound effect signals the end of the feature list, and the electronic background music swells briefly before fading out in a hard cut at the end."
     }
   },
-  "high_inference_interpretations": {
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Tech Review",
+        "Unboxing"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Taipei"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 35,
+      "averageSceneDuration": 2.1,
+      "editingPace": "Fast",
+      "isNarrativeShift": false
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Intro -> Attribute 1 -> Attribute 2 -> Attribute 3 -> CTA",
-      "mainPurpose": "To provide a comprehensive yet rapid-fire review of the Sony Xperia 10 VII smartphone, emphasizing its design refinements (horizontal camera), screen upgrades (120Hz), and practical features (3.5mm jack, battery life) to encourage viewers to consider purchasing it.",
-      "visualEmotion": "Energetic and tech-forward"
+      "narrativeStructure": "Linear: Hook -> Unboxing -> Feature Detailed Review -> Conclusion -> Recommendation",
+      "mainPurpose": "To review and promote the Sony Xperia 10 VII smartphone, highlighting its design changes, screen improvements, camera sensor upgrades, and continued strong battery life/portability to potential buyers.",
+      "visualEmotion": [
+        "energetic",
+        "informative"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -167,14 +274,11 @@
         "Explicit",
         "Full"
       ],
-      "endorsementCues": "Detailed product showcase, brand logos clearly visible, technical specs highlighted as 'upgrades'.",
+      "endorsementCues": "Direct product showcase by a professional tech influencer including detailed specs and personal recommendation.",
       "endorsementObject": [
         "Sony"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Fast-talking tech review style, '3c Tim' branding in the corner, signature yellow shirt and hat combo.",
-      "freeDescribe": "Typical high-performance short-video format for the Taiwanese tech community, focusing on efficiency and information density."
-    }
+    "freeDescribe": "A fast-paced, professionally edited tech unboxing video that effectively communicates multiple technical improvements within a short timeframe."
   }
 }

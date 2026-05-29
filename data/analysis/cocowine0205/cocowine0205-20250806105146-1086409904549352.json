@@ -1,164 +1,283 @@
 {
   "videoName": "cocowine0205-20250806105146-1086409904549352.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 80,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Product Review",
-        "Comedy"
-      ],
+      "videoDuration": 79,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "Taiwan"
+      "visual_narrative_log": "(1) The video begins in a brightly lit warehouse retail store, featuring two women standing in front of shelves stocked with toothpaste boxes. A woman in a blue beret and white lace dress holds a pack of Colgate MaxFresh toothpaste, smiling broadly and gesturing with her hands. Another woman in a black cutout top stands beside her, looking at the product. (2) A close-up shot focuses on the toothpaste box, which has a colorful design with rainbows and heart shapes. The woman in the white dress points at the box with her right hand while speaking animatedly. The background shows blurred aisles and merchandise. (3) The scene transitions to an indoor domestic setting with warm lighting. The two women are seated; the woman in a zebra-patterned hat holds a green plate while the other woman uses an electric toothbrush to show heart-shaped flakes in the squeezed toothpaste gel. (4) The woman in the zebra hat is then seen in a bathroom, looking into a mirror while brushing her teeth. White foam is visible around her mouth, and she wears a surprised expression. The bathroom features gold-toned hardware and a clean, modern aesthetic. (5) In a living room, a woman in a black dress is sitting on the floor, leaning against a brown leather sofa and laughing. The woman in the zebra hat leans in closer to the camera to show a blue heart-shaped flake stuck to her front tooth, laughing as she does so. (6) A small white Maltese dog wearing a white and red patterned dress walks across the light-colored wooden floor. The woman in the black dress reaches out toward the dog. The background includes a pink step-stool and a large speaker.",
+      "text_narrative_log": "(1) [Logo]: COSTCO WHOLESALE. [Variety]: 超夢幻. (2) [Variety]: 無法理解. (3) [Variety]: 愛心彩虹牙膏. (4) [Variety]: 有亮片哎. (5) [Slogan]: 刷出清新好口氣. (6) [Variety]: 愛心的. (7) [Variety]: 385元. (8) [Variety]: 水溶性的愛心亮片. (9) [Variety]: 超級涼感. (10) [Variety]: 嘴巴上有亮片.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Face close-up",
+          "Full body"
         ],
-        "city": [
-          "None"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video starts with a graphic Costco Wholesale logo. A young woman wearing a blue Kangol beret and a white ruffled dress stands in a warehouse store aisle, excitedly presenting a 4-pack of Colgate toothpaste. (2) Transitioning to an indoor setting, she sits with a friend in a black dress and squeezes pink translucent toothpaste containing small, multi-colored heart-shaped glitters onto a plate. (3) She applies the paste to an electric toothbrush and is shown in a bathroom mirror brushing her teeth with a surprised, wide-eyed expression. (4) After rinsing, a heart-shaped flake is stuck to her front tooth, which she laughs about. Her friend in black is shown lounging on a brown leather sofa, laughing at the situation. A small white dog in a pink strawberry-themed outfit walks into the frame.",
-      "audio_narrative_log": "(1) A high-pitched and enthusiastic female voice speaks in Mandarin over upbeat, fast-tempo electronic pop background music. (2) The sounds of a tube squeezing and the mechanical buzzing of an electric toothbrush are clearly heard as the speaker continues her narration. (3) Laughter and a conversational back-and-forth between two female voices follow, maintaining a humorous and friendly tone. (4) The upbeat BGM continues throughout the transition between scenes, fading slightly at the very end.",
-      "text_narrative_log": "(1) Functional Text: Subtitles translate the spoken dialogue throughout the video. (2) Decorative/Hook Text: 'COSTCO WHOLESALE', '超夢幻' (Super Dreamy), '無法理解' (Incomprehensible), and '愛心彩虹牙膏' (Heart Rainbow Toothpaste) appear in large, colorful fonts to highlight key moments. (3) Effect Text: '超級涼感' (Super Cool Sensation) appears in purple with heart emojis to emphasize the product's effect."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 18,
-      "averageSceneDuration": 4.4,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Store discovery -> Product demonstration -> Personal trial -> Humorous reaction"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Head and shoulders"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "One main female creator in a beret and white dress, one female friend in a black dress.",
-      "mainCharacterDescription": "The primary creator has long dark hair, wearing a white sleeveless ruffled mini-dress and a blue beret with a white logo."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Warehouse Store",
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "2 main female creators appear throughout the video in various settings.",
+        "mainCharacterDescription": "One woman wears a blue beret, white lace dress, and later a zebra-patterned bucket hat with an orange top. The second woman wears a black top with a neckline cutout and a black dress."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Supermarket / Warehouse Store",
           "Indoor Living Room",
-          "Bathroom"
+          "Indoor Bathroom"
         ],
-        "topography": [
-          "None"
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The video moves between a large retail warehouse with high industrial shelving, a domestic bathroom with a mirror and gold faucet, and a living room with a brown leather couch and wooden floors.",
+        "lightingStyle": [
+          "Bright studio lighting",
+          "Warm indoor lighting",
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Warm and vibrant"
         ]
       },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "Tall metal shelves filled with consumer goods in a warehouse store; a modern living room with a large brown leather couch; a well-lit bathroom with a large mirror.",
-      "lightingStyle": "Bright, even indoor lighting and natural mirror lighting.",
-      "weather": "None",
-      "season": "None",
-      "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "High",
-        "language": [
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Panning",
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Medium close-up",
+          "Full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Low angle"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Meme-style edit"
+        ],
+        "visual_rhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
           "Traditional Chinese",
           "English"
         ],
         "isSubtitled": true
       },
-      "colorTone": "High Saturation",
-      "cameraWork": [
-        "Static",
-        "Close-up",
-        "Follow shot"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "Dog"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone",
-        "Electric Toothbrush"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Colgate",
-        "Costco",
-        "Kangol"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 2,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and humorous",
-        "pitch": "High",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Dog"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Microphone / lavalier mic",
+          "Speaker / audio device"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Costco",
+          "Colgate"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop",
-      "bgmBPM": 125,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "None"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Cartoon SFX"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 0,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly",
+          "Comedic/Exaggerated"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone",
+          "Commercial/Recreational"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Liquid Pour / Splash",
+          "Metal  Bump ",
+          "Mechanical Click / Latch",
+          "Animal Sound / Barking"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Ding / Bell SFX",
+          "Pop / Bubble SFX",
+          "Whoosh / Transition SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Fades"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) Upbeat electronic pop music begins with a clear, steady beat. A female speaker's voice is high-pitched and high-arousal, expressing excitement. The recording quality is crisp with a light commercial background hum. (2) A sharp 'ding' sound effect occurs as the speaker highlights a product. The music continues at a moderate tempo. The vocals are fast-paced with an enthusiastic, rising intonation pattern. (3) The sound of gel being squeezed onto a surface is audible, followed by several 'pop' and 'magic' sound effects corresponding to visual text. The voices of two women overlap as they converse excitedly. (4) Mechanical whirring of an electric toothbrush and splashing water sounds are heard. The speaker's voice becomes muffled briefly, followed by clear laughter. The music remains a consistent major-mode backdrop. (5) Intense laughter from both women dominates the audio track. The speech becomes fragmented and breathy due to the laughter. Several quick 'whoosh' transition sound effects punctuate the dialogue. (6) A short, high-pitched dog yip or bark is heard. The primary female speaker shifts to a warm, gentle tone while addressing the pet. The music gradually fades out at the conclusion of the video."
     }
   },
-  "high_inference_interpretations": {
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Product Review",
+        "Vlog",
+        "Lifestyle"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 12,
+      "averageSceneDuration": 6.58,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Evidence -> Demo -> Result",
-      "mainPurpose": "The video serves as a lifestyle and product review vlog focusing on a specific consumer product found at Costco. It aims to entertain the audience by showcasing the aesthetic novelty of the 'heart-shaped rainbow toothpaste' and provides a humorous firsthand experience of using it, ultimately creating a relatable 'expectation vs. reality' moment when the heart gets stuck on the tooth.",
-      "visualEmotion": "Energetic and Playful"
+      "narrativeStructure": "Linear: Hook -> Experience -> Result -> Outro",
+      "mainPurpose": "The video is a lifestyle product review aimed at showcasing a novelty toothpaste found at Costco. The creators use humor and personal experience to demonstrate the product's unique 'heart-shaped flakes' and its practical effects, including the unexpected result of a flake sticking to a tooth.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -166,15 +285,12 @@
         "Explicit",
         "Full"
       ],
-      "endorsementCues": "The entire video is dedicated to purchasing, demonstrating, and reviewing the Colgate MaxFresh Rainbow Hearts toothpaste.",
+      "endorsementCues": "The video explicitly names the brand 'Colgate', shows the packaging in detail, mentions the purchase location 'Costco', and displays the price.",
       "endorsementObject": [
         "Colgate",
         "Costco"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-energy editing with variety-show captions and the inclusion of a dressed-up pet.",
-      "freeDescribe": "The video uses a mix of consumer advocacy (Costco shopping) and personal lifestyle comedy to influence viewers' perceptions of a daily hygiene product."
-    }
+    "freeDescribe": "A highly engaging short-form video that blends shopping haul elements with personal comedy and pet cameos."
   }
 }

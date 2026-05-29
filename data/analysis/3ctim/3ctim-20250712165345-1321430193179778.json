@@ -1,161 +1,284 @@
 {
   "videoName": "3ctim-20250712165345-1321430193179778.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 63,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Tech Review",
-        "Product Showcase"
-      ],
+      "videoDuration": 62,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "Taiwan"
+      "visual_narrative_log": "(1) The video opens in a bright, white-walled indoor exhibition space. Several Samsung Galaxy Flip series phones are displayed on clean white pedestals. A vibrant red Flip 7 is prominently featured in the foreground, half-folded, showing a digital clock and a busy New York City street scene on its cover screen. Other blue and black units are visible in the background. (2) A hand enters the frame, pointing at the red phone's cover screen. The camera pans across the display, showcasing blue, black, and red versions of the foldable device. (3) The scene shifts to individual close-ups of the phones held by a male hand. Each phone (black, blue, pink) is rotated to show its matte finish and slim profile against a colorful mural background with urban art elements. (4) A sequence follows showing various phone cases with whimsical illustrations, including dinosaurs and characters. (5) The video concludes with a demonstration of the phone's functional features, including the cover screen interface displaying a map and an AI chatbot interaction screen. A side-by-side comparison of the screen size with a previous model is shown on a wooden desk.",
+      "text_narrative_log": "(1) [Logo]: 3c意思意思tim哥. [Logo]: @3ctim. [Subtitle]: 這一次的. (2) [Subtitle]: Galaxy Flip 7 全顏色. (3) [Subtitle]: 是不是很漂亮. [Subtitle]: 我最喜歡這個顏色. [Subtitle]: 而且你看還有紐約計程車啊. (4) [Subtitle]: 好 這個呢. [Subtitle]: 是墨夜黑. (5) [Subtitle]: 這是海影藍. (6) [Subtitle]: 這是輕緋紅. [Subtitle]: 欸我喜歡欸輕緋紅. (7) [Subtitle]: 它們還有商城限定色哦. [Subtitle]: 商城限定色. [Subtitle]: 嗯喜歡. (8) [Subtitle]: 我最喜歡的. [Slogan]: LOVE KEEPS US ALIVE. (9) [Subtitle]: 它有倒數. [Subtitle]: 看我現在錄影的地方. [Subtitle]: 它還提示在這裡. (10) [Subtitle]: 是不是. [Subtitle]: 我今天穿著穿的怎麼樣. (11) [Subtitle]: 你今天穿著一件黑色上衣. [Subtitle]: 看起來很簡潔俐落. (12) [Subtitle]: 搜尋明天台北101的開放時間. [Subtitle]: 然後直接加到我的行事曆. (13) [Subtitle]: 台北101觀景台明天的開放時間已加入您的行事曆. (14) [Subtitle]: 你看螢幕升級了 6.9 吋. [Subtitle]: 上一代. (15) [Subtitle]: 升級啦. [Subtitle]: 你看它這次是窄邊框. (16) [Variety]: 之後有完整開箱喔✨.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Hands only",
+          "Face",
+          "Head and shoulders",
+          "Upper body",
+          "Partial body"
         ],
-        "city": [
-          "Taipei"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video opens with several foldable smartphones displayed on white pedestals, featuring a vibrant pink model with a New York City taxi wallpaper. (2) A person's hand picks up the devices one by one, showcasing black, deep blue, and light blue matte finishes. (3) A sequence follows showing various decorative phone cases with colorful cartoon illustrations. (4) The scene shifts to a first-person perspective where the hand holds a folded device, showing the external cover screen which displays a camera preview of a man wearing a black shirt and glasses. (5) Interaction with the phone's UI occurs on the small cover screen, navigating through AI assistant menus and map interfaces. (6) Finally, two phones are placed side-by-side on a light-colored wooden table for a direct size and bezel comparison.",
-      "audio_narrative_log": "(1) Upbeat, medium-tempo electronic pop music starts immediately. A male voice speaks with an enthusiastic and clear tone in Mandarin. (2) The music continues as a consistent background layer while the male speaker describes various colors and features of the device. (3) Ambient noise is minimal, suggesting a quiet indoor or studio-controlled environment. (4) A synthesized female voice (AI assistant) enters the audio track, responding to the male speaker's inquiries with a polite and informative tone. (5) The male speaker continues his narration, pointing out specific technical details, followed by another response from the female AI voice. (6) The music remains steady until the end, providing a cohesive energetic vibe to the entire clip.",
-      "text_narrative_log": "(1) \"這一次的 Galaxy Z Flip 7 全顏色\" - Hook text introducing the topic of the new phone colors. (2) \"墨夜黑\", \"海影藍\", \"輕緋紅\" - Functional text labeling the specific color names in Mandarin. (3) \"商城限定色\" - Decorative highlight text indicating store-exclusive colors. (4) \"我最喜歡的 ❤️\" - Emotional caption expressing the creator's personal preference for a specific case design. (5) On-screen speech bubbles transcribe the dialogue between the user and the AI assistant regarding outfit choices and scheduling. (6) \"螢幕升級了 6.9吋\" and \"窄邊框\" - Functional text emphasizing key hardware upgrades."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 18,
-      "averageSceneDuration": 3.5,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Product color showcase -> Hands-on feature demo -> Comparison with previous generation."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Hands only",
-        "Face (via phone screen preview)"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "One male creator (3c Tim) whose hands and face on-screen are visible.",
-      "mainCharacterDescription": "Adult male wearing a black shirt, glasses, and a baseball cap."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 main male presenter (Tim) and a brief appearance of a female in the background.",
+        "mainCharacterDescription": "The main character, Tim, wears a black t-shirt, a black cap, glasses, and a wooden beaded bracelet."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Exhibition / Museum / Gallery",
           "Studio",
-          "Showroom"
+          "Indoor Home"
         ],
-        "topography": [
-          "None"
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The video features three main backgrounds: a sterile white exhibition area with product pedestals, a studio wall featuring a colorful graffiti-style mural, and a plain indoor room with a wooden table used for specs comparison.",
+        "lightingStyle": [
+          "Bright studio lighting",
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Bright and colorful",
+          "High saturation",
+          "Natural and bright"
         ]
       },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "Clean white display pedestals initially, shifting to a more colorful wall with graffiti-style art, and finally a light wood table with books.",
-      "lightingStyle": "Bright studio lighting",
-      "weather": "Indoor",
-      "season": "None",
-      "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "Medium",
-        "language": [
-          "Chinese",
-          "English"
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Panning",
+          "Handheld",
+          "Static",
+          "Zoom in"
+        ],
+        "shotSize": [
+          "Close-up",
+          "Medium shot",
+          "Extreme close-up",
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "High angle",
+          "Side view"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Fast cuts",
+          "Graphic transition"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Emoji / Symbols"
         ],
         "isSubtitled": true
       },
-      "colorTone": "High Saturation",
-      "cameraWork": [
-        "Static",
-        "POV",
-        "Close-up"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "New York Taxi (on wallpaper)"
-      ],
-      "techDetect": [
-        "Smartphone",
-        "Foldable Phone"
-      ],
-      "landmark": [
-        "Taipei 101 (mentioned/searched)"
-      ],
-      "brandLogos": [
-        "Samsung"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Soft Cross-fade",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Friendly and professional",
-        "pitch": "Normal",
-        "loudness": "Clear",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Dinosaur",
+          "Cartoon / animated animal"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "Car",
+          "Taxi"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Microphone / lavalier mic"
+        ],
+        "landmark": [
+          "Taipei 101"
+        ],
+        "brandLogos": [
+          "Samsung"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic Pop",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 1,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Professional/Narrative",
+          "Friendly"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Mechanical Click / Latch"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Cross-fade"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with high-energy, upbeat electronic pop background music featuring a driving synthesizer rhythm. An enthusiastic male voice speaking Mandarin introduces the Galaxy Flip 7 colors. (2) A sharp 'whoosh' transition sound effect marks a change in focus to the red device. The speaker's tone is highly positive, with frequent pitch fluctuations. (3) A soft digital 'ping' SFX accompanies the mention of the cover screen. The male speaker continues his rapid narration, listing color names like 'Mo Ye Hei' (Dark Night Black) and 'Hai Ying Lan' (Ocean Shadow Blue). (4) The audio texture shifts slightly as the speaker interacts with the phone's AI; a clear, articulated female voice provides a synthesized response in a calm, helpful tone. (5) The energetic male voice returns to summarize specs, comparing 6.9-inch screens and narrow bezels. The BGM maintains its tempo until a final hard cut at the end."
     }
   },
-  "high_inference_interpretations": {
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Product Showcase",
+        "Tech Review"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 22,
+      "averageSceneDuration": 2.8,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based -> Demonstration -> Comparison: Hook -> Feature Highlight -> Performance Proof.",
-      "mainPurpose": "The video serves as a comprehensive marketing and review piece for the new Samsung Galaxy Z Flip series. It aims to appeal to tech enthusiasts by showcasing the aesthetic variety of the colors, demonstrating practical AI-driven software features on the external screen, and providing empirical evidence of hardware improvements compared to previous models.",
-      "visualEmotion": "Energetic and Modern"
+      "narrativeStructure": "List-based: Hook -> Color Showcase -> Accessory Preview -> Feature Demo -> Specs Comparison -> CTA",
+      "mainPurpose": "To provide a comprehensive first look at the Samsung Galaxy Flip 7's aesthetics and key technological upgrades. The video aims to engage tech enthusiasts and potential buyers by highlighting style (colors and cases) alongside practical AI and hardware enhancements.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -163,14 +286,11 @@
         "Explicit",
         "Full"
       ],
-      "endorsementCues": "Detailed product showcase, mention of store exclusives, and branding prominent throughout.",
+      "endorsementCues": "The entire video is dedicated to demonstrating and praising the features of the Samsung Galaxy Flip 7.",
       "endorsementObject": [
-        "Samsung"
+        "Samsung Galaxy Flip 7"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Host's signature energetic Mandarin greeting and consistent tech-focused POV style.",
-      "freeDescribe": "The video successfully blends lifestyle aesthetic with technical specs, making a high-tech product feel accessible and trendy."
-    }
+    "freeDescribe": "The video uses a high-density editing style characteristic of short-form social media content to maintain high viewer engagement while delivering technical information."
   }
 }

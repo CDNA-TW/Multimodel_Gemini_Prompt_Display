@@ -1,167 +1,276 @@
 {
   "videoName": "yga0721-20250819065659-2302485320274289.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 71,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Endorsement",
-        "Comedy"
-      ],
+      "videoDuration": 72.1,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) Outdoor park setting during the day. The main character, Cai Aga, is walking away from the camera. A person wearing a green hooded parka and a black face mask rushes from the right to snatch his black bag. (2) Cai Aga and the hooded person struggle for the bag with exaggerated, comical physical movements and facial expressions of shock and anger. (3) They stop the struggle as Cai Aga realizes it's a friend. They stand on a rubberized playground surface. Cai Aga opens his bag to reveal several small white packets of Migoo nuts. (4) Close-up shots of the nut packaging and a white plate filled with various nuts and raisins are shown in high detail with bright, clean studio lighting. (5) Back in the park, Cai Aga approaches another man sitting on a park bench who is recording with his smartphone. Cai Aga interacts with him and offers him the nut packets. (6) A montage of various products from the same brand appears, including boxed noodles, colorful jars of drinks, and yellow packets of pork floss, all presented with professional food photography styling. (7) Cai Aga stands in front of the camera, pointing and gesturing enthusiastically while holding the nut packets. He encourages the audience to check his bio for group buying information.",
+      "text_narrative_log": "(1) [Subtitle]: (腳步聲). (2) [Variety]: 幹什麼東... 搶什麼東西. (3) [Subtitle]: 欸那是你. [Logo]: @yga0721. (4) [Variety]: 空. [Subtitle]: 謀厚喔. (5) [Subtitle]: 老朋友了啦. (6) [Slogan]: 網路聲量第一名. 號稱堅果界的愛馬仕. 彌菓頂級堅果隨手包. (7) [Slogan]: 無添加. 真正低溫烘焙. 嚴選當季頂級飽滿大堅果. 低溫輕焙堅果. 75度-90度 耗時3到6小時. (8) [Subtitle]: 散發優雅迷人香氣. 能夠品嚐到頂級堅果最純粹的美味. (9) [Slogan]: A.A. Clean Label 國際無添加三星. 比利時米其林 iTQi 一星. (10) [Variety]: ?. [Subtitle]: 不要吃瓜啦. 來吃堅果啦. (11) [Subtitle]: 堅果不都長一樣. 那是你沒吃過彌菓. (12) [Slogan]: 被堅果耽誤的鍋燒麵. 各種沖泡飲品. 得過獎的豬肉絲. (13) [Subtitle]: 記得要tag我喔. [Logo]: @yga0721. (14) [Slogan]: 現在嘎哥團購中.",
+      "visual_human_presence": {
+        "totalHumanCount": 3,
+        "maleDetectAmount": 3,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face close-up",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main creator (Cai Aga), 1 friend in a green parka, 1 friend sitting on a bench.",
+        "mainCharacterDescription": "Adult male with brown hair, wearing a black lace-textured shirt over a horizontal black and white striped shirt, paired with loose white pants."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Park / Garden"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A typical urban park with mature green trees, benches, playground safety flooring, and tall residential apartment buildings visible in the distance.",
+        "lightingStyle": [
+          "Natural daylight"
+        ],
+        "weather": [
+          "Cloudy / Overcast"
+        ],
+        "season": [
+          "Summer"
+        ],
+        "colorTone": [
+          "Natural"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Follow shot"
+        ],
+        "shotSize": [
+          "Medium full shot",
+          "Medium shot",
+          "Close-up",
+          "Insert shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Fast cuts",
+          "Montage",
+          "Graphic transition"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Snack / chips / candy",
+          "Noodles / ramen / pasta",
+          "Meat / beef / pork / chicken",
+          "Beverage / juice"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "migoo 彌菓"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 3,
+        "male_vocal_count": 3,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Comedic/Exaggerated"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 7,
+        "dominance": 8,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Meme/Comedy",
+          "Pop"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Synthesizer",
+          "Electronic",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Nature/Outdoor"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "Footsteps",
+          "Plastic / Bag Rustle"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Cartoon / Comedy SFX",
+          "Impact / Hit SFX",
+          "Whoosh / Transition SFX",
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Fades"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Mixed"
+        ]
+      },
+      "audio_narrative_log": "(1) High-energy male shouting erupts as a bouncy, fast-tempo electronic BGM kicks in. Percussive 'thud' and 'whoosh' sound effects accompany the rapid rustling of a bag being yanked. (2) Vocal pitch fluctuates wildly with comedic shouting. Sharp 'impact' sound effects mark physical points of contact in the struggle. (3) The tone settles into a rapid-fire, enthusiastic conversational rhythm. The BGM maintains a steady, lighthearted comedic beat. (4) Narration speeds up as a series of 'ding' sounds and digital interface SFX signal the appearance of on-screen text overlays. (5) The speaker's volume increases and pitch rises during the final call to action. The BGM concludes with an final upbeat synth stinger and a digital transition 'whoosh'."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Promotion / Advertisement / Indoresment",
+        "Comedy",
+        "Vlog"
+      ],
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "Unknown"
+          "Taipei"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video starts in an outdoor park setting where a young man in a black shirt is walking; suddenly, another individual in a light green hooded jacket and mask runs up and tries to snatch his bag. (2) They engage in a theatrical struggle with dramatic zooming effects. (3) The 'thief' stops and reveals their identity, leading to a friendly exchange. (4) The main creator opens his bag to display several packets of 'migoo' mixed nuts. (5) Close-up shots transition to a studio setting showing the nuts being poured onto a plate and high-quality macro shots of the ingredients. (6) The creator is shown eating a nut with an exaggerated, wide-eyed expression of satisfaction. (7) Back in the park, they approach a third man sitting on a bench; the creator gives him some sample packets while they talk. (8) Images of other brand products, including boxed noodles and pork jerky, flash on the screen. (9) The creator stands in front of the camera, pointing and gesturing enthusiastically for the closing segment.",
-      "audio_narrative_log": "(1) Fast-paced, tense music plays initially, accompanied by the sound of scuffling feet and muffled shouting. (2) The music transitions into a bright, high-energy variety-show style BGM as the men start talking. (3) Male vocals are dominant, characterized by a loud, high-pitched, and extremely energetic tone in Mandarin. (4) A descriptive narration begins, explaining the product features over the upbeat music. (5) Ambient park noise is minimal, but sound effects like 'dings' and 'crunching' are added for emphasis during product shots. (6) The audio concludes with a final enthusiastic call to action and a short musical sting.",
-      "text_narrative_log": "(1) Functional subtitles translate the fast-paced Mandarin dialogue throughout the video. (2) Hook text like '網路聲量第一名' (Ranked No. 1 in online volume) and '堅果界的愛馬仕' (The Hermes of the nut world) appears in bold, colorful fonts. (3) Product specifications and certifications like 'A.A. Clean Label' and 'iTQi' awards are listed during the demonstration. (4) Decorative text such as '現在嘎哥團購中' (Ga Ge's group buy is now active) and the creator's social media handle '@yga0721' appear toward the end."
     },
     "temporal_pacing_summary": {
-      "sceneCutCount": 32,
-      "averageSceneDuration": 2.2,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Hook (Theft) -> Comedic Reveal -> Product Demonstration -> Social Interaction -> Call to Action"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 3,
-      "maleDetectAmount": 3,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Face close-ups"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 main creator (male), 1 friend in hoodie (male), 1 man on park bench (male).",
-      "mainCharacterDescription": "A young Asian male with brown hair, wearing a black cardigan over a black-and-white striped t-shirt and white trousers."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Outdoor Park",
-          "Studio"
-        ],
-        "topography": [
-          "Plain"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "An outdoor public park with trees, park benches, and exercise equipment, transitioning to a clean, white-background studio setting for product close-ups.",
-      "lightingStyle": "Natural daylight outdoors and bright, even studio lighting for products.",
-      "weather": "Overcast",
-      "season": "Summer",
+      "sceneCutCount": 26,
+      "averageSceneDuration": 2.77,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural and vibrant",
-      "cameraWork": [
-        "Follow shot",
-        "Static",
-        "Macro close-up",
-        "Handheld"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Mixed Nuts",
-        "Noodles",
-        "Pork Strips"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "migoo",
-        "彌菓"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade and hard cuts synced with visual transitions.",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 3,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 3,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Loud, high-pitched, excited, and persuasive",
-        "pitch": "High",
-        "loudness": "High",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Variety Show",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum kit"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Cartoon SFX",
-        "Crunching",
-        "Transition swish"
-      ],
-      "ambientNoise": [
-        "Outdoor park ambience",
-        "Wind"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Interaction -> Demonstration -> Validation -> CTA",
-      "mainPurpose": "This video is a highly energetic social media advertisement for 'migoo' snack products. It uses a comedic 'fake robbery' scenario to capture immediate viewer attention before transitioning into a detailed testimonial and demonstration of the products' quality, awards, and taste. The objective is to drive sales through a time-limited 'group buy' event hosted by the creator.",
-      "visualEmotion": "Energetic and Humorous"
+      "narrativeStructure": "Linear: Hook -> Resolution -> Product Introduction -> Testimonial -> CTA",
+      "mainPurpose": "The video utilizes a comedic 'fake robbery' skit to immediately capture viewer attention before pivoting into a high-energy endorsement for 'migoo' nut products and other food items. It aims to persuade the audience of the product's quality through awards and taste-testing, ultimately driving traffic to the creator's social media profile for a group purchase link.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "informative"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -169,15 +278,11 @@
         "Explicit",
         "Full"
       ],
-      "endorsementCues": "The creator specifically showcases the product packaging, eats the product on camera, lists brand achievements/awards, and provides a direct call to action for a group purchase.",
+      "endorsementCues": "The creator directly shows the products, lists their specific manufacturing advantages (low-temperature roasting, international awards), and explicitly mentions a group purchase promotion.",
       "endorsementObject": [
-        "migoo",
-        "彌菓"
+        "migoo 彌菓"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-energy Mandarin delivery, fast-paced editing with colorful variety-show style text overlays, and theatrical reactions typical of the influencer Tsai Aga (蔡阿嘎).",
-      "freeDescribe": "The video leverages 'mook-bang' elements and comedy to make the advertisement feel more like entertainment, which is highly effective for the target social media audience."
-    }
+    "freeDescribe": "Classic social-media-native editing with very high text density and rapid-fire speech to maximize information retention in a short-form format."
   }
 }

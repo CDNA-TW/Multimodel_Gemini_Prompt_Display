@@ -1,176 +1,277 @@
 {
   "videoName": "2uncle987-20251020160138-1569385141219800.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 14,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Challenge",
-        "Comedy"
-      ],
+      "videoDuration": 13,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
+      "visual_narrative_log": "(1) A group of young women stand in a brightly lit indoor space with white walls and a glass display cabinet filled with toys. A woman in a pink striped dress and space buns laughs excitedly, gesturing with her hands while a woman in a black dress stands beside her. (2) The scene cuts to a montage of various people sitting on wooden chairs. Their legs are visible as they sit on newspapers spread across a white tiled floor, moving their feet rapidly to slide the paper. (3) Close-up shots highlight different types of socks and shoes as feet scrape and tear at the newspaper. Other participants are seen in the background, also seated and participating in the activity. (4) The camera returns to a medium shot of the woman in the pink dress, now seated and laughing uncontrollably with her mouth wide open, her body shaking as she joins the frantic newspaper-sliding game.",
+      "text_narrative_log": "(1) [Subtitle]: POV: 本來應該從從容容. [Logo]: @2uncle987.",
+      "visual_human_presence": {
+        "totalHumanCount": 7,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 7,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Feet / Legs"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main creator in pink, approximately 6 other women as participants and onlookers.",
+        "mainCharacterDescription": "A young woman with dark hair styled in two space buns, wearing a pink and white vertical-striped strap dress."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Office / Workplace"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "An indoor room with white walls, white tiled flooring, and a glass shelving unit containing colorful boxes and plush toys. Wooden chairs are scattered around for the activity.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Panning"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Medium full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Low angle"
+        ],
+        "editingTechniques": [
+          "Fast cuts",
+          "Montage"
+        ],
+        "visualRhythm": [
+          "Highly dynamic / rapid montage"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
           "None"
         ],
-        "city": [
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
           "None"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video starts in an indoor room with two women standing and laughing; one is wearing a pink striped romper and the other a black dress with a blue shirt over it. (2) The scene cuts to a montage showing different women sitting in chairs on top of newspapers. (3) They are all using their feet to rapidly pull the newspapers toward them as part of a competition or game. (4) The camera shows close-ups of the feet in socks and shoes dragging the paper on the marble floor. (5) The final shot shows the woman in the pink romper laughing hysterically while sitting in the chair, with her friends cheering in the background.",
-      "audio_narrative_log": "(1) Upbeat, high-tempo pop music starts immediately with the sound of a group of women laughing and cheering loudly. (2) As the visuals cut to the newspaper-pulling game, the sound of rhythmic shuffling of paper against the floor is heard beneath the music. (3) The cheering and laughter continue throughout the duration, maintaining a high-energy and chaotic soundscape until the end.",
-      "text_narrative_log": "(1) Decorative/Hook Text: 'POV: 本來應該從從容容' appears at the top. The tone is humorous, suggesting a contrast between expected 'calmness' and the chaotic scene shown."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 10,
-      "averageSceneDuration": 1.4,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro -> Game Montage -> Final Reaction"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 6,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 6,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Feet",
-        "Face",
-        "Hands"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 main female character in pink, at least 5 other female friends/participants visible across different shots.",
-      "mainCharacterDescription": "A young female with dark hair styled in two buns, wearing a pink and white vertically striped sleeveless romper."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Studio"
-        ],
-        "topography": [
-          "None"
-        ]
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 4,
+        "male_vocal_count": 0,
+        "female_vocal_count": 4,
+        "kids_vocal_count": 0
       },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "An indoor room with light-colored walls, marble-patterned flooring, wooden chairs, and some shelves with various retail goods and storage boxes. Newspapers are spread across the floor.",
-      "lightingStyle": "Bright, even indoor studio lighting.",
-      "weather": "None",
-      "season": "None",
-      "editingPace": "Fast",
-      "textOverlay": {
-        "density": "Low",
-        "language": [
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 1
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Comedic/Exaggerated"
+        ],
+        "vocalLanguage": [
+          "English",
           "Traditional Chinese"
         ],
-        "isSubtitled": false
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 3,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 3
       },
-      "colorTone": "Natural and Bright",
-      "cameraWork": [
-        "Static",
-        "Close-up",
-        "Follow shot"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "TOTAL CARE"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade",
-      "vocalRatio": "Medium"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 4,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 6,
-          "kids_vocal_count": 0
-        }
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 9,
+        "dominance": 6,
+        "hasVocalTension": false
       },
-      "vocal_qualities": {
-        "tone": "High-pitched, excited, and humorous",
-        "pitch": "High",
-        "loudness": "Loud",
-        "speed": "Fast",
-        "speechDensity": "Occasional exclamations",
-        "language": [
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
           "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter",
+          "Cheering"
+        ],
+        "crowdNoiseIntensity": 4,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Paper / Page Rustle",
+          "Clothing / Fabric Rustle"
+        ],
+        "incidentalNoiseIntensity": 3,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 3,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 0,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) High-energy EDM music with a heavy synth-bass beat begins immediately. A group of female voices is heard shouting 'Go, go, go!' in a rhythmic, high-pitched, and extremely excited tone. (2) A loud burst of collective laughter ensues. The sounds of feet rapidly sliding and rustling against sheets of paper create a percussive, broadband noise layer that syncs with the music's tempo. (3) The intensity of the chanting increases as voices become more strained and loud. The rustling paper SFX grows more chaotic, indicating faster physical movement. (4) The BGM continues its steady pulse while a dominant female voice transitions into a loud, gasping laugh, marking the peak of the audio energy before the track abruptly ends."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Challenge",
+        "Meme / Trend"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drums"
-      ],
-      "musicSourceType": [
-        "Copyrighted Song"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Laughter",
-        "Cheering",
-        "Paper rustling"
-      ],
-      "audioQuality": "Field Recording"
-    }
-  },
-  "high_inference_interpretations": {
+    "temporal_pacing_summary": {
+      "sceneCutCount": 12,
+      "averageSceneDuration": 1.08,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Setup -> Action -> Climax/Reaction",
-      "mainPurpose": "The video aims to document and share a humorous 'expectation vs. reality' moment during a group activity. By showing the frantic and funny newspaper-pulling game, it highlights the joy and lack of composure ('not calm') of the participants, creating relatable and lighthearted social media content.",
-      "visualEmotion": "Joyful and Energetic"
+      "narrativeStructure": "Montage: Hook -> Action -> Climax",
+      "mainPurpose": "To showcase a humorous contrast between the expectation of being 'composed' and the reality of a frantic, chaotic group game using newspapers and chairs. The video aims to entertain through high-energy visuals and infectious laughter.",
+      "visualEmotion": [
+        "energetic",
+        "humorous"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
       "endorsementMethod": [
         "None"
       ],
-      "endorsementCues": "No specific products are being explicitly promoted; background brands are incidental.",
+      "endorsementCues": "None",
       "endorsementObject": [
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-energy laughter-filled group vlog with viral game mechanics.",
-      "freeDescribe": "The video's impact relies heavily on the authentic laughter and the fast-paced editing of the competitive game."
-    }
+    "freeDescribe": "The rapid editing and high-arousal audio create a strong comedic impact that emphasizes the messy nature of the game."
   }
 }

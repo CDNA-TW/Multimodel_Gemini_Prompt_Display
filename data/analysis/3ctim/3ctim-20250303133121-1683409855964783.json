@@ -1,180 +1,285 @@
 {
   "videoName": "3ctim-20250303133121-1683409855964783.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 27,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Travel",
-        "Review"
-      ],
+      "videoDuration": 32.33,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "United Arab Emirates"
+      "visual_narrative_log": "(1) The camera begins with a handheld pan across a spacious and luxurious airport lounge. Several people are seated on plush tan and red sofas; some are working on laptops while others are browsing their phones. The environment features warm wooden pillars, glass partitions, and large spherical golden pendant lights hanging from a high ceiling. (2) The scene cuts to a series of close-up shots showcasing a buffet spread. Trays are filled with various pastries including golden-brown croissants, savory triangular pies sprinkled with sesame seeds, and golden waffles. Further down the counter, there are covered dishes, sausages in sauce, and bowls containing yogurts, berries, salads, and fruit cups. A staff member in a white uniform and vest is seen briefly arranging plates. (3) The camera transitions back to a wide shot of a long, brightly lit corridor within the lounge. A person's hand enters the frame, pointing toward an overhead sign labeled 'A2 Gate' and 'Boarding.' Several travelers with suitcases are walking through the wide hallway, highlighting the massive scale of the facility which appears to occupy an entire floor.",
+      "text_narrative_log": "(1) [Subtitle]: 沒看過這麼大的貴賓室，直接包整層然後直接對應登機口。。我只有拍我這邊的食物區域，但早餐就很美式一般，素食蠻多可以吃的",
+      "visual_human_presence": {
+        "totalHumanCount": 14,
+        "maleDetectAmount": 8,
+        "femaleDetectAmount": 6,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Hands only",
+          "Partial body",
+          "Back view",
+          "Side view"
         ],
-        "city": [
-          "Dubai"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video begins with a wide panning shot of a luxurious airport lounge, showing travelers seated in red and beige armchairs, some with luggage. Modern circular light fixtures hang from the ceiling. (2) A montage follows, showcasing a breakfast buffet with close-ups of chicken hotdog rolls, croissants, waffles, sausages, beans, yogurt, fruit, and various salads. A staff member in a white uniform is briefly seen tending to the buffet. (3) The final segment shows a person walking through a very long, high-ceilinged corridor with gates labeled 'A2 Gate', using their hand to point out the vast distance.",
-      "audio_narrative_log": "(1) Upbeat pop music with a prominent electronic beat and rhythmic female vocals repeating lyrics like 'Too bad for me' starts and continues through the food montage. (2) At roughly 17 seconds, the music transitions to a different upbeat track with repetitive chanting-style vocals ('Ginga Minga'). (3) No direct vocals, ambient airport noise, or natural sound effects are heard as the music dominates the entire audio track.",
-      "text_narrative_log": "(1) A static block of Traditional Chinese text is overlaid throughout: '沒看過這麼大的貴賓室，直接包整層然後直接對應登機口。。我只有拍我這邊的食物區域，但早餐就很美式一般，素食蠻多可以吃的' (Never seen such a big lounge, it covers the whole floor and connects directly to the gates... I only filmed the food area here, but the breakfast is quite average American style, many vegetarian options to eat). The tone is informative and observational."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 14,
-      "averageSceneDuration": 1.9,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Atmosphere Intro -> Food Detail Montage -> Facility Scale Outro"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 12,
-      "maleDetectAmount": 5,
-      "femaleDetectAmount": 7,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Hands only",
-        "Full body",
-        "Back view"
-      ],
-      "crowdLevel": "Crowd",
-      "countingEvidence": "1 main creator (hand visible), 8-10 travelers seated in the lounge, 1 staff member at the buffet.",
-      "mainCharacterDescription": "The main creator wears a yellow long-sleeved shirt and is only visible via their hand pointing at the corridor."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Airport Lounge",
-          "Buffet"
+        "crowdLevel": [
+          "Crowd"
         ],
-        "topography": [
-          "None"
+        "countingEvidence": "Around 12-13 people are seated or walking in the lounge background; 1 hand of the person filming points at signs.",
+        "mainCharacterDescription": "The main person filming is only visible via their hand wearing a yellow long-sleeved shirt; other travelers wear casual business or travel attire like sweaters, t-shirts, and jeans."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Airport",
+          "Restaurant / Dining"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A high-end airport lounge featuring a dining area with buffet counters, a relaxation area with numerous sofas, and a long connecting hallway with gate signage and large windows.",
+        "lightingStyle": [
+          "Bright indoor lighting",
+          "Warm indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Warm and vibrant"
         ]
       },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A high-end airport lounge with marble floors, luxury armchairs, wooden shelving, and a large professional buffet area. Signs for airport gates are visible in the background.",
-      "lightingStyle": "Intense studio-like indoor lighting",
-      "weather": "Unknown",
-      "season": "Unknown",
-      "editingPace": "Fast",
-      "textOverlay": {
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Panning",
+          "Walking handheld"
+        ],
+        "shotSize": [
+          "Wide shot",
+          "Close-up",
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Fast cuts"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
         "density": "Medium",
-        "language": [
+        "textLanguage": [
           "Traditional Chinese"
         ],
-        "isSubtitled": false
+        "isSubtitled": true
       },
-      "colorTone": "Warm and Cinematic",
-      "cameraWork": [
-        "POV",
-        "Panning",
-        "Handheld"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Croissants",
-        "Waffles",
-        "Sausages",
-        "Baked Beans",
-        "Fruit Salad",
-        "Yogurt"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Fragmented",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "Low"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 0,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "None",
-        "pitch": "None",
-        "loudness": "None",
-        "speed": "None",
-        "speechDensity": "None",
-        "language": [
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Bread / pastry",
+          "Dessert / cake / cookies",
+          "Meat / beef / pork / chicken",
+          "Vegetables",
+          "Fruit",
+          "Dairy / yogurt / cheese",
+          "Prepared meal / plated dish"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Laptop"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
           "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Electronic Drums"
-      ],
-      "musicSourceType": [
-        "Copyrighted Song"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 124,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Crowd Murmur"
+        ],
+        "crowdNoiseIntensity": 1,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 2,
+        "audioCutFrequency": 0,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio consists of an upbeat, rhythmic electronic pop track with a steady 4/4 beat. The percussion is crisp, featuring electronic kick drums and hats. A bright synthesizer melody loops throughout, providing a positive and energetic atmosphere. (2) The music continues without interruption; there is no human speech or singing. A very faint, low-level indoor room tone or distant crowd murmur is barely audible beneath the high-fidelity music track, suggesting an open public space. (3) The rhythmic pattern remains consistent as the video ends, with no added sound effects or transitions, maintaining a clean and professional instrumental audio experience."
     }
   },
-  "high_inference_interpretations": {
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Vlog",
+        "Food Review",
+        "Travel"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 11,
+      "averageSceneDuration": 2.9,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Evidence -> Scale Outro",
-      "mainPurpose": "The video serves as a travel vlog review of a premium airport lounge, likely at Dubai International Airport. It aims to inform viewers about the lounge's massive scale and the variety of food available, while also providing a subjective critique that the food quality is standard despite the impressive surroundings.",
-      "visualEmotion": "Energetic and Impressed"
+      "narrativeStructure": "Montage: Introduction -> Detailed Exploration -> Summary Highlight",
+      "mainPurpose": "To document and showcase the impressive scale and diverse culinary offerings of a massive airport lounge, providing viewers with a sense of the luxury and convenience provided for travelers.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
-      "isEndorsement": true,
+      "isEndorsement": false,
       "endorsementMethod": [
-        "Implicit",
-        "Integrated"
+        "None"
       ],
-      "endorsementCues": "Detailed showcasing of the lounge facilities and food selection by a travel creator.",
+      "endorsementCues": "None",
       "endorsementObject": [
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "POV walking style with hand pointing gestures to emphasize spatial dimensions.",
-      "freeDescribe": "The combination of high-energy music and rapid cuts suggests this is targeted at short-form video platforms (e.g., Reels, TikTok) to provide quick travel tips."
-    }
+    "freeDescribe": "The video uses quick cuts and upbeat music to create a dynamic travel vlog feel, effectively emphasizing the lounge's vastness."
   }
 }

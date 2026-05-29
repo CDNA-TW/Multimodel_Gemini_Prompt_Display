@@ -1,14 +1,229 @@
 {
   "videoName": "5inana-20250630024030-1454810556297106.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 18,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Food Review"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) The video opens with a medium close-up of a young woman with dark hair and a patterned flat cap. She wears a light green tank top featuring a stylized pink cat illustration. She holds a uniquely designed ice cream cone with brown tiger stripes and a wooden spoon. The setting is a bright, modern indoor food court or retail space with blurred background details. (2) She breaks off a thin piece of the wafer cone and places it into her mouth, looking directly at the camera while speaking. Her movements are casual and relaxed. She is adorned with multiple rings and a pink cat pendant. A professional wireless microphone is clearly visible on her right shoulder strap, indicating high-quality audio recording. (3) The camera remains steady as she continues her monologue, gesturing slightly with the wooden spoon in her left hand. She looks down at the ice cream cone, which appears to be partially hollow or uniquely structured, and then back at the camera to finish her thought. The lighting is consistent throughout, providing a clear view of her expressions.",
+      "text_narrative_log": "(1) [Subtitle]: 他其實... [Logo]: YouTube 星光奈奈 Q. (2) [Subtitle]: 他前世是... (3) [Subtitle]: 霜淇淋. (4) [Subtitle]: 這樣講就不對了. (5) [Subtitle]: 完全不合邏輯... (6) [Subtitle]: 吃霜淇淋是不是. (7) [Subtitle]: 應該留一點. (8) [Subtitle]: 冰在裡面?. (9) [Subtitle]: 不應該先把他. (10) [Subtitle]: 挖完. (11) [Subtitle]: 才吃對不對?",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Head and shoulders"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "One main female creator in center frame.",
+        "mainCharacterDescription": "A young woman wearing a checkered newsboy-style hat, a light green tank top with a cat graphic, and a cat-shaped necklace. She has dark hair with bangs."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Shopping Mall / Department Store"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "An indoor commercial environment, likely a cafe or ice cream shop inside a mall, with blurred shelves and warm lighting in the distance.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Dessert / cake / cookies"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Microphone / lavalier mic"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Sony"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 5,
+        "valence": 6,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ],
+        "keySignature": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Food Bite / Crunch"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 1,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) A single female voice occupies the primary audio channel, speaking in Traditional Chinese with a friendly and conversational tone. The pitch is moderate, and the speech rate is steady, typical of a casual vlog. There is a very faint ambient hum in the background, suggesting an indoor public environment, but no background music is present. (2) As the speaker continues, the faint sound of a wafer crunching is heard when she takes a bite. Her vocal quality is clear with professional articulation, likely due to the lapel microphone. There are natural pauses in her speech as she chews and thinks, maintaining a relaxed narrative flow throughout the clip. (3) The audio ends with the speaker's voice rising slightly in intonation, framing her statement as a question. The background noise floor remains stable and low-intensity, ensuring her voice is the dominant acoustic element. There are no synthesized sound effects or musical transitions, keeping the focus entirely on the spoken content and incidental food sounds."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Vlog"
+      ],
       "location": {
         "country": [
           "Unknown"
@@ -18,153 +233,30 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman with short hair and a checkered hat is seen indoors, holding a decorative ice cream cone and a wooden spoon. She looks at the camera, smiles, and takes a bite of a biscuit piece. (2) She continues to talk while holding the ice cream, looking down at it and then back at the camera. Her facial expressions are animated and cheerful as she explains something about the ice cream's structure or how to eat it. (3) She gestures with the wooden spoon, maintaining eye contact with the lens while the background remains a slightly blurred cafe or shop setting.",
-      "audio_narrative_log": "(1) A female voice speaks in Mandarin with a playful and humorous tone. The background features upbeat, mid-tempo electronic BGM. Ambient noise includes the muffled chatter of a public space. (2) The vocal continues at a steady pace, explaining a concept. The BGM remains consistent in the background. (3) The vocal density remains high as she finishes her point, accompanied by the same upbeat background music and soft ambient cafe sounds.",
-      "text_narrative_log": "(1) \"他其實...\" Functional Text: Subtitle translating speech, neutral tone. (2) \"他前世是...霜淇淋\" Decorative Text: Variety-show style caption, humorous/playful tone. (3) \"這樣講就不對了 完全不合邏輯...\" Decorative Text: Emotional hook/caption, skeptical yet humorous tone. (4) \"吃霜淇淋是不是應該留一點冰在裡面？不應該先把他挖完才吃對不對？\" Functional Text: Full subtitles for narration, inquisitive tone."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 3,
-      "averageSceneDuration": 6.0,
-      "isNarrativeShift": false,
-      "mainActionFlow": "The creator talks directly to the camera while holding and eating ice cream, moving from a joke to a practical tip."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main female creator visible from the waist up.",
-      "mainCharacterDescription": "A young female with a bob haircut wearing a beige and brown checkered hat, a light green tank top with a pink cat graphic, and multiple rings on her fingers. A Sony wireless microphone is clipped to her collar."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor",
-          "Cafe"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A brightly lit indoor space, likely a dessert shop or cafe, with white walls and some blurred signage or menus in the background.",
-      "lightingStyle": "Bright indoor lighting, possibly natural light from a window or studio-grade ceiling lights.",
-      "weather": "Unknown",
-      "season": "Summer",
+      "sceneCutCount": 11,
+      "averageSceneDuration": 1.6,
       "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "Medium",
-        "language": [
-          "Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static"
-      ]
+      "isNarrativeShift": false
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Ice cream",
-        "Soft serve",
-        "Biscuit"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Wireless Microphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Sony"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "None",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 1,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Friendly and humorous",
-        "pitch": "Medium-high",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic",
-      "bgmBPM": 115,
-      "instrumentFamiliesAudible": [
-        "Electronic"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Cafe chatter"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Explanation -> Question",
-      "mainPurpose": "The video serves as a lighthearted food vlog where the creator shares a humorous observation about soft-serve ice cream and then poses a rhetorical question to the audience about the 'correct' way to eat it to maximize the experience.",
-      "visualEmotion": "Cheerful"
+      "narrativeStructure": "List-based: Observation -> Contemplation -> Rhetorical Question",
+      "mainPurpose": "The video features a creator sharing a lighthearted, humorous observation about the 'logic' of eating a specifically shaped ice cream cone, intended to engage the audience with a relatable and quirky food-related thought.",
+      "visualEmotion": [
+        "humorous",
+        "casual"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
       "endorsementMethod": [
         "None"
       ],
-      "endorsementCues": "While a Sony microphone is visible, it is used as equipment rather than being the subject of promotion.",
+      "endorsementCues": "None",
       "endorsementObject": [
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Close-up talking head style with direct address and humorous on-screen captions.",
-      "freeDescribe": "The video uses a vertical format typical of TikTok or YouTube Shorts, focusing on relatable food-related humor."
-    }
+    "freeDescribe": "The video relies on facial expressions and a conversational monologue to create a sense of intimacy and engagement with the viewer."
   }
 }

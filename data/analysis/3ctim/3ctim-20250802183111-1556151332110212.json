@@ -1,172 +1,286 @@
 {
   "videoName": "3ctim-20250802183111-1556151332110212.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 46,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Tech News",
-        "Promotion"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A man with a grey newsboy cap, glasses, and a vibrant red T-shirt stands in front of a soft-lit indoor background. He speaks energetically toward the camera, using hand gestures to emphasize his points while brand logos and promotional text overlays decorate the frame. (2) The visual cuts to a bright studio-lit close-up of two Vivo smartphones, one purple and one pink, showcasing their screen displays and 5G branding. The background is slightly blurred, focusing entirely on the sleek design and colorful interfaces of the devices. (3) Scene transitions to night-time drone footage of the Tesla Diner in Los Angeles. The circular building features bright red neon strips and futuristic architecture, surrounded by a large parking lot illuminated by numerous white Tesla charging stalls and streetlights against a dark urban background. (4) Inside the diner, the camera captures a wide shot of a curved seating area with people dining at tables. The decor combines 1950s retro aesthetics with modern clean lines and white surfaces, creating a high-contrast environment with soft interior lighting and visible window views. (5) A digital graphic of the black and white Tesla Optimus robot appears, waving its robotic hand in a greeting motion. This is followed by high-quality product photos of classic diner food like golden french fries and crispy fried chicken, presented with US dollar price overlays.",
+      "text_narrative_log": "(1) [Logo]: 3c 有意思 tim 哥. [Logo]: @3ctim. [Logo]: miko 米可手機館. [Slogan]: 手機破盤價，米可超很大! (2) [Slogan]: 特斯拉跨足餐飲. (3) [Variety]: 大搞. [Slogan]: 科技 x 復古. (4) [Slogan]: vivo Y100 5G. [Slogan]: V29 5G. [Variety]: 推薦大家買手機到米可. (5) [Subtitle]: 位於洛杉磯的 Tesla Diner. [Slogan]: 擁有 80 個 V4 超充樁. (6) [Slogan]: 全球最大的一個超級充電站. (7) [Slogan]: 兩個巨型螢幕. (8) [Slogan]: 結合復古跟未來科技. (9) [Slogan]: 50 年代的美式風格. (10) [Slogan]: 未來的科技元素. (11) [Slogan]: Optimus 人形機器人. [Subtitle]: 請問需要什麼餐點呢? (12) [Slogan]: 價格很親民. (13) [Slogan]: US$4. [Slogan]: US$15. (14) [Slogan]: 自動扣款也 OK!. (15) [Slogan]: 特斯拉相關的周邊產品. (16) [Slogan]: 預計在全球大城市開設更多分店. [Variety]: 你會想去嗎?",
+      "visual_human_presence": {
+        "totalHumanCount": 8,
+        "maleDetectAmount": 5,
+        "femaleDetectAmount": 3,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Head and shoulders",
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main creator host, approximately 7 people visible inside the diner background.",
+        "mainCharacterDescription": "A middle-aged man wearing a grey newsboy cap, black-rimmed glasses, and a bright red short-sleeved t-shirt with a small graphic. He wears a green beaded bracelet on his right wrist."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio",
+          "Restaurant / Dining",
+          "Outdoor Street",
+          "Digital Interface / Screen Capture"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "Primary background is a neutral studio wall. Secondary background includes the exterior of the Tesla Diner in Los Angeles with neon lights and a parking lot filled with Tesla Superchargers. Interior backgrounds show a retro-themed American diner with white counters and black leather booths.",
+        "lightingStyle": [
+          "Bright studio lighting",
+          "Night artificial light",
+          "Neon / colored light"
+        ],
+        "weather": [
+          "Night clear"
+        ],
+        "season": [
+          "Summer"
+        ],
+        "colorTone": [
+          "Natural and bright",
+          "Warm and vibrant",
+          "Cinematic"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Drone / aerial view",
+          "Panning"
+        ],
+        "shotSize": [
+          "Medium close-up",
+          "Long shot",
+          "Close-up",
+          "Wide shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Drone / aerial view",
+          "High angle"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Graphic transition",
+          "Subtitled social-media edit",
+          "Jump cut"
+        ],
+        "visualRhythm": [
+          "Fast pace",
+          "Rhythm matched to speech"
+        ],
+        "takeStructure": [
+          "Multiple shots",
+          "Compilation / montage sequence"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Fast food / burger / fries / pizza",
+          "Meat / beef / pork / chicken"
+        ],
+        "trafficDetect": [
+          "Car",
+          "Electric vehicle"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Robot / AI device"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Tesla",
+          "vivo",
+          "miko"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Ding / Bell SFX",
+          "Pop / Bubble SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Fades"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with an energetic male speaker delivering a high-pitched, enthusiastic greeting over an upbeat, mid-tempo electronic pop background music. The speech rate is fast and professional, with clear articulation and minimal background noise, suggesting a high-quality studio recording environment. (2) A sharp \"whoosh\" sound effect marks a transition between visual scenes, while the speaker continues his narration with consistent volume and arousal. The background music maintains a steady electronic beat with synthesizer textures, providing a lively and optimistic atmosphere throughout the segment. (3) As text graphics appear on screen, short \"ding\" and \"pop\" sound effects are strategically placed to draw auditory attention to the information. The speaker's intonation is dynamic, frequently using rising contours to maintain viewer engagement while describing the features of the new restaurant. (4) The track concludes with the speaker posing a question, accompanied by a slight swell in the background music's intensity. The final seconds feature a clean fade-out of the music and vocals, with no detectable technical distortions or significant environmental interference, maintaining a high signal-to-noise ratio."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Tech News / Commentary",
+        "Promotion / Advertisement / Indoresment"
+      ],
       "location": {
         "country": [
-          "USA",
-          "Taiwan"
+          "USA"
         ],
         "city": [
           "Los Angeles"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A man with glasses, a grey newsboy cap, and a red t-shirt stands in a studio setting, speaking enthusiastically to the camera. (2) Cut to a futuristic circular building at night with bright neon lights and a prominent 'DINER' sign. (3) Brief shot of hands holding two different smartphones (Vivo Y100 and V29) over a display case. (4) Aerial night view of the Tesla Diner site, showing the circular structure and numerous white charging stalls surrounding it. (5) Back to the speaker in the studio, who is gesturing with his hands. (6) Interior shots of the diner show people sitting in black and white booths under warm, indirect lighting, with a retro 1950s aesthetic. (7) A close-up of a Tesla Optimus humanoid robot waving its hand is shown. (8) Images of French fries and fried chicken appear with price tags of US$4 and US$15 overlaid. (9) A white Tesla car is shown in a charging stall. (10) The speaker concludes by pointing at the camera and making a thumbs-down then wait gesture.",
-      "audio_narrative_log": "(1) Upbeat, high-tempo electronic music starts immediately. A male voice speaks energetically in Mandarin, introducing the topic of Tesla's new restaurant. (2) The narration remains continuous and fast-paced, describing the features of the Los Angeles Tesla Diner while the music continues at a steady volume in the background. (3) Subtle digital sound effects ('blips' and 'dings') occur during scene transitions and text pop-ups. (4) The audio concludes with a final enthusiastic sentence from the narrator as the music fades slightly.",
-      "text_narrative_log": "(1) Functional Text: Traditional Chinese subtitles appear at the bottom of the screen throughout the video, providing a literal transcription of the spoken content. (2) Decorative/Hook Text: 'TESLA 特斯拉跨足餐飲' (Hook), '80個V4超充樁' (Fact), 'US$4', 'US$15' (Pricing), '自動扣款也OK!' (Feature), and 'miko 米可手機館' (Brand/Sponsor logo in the corner)."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 24,
-      "averageSceneDuration": 1.9,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Hook -> Facility Introduction -> Interior Detail -> Pricing -> Closing Question"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 9,
-      "maleDetectAmount": 5,
-      "femaleDetectAmount": 4,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Head and shoulders",
-        "Hands",
-        "Full body"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 main male creator in studio; approximately 8 patrons seen in diner interior shots.",
-      "mainCharacterDescription": "Middle-aged man wearing a red t-shirt, a grey patterned flat cap, and black-rimmed glasses."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Studio",
-          "Indoor Diner",
-          "Outdoor Street"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A neutral studio background for the host; a futuristic, circular 1950s-style diner at night for the b-roll footage.",
-      "lightingStyle": "High-key studio lighting for host; neon and cinematic night lighting for exterior shots.",
-      "weather": "Clear night",
-      "season": "Unknown",
+      "sceneCutCount": 22,
+      "averageSceneDuration": 2.1,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "High Saturation",
-      "cameraWork": [
-        "Static",
-        "Drone",
-        "Panning"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Fries",
-        "Fried Chicken"
-      ],
-      "trafficDetect": [
-        "Car",
-        "Tesla Model 3"
-      ],
-      "techDetect": [
-        "Smartphone",
-        "Robot",
-        "EV Charger"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Tesla",
-        "Vivo",
-        "miko",
-        "Realme",
-        "Samsung"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "High-pitched and excited",
-        "pitch": "Normal",
-        "loudness": "Clear and Loud",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Ding",
-        "Pop"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Feature Presentation -> Benefit Explanation -> Closing",
-      "mainPurpose": "To inform and entertain viewers regarding Tesla's expansion into the restaurant industry with its Los Angeles diner, highlighting the blend of retro style and modern tech (like robots and EV charging).",
-      "visualEmotion": "Energetic"
+      "narrativeStructure": "List-based: Hook -> Information Inventory -> Social Engagement",
+      "mainPurpose": "To inform viewers about Tesla's expansion into the restaurant industry with its diner in Los Angeles while cross-promoting a mobile phone retail chain 'miko' and new Vivo smartphone models.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "modern"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -174,14 +288,12 @@
         "Explicit",
         "Full"
       ],
-      "endorsementCues": "Direct verbal recommendation to buy phones at 'miko' coupled with visible branding and smartphone close-ups.",
+      "endorsementCues": "Visual display of vivo smartphones and 'miko' brand logo, accompanied by a verbal recommendation to buy phones at 'miko'.",
       "endorsementObject": [
-        "miko 米可手機館"
+        "miko 米可手機館",
+        "vivo"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Host wearing a signature red shirt and newsboy cap; use of specific '3C' branding logos.",
-      "freeDescribe": "The video effectively utilizes fast-paced editing and tech-curiosity hooks to maintain high engagement for a short-form tech news vlog."
-    }
+    "freeDescribe": "The video uses a high-density information delivery style typical of social media tech influencers, blending current news with commercial sponsorships."
   }
 }

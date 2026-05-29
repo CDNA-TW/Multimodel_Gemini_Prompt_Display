@@ -1,180 +1,286 @@
 {
   "videoName": "cocowine0205-20260119175832-1216811146843470.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 53,
-      "aspectRatio": "9:16",
+      "videoDuration": 54,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A young woman with a black beret and a sheer brown top stands in a crowded supermarket aisle. She holds a transparent plastic container of salad, gesturing with her hands as she speaks to the camera. The background is filled with blurred shoppers and grocery shelves. (2) The camera switches to a close-up of the pre-packaged salad, revealing smoked salmon slices rolled into rose shapes, small white mozzarella cheese balls, red halved tomatoes, and orange citrus segments on a bed of green lettuce. (3) Returning to the woman, she points excitedly at the container while smiling. The lighting is bright and even, characteristic of a retail environment. (4) A quick insert shot shows the woman's finger pointing at the price label on the salad box, showing the numerical price and barcode. (5) A panning shot displays rows of refrigerated food items on shelves, including other salads and prepared meals, inside the warehouse store. (6) The scene transitions to an indoor home setting. The original woman is joined by another woman wearing a patterned bucket hat. They sit at a white table with the salad plated on a red decorative dish. Stuffed toys are visible in the background. (7) Close-up shots follow, showing metal tongs lifting a thick slice of smoked salmon to emphasize its size and texture. Both women show high energy and expressive facial movements while discussing the food. (8) Detailed close-ups show the salad being tossed, highlighting the onions and dressing coating the ingredients.",
+      "text_narrative_log": "(1) [Logo]: COSTCO WHOLESALE. [Variety]: 不浪費年費. [Variety]: 燻鮭魚乳酪沙拉. [Subtitle]: 燻鮭魚沙拉，把燻鮭魚剪成玫瑰狀的。 (2) [Variety]: 哇好漂亮. [Subtitle]: 哇好漂亮喔。然後它上面還有油漬小番茄跟莫札瑞拉起司。 (3) [Variety]: 山葵沙拉醬. [Subtitle]: 它用的是山葵沙拉醬。看起來超讚的對不對。 (4) [Subtitle]: 每一盒大概在350元左右，這一盒372元。 (5) [Variety]: 燻鮭魚沙拉. [Variety]: 有夠好吃. [Subtitle]: 難怪它會被買光。好市多這款燻鮭魚沙拉你絕對不要錯過。",
+      "visual_human_presence": {
+        "totalHumanCount": 8,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 6,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face close-up",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Crowd"
+        ],
+        "countingEvidence": "2 main female creators, approximately 6 shoppers visible in the background of the supermarket scene.",
+        "mainCharacterDescription": "One woman wears a black beret and a dark sheer top; the second woman wears a black and white patterned bucket hat and a white off-the-shoulder top."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Supermarket / Warehouse Store",
+          "Indoor Home"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The initial setting is a brightly lit Costco warehouse with product-filled shelves and shoppers. The second setting is an indoor home environment with a dining table and several large stuffed toys in the background.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Handheld",
+          "Panning",
+          "Zoom in"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Insert shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Fast cuts",
+          "Graphic transition"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Seafood / fish / shrimp",
+          "Vegetables",
+          "Dairy / yogurt / cheese ",
+          "Fruit",
+          "Prepared meal / plated dish"
+        ],
+        "trafficDetect": [
+          "Shopping cart"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Costco",
+          "Kirkland Signature"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 0,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Acoustic/Folk",
+          "Pop"
+        ],
+        "tempoBPM": 115,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "String",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Guitar",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Chatter"
+        ],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone",
+          "Commercial/Recreational"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Ding / Bell SFX",
+          "Whoosh / Transition SFX",
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Stingers"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording",
+          "Mixed"
+        ]
+      },
+      "audio_narrative_log": "(1) A female voice begins speaking with high energy and an enthusiastic tone. The background music is an upbeat, mid-tempo acoustic track with a prominent guitar strumming rhythm. Subtle background chatter from the supermarket environment is audible. (2) A sharp 'ding' sound effect triggers as the focus shifts to the product's price, punctuating the point. The BGM remains consistent in volume and tempo. (3) The acoustic texture changes as the dialogue moves to an indoor space. A second female voice enters, both speakers exhibiting high pitch variability and rapid speech. The room tone is cleaner, lacking the earlier store ambience. (4) A soft 'whoosh' sound effect accompanies visual transitions between food close-ups. The BGM maintains its rhythmic drive underneath the constant speech. (5) The voices reach a peak of excitement during the final recommendation, with the music ending on a short stinger note at the video's conclusion."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
         "Food Review",
         "Vlog"
       ],
-      "withRealPeople": true,
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "None"
+          "Unknown"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman wearing a black beret and a grey translucent top stands in a Costco warehouse aisle, holding a large packaged smoked salmon salad. She examines the salad closely and speaks to the camera. (2) The scene transitions to an indoor dining area where the woman is joined by another woman wearing a black-and-white patterned bucket hat. They sit at a table with the salad open. (3) Detailed close-ups show the salad ingredients, specifically the salmon slices rolled into rose shapes, mozzarella cheese balls, and cherry tomatoes. The women use tongs to lift a piece of salmon to show its thickness and texture while reacting enthusiastically.",
-      "audio_narrative_log": "(1) Upbeat, fast-paced electronic music begins. A female voice speaks in an excited, high-pitched tone, describing the visual appeal of the smoked salmon roses in the salad. Background warehouse noise is faint. (2) Two female voices engage in a lively conversation as the music continues. They discuss the salad's contents, the specific wasabi-flavored dressing, and the price point. Sounds of plastic packaging and metal tongs clicking are heard. (3) The commentary becomes more enthusiastic, with both women praising the taste and value. The background music remains consistent in its high-energy tempo until the end.",
-      "text_narrative_log": "(1) Functional Text: 'COSTCO WHOLESALE' logo; '不浪費年費' (Don't waste the annual fee); '燻鮭魚乳酪沙拉' (Smoked Salmon Cheese Salad). Decorative/Hook: '哇好漂亮' (Wow, so beautiful!) in a bright pink font. (2) Functional Text: '372元' (indicating the price); '山葵沙拉醬' (Wasabi salad dressing). (3) Decorative/Hook: '燻鮭魚沙拉' in large red characters; '有夠好吃' (So delicious!) with a fiery background effect; '超讚' (Super great!)."
     },
     "temporal_pacing_summary": {
-      "sceneCutCount": 15,
-      "averageSceneDuration": 3.5,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Hook in store -> Detailed tasting and review at home -> Final recommendation."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 8,
-      "maleDetectAmount": 3,
-      "femaleDetectAmount": 5,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Torso",
-        "Hands only"
-      ],
-      "crowdLevel": "Crowd",
-      "countingEvidence": "2 main creators, approximately 6 shoppers in the background at the store.",
-      "mainCharacterDescription": "One woman with a black beret and a grey top; another woman with a black and white patterned bucket hat and a white off-the-shoulder top."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Warehouse",
-          "Kitchen"
-        ],
-        "topography": [
-          "Plain"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A busy Costco shopping aisle with refrigerated shelves; a clean home kitchen/dining area with a marble-patterned table.",
-      "lightingStyle": "Bright indoor lighting",
-      "weather": "None",
-      "season": "None",
+      "sceneCutCount": 16,
+      "averageSceneDuration": 3.3,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "High Saturation",
-      "cameraWork": [
-        "POV",
-        "Static",
-        "Close-up"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Salad",
-        "Smoked Salmon",
-        "Cheese",
-        "Tomatoes",
-        "Orange Slices"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "COSTCO WHOLESALE",
-        "KIRKLAND SIGNATURE"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 1,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 2,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and friendly",
-        "pitch": "High-pitched",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Traditional Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Warehouse chatter"
-      ],
-      "audioQuality": "Field Recording"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Location Intro -> Feature Breakdown -> Tasting Experience -> Value Summary",
-      "mainPurpose": "To review and recommend the Costco smoked salmon salad. The video highlights the aesthetic 'rose' arrangement of the fish, the generous portions of cheese and vegetables, the unique flavor of the wasabi dressing, and the overall cost-effectiveness of the product to encourage viewers to purchase it.",
-      "visualEmotion": "Energetic and Appetizing"
+      "narrativeStructure": "Montage: Hook -> Location Showcase -> Detail Analysis -> Reaction -> Recommendation",
+      "mainPurpose": "The video is a lifestyle vlog and food review intended to promote and recommend a specific smoked salmon salad from Costco. It combines an in-store unboxing experience with an at-home tasting to demonstrate value and quality to the audience.",
+      "visualEmotion": [
+        "energetic",
+        "informative"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
-        "Implicit",
-        "Full"
+        "Explicit",
+        "Integrated"
       ],
-      "endorsementCues": "Direct recommendation of a specific product with clear pricing and brand visibility.",
+      "endorsementCues": "Direct showcase of brand logos, pricing information, and verbal recommendation to purchase.",
       "endorsementObject": [
-        "Costco",
-        "Kirkland Signature"
+        "Costco"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-energy variety-show style editing with large emotional captions and quick cuts between the store and home settings.",
-      "freeDescribe": "The video follows a typical 'Must-buy at Costco' trend popular on social media, using visual proof of quality to build trust with the audience."
-    }
+    "freeDescribe": "A highly engaging short-form marketing video with strong audio-visual synchronization and energetic female host presence."
   }
 }

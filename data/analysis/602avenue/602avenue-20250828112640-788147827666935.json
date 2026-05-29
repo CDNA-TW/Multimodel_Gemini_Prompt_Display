@@ -1,179 +1,292 @@
 {
   "videoName": "602avenue-20250828112640-788147827666935.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 12,
-      "aspectRatio": "9:16",
+      "videoDuration": 8.16,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The video opens with a handheld close-up shot of a person's inner forearm. Visible on the skin are deep red circular indentations and thin lines, suggesting pressure from tight straps. The background is a dimly lit indoor space with a blurred white and yellow patterned fabric. (2) The scene cuts to a first-person perspective inside a brightly lit retail store. A hand is seen holding a large white shopping bag with 'OLIVE YOUNG' and 'Sanrio' branding, featuring a Hello Kitty character. The background shows blurred aisles filled with personal care products. (3) The perspective shifts to a low-angle shot showing both arms of the subject. Multiple white and green plastic bag handles are looped around the forearms, pulling tightly against the skin. The setting is a doorway or corner with vertical panels. (4) A rapid montage follows: a refrigerated shelf in a convenience store packed with beverage cans including brands like PEACEMINUSONE; a medium close-up of a young woman's face showing a surprised and excited expression while holding a red can; and finally, an outdoor nighttime shot of the woman smiling and holding a green 'Nice to' shopping bag.",
+      "text_narrative_log": "(1) [Slogan]: POV. [Slogan]: 🇰🇷 只要去韓國都會得到的傷痕. [Subtitle]: Reasons why people often get scars while traveling in Korea. (2) [Logo]: OLIVE YOUNG x Sanrio. (3) [Slogan]: POV. [Slogan]: 🇰🇷 只要去韓國都會得到的傷痕. [Subtitle]: Reasons why people often get scars while traveling in Korea. (6) [Variety]: 女生請注意! ⚠️. (8) [Subtitle]: 有沒有治療法🥲.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Head and shoulders",
+          "Face",
+          "Face close-up",
+          "Hands only",
+          "Partial body"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main female character appearing in selfie shots and close-ups of her arms.",
+        "mainCharacterDescription": "A young woman with long dark hair and makeup, wearing a light-colored top and a denim-like skirt."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home",
+          "Retail Store",
+          "Supermarket / Warehouse Store",
+          "Outdoor Street"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A home interior, a brightly lit Olive Young retail store with crowded product shelves, a convenience store refrigerated display, and an urban street at night with neon lights and signage.",
+        "lightingStyle": [
+          "Bright indoor lighting",
+          "Night artificial light",
+          "Dim / low light"
+        ],
+        "weather": [
+          "Night clear"
+        ],
+        "season": [
+          "Summer"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Selfie handheld"
+        ],
+        "shotSize": [
+          "Close-up",
+          "Medium close-up",
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Low angle",
+          "Selfie perspective"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Fast cuts",
+          "Montage"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Compilation / montage sequence"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Plush / decoration / toy animal"
+        ],
+        "foodsDetect": [
+          "Beverage / juice",
+          "Alcohol"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "OLIVE YOUNG",
+          "Sanrio",
+          "Hello Kitty",
+          "Hite Zero",
+          "PEACEMINUSONE"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Phonk/Brazilian Funk"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Minor / Aeolian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 0,
+        "female_singer_count": 1,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "Other"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 5,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Meme/Comedy"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 5,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 1,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) High-energy Brazilian Funk (Phonk) music begins immediately, featuring a distorted, heavy electronic bassline and a sharp, repetitive kick-and-snare rhythm. A female vocal sounds intermittently, singing rhythmic Portuguese phrases with a dry, processed texture. (2) The track maintains its driving tempo and percussive density. The spectral brightness is high due to the sharp transients of the electronic drums. No background speech or environmental noise is heard; the audio is a clean studio track. (3) The rhythmic pattern continues without variation, providing a consistent, high-arousal acoustic backdrop. The female vocal loops with the same intensity until the end of the segment, reinforcing the high-energy, trend-like production style."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
         "Vlog",
-        "Lifestyle",
-        "Travel"
+        "Shopping",
+        "Meme / Trend",
+        "Food Review"
       ],
-      "withRealPeople": true,
       "location": {
         "country": [
           "South Korea"
         ],
         "city": [
-          "Unknown"
+          "None"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video begins with a close-up of a fair-skinned forearm showing several horizontal red pressure marks. (2) The scene shifts to a point-of-view perspective of a person carrying a white and green Olive Young shopping bag featuring Hello Kitty. (3) The camera shows two shopping bags hanging from the crook of an arm, demonstrating the weight causing the marks. (4) A rapid sequence of shots follows, showing various colorful canned drinks on shelves in a store. (5) A young woman with long dark hair appears, first indoors holding a red cup to her face with a pout, then outdoors at night smiling and holding multiple shopping bags.",
-      "audio_narrative_log": "(1) High-tempo electronic dance music begins immediately with a repetitive rhythmic vocal hook saying 'Um-pa, um-pa'. (2) The music continues at a constant volume and pace, synchronized with visual cuts between different products and scenes. (3) No ambient environmental sounds or spoken dialogue are detected throughout the clip.",
-      "text_narrative_log": "(1) Functional Text: 'POV: Reasons why people often get scars while traveling in Korea' centered at the top. (2) Decorative Text: '女生請注意！' (Girls please pay attention!) in a yellow box with a caution emoji. (3) Functional Text: '也沒有治療方法' (And there is no cure) appears at the bottom with a smiling face with sweat emoji."
     },
     "temporal_pacing_summary": {
-      "sceneCutCount": 11,
-      "averageSceneDuration": 1.09,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro showing 'injury' -> Cause demonstration (shopping bags) -> Product montage -> Outro with creator"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Forearm",
-        "Full body",
-        "Face"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main female creator appearing both as a POV arm and in front of the camera.",
-      "mainCharacterDescription": "A young woman with long dark hair, wearing a white short-sleeved t-shirt and a dark skirt."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Store",
-          "Outdoor Street"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "Shelves of a retail store (Olive Young), a convenience store drink refrigerator, and a city street at night with blurry lights.",
-      "lightingStyle": "Bright indoor retail lighting followed by dim outdoor night lighting.",
-      "weather": "Clear",
-      "season": "Summer",
+      "sceneCutCount": 7,
+      "averageSceneDuration": 1.1,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "Medium",
-        "language": [
-          "English",
-          "Chinese"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "POV",
-        "Static",
-        "Close-up"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Canned Drinks",
-        "Coffee"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "OLIVE YOUNG",
-        "Sanrio",
-        "Hello Kitty",
-        "HITE ZERO",
-        "PEACEMINUSONE"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "None",
-      "vocalRatio": "Low"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 0,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "None",
-        "pitch": "None",
-        "loudness": "None",
-        "speed": "None",
-        "speechDensity": "None",
-        "language": [
-          "None"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic Remix",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Copyrighted Song"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Problem -> Evidence -> Conclusion",
-      "mainPurpose": "To humorously highlight the 'occupational hazard' of being a tourist in South Korea: carrying heavy shopping bags from popular stores like Olive Young, which results in temporary red pressure marks on the arms that the creator jokingly refers to as 'scars' with no cure except more shopping.",
-      "visualEmotion": "Humorous, Energetic, Relatable"
+      "narrativeStructure": "Montage: Hook -> Demonstration -> Journey -> Conclusion",
+      "mainPurpose": "The video uses a humorous, trend-driven narrative to showcase the physical 'consequences' (red marks on the arm) of a heavy shopping spree in Korea. By showing the marks first and then the shopping activity, it creates a relatable 'POV' experience for travelers who over-buy at stores like Olive Young.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
-      "isEndorsement": false,
+      "isEndorsement": true,
       "endorsementMethod": [
-        "None"
+        "Integrated"
       ],
-      "endorsementCues": "The video focuses on the personal experience of shopping rather than promoting a specific product's benefits, though many brands are visible.",
+      "endorsementCues": "Prominent featuring of Olive Young shopping bags, specific Hello Kitty collaboration merchandise, and Close-up shots of Peace Minus One beverage cans.",
       "endorsementObject": [
-        "None"
+        "OLIVE YOUNG",
+        "PEACEMINUSONE",
+        "Hello Kitty"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Use of 'POV' hook combined with relatable 'shopping haul' physical side effects.",
-      "freeDescribe": "The video taps into the 'K-beauty' and 'Korean shopping' trend popular on social media, using a trending audio track to maintain high energy."
-    }
+    "freeDescribe": "The video follows a standard social media 'POV' trend, relying on upbeat music and relatable physical comedy to engage viewers interested in Korean travel and shopping."
   }
 }

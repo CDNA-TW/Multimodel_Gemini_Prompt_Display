@@ -1,14 +1,237 @@
 {
   "videoName": "0_shufen-20251225174525-788341014281509.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 3,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Short Film"
-      ],
+      "videoDuration": 2.1,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) The video opens with a close-up selfie of a young woman smiling at the camera at night. She has long dark hair and wears a white lace top. Her skin, especially on her forehead and chest, appears glistening with moisture or sweat. In the background, a large, glowing Christmas tree stands in an urban plaza, surrounded by blurry figures of people moving about. The lighting is a mix of warm ambient glow and bright festive lights. As she looks into the lens, she raises her right hand to adjust her hair near her temple, emphasizing her physical state and the crowded environment.",
+      "text_narrative_log": "(1) [Subtitle]: POV：當男朋友問我現在有多濕.",
+      "visual_human_presence": {
+        "totalHumanCount": 4,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 3,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Face close-up",
+          "Upper body"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main female character in the foreground, with at least 3 other female-presenting individuals visible in the blurred background crowd.",
+        "mainCharacterDescription": "A young woman with long dark hair, wearing a white lace off-the-shoulder top, a delicate silver necklace, and bright red lipstick."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Urban Plaza / Square",
+          "Tourist Attraction / Landmark"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "An outdoor festive environment at night featuring a large, brightly lit Christmas tree and a crowd of people in a public square.",
+        "lightingStyle": [
+          "Night artificial light",
+          "Warm indoor lighting"
+        ],
+        "weather": [
+          "Night clear"
+        ],
+        "season": [
+          "Winter"
+        ],
+        "colorTone": [
+          "Warm",
+          "Bright and colorful"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Selfie handheld"
+        ],
+        "shotSize": [
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Selfie perspective"
+        ],
+        "editingTechniques": [
+          "Single continuous take"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Holiday/Festive"
+        ],
+        "tempoBPM": 150,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Percussion",
+          "Keyboard"
+        ],
+        "instrumentsAudible": [
+          "Glockenspiel",
+          "Piano"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Crowd Murmur"
+        ],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": [
+          "Commercial/Recreational"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 2,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 2,
+        "audioCutFrequency": 0,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins immediately with the bright, high-frequency chiming of a glockenspiel or festive bells, playing the recognizable introductory melody of a popular Christmas pop song. The tempo is brisk and rhythmic. Beneath this musical layer, there is a soft, continuous bed of ambient crowd chatter and distant environmental noise, characteristic of a busy public space. No human speech or dialogue is present. The recording quality is clear but retains the texture of a field recording in a lively outdoor setting."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Selfie / Portrait",
+        "Meme / Trend",
+        "Lifestyle"
+      ],
       "location": {
         "country": [
           "Unknown"
@@ -18,143 +241,20 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video starts with a close-up shot of a young woman with long black hair and red lipstick, wearing a white lace top. She is outdoors at night, and in the blurred background, several people are walking past a large, decorated Christmas tree with golden lights. (2) She looks towards the camera, then raises her right hand to wipe sweat from her forehead and temple while smiling slightly. The camera remains mostly static with a slight handheld shake.",
-      "audio_narrative_log": "(1) A light, whimsical music box-style melody plays at a moderate tempo. (2) In the background, muffled sounds of a crowd and ambient outdoor street noise are audible. No human speech is detected.",
-      "text_narrative_log": "(1) 'POV：當男友問我現在有多濕' - Decorative/Hook Text. The tone is suggestive and playful, using a double meaning related to humidity/sweat versus a sexual connotation."
-    },
     "temporal_pacing_summary": {
       "sceneCutCount": 0,
-      "averageSceneDuration": 3.0,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Intro -> Reaction"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 4,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 4,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Face",
-        "Shoulders",
-        "Chest",
-        "Hands"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 main female creator in the foreground; at least 3 female passers-by visible in the background.",
-      "mainCharacterDescription": "A young woman with long, straight dark hair, bright red lipstick, wearing a white floral lace top with a low neckline and a thin silver necklace."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Outdoor Street",
-          "Event Space"
-        ],
-        "topography": [
-          "Plain"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A festive outdoor environment at night featuring a large Christmas tree illuminated with numerous warm golden lights and other blurred holiday decorations.",
-      "lightingStyle": "Mixed night lighting with warm decorative lights and ambient street lights.",
-      "weather": "Clear Night",
-      "season": "Winter",
+      "averageSceneDuration": 2.1,
       "editingPace": "Slow",
-      "textOverlay": {
-        "density": "Low",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "Warm and Vibrant",
-      "cameraWork": [
-        "Static",
-        "Handheld"
-      ]
+      "isNarrativeShift": false
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "None",
-      "vocalRatio": "Low"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 0,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 1,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "None",
-        "pitch": "None",
-        "loudness": "None",
-        "speed": "None",
-        "speechDensity": "None",
-        "language": [
-          "None"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Whimsical",
-      "bgmBPM": 85,
-      "instrumentFamiliesAudible": [
-        "Keyboard",
-        "Electronic"
-      ],
-      "instrumentsAudible": [
-        "Music Box",
-        "Synthesizer"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Crowd",
-        "Outdoor Street Noise"
-      ],
-      "audioQuality": "Field"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Reaction",
-      "mainPurpose": "To create a humorous and slightly provocative social media interaction. The video uses the 'POV' (Point of View) format to set up a scenario where the creator reacts to a hypothetical question from a boyfriend about being 'wet' (referring to the humidity or sweating at an event), intended to garner engagement through double entendre.",
-      "visualEmotion": "Playful, Coy, Festive"
+      "narrativeStructure": "Linear: Hook -> Visual Evidence",
+      "mainPurpose": "The video is a flirtatious selfie-style clip designed for social media engagement. The creator uses a suggestive 'POV' caption regarding her physical state ('how wet I am') while visually showing she is sweaty from a hot, crowded festive environment. This creates a double-entendre that functions as 'thirst-trap' content to attract viewer attention through a mix of holiday cheer and physical suggestion.",
+      "visualEmotion": [
+        "flirtatious",
+        "warm",
+        "energetic"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -166,9 +266,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Suggestive traditional Chinese text overlay paired with festive background.",
-      "freeDescribe": "The video relies heavily on the text-to-visual relationship for its comedic/provocative effect. The high production of the background (Christmas event) suggests a public outing vlog style."
-    }
+    "freeDescribe": "A short, looping engagement video utilizing trending holiday music and a provocative caption to drive social media interactions."
   }
 }

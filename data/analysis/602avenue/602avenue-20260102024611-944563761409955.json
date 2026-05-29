@@ -1,157 +1,252 @@
 {
   "videoName": "602avenue-20260102024611-944563761409955.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 8.0,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Life Sharing"
-      ],
+      "videoDuration": 10,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) The video begins with a static close-up shot of a white indoor wall. A significant, jagged vertical crack is visible, running down from a beige padded object, possibly a headboard. The lighting is bright and uniform, suggesting typical indoor residential lighting. (2) A hand with light skin and well-manicured nails enters the frame from the bottom right, clutching a piece of crumpled white tissue. The hand carefully wipes the floor area where the wall meets the dark brown baseboard, cleaning up small pieces of fallen plaster. (3) The hand then shifts position, forming a fist to knock on the wall surface next to the crack, presumably testing its structural integrity or sound. After knocking, the fingers are spread out to gently touch the edge of the fracture before the video ends.",
+      "text_narrative_log": "(1) [Subtitle]: 剛剛地震做的😱. [Slogan]: (已經有跟房東聯絡). (2) [Subtitle]: 感覺我今天會睡不著🥲.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 female hand is the only part of a human visible.",
+        "mainCharacterDescription": "Only the hand of the main character is visible; she has light skin and natural nails."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Bedroom"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A white interior wall with a prominent vertical crack. A beige padded surface is at the top, and a dark floor molding is at the bottom, resting on light-colored mats.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Anxious"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": true,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Falling"
+        ],
+        "speakingRisingRatio": 2,
+        "speakingFallingRatio": 4
+      },
+      "vocal_affective": {
+        "arousal": 6,
+        "valence": 3,
+        "dominance": 4,
+        "hasVocalTension": true
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop"
+        ],
+        "tempoBPM": 115,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Clothing / Fabric Rustle",
+          "Object Impact / Thud / Drop"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 3,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 4,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 1,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) Upbeat, medium-tempo pop music begins instantly, featuring a prominent electronic beat and synth pad. A female voice speaks with clear articulation but detectable tension, narrating her experience. (2) A soft, low-frequency rustling sound is audible, coinciding with the hand moving across the floor. The BGM remains steady in the background. (3) Two sharp, percussive thuds resonate as the wall is struck. The female speaker's tone drops slightly at the end, conveying a sense of helplessness or worry. (4) The track continues with the vocal and music layers overlapping until the audio cut at the video's end."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Personal Talk"
+      ],
       "location": {
         "country": [
           "Unknown"
         ],
         "city": [
-          "None"
+          "Unknown"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video begins with a close-up shot of a white wall featuring a prominent, jagged vertical crack. (2) A hand enters the frame from the bottom, holding a white tissue, and wipes away white plaster debris from the grey-beige patterned floor mat near the wall's base. (3) The hand then knocks on the wall surface and gestures with three fingers spread in front of the crack, suggesting the scale of the damage or expressing shock.",
-      "audio_narrative_log": "(1) An upbeat Mandarin pop song with a fast tempo and male vocals plays continuously from the start. (2) Subtle shuffling and tapping sounds are heard as the hand cleans the floor and knocks on the wall. (3) No spoken dialogue or narration is detected throughout the clip.",
-      "text_narrative_log": "(1) Decorative/Hook Text: '剛剛地震做的😱 (已經有跟房東聯絡)' appears at the bottom, conveying shock about earthquake damage and providing status on landlord contact. (2) Decorative/Hook Text: '感覺我今天會睡不著🫠' appears later, expressing anxiety and a worried emotional tone."
     },
     "temporal_pacing_summary": {
-      "sceneCutCount": 1,
-      "averageSceneDuration": 8.0,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Intro -> Cleaning Damage -> Expressing Anxiety"
+      "sceneCutCount": 2,
+      "averageSceneDuration": 3.3,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
     },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Hands only"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main character visible only by their hand.",
-      "mainCharacterDescription": "A person with fair skin and well-maintained nails, appearing to be female based on hand characteristics."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Residential"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A plain white interior wall with a significant crack, adjacent to a beige window blind or frame and a textured floor mat.",
-      "lightingStyle": "Natural indoor lighting",
-      "weather": "Unknown",
-      "season": "Unknown",
-      "editingPace": "Slow",
-      "textOverlay": {
-        "density": "Medium",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Handheld"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "None",
-      "vocalRatio": "Medium"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 0,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Energetic and rhythmic (singing)",
-        "pitch": "Medium",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "None",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Mandarin Pop",
-      "bgmBPM": 125,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion",
-        "Strings"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drums",
-        "Electric Guitar"
-      ],
-      "musicSourceType": [
-        "Copyrighted Song"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Shuffling"
-      ],
-      "audioQuality": "Field"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Observation -> Action -> Emotion",
-      "mainPurpose": "The video serves as a personal update or 'story' documenting the immediate physical damage caused by a recent earthquake. By showing the crack and the cleaning of debris while expressing anxiety through text, the creator seeks to share a moment of personal distress and vulnerability with their audience.",
-      "visualEmotion": "Anxious"
+      "narrativeStructure": "Linear: Hook -> Evidence -> Sentiment",
+      "mainPurpose": "The video serves as a social media update or status report, where the creator shows property damage (a cracked wall) resulting from a recent earthquake. By showing the physical evidence and checking the state of the wall, the creator shares her anxiety and informs her audience that she has already taken the responsible step of contacting the landlord.",
+      "visualEmotion": [
+        "tense",
+        "informative"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -163,9 +258,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Use of emotional emojis and text overlays to describe personal feelings about a current event.",
-      "freeDescribe": "Typical short-form user-generated content focusing on a 'point of interest' in daily life."
-    }
+    "freeDescribe": "The video focuses on a single incident of structural damage, using text overlays to provide context that isn't fully apparent from visual cues alone."
   }
 }

@@ -1,15 +1,244 @@
 {
   "videoName": "yga0721-20251028044341-2037107243499059.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 24,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Comedy",
-        "Travel"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A man is kneeling on a paved urban sidewalk, leaning forward as if begging or performing an activity on the ground. He is blurred for privacy, wearing a dark jacket and holding a paper cup. Pedestrians walk past him in the background. (2) The camera zooms in on the back of the kneeling man's jacket, showing a white brand logo. The scene then cuts to a man standing nearby, wearing the same black jacket with a visible logo on the chest. He is holding a smartphone and laughing heartily. (3) The standing man points to his left sleeve, revealing a 'GORE-TEX' label. A second person's hand enters the frame, pointing at the same label. The background shows a storefront with the name 'HENLEY'S' and other city elements. (4) The camera shows a wide shot of the beggar again, then cuts back to the standing man who mimics a hair-fixing gesture with his hands while looking at the camera and laughing. (5) Close-up shot of the brand logo on the man's chest as he continues to laugh and adjust his jacket.",
+      "text_narrative_log": "(1) [Variety]: POV：當你跟挪威的乞丐撞衫. (2) [Variety]: (放大確認). (3) [Subtitle]: 同款. (4) [Subtitle]: 同款內. (5) [Subtitle]: 真的同一件. (6) [Subtitle]: Wow. [Variety]: 有Gore-Tex. (7) [Subtitle]: 對啊 Gore-Tex的. [Variety]: 挪威的乞丐窮到只能穿THE NORTH FACE. (8) [Subtitle]: 帥哥同款 一模一樣. [Variety]: (撥頭髮也要學).",
+      "visual_human_presence": {
+        "totalHumanCount": 12,
+        "maleDetectAmount": 7,
+        "femaleDetectAmount": 5,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Crowd"
+        ],
+        "countingEvidence": "1 main man in the foreground, 1 beggar on the ground, and approximately 10 pedestrians in the urban background.",
+        "mainCharacterDescription": "A man with short dark hair, wearing a black North Face hooded jacket, a white t-shirt, dark pants, and a purple patterned tote bag slung over his shoulder."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Outdoor Street"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A busy European-style shopping street with stone tile paving, store signage for 'HENLEY'S' and 'NATURALS', green public trash bins, and street lamps.",
+        "lightingStyle": [
+          "Natural daylight"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Autumn / Winter"
+        ],
+        "colorTone": [
+          "Natural"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Zoom in",
+          "Panning"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Long shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Meme-style edit"
+        ],
+        "visual_rhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Microphone / lavalier mic"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "THE NORTH FACE"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 4,
+        "male_vocal_count": 1,
+        "female_vocal_count": 3,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Humorous",
+          "Comedic/Exaggerated"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 3,
+        "intonationAndContour": [
+          "Rising"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 9,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 118,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Chatter",
+          "Laughter"
+        ],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": [
+          "Urban/Traffic"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Meme SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a steady, upbeat electronic drum beat and synth melody typical of social media comedy trends. Loud female laughter erupts immediately as she speaks excitedly. (2) A male voice enters, laughing hysterically while repeating phrases in a rising intonation. The background music continues with a heavy bass kick. (3) The man points out technical details of his clothing, his voice pitch peaking during exclamations of 'Wow' and 'Gore-Tex'. The female voice behind the camera laughs synchronously, creating a high-arousal acoustic environment. (4) The track concludes with continued rhythmic music, overlapping vocal laughter, and the man making exaggerated noises of amusement while mimicking a hair-fixing sound."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Vlog",
+        "Meme / Trend"
+      ],
       "location": {
         "country": [
           "Norway"
@@ -19,162 +248,31 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video opens with a shot of a street in a European city where a person is prostrating on the ground to beg, holding a McDonald's paper cup. (2) The camera then pans left and zooms in on a man standing nearby, who is laughing and wearing the exact same black outdoor jacket as the beggar. (3) The man points to his jacket and looks at the camera with a wide smile, while several passers-by walk through the background. (4) In the final segment, the man mimics the beggar's hair-grooming gesture while laughing, standing near a trash can and some historic stone architecture.",
-      "audio_narrative_log": "(1) The audio begins with upbeat, rhythmic electronic background music mixed with the ambient sound of a busy city street. (2) A female voice is heard laughing off-screen and saying 'Same style' in Mandarin Chinese, followed by a male voice (on-screen) laughing and talking about the 'Gore-Tex' material of the jacket. (3) The conversation continues with continuous laughter and exclamations of 'Wow,' as they joke about the clothing coincidence.",
-      "text_narrative_log": "(1) 'POV：當你跟挪威的乞丐撞衫' (POV: When you wear the same outfit as a Norwegian beggar) - Hook/Theme text. (2) '(放大確認)' (Zoom in to confirm) - Decorative caption. (3) '同款' (Same style) - Functional/Labeling. (4) '真的同一件' (Really the same piece) - Emotional/Emphasis. (5) '有Gore-Tex' (Has Gore-Tex) - Functional/Technical detail. (6) '挪威的乞丐窮到只能穿 THE NORTH FACE' (Norway's beggars are so poor they can only wear THE NORTH FACE) - Humorous commentary. (7) '帥哥同款 一模一樣' (Handsome guy same style, exactly the same) - Sarcastic/Humorous hook. (8) '(撥頭髮也要學)' (Even learning how to flip hair) - Decorative/Action-matching caption."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 6,
-      "averageSceneDuration": 4.0,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Discovery -> Comparison -> Reaction/Mockery"
+      "sceneCutCount": 8,
+      "averageSceneDuration": 3.0,
+      "editingPace": "Fast",
+      "isNarrativeShift": false
     },
-    "visual_human_presence": {
-      "totalHumanCount": 8,
-      "maleDetectAmount": 5,
-      "femaleDetectAmount": 3,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 main male creator, 1 beggar on ground, approximately 6 passers-by in the background.",
-      "mainCharacterDescription": "An Asian male with short hair, wearing a black The North Face jacket, a white t-shirt underneath, and carrying a purple patterned tote bag and a professional camera."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Outdoor Street",
-          "Shopping District"
-        ],
-        "topography": [
-          "Plain"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A pedestrian street with stone paving, featuring luxury store signs like Hermès and tech brands like DJI, along with park benches and historic stone buildings.",
-      "lightingStyle": "Natural daylight",
-      "weather": "Overcast",
-      "season": "Autumn",
-      "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Chinese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Handheld",
-        "Follow shot",
-        "Zoom"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone",
-        "DSLR Camera",
-        "Wireless Microphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "THE NORTH FACE",
-        "McDonald's",
-        "Hermès",
-        "DJI"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 2,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Humorous and excited",
-        "pitch": "Normal",
-        "loudness": "High",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drums"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "Camera shutter sound"
-      ],
-      "ambientNoise": [
-        "Wind",
-        "Street chatter"
-      ],
-      "audioQuality": "Field Recording"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Comparison -> Climax",
-      "mainPurpose": "The video aims to entertain through situational irony. By showing a traveler/tourist wearing the exact same high-end outdoor apparel as a local beggar in Oslo, it creates a humorous contrast between the perceived value of the brand and the social status of the people wearing it, while indirectly commenting on the high living standards or the commonality of expensive brands in Norway.",
-      "visualEmotion": "Humorous"
+      "narrativeStructure": "Montage: Observation -> Visual Evidence -> Humorous Mockery",
+      "mainPurpose": "To capture and share a humorous ironic moment where a tourist finds he is 'twinning' with a local beggar in Norway, both wearing high-end 'The North Face' GORE-TEX jackets. The video highlights the perceived high standard of living or irony in the beggar's choice of expensive outdoor gear.",
+      "visualEmotion": [
+        "Humorous",
+        "Energetic",
+        "Amused"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
       "endorsementMethod": [
         "None"
       ],
-      "endorsementCues": "The brand is used as the subject of a joke rather than being promoted for its benefits.",
+      "endorsementCues": "The brand is the subject of a joke rather than a formal promotion.",
       "endorsementObject": [
-        "None"
+        "THE NORTH FACE"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Self-deprecating travel humor",
-      "freeDescribe": "The video utilizes 'clout' and 'coincidence' as engagement drivers, common in short-form social media vlogs."
-    }
+    "freeDescribe": "The video uses fast-paced editing and loud laughter tracks to drive the comedic effect of 'fashion clashing' in a high-cost country like Norway."
   }
 }

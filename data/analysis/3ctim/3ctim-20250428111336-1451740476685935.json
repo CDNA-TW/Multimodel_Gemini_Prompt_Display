@@ -1,176 +1,281 @@
 {
   "videoName": "3ctim-20250428111336-1451740476685935.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 38,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Tech Review",
-        "News"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "Taiwan"
+      "visual_narrative_log": "(1) A middle-aged man with glasses and a grey newsboy cap, wearing a navy blue sweatshirt with a small white logo, stands centrally against a beige-grey marbled wall. He smiles broadly, speaking with high energy and using both hands to gesture outwards. (2) A digital render of a smartphone with a black back and a single circular camera lens is superimposed on the right side of the frame, alongside the man. (3) The scene cuts to a full-screen product shot of a silver smartphone, showcasing its front display with a dynamic-island-like notch and slim bezels. (4) Graphic overlays appear showing performance charts with pink and blue bars, comparing CPU and GPU speeds between different phone models. (5) The man returns to the frame, continuing his enthusiastic speech while holding his hands in a cupped position. (6) Detailed close-up shots show the side buttons of the phone, specifically a toggle switch and the USB-C charging port at the bottom. (7) An internal circuit board graphic with an 'Apple C1' chip is displayed, followed by three smartphone models in black and white side-by-side. (8) The man concludes by pointing towards the camera and giving a thumbs-up gesture.",
+      "text_narrative_log": "(1) [Logo]: 3c有意思tim哥 @3ctim. [Subtitle]: 你知道Apple推出. (2) [Subtitle]: iPhone 16e嗎？. (3) [Subtitle]: 欸，它很強大. (4) [Subtitle]: 價格更親民. (5) [Subtitle]: 6.1吋超Retina XDR顯示器. (6) [Subtitle]: 畫質更細膩. (7) [Subtitle]: A18晶片. (8) [Slogan]: CPU 效能: 40% 速度提升. (9) [Slogan]: GPU 效能: 40% 速度提升. (10) [Subtitle]: 效能大幅提升. (11) [Subtitle]: 還支援Apple Intelligence. (12) [Subtitle]: 單鏡頭4800萬畫素. (13) [Subtitle]: 欸，夜拍、長焦都很強. (14) [Subtitle]: 續航力也提升. (15) [Subtitle]: 看片最長可以到26小時. (16) [Subtitle]: 有多動作按鈕. (17) [Subtitle]: 一鍵開啟相機手電筒功能. (18) [Subtitle]: USB-C接口. (19) [Subtitle]: 充電、傳輸也更方便. (20) [Subtitle]: Face ID取代touch ID了. (21) [Subtitle]: 還有呢，它多了一個它們自家的. (22) [Subtitle]: 自研晶片. (23) [Subtitle]: 兩款顏色. (24) [Subtitle]: 2月21號. (25) [Subtitle]: 也就是本週五開始預購. (26) [Subtitle]: 2月28號正式開賣. (27) [Subtitle]: 你想要買了嗎",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Hands only"
         ],
-        "city": [
-          "Unknown"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A middle-aged man wearing glasses and a grey cap stands in front of a marble wall, speaking enthusiastically with hand gestures. (2) Digital product renders of the iPhone 16e appear, transitioning to technical graphics showing the A18 chip and performance comparison charts. (3) Detailed close-ups of the phone's physical features like the camera lens, side action buttons, and USB-C port are shown. (4) An internal view of a 'C1' chip is displayed followed by the phone in two colors: white and black. (5) The man returns to the screen, gesturing toward the viewer while text displays the release dates.",
-      "audio_narrative_log": "(1) Fast-paced, upbeat electronic background music starts immediately. A male voice speaks in a high-pitched, excited tone in Mandarin. (2) The music remains at a steady volume as the narration focuses on product specifications; subtle whoosh sound effects accompany graphic transitions. (3) The vocal speed remains fast and continuous, ending with a slight volume dip in the music as the speaker finishes his call to action.",
-      "text_narrative_log": "(1) Functional text: Traditional Chinese subtitles translate the spoken dialogue throughout. (2) Hook text: '你知道Apple推出iPhone 16e嗎?' (Did you know Apple launched the iPhone 16e?). (3) Technical specs: '6.1吋超Retina XDR顯示器', 'A18晶片', '4800萬像素', '26小時續航', 'USB-C接口'. (4) Sales info: '2月21日開始預購', '2月28日正式開賣'."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 16,
-      "averageSceneDuration": 2.3,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Hook -> Product Feature Presentation -> Technical Deep Dive -> Release Date Announcement -> CTA"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 male host visible from the waist up.",
-      "mainCharacterDescription": "A middle-aged male with glasses, a grey newsboy cap, and a dark blue sweatshirt."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor",
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main creator (Tim) present throughout the video.",
+        "mainCharacterDescription": "Middle-aged Asian male with glasses, wearing a grey newsboy cap and a navy blue sweatshirt."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
           "Studio"
         ],
-        "topography": [
-          "None"
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A consistent indoor wall with a beige and grey marbled texture, featuring a single gold-colored hook on the right.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
         ]
       },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A wall with beige/light grey marble tiles; alternatively replaced by product graphics/renders.",
-      "lightingStyle": "Bright studio lighting",
-      "weather": "None",
-      "season": "None",
-      "editingPace": "Fast",
-      "textOverlay": {
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium close-up",
+          "Close-up",
+          "Insert shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Graphic transition",
+          "Cutaway",
+          "Freeze frame"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
         "density": "High",
-        "language": [
+        "textLanguage": [
           "Traditional Chinese",
           "English"
         ],
         "isSubtitled": true
       },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Panning"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone",
-        "Microprocessor"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Apple",
-        "A18",
-        "C1"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut with SFX",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "High-pitched and excited",
-        "pitch": "Medium-high",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Microphone / lavalier mic",
+          "TV / display screen"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Apple"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Whoosh",
-        "Click"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 0,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Digital UI SFX",
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Stingers"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a high-energy male vocal greeting, delivered at a fast pace with a bright, enthusiastic tone. A steady, upbeat electronic BGM with a clear 4/4 drum beat and synth chords starts immediately. (2) A sharp 'whoosh' sound effect triggers as the speaker highlights the first feature, followed by a subtle digital 'ding'. The vocal intensity remains high. (3) The music maintains a constant tempo while the speaker lists technical specifications. Periodic transition SFX punctuate the introduction of each new graphic or product detail. (4) The vocal pitch rises slightly as the speaker expresses excitement about the 'Apple Intelligence' feature. The BGM remains consistent in the background, well-balanced below the voice. (5) As the pricing and dates are announced, the speaker's cadence slows slightly for emphasis, while the percussive elements of the BGM provide a rhythmic underscore. (6) The audio concludes with a final energetic phrase and a sharp cutoff of both the vocal and the music."
     }
   },
-  "high_inference_interpretations": {
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Tech Review",
+        "Product Showcase",
+        "Short Video"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 2.1,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Feature List -> Sales Evidence -> Final Inquiry",
-      "mainPurpose": "To provide a rapid, high-energy summary of the newly announced iPhone 16e features, targeting tech enthusiasts and potential buyers in the Chinese-speaking market by highlighting performance and value.",
-      "visualEmotion": "Energetic"
+      "narrativeStructure": "List-based: Hook -> Feature Highlight -> Technical Specs -> Functional Benefits -> Pricing/Dates -> CTA",
+      "mainPurpose": "To quickly inform the audience about the key features, performance metrics, and release details of the new iPhone 16e in an engaging, high-energy format designed for social media consumption.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
-        "Implicit",
-        "Integrated"
+        "Explicit",
+        "Full"
       ],
-      "endorsementCues": "Detailed product specs presented favorably by a known tech influencer.",
+      "endorsementCues": "The creator focuses entirely on showcasing a specific brand's product, highlighting its features and providing purchasing dates.",
       "endorsementObject": [
         "Apple iPhone 16e"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "3c有意思tim哥 branding, signature newsboy cap, rapid-fire delivery style.",
-      "freeDescribe": "The video utilizes fast cuts and beat-synced graphics to maintain high engagement in a short-form vertical format."
-    }
+    "freeDescribe": "The video uses typical 'fast-content' editing techniques, including frequent cuts and text overlays, to keep viewers engaged with a high density of information."
   }
 }

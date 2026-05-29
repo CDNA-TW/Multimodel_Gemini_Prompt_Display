@@ -1,181 +1,288 @@
 {
   "videoName": "cocowine0205-20250529223141-1549587282778584.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 65,
-      "aspectRatio": "9:16",
+      "videoDuration": 66,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A young woman with long dark hair, wearing a fuzzy light gray cardigan over a black top, stands inside a Costco warehouse. She holds a vacuum-sealed package of marinated chicken legs toward the camera. In the background, the refrigerated meat aisle and other shoppers are visible under bright fluorescent lighting. (2) A close-up view focuses on the chicken product, showing the DaChan brand label and seasoning. Colorful text bubbles with Chinese characters and floral graphics float around the package. The woman's manicured hands carefully rotate the package to show different angles of the meat. (3) The scene shifts to another woman with short hair wearing a black and white bucket hat and a beige top. She stands in the same supermarket setting, pointing and gesturing enthusiastically while discussing the product's price and value compared to regular chicken breasts. (4) The setting transitions to a home kitchen counter with various bottles of vitamins and supplements in the background. A pair of hands is seen placing a baking tray lined with parchment paper and raw marinated chicken thighs into a silver countertop toaster oven. (5) The oven door is opened, revealing the chicken thighs now cooked to a golden-brown, crispy texture. A knife and tongs are used to flip and then cut the chicken on a yellow Pompompurin-themed plate, showcasing the juicy interior of the meat.",
+      "text_narrative_log": "(1) [Logo]: COSTCO WHOLESALE. [Subtitle]: 好市多. (2) [Slogan]: 限時特價! [Subtitle]: 臺灣羅勒去骨雞腿肉. (3) [Subtitle]: 幫你去好骨. 現在特價. 每一包. 特價130元. (4) [Subtitle]: 而且它是大成雞. 你這樣6袋只需要549. (5) [Subtitle]: 而且它已經幫你醃好了. 所以你回去直接加熱就可以吃了. (6) [Subtitle]: 而且羅勒感覺不會出錯. (7) [Subtitle]: 他特價完的價格. 因為我們清雞胸肉. 是一公斤215元. 215元. 然後這個醃過都幫你醃好的哦. 一公斤變219. (8) [Subtitle]: 超便宜 很輕鬆. 但是 好不好吃才是重點. 回家試吃看. (9) [Subtitle]: 大家好我是比爾. 那我們今天就來料理我們的羅勒雞腿肉. 然後它的大小大概是兩隻手掌這麼大. (10) [Subtitle]: 然后我们烤箱先预热180度. 10分钟 180度 气炸锅. (11) [Subtitle]: 烤完正面啦 準備翻面. 哇塞 超漂亮的. 翻面180度 10分鐘氣炸鍋. (12) [Subtitle]: 這就是完成的樣子啦. 我覺得口味的話 調味不會非常重. 雞腿烤的也是非常恰到好處 非常好吃. 如果有特價的話 非常推薦去買喔. 讚.",
+      "visual_human_presence": {
+        "totalHumanCount": 12,
+        "maleDetectAmount": 4,
+        "femaleDetectAmount": 8,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Crowd"
+        ],
+        "countingEvidence": "2 main female creators, approximately 10 shoppers in the background aisles.",
+        "mainCharacterDescription": "One woman has long dark hair and wears a gray fuzzy cardigan; the other has short hair and a black/white bucket hat with a beige blouse."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Supermarket / Warehouse Store",
+          "Indoor Kitchen"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The first location is a wide Costco warehouse with high ceilings, industrial shelving, and refrigerated meat cases. The second location is a domestic kitchen with a white countertop and a silver toaster oven.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Insert shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Top-down / overhead"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "Simplified Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Meat / beef / pork / chicken",
+          "Prepared meal / plated dish"
+        ],
+        "trafficDetect": [
+          "Shopping cart"
+        ],
+        "techDetect": [
+          "Home appliance"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Costco Wholesale",
+          "大成雞 (DaChan)"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 3,
+        "total_distinct_voices": 3,
+        "male_vocal_count": 1,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Animated/Excited",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Mandarin"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 124,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Crowd Murmur"
+        ],
+        "crowdNoiseIntensity": 1,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Door / Cabinet Open-Close",
+          "Mechanical Click / Latch",
+          "Food Bite / Crunch",
+          "Metal  Bump "
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Pop / Bubble SFX",
+          "Ding / Bell SFX",
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) Energetic female voice begins narration with high pitch and arousal over an upbeat pop BGM with a steady electronic pulse. (2) A digital 'pop' sound effect triggers as the speaker highlights price points. (3) A second female voice takes over, speaking with professional clarity and high energy about cost savings. (4) A metallic 'thud' and 'creak' occurs as a male voice ('Bill') starts an instructional segment. (5) A mechanical 'click' of an oven dial is heard alongside the male speaker's explanation of 180-degree preheating. (6) A metallic 'clink' sound as the oven door is opened again to check the food. (7) A sharp, percussive 'crunch' sound follows as a knife slices through the crispy chicken skin, accompanied by satisfied vocal inflections. (8) A final digital 'ding' sound plays as the male speaker gives a positive recommendation, and the BGM reaches its conclusion."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
+        "Product Review",
         "Food Review",
-        "Shopping Vlog",
         "Cooking Tutorial"
       ],
-      "withRealPeople": true,
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "None"
+          "Unknown"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman in a gray cardigan stands in a Costco warehouse, holding a large pack of vacuum-sealed marinated chicken thighs. She speaks directly to the camera while shoppers pass by in the background. (2) The scene shifts to a second woman wearing a straw hat and a beige dress standing in the same meat section, gesturing toward the shelves of chicken. (3) Transition to a kitchen setting where male hands are seen placing the chicken pieces onto an air fryer tray lined with parchment paper. (4) The camera shows a close-up of the air fryer controls being set to 180 degrees for 10 minutes. (5) The cooked chicken, now golden brown and crispy-looking, is pulled out of the fryer. (6) The chicken is sliced on a cartoon-patterned plate, revealing juicy meat inside. A hand gives a thumbs-up at the end.",
-      "audio_narrative_log": "(1) Upbeat, high-tempo pop music starts immediately. An energetic female voice introduces a special sale at Costco. (2) A second female voice joins in, describing the price comparison between different types of chicken meat. Sound effects like dings and swooshes accompany on-screen text appearances. (3) A calm, friendly male voice takes over as the scene shifts to the kitchen, narrating the cooking steps (air fryer settings). Sounds of a kitchen timer and the air fryer door opening are audible. (4) The male voice describes the taste and texture of the cooked chicken over the continuing upbeat BGM, ending with an enthusiastic recommendation.",
-      "text_narrative_log": "(1) Functional Text: '好市多' (Costco), '臺灣羅勒去骨雞腿肉' (Taiwan Basil Boneless Chicken Thighs) - labels the product. (2) Decorative Hook: '限時特價!' (Limited time special!) in bright red - creates urgency. (3) Functional Text: '特價130元' (Special price 130 yuan), '6袋只需要549' (6 bags for only 549) - provides pricing details. (4) Functional Text: '10分鐘 180度 氣炸鍋' (10 minutes, 180 degrees, air fryer) - cooking instructions. (5) Content & Tone: '調味不會非常重', '非常推薦去買' (Seasoning is not too heavy, highly recommend buying) - positive review and recommendation tone."
     },
     "temporal_pacing_summary": {
-      "sceneCutCount": 14,
-      "averageSceneDuration": 4.6,
-      "isNarrativeShift": true,
-      "mainActionFlow": "The video follows a Shopping Discovery -> Product Value Comparison -> Home Cooking Demo -> Final Taste Review flow."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 3,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 3,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Waist up"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "Two main female creators in the warehouse, one male creator's hands in the kitchen, plus several blurred shoppers in the background.",
-      "mainCharacterDescription": "Woman 1: Gray fuzzy cardigan, long dark hair. Woman 2: Beige dress, straw hat with a black and white pattern. Man: Only hands visible during the cooking segment."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Warehouse Store",
-          "Indoor Kitchen"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "The first half is shot in a Costco meat department with refrigerated displays and large signage. The second half is in a domestic kitchen with a countertop oven and various supplement bottles in the background.",
-      "lightingStyle": "Bright overhead fluorescent warehouse lighting followed by warm domestic kitchen lighting.",
-      "weather": "Indoor",
-      "season": "Unknown",
+      "sceneCutCount": 18,
+      "averageSceneDuration": 3.6,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Handheld",
-        "Close-up"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Chicken Thighs",
-        "Basil"
-      ],
-      "trafficDetect": [
-        "Shopping Cart"
-      ],
-      "techDetect": [
-        "Air Fryer",
-        "Oven"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "COSTCO",
-        "大成"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 1,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 2,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Cheerful, informative, and persuasive",
-        "pitch": "Medium-high",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Ding",
-        "Swoosh",
-        "Kitchen Timer"
-      ],
-      "ambientNoise": [
-        "Warehouse Hum",
-        "Kitchen Sounds"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Information -> Tutorial -> Validation",
-      "mainPurpose": "To provide a comprehensive review and 'how-to' guide for a specific Costco food product, encouraging viewers to purchase it during a sale by demonstrating its value and ease of cooking.",
-      "visualEmotion": "Energetic and Appetizing"
+      "narrativeStructure": "Linear: Hook -> Price Comparison -> Cooking Demo -> Tasting Review",
+      "mainPurpose": "To promote the 'Taiwan Basil Boneless Chicken Thighs' sold at Costco by demonstrating its value, price, and ease of preparation.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
-        "Explicit Integrated"
+        "Explicit",
+        "Integrated"
       ],
-      "endorsementCues": "The video explicitly names the brand '大成' and the retailer 'Costco', provides specific pricing, and gives a direct recommendation to buy the product.",
+      "endorsementCues": "The video explicitly names Costco and the brand DaChan, highlights a specific limited-time price, and provides a 'buy recommendation' at the end.",
       "endorsementObject": [
-        "大成",
-        "Costco"
+        "Costco Wholesale",
+        "大成 (DaChan) Chicken"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Fast-paced variety show style captions with sound effects, and a clear transition from shopping to home testing.",
-      "freeDescribe": "The video effectively uses social proof by showing the product in a popular warehouse store and utility proof by demonstrating a successful cooking result."
-    }
+    "freeDescribe": "High-production-value social media short-form video using fast cuts, vibrant text overlays, and dual-perspective narration to drive commercial engagement."
   }
 }

@@ -1,183 +1,283 @@
 {
   "videoName": "3ctim-20250724103050-1309722877657935.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 40,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Tech Tips",
-        "Tutorial",
-        "Cybersecurity"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) The video starts with a close-up shot of an Asian male creator, wearing a gray cap, black-framed glasses, and a blue shirt, speaking directly to the camera in a bright studio environment. Large text overlays and the ChatGPT logo are present, creating a professional tech-vlog aesthetic with high clarity. (2) The scene cuts to b-roll footage showing a woman reading in a library and someone else working on a laptop computer. The main creator appears in a circular inset overlay at the bottom, continuing his narration. The lighting is bright and natural, suggesting an informative and accessible educational context. (3) The creator returns to full screen, using animated hand gestures to emphasize his points. Numerical graphics (#1 through #5) appear sequentially with dynamic text overlays describing specific privacy risks like personal data, passwords, financial accounts, corporate secrets, and medical records. The lighting is consistent and studio-quality. (4) Short insert shots of a smartphone screen, a POS payment terminal, and a computer monitor showing medical data are used to illustrate the specific risks mentioned. These shots are interspersed with the creator's direct-to-camera address, maintaining a fast-paced, engaging rhythm and using bright, colorful visual cues. (5) In the final phase, the creator leans forward slightly, delivering a strong warning message. The screen displays large, bold text overlays for emphasis. The background remains a neutral, professional studio setting. The overall framing is a tight medium close-up, focusing on the speaker's expressions and urgent message.",
+      "text_narrative_log": "(1) [Subtitle]: 你每天都在用. [Slogan]: chatgpt嗎. [Variety]: #疑難雜症都問它?. [Logo]: 3c有意思tim哥. [Logo]: @3ctim. [Logo]: miko. (2) [Subtitle]: 不管是寫報告. [Logo]: 3c有意思tim哥. [Logo]: @3ctim. [Logo]: miko. (3) [Subtitle]: 找靈感, 問問題. (4) [Subtitle]: 但你知道嗎? [Variety]: 有5件事. (5) [Variety]: #1 個人隱私資料. [Subtitle]: 姓名、住址、電話、身分證號. (6) [Subtitle]: 這些都有可能被記錄. (7) [Subtitle]: 或是用來識別你. (8) [Variety]: #2 各平台的帳密. [Subtitle]: 小心被駭客竊取!!!. (9) [Variety]: #3 金融帳號. [Subtitle]: 如果駭客能竊取你平台的帳密. (10) [Subtitle]: 同樣也可以竊取你的金融帳號. (11) [Variety]: #4 公司機密內部文件. [Subtitle]: 這些都是敏感資料. (12) [Subtitle]: 還是小心為上!!!!. (13) [Variety]: #5 醫療相關個資. [Subtitle]: 如果你想透過chatgpt. (14) [Subtitle]: 了解醫療檢測結果的話. (15) [Subtitle]: 記得事先裁掉重要資訊. (16) [Variety]: 特別小心.",
+      "visual_human_presence": {
+        "totalHumanCount": 3,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Head and shoulders",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main creator (Tim), 1 woman reading in b-roll, 1 person hands/back at a payment terminal.",
+        "mainCharacterDescription": "Asian male, short hair, wearing a gray flat cap and black-framed glasses, wearing a blue shirt."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio",
+          "Indoor Home",
+          "Retail Store",
+          "Office / Workplace"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "Primary shots feature a clean studio background with warm lighting; B-roll footage includes library/office settings with bookshelves, a retail checkout area with a POS terminal, and a medical display screen.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium close-up",
+          "Close-up",
+          "Insert shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Graphic transition",
+          "Picture-in-picture / inset",
+          "Jump cut"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Desktop computer / monitor",
+          "Laptop"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Facebook",
+          "Instagram",
+          "Miko",
+          "ChatGPT"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 6,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 120,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Impact / Hit SFX",
+          "Ding / Bell SFX",
+          "Whoosh / Transition SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Stingers"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) Bright, rhythmic electronic music begins with a clear bassline. A male voice speaks with high energy and professional clarity. The speech rate is brisk, around level 4, with significant pitch variability to keep the audience engaged. No background noise is audible, indicating a studio environment. (2) A sharp 'impact' sound effect occurs as the first point is introduced. The vocal tone becomes more cautionary and assertive. The background music continues with its steady 120 BPM tempo, featuring electronic synthesizers and a sharp drum beat that provides a consistent rhythmic framework for the delivery. (3) A distinct 'ding' bell sound effect triggers a transition to the second point. The speaker's voice maintains high dominance and confidence. The vocal quality is clean with no roughness or strain, and the articulation is very sharp, suitable for professional broadcasting and clear information transmission. (4) Another 'ding' SFX marks the third point. The music-to-speech ratio is balanced, with the vocals remaining the primary focus while the music adds momentum. The speaker uses complex intonation patterns and focused delivery to emphasize the risks of sharing highly sensitive financial account information. (5) A 'ding' SFX introduces the fourth point regarding company secrets. The audio editing is fragmented with frequent cuts synchronized with the visual text overlays. The spectral weight is bright, with a high spectral centroid and excellent tonal purity in both the voice and music tracks. (6) A final 'ding' SFX sounds for the fifth point about medical records. The narrator warns about data leaks. The audio finishes with a quick crescendo in the music and a final punchy phrase from the speaker, ending with a sharp stinger sound effect for conclusion."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Tech News / Commentary",
+        "Education / Knowledge"
+      ],
       "location": {
         "country": [
-          "Unknown"
+          "None"
         ],
         "city": [
           "None"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A middle-aged man with glasses and a gray flat cap (Tim) speaks directly to the camera against a neutral studio background. (2) Quick cuts to b-roll footage of a woman studying at a desk and a hand holding a red pen. (3) Transitions back to Tim who uses hand gestures and points his finger to emphasize his points. (4) B-roll of a smartphone screen showing various apps and a close-up of a person paying with a credit card near a flower shop. (5) Tim continues to speak with various text overlays appearing. (6) B-roll of a medical professional looking at brain scan data on a computer monitor. (7) Final shot returns to Tim emphasizing caution with a stern but friendly facial expression.",
-      "audio_narrative_log": "(1) Fast-paced, rhythmic electronic background music starts immediately. (2) A male voice (Tim) speaks in Mandarin with an energetic and authoritative tone. (3) The vocal track is prominent and clear throughout the video. (4) Subtle sound effects like 'whoosh' or 'click' accompany the appearance of text overlays. (5) No significant ambient noise is detected; the audio sounds like a studio recording.",
-      "text_narrative_log": "(1) '你每天都在用 ChatGPT 嗎?' - Hook text in white and yellow. (2) '3c有意思tim哥' and '@3ctim' - Social media handles. (3) '#1 個人隱私資料', '#2 各平台的帳密', '#3 各金融帳號', '#4 公司機密內部文件', '#5 醫療相關個資' - Numbered list items with a warning tone. (4) '特別小心' - Closing hook text emphasizing caution."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 14,
-      "averageSceneDuration": 2.8,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Hook -> Context Setting -> 5 Warning Points -> Conclusion/Warning"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 3,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Head and shoulders"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main male creator (Tim), 1 female student in b-roll, 1 female medical professional in b-roll.",
-      "mainCharacterDescription": "A middle-aged man wearing glasses, a gray flat cap, and a blue button-up shirt."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Studio",
-          "Indoor Office",
-          "Outdoor Street",
-          "Clinic"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A simple gray studio background for the host, interspersed with various b-roll environments like a desk, a flower shop, and a medical facility.",
-      "lightingStyle": "Bright studio lighting for the host; natural light for b-roll.",
-      "weather": "Sunny (in b-roll)",
-      "season": "Unknown",
+      "sceneCutCount": 15,
+      "averageSceneDuration": 2.6,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural and Vibrant",
-      "cameraWork": [
-        "Static",
-        "Close-up",
-        "B-roll"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone",
-        "Computer Monitor"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "miko",
-        "ChatGPT",
-        "Facebook",
-        "Instagram"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Energetic and advisory",
-        "pitch": "Medium",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Electronic Drums"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Transition swoosh",
-        "Notification ding"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Advice 1-5 -> CTA/Warning",
-      "mainPurpose": "The video aims to educate and warn users about the privacy and security risks associated with sharing sensitive information with AI models like ChatGPT. It provides five specific categories of data that should be kept private to prevent data leaks or identity theft.",
-      "visualEmotion": "Informative and Cautionary"
+      "narrativeStructure": "List-based: Hook -> Problem Statement -> Numbered Warnings (1-5) -> Final Emphasis",
+      "mainPurpose": "To provide essential privacy warnings to ChatGPT users, highlighting five specific types of sensitive information that should never be shared with AI models to prevent data leaks and identity theft.",
+      "visualEmotion": [
+        "energetic",
+        "informative"
+      ]
     },
     "endorsement_analysis": {
-      "isEndorsement": true,
+      "isEndorsement": false,
       "endorsementMethod": [
-        "Explicit",
-        "Integrated"
+        "None"
       ],
-      "endorsementCues": "The 'miko' logo is prominently displayed in the upper left corner throughout the video, and the creator is a well-known tech influencer.",
+      "endorsementCues": "None",
       "endorsementObject": [
-        "miko"
+        "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Host's signature flat cap and glasses, '3c有意思tim哥' branding.",
-      "freeDescribe": "The video utilizes high-energy editing and clear, punchy text overlays typical of short-form educational social media content to maintain viewer engagement while delivering serious privacy advice."
-    }
+    "freeDescribe": "A highly produced tech-advice short video optimized for social media, utilizing fast-paced editing and clear visual/audio cues to deliver important safety information."
   }
 }

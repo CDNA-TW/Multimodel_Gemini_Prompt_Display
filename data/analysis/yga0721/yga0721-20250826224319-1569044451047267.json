@@ -1,161 +1,264 @@
 {
   "videoName": "yga0721-20250826224319-1569044451047267.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 31,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Educational",
-        "Humor"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "Taiwan"
+      "visual_narrative_log": "(1) A man with brown hair wearing a bright red t-shirt stands in a brightly lit hallway with white walls and a light-colored floor. He looks directly at the camera with wide eyes and a shocked facial expression, gesturing with his hands in a questioning manner. (2) The scene cuts to a young boy with black hair sitting on a white sofa in a modern living room. The room features light wood paneling, a dining table with chairs, and soft overhead lighting. The boy looks toward the camera with a neutral expression. (3) A close-up shot shows another young boy wearing black-rimmed glasses and a colorful t-shirt with patterns. He stands in the same well-lit interior environment, looking attentively at someone off-camera. (4) The camera returns to a medium shot of the man in the red t-shirt in the initial hallway setting. He becomes increasingly animated, using wide hand gestures and intense facial expressions to emphasize his points. The lighting remains consistent and bright throughout.",
+      "text_narrative_log": "(1) [Subtitle]: 難道只有我不知道？太陽系現在是八大行星. (2) [Variety]: 八大行星🪐.",
+      "visual_human_presence": {
+        "totalHumanCount": 3,
+        "maleDetectAmount": 3,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 2,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Face close-up"
         ],
-        "city": [
-          "None"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A man with brown hair wearing a bright red t-shirt stands in a white hallway, speaking directly to the camera with an exaggeratedly confused and surprised facial expression, gesturing with his hands. (2) The scene cuts to a modern living room/dining area where a young boy in a striped shirt sits on a white sofa; the camera pans to another young boy with glasses standing nearby. Both boys look at the man calmly. (3) The scene cuts back to the man in the red shirt in the hallway, who continues to speak with high energy, looking shocked as he explains a fact to the viewers, using wide hand gestures to emphasize his point.",
-      "audio_narrative_log": "(1) A male voice speaks in an energetic, high-pitched, and slightly surprised tone. Upbeat, fast-tempo background music with a light electronic feel begins. (2) The male voice asks a question, followed by a young boy's voice responding clearly and confidently. A 'ding' sound effect plays when the boy answers. (3) The primary male voice returns, speaking more rapidly and loudly, expressing realization. The music continues at a steady volume, and ambient indoor silence is maintained in the background.",
-      "text_narrative_log": "(1) Functional Text: A large blue box at the bottom of the screen contains white text: '難道只有我不知道? 太陽系現在是八大行星' (Is it just me who didn't know? The solar system now has eight major planets) with a surprised emoji. (2) Decorative Text: A pink slanted banner appears near the top with the text '八大行星' (Eight major planets) and a planet emoji. (3) Functional Text: Subtitles in white appear at the bottom, synchronized with the spoken dialogue, documenting the conversation about Pluto being removed from the planet list in 2006."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 6,
-      "averageSceneDuration": 5.16,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro Hook -> Questioning Kids -> Shocked Realization/Explanation"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 3,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 2,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Torso"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 adult male (main creator) in red shirt, 2 young boys (one in stripes, one with glasses).",
-      "mainCharacterDescription": "Adult male with short brown hair, wearing a vibrant red short-sleeved t-shirt and black pants."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Hallway",
-          "Living Room",
-          "Dining Room"
+        "crowdLevel": [
+          "Small Group"
         ],
-        "topography": [
+        "countingEvidence": "1 main male creator in a red shirt, 2 young boys appearing in the living room area.",
+        "mainCharacterDescription": "An adult male with styled brown hair wearing a plain bright red short-sleeved t-shirt."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Living Room",
+          "Indoor Home"
+        ],
+        "locationTopography": [
           "None"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A modern home interior consisting of a hallway with white walls and a living room with light wood accents, a white sofa, and a dining area.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
         ]
       },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A minimalist white hallway with a blue doorway in the background; a modern living room with a white sofa, wooden wall panels, a dining table with chairs, and a clock on the wall.",
-      "lightingStyle": "Bright, even indoor lighting",
-      "weather": "Indoor",
-      "season": "Unknown",
-      "editingPace": "Moderate",
-      "textOverlay": {
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Medium full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
         "density": "Medium",
-        "language": [
-          "Chinese (Traditional)"
+        "text_language": [
+          "Traditional Chinese",
+          "Emoji / Symbols"
         ],
         "isSubtitled": true
       },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Pan"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 3,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 2
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and shocked",
-        "pitch": "Medium-high",
-        "loudness": "High",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Chinese"
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat/Pop",
-      "bgmBPM": 125,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drums"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "Ding",
-        "Pop"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Field Recording"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 3,
+        "male_vocal_count": 3,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 2
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Comedic/Exaggerated"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 6,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 120,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 2,
+        "soundEffectsCoverage": 1
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) A male voice speaks with high energy and an exaggerated tone of shock, questioning the audience about the number of planets. The speech is rapid and clear. (2) There is a momentary dip in vocal energy as two younger, softer voices provide short responses, confirming 'eight planets'. (3) The primary male voice returns with even higher arousal, explaining the historical context of Pluto's demotion. An upbeat, simple electronic background track maintains a steady tempo underneath the narration. A subtle whoosh SFX marks the transition between explanation phases."
     }
   },
-  "high_inference_interpretations": {
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Vlog",
+        "Comedy",
+        "Education / Knowledge"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 5,
+      "averageSceneDuration": 6.2,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Evidence -> Realization",
-      "mainPurpose": "To humorously highlight the realization that scientific facts learned in the past (like there being 9 planets) have changed, using a generational comparison between an adult and children to create relatable, lighthearted content.",
-      "visualEmotion": "Surprised and Humorous"
+      "narrativeStructure": "Linear: Hook -> Question -> Confirmation -> Explanation",
+      "mainPurpose": "The creator uses a comedic and exaggerated persona to highlight a scientific fact that has changed over time (Pluto's status). By involving his children, he emphasizes the generational knowledge gap in a relatable and family-oriented way.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -167,9 +270,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-energy reaction, interactive vlog style with family members.",
-      "freeDescribe": "The video uses a common 'did you know' hook to engage viewers with a relatable nostalgic fact about Pluto's planetary status."
-    }
+    "freeDescribe": "The video blends entertainment with a brief educational fact, relying heavily on the creator's expressive performance."
   }
 }

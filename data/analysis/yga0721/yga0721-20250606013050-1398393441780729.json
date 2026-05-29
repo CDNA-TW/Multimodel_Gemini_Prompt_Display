@@ -1,161 +1,273 @@
 {
   "videoName": "yga0721-20250606013050-1398393441780729.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 14,
-      "aspectRatio": "9:16",
+      "videoDuration": 13,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A woman with long dark hair, wearing a white t-shirt and an olive green jacket, stands in a kitchen-like setting. Behind her is a large white refrigerator with a Panasonic logo. She looks down at a table where a young child with dark curly hair is seated. A man's hand enters the frame holding green chopsticks, pointing at food. (2) A close-up reveals a second woman with dark hair and dental braces, wearing a black t-shirt. She is smiling and leaning forward, looking intently at the child with a playful expression. The room is well-lit with bright, even indoor lighting. (3) The scene returns to the child sitting in a light-colored chair. She turns her head away from the food being offered by the adult hand. On the table, there are bowls of rice and soup, along with plates containing green leafy cabbage. (4) The child exhibits a dramatic physical movement by leaning her head far back and opening her mouth wide, signifying a loud vocal refusal. The woman in the green jacket remains in the background, observing the child's reaction. (5) The child quickly slides out of her seat and runs out of the frame toward the left side. The woman in the green jacket looks directly toward the camera, her expression shifting from observation to a broad, relieved smile. (6) A final close-up shows the woman with braces grinning widely, her mouth open in a cheer. She pumps her right fist in the air in a celebratory gesture. The background is a simple, plain wall in the home.",
+      "text_narrative_log": "(1) [Subtitle]: POV:當你煮了一桌菜. 哪一個 你想吃哪一個. (2) [Subtitle]: 不要x1. (3) [Subtitle]: 你先吃一口麵看看. (4) [Subtitle]: 不要x2. (5) [Subtitle]: 你吃一口 我請你吃冰淇淋. (6) [Subtitle]: 窩不要x3. (7) [Variety]: (高歌離席). (8) [Subtitle]: 今天開始 回家不用煮飯了. (9) [Slogan]: 計畫通!. [Logo]: HAHA BAB.",
+      "visual_human_presence": {
+        "totalHumanCount": 4,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 1,
+        "mainCharacterCount": 3,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "2 women, 1 child, and 1 man visible as a hand only.",
+        "mainCharacterDescription": "A woman in a green jacket and white shirt, a woman in a black shirt with braces, and a young girl with curly hair in a black and white dress."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Kitchen",
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A domestic kitchen and dining area featuring a white Panasonic refrigerator, a light wooden table, and simple indoor walls.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Meme-style edit",
+          "Graphic transition"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Rice / grains",
+          "Vegetables",
+          "Soup / hotpot / curry"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Home appliance"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Panasonic"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 3,
+        "total_distinct_voices": 4,
+        "male_vocal_count": 1,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 1
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Comedic/Exaggerated",
+          "Friendly"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 7,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Meme/Comedy",
+          "Pop"
+        ],
+        "tempoBPM": 135,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Pop / Bubble SFX",
+          "Whoosh / Transition SFX",
+          "Cartoon / Comedy SFX",
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 5,
+        "audioCutFrequency": 4,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) Fast-tempo upbeat acoustic pop music begins playing with a bright, energetic texture. A female voice speaks with a friendly, conversational tone and moderate speech rate, exhibiting a rising intonation pattern as if asking a question to an audience. (2) A sharp, resonant 'pop' sound effect occurs, marking a transition. A child's high-pitched voice with a sharp, falling tone says '不要', showing clear vocal resistance and a medium arousal level in her speech pattern. (3) A different female voice enters with a gentle, persuasive tone and slower speech rate. The music continues in the background with a stable rhythm, while the vocal delivery is calm and trying to be encouraging to the listener. (4) Another crisp 'pop' sound effect triggers again. The child's voice repeats the same phrase '不要', but this time with a higher volume intensity and increased vocal energy, indicating growing frustration or firm refusal. (5) A male voice speaks with a melodic, inviting tone, attempting a bribe. The speech rate is moderate and the pitch variability is high, creating a theatrical or comedic atmosphere within the auditory scene. (6) A distinct 'pop' sound effect sounds once more. The child shouts '窩不要' with a very high pitch and maximum vocal arousal. This is immediately followed by a cartoonish descending 'boing' or slide-whistle sound that indicates a dramatic exit. (7) A quick 'whoosh' transition sound effect occurs. The background music instantly shifts or swells into a more energetic, celebratory pop beat with a stronger bass presence and faster rhythmic drive. (8) The first female voice returns, speaking with high arousal and a joyful, loud, projected tone. The speech rate is fast and the pitch is high, conveying a sense of sudden excitement and relief. (9) A group vocalization of 'Yeah!' is heard, synchronized with a high-energy synth-pop musical finale. A final 'ding' or metallic sparkle sound effect rings out, concluding the audio track with a bright spectral finish."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
         "Comedy",
-        "Skit",
-        "Family"
+        "Meme / Trend",
+        "Family / Kids"
       ],
-      "withRealPeople": true,
       "location": {
         "country": [
-          "Taiwan"
+          "Unknown"
         ],
         "city": [
           "None"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A woman in a green jacket stands at a dining table filled with bowls of food, looking frustrated and questioning someone off-camera. A young girl with curly hair sits at the table. (2) Close-up shots alternate between the girl and the woman's hands as they offer food with chopsticks. The girl shakes her head and pushes the food away. (3) The girl stands up and walks away from the table with a determined expression while gesturing. (4) The woman in the green jacket looks stunned, while a second woman in a black shirt appears in the frame, celebrating with a fist pump and a large grin.",
-      "audio_narrative_log": "(1) Fast-paced, upbeat electronic music plays. A female voice speaks in a conversational yet slightly annoyed tone. (2) The sound of a child repeatedly saying 'Bu yao' (No) in a high-pitched, melodic, and defiant tone, interspersed with adult female laughter. (3) A sudden cartoonish 'boing' sound effect followed by a laugh track. (4) High-energy female cheering and a loud, excited exclamation at the end as the music peaks.",
-      "text_narrative_log": "(1) Functional Text: 'POV：當你煮了一桌菜' (POV: When you've cooked a table of dishes) - setting the comedic hook. (2) Decorative Text: '哪一個 你想吃哪一個' (Which one, which one do you want to eat?) - expressing the mother's question. (3) Effect Text: '不要 x1', '不要 x2', '窩不要 x3' (No) - emphasizing the child's repeated refusal. (4) Effect Text: '(高歌離席)' (Leaving while singing loudly) - describing the child's dramatic exit. (5) Functional Text: '今天開始 回家不用煮飯了' (Starting today, don't need to cook when coming home) and '計畫通!' (Plan successful!) - revealing the hidden motive and the humorous twist."
-    },
     "temporal_pacing_summary": {
       "sceneCutCount": 8,
-      "averageSceneDuration": 1.75,
-      "isNarrativeShift": true,
-      "mainActionFlow": "The video flows from a scene of parenting frustration to a humorous realization and celebration."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 4,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 1,
-      "mainCharacterCount": 3,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Face only"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "Two adult females (full body), one young girl (full body), and one male (hands visible holding chopsticks).",
-      "mainCharacterDescription": "One woman wears a green military-style jacket over a white shirt; another woman wears a black t-shirt with text; the child has curly hair and wears a light-colored top."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Dining Room"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A domestic indoor setting with a white dining table, light-colored walls, and various food dishes (greens, noodles, soup).",
-      "lightingStyle": "Bright indoor lighting",
-      "weather": "Unknown",
-      "season": "Unknown",
+      "averageSceneDuration": 1.6,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Handheld"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Noodles",
-        "Vegetables",
-        "Soup"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut with sound effects",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 3,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 2,
-          "kids_vocal_count": 1
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Humorous and high-pitched",
-        "pitch": "High",
-        "loudness": "Loud",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat/Electronic",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Cartoon Boing",
-        "Laugh Track"
-      ],
-      "ambientNoise": [
-        "Indoor quiet"
-      ],
-      "audioQuality": "Field"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Complication -> Climax -> Twist",
-      "mainPurpose": "To create a relatable comedy skit for parents. It uses the common struggle of a child being a picky eater as a setup for a humorous twist where the parent celebrates the child's refusal because it gives them a legitimate excuse to stop cooking.",
-      "visualEmotion": "Humorous"
+      "narrativeStructure": "List-based: Hook Setup -> Repeated Child Refusal -> Unexpected Twist -> Celebratory Resolution",
+      "mainPurpose": "The video uses a relatable parenting scenario where a child refuses various foods and bribes during a meal. The narrative structure follows a repetitive rejection pattern, punctuated by comedic sound effects and text overlays, leading to a humorous twist: the adults realize the child's refusal means they are relieved of the burden of cooking and cleaning, resulting in a celebratory ending.",
+      "visualEmotion": [
+        "humorous",
+        "energetic",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -167,9 +279,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Usage of 'Plan successful' (計畫通) meme reference and high-energy editing style typical of Taiwanese comedy creators.",
-      "freeDescribe": "The video relies heavily on text overlays to convey internal thoughts and comedic timing."
-    }
+    "freeDescribe": "A highly edited short-form skit that uses fast pacing and comedic SFX to deliver a relatable family joke."
   }
 }

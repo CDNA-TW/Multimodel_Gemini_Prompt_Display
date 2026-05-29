@@ -1,164 +1,266 @@
 {
   "videoName": "602avenue-20260109132629-924738616677753.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 21,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Tutorial",
-        "Review"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A young woman with long, dark brown hair and a black tank top is shown from the shoulders up. She is in a bright indoor room. She holds a white wipe in one hand and a red foundation compact in the other, showing significant redness on her left cheek while the rest of her face has makeup. She looks into the camera and smiles slightly. (2) Several extreme close-up shots show the texture of the woman's skin, highlighting redness, enlarged pores, and a few small acne blemishes near her mouth and on her cheeks. The lighting is neutral and clear. (3) The woman is back in a medium close-up, holding a black puff from the red cushion foundation. She applies the foundation to her red cheek with a dabbing motion. The redness is instantly obscured by a high-coverage base. She continues to dab the product onto her skin, looking satisfied with the result. (4) A close-up shot focuses on the TIRTIR Mask Fit Red Cushion product resting on a light-colored surface next to its packaging. The compact is open, revealing the cushion and the mirror. (5) The woman appears with a finished makeup look, her skin tone even and smooth. She holds a red setting spray bottle and sprays a mist over her face. She then holds the red cushion foundation compact and gives a thumbs-up to the camera with a confident expression.",
+      "text_narrative_log": "(1) [Variety]: ⚠️誰說韓妞皮膚都很好?... (2) [Subtitle]: 這遮瑕力太讚了吧... (3) [Subtitle]: 只用一個氣墊.... (4) [Subtitle]: 真的可以蓋皮膚小狀況! (5) [Variety]: (好用到讓人傻笑) (6) [Subtitle]: 皮膚狀況不穩定的時候. (7) [Subtitle]: 真的不知道該怎麼上妝... (8) [Subtitle]: 但用這個🇰🇷氣墊. (9) [Subtitle]: 輕拍一次，整體膚色超均勻✨ (10) [Variety]: ✔️一拍遮瑕. [Variety]: ✔️零卡粉. [Variety]: ✔️超服貼. (11) [Logo]: TIRTIR. (12) [Slogan]: 不知道色號怎麼選? (13) [Slogan]: 快加我們韓貨Line群問問~💚 (14) [Slogan]: 🇰🇷72小時紅色氣墊. (15) [Slogan]: 06/11要公開團購連結！ (16) [Slogan]: 有環專屬全台最低價",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Head and shoulders",
+          "Face",
+          "Face close-up",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main female creator demonstrating makeup.",
+        "mainCharacterDescription": "A young woman with long wavy brown hair, wearing a black strap tank top and natural makeup (except where she demonstrates coverage)."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A neutral, warm-toned indoor background, likely a bedroom or a dedicated filming space with beige walls and soft shadows.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Warm"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium close-up",
+          "Close-up",
+          "Extreme close-up",
+          "Insert shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Fast cuts",
+          "Jump cut"
+        ],
+        "visualRhythm": [
+          "Fast pace",
+          "Rhythm matched to music"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "TIRTIR"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Anime/J-Pop"
+        ],
+        "tempoBPM": 140,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 0,
+        "female_singer_count": 1,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "Japanese"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Other"
+        ],
+        "soundEffectsIntensity": 2,
+        "soundEffectsCoverage": 1
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 5,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) High-tempo Japanese J-Pop music begins instantly. The track features bright, electronic synthesizer melodies and a driving 4/4 drum beat with heavy kick and snare. No human speech is present. (2) Energetic female vocals in Japanese enter the mix, singing rapid phrases starting with 'Ira ira.' The music maintains its high energy and bright spectral brightness. (3) The music continues through a series of rhythmic loops. The percussion is sharp and well-defined. The singer's tone remains high-pitched and enthusiastic. (4) A textural shift occurs in the music, feeling like a pre-chorus or bridge, but the tempo and energy remain consistent. (5) A distinct white-noise 'hiss' sound from a spray bottle is clearly audible for roughly one second, layered over the music. (6) The Japanese pop track continues its high-energy rhythmic progression until the end of the video, concluding on a final upbeat note."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Product Showcase",
+        "Beauty / Fashion",
+        "Promotion / Advertisement / Indoresment"
+      ],
       "location": {
         "country": [
-          "Taiwan"
+          "Unknown"
         ],
         "city": [
           "None"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video begins with a close-up of a female character using a tissue to wipe off foundation from her cheek, revealing significant redness and blemishes underneath. (2) Several extreme close-ups follow, showing the raw texture of her skin, including redness around the nose and mouth area. (3) She holds a red, egg-shaped cushion compact and begins patting it onto her face, showing a stark contrast where the product instantly hides the redness. (4) The final sequence shows her with a fully made-up, glowing complexion, followed by her using a setting spray and holding the product while giving a thumbs-up.",
-      "audio_narrative_log": "(1) An upbeat, fast-paced Japanese pop song starts immediately with a male vocalist singing with high energy. (2) The music maintains a consistent, high-BPM tempo throughout the entire video with a driving drum beat and electronic keyboard melodies. (3) There are no spoken vocals from the person on screen, nor any identifiable ambient noises or sound effects; the music dominates the entire audio track.",
-      "text_narrative_log": "(1) '誰說韓妞皮膚都很好?...' (Who says Korean girls all have good skin? - Hook) (2) '這遮瑕力太讚了吧...' (This coverage is too good... - Emotional) (3) '只用一個氣墊.... 真的可以蓋皮膚小狀況!' (Using only one cushion... can really cover skin conditions! - Informative) (4) '🇰🇷72小時紅色氣墊 06/11要公開團購連結!' (72-hour red cushion, group buy link on 06/11 - Functional)."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 14,
-      "averageSceneDuration": 1.5,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Problem (Revealing skin issues) -> Solution (Product demonstration) -> Results (Finished look) -> CTA (Group buy info)"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Face",
-        "Hands",
-        "Upper body"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main female creator performing the makeup tutorial.",
-      "mainCharacterDescription": "A young woman with long dark hair, wearing a black tank top, demonstrating makeup application."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Studio",
-          "Bedroom"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A domestic indoor setting with a beige patterned wall and a wooden table where products are placed.",
-      "lightingStyle": "Bright, even studio lighting",
-      "weather": "None",
-      "season": "None",
+      "sceneCutCount": 9,
+      "averageSceneDuration": 2.3,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese",
-          "Japanese",
-          "Emoji"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "Vibrant and High Saturation",
-      "cameraWork": [
-        "Static",
-        "Close-up",
-        "Macro"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "TIRTIR"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut (start/end)",
-      "vocalRatio": "Low"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 0,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Energetic and rhythmic (BGM vocals)",
-        "pitch": "Medium-High",
-        "loudness": "High",
-        "speed": "Fast",
-        "speechDensity": "Continuous (singing)",
-        "language": [
-          "Japanese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "J-Pop / Rock",
-      "bgmBPM": 145,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion",
-        "Strings"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drums",
-        "Electric Guitar"
-      ],
-      "musicSourceType": [
-        "Copyrighted Song"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Problem -> Evidence -> Solution -> Transformation -> CTA",
-      "mainPurpose": "The video is a promotional advertisement for TIRTIR makeup products, specifically their 'Red Cushion'. It aims to demonstrate the product's superior coverage for problematic skin (redness and acne) to build trust and desire among viewers, concluding with a call to action for an upcoming group buy event.",
-      "visualEmotion": "Energetic and Confident"
+      "narrativeStructure": "Montage: Hook -> Problem -> Solution -> Demonstration -> Call-to-action",
+      "mainPurpose": "To showcase the high coverage and effective application of TIRTIR Red Cushion foundation for skin with redness and acne. The video uses a 'before-and-after' visual hook to demonstrate product efficacy and concludes with an announcement for a group purchase deal.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -166,14 +268,11 @@
         "Explicit",
         "Full"
       ],
-      "endorsementCues": "The creator demonstrates the product in detail, highlights its features with text, and provides a specific group buy date.",
+      "endorsementCues": "Direct display of product packaging (TIRTIR), detailed demonstration of product use, and clear call-to-action mentioning a group buy link and special pricing.",
       "endorsementObject": [
         "TIRTIR"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Close-up skin 'honesty' followed by high-coverage transformation.",
-      "freeDescribe": "The use of upbeat Japanese music with Chinese text indicates a cross-cultural trend popular in Taiwan for showcasing Korean beauty products."
-    }
+    "freeDescribe": "The video uses high-energy music and rapid editing typical of social media beauty marketing to maintain viewer attention. The high-contrast 'before-and-after' shots serve as strong visual proof of product performance."
   }
 }

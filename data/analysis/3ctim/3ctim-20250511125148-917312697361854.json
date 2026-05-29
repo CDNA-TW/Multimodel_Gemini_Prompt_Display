@@ -1,160 +1,263 @@
 {
   "videoName": "3ctim-20250511125148-917312697361854.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 27,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Tech News",
-        "Tutorial",
-        "Cybersecurity Warning"
-      ],
+      "videoDuration": 27.2,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "Unknown"
+      "visual_narrative_log": "(1) A middle-aged man with short black hair, wearing glasses and a grey flat-patterned cap, stands in front of a neutral grey background. He is wearing a blue long-sleeved shirt and a wooden bead bracelet on his left wrist. He points his finger towards the camera and gestures expressively with his hands while speaking. Colorful graphic icons like a LINE logo with 'pirated' text and social media handles appear in the top corners. (2) The scene shifts to a screen capture overlay showing a Google search result page for 'LINE PC version download'. The man's face remains visible in the background but is dimmed. The search results highlight a suspicious URL. (3) The man returns to full prominence, gesturing with both hands open as if explaining a concept. A white search bar graphic with the text 'LINE computer version' pops up near his chest level. The lighting is bright and even, highlighting his facial features and the texture of his cap. (4) Close-up on the man as he continues to speak with high energy. Graphic overlays appear representing a computer screen with 'Trojan horse' text and an emoji with a worried expression indicating 'personal data leakage'. He uses his hands to emphasize the points. (5) The man points down towards a newly appeared graphic showing the official LINE logo and a specific URL 'https://www.line.me/'. A megaphone icon and a green checkmark are added to the frame. He finishes with a hand gesture of caution as the video concludes.",
+      "text_narrative_log": "(1) [Logo]: 3c有意思tim哥. [Logo]: @3ctim. [Logo]: miko. [Subtitle]: 你有想過. (2) [Variety]: 盜版. [Subtitle]: 你下載的LINE是盜版的嗎. (3) [Subtitle]: 近期有駭客假冒LINE下載網站. (4) [Subtitle]: 並透過Google搜尋關鍵字. (5) [Subtitle]: 誘導使用者點擊. [Slogan]: LINE電腦版. (6) [Subtitle]: 只要你Google搜尋. (7) [Subtitle]: LINE電腦版. (8) [Subtitle]: 就有可能呢. (9) [Subtitle]: 誤入了假的LINE網站. (10) [Subtitle]: 一旦安裝. (11) [Variety]: 木馬程式. [Subtitle]: 電腦可能中木馬、個資外洩. (12) [Variety]: 個資外洩. (13) [Subtitle]: 甚至於會被. (14) [Subtitle]: 被遠端操控. (15) [Variety]: 官方有提醒. [Subtitle]: 官方有提醒. (16) [Subtitle]: 下載網頁一定要認明. (17) [Slogan]: https://www.line.me/. [Subtitle]: 官方的網址. (18) [Subtitle]: 就在這裡 好. (19) [Subtitle]: 也不要. (20) [Subtitle]: 從不明的第三方網站來安裝. (21) [Subtitle]: 這樣才有效可以降低中毒的風險. (22) [Subtitle]: 要小心啊~.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only"
         ],
-        "city": [
-          "None"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A middle-aged man with glasses and a grey flat cap appears in front of a blurred indoor background, pointing forward and gesturing as he speaks. A graphic showing a LINE logo with a red 'Fake' stamp appears. (2) The scene transitions to a screen recording of a Google search page showing results for 'line-chinese.com' while the man remains in a small circular inset, explaining the phishing tactic. (3) The man returns to full-screen view. Animated graphics of a Trojan horse, a shocked emoji with 'Data Leak' text, and a megaphone appear sequentially. Finally, the official LINE website URL is displayed with a green checkmark, and the man gives a cautionary hand gesture.",
-      "audio_narrative_log": "(1) Upbeat, medium-tempo electronic background music begins. A male voice starts speaking in Mandarin with a clear, warning yet friendly tone. (2) Music continues steadily as the narration explains the Google search keyword manipulation by hackers. Short 'whoosh' and 'pop' SFX are heard as text and graphics appear. (3) The vocal speed remains consistent as the music builds slightly toward the end, finishing with the narrator's closing warning and a final musical beat.",
-      "text_narrative_log": "(1) '你有想過 你下載的 LINE 是盜版的嗎' (Have you thought about whether the LINE you downloaded is a pirated version?) - Hook. (2) '近期有駭客假冒 LINE 下載網站' (Recently hackers have impersonated LINE download websites) - Information. (3) '木馬程式' (Trojan program), '個資外洩' (Data leak) - Warning text with emotional emphasis. (4) 'https://www.line.me/' - Functional URL. (5) '要小心啊~' (Be careful~) - Closing emotional hook."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 9,
-      "averageSceneDuration": 3.0,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro Hook -> Demonstration of Phishing -> Warning of Consequences -> Official Solution -> Outro"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Head and shoulders",
-        "Hands"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 male creator on screen as the primary presenter",
-      "mainCharacterDescription": "Middle-aged male with short hair, wearing glasses, a grey flat cap, a blue sweater, and a wooden beaded bracelet."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Studio"
+        "crowdLevel": [
+          "Single"
         ],
-        "topography": [
-          "None"
+        "countingEvidence": "1 main male creator presenting to the camera.",
+        "mainCharacterDescription": "A middle-aged man wearing glasses, a grey flat cap, a blue long-sleeved shirt, and a wooden bead bracelet on his left wrist."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A clean, minimalist studio background with a plain grey wall and subtle interior lighting suggesting an office or home studio environment.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
         ]
       },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A blurred indoor room with neutral grey/blue walls and soft lighting, switching occasionally to a screen recording of a web browser search result page.",
-      "lightingStyle": "Soft studio lighting, balanced and bright.",
-      "weather": "Indoor",
-      "season": "Unknown",
-      "editingPace": "Moderate",
-      "textOverlay": {
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Graphic transition",
+          "Picture-in-picture / inset"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
         "density": "High",
-        "language": [
-          "Traditional Chinese"
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
         ],
         "isSubtitled": true
       },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Screen Capture"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone UI",
-        "Web Browser Interface"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "LINE",
-        "Google"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Steady and professional",
-        "pitch": "Medium",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Laptop"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "LINE",
+          "Google"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Cartoon SFX",
-        "Graphic pop-ups"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Professional/Narrative",
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 6,
+        "valence": 6,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop"
+        ],
+        "tempoBPM": 115,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Pop / Bubble SFX",
+          "Digital UI SFX",
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A male voice begins speaking with a high-energy, engaging tone, posing a rhetorical question. The background features a steady, upbeat electronic pop track with a noticeable synth rhythm. (2) A digital 'pop' sound effect triggers as a visual graphic appears. The narrator's speech continues at a moderate-to-fast pace, describing cybersecurity risks in a clear, authoritative manner. (3) A synthesized chime or UI alert sound punctuates the mention of 'Google search', maintaining the instructional flow. The BGM remains consistent in volume and tempo. (4) As the risks of Trojans are mentioned, a cartoon-style warning sound effect is heard, briefly increasing the audio arousal level. The speaker's pitch rises slightly to emphasize the danger. (5) The narrator transitions to a helpful, advisory tone, listing the official URL clearly. The audio concludes with a friendly but cautious closing remark, while the BGM fades out sharply with a final percussive beat."
     }
   },
-  "high_inference_interpretations": {
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Tech News / Commentary",
+        "Tutorial / How-to"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 8,
+      "averageSceneDuration": 3.4,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Evidence -> Risk Assessment -> Resolution",
-      "mainPurpose": "To educate and warn users about the dangers of downloading software from unofficial phishing websites. Specifically, the video highlights a scam involving fake LINE download links on Google, explains the risks of malware and data theft, and directs viewers to the only official, safe URL for the application.",
-      "visualEmotion": "Instructive and Alert"
+      "narrativeStructure": "Linear: Hook -> Problem -> Warning -> Solution -> Recommendation",
+      "mainPurpose": "To alert users about the prevalence of fake LINE download sites appearing in search results and to provide the official download link to ensure user safety from malware and data theft.",
+      "visualEmotion": [
+        "informative",
+        "energetic",
+        "cautious"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -162,14 +265,11 @@
         "Implicit",
         "Integrated"
       ],
-      "endorsementCues": "The video explicitly recommends the official LINE website as the only safe download source to avoid malware.",
+      "endorsementCues": "The creator actively promotes the official LINE website as the only safe source for the application.",
       "endorsementObject": [
         "LINE"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Creator's distinct grey flat cap and signature beaded bracelet; usage of variety-show style text bubbles and icons for tech advice.",
-      "freeDescribe": "The video follows a typical short-form educational format common in Taiwanese tech influencer content, using high-density text overlays to keep viewers engaged with critical security information."
-    }
+    "freeDescribe": "The video effectively utilizes tech-vlog stylistic elements, combining a talking-head format with clear graphic overlays to deliver a concise security warning."
   }
 }

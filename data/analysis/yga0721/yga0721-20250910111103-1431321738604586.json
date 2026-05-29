@@ -1,173 +1,271 @@
 {
   "videoName": "yga0721-20250910111103-1431321738604586.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 30,
-      "aspectRatio": "9:16",
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A young man with light brown hair and a purple t-shirt stands in a brightly lit indoor hallway. He looks directly at the camera with a friendly expression, holding a grey mesh garment in his hands. (2) The scene cuts to a full-screen image of a celebrity (Greg Hsu) in a stylish striped shirt, holding a white mug, appearing as a professional promotional photo. (3) Returning to the man in the purple t-shirt, he is now more animated, gesturing with the grey garment and pointing toward the camera while speaking. (4) A digital cutout of the celebrity's photo appears to the right of the man, creating a side-by-side comparison between the man and the celebrity. (5) A large white text overlay '不可能' (Impossible) appears across the center of the screen, momentarily obscuring the man's face. (6) The camera pulls back as another man, slightly older and wearing a striped shirt similar to the one in the celebrity photo, walks into the frame from the right. The first man points at him with a humorous look of realization.",
+      "text_narrative_log": "(1) [Subtitle]: 最近很多人看了許光漢代言UNIQLO. [Slogan]: 如何穿上Uniqlo就跟許光漢一樣帥. (2) [Subtitle]: 的形象照片覺得很帥. (3) [Subtitle]: 紛紛敲碗嘎哥 想要嘎哥教大家. (4) [Subtitle]: 怎麼樣用一件簡單的襯衫. (5) [Subtitle]: 就可以穿搭出許光漢的帥氣感?. (6) [Variety]: 不可能. (7) [Subtitle]: 你再怎麼穿 還是蔡宗翰.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 main host (man in purple) and 1 guest appearing later (man in striped shirt).",
+        "mainCharacterDescription": "The first man has dyed brown hair and wears a purple pocket t-shirt. The second man has short black hair and wears a white and blue striped short-sleeve shirt over a green t-shirt."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A minimalist indoor corridor with light grey walls, a wooden door frame, and a wall clock visible in the later half of the video.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Dolly out / pull out"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Medium full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Graphic transition",
+          "Split-screen"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "UNIQLO"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Humorous"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Comedy"
+        ],
+        "tempoBPM": 110,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Impact / Hit SFX",
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 4,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) Fast-paced male narration begins in a bright, energetic tone discussing a fashion trend. (2) A light, bouncy electronic background track enters, maintaining a consistent mid-tempo beat. (3) A sudden percussive 'Impact' sound effect triggers as the speaker delivers a punchline, followed by a slight shift in the music to a more whimsical, comedic texture. (4) The narration continues with a more teasing and sarcastic inflection as the background music fades out gradually toward the end."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
         "Comedy",
-        "Fashion",
-        "Vlog"
+        "Beauty / Fashion"
       ],
-      "withRealPeople": true,
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "None"
+          "Unknown"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A man with brown hair wearing a purple T-shirt stands in a well-lit indoor room, holding a grey and white striped shirt. A large green text box covers the bottom half of the screen. (2) A still image of actor Greg Han (Kuang-Han Hsu) in a Uniqlo ad appears briefly, showing him in a similar striped shirt. (3) The man in the purple shirt returns to center frame, looking intensely at the camera before dropping his head slightly as large black text reading '不可能' (Impossible) appears over him. (4) Another man wearing the striped shirt walks into the frame from the right, standing next to the first man and adjusting the shirt while looking at the camera. The background remains a domestic interior with a wall clock and shelves.",
-      "audio_narrative_log": "(1) Fast-paced male vocals speaking enthusiastically in Mandarin over an upbeat, rhythmic electronic BGM. (2) The music continues as the speaker asks a question with a rising tone. (3) A sharp, comical impact sound effect plays as the man says 'Impossible' and the tone shifts to a more deadpan delivery. (4) The music transitions into a lighthearted, slightly mocking comedic melody as a second voice is briefly heard and the first man makes a final comment.",
-      "text_narrative_log": "(1) Functional Text: '最近很多人看了許光漢代言UNIQLO 的形象照片覺得很帥' (Context about Greg Han's Uniqlo ad). (2) Functional Text: '紛紛敲碗嘎哥 想要嘎哥教大家 怎樣用一件簡單的襯衫 就可以穿搭出許光漢的帥氣感？' (Request for a fashion tutorial). (3) Decorative/Hook Text: '如何穿上Uniqlo就跟許光漢一樣帥' (Main title hook). (4) Decorative Text: '不可能' (Humorous punchline). (5) Decorative Text: '你再怎麼穿，還是蔡宗翰' (Personalized joke referencing the individual on screen)."
     },
     "temporal_pacing_summary": {
       "sceneCutCount": 5,
       "averageSceneDuration": 6.0,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Setup -> Celebrity Reference -> Subversion/Punchline -> Reality Reveal"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 2,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Torso"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "1 primary host/speaker, 1 friend appearing for the punchline.",
-      "mainCharacterDescription": "The first man has dyed brown hair and wears a purple pocket T-shirt. The second man has short black hair and wears a striped Uniqlo shirt over a white T-shirt."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Studio",
-          "Living Room"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A modern indoor room with cream-colored walls, a simple wall clock, and a shelf with decorative items like a vase.",
-      "lightingStyle": "Bright, even indoor lighting.",
-      "weather": "None",
-      "season": "None",
       "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "UNIQLO"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut with SFX",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Humorous and energetic",
-        "pitch": "Medium",
-        "loudness": "High",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Comedic",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Impact SFX",
-        "Cartoon SFX"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Comparison -> Subversion",
-      "mainPurpose": "The video is a comedic sketch designed to subvert the expectation that purchasing celebrity-endorsed clothing will result in looking like the celebrity. It uses the specific example of Greg Han's Uniqlo campaign to deliver a self-deprecating joke about 'real-world' fashion results versus advertising imagery.",
-      "visualEmotion": "Humorous"
+      "narrativeStructure": "Linear: Hook -> Challenge -> Comedic Resolution",
+      "mainPurpose": "To create a humorous skit poking fun at the idea that simply wearing the same clothes as a celebrity can make someone look like that celebrity, specifically referencing a Uniqlo campaign featuring Greg Hsu.",
+      "visualEmotion": [
+        "humorous",
+        "energetic",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
       "endorsementMethod": [
         "None"
       ],
-      "endorsementCues": "The video is a parody/satire of an endorsement rather than a promotion of the brand.",
+      "endorsementCues": "Mentioning Uniqlo's spokesperson and clothes in a comedic context rather than a direct promotion.",
       "endorsementObject": [
         "UNIQLO"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-energy Mandarin narration common in Taiwanese influencer 'Ga Ge' (蔡阿嘎) videos.",
-      "freeDescribe": "The video targets social media users familiar with current fashion trends and celebrity brand ambassadors in the Chinese-speaking world."
-    }
+    "freeDescribe": "The video relies heavily on the contrast between the professional aesthetics of an ad and the mundane reality of everyday people."
   }
 }

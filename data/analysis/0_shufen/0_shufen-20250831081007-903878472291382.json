@@ -1,155 +1,257 @@
 {
   "videoName": "0_shufen-20250831081007-903878472291382.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 9.4,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Comedy",
-        "Vlog"
-      ],
+      "videoDuration": 9.1,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "Taiwan"
+      "visual_narrative_log": "(1) The video begins with a close-up shot of a young woman with long, dark brown hair and fair skin. She is wearing a thin-strapped black dress and a delicate gold necklace with a cross pendant. Her expression is one of frustration, with her brows slightly furrowed and eyes wide. The background is a simple, off-white indoor wall with bright, even lighting. (2) She continues to address the camera, her facial expressions shifting to convey annoyance as she speaks. Large, bold Chinese characters appear briefly on the screen as text overlays. Her hands are not visible as the framing focuses on her head and shoulders. (3) Towards the end, she leans slightly closer to the lens, her expression softening into a knowing smile before returning to her previous annoyed look for the final punchline. The lighting remains consistent throughout the entire shot, highlighting her features and the texture of her hair.",
+      "text_narrative_log": "(1) [Variety]: 幹. (2) [Variety]: 剛才曖昧對象. (3) [Variety]: 嫌棄我身上. (4) [Variety]: 有孩子氣. (5) [Variety]: 明明是他自己的孩子. (6) [Variety]: 他居然還敢嫌棄.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Face",
+          "Head and shoulders",
+          "Upper body"
         ],
-        "city": [
-          "None"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman with long dark hair and a black spaghetti strap dress faces the camera with an annoyed expression, looking slightly downward then directly at the lens. (2) She begins speaking, her mouth moving emphatically while her eyebrows furrow to convey frustration. (3) As she delivers the final part of her speech, her expression softens slightly and she maintains a steady gaze at the camera until the video ends.",
-      "audio_narrative_log": "(1) A female voice exclaims a sharp, annoyed word followed immediately by a whimsical cartoon 'boing' sound effect. (2) The same female voice continues with a narrative explanation in a conversational, slightly high-pitched and ranting tone; no background music is present. (3) Upon finishing her sentence, a sound effect of a crowd laughing and cheering plays as the audio ends.",
-      "text_narrative_log": "(1) '幹' (Functional: Profanity exclamation, tone: Angry/Shocked). (2) '我氣死' (Functional: 'I'm so angry', tone: Frustrated). (3) '剛才曖昧對象 / 嫌棄我身上 / 有孩子氣' (Functional: Narrative setup about a crush complaining she is 'childish', tone: Informative/Annoyed). (4) '明明是他自己 / 的孩子 / 他居然還敢嫌棄' (Functional: Punchline revealing the 'childishness' is actually his child, tone: Humorous/Sarcastic)."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 0,
-      "averageSceneDuration": 9.4,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Angry intro -> Narrative setup -> Humorous punchline"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Face",
-        "Shoulders",
-        "Chest"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main female creator speaking directly to the camera.",
-      "mainCharacterDescription": "A young woman with long dark hair, wearing a black spaghetti strap top and a small cross-shaped pendant necklace."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor"
+        "crowdLevel": [
+          "Single"
         ],
-        "topography": [
-          "None"
+        "countingEvidence": "One female main character centered in the frame.",
+        "mainCharacterDescription": "A young woman with long dark hair, wearing a black spaghetti strap top and a small cross necklace."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A plain, neutrally colored indoor wall, possibly a living room or bedroom, with minimal decorative detail visible.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
         ]
       },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A plain, light-colored interior wall, suggesting a home or bedroom environment.",
-      "lightingStyle": "Natural indoor lighting",
-      "weather": "Unknown",
-      "season": "Unknown",
-      "editingPace": "Slow",
-      "textOverlay": {
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Meme-style edit"
+        ],
+        "visualRhythm": [
+          "Rhythm matched to speech"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
         "density": "Medium",
-        "language": [
+        "textLanguage": [
           "Traditional Chinese"
         ],
-        "isSubtitled": true
+        "isSubtitled": false
       },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "None",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Frustrated then humorous",
-        "pitch": "Medium-high",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": false,
-      "bgmGenre": "No Music",
-      "bgmBPM": 0,
-      "instrumentFamiliesAudible": [
-        "None"
-      ],
-      "instrumentsAudible": [
-        "None"
-      ],
-      "musicSourceType": [
-        "None"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "Cartoon SFX",
-        "Crowd Laughter"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Field"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Comedic/Exaggerated"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 6,
+        "valence": 7,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 105,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Cartoon / Comedy SFX",
+          "Applause / Laugh Track SFX",
+          "Pop / Bubble SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio starts with a high-pitched, sharp female exclamation of frustration. This is immediately punctuated by a playful, synthesized cartoon 'boing' sound effect. A steady, lighthearted drum beat and synth bass BGM starts. (2) The female voice begins a conversational narrative with a moderate tempo and high pitch variability, sounding annoyed yet comedic. Every few seconds, subtle 'pop' sound effects sync with the visual text overlays. (3) As the narrative reaches its punchline, the vocal intensity increases slightly. Following the final phrase, the music swells briefly and is joined by a canned laughter track that fades out as the video ends."
     }
   },
-  "high_inference_interpretations": {
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Storytelling"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 1,
+      "averageSceneDuration": 9.1,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Narrative -> Punchline",
-      "mainPurpose": "To entertain the audience with a humorous short-form skit. The video uses a linguistic pun on the term 'childish' (孩子氣), which literally translates to 'child air/smell'. The creator sets up a scenario where she is offended by a crush's comment, only to subvert expectations by revealing she is pregnant with his child, turning a personality critique into a literal (and absurd) situation.",
-      "visualEmotion": "Humorous"
+      "narrativeStructure": "Linear: Hook -> Context -> Punchline",
+      "mainPurpose": "The video is a short-form comedic storytelling piece. The creator uses a relatable but absurd anecdote about a dating experience to entertain the audience. The humor relies on a wordplay involving the term 'childish', leading to a surprising twist that the 'childishness' referred to is literally the presence of the man's own child.",
+      "visualEmotion": [
+        "humorous",
+        "energetic"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -161,9 +263,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Variety-show style text captions and synchronized sound effects for emphasis.",
-      "freeDescribe": "The video relies heavily on the viewer's understanding of Mandarin puns and typical internet humor tropes."
-    }
+    "freeDescribe": "A typical short-form personality vlog using comedy tropes and syncopated text overlays for engagement."
   }
 }

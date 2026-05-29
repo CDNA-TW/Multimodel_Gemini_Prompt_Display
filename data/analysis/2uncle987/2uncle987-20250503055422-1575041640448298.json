@@ -1,14 +1,231 @@
 {
   "videoName": "2uncle987-20250503055422-1575041640448298.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 16.2,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Fashion",
-        "Lookbook"
-      ],
+      "videoDuration": 17.0,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A woman with long dark hair and a black beret stands in a clean, modern living room. She wears a green long-sleeved shirt under a black vest and a black skirt. She smiles warmly at the camera and gestures towards the text overlays describing her outfit. (2) After a jump cut, the woman's hair is now tied up in a neat bun. She wears a blue and white patterned long dress paired with a white mesh long-sleeved top. She gestures with her hands open wide and has a joyful facial expression, highlighting the new style. (3) Returning to her black beret style, the woman is seen in a different outfit featuring a black vest over a white top and a white skirt adorned with large, colorful polka dots. She playfully holds the sides of her skirt and dances slightly to the music. (4) The final outfit shows the woman wearing a blue bucket hat and a blue t-shirt with large yellow floral prints over a white mesh top. She pairs this with a black skirt, claps her hands, and continues to smile broadly towards the viewer. (5) The woman walks off to the right side of the screen. This action reveals the background wall more clearly, which features a large brand logo 'haha baby' and a stylized cartoon drawing of a young girl's face with a yellow bow.",
+      "text_narrative_log": "(1) [Subtitle]: 羊毛貝蕾帽. [Subtitle]: 黑色. [Subtitle]: 螺紋窄裙. [Subtitle]: 黑色. (2) [Subtitle]: 素色網紗英文Logo長袖上衣. [Subtitle]: 白色. [Subtitle]: 滿版細肩帶長裙. [Subtitle]: 迷藏兔藍. (3) [Subtitle]: 羊毛貝蕾帽. [Subtitle]: 黑色. [Subtitle]: 親子綿繩洋裝. [Subtitle]: 擁抱點點. [Subtitle]: 澎澎掛肩配飾. [Subtitle]: 黑色. (4) [Subtitle]: EMO落肩上衣. [Subtitle]: 滿版. [Subtitle]: 素色網紗蝴蝶結背心. [Subtitle]: 白色. (5) [Logo]: haha baby. [Logo]: ははベジー.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 female main character",
+        "mainCharacterDescription": "A woman with long dark hair, wearing various outfits including a beret, a mesh top, and floral patterns."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A living room with a gray sofa, a wooden round coffee table, a green plant, and a shelf with books. The wall has a logo 'haha baby'.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut"
+        ],
+        "visualRhythm": [
+          "Rhythm matched to music"
+        ],
+        "takeStructure": [
+          "Compilation / montage sequence"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "haha baby"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop"
+        ],
+        "tempoBPM": 120,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 0,
+        "female_singer_count": 1,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "English"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX"
+        ],
+        "soundEffectsIntensity": 2,
+        "soundEffectsCoverage": 1
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 2,
+        "audioCutFrequency": 2,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The video starts with upbeat, high-energy pop music featuring a female vocalist singing in English. The BPM is around 120, providing a danceable rhythm. A subtle electronic whoosh sound effect is audible, signifying a transition, while the synthesizers create a bright acoustic texture. (2) The music continues with a steady beat, maintaining a major-key tonality that sounds positive and cheerful. The female vocal is clear and centered in the mix, showing no signs of distortion. There is no speech or ambient environmental noise, indicating a professional studio track. (3) The track persists with its electronic pop vibe, emphasizing the sharp percussive hits of the drum machine. The spectral centroid remains high, giving the audio a bright and piercing clarity. The mix is well-balanced with a moderate dynamic range suitable for social media advertising. (4) As the video concludes, the music maintains its intensity before the clip ends. The vocal track stays consistent in volume and energy. No other incidental or ambient noises are detected, keeping the focus entirely on the commercial music track and its rhythmic drive."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Fashion / Beauty"
+      ],
       "location": {
         "country": [
           "Taiwan"
@@ -18,153 +235,32 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman stands in a living room set wearing a black beret, a green long-sleeved mock-neck top under a black vest, and a black skirt. She smiles, poses, and points to her outfit. (2) Scene cuts to the woman in a new outfit: a white sheer mesh long-sleeved top over a blue and white floral maxi dress. She stretches her arms out and smiles broadly. (3) Scene cuts to the woman wearing the black beret again, this time with a sleeveless black top over a white skirt featuring large, colorful polka dots. She holds the hem of the skirt and sways. (4) Scene cuts to her wearing a blue bucket hat, a blue and yellow floral puff-sleeve top over the white mesh top, and black cargo-style pants. She waves to the camera and walks toward the right side of the frame. (5) The woman walks off-screen, revealing the 'haha baby' logo on the wall behind her.",
-      "audio_narrative_log": "(1) Upbeat, high-tempo pop music featuring a female vocalist begins immediately. The melody is driven by a synthesizer and a steady electronic drum beat. (2) The music remains constant in style and volume throughout the outfit transitions. No spoken dialogue or ambient environmental sounds are detected. (3) The music maintains its energetic pace until the video cuts to an end.",
-      "text_narrative_log": "(1) Decorative text appears: '羊毛貝蕾帽 黑色' and '螺紋窄裙 黑色' describing the black wool beret and ribbed skirt. (2) Functional text appears: '素色網紗 英文Logo長袖上衣 白色' and '滿版細肩帶長裙 迷藏亮藍' describing the white mesh top and the floral blue dress. (3) Decorative text appears: '羊毛貝蕾帽 黑色', '親子綁繩洋裝 擁抱點點', and '澎澎掛肩配色飾 黑色' describing the beret, polka-dot dress, and shoulder accessory. (4) Decorative text appears: 'EMO落肩上衣 滿版' and '素色網紗 蝴蝶結背心 白色' describing the floral top and mesh vest. (5) Brand logo 'haha baby' appears on the wall."
-    },
     "temporal_pacing_summary": {
       "sceneCutCount": 4,
-      "averageSceneDuration": 3.24,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Intro -> Outfit 1 Demo -> Outfit 2 Demo -> Outfit 3 Demo -> Outfit 4 Demo -> Outro"
+      "averageSceneDuration": 4.25,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
     },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main female creator showcasing outfits",
-      "mainCharacterDescription": "A young Asian woman with long dark hair, wearing a series of casual, trendy outfits including berets, mesh tops, and floral dresses."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Studio",
-          "Living Room"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A minimalist living room with a light beige wall, a gray fabric sofa, a round wooden coffee table with a black metal frame, a potted snake plant, and a small wooden bookshelf filled with children's books. A brand logo is visible on the wall.",
-      "lightingStyle": "Bright, even studio lighting",
-      "weather": "None",
-      "season": "None",
-      "editingPace": "Fast",
-      "textOverlay": {
-        "density": "Medium",
-        "language": [
-          "Chinese"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "Bright, high saturation",
-      "cameraWork": [
-        "Static"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "haha baby"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "None",
-      "vocalRatio": "Medium"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 0,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Energetic and bright",
-        "pitch": "High",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speechDensity": "None",
-        "language": [
-          "English"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Copyrighted Song"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Demo 1 -> Demo 2 -> Demo 3 -> Demo 4 -> Brand Reveal",
-      "mainPurpose": "The video serves as a fashion lookbook to showcase and promote the latest clothing collection from the 'haha baby' brand. By using high-energy music and quick cuts, it aims to display the versatility and aesthetic of the garments to potential customers.",
-      "visualEmotion": "Cheerful and Energetic"
+      "narrativeStructure": "List-based: Look 1 -> Look 2 -> Look 3 -> Look 4",
+      "mainPurpose": "To showcase different clothing outfits from the 'haha baby' brand, highlighting the items through on-screen text and various looks worn by the creator.",
+      "visualEmotion": [
+        "energetic",
+        "warm",
+        "informative"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
         "Explicit",
-        "Full"
+        "Integrated"
       ],
-      "endorsementCues": "Direct display of clothing items with descriptive labels and a brand logo prominently featured in the background.",
+      "endorsementCues": "The creator is wearing the brand's clothes, items are named with text overlays, and the brand logo is prominently displayed at the end.",
       "endorsementObject": [
         "haha baby"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Outfit changes synced to the beat of the music, signature expressive gestures",
-      "freeDescribe": "The video uses a clean, bright studio aesthetic that aligns with modern social media retail marketing trends."
-    }
+    "freeDescribe": "A short, well-produced promotional clip for a clothing brand, using jump cuts to sync with the music rhythm for a dynamic lookbook feel."
   }
 }

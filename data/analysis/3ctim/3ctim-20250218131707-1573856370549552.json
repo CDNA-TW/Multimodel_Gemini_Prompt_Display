@@ -1,169 +1,265 @@
 {
   "videoName": "3ctim-20250218131707-1573856370549552.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 14,
-      "aspectRatio": "9:16",
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A pair of hands in dark blue sleeves holds a rose-gold, rectangular box vertically against a plain white studio background. The box features a prominent gold foil logo depicting a dragon head integrated into an apple shape. Digital sparkles float across the frame under bright, even lighting. (2) The hands rotate the box 180 degrees to show its back, which features a cross-folded, envelope-style closure. The fingers carefully begin to lift the side flaps, revealing the textured, high-quality metallic finish of the rose-gold material. The camera remains static, focusing on the tactile movement of the unboxing. (3) As the envelope is unfolded completely, it reveals an intricate inner lining with fish-scale embossed patterns and gold-stamped celestial starburst designs. The person uses their fingers to spread the multiple layers open, demonstrating the complex, multi-fold architectural construction of the premium red-envelope packaging. (4) A set of five smaller, matching rose-gold red envelopes is pulled out from the main folder and fanned out. Each envelope features the same embossed scale pattern and metallic sheen. A Traditional Chinese subtitle appears at the bottom of the screen while the final product set is displayed.",
+      "text_narrative_log": "(1) [Logo]: Apple Dragon hybrid. (2) [Subtitle]: 左右都龍賺.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "Only a pair of hands is visible throughout the entire video sequence.",
+        "mainCharacterDescription": "A person with fair skin and well-groomed hands, wearing a dark blue long-sleeved top, is shown handling the product."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A clean, minimalist off-white wall background with digital sparkle and bokeh light effects overlaid during post-production.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not applicable"
+        ],
+        "colorTone": [
+          "Warm and vibrant"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Cartoon / animated animal"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Apple"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Holiday/Festive"
+        ],
+        "tempoBPM": 118,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Percussion",
+          "Woodwind",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Chinese Drum",
+          "Flute",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Paper / Page Rustle"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 2,
+        "audioCutFrequency": 0,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) Upbeat, high-tempo festive background music begins immediately, featuring prominent rhythmic Chinese percussion and a bright, joyful woodwind melody. The music creates a celebratory Lunar New Year atmosphere. There is no human speech present. The background noise floor is extremely clean. (2) As the handling of the package continues, the music maintains its steady energy. Subtle, low-intensity rustling sounds from the paper material being unfolded are audible, naturally blending with the high-frequency transients of the rhythmic percussion in the track. (3) The festive BGM loops seamlessly until the end of the clip. The audio maintains a consistent volume with no speech overlays. The track conclude with a final musical cadence, exhibiting professional studio tonal clarity and high spectral brightness."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
-        "Unboxing",
         "Product Showcase"
       ],
-      "withRealPeople": true,
       "location": {
         "country": [
-          "China"
+          "None"
         ],
         "city": [
           "None"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A pair of hands with manicured nails holds a rose-gold textured square box featuring a gold-stamped logo resembling a stylized apple merged with a dragon/cloud motif. (2) The hands rotate the box to show the back side, which is folded like an envelope, and begin to unfold the flaps. (3) The interior of the box reveals layered golden envelopes with scale-like patterns and an embossed gold cloud icon. (4) The hands pull out a matching rose-gold envelope from the package, displaying its pattern under an animated golden glitter overlay.",
-      "audio_narrative_log": "(1) Upbeat and festive traditional Chinese instrumental music begins immediately, featuring the plucking of a Guzheng and light percussion. (2) The music maintains a constant, joyful tempo throughout the sequence. (3) No vocals or ambient noises are detected.",
-      "text_narrative_log": "(1) Functional Text: '左右都快意' (May both left and right be pleasant/joyful) is visible in gold calligraphy inside the packaging, conveying a festive blessing."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 1,
-      "averageSceneDuration": 14.0,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Intro -> Opening packaging -> Revealing content"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Hands only"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 female person's hands are visible throughout the video.",
-      "mainCharacterDescription": "Hands with light-colored nail polish, appearing well-groomed."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Studio"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A clean, white, minimalist background with soft, out-of-focus light spots and an animated golden sparkle overlay.",
-      "lightingStyle": "Bright studio lighting",
-      "weather": "None",
-      "season": "None",
+      "sceneCutCount": 4,
+      "averageSceneDuration": 3.5,
       "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "Low",
-        "language": [
-          "Chinese"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "Warm Rose Gold",
-      "cameraWork": [
-        "Static",
-        "Close-up"
-      ]
+      "isNarrativeShift": false
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Apple"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "None",
-      "vocalRatio": "Low"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 0,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "None",
-        "pitch": "None",
-        "loudness": "None",
-        "speed": "None",
-        "speechDensity": "None",
-        "language": [
-          "None"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Traditional Chinese Instrumental",
-      "bgmBPM": 120,
-      "instrumentFamiliesAudible": [
-        "Strings",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Guzheng"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Reveal -> Interaction -> Detailed Showcase",
-      "mainPurpose": "To showcase a premium, limited-edition Chinese New Year 'Red Packet' or gift set from Apple, highlighting its exquisite material texture, traditional cultural motifs, and festive aesthetic through close-up unboxing.",
-      "visualEmotion": "Elegant and Festive"
+      "narrativeStructure": "Linear: Hook -> Process -> Showcase",
+      "mainPurpose": "To showcase the intricate design and luxury material of a limited-edition, dragon-themed 'Apple' branded red envelope set for the Lunar New Year, highlighting its premium collectibility.",
+      "visualEmotion": [
+        "warm",
+        "energetic",
+        "informative"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
-        "Implicit",
+        "Explicit",
         "Full"
       ],
-      "endorsementCues": "Detailed focus on the brand logo and the high quality of the product packaging.",
+      "endorsementCues": "The entire video is a dedicated presentation focusing on the unboxing and aesthetic details of a specific branded product.",
       "endorsementObject": [
         "Apple"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Metallic rose gold textures and animated golden particle overlays.",
-      "freeDescribe": "The video targets high-end consumers interested in tech-lifestyle and cultural luxury items during the Lunar New Year season."
-    }
+    "freeDescribe": "A clean, high-production-value unboxing video that utilizes festive music and minimalist visuals to appeal to consumers interested in luxury brand merchandise and holiday traditions."
   }
 }

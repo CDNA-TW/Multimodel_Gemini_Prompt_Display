@@ -1,14 +1,246 @@
 {
   "videoName": "3ctim-20250218131707-1449066426911182.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 35,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Tutorial",
-        "Information"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A middle-aged man with round glasses and a blue patterned flat cap speaks directly to the camera. He is wearing a grey marl t-shirt and gesturing with his hands. The background is a simple, out-of-focus indoor setting with grey vertical curtains. (2) The scene transitions to include colorful graphic overlays and cartoon text bubbles. The man remains on screen, sometimes centered and sometimes moved into a circular frame to make room for text listing legal conditions for passport renewal. (3) A series of screen recordings showing a government website interface follow. The cursor moves to highlight various buttons like 'Login' and 'Upload Photo'. These screens are interspersed with small circular insets of the main character continuing his explanation. (4) An animated sequence features three anthropomorphic animal characters—a dog, a pink bird, and a cat—sitting in a classroom environment. They interact with a floating document, representing the renewed passport. The video ends with a close-up graphic of a Republic of China passport and an ID card being handed over.",
+      "text_narrative_log": "(1) [Logo]: 3c 有意思 Tim 哥. [Slogan]: 護照過期. [Variety]: 傻傻出門排隊嗎?. (2) [Slogan]: 從 2025 年開始. [Variety]: 可以線上申換. (3) [Subtitle]: 首先你必須符合三個條件. [Subtitle]: 1. 有戶籍國民護照換發. [Subtitle]: 2. 護照已經過期了. [Subtitle]: 3. 換發護照的時候不變更個人資料. [Variety]: 就是跟舊護照是一樣的. (4) [Slogan]: 線上就可以申請新護照喔!. [Slogan]: 自然人憑證. [Slogan]: 行動自然人憑證. [Slogan]: 輸入你的 email 取得驗證碼. [Slogan]: 選擇領照地點. [Slogan]: 填寫個人資料以及上傳照片. [Slogan]: 電子簽章. [Slogan]: 最後繳交費用 NT.1300 元. (5) [Slogan]: 完成後收據會寄到你的 email. [Slogan]: 並且附上領照的時間跟地點.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main male creator presenting the content.",
+        "mainCharacterDescription": "A middle-aged man wearing a grey t-shirt, a blue patterned flat cap, and round-framed glasses. He has a friendly and engaging demeanor."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio",
+          "Digital Interface / Screen Capture",
+          "Animation / Graphic Background"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "Starts in a home studio with soft grey curtains. Transitions to digital government website interfaces and finally to a cartoon-style classroom illustration.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Screen / interface close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Graphic transition",
+          "Screen recording edit",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Compilation / montage sequence"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Cartoon / animated animal"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Desktop computer / monitor"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 115,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Pop / Bubble SFX",
+          "Ding / Bell SFX",
+          "Digital UI SFX",
+          "Whoosh / Transition SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 5,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) An enthusiastic male voice with a clear, professional tone introduces the concept of online passport renewal over a bright, synthesized pop track with a strong 4-on-the-floor beat. (2) Each time a text requirement appears on screen, a sharp 'pop' or 'ding' sound effect triggers, marking the technical transition. The music maintains a constant high energy. (3) As the digital tutorial begins, subtle 'click' SFX mimic the navigation of the web interface. The narrator's speech rate remains high but articulate. (4) The audio concludes with a cheerful, high-valence wrap-up sentence. The music ends with a quick fade-out immediately following the final vocal articulation."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Tutorial / How-to",
+        "Tech News / Commentary"
+      ],
       "location": {
         "country": [
           "Taiwan"
@@ -18,144 +250,20 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video starts with a male host in a grey sweatshirt and a patterned cap talking to the camera with expressive hand gestures. A cartoon cat appears on the left side of the frame with floating hook text. (2) The scene transitions to a graphic-heavy layout showing 'Application Instructions' and a numbered list of three conditions while the host continues to speak in a small frame at the bottom. (3) A series of screen animations and UI recordings follow, demonstrating the website for the Bureau of Consular Affairs, login methods using MyData, email verification, and uploading photos. (4) The final phase shows a cartoon animation of different office buildings followed by a physical Taiwan passport being displayed.",
-      "audio_narrative_log": "(1) Upbeat, high-tempo electronic background music starts immediately. A male voice speaks enthusiastically and rapidly in Mandarin. (2) Short 'ding' and 'pop' sound effects play periodically to highlight points appearing on screen. (3) The background music maintains its pace while the male narration explains the step-by-step online process. (4) The music continues until the end of the clip as the vocal concludes.",
-      "text_narrative_log": "(1) Decorative Hook: 'Passport expired' and 'Are you still going to queue like a fool?' appears in large, colorful characters with an emotional tone. (2) Functional Text: 'Starting 2025' and 'Online renewal available' providing temporal context. (3) Numbered instructions: (1) Permanent resident status (2) Passport already expired (3) No changes to personal data. (4) Functional UI text: 'Search BOCA', 'MyData', 'Verification', and 'Online Payment NT.1300'."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 22,
-      "averageSceneDuration": 1.59,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro Hook -> Explanation of Conditions -> Step-by-step UI Tutorial -> Completion result"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main male host seen throughout the video.",
-      "mainCharacterDescription": "A middle-aged man wearing a grey long-sleeved sweatshirt, a blue-and-white patterned newsboy cap, and glasses."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Studio"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "Initially a plain grey studio wall, transitioning into various graphic backgrounds, website UI mockups, and cartoon-style illustrations of government buildings.",
-      "lightingStyle": "Bright, even studio lighting",
-      "weather": "None",
-      "season": "None",
+      "sceneCutCount": 18,
+      "averageSceneDuration": 1.94,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural and Vibrant",
-      "cameraWork": [
-        "Static",
-        "POV"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "Cartoon Cat",
-        "Cartoon Dog",
-        "Cartoon Bird"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone",
-        "Laptop Screen"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "BOCA"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and professional",
-        "pitch": "Medium",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum kit"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Ding",
-        "Pop",
-        "Whoosh"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Conditions -> Process -> CTA",
-      "mainPurpose": "The video serves as an educational tutorial to inform the public about the new online passport renewal system launched by the Taiwan Ministry of Foreign Affairs (BOCA) starting in 2025. It aims to demonstrate the convenience of the digital process compared to traditional in-person queuing, providing a step-by-step guide on eligibility and application procedures.",
-      "visualEmotion": "Energetic and helpful"
+      "narrativeStructure": "Linear: Hook -> Rule Explanation -> Step-by-Step Procedure -> Final CTA/Outcome.",
+      "mainPurpose": "To inform and guide the audience through the new online passport renewal process launched in 2025, emphasizing convenience over traditional in-person queues.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -167,9 +275,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Usage of variety-show style text graphics and a recurring cartoon mascot (cat).",
-      "freeDescribe": "The video relies heavily on motion graphics and screen captures to convey complex government procedures in a digestible format for social media consumers."
-    }
+    "freeDescribe": "A typical high-retention educational short video using rapid cuts and information-dense overlays to keep viewers engaged while providing practical utility."
   }
 }

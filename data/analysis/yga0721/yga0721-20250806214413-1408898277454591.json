@@ -1,15 +1,240 @@
 {
   "videoName": "yga0721-20250806214413-1408898277454591.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 28,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Shopping",
-        "Review"
-      ],
+      "videoDuration": 28.5,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) The video opens in a brightly lit retail store, specifically a Lawson convenience store. A male character, wearing a white cap and a white T-shirt with a blue crossbody bag, is shown in a medium shot. He is looking at Lawson-themed merchandise on the shelves with an intense, excited expression, holding a blue-and-white striped pouch and a cardboard-backed item. (2) The camera transitions to close-up shots of various Lawson 50th-anniversary products. These include a small blue and white striped pouch, a plastic-wrapped light-up sign shaped like the Lawson logo, and a larger box featuring a Lawson logo cushion. The background shows blurred shelves filled with snacks and household items. (3) Returning to the man, he enthusiastically displays a large box containing the Lawson cushion, hugging it to his chest while speaking rapidly. He points toward the items on the shelf. A second person's hand enters the frame from the bottom left, giving a thumbs-up gesture as the man continues to smile and showcase the items.",
+      "text_narrative_log": "(1) [Slogan]: Lawson 50週年紀念商品. [Slogan]: 快傳給現在正在日本的家人朋友. (2) [Logo]: LAWSON STATION. [Variety]: 50周年記念!. (3) [Variety]: OFFICIAL BOOK. [Slogan]: ローソンの看板そのまんまルームライト ver.. [Logo]: 宝島社. (4) [Slogan]: BIGサイズ. [Variety]: クッション ver.. (5) [Variety]: 去年搶翻. [Variety]: 今年推出了.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 main male creator, 1 hand visible from an off-camera person.",
+        "mainCharacterDescription": "A male creator in a white baseball cap, white t-shirt, and a blue crossbody bag."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Retail Store"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The interior of a Lawson convenience store in Japan, featuring shelves stocked with various packaged snacks, household products, and promotional merchandise displays.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Summer"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Panning"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Insert shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Fast cuts",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "Japanese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Snack / chips / candy",
+          "Beverage / juice"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Other"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Lawson"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 1,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 1
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter"
+        ],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Plastic / Bag Rustle"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Pop / Bubble SFX"
+        ],
+        "soundEffectsIntensity": 2,
+        "soundEffectsCoverage": 1
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with high-tempo, upbeat electronic background music (BGM) featuring a strong rhythmic beat. A male voice immediately enters with high energy and rapid delivery, speaking in Mandarin Chinese about Lawson's 50th anniversary. His pitch is elevated, conveying excitement. (2) As the man speaks about the scarcity of the items, a female voice is heard briefly laughing in the background, adding to the casual, vlog-like atmosphere. The BGM remains consistent in volume and energy. (3) The male speaker lists specific products—keychain, night light, cushion—with emphasized intonation on each item name. The background environment is relatively quiet aside from the BGM and voices. (4) The sequence concludes with the male voice urging viewers to contact friends in Japan to buy the items. The audio maintains its high arousal level until the very end, with a hard cut at the finish."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Product Showcase",
+        "Vlog",
+        "Shopping"
+      ],
       "location": {
         "country": [
           "Japan"
@@ -19,155 +244,32 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A man wearing a white t-shirt, white cap, and a purple crossbody bag stands in a convenience store aisle holding Lawson-branded merchandise. (2) The scene cuts between the man showing a blue and white pouch and a night light, and close-up shots of the products on the store shelves. (3) The man picks up a large rectangular box containing a blue cushion shaped like a Lawson sign, expressing high excitement through wide eyes and a beaming smile. (4) A woman's hand occasionally enters the frame, pointing at the products as the man continues to showcase the anniversary collection.",
-      "audio_narrative_log": "(1) Upbeat, fast-paced background music begins immediately alongside an energetic male voice speaking Mandarin. (2) As the male voice continues to describe the items enthusiastically, faint ambient noise from the convenience store and occasional female laughter can be heard in the background. (3) The vocal intensity remains high until the end of the recording, with the music maintaining a steady, poppy rhythm throughout.",
-      "text_narrative_log": "(1) Decorative/Hook Text: \"Lawson50週年紀念商品 快傳給現在在日本的家人朋友\" (Lawson 50th Anniversary Commemorative Products, quickly send to family and friends in Japan) appears in a blue banner at the top. (2) Functional Text: Subtitles appear at the bottom, translating the narrator's enthusiastic speech about where to find the items and what they are. (3) Functional Text: Price tags and product names like \"BIGサイズ\", \"ルームライト\", and \"2990円\" are visible on the product packaging."
-    },
     "temporal_pacing_summary": {
       "sceneCutCount": 11,
-      "averageSceneDuration": 2.5,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Intro -> Product Demonstration -> Store Context -> Recommendation"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 3,
-      "maleDetectAmount": 2,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 main male creator, 1 female camera person (hands and voice), 1 male passerby in the background aisle.",
-      "mainCharacterDescription": "The main character is a young adult male with a white cap, a white t-shirt, and a purple crossbody bag. He is highly expressive and energetic."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Convenience Store"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A typical Japanese convenience store interior with shelves stocked with magazines, books, snacks, and various household goods. Fluorescent lighting illuminates the aisles.",
-      "lightingStyle": "Intense studio lights",
-      "weather": "Unknown",
-      "season": "Unknown",
+      "averageSceneDuration": 2.59,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese",
-          "Japanese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Bright and Saturated",
-      "cameraWork": [
-        "POV",
-        "Follow shot",
-        "Close-up"
-      ]
+      "isNarrativeShift": false
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Lawson"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "High-pitched and excited",
-        "pitch": "High",
-        "loudness": "High",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Field Recording"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Product Demo -> Geographic Context -> Call to Action",
-      "mainPurpose": "The video is a promotional vlog meant to generate 'FOMO' (fear of missing out) regarding limited-edition Lawson 50th-anniversary merchandise. The creator uses a high-energy, persuasive persona to showcase the variety and aesthetic appeal of the items (pouch, light, cushion) while providing specific geographical tips (finding them in Chiba versus major cities) to encourage immediate purchase or social sharing.",
-      "visualEmotion": "Energetic and Enthusiastic"
+      "narrativeStructure": "Montage: Hook -> Evidence -> CTA",
+      "mainPurpose": "The video aims to generate hype and demand for Lawson's 50th-anniversary limited edition merchandise. By using a high-energy, relatable vlog style, the creator showcases specific items (pouches, lamps, cushions) to emphasize their novelty and aesthetic appeal. The narrative highlights the difficulty of finding these items in major cities, creating a sense of urgency and exclusivity that encourages viewers to act quickly, specifically by reaching out to contacts currently in Japan.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
-        "Explicit",
+        "Implicit",
         "Integrated"
       ],
-      "endorsementCues": "Direct verbal recommendation, close-up shots of brand logos, and enthusiastic display of products.",
+      "endorsementCues": "The creator is actively promoting specific Lawson-branded anniversary merchandise and encouraging viewers to purchase them.",
       "endorsementObject": [
         "Lawson"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-energy variety-show style presentation, use of 'hook' text overlays to drive engagement.",
-      "freeDescribe": "The video effectively utilizes the creator's personality to make a standard product showcase feel like an urgent travel discovery, likely targeting Taiwanese tourists or residents in Japan."
-    }
+    "freeDescribe": "High-energy social media promotional content targeting fans of Japanese convenience store culture and limited-edition collectibles."
   }
 }

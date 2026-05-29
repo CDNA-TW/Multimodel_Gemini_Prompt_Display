@@ -1,165 +1,278 @@
 {
   "videoName": "3ctim-20250408165134-944121274625360.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 50,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Tech Review"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "USA"
+      "visual_narrative_log": "(1) The video begins with the main character, a middle-aged male wearing a patterned flat cap, brown sunglasses, and a black 'ROOTS Canada' sweatshirt, standing outdoors. He is pointing enthusiastically at a large blue and white sign that says 'Store' attached to a modern glass building. The lighting is bright, natural daylight. (2) The scene cuts to the interior of the store, a spacious and brightly lit retail environment. People are gathered around wooden display tables, and the overall atmosphere is modern and busy. (3) The man is now inside, speaking directly to the camera with high-energy hand gestures. He is positioned in the center, with shoppers and product displays blurred in the background. (4) The camera pans across the store's white industrial ceiling, showing multiple white circular pendant lights and a curved digital display wall at the far end of the room. (5) The character highlights different product zones, specifically moving towards a section with eyewear displays. He continues to point and look around, showing the variety of smart glasses available. (6) A close-up shot focuses on a large, high-definition curved screen displaying digital content of people playing games and sports in a virtual environment. (7) The final phase shows the man walking outdoors along a bright sidewalk next to a white architectural structure. He appears to be telling a story with exaggerated facial expressions. A small graphical overlay of a celebrity photo appears briefly in the bottom right corner.",
+      "text_narrative_log": "(1) [Logo]: f 3c有意思tim哥 [Logo]: Instagram icon 3ctim. (1) [Subtitle]: 帶大家來看一波. (2) [Subtitle]: Meta Store. (3) [Subtitle]: 連我自己都. [Variety]: 沒有進去過!. (4) [Subtitle]: 他們就是來看. (5) [Subtitle]: Meta x Ray-Ban. (6) [Subtitle]: 聯名. (7) [Subtitle]: 智慧眼鏡. (8) [Subtitle]: 而且喔. (9) [Subtitle]: 這邊的款式是. [Variety]: 無敵多!. (10) [Subtitle]: 這區. (11) [Subtitle]: Meta Quest. (12) [Subtitle]: 很多人都在體驗VR裝置喔. (13) [Subtitle]: 身後有個超大的電視牆耶. (14) [Subtitle]: 裡面展示他們最新的. [Variety]: content內容. (15) [Subtitle]: 可惜啦. (16) [Subtitle]: 就是沒有像Apple跟Google. (17) [Subtitle]: 他們都有一些周邊商品. (18) [Subtitle]: 什麼T恤啊這些. (19) [Subtitle]: 我原本想說有的話. (20) [Subtitle]: 我想買一件T恤來穿穿. (21) [Subtitle]: 但他們沒有. (22) [Subtitle]: 他們就是很focus在自己的產品. (23) [Subtitle]: 第二個可惜. (24) [Subtitle]: 昨天鄧紫棋有來!. (25) [Subtitle]: 我應該昨天來的. (26) [Subtitle]: 你說鄧紫棋來這邊嗎?. (27) [Subtitle]: 對. (28) [Subtitle]: 因為店員給我看合照. (29) [Subtitle]: 掰掰.",
+      "visual_human_presence": {
+        "totalHumanCount": 15,
+        "maleDetectAmount": 8,
+        "femaleDetectAmount": 7,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Face close-up"
         ],
-        "city": [
-          "Burlingame"
+        "crowdLevel": [
+          "Crowd"
+        ],
+        "countingEvidence": "1 main vlogger, at least 14 other individuals including store staff and customers in the background.",
+        "mainCharacterDescription": "A male vlogger wearing a checkered flat cap, brown aviator sunglasses, and a black sweatshirt with a 'ROOTS Canada' graphic."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Retail Store",
+          "Outdoor Street"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The interior features a high-end tech retail store with light wood tables, white ceilings, and large digital display walls. The exterior features a modern glass and white panel building with a clear blue sky.",
+        "lightingStyle": [
+          "Natural daylight",
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Walking handheld",
+          "Panning"
+        ],
+        "shotSize": [
+          "Medium close-up",
+          "Medium shot",
+          "Wide shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Selfie perspective"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Graphic transition"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "TV / display screen",
+          "Smart glasses / AR device"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Meta",
+          "Roots Canada",
+          "Ray-Ban"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video begins with a close-up of a man wearing a plaid flat cap and sunglasses standing outside a modern glass building with a blue and white 'Store' sign. He gestures toward the building and enters through a glass door. (2) Inside, the scene transitions to a bright, open retail space filled with people. He walks through various sections, pointing at displays of smart glasses and VR headsets. People are seen trying on VR equipment. (3) He stands in front of a massive, curved digital screen displaying high-definition sports and lifestyle content. (4) He moves back outside to a sunny sidewalk area, continuing to speak directly to the camera with expressive hand gestures. An image of a female celebrity (G.E.M.) is briefly overlaid on the screen.",
-      "audio_narrative_log": "(1) Upbeat, medium-tempo electronic music begins immediately. A man's voice enters, speaking in an energetic and friendly tone in Mandarin. (2) As he enters the store, the background music continues at a steady volume. Ambient sounds of a retail environment, including muffled chatter from a crowd and a distant PA or guide's voice, are audible. (3) The man's narration remains the primary audio focus, maintaining a high-pitched and enthusiastic tone. (4) Toward the end, a second male voice (off-screen) briefly responds to the main speaker, creating a short conversational moment before the music fades out.",
-      "text_narrative_log": "(1) Functional Text: Subtitles in Traditional Chinese appear at the bottom, translating the spoken narration. Social media icons for Facebook and Instagram with '3c有意思tim哥' and '3ctim' are in the top left. (2) Decorative Text: Large labels like 'Meta x Ray-Ban', 'Meta Quest', and '無敵多!' (Incredibly many!) appear as stylized overlays to emphasize key points. (3) Effect Text: A label '（國際TIM）' and 'content' appear briefly over a shot of the large screen. A caption '可惜啦' (What a pity) appears when he discusses missing a celebrity."
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 2,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 7,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 124,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Chatter",
+          "Crowd Murmur"
+        ],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone",
+          "Nature/Outdoor"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "Footsteps",
+          "Clothing / Fabric Rustle"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Ding / Bell SFX",
+          "Pop / Bubble SFX",
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) High-energy electronic pop music starts immediately. The main male voice speaks with high pitch and fast tempo, sounding very excited. Faint outdoor air movement is audible. (2) A sharp 'whoosh' sound effect transitions the audio environment to a slightly more reverberant indoor space. (3) The vlogger's voice remains the dominant signal, clearly enunciating each word over the music. Distant, muffled store chatter provides background texture. (4) A bright 'ding' sound effect occurs, highlighting a specific visual point. (5) Narration continues with high emotional arousal; the music maintains a steady four-on-the-floor beat. (6) A digital 'pop' sound effect is heard during a scene cut. (7) The acoustic environment shifts slightly as the vlogger turns his head, but his speech remains prominent. (8) The audio returns to an outdoor signature with a subtle bird chirping in the distance and natural wind floor. (9) A humorous, cartoonish 'crying' sound effect is added to emphasize the vlogger's disappointment about missing a celebrity. (10) A second, lower-pitched male voice off-camera asks a brief clarifying question, followed by the main speaker's final farewell as the music begins to fade."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Vlog",
+        "Tech Review",
+        "Product Showcase"
+      ],
+      "location": {
+        "country": [
+          "United States"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
     },
     "temporal_pacing_summary": {
       "sceneCutCount": 14,
       "averageSceneDuration": 3.5,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro -> Store Exploration -> Reflection and Outro"
+      "editingPace": "Fast",
+      "isNarrativeShift": true
     },
-    "visual_human_presence": {
-      "totalHumanCount": 12,
-      "maleDetectAmount": 7,
-      "femaleDetectAmount": 5,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Upper body",
-        "Hands only"
-      ],
-      "crowdLevel": "Crowd",
-      "countingEvidence": "1 main creator (Tim), approximately 5 staff members, and 6 customers visible in the background.",
-      "mainCharacterDescription": "An adult male wearing a plaid flat cap, brown-tinted sunglasses, a black 'ROOTS CANADA' sweatshirt with a leaf logo, and a beaded bracelet on his right wrist."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Retail Store",
-          "Outdoor Street"
-        ],
-        "topography": [
-          "Plain"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "The indoor setting is a minimalist, modern tech store with white ceilings, exposed pipes, and wood-paneled display walls. The outdoor setting features a modern glass-facade building and a paved walkway under a clear blue sky.",
-      "lightingStyle": "Bright natural sunlight and professional indoor retail lighting.",
-      "weather": "Sunny",
-      "season": "Spring",
-      "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "Medium",
-        "language": [
-          "Chinese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Cinematic",
-      "cameraWork": [
-        "POV",
-        "Follow shot",
-        "Static"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "VR Headset",
-        "Smart Glasses",
-        "Large Curved Screen"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Meta",
-        "Ray-Ban",
-        "ROOTS"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 5,
-        "vocal_demographics": {
-          "male_vocal_count": 2,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and professional",
-        "pitch": "Normal",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic",
-      "bgmBPM": 120,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Cafe-like chatter",
-        "Wind"
-      ],
-      "audioQuality": "Field"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Exploration -> Summary",
-      "mainPurpose": "To provide a first-person vlog experience of visiting the Meta Store in Burlingame, specifically focusing on the new Meta x Ray-Ban collaboration and Meta Quest products while sharing personal impressions of the retail space.",
-      "visualEmotion": "Energetic"
+      "narrativeStructure": "Linear: Hook -> Exploration -> Reflection -> CTA",
+      "mainPurpose": "The video serves as a travel and tech vlog designed to showcase the experience of visiting the Meta Store. The creator uses high-energy narration and fast-paced editing to guide viewers through the store's offerings, highlighting smart glasses and VR technology while sharing personal anecdotes to build engagement.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "humorous"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -167,15 +280,12 @@
         "Implicit",
         "Integrated"
       ],
-      "endorsementCues": "The creator is showcasing specific brand products (Meta, Ray-Ban) in a retail environment as a tech influencer.",
+      "endorsementCues": "The entire video focuses on visiting and showcasing the products within the Meta Store, specifically naming Meta and Ray-Ban products.",
       "endorsementObject": [
         "Meta",
         "Ray-Ban"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Signature greeting and tech-focused narrative style typical of '3c有意思tim哥'.",
-      "freeDescribe": "The video uses variety-show style captions to maintain high viewer engagement and emphasizes the creator's regret about missing a celebrity appearance to add personal relatability."
-    }
+    "freeDescribe": "The video effectively utilizes social-media native editing styles, including text overlays and sound effects, to maintain a high level of viewer engagement while performing a product/location review."
   }
 }

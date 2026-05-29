@@ -1,15 +1,261 @@
 {
   "videoName": "2uncle987-20250912020821-870377799231938.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 14,
-      "aspectRatio": "9:16",
+      "videoDuration": 14.8,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The video begins with a forward-facing camera view from inside a moving vehicle on a multi-lane highway, approaching and entering a tunnel. The lighting transitions from natural daylight to artificial tunnel lights. (2) A young boy with glasses, wearing a blue patterned shirt and shorts, is sitting on a low brick wall in an outdoor park setting with lush green grass and trees in the background. (3) A woman in a light-colored oversized blazer and pants spins around cheerfully in a courtyard area in front of a large stone monument with text. (4) A quick series of cuts shows children looking at red plants, a person's red sneakers on brick paving, and the entrance to a visitor center building. (5) Indoor shots show two boys sitting on a light-colored sofa in a modern living room, then eating at a dining table with a man in a white shirt. (6) The boys are seen outdoors again, standing near a row of capsule toy machines, walking across a bridge with orange traffic cones nearby, and finally peering into a red-lacquered structure, possibly a temple or shrine.",
+      "text_narrative_log": "(1) [Slogan]: 2023.9.6-2023.9.7. (2) [Subtitle]: 雪霸國家公園管理處. (3) [Slogan]: SHEI-PA NATIONAL PARK HEADQUARTERS. (4) [Slogan]: Visitor Center.",
+      "visual_human_presence": {
+        "totalHumanCount": 4,
+        "maleDetectAmount": 3,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 2,
+        "mainCharacterCount": 3,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face",
+          "Feet / Legs"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 adult male, 1 adult female, 2 young boys.",
+        "mainCharacterDescription": "A man in a white t-shirt, a woman in a grey leisure suit, and two boys wearing matching patterned button-down shirts."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Park / Garden",
+          "Indoor Living Room",
+          "Restaurant / Dining",
+          "Road / Highway / Parking Area",
+          "Tourist Attraction / Landmark"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban",
+          "Urban High-rise / Skyline",
+          "Mountain / Forest / Trail"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The video features a highway tunnel, the stone sign of a national park headquarters, outdoor park paths with bricks and greenery, a modern indoor home/hotel setting, and a traditional temple-like structure.",
+        "lightingStyle": [
+          "Natural daylight",
+          "Bright indoor lighting",
+          "Mixed natural and artificial light"
+        ],
+        "weather": [
+          "Overcast / Cloudy"
+        ],
+        "season": [
+          "Autumn"
+        ],
+        "colorTone": [
+          "Natural",
+          "Muted"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Panning",
+          "Handheld",
+          "Dolly in / push in"
+        ],
+        "shotSize": [
+          "Close-up",
+          "Medium shot",
+          "Medium full shot",
+          "Long shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Low angle",
+          "POV / first-person view"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Montage"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Compilation / montage sequence"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Prepared meal / plated dish",
+          "Snack / chips / candy"
+        ],
+        "trafficDetect": [
+          "Car"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "Shei-Pa National Park Headquarters"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 3,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 2
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Casual",
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 6,
+        "valence": 7,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Acoustic/Folk"
+        ],
+        "tempoBPM": 115,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "String",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Guitar",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Urban/Traffic",
+          "Nature/Outdoor"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "Footsteps",
+          "Liquid Pour / Splash",
+          "Ceramics / Glass Clink"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Camera Shutter / Camera Operation",
+          "Whoosh / Transition SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 3,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 4,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with an upbeat, acoustic guitar-driven BGM. A male voice speaks warmly in Mandarin, accompanied by the muffled sound of a vehicle interior. (2) A mechanical 'shutter click' SFX triggers a transition. The sound of children's high-pitched chatter and laughter becomes prominent over the music. (3) Outdoor ambient textures of wind and rustling are heard. The vocal rate of the adult speaker remains steady and instructional. (4) A percussive 'ding' sound effect coincides with a rapid visual change. The clink of utensils against plates and the splashing sound of food being handled are audible during the dining segment. (5) The guitar music swells slightly towards the end, concluding with a final child's exclamation and a sharp cut to silence."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
         "Vlog",
-        "Family",
+        "Family / Kids",
         "Travel"
       ],
-      "withRealPeople": true,
       "location": {
         "country": [
           "Taiwan"
@@ -19,157 +265,31 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video is a vertical montage using a three-way horizontal split-screen format. In the initial phase, the top frame shows a car driving through a highway tunnel, while middle and bottom frames show a child sitting by a sign for Shei-Pa National Park and a woman twirling in a park setting. (2) The second phase transitions to shots of children squatting to look at plants, a man standing by a vending machine, and kids relaxing on a sofa in a modern hotel lobby or living room. (3) The final phase shows the family walking outside with umbrellas, a man feeding a child, and children looking at gashapon machines and a traditional red temple entrance.",
-      "audio_narrative_log": "(1) A continuous acoustic guitar melody with a medium tempo begins, accompanied by low-frequency road noise and wind from the car footage. (2) The music remains dominant, but soft Mandarin Chinese vocalizations from children and a male adult become audible, suggesting casual conversation. (3) Sound effects of a camera shutter click occur twice in the latter half of the video, synchronized with visual transitions or flash effects, ending with the music fading out.",
-      "text_narrative_log": "(1) Decorative/Hook Text: A persistent date stamp reading \"2025.9.6 - 2025.9.7\" appears in the center of the frame, serving as a temporal anchor for the vlog. (2) Functional Text: On-screen signage displays \"雪霸國家公園管理處 SHEI-PA NATIONAL PARK HEADQUARTERS\" in a formal, informative tone. (3) Decorative/Effect Text: Small stylized captions appear briefly at the bottom but are mostly obscured by the montage layout."
-    },
     "temporal_pacing_summary": {
       "sceneCutCount": 18,
       "averageSceneDuration": 0.8,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Intro Travel -> Arrival at Park -> Hotel Stay -> Local Exploration"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 4,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 2,
-      "mainCharacterCount": 4,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Back view"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 adult male, 1 adult female, and 2 young boys appearing throughout the montage.",
-      "mainCharacterDescription": "The main characters are dressed in casual summer wear; the man wears a white t-shirt and crossbody bag, the woman wears a grey outfit, and the children wear patterned shirts."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Outdoor Street",
-          "Indoor Hotel",
-          "Park",
-          "Temple"
-        ],
-        "topography": [
-          "Plain"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "Features various locations including a highway tunnel, the stone-paved entrance of a national park, a modern hotel room with grey sofas, and a traditional temple with gashapon machines nearby.",
-      "lightingStyle": "Natural daylight for outdoor scenes and soft, warm interior lighting for hotel scenes.",
-      "weather": "Overcast",
-      "season": "Autumn",
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "Medium",
-        "language": [
-          "Traditional Chinese",
-          "English"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "Muted",
-      "cameraWork": [
-        "POV",
-        "Static",
-        "Follow shot"
-      ]
+      "isNarrativeShift": false
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "Car"
-      ],
-      "techDetect": [
-        "Vending machine"
-      ],
-      "landmark": [
-        "Shei-Pa National Park Headquarters"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade",
-      "vocalRatio": "Low"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 3,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 2,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 2
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Steady and professional",
-        "pitch": "Normal",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Occasional narration",
-        "language": [
-          "Mandarin Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Acoustic",
-      "bgmBPM": 95,
-      "instrumentFamiliesAudible": [
-        "Strings"
-      ],
-      "instrumentsAudible": [
-        "Acoustic Guitar"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "Camera shutter"
-      ],
-      "ambientNoise": [
-        "Traffic"
-      ],
-      "audioQuality": "Field"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Travel -> Experience -> Interaction",
-      "mainPurpose": "To document and share a short family trip to Shei-Pa National Park, using a multi-frame aesthetic to condense two days of memories into a short, nostalgic highlight reel for social media.",
-      "visualEmotion": "Calm"
+      "narrativeStructure": "Montage: Experience -> Memory",
+      "mainPurpose": "To create a nostalgic highlight reel of a family weekend trip to Shei-Pa National Park, focusing on the children's exploration and shared family moments.",
+      "visualEmotion": [
+        "warm",
+        "energetic",
+        "humorous"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
       "endorsementMethod": [
         "None"
       ],
-      "endorsementCues": "No specific product promotions; focus is on personal family memories.",
+      "endorsementCues": "None",
       "endorsementObject": [
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Three-frame horizontal split-screen layout with a central date stamp.",
-      "freeDescribe": "The video follows a popular social media editing trend in East Asia, prioritizing atmosphere and quick visual fragments over a linear spoken narrative."
-    }
+    "freeDescribe": "The video utilizes a high-energy montage style typical of social media travel vlogs, using date stamps to ground the narrative in a specific personal timeline."
   }
 }

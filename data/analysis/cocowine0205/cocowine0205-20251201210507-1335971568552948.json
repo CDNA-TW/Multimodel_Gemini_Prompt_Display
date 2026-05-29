@@ -1,178 +1,279 @@
 {
   "videoName": "cocowine0205-20251201210507-1335971568552948.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 76,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Shopping",
-        "Product Review"
-      ],
+      "videoDuration": 76.5,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A young woman with long dark hair, wearing a black off-the-shoulder top and a choker, stands in a brightly lit retail aisle holding a large Lego box. The box features the Disney Snow White and the Seven Dwarfs Cottage. The background shows stacks of colorful plush toys and yellow price tags. (2) The camera transitions to a close-up of the Lego box. A hand points at the various mini-figures of the seven dwarfs positioned in front of the brick-built house. The lighting is even and typical of a large warehouse store. (3) The woman rotates the box to display the reverse side, showing internal room details of the cottage. She points to a brick-built well and a tree feature on the packaging. The environment remains busy with merchandise visible in the periphery. (4) Close-up views of the box highlights details like a glass coffin and the Wicked Queen. The woman's hands gesture towards these specific elements to emphasize the set's play features. (5) The woman returns to a medium shot, smiling at the camera while holding the box upright. She appears enthusiastic, standing amidst the toy section of the warehouse as she concludes her presentation of the product.",
+      "text_narrative_log": "(1) [Logo]: COSTCO WHOLESALE. [Slogan]: 太便宜不買可惜. [Variety]: 黑五好康. [Variety]: 迪士尼超大白雪公主樂高. (2) [Logo]: LEGO. [Subtitle]: 43242. [Subtitle]: 2228 pcs. (3) [Subtitle]: $4699 -> $3500.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 female main character presenting the product.",
+        "mainCharacterDescription": "A young woman with long black hair, wearing a black off-the-shoulder top and a black choker."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Supermarket / Warehouse Store"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "The interior of a Costco warehouse, specifically the toy and seasonal aisle, filled with plush characters and Lego sets on shelves.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Autumn / Winter"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Insert shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Fast cuts"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Costco",
+          "Lego",
+          "Disney"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 1,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop"
+        ],
+        "tempoBPM": 124,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Percussion",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Pop / Bubble SFX"
+        ],
+        "soundEffectsIntensity": 2,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The video begins with an energetic female voice greeting the audience over a fast-paced synth-pop background track. A male voice quickly joins, speaking with a very high pitch variability and rapid delivery, creating a sense of urgency. (2) A sharp 'whoosh' sound effect accompanies a visual cut as the male narrator describes the specific Lego set and its Black Friday price. The music maintains a steady, driving beat with clear percussive hits. (3) The male narrator's volume increases as he points out specific features like the 'Prince' and 'Witch' figures. A subtle digital 'ding' effect marks the display of the discounted price on screen. (4) Both voices overlap briefly as they express excitement about the value of the product. The background music continues without interruption, keeping the energy high until the final cut. The recording is very clean with minimal environmental interference."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Product Showcase",
+        "Lifestyle",
+        "Promotion / Advertisement / Indoresment"
+      ],
       "location": {
         "country": [
-          "Unknown"
+          "Taiwan"
         ],
         "city": [
           "None"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman with long dark hair and a yellow-dyed streak stands in a warehouse-style store, holding a large Lego box. Large text overlays and the Costco logo are visible. (2) The camera zooms in on the front of the Lego box, which depicts Snow White and the Seven Dwarfs' cottage. A hand enters the frame from the side to point at specific minifigures like the Seven Dwarfs. (3) The woman turns the box around to reveal the back, showing the interior details of the Lego set. The camera focuses on small vignettes on the back of the box: the dwarfs mining, the well, and the evil queen. (4) Detailed close-ups of the box's artwork show the 'light brick' feature and various rooms inside the cottage. The woman reacts with surprised and happy facial expressions. (5) The woman holds the full box again, looking directly at the camera while speaking enthusiastically, concluding the video in front of shelves of plush toys.",
-      "audio_narrative_log": "(1) Fast-paced, upbeat electronic pop music plays in the background throughout the video. A high-pitched, excited female voice begins speaking immediately about the price of the item. (2) An energetic male voice joins in, interacting with the female speaker. They sound very enthusiastic, using many exclamations and 'wow' sounds. (3) The audio consists of continuous dialogue between the two, with the female voice remaining dominant. (4) Subtle ambient warehouse sounds like distant chatter and cart movements are occasionally audible under the music and main vocals.",
-      "text_narrative_log": "(1) COSTCO WHOLESALE - Functional text/Logo. (2) 太便宜不買可惜 (Too cheap, it's a pity not to buy) - Hook text. (3) 黑五好康 (Black Friday Great Deal) - Hook text. (4) 迪士尼超大白雪公主樂高 (Disney Super Large Snow White Lego) - Functional text. (5) 4699, 折了1200, 只要3500 (4699, discounted 1200, only 3500) - Price information. (6) Disney Snow White and the Seven Dwarfs - Functional text on the Lego box."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 18,
-      "averageSceneDuration": 4.2,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro -> Detailed Product Inspection -> Price Discussion -> Recommendation"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main female creator on screen; 1 male hand pointing at the box and male voice off-screen.",
-      "mainCharacterDescription": "A young female with long dark hair featuring a prominent yellow/neon streak at the front. She is wearing a black top and a brownish-grey skirt."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Costco",
-          "Warehouse Store"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A typical Costco warehouse interior with high ceilings, industrial shelving, and large quantities of merchandise (plush toys and other Lego sets). Black Friday promotional signs are visible.",
-      "lightingStyle": "Intense studio-style warehouse lighting",
-      "weather": "Indoor",
-      "season": "None",
+      "sceneCutCount": 15,
+      "averageSceneDuration": 5.1,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Chinese",
-          "English"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "High Saturation",
-      "cameraWork": [
-        "Static",
-        "Zoom",
-        "Follow shot"
-      ]
+      "isNarrativeShift": false
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Costco",
-        "Lego",
-        "Disney"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and persuasive",
-        "pitch": "High",
-        "loudness": "Loud",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Field Recording"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Detailed Review -> Price Value -> Call to Action",
-      "mainPurpose": "The video serves as a promotional review and deal-finding vlog. The creator aims to showcase the details and value of a high-end Lego Snow White set currently on sale at Costco during the Black Friday period, encouraging viewers to take advantage of the significant discount.",
-      "visualEmotion": "Energetic and enthusiastic"
+      "narrativeStructure": "Montage: Hook -> Feature Highlight -> Price Reveal -> Recommendation",
+      "mainPurpose": "The video serves as a promotional showcase for a specific Lego Disney set sold at Costco during the Black Friday sales period. By using enthusiastic narration, upbeat music, and detailed close-ups of the set's components and figures, the content emphasizes the aesthetic appeal and the significant price discount to motivate viewers to shop at Costco.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
-        "Implicit",
-        "Integrated"
+        "Explicit",
+        "Full"
       ],
-      "endorsementCues": "Detailed display of the product, emphasis on the low price at a specific retailer (Costco), and positive recommendation.",
+      "endorsementCues": "The creators are specifically showcasing a product (Lego set) while standing in a Costco, mentioning the Costco name, and showing the Black Friday sale price.",
       "endorsementObject": [
         "Lego",
         "Costco"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-energy interaction between an on-screen host and an off-screen 'cameraman' figure.",
-      "freeDescribe": "The video uses typical social media short-form editing styles (large colorful text, fast cuts) to maintain high engagement."
-    }
+    "freeDescribe": "The video is a typical social-media shopping vlog that leverages retail environment branding (Costco) and high-energy voiceovers to capture attention."
   }
 }

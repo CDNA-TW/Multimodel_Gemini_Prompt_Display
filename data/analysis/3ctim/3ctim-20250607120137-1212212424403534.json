@@ -1,158 +1,256 @@
 {
   "videoName": "3ctim-20250607120137-1212212424403534.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 36,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Gaming",
-        "Tech Review"
-      ],
+      "videoDuration": 37,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) Close-up handheld shot focusing on a new gaming console being played by a man. He holds the device with both hands; his thumbs are active on the joysticks and buttons. The background is a vibrant red exhibition wall featuring large white branding for 'Nintendo Switch 2' with various cables hanging down. (2) The screen displays a colorful kart racing game. The character is racing through a desert landscape with sand dunes and stone structures under a sunset sky. The player wears a bright yellow wristwatch on his left arm and various wooden prayer beads on his right wrist. (3) The person continues playing as the camera remains focused on the device screen and his hands. A grey backpack is nestled on his lap. Towards the end, a second person’s hand enters the right side of the frame, seemingly pointing at the screen or indicating something to the player.",
+      "text_narrative_log": "(1) [Logo]: 2 NINTENDO SWITCH. [Subtitle]: 這次是要用馬力歐賽車. (2) [Subtitle]: 但是現在是掌機版本. (3) [Subtitle]: 然後呢你可以看到這次呢. (4) [Subtitle]: 畫面變大了非常地有感. (5) [Subtitle]: 有沒有看到. (6) [Subtitle]: 非常地有感. (7) [Subtitle]: 雖然玩電視的會那個. (8) [Subtitle]: 大畫面體驗感更好啦. (9) [Subtitle]: 可是因為它這次的. (10) [Subtitle]: 解析度也變1080了. (11) [Subtitle]: 所以你玩起來的整體的. (12) [Subtitle]: 不管是流暢度也好啊. (13) [Subtitle]: 或是整個畫面. (14) [Subtitle]: 我覺得有得分. (15) [Subtitle]: 31秒. [Variety]: 喔. (16) [Subtitle]: 好可以. [Variety]: 不要不要不要. (17) [Subtitle]: 因為這是reels而已. [Variety]: 好好就好這樣.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Hands only",
+          "Partial body",
+          "Torso",
+          "Feet / Legs"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 main creator playing the game, 1 other person partially visible on the right side.",
+        "mainCharacterDescription": "A male wearing a grey long-sleeved sweatshirt, a bright yellow watch, and wooden beads on his wrist."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Event Venue / Convention Hall"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A red promotional backdrop with white 'Nintendo Switch 2' logos. The player has a grey backpack on his lap while sitting.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Warm and vibrant"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld"
+        ],
+        "shotSize": [
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "High angle"
+        ],
+        "editingTechniques": [
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Game console / controller"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Nintendo"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 2,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 2,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 6,
+        "valence": 7,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Crowd Murmur"
+        ],
+        "crowdNoiseIntensity": 1,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "Mechanical Click / Latch"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 5
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 1,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) A male narrator speaks in a clear, high-arousal tone in Mandarin with an excited inflection. In the background, the cheerful, high-tempo synthesized melody of a Nintendo racing game plays consistently. Ambient room noise from a public event is faintly audible. (2) Subtle mechanical clicking sounds are heard as the player presses buttons on the console. The narrator describes the handheld nature of the device with a rhythmic speech pattern, emphasizing technical features like screen size. (3) The narrator's pitch remains high as he expresses satisfaction with the 1080p resolution. Game-specific sound effects, such as engine hums and chime-like item pickups, are layered with the narration. The music remains continuous. (4) A second male voice enters the mix briefly at a low volume, coordinating with the narrator about the recording length. The narrator responds while finishing his play session before a hard cut in the audio stream."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Tech Review",
+        "Product Showcase"
+      ],
       "location": {
         "country": [
-          "Unknown"
+          "Taiwan"
         ],
         "city": [
           "Unknown"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video begins with a POV shot of a person's hands holding a handheld gaming console. On the screen, the game Mario Kart 8 Deluxe is being played. The character Mario is driving a red kart on a desert-themed track. (2) As the gameplay continues, the player navigates through the track, collecting gold coins and avoiding obstacles. A red banner with white text reading 'Nintendo Switch 2' is clearly visible in the background behind the console. (3) The camera remains static on the hands and console throughout, capturing the movement of the player's thumbs on the joysticks and buttons as the race progresses.",
-      "audio_narrative_log": "(1) A male voice speaks in Mandarin, providing an enthusiastic commentary on the handheld version of the game. The background sound is filled with game audio, including the high-pitched hum of kart engines and the metallic 'ping' of collecting coins. (2) The narrator mentions technical aspects like resolution and screen size, while ambient noise from a crowded exhibition or demo event is audible in the background. (3) Towards the end, a second male voice briefly intervenes with a question, and the primary narrator responds before the recording cuts off.",
-      "text_narrative_log": "(1) Functional Text: White subtitles with black outlines appear at the bottom center of the screen, providing a traditional Chinese translation of the spoken Mandarin narration. (2) Functional Text: In-game UI elements are visible on the console screen, such as the coin count (07), lap counter (3/3), and current position (12th)."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 0,
-      "averageSceneDuration": 36.0,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Intro -> Live Gameplay Demo -> Narrative Commentary"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Hands only",
-        "Legs/Lap"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 male subject holding the console, legs visible in the bottom frame.",
-      "mainCharacterDescription": "The main character is wearing a grey long-sleeved shirt, blue jeans, a bright yellow digital watch on the left wrist, and a wooden beaded bracelet on the right wrist."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Exhibition Hall",
-          "Studio"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A vibrant red background wall featuring a large white 'Nintendo Switch' logo. A black backpack is placed on a light-colored surface below the console.",
-      "lightingStyle": "Bright, direct indoor lighting typical of a commercial exhibition.",
-      "weather": "None",
-      "season": "None",
+      "sceneCutCount": 2,
+      "averageSceneDuration": 18.5,
       "editingPace": "Slow",
-      "textOverlay": {
-        "density": "Low",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Warm and vibrant, dominated by the red background.",
-      "cameraWork": [
-        "POV",
-        "Static"
-      ]
+      "isNarrativeShift": false
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "Go-kart (in-game)"
-      ],
-      "techDetect": [
-        "Handheld Gaming Console",
-        "Digital Watch"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Nintendo Switch"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "None",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 0,
-        "offscreen": 2,
-        "backgroundCrowdVoices": 1,
-        "vocal_demographics": {
-          "male_vocal_count": 2,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and professional",
-        "pitch": "Normal",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": false,
-      "bgmGenre": "None",
-      "bgmBPM": 0,
-      "instrumentFamiliesAudible": [
-        "Electronic"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer"
-      ],
-      "musicSourceType": [
-        "Live"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "Game Engine SFX",
-        "Coin Pickup SFX"
-      ],
-      "ambientNoise": [
-        "Crowd chatter",
-        "Exhibition Hall ambience"
-      ],
-      "audioQuality": "Field Recording"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Feature Highlight -> Performance Demonstration -> Real-time Reaction",
-      "mainPurpose": "The video serves as a first-person hardware demonstration and review of a handheld gaming device, specifically highlighting the visual fidelity and smooth performance of Mario Kart 8 Deluxe. The presence of the 'Nintendo Switch 2' banner suggests it is intended to generate hype or provide early impressions of a new console generation or prototype at a tech event.",
-      "visualEmotion": "Exciting, Energetic"
+      "narrativeStructure": "Linear: Product Demonstration -> Technical Commentary -> Conclusion",
+      "mainPurpose": "To provide a first-hand experiential showcase of the new Nintendo Switch 2 console, focusing on the visual upgrades in handheld mode while playing Mario Kart.",
+      "visualEmotion": [
+        "energetic",
+        "informative"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -160,14 +258,11 @@
         "Implicit",
         "Integrated"
       ],
-      "endorsementCues": "Reviewing a specific product (Nintendo Switch) at a branded booth with logos clearly visible.",
+      "endorsementCues": "The presence of official Nintendo branding and the positive, promotional tone of the commentary regarding the hardware features.",
       "endorsementObject": [
-        "Nintendo Switch"
+        "Nintendo"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Close-up POV handheld gaming style",
-      "freeDescribe": "The focus is heavily on the tactile experience and screen quality of the device. The background 'Nintendo Switch 2' banner is a significant hook for viewers interested in gaming news."
-    }
+    "freeDescribe": "A hands-on demonstration video likely filmed at a tech launch event or trade show. It highlights hardware performance."
   }
 }

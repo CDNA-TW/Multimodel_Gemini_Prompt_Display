@@ -1,173 +1,278 @@
 {
   "videoName": "3ctim-20250910200137-890393203778510.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 44,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Tech Review",
-        "Gadget News"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "Unknown"
+      "visual_narrative_log": "(1) A middle-aged man with glasses, wearing a grey checkered flat cap and a white t-shirt with a black backpack strap, stands in front of a white wall featuring a large silver Apple logo. He gestures with his hands while speaking enthusiastically to the camera. (2) The scene cuts to a close-up of a vibrant orange smartphone mounted on a thin silver stand against a dark red background. The phone rotates slowly, showcasing its matte finish, triple-lens camera system on the back, and the Apple logo. (3) A new phase begins as the phone color changes to a deep navy blue on the same stand. The camera zooms in slightly as the device continues to spin, highlighting the metallic sheen and the reflective glass of the camera module. (4) The shot transitions to a silver-white version of the phone rotating on the stand against a soft grey background. The camera captures the side profile, showing the volume buttons and the smooth curvature of the frame. (5) A hand enters the frame, pointing at the bottom edge and the back panel of the orange phone. The lighting highlights the texture of the material, which appears to be a mix of metal and glass. (6) A final split-screen montage appears, displaying the orange, blue, and silver models simultaneously in three horizontal sections. A large text overlay asking a question appears in the center of the frame.",
+      "text_narrative_log": "(1) [Logo]: 3c意思tim哥. [Logo]: @3ctim. (2) [Subtitle]: iPhone 17 Pro. [Variety]: 全顏色. (3) [Subtitle]: 這就是新的. [Variety]: 宇宙橙色. (4) [Subtitle]: 然後這個是藍色. [Variety]: 藏藍色. (5) [Subtitle]: 這是白色. [Variety]: 銀色. (6) [Subtitle]: 它的這邊是一體成型的鋁合金. (7) [Subtitle]: 這邊是玻璃. (8) [Subtitle]: 超瓷晶盾第二代. (9) [Variety]: 4倍抗刮. (10) [Subtitle]: 正面也是超瓷晶二代. (11) [Subtitle]: 電池續航也更強. (12) [Variety]: 最高可以達到. [Variety]: 39小時. (13) [Subtitle]: 藏藍色是我很喜歡的. (14) [Subtitle]: 這個藍你可以仔細看. (15) [Subtitle]: 這個藍非常漂亮. (16) [Subtitle]: 這個白色一樣上面是鋁. (17) [Subtitle]: 哪一個顏色燒到你?",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Head and shoulders",
+          "Face",
+          "Hands only"
         ],
-        "city": [
-          "Unknown"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A man wearing a grey flat cap and glasses introduces the video with a large Apple logo in the background. (2) Chronological cuts show three different smartphone colors: a bright orange, a deep navy blue, and a metallic silver/white. (3) A close-up view focuses on the orange smartphone mounted on a stand; a hand enters the frame pointing to the camera lenses and the back panel. (4) Scene transitions to the navy blue model, showing the glass and metal finish from various angles. (5) Transition to the silver model, highlighting the 'Super Ceramic Shield' surface as a finger slides across it. (6) The final shot displays a collage of all three colors with a question mark on screen.",
-      "audio_narrative_log": "(1) Upbeat, high-tempo electronic background music starts immediately. A male voice speaks with an enthusiastic, high-pitched tone, introducing 'iPhone 17 Pro' colors. (2) The narrator's voice remains constant as he describes the technical features of the orange phone, including battery life and material durability. (3) The music maintains a steady rhythm as the speaker shifts focus to the blue and silver models, ending with an inquisitive tone asking the audience for their preference.",
-      "text_narrative_log": "(1) Functional Text: 'iPhone 17 Pro 全顏色' (iPhone 17 Pro All Colors) - Exciting tone. (2) Decorative Text: '宇宙橙色' (Cosmic Orange), '藏藍色' (Navy Blue), '銀色' (Silver) - Labeling the product colors. (3) Technical Hook: '4倍抗刮' (4x scratch resistant), '39小時' (39 hours) - Highlighting key specs. (4) Decorative Text: '哪個顏色燒到你？' (Which color catches your eye?) - Emotional CTA at the end."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 22,
-      "averageSceneDuration": 2.0,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro -> Product Feature Showcase -> Comparative Outro"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Face",
-        "Shoulders",
-        "Hands"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 male creator in the intro; the same person's hand appears in the product close-ups.",
-      "mainCharacterDescription": "A middle-aged male with glasses and a grey flat cap, wearing a white t-shirt with black graphics."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main creator talking directly to the camera.",
+        "mainCharacterDescription": "A middle-aged man wearing glasses, a grey checkered flat cap, and a white t-shirt with a black backpack strap."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
           "Studio"
         ],
-        "topography": [
+        "locationTopography": [
           "None"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "Initial scene has a clean white studio wall with an Apple logo. Later product shots feature solid color backgrounds in dark red, white, and grey with a metal stand.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
         ]
       },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A clean, bright white studio background featuring a large Apple logo and various tech-related social media handle overlays.",
-      "lightingStyle": "Intense studio lights",
-      "weather": "None",
-      "season": "None",
-      "editingPace": "Fast",
-      "textOverlay": {
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Zoom in"
+        ],
+        "shotSize": [
+          "Medium close-up",
+          "Close-up",
+          "Macro close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Graphic transition",
+          "Split-screen",
+          "Montage"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
         "density": "High",
-        "language": [
-          "Traditional Chinese"
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
         ],
         "isSubtitled": true
       },
-      "colorTone": "High Saturation",
-      "cameraWork": [
-        "Static",
-        "Close-up",
-        "Follow shot"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Apple"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and professional",
-        "pitch": "Normal",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Traditional Chinese"
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Microphone / lavalier mic"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Apple"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Drum Kit / Drum Set",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Impact / Hit SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Stingers"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A male voice begins speaking in a high-arousal, energetic tone with clear articulation. Simultaneously, a high-tempo electronic BGM with a prominent 4/4 drum beat and synth pads kicks in, creating a professional and fast-paced atmosphere. (2) A distinct whoosh sound effect, used as a transition SFX, occurs as the narrator shifts focus to the orange model. The speech rate remains fast and rhythmic, aligned with the energetic pulse of the BGM. (3) Another sharp transient SFX triggers as the navy blue version is introduced. The narrator's pitch variability increases, emphasizing the aesthetic appeal. The BGM maintains its steady, upbeat tempo without interruption. (4) A subtle electronic click sound effect punctuates the mention of technical specifications like battery life. The ambient noise is non-existent, reflecting a high-quality studio recording environment. (5) The narrator's voice drops slightly in pitch for a concluding call-to-action question. A final electronic stinger SFX marks the end of the clip, with the BGM fading out quickly after the last word."
     }
   },
-  "high_inference_interpretations": {
-    "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Feature Breakdown -> Engagement Question",
-      "mainPurpose": "To showcase and generate excitement for the rumored new color options and durability specs of the iPhone 17 Pro through a dynamic visual presentation.",
-      "visualEmotion": "Energetic"
-    },
-    "endorsement_analysis": {
-      "isEndorsement": true,
-      "endorsementMethod": [
-        "Implicit",
-        "Integrated"
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Tech News / Commentary",
+        "Product Showcase"
       ],
-      "endorsementCues": "Detailed product demonstration and mention of specific brand-related technical features like Ceramic Shield.",
-      "endorsementObject": [
-        "Apple iPhone 17 Pro"
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 15,
+      "averageSceneDuration": 2.9,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Product Showcase -> Technical Details -> CTA",
+      "mainPurpose": "To introduce and showcase the concept design and rumored new colors of the iPhone 17 Pro, highlighting its material durability and extended battery life to inform and engage tech enthusiasts.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Host consistently wears a flat cap and uses high-density variety-show style text overlays.",
-      "freeDescribe": "The video effectively uses fast editing and beat-matching to keep viewer attention in a short-form format."
-    }
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "The creator is discussing tech rumors and concept leaks rather than presenting a paid product placement.",
+      "endorsementObject": [
+        "Apple"
+      ]
+    },
+    "freeDescribe": "The video uses high-quality CGI renders to discuss rumored technology, a common format for social media tech influencers."
   }
 }

@@ -1,176 +1,281 @@
 {
   "videoName": "3ctim-20251205025123-1500997828361750.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 104,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Tech Review",
-        "Vlog"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "Taiwan"
+      "visual_narrative_log": "(1) The video opens with a middle-aged Asian man wearing a green beret and a light green t-shirt with a leaf logo. He holds a white foldable smartphone in front of him, gesturing with his hands. The setting is a brightly lit indoor studio or living room with wooden shelves containing various objects like an astronaut figurine and glassware. (2) A graphic insert shows a side-profile view of a folding device against a dark digital background, highlighting its multi-hinge structure. (3) The man returns to the frame, holding a different, darker phone to compare thicknesses. His facial expressions are animated and informative, looking directly into the lens. The background lighting is warm and balanced, emphasizing the texture of the phones. (4) A still photograph is displayed showing three men, including the presenter, standing before a blue Samsung promotional backdrop. (5) The final segment shows the man concluding his presentation with expressive hand motions, still holding the device, within the same indoor setting as the beginning.",
+      "text_narrative_log": "(1) [Subtitle]: 各位觀眾. [Logo]: f 3c有意思tim哥. [Logo]: i 3ctim. (2) [Subtitle]: 三星. [Slogan]: Galaxy Z TriFold. (3) [Subtitle]: 左右向內收折的. (4) [Subtitle]: 10吋大螢幕. (5) [Subtitle]: 3.9mm. (6) [Subtitle]: 12.9mm. [Subtitle]: 309g. (7) [Subtitle]: S8 Elite for Galaxy. (8) [Subtitle]: 16GB的RAM. [Subtitle]: 512GB. [Subtitle]: 跟1TB. (9) [Subtitle]: 1200萬畫素的超廣角. (10) [Subtitle]: 5600mAh. (11) [Subtitle]: Samsung DeX. (12) [Logo]: SAMSUNG. [Slogan]: Z Fold7 Z Flip7. [Slogan]: v AI.",
+      "visual_human_presence": {
+        "totalHumanCount": 3,
+        "maleDetectAmount": 3,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Head and shoulders",
+          "Face",
+          "Hands only",
+          "Upper body"
         ],
-        "city": [
-          "Unknown"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A middle-aged man with glasses, a green cap, and a light green 'Roots' t-shirt is centered in the frame, holding a foldable smartphone and speaking directly to the camera in an indoor room with shelves and a decorative astronaut in the background. (2) The scene cuts between the man demonstrating the phone's folding action and high-quality 3D product renders showcasing the phone's hinge, screen size, and ultra-thin profile (3.9mm). (3) A group photo of three men appears briefly during the discussion of Samsung's executives in Taiwan. (4) The man continues talking about price and release dates while holding the device, concluding with a wave.",
-      "audio_narrative_log": "(1) A single male voice speaks Mandarin with a clear, enthusiastic, and professional reviewer tone, accompanied by upbeat, mid-tempo electronic background music. (2) The background music remains constant throughout, providing a steady energetic rhythm while the host details technical specifications. (3) No significant ambient noise is present, suggesting a controlled indoor recording environment or high-quality audio processing.",
-      "text_narrative_log": "(1) '各位觀眾' (Hello viewers) - Functional opening greeting. (2) 'Galaxy Z TriFold' - Hook text introducing the subject. (3) '10吋大螢幕' (10-inch large screen) and '3.9mm' - Functional text highlighting technical specifications. (4) '12月12號韓國開賣' (Available in Korea on Dec 12) - Functional text providing market information."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 18,
-      "averageSceneDuration": 5.7,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Host Intro -> Product Feature Breakdown -> Comparison with older models -> Market info & Pricing -> CTA/Outro"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 4,
-      "maleDetectAmount": 4,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Waist up",
-        "Hands only"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main male creator throughout; 3 additional males appear in a static group photo.",
-      "mainCharacterDescription": "Middle-aged Asian male with glasses, wearing a dark green cap and a light green 'Roots' brand t-shirt."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Office",
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main presenter throughout, 2 additional males in a brief still photo sequence.",
+        "mainCharacterDescription": "Middle-aged Asian male with short hair, wearing glasses, a green beret-style hat, and a light green Roots brand t-shirt. He wears a yellow-strapped watch and a wooden bead bracelet."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home",
           "Studio"
         ],
-        "topography": [
+        "locationTopography": [
           "None"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A modern indoor domestic or studio setting with dark wooden shelving, featuring decorative items like a white astronaut figure, books, and various glasses. Some shots feature digital graphical backgrounds for product specs.",
+        "lightingStyle": [
+          "Bright indoor lighting",
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
         ]
       },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "An indoor room with a cluttered but organized shelf containing a white astronaut figurine, glassware, and framed pictures. Some shots feature high-quality 3D digital product renders against black backgrounds.",
-      "lightingStyle": "Bright studio lighting with a soft ring light reflected in the host's glasses.",
-      "weather": "Indoor",
-      "season": "Unknown",
-      "editingPace": "Moderate",
-      "textOverlay": {
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium close-up",
+          "Close-up",
+          "Insert shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Insert shot",
+          "Graphic transition",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
         "density": "Medium",
-        "language": [
+        "textLanguage": [
           "Traditional Chinese",
           "English"
         ],
         "isSubtitled": true
       },
-      "colorTone": "Natural and Vibrant",
-      "cameraWork": [
-        "Static",
-        "Macro shots (product renders)"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone",
-        "Smartwatch"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Samsung",
-        "Roots"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade for music; hard cuts for speech syncing with visuals",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Energetic and professional",
-        "pitch": "Normal",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Watch",
+          "TV / display screen"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "SAMSUNG",
+          "Roots"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "Digital transition whooshes"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Professional/Narrative",
+          "Friendly"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 6,
+        "valence": 7,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Acoustic/Folk"
+        ],
+        "tempoBPM": 110,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 2,
+        "instrumentFamiliesAudible": [
+          "Percussion",
+          "Strings"
+        ],
+        "instrumentsAudible": [
+          "Drum Kit / Drum Set",
+          "Guitar"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Pop / Bubble SFX"
+        ],
+        "soundEffectsIntensity": 2,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a clear, energetic male voice speaking in Traditional Chinese with high articulation clarity. A light, upbeat acoustic-pop BGM featuring rhythmic guitar and percussion starts immediately, setting a friendly and professional tone. (2) A subtle digital 'whoosh' sound effect accompanies the first visual graphic transition. The speaker continues at a steady pace, explaining technical specifications without hesitation or significant pauses. (3) A soft 'pop' sound effect is heard during a transition to a comparison shot. The vocal intonation remains dynamic and engaging, while the background music maintains a constant level without interfering with speech clarity. (4) The speaker concludes the segment with a positive vocal inflection. The BGM continues through the final moments, providing a cohesive emotional bed for the tech commentary. No background noise or technical distortion is audible throughout the recording."
     }
   },
-  "high_inference_interpretations": {
-    "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Detailed Spec Analysis -> Competitive Comparison -> Market Launch Details -> Closing Remarks",
-      "mainPurpose": "The video serves as a tech news update and preliminary review of the Samsung Galaxy Z TriFold. The host aims to inform his audience about the innovative three-fold design, significant screen real estate (10 inches), and thinness of the device, positioning it as a premium tech milestone. It targets tech enthusiasts interested in the latest mobile hardware trends.",
-      "visualEmotion": "Informative and Excited"
-    },
-    "endorsement_analysis": {
-      "isEndorsement": true,
-      "endorsementMethod": [
-        "Explicit",
-        "Integrated"
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Tech Review",
+        "Product Showcase"
       ],
-      "endorsementCues": "The host holds the product, showcases official marketing renders, and provides specific launch dates and pricing, typical of a professional tech influencer product showcase.",
-      "endorsementObject": [
-        "Samsung"
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 12,
+      "averageSceneDuration": 8.6,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "Linear: Hook -> Product Introduction -> Technical Specifications -> Market Context -> Conclusion",
+      "mainPurpose": "To provide a detailed news update and expert commentary on the rumored Samsung Galaxy Z TriFold and Z Fold 7 series. The video aims to inform tech enthusiasts about physical design changes, hardware upgrades, and battery life through a mix of direct narration and illustrative graphics.",
+      "visualEmotion": [
+        "informative",
+        "energetic",
+        "professional"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Host's trademark intro style and consistent brand wardrobe (Roots).",
-      "freeDescribe": "The video uses high-production-value renders provided by the manufacturer or professional leaks, enhancing its credibility as an early-access or tech-insider review."
-    }
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "General tech commentary and news reporting format typical of a news-style influencer channel.",
+      "endorsementObject": [
+        "SAMSUNG"
+      ]
+    },
+    "freeDescribe": "A high-quality short-form tech update optimized for mobile platforms with professional audio balance and informative text overlays."
   }
 }

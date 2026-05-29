@@ -1,181 +1,289 @@
 {
   "videoName": "3ctim-20250806224914-1220129623651118.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 38,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Tutorial",
-        "Vlog",
-        "Travel"
-      ],
+      "videoDuration": 37.12,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A man with glasses wearing a grey and white houndstooth flat cap and a cream jacket over a black zipped inner layer stands in a brightly lit train station, speaking directly to the camera with animated hand gestures. (2) Close-up shot of a black tablet on a stand displaying a face recognition interface with a red square tracking a face; the background shows the blur of a station walkway. (3) Sequence of screen recordings from a mobile device showing a website interface with Chinese text, calendar selection for May 20, 2025, and form fields for personal data entry. (4) The man stands near a ticket gate, holding up two paper tickets towards the camera; he points to specific printed information on the tickets while smiling. (5) A train with orange and white doors and blue tinted windows arrives at a platform behind glass safety doors; the lighting is bright and industrial. (6) The man is seen sitting inside the train, leaning towards the camera with a patterned blue seat headrest behind him; he speaks in a quieter, more intimate manner. (7) The man, now wearing a teal backpack, approaches a manual ticket booth where a uniformed staff member in a black hat and mask is visible behind a glass window. (8) Close-up of the tickets being handled at the counter; the man turns and walks towards the camera as graphic gold confetti sparkles overlay the screen.",
+      "text_narrative_log": "(1) [Logo]: 3c有意思tim哥. [Logo]: @3ctim. [Subtitle]: 教你怎麼樣從 成田機場 到 東京市區 最快的方法. (2) [Subtitle]: 好 各位 到了 入站口呢 你只要 事先 買完票 那邊 就有 一台 人臉 解鎖 的 就可以 直接 進去了 直接 試給 大家看!. (3) [Slogan]: 先在 官網 選擇 單程 Skyliner 購票. (4) [Slogan]: 填寫 資料 會有 簡訊 確認 建議 在 台灣 (出發前) 先 處理好. (5) [Slogan]: 然後 按照 指示 自拍 若 兩人 以上 只要 一人 拍即可. (6) [Subtitle]: 你看 我就 拿到 票了 票 上面 有 離你 最近 的 班次 然後 上面 連 座位 都 已經 訂好了 兩張. (7) [Subtitle]: 我們 快到 日暮里 囉 車站 快到 囉!. (8) [Subtitle]: 記得 最後 一件事情 就是 要用 人工 的 (無法 使用 自動 驗票機). (9) [Variety]: 出站 成功.",
+      "visual_human_presence": {
+        "totalHumanCount": 7,
+        "maleDetectAmount": 4,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Face close-up",
+          "Upper body",
+          "Head and shoulders",
+          "Back view",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main creator, 1 staff member at the booth, 2 passengers in the background of the station, 3 people partially visible near the gates.",
+        "mainCharacterDescription": "An adult male with short dark hair, wearing round-framed glasses, a houndstooth patterned flat cap, a cream-colored jacket, and a black zippered inner shirt."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Train / Metro Station",
+          "Public Transport Interior"
+        ],
+        "locationTopography": [
+          "Urban High-rise / Skyline"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The video transitions between a bright, busy train station lobby with digital signboards and ticket gates, the platform area with safety doors, and the interior of a modern commuter train with patterned seats.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Selfie handheld",
+          "Static"
+        ],
+        "shotSize": [
+          "Close-up",
+          "Medium shot",
+          "Medium close-up",
+          "Insert shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Selfie perspective"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Screen recording edit",
+          "Graphic transition"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "Train / metro / HSR"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Tablet"
+        ],
+        "landmark": [
+          "Narita Airport",
+          "Nippori Station"
+        ],
+        "brandLogos": [
+          "Skyliner",
+          "Keisei"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop"
+        ],
+        "tempoBPM": 124,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Crowd Murmur"
+        ],
+        "crowdNoiseIntensity": 1,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "Vehicle Horn / Engine",
+          "Mechanical Click / Latch"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Pop / Bubble SFX",
+          "Ding / Bell SFX",
+          "Sparkle / Magic SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) High-energy male voice begins speaking in Mandarin; the delivery is fast-paced and enthusiastic. An upbeat, major-mode pop/electronic BGM with a steady 124 BPM beat starts immediately and plays continuously. (2) A 'Pop' sound effect triggers as the first screen overlay appears; the speaker's pitch remains high and engaging. (3) A 'Ding' sound effect accompanies the visual of the face recognition tablet; ambient indoor station resonance is audible but very low in the mix. (4) The narrator's voice drops slightly in volume and intensity as the scene shifts to the train interior, mimicking a quieter public space. (5) A final 'Sparkle' sound effect plays at the end during the success text overlay; the BGM maintains its tempo until a quick fade-out."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Tutorial / How-to",
+        "Travel",
+        "Tech Review"
+      ],
       "location": {
         "country": [
           "Japan"
         ],
         "city": [
-          "Tokyo"
+          "Tokyo",
+          "Narita"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A man with glasses and a plaid flat cap stands in an airport terminal, speaking directly to the camera and gesturing with his right hand. (2) Transition to a close-up of a tablet on a stand performing facial recognition on the man, followed by screen recordings of a web-based ticket booking interface on a mobile device showing dates and ticket options. (3) The man holds up two printed tickets in front of a station ticket gate, pointing to the details on the paper. (4) A white and blue Keisei Skyliner train pulls into a platform. (5) The man is shown sitting inside the train car, speaking softly to the camera. (6) He walks towards a manual ticket gate at a station and hands his ticket to a uniformed staff member for verification.",
-      "audio_narrative_log": "(1) Upbeat, high-energy electronic background music starts immediately along with a high-pitched, enthusiastic male voice speaking Mandarin. Background airport noise is present. (2) Music continues at a steady tempo; sound effects like a digital 'ding' and a 'shimmer' sound occur during the ticket demonstration. (3) The rhythmic sound of a train moving on tracks is heard briefly, followed by the muffled interior ambience of a train cabin. (4) Sound of a ticket gate beeping and station ambient chatter as the man exits.",
-      "text_narrative_log": "(1) \"教你怎麼樣從 成田機場\" (Hook: Teaching you how to from Narita Airport, Enthusiastic). (2) \"到東京市區 最快的方法\" (Hook: Fastest way to Tokyo city center, Informative). (3) \"選擇單程Skyliner購票\" (Functional: Select one-way Skyliner ticket, Neutral). (4) \"填寫資料\" (Functional: Fill in information, Neutral). (5) \"出站成功\" (Decorative: Successfully exited the station, Celebratory/Informative)."
     },
     "temporal_pacing_summary": {
-      "sceneCutCount": 18,
-      "averageSceneDuration": 2.1,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro -> Digital Ticket Demo -> Boarding Train -> Reaching Destination"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 6,
-      "maleDetectAmount": 4,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Face",
-        "Hands only",
-        "Back view"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 main male host, 1 male station staff, approximately 4 other passengers/passers-by in the background.",
-      "mainCharacterDescription": "Adult male wearing a black-and-white checkered flat cap, wire-rimmed glasses, a beige jacket over a black zip-up sweater, and a white t-shirt."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Airport",
-          "Indoor Train",
-          "Studio"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "Narita Airport terminal with signage, the interior of a modern Japanese express train, and the ticket gate area of a train station.",
-      "lightingStyle": "Bright artificial indoor lighting",
-      "weather": "Unknown",
-      "season": "Spring/Autumn",
+      "sceneCutCount": 14,
+      "averageSceneDuration": 2.65,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "Medium",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "POV",
-        "Static",
-        "Handheld"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "Train"
-      ],
-      "techDetect": [
-        "Smartphone",
-        "Tablet",
-        "Ticket Scanner"
-      ],
-      "landmark": [
-        "Narita Airport"
-      ],
-      "brandLogos": [
-        "Keisei Skyliner",
-        "JR Line"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 1,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "High-pitched, excited, and helpful",
-        "pitch": "Normal",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Beep",
-        "Meme sounds"
-      ],
-      "ambientNoise": [
-        "Airport chatter",
-        "Train station noise"
-      ],
-      "audioQuality": "Field"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Problem -> Digital Solution -> Real-world Validation",
-      "mainPurpose": "The video serves as a practical travel tutorial aimed at Chinese-speaking tourists visiting Tokyo. It highlights a specific, modern ticketing method (facial recognition/online booking) for the Keisei Skyliner to simplify the journey from Narita Airport to the city center, focusing on efficiency and ease of use.",
-      "visualEmotion": "Energetic and Optimistic"
+      "narrativeStructure": "Linear: Hook -> Practical Tutorial -> Demonstration -> Conclusion",
+      "mainPurpose": "To demonstrate and promote a new, efficient face-recognition ticketing method for the Skyliner airport express in Japan, providing a step-by-step guide for travelers.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
-      "isEndorsement": false,
+      "isEndorsement": true,
       "endorsementMethod": [
-        "None"
+        "Implicit",
+        "Integrated"
       ],
-      "endorsementCues": "While the video features the Keisei Skyliner, it is framed as a travel tip rather than a paid advertisement.",
+      "endorsementCues": "The video provides a detailed tutorial on a specific commercial service (Skyliner's face check system) and shows the successful use of the product.",
       "endorsementObject": [
-        "None"
+        "Skyliner",
+        "Keisei Electric Railway"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "3C Tim's characteristic flat cap and energetic tech-expert persona.",
-      "freeDescribe": "The video uses typical social media editing styles common in tech/travel vlogs, such as fast cuts and large descriptive text overlays to keep viewers engaged."
-    }
+    "freeDescribe": "A highly polished social media travel tutorial utilizing fast editing and clear graphics to simplify a technical process for tourists."
   }
 }

@@ -1,162 +1,264 @@
 {
   "videoName": "cocowine0205-20250216054206-1588216349111274.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 16.5,
-      "aspectRatio": "9:16",
+      "videoDuration": 16.7,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The scene opens in a brightly lit warehouse retail setting with tall shelves packed with yellow and blue packaging. Centered in the frame are multiple boxes filled with large 'Minions' themed gummy bags, each featuring bright yellow character graphics. A large corporate logo is overlaid at the top. (2) A person's hands reach into the frame and pull a large, heavy-looking bag of gummies from the shelf. The camera follows the movement as the bag is moved towards the camera. (3) A young woman with long dark hair, wearing a black top and a pearl necklace, appears as a large bag of gummies is playfully dropped or swung against her head/shoulder. She squinted her eyes and laughed, clutching the large bag tightly. (4) The woman poses with a joyful expression, holding the large bag against her chest and smiling directly at the camera while nodding slightly. (5) A close-up shot focuses on the clear window of the gummy bag, revealing dozens of smaller individual packets of gummies inside. (6) The camera shifts to the back of the packaging, showing a white label with fine text. A finger points specifically at the numerical value indicating the weight of the product.",
+      "text_narrative_log": "(1) [Logo]: COSTCO WHOLESALE. [Slogan]: 大包到受傷. [Subtitle]: 小小兵軟糖. (2) [Variety]: 啦啦啦啦啦 (with emojis). (3) [Subtitle]: 哦妹妹.. (4) [Subtitle]: 買兩包. (5) [Subtitle]: 送你兩包. (6) [Subtitle]: 兩包. (7) [Subtitle]: 超多袋的小軟糖. (8) [Subtitle]: 重量竟然有. [Variety]: 一公斤!!",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "One main female creator/host presenting the product.",
+        "mainCharacterDescription": "A young woman with long black hair, wearing a black square-neck top and a pearl necklace."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Supermarket / Warehouse Store"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A warehouse-style retail store (Costco) with high metal shelving units and stacked cardboard boxes of merchandise.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Panning"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Meme-style edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Snack / chips / candy"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Costco",
+          "Minions",
+          "Got Fruit"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Comedic/Exaggerated"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Plastic / Bag Rustle"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Impact / Hit SFX",
+          "Cartoon / Comedy SFX",
+          "Pop / Bubble SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a high-pitched, enthusiastic female voice speaking rapid Mandarin over a bouncy, upbeat synthesized BGM. The BGM features a steady electronic beat and playful, cartoonish synth lines. (2) A sharp 'whack' or 'thud' sound effect triggers as the bag hits the woman, followed immediately by high-pitched laughter from the speaker. (3) The speaker continues her energetic narration, her tone oscillating with excitement as she describes the product. Occasional 'pop' and 'ting' sound effects punctuate her sentences. (4) The rustle of plastic packaging is clearly heard as the bag is handled. The BGM remains consistent in tempo and volume, providing a bright, comedic atmosphere. (5) The speaker's voice reaches a peak of excitement (high arousal) when mentioning the weight of the bag, ending with a sharp, rising intonation."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
-        "Vlog",
-        "Shopping",
         "Product Showcase"
       ],
-      "withRealPeople": true,
       "location": {
         "country": [
-          "Taiwan"
+          "Unknown"
         ],
         "city": [
           "Unknown"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video starts with a shot of warehouse shelves stocked with large yellow and blue bags of Minions-themed gummy candy under a Costco logo overlay. (2) A woman with long dark hair, wearing a black top and a necklace, enters the frame and picks up one of the large bags. Suddenly, another bag is thrown at her from off-camera, hitting her in the head. (3) She reacts with a surprised expression and then smiles broadly, laughing while holding two large bags of candy against her chest. (4) The scene transitions to close-up shots of the individual small packets inside the large bag and a shot of the nutritional information label on the back, highlighting the '1kg' weight.",
-      "audio_narrative_log": "(1) Upbeat, high-pitched, and energetic background music starts immediately with rhythmic electronic beats. (2) A female voice begins speaking in an excited and fast-paced tone, narrating her discovery and reaction to the product. (3) Sound effects like a 'bonk' sound play when she is hit by the bag, followed by the sound of laughter and playful banter. (4) The music remains constant until the end, maintaining a fast and cheerful atmosphere.",
-      "text_narrative_log": "(1) 'COSTCO WHOLESALE' logo appears at the top. (2) '大包到受傷 小小兵軟糖' (So big it hurts, Minions gummy) - a humorous hook text in colorful font. (3) '哦妹妹' (Oh sister/little girl) - decorative text appearing during the interaction. (4) '買兩包 送你兩包' (Buy two, give you two) - promotional hook text. (5) '超多袋的小軟糖' (So many bags of small gummies) - functional description. (6) '重量竟然有 一公斤!' (The weight is actually one kilogram!) - emphatic text highlighting the product's size."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 8,
-      "averageSceneDuration": 2.06,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro -> Humorous Interaction -> Product Detail Showcase"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Face",
-        "Hands"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main female creator interacting with the product",
-      "mainCharacterDescription": "A young woman with long black hair, wearing a black V-neck top, a silver necklace, and a bright smile."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Warehouse Store",
-          "Indoor"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "Large warehouse shelving units packed with bulk food items, specifically Minion-branded gummy bags.",
-      "lightingStyle": "Bright indoor warehouse lighting",
-      "weather": "Indoor",
-      "season": "Unknown",
+      "sceneCutCount": 7,
+      "averageSceneDuration": 2.3,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "High Saturation",
-      "cameraWork": [
-        "Static",
-        "Handheld"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Gummy Candy"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "COSTCO",
-        "Minions",
-        "Got Fruit"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "High-pitched and excited",
-        "pitch": "High",
-        "loudness": "High",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat/Pop",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Bonk SFX",
-        "Cartoon sounds"
-      ],
-      "ambientNoise": [
-        "Store background hum"
-      ],
-      "audioQuality": "Field Recording"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Interaction -> Evidence",
-      "mainPurpose": "The video aims to enthusiastically recommend a bulk-sized Minion-themed gummy candy product available at Costco. It uses a humorous 'hook' (being hit by the large bag) to emphasize the product's substantial size and weight (1kg), followed by detailed shots of the packaging to prove the value for money.",
-      "visualEmotion": "Cheerful and Humorous"
+      "narrativeStructure": "List-based: Hook -> Interaction -> Product Details -> Summary",
+      "mainPurpose": "The video aims to promote a giant bag of Minions-themed gummy candy available at Costco. It uses physical comedy (the bag hitting the host) to emphasize the product's surprising weight and size, followed by a detailed look at the packaging and contents to demonstrate value.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -164,14 +266,12 @@
         "Implicit",
         "Integrated"
       ],
-      "endorsementCues": "Detailed showcase of product packaging, weight, and brand logo combined with a positive reaction.",
+      "endorsementCues": "Detailed showcase of product brand, specific retail location (Costco), and enthusiastic call to purchase/value proposition.",
       "endorsementObject": [
-        "Got Fruit Minions Gummy Mix"
+        "Costco",
+        "Minions Gummy Mix"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-density variety-show style text overlays and playful interaction with products.",
-      "freeDescribe": "Typical short-form social media retail recommendation content characterized by fast cuts and high energy."
-    }
+    "freeDescribe": "A typical social media shopping vlog style with high energy and bright visuals designed to trigger impulse interest in a retail 'find'."
   }
 }

@@ -1,156 +1,251 @@
 {
   "videoName": "0_shufen-20250830020541-1422213052618873.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 15,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Humor",
-        "Vlog"
-      ],
+      "videoDuration": 15.01,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A young woman with dark hair tied in a high ponytail is centered in the frame. She is wearing a black zippered sports hoodie over a light blue athletic top. The setting appears to be a brightly lit indoor bedroom or living room with a white wall and a fan visible in the background. She smiles at the camera, raises her right index finger to indicate 'one', and then proceeds to slightly pull down the zipper of her hoodie, revealing more of the light blue top beneath. (2) The scene cuts to the same woman, but her appearance has significantly changed. She looks tired and disheveled with messy hair falling over her shoulders. She is wrapped in a pink and beige floral patterned robe. Looking weary, she raises two fingers to the camera, signaling 'two'. The lighting remains bright, but her facial expression is one of exhaustion and struggle. (3) In the next phase, the woman is seen wearing a shiny white satin jacket. Her hair is still somewhat messy, and she continues to look tired and drained. She makes an 'OK' sign with her right hand toward the camera, which in this context represents the number 'three'. The background remains consistent with the previous indoor setting, showing a domestic environment. (4) The video loops back or resets to the woman in her original energetic state. She is wearing the black zippered hoodie again, her hair is neatly tied back, and she smiles vibrantly at the camera. She raises one finger again and repeats the action of unzipping her hoodie while leaning toward the camera with a playful and cheerful expression, indicating a reset in her progress.",
+      "text_narrative_log": "(1) [Subtitle]: 戒色第一天. (2) [Subtitle]: 戒色第二天. (3) [Subtitle]: 戒色第三天. (4) [Subtitle]: 戒色第一天.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main female creator is present throughout the video in various states.",
+        "mainCharacterDescription": "A young woman with long dark hair, wearing a black sports hoodie and a light blue top, later seen in a floral robe and a white jacket."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A typical indoor room with a plain white wall, a door on the left, and a white electric floor fan on the right.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Selfie handheld"
+        ],
+        "shotSize": [
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Simplified Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Calm"
+        ],
+        "vocalLanguage": [
+          "Simplified Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 6,
+        "valence": 5,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Clothing / Fabric Rustle"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 3,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 2,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) A female voice speaks with high energy and a bright tone, clearly saying 'Jie se di yi tian' (Day 1 of abstinence). The speech rate is moderate, and the voice quality is clean with no background music. (2) The voice changes significantly, becoming much softer, lower in pitch, and sounding noticeably tired and weary as she says 'Jie se di er tian' (Day 2 of abstinence). (3) The female voice continues in a low-energy, fatigued state, repeating the pattern with 'Jie se di san tian' (Day 3 of abstinence). There is a slight pause and a hint of a sigh in the delivery. (4) A distinctive rustling sound, like a zipper being pulled quickly, occurs. (5) The female voice suddenly returns to the original high-pitched, enthusiastic, and cheerful tone, loudly proclaiming 'Jie se di yi tian' again, signaling a comedic reset."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy"
+      ],
       "location": {
         "country": [
           "China"
         ],
         "city": [
-          "Unknown"
+          "None"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman with a ponytail, wearing a black zip-up jacket over a blue sports top, looks confidently at the camera and holds up one finger. (2) She appears wrapped in a cartoon-patterned blanket, looking visibly exhausted and sickly with dark circles under her eyes, holding up two fingers. (3) She is wearing a shiny white jacket, looking even more drained and pale, holding up three fingers in a weak 'OK' sign. (4) The scene cuts back to her in the original black jacket, looking refreshed and energized; she holds up one finger, smiles, and begins to unzip her jacket while lunging toward the camera.",
-      "audio_narrative_log": "(1) An upbeat Chinese pop song with a steady electronic beat plays. A young female voice says 'Jiè sè dì yī tiān' (Day 1 of abstinence) in a clear, healthy tone. (2) The music continues as the same female voice says 'Jiè sè dì èr tiān' (Day 2), sounding noticeably more fatigued and breathless. (3) The voice says 'Jiè sè dì sān tiān' (Day 3), sounding extremely weak, thin, and hoarse. (4) The music remains upbeat as the voice returns to an energetic and loud tone, saying 'Jiè sè dì yī tiān' (Day 1) again.",
-      "text_narrative_log": "(1) '戒色第一天' (Day 1 of abstinence) appears at the bottom center in white text. (2) '戒色第二天' (Day 2 of abstinence) appears in the same style. (3) '戒色第三天' (Day 3 of abstinence) appears. (4) '戒色第一天' (Day 1 of abstinence) reappears, serving as a humorous punchline indicating a reset."
     },
     "temporal_pacing_summary": {
       "sceneCutCount": 3,
       "averageSceneDuration": 3.75,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro -> Temporal progression of decline -> Humorous reset to starting state."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Waist up",
-        "Face"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main female creator appearing in all scenes.",
-      "mainCharacterDescription": "A young woman with long dark hair in a ponytail, wearing heavy makeup including red lipstick and false eyelashes."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Bedroom"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A simple indoor room with a plain wall, a doorway, and a fan visible in the background.",
-      "lightingStyle": "Standard indoor lighting, slightly brightened in post-processing.",
-      "weather": "None",
-      "season": "Unknown",
       "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "Low",
-        "language": [
-          "Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Varies from energetic to extremely weak and back to energetic.",
-        "pitch": "Medium-high",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Occasional narration",
-        "language": [
-          "Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop",
-      "bgmBPM": 120,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Electronic Drum"
-      ],
-      "musicSourceType": [
-        "Copyrighted Song"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Circular: Hook -> Progression -> Reset",
-      "mainPurpose": "The video is a humorous skit parodying the concept of 'abstinence' (likely suggestive in context). It uses a fast-forward narrative to show the protagonist's exaggerated physical decline over three days of trying to abstain, only to hilariously fail and reset to 'Day 1' with renewed vigor, suggesting her inability to maintain the resolution.",
-      "visualEmotion": "Humorous"
+      "narrativeStructure": "Circular: Hook -> Deterioration -> Failure/Reset",
+      "mainPurpose": "The video uses a humorous before-and-after trope to depict the difficulty of 'abstinence' (戒色). It shows the creator's rapid decline in energy and appearance over three days, culminating in a comedic failure where she immediately gives up and returns to Day 1, appealing to viewers through relatable comedic struggle.",
+      "visualEmotion": [
+        "humorous",
+        "energetic"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -162,9 +257,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Usage of the 'Abstinence' (戒色) challenge meme.",
-      "freeDescribe": "The video relies heavily on the contrast between the character's appearance in the different 'days' to create a comedic effect."
-    }
+    "freeDescribe": "The video relies heavily on the visual contrast between the creator's 'Day 1' glamour and her 'Day 2/3' exhaustion to deliver its comedic punchline."
   }
 }

@@ -1,178 +1,279 @@
 {
   "videoName": "yga0721-20250822234919-1441649583984325.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 64,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Podcast",
-        "Comedy",
-        "Talk Show"
-      ],
+      "videoDuration": 65,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) The scene opens in a studio setting filled with collectible toys and posters. A man in a bright red 'HARVARD' t-shirt and white headphones sits in a red leather chair, speaking into a black studio microphone. He gestures actively with his right hand as he discusses a video he saw. (2) The camera cuts to a different angle showing another individual sitting on a brown couch. This person is wearing a large, comical orange and blue mask with a mustache. They have a cat-patterned cushion on their lap and are sitting in a relaxed posture. (3) The perspective shifts to a woman sitting at a round wooden table. She wears a white sweatshirt with 'INS' text and is holding a smartphone, seemingly checking social media. A large plush toy sits beside her. (4) The visual rhythm accelerates with frequent cuts between the three participants as they engage in a lively, humorous debate. The man in the red shirt laughs heartily, leaning back in his chair. (5) The video concludes with a stylized graphic overlay containing text and a smaller image of the masked individual, serving as a call to action for the viewer to watch the full version on a different channel.",
+      "text_narrative_log": "(1) [Subtitle]: 之前有一部是說. (2) [Subtitle]: 在路邊遇到一個路人. (3) [Subtitle]: 剛好是大阪最帥的男公關. (4) [Subtitle]: 那我要去搜尋一下. (5) [Subtitle]: 有夠帥欸. (6) [Subtitle]: 我有追他IG. (7) [Subtitle]: 有沒有各大老闆. (8) [Subtitle]: 一些男模會館. (9) [Subtitle]: 想要介紹的這樣嗎. (10) [Subtitle]: 欸別要亂講. (11) [Subtitle]: 我們裡面很多男公關. (12) [Subtitle]: 都很讚的. (13) [Subtitle]: 好期待哦. (14) [Subtitle]: 不輸日本不輸韓國的. (15) [Subtitle]: 也有猛男秀的. (16) [Subtitle]: 來歡迎來合作一下. (17) [Subtitle]: 那Taco亞妮要先去場刊. (18) [Subtitle]: 亞妮不吃這個. (19) [Subtitle]: Taco也是阿彌陀佛. (20) [Subtitle]: 我覺得亞妮的男朋友. (21) [Subtitle]: 也算頂的. (22) [Subtitle]: 對啊. (23) [Subtitle]: 人家是職業頂的. (24) [Subtitle]: 講什麼話. (25) [Subtitle]: 不就二伯吃不飽. (26) [Subtitle]: 我聽出你的話中之話. (27) [Subtitle]: 那是你吃不飽. (28) [Subtitle]: 他是職業運動員. (29) [Subtitle]: 亞妮頂的所以她不需要去. (30) [Subtitle]: 所以二伯的不是頂的. (31) [Subtitle]: 我先推我老婆去場刊. (32) [Subtitle]: 那至少+0要去. (33) [Slogan]: 完整影片請上蔡阿嘎543頻道收看.",
+      "visual_human_presence": {
+        "totalHumanCount": 3,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 3,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main host in red shirt, 1 masked guest, 1 female guest.",
+        "mainCharacterDescription": "Main host wears a red Harvard University t-shirt and white over-ear headphones. The female guest wears a white oversized sweatshirt."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A multi-set studio featuring a wall of collectible figures (Bearbricks, Dragon Ball characters), a wooden table, and a brown sofa area with decorative curtains.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Reaction shot"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multi-camera / cutaway"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Plush / decoration / toy animal"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Microphone / lavalier mic",
+          "Headphones / earbuds"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "HARVARD"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 3,
+        "total_distinct_voices": 3,
+        "male_vocal_count": 2,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Humorous",
+          "Animated/Excited",
+          "Casual"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Lo-fi",
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 95,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter"
+        ],
+        "crowdNoiseIntensity": 3,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Pop / Bubble SFX",
+          "Meme SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Stingers"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a male voice speaking at a moderate conversational pace with a bright, enthusiastic tone. A light, upbeat lo-fi percussion and synth bassline loop quietly in the background. (2) A sharp 'whoosh' transition SFX marks a change in speaker. A second male voice responds with a deeper pitch and a slight comedic drawl. (3) A female voice enters the conversation, laughing loudly, creating a peak in acoustic arousal. The BGM remains steady. (4) The group breaks into synchronous laughter, and a stylized 'bubble pop' SFX is heard. The speech rate increases as the speakers begin to talk over each other playfully. (5) The track ends with a final swell in the BGM and a sudden hard cut to silence as the call to action appears."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Personal Talk",
+        "Comedy",
+        "Meme / Trend"
+      ],
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "Unknown"
+          "None"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A man wearing a red Harvard t-shirt and white headphones sits in a red leather armchair, speaking into a black microphone. Behind him is a shelf filled with various collectible toys and figures. (2) The scene cuts to a person wearing a large, comical orange mask with a black mustache sitting on a brown sofa, also with a microphone. (3) Another cut shows a young woman in a white sweatshirt sitting on a light-colored sofa, holding a smartphone and laughing. (4) The video continues to switch between these three individuals as they engage in an energetic conversation. (5) Yellow laughing face emojis appear on the screen during moments of high hilarity. (6) The final shot shows a promotional screen with a small thumbnail of the masked individual and text instructions.",
-      "audio_narrative_log": "(1) Fast-paced male vocals begin immediately, speaking in Taiwanese Mandarin with a humorous and excited tone. An upbeat, rhythmic electronic BGM plays at a steady volume in the background. (2) Laughter from multiple individuals is heard, including a clear female voice and a second male voice with a slightly muffled quality. (3) Sound effects of canned laughter are occasionally added to emphasize jokes. (4) The BGM continues throughout the dialogue, maintaining a high-energy atmosphere until the video ends.",
-      "text_narrative_log": "(1) Functional subtitles in Traditional Chinese appear at the bottom of the screen, providing a literal transcription of the spoken dialogue. (2) Decorative laughing face emojis (😂) are used frequently to highlight funny moments. (3) At the very end, functional text appears: '完整影片請上 蔡阿嘎543頻道收看', directing viewers to a specific channel."
     },
     "temporal_pacing_summary": {
       "sceneCutCount": 18,
-      "averageSceneDuration": 3.5,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Constant talking with frequent reaction cuts and laughter."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 3,
-      "maleDetectAmount": 2,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 3,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands",
-        "Face"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 man in red shirt, 1 masked individual, 1 woman in white hoodie.",
-      "mainCharacterDescription": "The main speaker is a man in his 30s with short brown hair, wearing a red t-shirt with 'HARVARD' printed on it. The second character wears a distinct orange mask. The third is a young woman in a casual white hoodie."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Studio",
-          "Indoor"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A home-studio setup with a shelf of collectibles, a brick-patterned wall, and comfortable sofas with decorative pillows.",
-      "lightingStyle": "Bright studio lighting",
-      "weather": "Unknown",
-      "season": "Unknown",
+      "averageSceneDuration": 3.6,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese",
-          "Emoji"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Warm and Vibrant",
-      "cameraWork": [
-        "Static",
-        "Cut-away"
-      ]
+      "isNarrativeShift": false
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Microphone",
-        "Headphones",
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Harvard",
-        "Be@rbrick"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 3,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 2,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Humorous and energetic",
-        "pitch": "Moderate to High",
-        "loudness": "High",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Traditional Chinese",
-          "Taiwanese Hokkien"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic Pop",
-      "bgmBPM": 110,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Canned Laughter"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Dialogue Hook -> Humorous Banter -> Collective Laughter -> Channel CTA",
-      "mainPurpose": "This is a highlight reel from a podcast or talk show intended to entertain and drive traffic to the 'Tsai Aga 543' YouTube channel. The content focuses on a funny anecdote regarding social interactions, using rapid editing and visual effects to maintain viewer engagement.",
-      "visualEmotion": "Energetic and Humorous"
+      "narrativeStructure": "List-based: Hook -> Anecdote -> Banter -> CTA",
+      "mainPurpose": "To entertain the audience with a humorous discussion about male hosts and personal relationships, while cross-promoting the creator's main YouTube channel through a highlights-style snippet.",
+      "visualEmotion": [
+        "humorous",
+        "energetic",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
-      "isEndorsement": false,
+      "isEndorsement": true,
       "endorsementMethod": [
-        "None"
+        "Explicit",
+        "Full"
       ],
-      "endorsementCues": "None",
+      "endorsementCues": "The video ends with a clear call to action to watch the full video on a specific YouTube channel.",
       "endorsementObject": [
-        "None"
+        "蔡阿嘎543"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Signature orange mask used by the crew; use of high-pitched energetic commentary style characteristic of the creator.",
-      "freeDescribe": "The video utilizes classic Taiwanese internet variety show editing styles, including oversized emojis and rhythmic cuts to laughter."
-    }
+    "freeDescribe": "This is a typical podcast-style highlight clip designed for short-form video platforms to drive traffic to a longer-form video on YouTube."
   }
 }

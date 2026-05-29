@@ -1,159 +1,266 @@
 {
   "videoName": "2uncle987-20250619020821-1192028069754942.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 16,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Fashion",
-        "Vlog",
-        "Comedy"
-      ],
+      "videoDuration": 16.0,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A young woman with long dark hair stands in a brightly lit indoor room with wooden floors. She is wearing a black dress and waves energetically at the camera with a wide smile. The camera is positioned at a slightly high angle. (2) The scene cuts rapidly to the woman wearing a horizontal striped shirt and a green corduroy skirt with small floral patterns. She wears a black beanie and makes a 'rock on' hand gesture. (3) She appears in a light blue sleeveless overall dress with white-rimmed sunglasses on her head. She poses with her hands in her pockets, looking sideways. (4) Back to the black dress, she smiles and pulls at the lapels of her outfit. (5) She is seen in a white sailor-collared top, denim jeans, and a straw hat, laughing heartily while holding the hat. (6) She wears a blue and white pinstriped button-down shirt, adjusting the button at her cuff while smiling. (7) She returns to the striped shirt and beanie, holding her fingers together in a 'heart' gesture. (8) She wears a light blue corduroy shirt and matching pants, posing with her hands on her hips. (9) She appears in a black vest and skirt set with a black beret and red socks, waving both hands and looking playful. (10) A black screen appears with the white text 'To Be Continued...'. (11) The reflection in a large mirror shows the woman in the black dress again, but her posture is slumped. She leans against a white wall in a messy room filled with hanging clothes, looking exhausted. Text appears on the screen.",
+      "text_narrative_log": "(1) [Variety]: To Be Continued... (2) [Slogan]: 9秒的影片...拍了1小時",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main female creator appearing in various outfits throughout the video.",
+        "mainCharacterDescription": "A young woman with long dark hair, wearing several distinct outfits including a black dress, a striped shirt with a green skirt and beanie, a blue overall dress, a sailor top with jeans, and a blue corduroy set."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home",
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A modern indoor setting with light-colored wooden floors, light wood wall paneling or cabinetry, and a white table. The final scene shows a more cluttered interior reflecting a dressing room or bedroom with clothes racks and a large mirror.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium full shot",
+          "Medium shot",
+          "Full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "High angle"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Fast cuts",
+          "Montage"
+        ],
+        "visualRhythm": [
+          "Fast pace",
+          "Rhythm matched to music"
+        ],
+        "takeStructure": [
+          "Multiple shots",
+          "Compilation / montage sequence"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "English",
+          "Traditional Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 5,
+        "pitchVariability": 1,
+        "intensityAndLoudness": 5,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": true,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "Level"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 9,
+        "valence": 2,
+        "dominance": 1,
+        "hasVocalTension": true
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Hip-Hop/Trap"
+        ],
+        "tempoBPM": 95,
+        "mode": [
+          "Minor / Aeolian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 1,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "English"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Percussion",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Drum Kit / Drum Set",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Mechanical Click / Latch"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Impact / Hit SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 1,
+        "musicToSpeechLoudRatio": 4,
+        "musicDuration": 4,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": true,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) Rhythmic hip-hop music starts with a prominent beat. A sharp 'camera shutter' sound effect occurs repeatedly, perfectly synchronized with rhythmic intervals. A male vocal is heard singing the song lyrics in a steady flow. (2) The musical pattern continues with the beat and the periodic shutter clicks. There are no other incidental noises heard during this high-energy musical section. (3) The music abruptly stops, leading into a moment of studio silence and faint ambient room tone. (4) A loud, piercing, and sustained high-pitched female scream begins. It sounds strained and intense, lasting for approximately four seconds before the audio ends. This sound is isolated with no background music."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Fashion / Beauty",
+        "Comedy",
+        "Short Video"
+      ],
       "location": {
         "country": [
-          "None"
+          "Taiwan"
         ],
         "city": [
           "None"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman stands in a modern indoor room with light wood flooring, waving at the camera and smiling broadly. (2) Through a series of fast-paced cuts, she rapidly transitions through multiple outfits: a black short-sleeved dress, a striped t-shirt with a green skirt and black beret, a light blue denim jumper with white platform sandals, a white puff-sleeve top with jeans and a straw hat, and a blue button-down shirt. She poses playfully, touching her hair, putting hands in pockets, or holding her collar in each shot. (3) A black screen appears with white text. (4) The camera view shifts to a shot through a glass window or door, looking into a messy room filled with piles of clothing on the floor; the woman stands there looking physically exhausted, rubbing her head and leaning against the wall.",
-      "audio_narrative_log": "(1) Upbeat, medium-tempo hip-hop music featuring a heavy bass beat and rhythmic rapping begins immediately. No speaking vocals from the subject are detected. (2) The music continues through the fashion transition sequence, syncing with the cuts. (3) The music stops abruptly, replaced by a sudden silence for a brief second. (4) A loud, continuous, high-pitched operatic female scream or wailing sound effect plays at a high volume until the video ends.",
-      "text_narrative_log": "(1) 'To Be Continued...' appears in a pixelated white font on a black background, serving as a narrative hook and transition. (2) '9秒的影片...拍了3小時' appears in a handwritten-style white font over the final scene, providing a humorous and exhausted tone about the effort behind the video."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 11,
+      "sceneCutCount": 10,
       "averageSceneDuration": 1.45,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Fast-paced fashion montage -> Dramatic transition -> Slow-paced reality reveal"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Waist up"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main female creator performing outfit changes.",
-      "mainCharacterDescription": "A young woman with long dark hair, wearing various casual and trendy outfits including a black dress, a beret, and denim."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Room",
-          "Studio"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A clean interior with light wood floors and a white table/desk, which later reveals a messy state with clothes strewn everywhere.",
-      "lightingStyle": "Bright studio lighting transitioning to natural light through a glass partition.",
-      "weather": "None",
-      "season": "None",
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "Low",
-        "language": [
-          "English",
-          "Chinese"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Handheld"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Prada"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Fragmented",
-      "audioTransition": "Hard cut between BGM and SFX",
-      "vocalRatio": "Low"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 0,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "None",
-        "pitch": "None",
-        "loudness": "None",
-        "speed": "None",
-        "speechDensity": "None",
-        "language": [
-          "None"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Hip-hop",
-      "bgmBPM": 95,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Copyrighted Song"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Operatic Scream"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage -> Shift -> Reveal",
-      "mainPurpose": "To humorously illustrate the discrepancy between the glamorous, effortless-looking result of a short fashion video and the long, exhausting labor required behind the scenes to produce it.",
-      "visualEmotion": "Energetic and cheerful transitioning to exhausted and dramatic."
+      "narrativeStructure": "Linear: Montage -> Behind-the-scenes Reality",
+      "mainPurpose": "The video starts as a high-energy fashion transition montage, showcasing various outfits with synchronized camera shutter sounds to imply a professional photo or video shoot. However, the final scene shifts the narrative to show the exhausted reality of the creator, revealing that a 9-second clip took an hour to produce. The purpose is to use humor to highlight the effort behind 'effortless' social media content.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "tired"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -165,9 +272,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Expectation vs Reality trope",
-      "freeDescribe": "The use of the high-pitched scream SFX at the end is a common comedic trope in short-form video to emphasize mental or physical breakdown."
-    }
+    "freeDescribe": "The contrast between the polished front-end montage and the messy behind-the-scenes reality creates a relatable comedic effect for viewers."
   }
 }

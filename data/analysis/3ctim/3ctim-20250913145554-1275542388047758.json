@@ -1,14 +1,240 @@
 {
   "videoName": "3ctim-20250913145554-1275542388047758.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 46,
-      "aspectRatio": "9:16",
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The video begins with a close-up comparison of two silver-colored smartphones held vertically side-by-side, emphasizing their extremely slim profiles. A man's hand with clear fingernails grips the left phone. The background is a brightly lit, blurred event hall with circular overhead lights and people in the distance. (2) A transition reveals the back of a light blue smartphone, labeled as Sky Blue. The phone features a single large camera lens in the upper left corner and a centered Apple logo. The surface is matte, reflecting the overhead studio lights. A hand rotates the phone slightly. (3) The focus shifts to a white smartphone, referred to as Cloud White. The camera pans along its polished, mirror-like titanium side frame, showing volume buttons and a mute toggle. The background remains a bustling indoor venue with blurred figures and soft white lighting. (4) The scene cuts to a pale gold smartphone. The camera zooms in on the bottom half of the phone's side, showing its ultra-thin 5.6mm chassis. A finger points toward the side of the device. The lighting is warm and even. (5) The final segment showcases the Space Black model. The camera captures the dark matte finish of the back and then transitions to the front, showing a 6.5-inch screen with active UI icons. The shot concludes with a side view of the black device held against the backdrop of the crowded event space.",
+      "text_narrative_log": "(1) [Logo]: f 3c有意思tim哥. [Logo]: 3ctim. [Slogan]: iPhone Air全色系上手!. (2) [Variety]: 天藍色. (3) [Variety]: 雲白色. [Slogan]: 鈦金屬 亮面邊框. (4) [Variety]: 淺金色. [Slogan]: 機身5.6mm. (5) [Variety]: 太空黑色. [Slogan]: 螢幕是6.5吋大小. [Slogan]: 薄度5.6mm.",
+      "visual_human_presence": {
+        "totalHumanCount": 8,
+        "maleDetectAmount": 5,
+        "femaleDetectAmount": 3,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Face",
+          "Upper body",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main narrator hands and partial face visible in reflections/background, at least 7 distinct people in the blurred background.",
+        "mainCharacterDescription": "Adult male wearing a white t-shirt and an orange wristband, holding various smartphones."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Event Venue / Convention Hall"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A modern, bright indoor event space with high ceilings, many circular bokeh lights, and several people walking around in the distance.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Panning",
+          "Static",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Close-up",
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Side view"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Fast cuts"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Apple"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 125,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Chatter",
+          "Crowd Murmur"
+        ],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX"
+        ],
+        "soundEffectsIntensity": 2,
+        "soundEffectsCoverage": 1
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) A male narrator begins with a high-arousal, energetic greeting, introducing the iPhone Air. The background features an upbeat, mid-tempo electronic BGM with a steady synthesized beat. Faint indoor crowd chatter is audible as a low-level acoustic floor. (2) The narrator's speech rate remains fast as he describes the Sky Blue color. The BGM remains constant with bright, high-spectral textures. A subtle 'whoosh' sound effect marks a transition. (3) The vocal delivery becomes slightly more focused as technical details like 'Titanium frame' are mentioned. The music continues to provide a consistent rhythmic drive. The crowd noise remains stable in the background. (4) The pitch of the voice rises slightly when discussing the device's extreme thinness. The electronic synth layers of the music swell slightly in volume. No significant noise artifacts are present. (5) The final phase concludes with a quick wrap-up of the screen size and black color. The narrator's tone remains cheerful and positive until the audio ends abruptly with the music tail."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
         "Tech Review",
-        "Vlog"
+        "Product Showcase"
       ],
-      "withRealPeople": true,
       "location": {
         "country": [
           "Unknown"
@@ -18,161 +244,33 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video is a live-action hands-on review. It starts with a side-profile view of an extremely thin silver smartphone held by a hand. (2) The hand rotates the device to reveal the back, showing a single large camera lens and a reflective logo. The scene shifts through four different color versions: Sky Blue, Cloud White, Pale Gold, and Space Black. Each is shown from various angles, focusing on the camera module, the buttons on the side, and the overall thinness. (3) The camera zooms in on the 'Space Black' version, showing its dual-lens configuration and glossy finish near the lens area. The phone is then turned to show the screen displaying a wallpaper with layered curves.",
-      "audio_narrative_log": "(1) Upbeat, mid-tempo electronic music begins immediately. A male voice speaks enthusiastically in Mandarin, introducing the 'iPhone Air' and its four colors. (2) As the visuals transition between phone colors, the narration continues, describing the metallic finish and physical dimensions. The sound of a busy environment with distant muffled chatter and camera shutters is audible in the background. (3) The narrator's voice remains dominant and clear as he summarizes the screen size and thickness measurements towards the end of the clip.",
-      "text_narrative_log": "(1) Top-left corner persistent text: 'f 3c有意思tim哥' and '@3ctim'. (2) Functional subtitles appear at the bottom: '這次一共由四款顏色' (This time there are four colors in total), '天藍色' (Sky Blue), '雲白色' (Cloud White), '淺金色' (Pale Gold), '太空黑色' (Space Black). (3) Decorative/Hook text: 'iPhone Air 全色系上手!' (iPhone Air All Colors Hands-on!), '鈦金屬 亮面邊框' (Titanium glossy frame), '機身 5.6mm' (Body 5.6mm), '螢幕是 6.5 吋大小' (Screen is 6.5 inches)."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 18,
-      "averageSceneDuration": 2.5,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro -> Multi-color Product Showcase -> Specification Summary"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 12,
-      "maleDetectAmount": 8,
-      "femaleDetectAmount": 4,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Hands only",
-        "Full body",
-        "Partial face in reflection"
-      ],
-      "crowdLevel": "Crowd",
-      "countingEvidence": "1 main reviewer (hands and reflection), approximately 11 other people visible in the background at the event venue.",
-      "mainCharacterDescription": "The main character (reviewer) is wearing a white collared shirt and an orange watch band; primarily their hands are shown holding the device."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Studio",
-          "Event Space"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A bright, modern indoor event space with high ceilings, circular recessed lights, and many people holding cameras and phones.",
-      "lightingStyle": "Intense studio lights",
-      "weather": "None",
-      "season": "None",
+      "sceneCutCount": 12,
+      "averageSceneDuration": 3.8,
       "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "High Saturation, Cinematic",
-      "cameraWork": [
-        "POV",
-        "Close-up",
-        "Handheld"
-      ]
+      "isNarrativeShift": false
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone",
-        "Camera",
-        "Microphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Apple"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 0,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 1,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Steady and professional",
-        "pitch": "Medium",
-        "loudness": "High",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic",
-      "bgmBPM": 120,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Crowd",
-        "Studio quiet"
-      ],
-      "audioQuality": "Field"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Product Feature Carousel -> Specification Outro",
-      "mainPurpose": "The video serves as a product demonstration and review for a new (or concept) smartphone model dubbed the 'iPhone Air'. It aims to highlight the device's aesthetic appeal through various color options and its key physical selling point: extreme thinness (5.6mm). It functions to build hype and inform tech-savvy viewers of the new design direction.",
-      "visualEmotion": "Energetic"
+      "narrativeStructure": "List-based: Introduction -> Color Showcase -> Technical Highlights -> Closing",
+      "mainPurpose": "To showcase the physical design, color options, and extreme thinness of the new iPhone Air models through a hands-on tech review format, aimed at enthusiasts and potential buyers.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "bright"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
         "Explicit",
-        "Full"
+        "Integrated"
       ],
-      "endorsementCues": "The creator focuses exclusively on the product, providing detailed specs and naming the brand and model repeatedly.",
+      "endorsementCues": "Detailed product showcase and review by a known tech influencer.",
       "endorsementObject": [
         "iPhone Air",
         "Apple"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Mandarin narration by 'Tim哥', a well-known tech influencer, with specific graphic overlays and social media handles.",
-      "freeDescribe": "The video uses beat-synced editing where cuts between different phone colors align with the music. The 'iPhone Air' name suggests this is either a conceptual piece or early access to a new product line, which increases its virality potential within tech communities."
-    }
+    "freeDescribe": "The video focuses heavily on visual aesthetics and hardware specifications, using high-density text overlays to reinforce spoken information."
   }
 }

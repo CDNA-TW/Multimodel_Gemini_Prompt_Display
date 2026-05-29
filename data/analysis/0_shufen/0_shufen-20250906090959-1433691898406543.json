@@ -1,171 +1,263 @@
 {
   "videoName": "0_shufen-20250906090959-1433691898406543.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 12,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Storytelling",
-        "Comedy"
-      ],
+      "videoDuration": 12.0,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
+      "visual_narrative_log": "(1) A young woman with long, dark, wavy hair is captured in a selfie-perspective medium close-up shot. She is wearing a dark, sleeveless dress with an intricate gold baroque pattern and a white butterfly-shaped accessory at the neckline. The setting is a simple indoor room with a plain, light-colored wall and an air conditioner visible in the background. (2) She speaks directly to the camera, her facial expressions shifting to reflect her narrative. The lighting is bright and soft, focusing on her facial features and slight head movements as she talks. No other people or significant objects enter the frame. She appears focused on the delivery of her speech. (3) Her expression turns to a look of confusion or mock disbelief as she completes her story. To emphasize her reaction, three yellow question marks appear as a graphic overlay next to her head. The lighting remains consistent as she holds this expression for a brief moment to sell the joke. (4) The screen abruptly cuts to black for the final second of the video, punctuating the end of the short storytelling sequence. This creates a sharp visual transition that aligns with the sudden appearance of the comedic sound effect heard in the audio track.",
+      "text_narrative_log": "(1) [Subtitle]: 今天去相親. (2) [Subtitle]: 那個相親對象. (3) [Subtitle]: 難聊喔！. (4) [Subtitle]: 我就很婉轉. (5) [Subtitle]: 跟他說. (6) [Subtitle]: 可能我有代溝吧. (7) [Subtitle]: 我不太聽得懂. (8) [Subtitle]: 你在供三小. (9) [Subtitle]: 確實 很深. [Variety]: ???.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Face",
+          "Head and shoulders",
+          "Upper body"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main female creator in a selfie-style recording.",
+        "mainCharacterDescription": "A young woman with long dark wavy hair, wearing a dark patterned dress with a white butterfly pin."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home"
+        ],
+        "locationTopography": [
           "None"
         ],
-        "city": [
-          "None"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video starts with a young woman with long dark hair, wearing a patterned qipao-style halter top, lying down and speaking directly to the camera with a subtle smile. (2) She continues to talk, maintaining her posture while her facial expressions change slightly as she recounts a conversation. (3) At the end, she gives a slightly confused and incredulous look towards the camera as decorative text appears, followed by a cut to a black screen.",
-      "audio_narrative_log": "(1) A soft, mid-tempo lo-fi background track begins. A young woman speaks in Mandarin with a clear, expressive, and storytelling tone. (2) The woman's voice remains the dominant sound throughout the middle of the video with consistent volume. (3) After the speech finishes, a sudden, loud, and high-pitched male laughter sound effect (a common internet meme sound) plays briefly as the audio and video cut to silence.",
-      "text_narrative_log": "(1) Functional Text: \"今天去 相親\" (Went on a blind date today) - Narrative tone. (2) Functional Text: \"那個相親對象 好難聊喔!\" (That blind date partner was so hard to talk to!) - Expressive tone. (3) Functional Text: \"我就很婉轉的跟他說\" (I very tactfully told him) - Descriptive tone. (4) Functional Text: \"可能我有代溝吧 我不太聽得懂 你在供三小\" (Maybe I have a generation gap, I don't really understand what you're talking about) - Direct and blunt tone. (5) Functional Text: \"他就說 確實 很深\" (He said, 'Indeed, it's very deep') - Re-quoting tone. (6) Decorative/Effect Text: \"???\" - Confused and questioning tone."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 1,
-      "averageSceneDuration": 11.0,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro -> Anecdote Telling -> Punchline/Reaction"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Face",
-        "Shoulders",
-        "Upper Body"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main female character appearing on screen throughout the video.",
-      "mainCharacterDescription": "Young Asian woman with long, wavy dark hair, wearing a dark blue and gold patterned halter-neck qipao-style top with a butterfly-shaped buckle."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Bedroom"
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A plain white wall with an air conditioning unit visible in the top left corner.",
+        "lightingStyle": [
+          "Bright indoor lighting"
         ],
-        "topography": [
-          "None"
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
         ]
       },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A simple indoor setting, likely a bedroom, with a light-colored wall and what appears to be a bed headboard or pillow.",
-      "lightingStyle": "Soft, natural-looking indoor light.",
-      "weather": "None",
-      "season": "None",
-      "editingPace": "Moderate",
-      "textOverlay": {
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Selfie handheld"
+        ],
+        "shotSize": [
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Rhythm matched to speech"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
         "density": "Medium",
-        "language": [
+        "textLanguage": [
           "Traditional Chinese"
         ],
         "isSubtitled": true
       },
-      "colorTone": "Warm, natural",
-      "cameraWork": [
-        "Static"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Casual, storytelling, humorous",
-        "pitch": "Normal",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Traditional Chinese"
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Lo-fi",
-      "bgmBPM": 85,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Keyboard"
-      ],
-      "instrumentsAudible": [
-        "Electric Piano",
-        "Synth"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "Laughter SFX"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Field"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Humorous"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 6,
+        "valence": 7,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Meme SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 1
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 5,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 1,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A clear female voice begins speaking in a natural, conversational tone. The speech rate is moderate, and the pitch is slightly high but pleasant. There is no background music or significant ambient noise, indicating a quiet indoor recording environment with very high signal-to-noise ratio. The voice is well-projected and exhibits clear articulation. (2) As the narration continues, the speaker's tone remains consistent, with expressive inflections that suggest she is sharing a humorous anecdote. The vocal quality is smooth and without noticeable strain or roughness. There are no competing sound effects or background textures during this linear speech section, keeping the focus entirely on her voice. (3) A sudden, high-intensity sound effect of a distorted, loud laugh or shout triggers a new phase. This is a common social media meme sound effect, characterized by high spectral brightness and percussive energy. It serves as a comedic punctuation mark, lasting until the audio track ends abruptly with the visual cut to black."
     }
   },
-  "high_inference_interpretations": {
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Storytelling"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 1,
+      "averageSceneDuration": 6.0,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Story -> Punchline",
-      "mainPurpose": "The video is a short-form comedy vlog aimed at entertaining viewers with a humorous anecdote. The creator describes a blind date experience where a misunderstanding or a double entendre occurs, using the contrast between her directness and the date's odd response to create a joke, emphasized by the final laughter sound effect.",
-      "visualEmotion": "Casual and Humorous"
+      "narrativeStructure": "Linear: Hook -> Narrative -> Punchline",
+      "mainPurpose": "To share a humorous personal anecdote about a blind date gone wrong due to a linguistic misunderstanding between the speaker and her date.",
+      "visualEmotion": [
+        "humorous",
+        "informational"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
       "endorsementMethod": [
         "None"
       ],
-      "endorsementCues": "None",
+      "endorsementCues": "None detected; the content is purely a personal anecdote.",
       "endorsementObject": [
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Direct-to-camera storytelling, use of traditional-style clothing in a modern setting.",
-      "freeDescribe": "The video relies heavily on the wordplay involving the term for 'generation gap' and 'deep' to deliver its punchline."
-    }
+    "freeDescribe": "The video follows a standard social media short-form storytelling format, using subtitles and a final meme sound effect to land a comedic punchline."
   }
 }

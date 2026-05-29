@@ -1,173 +1,278 @@
 {
   "videoName": "cocowine0205-20251122230506-2092117331581728.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 31,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Product Review",
-        "Vlog"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "Unknown"
+      "visual_narrative_log": "(1) A young woman with long dark hair, dressed in a white long-sleeved top and a black high-waisted skirt, stands in a brightly lit Costco warehouse aisle. She holds a large blue and red bag of shredded squid snacks. A large red and blue Costco logo is overlaid at the top of the frame, accompanied by floating pink and yellow stylized text. (2) The camera transitions to a medium close-up of the snack bag. The woman's hands are visible holding the packaging, specifically pointing toward a green circular label that reads 'Green Sichuan Pepper' in Chinese. The background shows blurred warehouse shelves stacked with bulk consumer goods. (3) The shot returns to a medium view of the woman as she speaks to the camera with animated facial expressions, nodding and gesturing with the product. Yellow subtitles appear at the bottom of the screen. The setting is a typical industrial retail environment with high ceilings and fluorescent lighting. (4) A focus shot on the product displays its weight and price in large graphic overlays: '329元' and '600公克'. The woman continues to hold the bag, showing its large scale relative to her torso. (5) In the final phase, the woman touches her temple in a contemplative 'thinking' pose while looking at the camera. She maintains her position in the center of the warehouse aisle. Final subtitles appear at the bottom as she smiles slightly.",
+      "text_narrative_log": "(1) [Logo]: COSTCO WHOLESALE. [Variety]: 北海北海. (2) [Subtitle]: 新的口味. [Slogan]: 青花椒. (3) [Subtitle]: 台灣老字號經典零食竟然出了新口味. (4) [Slogan]: 329元 600公克. (5) [Subtitle]: 想買嗎 嗯想吃嗎.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only"
         ],
-        "city": [
-          "None"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman with long dark hair, wearing a white long-sleeved top and a black skirt, stands in the aisle of a warehouse-style supermarket. She picks up a large red and white snack bag from a display and smiles at the camera. (2) She points to the green 'Green Peppercorn' label on the bag and holds it closer to the lens. (3) She shows the back of the bag and then holds it against her body to demonstrate its large size. (4) Finally, she points to her mouth and cheek with a curious and questioning expression.",
-      "audio_narrative_log": "(1) Upbeat, fast-paced background music starts with a high-pitched, energetic female voice singing a jingle 'Beihai, Beihai' repeatedly. (2) A female voice begins speaking clearly and enthusiastically about a new flavor, followed by a male voice providing specific price and weight details. (3) The music maintains a constant tempo with occasional 'ding' sound effects (SFX) as text appears. (4) The female voice asks a concluding question with a friendly tone as the music fades.",
-      "text_narrative_log": "(1) Decorative bubbly text '北海' and '海北' (Beihai/Haibei) appears in yellow and green. (2) Decorative text '新的口味 青花椒' (New flavor Green Peppercorn) emphasizes the product update. (3) Functional text '329元 600公克' (329 NTD, 600g) and '超大包' (Super large bag) provides purchasing information. (4) Hook text '想買嗎? 想吃嗎?' (Want to buy? Want to eat?) encourages audience engagement."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 8,
-      "averageSceneDuration": 3.8,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Hook (New Snack) -> Product Demo (Flavor/Price) -> CTA (Questioning the audience)"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 4,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 female main creator, 3 blurred shoppers in the background background",
-      "mainCharacterDescription": "A young woman with long black hair, wearing a white blouse under a dark overall-style skirt, and black Mary Jane shoes."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Warehouse Store"
+        "crowdLevel": [
+          "Single"
         ],
-        "topography": [
-          "None"
+        "countingEvidence": "1 main female creator in the foreground.",
+        "mainCharacterDescription": "A young Asian woman with long, straight dark hair, wearing a white long-sleeved ribbed top tucked into a black maxi skirt and black Mary Jane shoes."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Supermarket / Warehouse Store"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A typical Costco warehouse interior featuring high industrial ceilings, large steel shelves stacked with bulk boxes of food products like cranberries and pharmacy items.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
         ]
       },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A typical warehouse store interior with tall metal shelving units stacked with bulk boxes and snack products.",
-      "lightingStyle": "Bright indoor fluorescent warehouse lighting",
-      "weather": "Indoor",
-      "season": "Unknown",
-      "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Chinese"
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Graphic transition",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
         ],
         "isSubtitled": true
       },
-      "colorTone": "Natural and Bright",
-      "cameraWork": [
-        "Static",
-        "Slight handheld movement"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Codfish Strings",
-        "Cranberries"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Costco Wholesale",
-        "北海"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Energetic and helpful",
-        "pitch": "Medium-High",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Chinese"
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Seafood / fish / shrimp",
+          "Snack / chips / candy"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Costco",
+          "北海鱈魚香絲"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drums"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Cartoon SFX",
-        "Ding"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Field"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Animated/Excited",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 2,
+        "male_singer_count": 0,
+        "female_singer_count": 2,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "Traditional Chinese"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Percussion",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Drum Kit / Drum Set",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Original Jingle/Brand Theme"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Plastic / Bag Rustle"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 2,
+        "soundEffectsCoverage": 1
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio track opens with a distinctive, bright vocal jingle singing 'Bei hai, bei hai' in a upbeat, commercial style. The background music is a high-tempo pop track with a synthesized bassline and crisp electronic percussion. A female narrator begins speaking with high energy and a clear, friendly tone, introducing the product. (2) The narrator's speech becomes more descriptive as she mentions the 'new flavor'. Her voice is characterized by a high pitch and expressive intonation. The BGM ducks slightly to prioritize the clarity of the narration, which sounds clean as if recorded in a studio or high-quality field environment. (3) A soft 'ding' sound effect punctuate the mention of the price and product weight. The narrator maintains a fast but steady speech rate, conveying excitement about the green peppercorn flavor. The pop BGM continues with its steady rhythmic beat in the background. (4) As the narration moves to a conclusion, the female voice adopts a playful, questioning tone. The music remains consistent in tempo and volume until the very end, where the vocal jingle motif returns briefly before fading. The overall audio mix is professional and emphasizes the enthusiastic marketing intent."
     }
   },
-  "high_inference_interpretations": {
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Food Review",
+        "Shopping",
+        "Lifestyle"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 5,
+      "averageSceneDuration": 6.2,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Product Feature -> Price Information -> CTA",
-      "mainPurpose": "The video serves as a shopping guide and product recommendation for a new flavor of snack (Green Peppercorn Codfish Strings) found at Costco. It aims to inform regular shoppers of the new arrival, its cost-effectiveness (large bag size and price), and generate curiosity about its taste.",
-      "visualEmotion": "Cheerful and Energetic"
+      "narrativeStructure": "List-based: Hook -> Feature Presentation -> Call to Action",
+      "mainPurpose": "To promote and review a new green Sichuan pepper flavored snack available at Costco, targeting local shoppers with an energetic and informative lifestyle vlog style.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
-        "Explicit Integrated"
+        "Explicit",
+        "Integrated"
       ],
-      "endorsementCues": "The presenter is actively showing a specific brand's new product within the retail store and providing pricing information.",
+      "endorsementCues": "Direct display of product packaging, mention of specific price and location (Costco), and positive commentary on the new flavor.",
       "endorsementObject": [
+        "Costco",
         "北海鱈魚香絲"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Use of catchy jingles and high-density variety-show style text overlays.",
-      "freeDescribe": "The video targets Costco members or bargain-hunting snack lovers in the Taiwan region, utilizing high-energy audio and visual cues to drive product interest."
-    }
+    "freeDescribe": "The video effectively uses high-energy audio and bright warehouse visuals to create a sense of discovery and excitement for a common household snack."
   }
 }

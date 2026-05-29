@@ -1,14 +1,232 @@
 {
   "videoName": "0_shufen-20250910181906-1712588466381954.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 11,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Short Comedy"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A young woman with long, dark, wavy hair and dramatic eye makeup is framed in a medium close-up against a plain, light-colored wall. She wears a black, low-cut V-neck top. Her facial expression is focused and animated as she speaks directly into the camera lens with a steady gaze. (2) The woman begins gesturing with her right hand, bringing it up towards her chest with her fingers loosely curled and nails visible. Her mouth movements are pronounced as she delivers her lines, and she briefly tilts her head slightly before returning her gaze to the camera. (3) She continues her monologue, her expression shifting between mock seriousness and playful frustration. She uses her hand to emphasize her points, eventually holding it up with fingers spread slightly toward the lens. The lighting remains bright and consistent, casting soft shadows on the background wall.",
+      "text_narrative_log": "(1) [Subtitle]: 我真的要給自己氣死. (2) [Subtitle]: 我覺得我太i了. (3) [Subtitle]: 如果我是e人就好了. (4) [Subtitle]: 不然. (5) [Subtitle]: 我在外面看到八塊腹肌. (6) [Subtitle]: 我都不敢上去摸.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Head and shoulders",
+          "Face",
+          "Face close-up"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main female creator speaking to the camera throughout the video.",
+        "mainCharacterDescription": "A young woman with long, dark, wavy hair, heavy eye makeup, and a black, low-cut V-neck top."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A plain, cream-colored or off-white wall with soft shadows, suggesting a simple indoor room or a small studio setup.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Selfie handheld"
+        ],
+        "shotSize": [
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Single continuous take"
+        ],
+        "visualRhythm": [
+          "Rhythm matched to speech"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Rising"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 6,
+        "valence": 6,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop"
+        ],
+        "tempoBPM": 115,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Pop / Bubble SFX",
+          "Cartoon / Comedy SFX",
+          "Laugh Track SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 0,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A young female voice speaks with a clear, moderate pitch and conversational cadence in Traditional Chinese. A light, upbeat, and rhythmic background music with a steady electronic beat begins. The voice has a friendly and slightly animated tone with a high signal-to-noise ratio. (2) A short, high-pitched pop sound effect occurs, punctuating the speech and emphasizing a transition in the narrative. The speaker's delivery remains consistent in volume and clarity, with natural breathing patterns and minimal background noise interference from the room tone. (3) A short humorous sound effect, similar to a brief laugh track or a cartoonish slide, is heard as the speaker reaches the climax of her comedic complaint. The background music continues briefly with its upbeat tempo before the audio track cuts cleanly at the conclusion."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Personal Talk"
+      ],
       "location": {
         "country": [
           "China"
@@ -18,140 +236,19 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video begins with a close-up of a young woman with long dark hair, wearing a low-cut black top, facing the camera with a frustrated yet playful expression. (2) As she speaks, she gestures with her hands, pointing at herself and making small movements to emphasize her words. (3) Towards the end, she raises her hand with fingers slightly spread and then pulls it back, mimicking hesitation, ending with a slight frown and a playful look.",
-      "audio_narrative_log": "(1) The audio begins with a female voice speaking in Chinese with an annoyed yet humorous tone. (2) A light, rhythmic background melody plays throughout, maintaining a moderate tempo. (3) At the very end of the video, a canned 'laugh track' sound effect plays as the vocal narration finishes.",
-      "text_narrative_log": "(1) '我真的要给自己气死' (I'm really going to get myself angry to death) - Functional, expressing frustration. (2) '我觉得我太i了' (I think I'm too 'i' [introverted]) - Functional, referencing MBTI. (3) '如果我是e人就好了' (If only I were an 'e' person [extroverted]) - Functional, contrast. (4) '不然我在外面看到八块腹肌' (Otherwise, when I see eight-pack abs outside) - Functional, setting up the punchline. (5) '我都不敢上去摸' (I don't even dare go up and touch them) - Functional, the punchline."
-    },
     "temporal_pacing_summary": {
       "sceneCutCount": 0,
-      "averageSceneDuration": 11.0,
-      "isNarrativeShift": false,
-      "mainActionFlow": "The main character talks directly to the camera in a single, continuous shot."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Head",
-        "Shoulders",
-        "Chest",
-        "Hands"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main female creator speaking to the camera.",
-      "mainCharacterDescription": "A young woman with long, flowing dark hair, wearing a black low-cut top with a gathered front. She has visible makeup, particularly around the eyes."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A plain, light-colored wall, possibly a home or studio setting, with minimal distractions.",
-      "lightingStyle": "Bright, soft frontal lighting, likely from a ring light or studio setup.",
-      "weather": "Unknown",
-      "season": "Unknown",
+      "averageSceneDuration": 11,
       "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "Medium",
-        "language": [
-          "Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static"
-      ]
+      "isNarrativeShift": false
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "None",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Humorous, expressive, and slightly self-deprecating",
-        "pitch": "Medium-high",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat/Light-hearted",
-      "bgmBPM": 110,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "Laugh Track"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Narrative -> Punchline",
-      "mainPurpose": "The video is a humorous short clip where the creator uses the MBTI personality framework (specifically 'I' for introverted and 'E' for extroverted) to make a relatable joke about social anxiety and the missed opportunity to interact with an attractive person (someone with 8-pack abs).",
-      "visualEmotion": "Humorous"
+      "narrativeStructure": "List-based: Emotion -> Context -> Scenario",
+      "mainPurpose": "A humorous personal monologue where the creator jokes about her introverted nature using the MBTI personality trend (specifically 'i' vs 'e'). She playfully laments that her introversion is so extreme that it prevents her from approaching attractive individuals with 'eight-pack abs' in public.",
+      "visualEmotion": [
+        "humorous",
+        "energetic"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -163,9 +260,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Direct eye contact with the viewer, use of trending MBTI terminology, and a comedic laugh track ending.",
-      "freeDescribe": "The video leans into internet subculture regarding personality types to generate engagement through relatability and humor."
-    }
+    "freeDescribe": "The video focuses on a single-person monologue typical of short-form social media content utilizing personality trends to engage an audience through relatable humor."
   }
 }

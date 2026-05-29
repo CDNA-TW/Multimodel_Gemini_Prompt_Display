@@ -1,177 +1,274 @@
 {
   "videoName": "cocowine0205-20251203235505-4409126779323344.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 46,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Shopping Review"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "Taiwan"
+      "visual_narrative_log": "(1) A young woman stands in a bright warehouse-style retail store, holding a large, white faux fur rug. She wears a white bucket hat and a white long-sleeved cropped top. Large colorful graphic text overlays the top and bottom of the frame, advertising Black Friday deals. (2) She moves closer to the camera, displaying the price tag on the white rug which indicates a discount. The background shows industrial warehouse shelves and other shoppers. (3) She unfolds the rug further, demonstrating its soft texture and small rectangular size. The camera is handheld and follows her movements as she speaks excitedly. (4) She moves to a display bin and pulls out a gray version of the same faux fur rug, comparing it to the white one. She runs her hand over the fur to show its plushness to the viewer.",
+      "text_narrative_log": "(1) [Logo]: COSTCO WHOLESALE. [Variety]: 黑五超殺. [Variety]: 黑五好康. [Variety]: 毛皮地墊竟然折扣了. [Subtitle]: 我想買這個. (2) [Subtitle]: 剛好被我等到黑五現在有特價. (3) [Subtitle]: 他原本價格就很便宜了. (4) [Subtitle]: 從529折130, 399. (5) [Subtitle]: 哇, 仿毛皮地墊. (6) [Subtitle]: 因為這個地墊啊, 你鋪在椅子上也是很棒的裝飾. (7) [Subtitle]: 然後Size比較小, 他是60乘99公分. (8) [Subtitle]: 哇, 然後有這個超美的白色, 然後它超舒服的. (9) [Subtitle]: 這一摸真的是, 嗚呼. (10) [Subtitle]: 我覺得灰色也超級有質感. (11) [Subtitle]: 對, 因為這灰色我覺得, 哇, 超漂亮的. (12) [Subtitle]: 白色是溫暖優雅, 灰色是一個豪華大氣的感覺. (13) [Subtitle]: 我就知道再等一週, 我上週就想買. (14) [Subtitle]: 等一週被我等到黑五的價格了. (15) [Subtitle]: 現在一條只要399喔. (16) [Subtitle]: 很便宜, 非常值得. (17) [Subtitle]: 鋪在哪裡都好看. (18) [Subtitle]: 而且真的很柔軟. (19) [Subtitle]: 摸起來也很舒服.",
+      "visual_human_presence": {
+        "totalHumanCount": 3,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only"
         ],
-        "city": [
-          "Unknown"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman wearing a white bucket hat, a white crop top, and ripped jeans stands in a warehouse-style store. She excitedly holds up a white faux fur rug to the camera. (2) She gestures towards a shelf containing stacked boxes and points to a price sign, then proceeds to pet the white rug to show its texture. (3) She picks up a grey version of the same rug from the stack, displaying it fully and comparing it visually to the white one. (4) She continues to talk to the camera while holding the grey rug, then puts it back and poses with the white rug again, maintaining high energy.",
-      "audio_narrative_log": "(1) Upbeat, high-tempo pop music begins playing. A female voice speaks in an excited, high-pitched Mandarin tone, announcing a major discovery. (2) The female voice details a price drop for 'Black Five' (Black Friday), mentioning specific numbers like 529 and 399. (3) A male voice off-camera responds with 'Whoa!' and comments on the softness and quality of the item. (4) The female voice continues to describe the differences between the white and grey options as the music maintains its steady, energetic rhythm.",
-      "text_narrative_log": "(1) Functional Text: 'COSTCO WHOLESALE' and 'BLACK FRIDAY' branding. (2) Decorative Hook: '黑五超殺' (Black Five Super Sale) and '毛皮地墊竟然折扣了' (Faux fur rug is actually on sale) with high-energy emphasis. (3) Price Info: '$399' highlighted on screen. (4) Functional Text: Traditional Chinese subtitles translating the dialogue about the product dimensions (60 x 99 cm) and textures."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 14,
-      "averageSceneDuration": 3.2,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Intro Hook -> Price and Feature Reveal -> Color Comparison -> Emotional Closing"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 3,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 main female creator, 1 female shopper in background, 1 male shopper in background",
-      "mainCharacterDescription": "A young woman wearing a white NY-branded bucket hat, a white long-sleeved crop top, and light blue ripped denim jeans."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Warehouse Store",
-          "Costco"
+        "crowdLevel": [
+          "Small Group"
         ],
-        "topography": [
-          "None"
+        "countingEvidence": "1 female main creator, 1 male hand/voice visible briefly, 1 passer-by in background",
+        "mainCharacterDescription": "Young woman wearing a white bucket hat with a NY logo, a white long-sleeve crop top, and ripped jeans."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Supermarket / Warehouse Store"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "Costco warehouse interior featuring high industrial ceilings with exposed ventilation pipes, tall metal storage racks filled with bulk products, and wide aisles with shopping carts.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Autumn / Winter"
+        ],
+        "colorTone": [
+          "Natural and bright"
         ]
       },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A typical Costco warehouse interior with high ceilings, industrial lighting, large metal shelving units, and product stacks under the brand name 'MON CHATEAU'.",
-      "lightingStyle": "Intense studio-style industrial lighting",
-      "weather": "Indoor",
-      "season": "Autumn/Winter",
-      "editingPace": "Fast",
-      "textOverlay": {
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
         "density": "High",
-        "language": [
+        "textLanguage": [
           "Traditional Chinese",
           "English"
         ],
         "isSubtitled": true
       },
-      "colorTone": "Bright and Natural",
-      "cameraWork": [
-        "Vlog Style",
-        "Follow shot"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "COSTCO",
-        "MON CHATEAU",
-        "New York Yankees"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and persuasive",
-        "pitch": "High",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speech_density": "Continuous talking",
-        "language": [
-          "Mandarin"
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "Shopping cart"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Costco Wholesale",
+          "Mon Chateau"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "Wooo sound",
-        "Bell/Chime SFX"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Field"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 1,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 9,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Chatter"
+        ],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": [
+          "Commercial/Recreational"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "Clothing / Fabric Rustle"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) A female voice speaks with high energy and a bright, excited tone, dominating the track. Upbeat, mid-tempo electronic pop background music with a clear 4/4 beat plays continuously. Ambient murmurs of a large warehouse space are faintly audible. (2) A soft fabric rustling sound is heard as the woman manipulates a rug. A male voice briefly interjects with a reactive 'Wow' exclamation, exhibiting high pitch and positive valence. (3) The female narrator continues speaking at a brisk pace without significant pauses, explaining the price reduction. The music volume remains steady under the vocals. (4) The track concludes with the woman's high-pitched vocalization and final enthusiastic recommendation, maintaining the energetic acoustic atmosphere until the end."
     }
   },
-  "high_inference_interpretations": {
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Shopping",
+        "Vlog",
+        "Product Review"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 8,
+      "averageSceneDuration": 5.75,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Product Comparison -> Price Value Proposition",
-      "mainPurpose": "The video serves as a promotional shopping guide to inform viewers about a specific discount on luxury faux fur rugs at Costco during the Black Friday sales period, aiming to drive consumer traffic to the store.",
-      "visualEmotion": "Energetic and Enthusiastic"
+      "narrativeStructure": "List-based: Hook -> Evidence -> Comparison -> Recommendation",
+      "mainPurpose": "The video is a lifestyle shopping vlog intended to share a specific promotional find at Costco during Black Friday. It combines visual product demonstration with enthusiastic verbal narration to highlight the quality, price, and versatility of faux fur rugs.",
+      "visualEmotion": [
+        "energetic",
+        "warm",
+        "informative"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
         "Implicit",
-        "Full"
+        "Integrated"
       ],
-      "endorsementCues": "Detailed display of the brand logo, product packaging, and specific promotional pricing compared to the original price.",
+      "endorsementCues": "Detailed product showcase with price emphasis and brand visibility within a retail environment.",
       "endorsementObject": [
-        "Costco",
-        "MON CHATEAU"
+        "Costco Wholesale",
+        "Mon Chateau Luxe Faux Fur"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-energy 'shopping find' format typical of Taiwanese retail influencers.",
-      "freeDescribe": "The video uses high-contrast text overlays and emotional sound effects to amplify the sense of a 'deal' being discovered."
-    }
+    "freeDescribe": "High-energy social media content focusing on consumer value and seasonal sales trends."
   }
 }

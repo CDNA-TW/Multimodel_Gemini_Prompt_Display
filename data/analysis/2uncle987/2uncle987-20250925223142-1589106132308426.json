@@ -1,178 +1,277 @@
 {
   "videoName": "2uncle987-20250925223142-1589106132308426.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 33,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Brand Story",
-        "Interview"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) The scene opens with a close-up of a wooden meeting table. On the table, there are multiple plastic water bottles from the brand Vita, some snack packaging, tissues, and a yellow flyer with the branding 'POMATO'. In the background, a large black TV screen is mounted on a white wall. Two women are partially visible on the left side, appearing to be in a conversation. (2) The camera cuts to a medium shot of a woman with long dark hair, wearing a light blue sleeveless top with bow details on the shoulders. She is talking and gesturing with her right hand while looking towards someone off-camera. The background features a yellow wall and a framed picture. (3) The perspective shifts to another woman with dark hair and bangs, wearing a grey jacket over a red-and-white striped inner garment. She listens intently with a smile, then begins to speak, using expressive hand gestures to emphasize her points. (4) Consecutive shots toggle between the two women as they continue their dialogue. They are in a well-lit indoor space, likely a studio or creative office. (5) The final sequence shows a wider view of the group, which includes at least four women and one man. They are gathered around the table, examining various tote bags and boxes that appear to be merchandise. The man is wearing a black beanie and glasses, holding a small item and looking at it closely.",
+      "text_narrative_log": "(1) [Subtitle]: 那天 小薯茄問我. [Slogan]: POMATO. (2) [Subtitle]: 品牌要做到什麼程度. (3) [Subtitle]: 一個可以一直經營下去的品牌. (4) [Subtitle]: 變成臺灣的無印良品. (5) [Subtitle]: 那種感覺. (6) [Subtitle]: 看到這個圖花的時候就覺得很快樂、很開心. (7) [Subtitle]: 就是繽紛 然後心情就會很好. (8) [Subtitle]: 那我們希望說我們的東西可以佔滿你的生活. (9) [Subtitle]: 需要什麼我們都有. (10) [Subtitle]: 慢慢認識我們之後發現我們也有不一樣的東西. (11) [Subtitle]: 終極目標是這樣.",
+      "visual_human_presence": {
+        "totalHumanCount": 5,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 4,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "Two primary female speakers, one male with a beanie appearing in the group shot, and two other female colleagues seen in the background or wide shot.",
+        "mainCharacterDescription": "One woman has long dark hair and wears a blue sleeveless top; the other has straight hair with bangs, wearing a grey jacket over a striped top."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Office / Workplace",
+          "Studio"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A modern creative workspace featuring a cluttered meeting table with snacks and drinks, a yellow accent wall, a whiteboard, and professional studio elements.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Panning"
+        ],
+        "shotSize": [
+          "Close-up",
+          "Medium shot",
+          "Medium full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Snack / chips / candy",
+          "Beverage / juice",
+          "Coffee"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "TV / display screen",
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "POMATO",
+          "Vita",
+          "Starbucks"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 3,
+        "male_vocal_count": 0,
+        "female_vocal_count": 3,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 6,
+        "valence": 7,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Acoustic/Folk"
+        ],
+        "tempoBPM": 100,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 2,
+        "instrumentFamiliesAudible": [
+          "String",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Guitar"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter"
+        ],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Plastic / Bag Rustle"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 2,
+        "soundEffectsCoverage": 1
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 2,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a primary female voice speaking in a warm and engaging manner. A bright acoustic guitar rhythm serves as the background bed, maintaining a steady and upbeat tempo. The acoustic environment sounds clean and enclosed, typical of a studio. (2) A second female voice joins in, sharing a more enthusiastic and expressive response. There is a noticeable interplay of overlapping voices as the group reacts with low-volume laughter and agreement. (3) A subtle digital 'ding' sound effect is heard, emphasizing a key point in the conversation. The background music remains continuous throughout, providing a consistent positive emotional layer until the track ends."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Personal Talk",
+        "Storytelling",
+        "Business"
+      ],
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "None"
+          "Unknown"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video opens with three women sitting around a large wooden table in a brightly lit indoor space; snacks and water bottles are scattered on the table. (2) The camera transitions to close-up shots of two women, one in a light blue sleeveless top and another in a grey striped shirt, who are talking animatedly with frequent hand gestures and smiles. (3) A group of people, including a man in a black hat and glasses, gather around the table to examine various tote bags and product boxes, showing a collaborative and active atmosphere.",
-      "audio_narrative_log": "(1) Upbeat, medium-tempo electronic background music starts immediately. A female voice is heard speaking clearly in a conversational and inquisitive tone. (2) As the conversation continues, another female voice with a slightly higher, more enthusiastic pitch explains a brand concept, while the background music maintains a consistent rhythm. (3) The audio concludes with a mix of multiple female and male voices interacting, accompanied by the subtle sounds of objects being moved on the table and laughter.",
-      "text_narrative_log": "(1) '那天小薯茄問我 品牌要做到什麼程度' - Functional: Introduces the context of the brand discussion. (2) '變成臺灣的無印良品' - Hook: States an ambitious brand goal with a confident tone. (3) '看到這個圖花的時候 就覺得很快樂' - Decorative: Describes the emotional response to the product patterns with a joyful tone. (4) '需要什麼我們都有' - Functional: Conveys brand versatility and confidence."
     },
     "temporal_pacing_summary": {
       "sceneCutCount": 12,
       "averageSceneDuration": 2.75,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Discussion of brand philosophy -> Emotional explanation of design -> Group interaction with physical products."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 5,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 4,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Upper body",
-        "Hands only"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "2 main female speakers, 1 female listener, 1 female assistant, 1 male participant.",
-      "mainCharacterDescription": "One woman wearing a light blue sleeveless top with a bow detail; another woman wearing a grey striped shirt and silver necklaces."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Studio",
-          "Office"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "An office or studio setting with a yellow accent wall, a large flat-screen TV, a white table, and various lifestyle products like tote bags.",
-      "lightingStyle": "Bright indoor studio lighting",
-      "weather": "None",
-      "season": "None",
       "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "Medium",
-        "language": [
-          "Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural and Vibrant",
-      "cameraWork": [
-        "Static",
-        "Close-up",
-        "Follow shot"
-      ]
+      "isNarrativeShift": false
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Snacks",
-        "Bottled Water"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Television"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Vita",
-        "Pomato"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade",
-      "vocalRatio": "Medium"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 4,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 4,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Friendly, passionate, and visionary",
-        "pitch": "Medium-high",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop",
-      "bgmBPM": 115,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Vision -> Demonstration",
-      "mainPurpose": "The video aims to communicate the brand values and future vision of 'Pomato,' emphasizing its goal to become a ubiquitous and joy-bringing lifestyle brand in Taiwan, comparable to MUJI but with a colorful aesthetic.",
-      "visualEmotion": "Cheerful and Collaborative"
+      "narrativeStructure": "Linear: Hook -> Dialogue/Interview -> Summary",
+      "mainPurpose": "The video documents a conversation between team members regarding the future and philosophy of their brand. The central theme is the aspiration to build a brand that integrates seamlessly into users' lives and brings joy, explicitly aiming for a status similar to 'Muji' in Taiwan. It highlights the passion and vision behind their creative business.",
+      "visualEmotion": [
+        "warm",
+        "informative",
+        "energetic"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
-        "Explicit",
-        "Full"
+        "Implicit",
+        "Integrated"
       ],
-      "endorsementCues": "The video revolves around a brand interview, explicitly naming the brand and showing its products (bags) prominently.",
+      "endorsementCues": "Products, flyers, and merchandise for 'POMATO' are prominently displayed and discussed as the core subject of the video's narrative.",
       "endorsementObject": [
-        "Pomato",
-        "小薯茄"
+        "POMATO"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Specific brand-related terminology like 'Pomato' and a focus on 'happiness' through colorful patterns.",
-      "freeDescribe": "The video effectively uses a behind-the-scenes interview style to build a personal connection between the creators and the audience."
-    }
+    "freeDescribe": "A professional and optimistic video focusing on brand building and business philosophy, characterized by high-quality indoor audio and a natural editing style."
   }
 }

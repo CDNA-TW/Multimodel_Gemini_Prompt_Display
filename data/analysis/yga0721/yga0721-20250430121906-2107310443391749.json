@@ -1,14 +1,245 @@
 {
   "videoName": "yga0721-20250430121906-2107310443391749.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 12,
-      "aspectRatio": "1:1",
-      "videoGenre": [
-        "Event",
-        "Entertainment"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) The scene opens in a brightly lit indoor event hall, likely a ballroom, with a large blue LED screen in the background displaying the 'Simply' brand logo in white with a leaf icon. A crowd of attendees, mostly wearing casual and semi-formal winter attire like coats and sweaters, are seen sitting in gold-colored chairs, holding up smartphones and professional DSLR cameras to record the ongoing event. (2) The camera pans smoothly to the right, revealing more of the audience engaged in taking photos and videos. It then focuses on a man wearing a black beanie and dark sunglasses sitting next to a woman with long dark hair wearing a blue denim shirt. Both individuals are smiling broadly, laughing, and gesturing as they pose for the surrounding cameras, showing high positive engagement. (3) The camera continues its pan, showing the dense group of photographers and media personnel standing in front of the stage area, their cameras flashing frequently. The background setting includes professional event lighting and various brand-related decorative elements, creating a vibrant and busy atmosphere filled with the motion of people capturing the moment.",
+      "text_narrative_log": "(1) [Logo]: Simply 新普利.",
+      "visual_human_presence": {
+        "totalHumanCount": 35,
+        "maleDetectAmount": 15,
+        "femaleDetectAmount": 20,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Hands only",
+          "Back view",
+          "Side view"
+        ],
+        "crowdLevel": [
+          "Crowd"
+        ],
+        "countingEvidence": "There is a large audience of over 30 people seated and standing, with 2 main creators identified posing together in the middle of the crowd.",
+        "mainCharacterDescription": "One male with a black beanie, black shirt, and dark sunglasses. One female with long dark hair, wearing a light blue denim-style long-sleeve shirt."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Event Venue / Convention Hall"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A professional event venue with rows of gold-framed chairs, a large blue digital backdrop featuring brand logos, and various stage lighting rigs visible.",
+        "lightingStyle": [
+          "Bright indoor lighting",
+          "Neon / colored light"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright",
+          "Cool tone"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Panning",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium full shot",
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Camera / DSLR",
+          "Lighting equipment / ring light"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Simply 新普利"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 8,
+        "male_vocal_count": 4,
+        "female_vocal_count": 4,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 2,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 0,
+        "female_singer_count": 1,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "English"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Chatter",
+          "Laughter",
+          "Applause"
+        ],
+        "crowdNoiseIntensity": 3,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "Mechanical Click / Latch"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 1,
+        "vocalRatio": 1,
+        "musicToSpeechLoudRatio": 4,
+        "musicDuration": 5,
+        "speechMusicOverlap": 1,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 0,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio track is dominated by upbeat, high-tempo electronic pop music with a steady synthesized 4-on-the-floor beat and a female vocalist singing in English. Simultaneously, a dense layer of ambient crowd noise is clearly present, consisting of overlapping chatter, laughter, and excited murmurs from many individuals in an enclosed space. (2) Frequent, sharp mechanical clicking sounds from professional camera shutters and flashes provide a rhythmic percussive texture throughout the entire clip. Occasionally, a few indistinct male voices can be heard calling out in Traditional Chinese, likely giving directions to the people posing. (3) The background music maintains a constant high volume and energy level, never fading. The interplay between the driving pop music, the chaotic but happy crowd sounds, and the persistent, high-frequency camera clicks perfectly captures the frantic yet celebratory atmosphere of a high-profile commercial media event."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Event / Festival"
+      ],
       "location": {
         "country": [
           "Taiwan"
@@ -18,157 +249,32 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video begins with a wide shot of a crowd in a large event space, featuring many individuals holding professional cameras and smartphones pointed toward an unseen center of attention. A large blue screen in the background displays a brand logo. (2) The camera pans smoothly to the right, showing rows of gold-framed chairs and a dense audience of photographers and fans, some crouching and some standing, all focused on the front. (3) The pan concludes by focusing on a male in a black beanie and glasses sitting next to a female with long hair in a denim jacket; both are smiling and posing for the cameras as people around them lean in to take photos.",
-      "audio_narrative_log": "(1) Fast-paced, upbeat electronic pop music with a steady beat starts immediately. (2) Layered over the music, a chaotic mix of human voices is heard, with multiple people shouting \"Here!\" and \"Look over here!\" in Mandarin to get the attention of the subjects. (3) The combination of high-energy music and the loud, excited chatter of the crowd continues consistently until the video ends.",
-      "text_narrative_log": "(1) Functional Text: On the background screen, the text \"Simply 新普利\" is visible alongside a leaf-shaped logo, identifying the brand of the event."
-    },
     "temporal_pacing_summary": {
       "sceneCutCount": 0,
       "averageSceneDuration": 12.0,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Intro -> Panning across crowd -> Focus on main characters"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 25,
-      "maleDetectAmount": 12,
-      "femaleDetectAmount": 13,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Upper body",
-        "Hands only"
-      ],
-      "crowdLevel": "Crowd",
-      "countingEvidence": "Approximately 23 audience/media members and 2 main celebrity subjects in the center.",
-      "mainCharacterDescription": "A male wearing a black beanie, black glasses, and a black shirt; a female with long dark hair wearing a light blue denim jacket."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Event Hall",
-          "Indoor"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A professional event setting featuring a large blue LED backdrop with brand logos, gold-painted chairs, and a crowded atmosphere of media personnel.",
-      "lightingStyle": "Bright studio/event lighting with occasional camera flashes.",
-      "weather": "Indoor",
-      "season": "Unknown",
       "editingPace": "Slow",
-      "textOverlay": {
-        "density": "Low",
-        "language": [
-          "Traditional Chinese",
-          "English"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "Natural and Vibrant",
-      "cameraWork": [
-        "Panning"
-      ]
+      "isNarrativeShift": false
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone",
-        "Professional Camera"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Simply 新普利"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "None",
-      "vocalRatio": "Medium"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 0,
-        "offscreen": 15,
-        "backgroundCrowdVoices": 20,
-        "vocal_demographics": {
-          "male_vocal_count": 8,
-          "female_vocal_count": 7,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and frantic",
-        "pitch": "Varied",
-        "loudness": "High",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Crowd chatter"
-      ],
-      "audioQuality": "Field Recording"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Observation -> Discovery",
-      "mainPurpose": "To document the high-intensity atmosphere and media frenzy surrounding a celebrity appearance at a brand promotional event for 'Simply 新普利'. The video emphasizes the popularity of the subjects and the scale of the press coverage.",
-      "visualEmotion": "Energetic and Hectic"
+      "narrativeStructure": "Montage: Pan -> Interaction -> Pan",
+      "mainPurpose": "To document and showcase the lively atmosphere and media attention surrounding a brand event (Simply), highlighting the presence and positive engagement of key creators/ambassadors with the press and audience.",
+      "visualEmotion": [
+        "energetic",
+        "warm",
+        "humorous"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
         "Implicit",
-        "Full"
+        "Integrated"
       ],
-      "endorsementCues": "The prominent brand logo on the background screen and the formal seating arrangement suggest an official brand event.",
+      "endorsementCues": "The prominence of the brand logo 'Simply 新普利' on the large background screen and the overall professional event setting indicate a sponsored promotional appearance.",
       "endorsementObject": [
         "Simply 新普利"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Crowded media panning shot",
-      "freeDescribe": "The video captures a typical 'star-spotting' moment in East Asian celebrity culture, characterized by high-density media presence and synchronized attention."
-    }
+    "freeDescribe": "A vertical handheld recording capturing the chaotic yet joyful energy of a commercial media launch, focusing on the high level of flash photography and crowd interaction."
   }
 }

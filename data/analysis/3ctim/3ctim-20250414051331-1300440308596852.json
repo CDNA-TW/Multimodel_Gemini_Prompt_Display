@@ -1,171 +1,262 @@
 {
   "videoName": "3ctim-20250414051331-1300440308596852.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 20,
-      "aspectRatio": "9:16",
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The video begins with a close-up shot of a person's left hand holding a black smartphone nestled inside its original white packaging box. The phone's back faces the camera, revealing a single circular lens at the top left and a centrally positioned Apple logo. The surface has a sophisticated matte finish that subtly reflects the overhead indoor lighting. The background consists of a light-colored wooden floor with visible grain, providing a clean, domestic setting. (2) The person continues to hold the black device, tilting it slightly to let the light dance off the glossy camera surround and the Apple logo. The hand is steady, and the fingers are positioned around the edges of the box. A pink and white text overlay \"iPhone16e黑色&白色\" remains fixed at the bottom, while dynamic white subtitles appear just above it. The camera remains static in a handheld position, focusing on the tactile details of the phone's texture. (3) The scene shifts to the same person holding the white version of the smartphone. The white back has a clean, frosted appearance with a silver Apple logo. The person rotates the phone slightly, showing the same single-camera layout. The environment remains consistent with the previous phase, featuring the wooden floor and bright, even lighting. The hand movements are deliberate, showcasing the phone's aesthetics from a first-person perspective.",
+      "text_narrative_log": "(1) [Logo]: f 3c有意思tim哥. [Logo]: @3ctim. [Slogan]: iPhone16e黑色&白色. [Subtitle]: iPhone16e的黑色. (2) [Subtitle]: 黑色. (3) [Subtitle]: 我覺得這也是很霧面黑. (4) [Subtitle]: 然後你有沒有看到啊. (5) [Subtitle]: 這個也是有那種局部上光. (6) [Subtitle]: 有點像鏡面黑色感. (7) [Subtitle]: 好然後這個是我們開箱的白色. (8) [Subtitle]: 你們喜歡哪一個呢.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "One pair of hands holding the device throughout the video.",
+        "mainCharacterDescription": "The main character is only visible via their hands; they are holding the phone against a wooden floor background."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A light brown wooden floor with straight grain patterns serves as the consistent background.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld"
+        ],
+        "shotSize": [
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "POV / first-person view"
+        ],
+        "editingTechniques": [
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Apple"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 6,
+        "valence": 7,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Clothing / Fabric Rustle",
+          "Handheld / Microphone Handling Noise"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 2,
+        "audioCutFrequency": 1,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) A male speaker with a clear, moderate-pitched voice begins speaking in Mandarin Chinese. His tone is friendly and narrative, typical of a tech reviewer. He introduces the black iPhone 16e, speaking at a natural, conversational pace. There is no background music, creating a focused acoustic environment. A faint rustling sound is audible as his hand adjusts the phone in the box, indicating a close-mic field recording. (2) As the speaker describes the \"matte black\" texture, his vocal inflection remains stable with slight rising tones for emphasis. The background remains silent except for the subtle movement of the device being tilted. The articulation is sharp, indicating professional broadcasting quality. The acoustic environment suggests a quiet indoor room or studio with minimal reverb. (3) The speaker pauses for less than a second before transitioning to the white model. He speaks with increased enthusiasm, his pitch rising slightly as he highlights the \"white unboxing.\" The sound of the phone being handled is more pronounced here, with a soft, percussive click as the fingers touch the chassis. (4) The audio concludes with a direct question to the listeners. The speaker's arousal level is moderate, maintaining a polite and engaging demeanor. No external noise or sound effects are present, leaving the vocal track as the sole primary signal throughout the duration."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
         "Tech Review",
-        "Unboxing",
-        "Shorts"
+        "Product Showcase"
       ],
-      "withRealPeople": true,
       "location": {
         "country": [
           "Unknown"
         ],
         "city": [
-          "None"
+          "Unknown"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A hand is shown holding a black iPhone 16e inside its white retail box against a light brown wooden floor background. (2) The phone is tilted slightly to reveal the matte black finish and the single camera lens at the top. (3) The camera focuses on the Apple logo in the center of the phone. (4) The video cuts to a white iPhone 16e being held in the same manner, showcasing its glossy or matte white back. (5) The hand rotates the white phone to catch the light, emphasizing its sleek design and camera module.",
-      "audio_narrative_log": "(1) A male voice speaks in Chinese with an energetic and friendly tone, introducing the iPhone 16e. Upbeat, rhythmic background music starts immediately. (2) As the video transitions between the black and white models, the narrator describes the matte texture and asks the viewers which color they prefer. (3) The music maintains a constant, positive tempo throughout, with no significant ambient noise detected beyond the studio-quality vocal recording.",
-      "text_narrative_log": "(1) Functional Text: 'iPhone 16e的黑色' (Black iPhone 16e) appears as a caption. (2) Decorative/Hook Text: 'iPhone 16e黑色 & 白色' (iPhone 16e Black & White) is displayed in a stylized font with colorful accents at the bottom of the frame. (3) Functional Text: '3c有意思tim哥' and social media handles are present in the top left corner as branding."
     },
     "temporal_pacing_summary": {
-      "sceneCutCount": 2,
+      "sceneCutCount": 1,
       "averageSceneDuration": 10.0,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro (Black model) -> Transition -> Demo (White model) -> Inquiry to Audience"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Hands only"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 male hand visible throughout the video holding the devices.",
-      "mainCharacterDescription": "The main character is only represented by their hands; the person is speaking off-camera."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Office/Home"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A consistent light-colored wooden floor with visible wood grain patterns.",
-      "lightingStyle": "Bright, even indoor lighting, likely studio lights or bright natural light.",
-      "weather": "Unknown",
-      "season": "Unknown",
       "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "Medium",
-        "language": [
-          "Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural and clean",
-      "cameraWork": [
-        "Static",
-        "Handheld"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Apple"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Smooth cross-fade of voice-over",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 0,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and professional",
-        "pitch": "Normal",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat/Electronic",
-      "bgmBPM": 115,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Feature A (Black) -> Feature B (White) -> Comparison/CTA",
-      "mainPurpose": "The video serves as a brief product showcase and aesthetic review of the iPhone 16e. It aims to generate engagement by presenting the two main color options (Black and White) in a clean, minimalist setting and inviting the audience to comment on their preference. The narrative is driven by visual comparison supported by enthusiastic tech commentary.",
-      "visualEmotion": "Calm and Informative"
+      "narrativeStructure": "Linear: Intro Black Model -> Feature Description -> Intro White Model -> Call to Action",
+      "mainPurpose": "To showcase the physical appearance and color options of the new iPhone 16e, specifically highlighting the differences between the black and white finishes through a hands-on unboxing perspective.",
+      "visualEmotion": [
+        "informative",
+        "calm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
-        "Implicit",
-        "Integrated"
+        "Explicit Integrated"
       ],
-      "endorsementCues": "Detailed product close-ups and narrator branding typical of consumer electronics reviewers.",
+      "endorsementCues": "The video explicitly names and shows the iPhone 16e, with the creator providing a commentary on its aesthetics.",
       "endorsementObject": [
         "Apple iPhone 16e"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Consistent branding '3c有意思tim哥' and the use of the wooden floor as a standard review backdrop.",
-      "freeDescribe": "The video targets tech-savvy viewers interested in the latest Apple hardware releases, focusing on aesthetics rather than deep technical specs."
-    }
+    "freeDescribe": "The video is a typical tech influencer short, focusing on high-quality visuals of the product and clear narration to drive engagement and provide quick information about a new release."
   }
 }

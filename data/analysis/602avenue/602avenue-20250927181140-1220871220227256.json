@@ -1,14 +1,233 @@
 {
   "videoName": "602avenue-20250927181140-1220871220227256.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 7,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Comedy"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A young woman with long, chestnut-brown hair and a white floral dress sits in a brightly lit indoor space. She is looking at her reflection or a camera, picking at her teeth with her finger while glancing toward a man sitting beside her. The man, whose face is entirely obscured by a large pink heart emoji, wears a grey button-down shirt and is looking at a laptop screen. Behind them is a clean white wall adorned with a gold-framed painting of an orange poppy. (2) The man reaches his hand up to the woman's hair near her ear. The woman breaks into a wide, vibrant smile and a joyous laugh, showing her teeth clearly. Her eyes squint happily as she looks toward the man, leaning slightly toward him in a playful and affectionate manner.",
+      "text_narrative_log": "None",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 female main character, 1 male main character with face obscured by a heart emoji.",
+        "mainCharacterDescription": "The woman has long brown hair and wears a white floral sundress; the man wears a grey collared shirt and an Apple Watch."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home",
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A white interior wall with a framed floral painting (orange poppy) and a neutral-colored couch or chair headrest.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Summer"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "None"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "None",
+        "textLanguage": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Laptop",
+          "Smartwatch / wearable"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 9,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 126,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter"
+        ],
+        "crowdNoiseIntensity": 3,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 4,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 2,
+        "audioCutFrequency": 0,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a bright, high-tempo electronic dance track featuring a strong rhythmic beat and shimmering synthesizer chords. The mix is clean and professionally balanced, with no spoken dialogue or ambient noise interfering with the music. (2) A clear, joyous burst of female laughter emerges above the music. The laughter has a high pitch and melodic quality, signifying intense positive emotion and energy. It lasts for several seconds, blending naturally with the upbeat tempo of the background track until the video ends."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Lifestyle",
+        "Short Video"
+      ],
       "location": {
         "country": [
           "Unknown"
@@ -18,139 +237,20 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A man and a woman are sitting side-by-side; the man's face is completely covered by a large pink heart emoji, while the woman looks distressed and points at her teeth which appear stained with red lipstick. (2) She turns her head to look at the man as he gestures towards her face, and her expression remains one of exaggerated concern. (3) The woman suddenly breaks into wide laughter, revealing the red stains on her teeth were likely part of a prank or a funny mishap, and she continues to laugh heartily towards the camera.",
-      "audio_narrative_log": "(1) High-energy, upbeat electronic music plays immediately. A female voice is heard making distressed, whining sounds. (2) The music continues at a steady pace as a male voice speaks briefly in a calm tone. (3) The female voice transitions into loud, high-pitched laughter, accompanied by what sounds like additional canned laughter or background audience laughter effects.",
-      "text_narrative_log": "None"
-    },
     "temporal_pacing_summary": {
       "sceneCutCount": 0,
       "averageSceneDuration": 7.0,
-      "isNarrativeShift": true,
-      "mainActionFlow": "The video follows a single-shot progression from simulated distress to genuine laughter."
+      "editingPace": "Slow",
+      "isNarrativeShift": false
     },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Upper body",
-        "Hands"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "1 male character with face obscured by an emoji and 1 female main character.",
-      "mainCharacterDescription": "A young woman with long brown hair wearing a blue and white floral spaghetti-strap top, and a man in a grey button-up polo shirt."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Living Room"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A white wall featuring a large framed painting of an orange flower; a grey sofa is partially visible.",
-      "lightingStyle": "Bright indoor lighting",
-      "weather": "None",
-      "season": "None",
-      "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "None",
-        "language": [
-          "None"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Laptop",
-        "Smartwatch"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "None",
-      "vocalRatio": "Medium"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "High-pitched and excited",
-        "pitch": "High",
-        "loudness": "High",
-        "speed": "Normal",
-        "speechDensity": "Occasional narration",
-        "language": [
-          "Unknown"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Copyrighted Song"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "Laughter SFX"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Field"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Interaction -> Reaction -> Resolution",
-      "mainPurpose": "The video is intended to provide quick comedic entertainment by capturing a lighthearted interaction between a couple. The focus is on the woman's dramatic performance of being upset about lipstick on her teeth, followed by the release of tension through laughter.",
-      "visualEmotion": "Humorous"
+      "narrativeStructure": "Montage: Observation -> Interactive Reaction",
+      "mainPurpose": "To capture and share a lighthearted, humorous, and candid interaction between a couple, highlighting their positive relationship dynamic and shared laughter.",
+      "visualEmotion": [
+        "humorous",
+        "warm",
+        "energetic"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -162,9 +262,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Use of a large pink heart emoji to protect the privacy of the male partner.",
-      "freeDescribe": "This content is characteristic of short-form social media trends where creators share brief, staged, or spontaneous funny moments from their personal lives."
-    }
+    "freeDescribe": "The use of a heart emoji to hide the man's face suggests a focus on the woman's candid emotional response rather than the identities of both individuals."
   }
 }

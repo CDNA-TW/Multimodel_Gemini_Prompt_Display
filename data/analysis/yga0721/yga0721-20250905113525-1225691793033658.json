@@ -1,166 +1,282 @@
 {
   "videoName": "yga0721-20250905113525-1225691793033658.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 87,
-      "aspectRatio": "9:16",
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) In an indoor Japanese-style pub, a young man with brown hair in a white long-sleeved shirt holds a large mug of beer. He clinks it against another man's glass while gesturing with his free hand. Coats hang on the wall behind them. (2) A series of quick cuts shows three different individuals—a man with glasses, a woman in a grey sweatshirt, and the man in white—drinking large quantities of beer. Animated flame graphics and fire borders appear on screen. (3) The man in white finishes his beer rapidly, slamming the empty glass down and looking around triumphantly before sprinting away from the table. Others watch and laugh as he leaves. (4) In a different scene within the same restaurant, the group is seated around tables covered in food. The man in white stands up, holding a glass and a pair of chopsticks, and begins a high-energy narrative, pointing emphatically. (5) A man in a black sweatshirt is shown being kissed on the cheek by another man, while a third man watches with a smile. The camera captures their joyful and playful facial expressions in a close-up shot. (6) A young woman with long dark hair and a grey sweater vest speaks directly to someone off-camera, gesturing with her hands and looking slightly frustrated yet amused. The setting remains the crowded, brightly lit restaurant. (7) At night on a city street, the group walks along a sidewalk. The man in white wears an olive green jacket and holds a smartphone, waving and laughing as he interacts with his friends. Pedestrians and city lights are visible in the background.",
+      "text_narrative_log": "(1) [Subtitle]: 最後喝完的再一杯. [Variety]: 我們躲酒喝居然發起了戰門邀請 😳😳😳. (2) [Subtitle]: 讓你啦 Taco. 居然喝最快. 啤酒太氣了 ><. [Variety]: 第一位啤酒勇士. (3) [Subtitle]: 去哪? [Variety]: 緯嘉招數之一 跑去吐. (4) [Variety]: Taco 招數 分給別人. [Logo]: @Meme. [Subtitle]: Taco 沒人主持! (5) [Subtitle]: 來去追他. [Variety]: 好調皮 😂. 追酒追酒囉~ (6) [Subtitle]: 把筆電忘在輕井澤的民宿. [Logo]: @Meme. (7) [Subtitle]: 在吃早餐那個桌上. 爛透了有夠雷. 爛爆. (8) [Subtitle]: 亞瑟哥幫你收起來. 你要花多少錢來贖你的筆電? [Variety]: 看來是以身相許 (嬌羞亞瑟). (9) [Subtitle]: 你以為這樣子就可以嗎? 那今天晚上陪他睡. (10) [Subtitle]: 你知道你筆電在哪嗎? 在哪? 在哪? [Logo]: @Meme. [Subtitle]: 我幫你背一整路. 姊~~~ (11) [Subtitle]: 你知道那有多重嗎? 欸. 為什麼不直接拿給我就好了. 我就看你什麼時候發現. (12) [Subtitle]: 亞瑟要不要整理好. 沒有. 日文韓文要不要翻譯好. [Variety]: 沒有. 講不聽啊. (13) [Subtitle]: 不是說要洗泡泡浴嗎? 拜拜~~~ [Logo]: @Meme. [Subtitle]: 他房間買好沐浴球. (還有附贈玩具唷). (14) [Subtitle]: 還有那個. 走開啊! [Variety]: 走開!!! [Logo]: 被嫌棄的倫.",
+      "visual_human_presence": {
+        "totalHumanCount": 12,
+        "maleDetectAmount": 7,
+        "femaleDetectAmount": 5,
+        "kidsDetectAmount": 1,
+        "mainCharacterCount": 3,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face",
+          "Face close-up",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Crowd"
+        ],
+        "countingEvidence": "The video features a main group of about 5-6 friends, including a prominent male creator in white, plus several other customers and staff in the background of the restaurant scenes.",
+        "mainCharacterDescription": "The main character is a young man with dyed brown hair wearing a white long-sleeved sweatshirt and light-colored pants. He later wears an olive green jacket outdoors."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Restaurant / Dining",
+          "Outdoor Street"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The primary indoor setting is a Japanese-style pub or Izakaya with wooden tables, hanging coats, and colorful banners. The final scene takes place on a paved urban street at night with building lights and signs.",
+        "lightingStyle": [
+          "Bright indoor lighting",
+          "Night artificial light"
+        ],
+        "weather": [
+          "Night clear"
+        ],
+        "season": [
+          "Winter"
+        ],
+        "colorTone": [
+          "Warm and vibrant"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Walking handheld",
+          "Panning"
+        ],
+        "shotSize": [
+          "Close-up",
+          "Medium shot",
+          "Full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "High angle"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Montage",
+          "Split-screen"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Beverage / juice",
+          "Alcohol",
+          "Japanese food / sushi",
+          "Vegetables"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 3,
+        "total_distinct_voices": 6,
+        "male_vocal_count": 4,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Humorous",
+          "Casual"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter",
+          "Chatter",
+          "Cheering"
+        ],
+        "crowdNoiseIntensity": 3,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone",
+          "Urban/Traffic"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "Ceramics / Glass  Clink",
+          "Liquid Pour / Splash",
+          "Footsteps"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Pop / Bubble SFX",
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Fades"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) High-energy electronic dance music plays with a prominent four-on-the-floor beat. A male voice speaks at a fast rate with high excitement, followed by the distinct sound of glass mugs clinking and collective cheering. (2) As the drinking competition commences, vocal arousal increases with several male and female voices shouting and laughing simultaneously. The background noise of the restaurant is evident but secondary to the loud BGM. (3) A sharp 'whoosh' sound effect transitions into a male voice asking a question loudly, followed by a sudden burst of high-pitched laughter. The music remains steady in tempo and volume. (4) The audio texture shifts to a more conversational layer where one male speaker dominates the mix, describing a story about a forgotten laptop. His tone is comedic and high-pitched. (5) A distinct 'mwah' kissing sound effect is heard, followed by renewed laughter and cheering from the crowd. The music volume ducks slightly under the voices. (6) A female voice enters the conversation with a high speech rate and a teasing tone, overlapping with male laughter and occasional metallic clinking of utensils. (7) The environment changes to an outdoor acoustic space with subtle wind noise. The man's voice is heard shouting 'Bye bye' with a wide pitch variability. The BGM fades out with the laughter of the group."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
         "Vlog",
         "Comedy",
-        "Travel"
+        "Personal Talk"
       ],
-      "withRealPeople": true,
       "location": {
         "country": [
           "Japan"
         ],
         "city": [
-          "Unknown"
+          "Karuizawa"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video begins in a crowded Japanese Izakaya where a man in a white sweater holds two large beer mugs, gesturing excitedly toward the camera. (2) A montage follows showing various group members drinking large glasses of beer rapidly, interspersed with colorful flame-like graphics. (3) The scene shifts to the group sitting around a table with food, including a steak on a hot plate, while the man in the white sweater points and talks animatedly. (4) A woman in a grey sweatshirt is seen pouring beer from one mug to another and then playfully chasing someone. (5) A man in a black sweatshirt interacts with another man, hugging him from behind and laughing. (6) A young woman in a grey sweater vest talks directly to the camera, pointing and appearing to complain or explain something. (7) The final sequence shows the group walking outdoors on a city street at night, with the main creator laughing and waving at the camera while others walk behind him.",
-      "audio_narrative_log": "(1) Fast-paced, upbeat electronic pop music starts immediately with loud, energetic male and female voices shouting and laughing in Mandarin. (2) The sound of beer mugs clinking and the group chanting 'Taco' or 'Go' is audible over the background music. (3) The music stays constant as the soundscape shifts to the acoustics of a busy restaurant with ambient chatter and the sizzle of food. (4) Vocals become more focused on a conversation between a male and female, with a tone of playful teasing and high-pitched laughter. (5) Outdoor ambient street noise (light wind and distant traffic) enters as the group transitions to walking, with the music volume slightly decreasing as the main male voice shouts a farewell.",
-      "text_narrative_log": "(1) '最後喝完的再一杯' (One last glass after finishing) - functional text with an enthusiastic tone. (2) '我們躲酒嘎居然發起了戰門邀請' (Our beer-dodger actually initiated a battle invitation) - decorative hook text with a surprised tone. (3) '第一位啤酒勇士' (The first beer warrior) - decorative text with a celebratory tone. (4) '綠嘉招數之一 跑去吐' (One of Green Ga's tricks: running to vomit) - humorous caption. (5) 'Taco招數 分給別人' (Taco's trick: sharing with others) - humorous caption. (6) '把筆電忘在輕井澤的民宿' (Left the laptop at a guesthouse in Karuizawa) - functional narrative text. (7) '我看是你以身相許' (I see you're offering yourself in return) - teasing variety-show style text. (8) '我幫你背一整路' (I carried it for you the whole way) - functional text with a complaining tone. (9) '拜拜' (Bye bye) - functional closing text."
     },
     "temporal_pacing_summary": {
-      "sceneCutCount": 28,
-      "averageSceneDuration": 3.1,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro drinking challenge -> Restaurant banter and laptop conflict -> Walking home outro."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 12,
-      "maleDetectAmount": 6,
-      "femaleDetectAmount": 5,
-      "kidsDetectAmount": 1,
-      "mainCharacterCount": 3,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Close-up faces"
-      ],
-      "crowdLevel": "Crowd",
-      "countingEvidence": "1 main male creator in white/green, 1 female in grey vest, 1 male in black sweatshirt, plus several friends and diners in the background including a child seen briefly at 00:22.",
-      "mainCharacterDescription": "A man with short brown hair wearing a white long-sleeved shirt with red stitching details and green cargo pants."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Izakaya",
-          "Outdoor Street"
-        ],
-        "topography": [
-          "Plain"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "The indoor scene features a traditional Japanese Izakaya with wooden partitions, red banners, and jackets hanging on the wall. The outdoor scene is a Japanese city street at night with lit signs and crosswalks.",
-      "lightingStyle": "Mixed: Warm indoor restaurant lighting and artificial night street lighting.",
-      "weather": "Clear",
-      "season": "Winter",
+      "sceneCutCount": 24,
+      "averageSceneDuration": 3.6,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Handheld",
-        "Follow shot",
-        "Static"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Beer",
-        "Steak",
-        "Salad"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Asahi",
-        "Tommy Hilfiger",
-        "National Geographic"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 4,
-        "offscreen": 2,
-        "backgroundCrowdVoices": 5,
-        "vocal_demographics": {
-          "male_vocal_count": 4,
-          "female_vocal_count": 2,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited, humorous, and loud",
-        "pitch": "Medium-high",
-        "loudness": "Loud",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Synth-pop",
-      "bgmBPM": 125,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Ding",
-        "Swoosh"
-      ],
-      "ambientNoise": [
-        "Restaurant chatter",
-        "Street noise"
-      ],
-      "audioQuality": "Field Recording"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage -> Linear: Hook -> Evidence -> Resolution",
-      "mainPurpose": "To document a humorous and energetic group outing in Japan, specifically focusing on a beer-drinking challenge and the comedic aftermath of one member forgetting their laptop at a previous location. The content aims to entertain the audience through the group's tight-knit dynamics and relatable travel mishaps.",
-      "visualEmotion": "Energetic and Humorous"
+      "narrativeStructure": "Montage: Action -> Reaction -> Anecdote -> Exit",
+      "mainPurpose": "The video aims to entertain viewers by sharing comedic and high-energy highlights from a group trip. It transitions from a drinking challenge to humorous anecdotes about personal mishaps and playful interpersonal dynamics.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -172,9 +288,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Heavy use of variety-show style floating text, high-pitched comedic commentary, and rapid montage editing typical of Taiwanese creator Cai A-Ga.",
-      "freeDescribe": "The video relies heavily on the chemistry between the main characters and the use of 'meme-like' text overlays to emphasize jokes, which is highly effective for high-engagement social media platforms."
-    }
+    "freeDescribe": "The video relies heavily on variety-show style editing, including on-screen memes and high-contrast text overlays, to amplify the comedic tone of the social interactions."
   }
 }

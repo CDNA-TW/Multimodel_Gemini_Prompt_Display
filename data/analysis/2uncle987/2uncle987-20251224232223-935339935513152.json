@@ -1,184 +1,290 @@
 {
   "videoName": "2uncle987-20251224232223-935339935513152.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 83,
-      "aspectRatio": "9:16",
+      "videoDuration": 84,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A woman with hair tied in two small buns is smiling widely at the camera, showing her teeth. She wears a black and white striped shirt with a prominent bow at the neck. The setting is an outdoor area under bright sunlight, with crowds of people and white event tents visible in the blurred background. She holds a colorful lanyard in front of the lens. (2) A woman dressed in a pink hooded tracksuit walks through the event grounds. A large Ferris wheel and colorful buildings are seen in the distance under a clear sky. She looks happy and interacts with someone off-camera. The lighting is bright and natural, indicating a sunny day at an amusement park or outdoor venue. (3) A man in a white shirt with colorful fruit patterns sits on a small child's scooter in a parking lot. He is surrounded by four small children wearing identical patterned shirts. They are talking near large white storage containers and tents. The camera captures their interaction from a medium distance, showing their expressive faces and gestures. (4) A young boy sits behind a full drum kit on a stage with a bright, colorful graphic background. A man in a black beanie and long-sleeved shirt stands behind him, guiding his hands to hit the drums. The boy is smiling and looks focused on the task. (5) A man with a short hairstyle and a tan shirt holds a large DSLR camera with a Rode microphone attached. He speaks directly into the camera while standing in a crowded outdoor area. A Ferris wheel is visible in the background, and many event participants in colorful shirts are walking by.",
+      "text_narrative_log": "(1) [Subtitle]: POV: 沒剪進去路跑影片裡的素材. [Subtitle]: 二伯掛牌視角 (好幸福😍). (2) [Subtitle]: (燒鳥龜成功!!). (3) [Subtitle]: (孩子王蔡哥). (4) [Subtitle]: (阿祖一起來參加路跑!!). [Variety]: 阿祖本人. (5) [Subtitle]: (在PS旁邊 我顯得好尬). (6) [Subtitle]: (工作人員很熱情幫我拉人🤣). (7) [Subtitle]: (我覺得他在自肥但我沒有證據). (8) [Subtitle]: (我兒子不知道會被多少人羨慕). (9) [Subtitle]: (當時PS在舞台上). (10) [Subtitle]: (閃邊也想掛牌ㄚ).",
+      "visual_human_presence": {
+        "totalHumanCount": 25,
+        "maleDetectAmount": 12,
+        "femaleDetectAmount": 8,
+        "kidsDetectAmount": 5,
+        "mainCharacterCount": 4,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face close-up",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Crowd"
+        ],
+        "countingEvidence": "Multiple main creators, several children in matching outfits, and a large crowd of runners and staff members.",
+        "mainCharacterDescription": "A woman with double-bun hair in a striped bow shirt; a man in a white shirt with colorful fruit prints; a woman in a pink hoodie; a man with a large DSLR camera."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Outdoor Street",
+          "Stage / Performance Venue",
+          "Event Venue / Convention Hall"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban",
+          "Urban High-rise / Skyline"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "An outdoor festival or race event taking place near an amusement park. Visible elements include white tents, barricades, a Ferris wheel, colorful multi-story buildings, and a stage with vibrant graphics.",
+        "lightingStyle": [
+          "Natural daylight"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Autumn / Winter"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Panning",
+          "Walking handheld"
+        ],
+        "shotSize": [
+          "Close-up",
+          "Medium shot",
+          "Full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Montage"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Compilation / montage sequence"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Beverage / juice"
+        ],
+        "trafficDetect": [
+          "Scooter / motorcycle"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Camera / DSLR",
+          "Microphone / lavalier mic",
+          "Electronic Drum / E-drum"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Rode",
+          "Canon"
+        ],
+        "instrumentsVisible": [
+          "Drum Kit / Drum Set"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 4,
+        "total_distinct_voices": 12,
+        "male_vocal_count": 6,
+        "female_vocal_count": 4,
+        "kids_vocal_count": 2
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly",
+          "Humorous"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 125,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 2,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Percussion",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Chatter",
+          "Cheering",
+          "Laughter"
+        ],
+        "crowdNoiseIntensity": 3,
+        "ambientNoiseDetails": [
+          "Nature/Outdoor"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "Other"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 4,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Stingers"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a high-pitched, energetic female laugh followed by fast-paced speech in Traditional Chinese. An upbeat, major-key electronic background music track plays at a moderate volume. The acoustic environment has a subtle outdoor hum with some distant crowd chatter and wind noise. (2) A sharp transition sound effect leads into a new phase where a different female voice speaks with a high arousal level and bright tone. The background music continues with a steady beat, while the ambient noise of a large, active crowd becomes more prominent, including occasional cheers and murmurs. (3) A series of loud, percussive sounds from a real drum set dominates this phase. The snare and cymbals have a sharp, metallic ring. A male voice provides encouragement in the background, exhibiting a professional yet warm tone with clear articulation. (4) The final phase features a montage of overlapping voices, including laughter and short exclamations from multiple people. The BGM swells back to a conversational level. The sound design is fragmented with quick cuts, reflecting the fast-paced visual editing style."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
         "Vlog",
-        "Behind-the-scenes",
-        "Event Highlights"
+        "Event / Festival",
+        "Meme / Trend"
       ],
-      "withRealPeople": true,
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "Taichung"
+          "Unknown"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A woman with twin hair buns (二伯) wears a striped shirt and excited expression, holding up a colorful lanyard. (2) Scene shifts to her in a pink hoodie in front of a large Ferris wheel, gesturing happily. (3) A man in a colorful fruit-patterned shirt (Cai Aga) interacts with a group of young children in matching shirts in a parking lot area. (4) The woman is seen signing a large poster at a white booth surrounded by a crowd. (5) Various quick cuts show backstage interactions, people waving at the camera, and a cameraman filming with professional equipment. (6) A young child is shown playing a drum kit with assistance from an adult. (7) Final scenes show the man and woman laughing backstage and interacting with fans who are trying to place medals around their necks.",
-      "audio_narrative_log": "(1) Upbeat, high-tempo pop-rock music with prominent drums and electric guitar begins and remains constant. (2) A female voice is heard laughing and speaking in a high-pitched, excited tone. (3) A male voice enters, speaking loudly and energetically, often joking. (4) Background sounds include cheering crowds, children's voices, and the distinct sound of a drum set being played during one segment. (5) The audio is a mix of on-site dialogue and a continuous background music track.",
-      "text_narrative_log": "(1) Functional/Hook Text: 'POV: 沒剪進去路跑影片裡的素材' (POV: Materials not edited into the road run video), appears at the top throughout. (2) Decorative Caption: '二伯掛牌視角 (好幸福)' (Er-bo medal perspective, so happy). (3) Decorative Caption: '燒烏龜成功!!' (Burning paper turtles worked!! - a ritual for good weather). (4) Descriptive Caption: '孩子王蔡哥' (King of kids, Tsai-ge). (5) Descriptive Caption: '阿祖本人' (Grandma herself). (6) Descriptive Caption: '工作人員很熱情幫我拉人' (Staff enthusiastically helped me get people). (7) Humorous Caption: '閃邊也想掛牌' (Step aside, also want to hang the medal)."
     },
     "temporal_pacing_summary": {
-      "sceneCutCount": 22,
-      "averageSceneDuration": 3.7,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Hook -> Montage of candid event moments -> Humorous backstage interactions"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 45,
-      "maleDetectAmount": 20,
-      "femaleDetectAmount": 15,
-      "kidsDetectAmount": 10,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Face",
-        "Hands only"
-      ],
-      "crowdLevel": "Crowd",
-      "countingEvidence": "Two main creators (male and female), group of roughly 5-10 children in matching shirts, and large crowd of staff and fans in background.",
-      "mainCharacterDescription": "A female (二伯) with twin buns wearing a striped oversized shirt and later a pink hoodie; a male (Cai Aga) wearing a white t-shirt with a dense colorful fruit pattern."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Outdoor Theme Park",
-          "Event Stage",
-          "Booth"
-        ],
-        "topography": [
-          "Plain"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "An outdoor amusement park area featuring a large Ferris wheel (Lihpao Land), white event tents, parking lots, and security barriers with crowds of people.",
-      "lightingStyle": "Natural bright sunlight",
-      "weather": "Sunny",
-      "season": "Winter/Spring (based on layered clothing)",
+      "sceneCutCount": 18,
+      "averageSceneDuration": 4.6,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese",
-          "English"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "High Saturation, Bright",
-      "cameraWork": [
-        "Handheld",
-        "POV",
-        "Follow shot"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone",
-        "Digital Camera",
-        "RODE Microphone"
-      ],
-      "landmark": [
-        "Lihpao Land Ferris Wheel"
-      ],
-      "brandLogos": [
-        "hahababy",
-        "RODE"
-      ],
-      "instrumentsVisible": [
-        "Drums"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Fragmented",
-      "audioTransition": "Hard cut sync with visuals",
-      "vocalRatio": "Medium"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 3,
-        "offscreen": 2,
-        "backgroundCrowdVoices": 10,
-        "vocal_demographics": {
-          "male_vocal_count": 5,
-          "female_vocal_count": 3,
-          "kids_vocal_count": 4
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Cheerful, energetic, and humorous",
-        "pitch": "High (Female), Moderate (Male)",
-        "loudness": "High",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese",
-          "Taiwanese Hokkien"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop-Rock",
-      "bgmBPM": 135,
-      "instrumentFamiliesAudible": [
-        "Percussion",
-        "Electronic",
-        "Strings"
-      ],
-      "instrumentsAudible": [
-        "Drums",
-        "Electric Guitar",
-        "Bass"
-      ],
-      "musicSourceType": [
-        "Copyrighted Song"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Crowd noise",
-        "Outdoor wind"
-      ],
-      "audioQuality": "Field Recording"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Event Highlights -> Humorous Outtakes",
-      "mainPurpose": "This video serves as a 'behind-the-scenes' or 'deleted scenes' collection for a large-scale community road run event organized by the influencer brand 'hahababy'. By showing candid, funny, and heartwarming moments that didn't make the primary event video, it strengthens the connection between the creators (Cai Aga and 二伯) and their fanbase, emphasizing a sense of community and the joy of the event.",
-      "visualEmotion": "Joyful, Energetic, and Whimsical"
+      "narrativeStructure": "Montage: Hook -> Collection of candid highlights -> Climax with laughter",
+      "mainPurpose": "This video serves as a compilation of candid, humorous, and heartwarming moments from a public running event that were not included in the primary vlog. It aims to share the fun atmosphere and personal interactions between influencers and event attendees.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
-      "isEndorsement": true,
+      "isEndorsement": false,
       "endorsementMethod": [
-        "Implicit",
-        "Integrated"
+        "None"
       ],
-      "endorsementCues": "Characters are wearing clothing from their own brand 'hahababy' and are hosting/participating in an event organized by said brand.",
+      "endorsementCues": "None",
       "endorsementObject": [
-        "hahababy"
+        "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Tsai Aga's energetic and loud comedic style, the inclusion of his family members (二伯 and kids), and the distinctive 'hahababy' fruit-pattern aesthetic.",
-      "freeDescribe": "The video effectively utilizes the 'POV' trend to offer an insider look at influencer event management and fan interaction."
-    }
+    "freeDescribe": "A high-energy, personality-driven event recap emphasizing social connection and behind-the-scenes charm."
   }
 }

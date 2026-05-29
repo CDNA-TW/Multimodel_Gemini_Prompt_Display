@@ -1,14 +1,239 @@
 {
   "videoName": "3ctim-20250305022713-1372474867985177.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 40,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Product Showcase",
-        "Tech Review"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) The video begins with a close-up shot of a hand holding a dark gray Xiaomi 15 smartphone, showcasing the sleek glass back and the prominent square Leica-branded camera module. The lighting is bright and even, typical of a professional exhibition booth, highlighting the metallic reflections on the phone's frame and the fine details of the camera lenses. (2) The shot cuts to various other color options of the Xiaomi 15, including a light green and a white version, held by the same hand to demonstrate the physical feel and aesthetic of the device. The background is a clean, white-themed display area with other tech enthusiasts visible as blurry figures in the distance. (3) The focus shifts to the Xiaomi 15 Ultra, which features a much larger circular camera module with multiple specialized lenses. The hand rotates the device slowly, allowing the viewer to see the texture of the back panel and the integrated Leica branding. (4) A sequence of shots follows, highlighting Xiaomi's ecosystem products: first, the Xiaomi Buds 5 Pro in black and chrome finishes are shown on a metallic surface, followed by the Xiaomi Smart Band 9 Pro displayed in various strap colors like maroon and beige. (5) The camera then pans across a line of Xiaomi Electric Scooter 5 Max units parked on a simulated stone floor section of the booth. Finally, the showcase concludes with the Xiaomi Watch S4 featuring interchangeable bezels and the Xiaomi Pad 7 tablet equipped with a magnetic keyboard cover.",
+      "text_narrative_log": "(1) [Logo]: 3c 有意思 tim 哥. [Logo]: 3ctim. [Slogan]: Xiaomi 15. (2) [Slogan]: Xiaomi 15 Ultra. (3) [Slogan]: Xiaomi Buds 5 Pro. (4) [Slogan]: Xiaomi Smart Band 9 Pro. (5) [Slogan]: Xiaomi Electric Scooter 5 Max. (6) [Slogan]: Xiaomi Watch S4. (7) [Slogan]: Xiaomi Pad 7.",
+      "visual_human_presence": {
+        "totalHumanCount": 3,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 0,
+        "bodyPartVisibility": [
+          "Hands only",
+          "Partial body"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "A single pair of hands is used to display all products, while approximately two other people are visible as blurred silhouettes in the background of the event space.",
+        "mainCharacterDescription": "The primary figure is a hand holding and rotating various technological devices; no faces or complete bodies of main characters are clearly visible."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Exhibition / Museum / Gallery"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A modern, high-tech exhibition hall with white display tables, branded signage, and simulated environments like a stone-paved floor for scooter displays.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Panning",
+          "Static"
+        ],
+        "shotSize": [
+          "Close-up",
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Low angle"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Compilation / montage sequence"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Headphones / earbuds",
+          "Smartwatch / wearable",
+          "Tablet",
+          "Keyboard / mouse"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Xiaomi",
+          "Leica"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 124,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Crowd Murmur"
+        ],
+        "crowdNoiseIntensity": 1,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 2,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 5,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 1,
+        "audioCutFrequency": 0,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio track opens with a vibrant and energetic electronic dance music piece, characterized by a driving 4/4 synthetic kick drum and shimmering electronic arpeggios. As a professional sound designer, I note the high production value and the bright spectral balance of the mix. There is absolutely no human speech or vocal activity throughout this phase. (2) The rhythmic electronic loop continues with consistent intensity, maintaining a steady tempo around 124 BPM. A very faint, high-frequency room tone is detectable, suggesting the recording captures some of the exhibition hall's atmosphere, but it is effectively masked by the dominant music signal. No transient sound effects or sharp impacts are heard. (3) The clip concludes as the electronic track fades out slightly toward the end. The acoustic texture remains uncluttered, consisting solely of the synthesized musical layers. The overall audio design is purely functional, serving to provide a fast-paced rhythmic bed for the visual product transitions without any narrative or foley sound interference."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Product Showcase"
+      ],
       "location": {
         "country": [
           "Unknown"
@@ -18,147 +243,19 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video begins with a close-up of a person's hands holding a dark grey Xiaomi 15 smartphone, showing its back and camera module. (2) The scene transitions to show the light green and then the white versions of the same phone. (3) The demonstration shifts to the Xiaomi 15 Ultra, featuring a large circular camera array, shown in both black and white finishes. (4) The camera pans over accessories including the Xiaomi Buds 5 Pro charging cases in silver and black. (5) Several Xiaomi Smart Band 9 Pro units are shown on display stands, followed by the Xiaomi Electric Scooter 5 Max on a textured floor. (6) The video concludes with a showcase of the Xiaomi Watch S4 and the Xiaomi Pad 7 tablet with its keyboard accessory.",
-      "audio_narrative_log": "(1) Upbeat, high-energy electronic music with a consistent dance beat plays throughout the entire duration. (2) No vocals or spoken narration are detected. (3) Subtle ambient noise typical of a crowded exhibition space is present in the background but is mostly masked by the music.",
-      "text_narrative_log": "(1) 'Xiaomi 15' - Functional text identifying the initial product model. (2) 'Xiaomi 15 Ultra' - Functional text identifying the premium phone model. (3) 'Xiaomi Buds 5 Pro' - Functional text identifying the earbuds. (4) 'Xiaomi Smart Band 9 Pro' - Functional text identifying the fitness trackers. (5) 'Xiaomi Electric Scooter 5 Max' - Functional text identifying the transport device. (6) 'Xiaomi Watch S4' - Functional text identifying the smartwatches. (7) 'Xiaomi Pad 7' - Functional text identifying the tablet. (8) Social media handles '3c有意思tim哥' and '3ctim' appear as persistent corner overlays."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 18,
-      "averageSceneDuration": 2.2,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Intro (Phones) -> Mid (Accessories/Wearables) -> Outro (Scooter/Tablet)"
+      "sceneCutCount": 14,
+      "averageSceneDuration": 2.8,
+      "editingPace": "Fast",
+      "isNarrativeShift": false
     },
-    "visual_human_presence": {
-      "totalHumanCount": 4,
-      "maleDetectAmount": 2,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Hands only",
-        "Partial torso",
-        "Background figures"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 main demonstrator (hands only), at least 3 passers-by visible in the background shots.",
-      "mainCharacterDescription": "A person wearing a blue knitted sweater, primarily visible through their hands demonstrating the products."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Tech Showroom",
-          "Exhibition Hall"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A clean, modern exhibition environment with white display tables, minimalist product stands, and posters for 'Xiaomi Series' and 'Wearables'.",
-      "lightingStyle": "Bright, even exhibition lighting",
-      "weather": "None",
-      "season": "None",
-      "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "Medium",
-        "language": [
-          "English",
-          "Chinese"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "Bright and clean with high clarity",
-      "cameraWork": [
-        "Follow shot",
-        "Pan",
-        "Static"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "Electric Scooter"
-      ],
-      "techDetect": [
-        "Smartphone",
-        "Earbuds",
-        "Smartwatch",
-        "Tablet"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Xiaomi",
-        "LEICA"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "None",
-      "vocalRatio": "None"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 0,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 1,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "None",
-        "pitch": "None",
-        "loudness": "None",
-        "speed": "None",
-        "speechDensity": "None",
-        "language": [
-          "None"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Crowd chatter"
-      ],
-      "audioQuality": "Field"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Showcase -> Product Rotation -> Category Progression",
-      "mainPurpose": "To provide a rapid 'hands-on' visual summary of Xiaomi's latest hardware ecosystem, focusing on industrial design and product variety at a major tech exhibition.",
-      "visualEmotion": "Modern, Innovative, Energetic"
+      "narrativeStructure": "List-based: Showcase Product A -> Product B -> Product C",
+      "mainPurpose": "To provide a rapid-fire visual highlight reel of Xiaomi's latest hardware ecosystem unveiled at a major technology exhibition, emphasizing design, color variety, and brand collaboration with Leica.",
+      "visualEmotion": [
+        "energetic",
+        "informative"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -166,14 +263,11 @@
         "Explicit",
         "Full"
       ],
-      "endorsementCues": "Direct and exclusive focus on Xiaomi-branded products with clear text identifying each model.",
+      "endorsementCues": "Direct display of products with clear brand names and dedicated labels.",
       "endorsementObject": [
         "Xiaomi"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Usage of the '3c有意思tim哥' watermark and social media handle.",
-      "freeDescribe": "The video serves as a high-quality vertical social media snippet for tech enthusiasts to preview new hardware launches without narration."
-    }
+    "freeDescribe": "The video effectively utilizes a fast-paced montage and upbeat BGM to present a high volume of tech product information in a short timeframe."
   }
 }

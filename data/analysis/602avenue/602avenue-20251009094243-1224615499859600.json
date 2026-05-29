@@ -1,159 +1,259 @@
 {
   "videoName": "602avenue-20251009094243-1224615499859600.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 38.0,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Commentary",
-        "Personal Update"
-      ],
+      "videoDuration": 37.0,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
+      "visual_narrative_log": "(1) A young woman with long dark hair, wearing a black and white checkered puff-sleeve top, stands in an indoor room. She speaks with an expressive face, her hands resting near her waist. Behind her is a beige wall with a wooden-framed painting and a white air conditioning unit. (2) Multiple social media comment overlays appear on screen as she continues to speak. She looks slightly to the side and down, with bright lighting illuminating her face. (3) Large white text overlays appear over her torso. She looks startled with wide eyes and an open mouth. (4) She suddenly holds up a large, bright yellow pomelo in front of her stomach, mimicking a baby bump. Large yellow characters and text in parentheses appear on screen. (5) She remains in a medium shot, explaining her situation while holding the fruit. A small photo of her with a man appears as an inset, showing them in a casual setting. (6) She continues the explanation with rapid hand gestures, maintaining a smile and energetic eye contact with the camera. The video concludes with a 'Conclusion' text overlay.",
+      "text_narrative_log": "(1) [Subtitle]: 半路加入的，有寶寶了喔！？. (2) [Subtitle]: 太快了吧. [Subtitle]: 趕進度？？. [Subtitle]: 哇好快.... (3) [Subtitle]: 我被發現了. (4) [Variety]: 怎麼. [Subtitle]: (怎麼有柚子). (5) [Subtitle]: 包意思齁. [Subtitle]: 我還沒. [Variety]: 懷孕！. (6) [Subtitle]: 但是我大概懂. [Subtitle]: 為什麼有一些人會這樣想. (7) [Subtitle]: 因為我們才公開交往一個月. [Logo]: 公開男朋友. (8) [Subtitle]: 結果開始結婚準備. (9) [Subtitle]: 所以看起來有點太突然. [Variety]: 沒錯沒錯. (10) [Subtitle]: 但其實我跟冬瓜. (11) [Subtitle]: 已經交往4年半左右. (12) [Subtitle]: 那為什麼今年突然. (13) [Subtitle]: 開始準備結婚呢. (14) [Subtitle]: 我在限動講過一次. (15) [Subtitle]: 也有家人狀況的因素. (16) [Subtitle]: 但其實最重要的就是. [Subtitle]: (只有我知道的一個契機). (17) [Subtitle]: 以後. [Subtitle]: 有空的時候. (18) [Subtitle]: 我會再跟大家分享. [Variety]: 結論. [Subtitle]: (只有柚子).",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main female creator on screen throughout; 1 male partner visible briefly in an inset photo.",
+        "mainCharacterDescription": "A young woman with long dark hair, wearing a black and white checkered puff-sleeve blouse."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home"
+        ],
+        "locationTopography": [
           "None"
         ],
-        "city": [
-          "None"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman with long dark hair, wearing a black-and-white checkered dress, stands in a brightly lit indoor room. She starts by looking down at her stomach and holding it as if she might be pregnant, with a serious facial expression. (2) She suddenly pulls a large yellow pomelo (yuzu) from behind her back/dress area, revealing that the 'bump' was just the fruit. She laughs and begins talking animatedly to the camera, using frequent hand gestures. (3) A series of screenshots and variety-show style text bubbles appear as she explains her situation. She holds the pomelo throughout the explanation, eventually smiling and waving at the end.",
-      "audio_narrative_log": "(1) Upbeat, fast-paced electronic background music starts immediately. A high-pitched female voice speaks in an energetic, rapid-fire tone. (2) The music remains constant in the background while the vocal continues the explanation. Several sharp sound effects (SFX) like 'ding' and 'whoosh' are heard synchronized with text appearing on screen. (3) The speaking ends as the music reaches its final loop and cuts off.",
-      "text_narrative_log": "(1) '半路加入的，有寶寶了喔!?' (Functional Text: A user comment asking if she's pregnant). (2) '我被發現了' (Decorative/Hook Text: 'I've been found out' - humorous tone). (3) '我還沒懷孕！' (Decorative Text: 'I'm not pregnant yet!' - emphatic tone). (4) '公開男朋友' (Functional Text: 'Publicly announcing boyfriend' appearing over a screenshot of a couple)."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 14,
-      "averageSceneDuration": 2.7,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro/Hook (Rumor) -> Reveal (The Fruit) -> Explanation (Relationship Context) -> Conclusion"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main female creator; a man appears in a static screenshot but not live in the frame.",
-      "mainCharacterDescription": "A young Asian woman with long, straight dark hair wearing a black-and-white checkered off-the-shoulder dress."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Living Room"
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A domestic indoor setting featuring a beige wall, a framed painting of a landscape, a white wall-mounted air conditioner, and blinds on a window to the right.",
+        "lightingStyle": [
+          "Bright indoor lighting"
         ],
-        "topography": [
-          "None"
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Summer"
+        ],
+        "colorTone": [
+          "Natural and bright"
         ]
       },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A modern indoor room with beige walls, an air conditioning unit, a white air purifier, and blinds covering a window.",
-      "lightingStyle": "Bright indoor studio-style lighting",
-      "weather": "Unknown",
-      "season": "Unknown",
-      "editingPace": "Fast",
-      "textOverlay": {
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Selfie handheld"
+        ],
+        "shotSize": [
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Jump cut",
+          "Picture-in-picture / inset",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Looped short-form sequence"
+        ]
+      },
+      "visual_text_overlay": {
         "density": "High",
-        "language": [
+        "textLanguage": [
           "Traditional Chinese"
         ],
         "isSubtitled": true
       },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Pomelo"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Air Purifier",
-        "Air Conditioner"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut with SFX",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and explanatory",
-        "pitch": "High",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Chinese"
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Fruit"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Whoosh",
-        "Ding",
-        "Pop"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 7,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Pop / Bubble SFX",
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A high-tempo electronic pop track begins, featuring a crisp 4/4 drum beat and bright synthesizers. A female voice speaks with high energy and a fast speech rate, delivering a narrative with a friendly and animated tone. (2) A quick 'whoosh' sound effect punctuates the transition as the voice continues at a high pitch. (3) A distinct 'pop' sound effect occurs, coinciding with a visual change, while the BGM maintains its consistent energetic rhythm. (4) The speaker's vocal intonation remains highly variable, showing excitement and humor through rising pitch contours. (5) Several small 'ding' or UI-style sound effects are layered over the mix to mark key points in the spoken content. (6) The track concludes with a final vocal phrase as the music sustains a final chord, maintaining a high signal-to-noise ratio throughout."
     }
   },
-  "high_inference_interpretations": {
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Personal Talk",
+        "Vlog"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 2.05,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Reveal -> Evidence -> Conclusion",
-      "mainPurpose": "The video is a humorous clarification of a pregnancy rumor. The creator uses a visual gag (hiding a pomelo under her dress) to trick the audience into thinking she has a baby bump before revealing the truth. She then explains the context of her recent relationship announcement and clarifies her long-term relationship timeline to address why fans might have been confused or suspicious of a 'shotgun marriage'.",
-      "visualEmotion": "Humorous and energetic"
+      "narrativeStructure": "Montage: Hook -> Misleading Clue (Pomelo) -> Detailed Backstory -> Conclusion",
+      "mainPurpose": "The video is a personal clarification addressing pregnancy rumors. The creator uses humor by posing with a pomelo as a fake baby bump before explaining her long-term relationship timeline to reassure followers that her upcoming marriage is not a sudden 'shotgun wedding' but a planned step after four and a half years of dating.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "informative"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -165,9 +265,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-energy fast-talking commentary with variety-show style text graphics.",
-      "freeDescribe": "The video effectively uses a seasonal fruit (likely related to the Mid-Autumn Festival context of pomelos) as a comedic prop to debunk social media rumors."
-    }
+    "freeDescribe": "High-engagement short-form content with frequent text overlays and fast-paced editing, typical of social media storytelling."
   }
 }

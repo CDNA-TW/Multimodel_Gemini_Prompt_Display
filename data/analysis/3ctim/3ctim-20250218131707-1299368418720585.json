@@ -1,15 +1,243 @@
 {
   "videoName": "3ctim-20250218131707-1299368418720585.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 54,
-      "aspectRatio": "9:16",
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A middle-aged man wearing a checkered flat cap and a white textured sweater with a fair-isle pattern at the bottom stands in front of a neutral-colored curtain background. He holds a smartphone in his right hand, gesturing with his left hand as he speaks enthusiastically directly into the camera. The lighting is bright and even, typical of a professional studio setup. (2) The scene transitions to a mobile screen recording demonstrating the \"Apple Activity Invitation\" application in the App Store. Various icons like yoga and a birthday cake are visible. The man's face appears in a small circular inset at the bottom right. The interface shows selection of a red gift-box background and the input of text for a lottery event. (3) The screen recording continues to show detailed features of the invitation, including a map location, weather forecast for the event day, and buttons for \"Join,\" \"Not Join,\" and \"Maybe.\" Sharing options for various apps appear at the bottom. The Apple Intelligence logo with its colorful swirling design is briefly highlighted. (4) The man returns to full-screen view, continuing his energetic presentation while holding the phone. Finally, the video cuts to a black background with a small animated hamster illustration holding a gold ingot, followed by large white text wishing viewers luck.",
+      "text_narrative_log": "(1) [Logo]: 3c有意思tim哥. [Slogan]: 未滿18歲不得購買或兌換彩券. (2) [Subtitle]: 威力彩. [Variety]: 活動邀約App. (3) [Subtitle]: 下載後把它打開. [Slogan]: Apple 活動邀約. (4) [Subtitle]: 我邀請他以後. [Variety]: 威力彩. (5) [Subtitle]: 傳出去就搞定了. [Slogan]: 祝大家中大獎!.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Head and shoulders",
+          "Upper body",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main creator (3c Tim) presenting to the camera.",
+        "mainCharacterDescription": "A middle-aged man with glasses, wearing a checkered flat cap and a white patterned sweater."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio",
+          "Digital Interface / Screen Capture"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A simple indoor studio with greyish-white curtains and a green plant leaf visible. Much of the video uses a mobile UI screen capture showing app interfaces.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium close-up",
+          "Screen / interface close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Picture-in-picture / inset",
+          "Screen recording edit"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multi-camera / cutaway"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Cartoon / animated animal"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Desktop computer / monitor"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Apple",
+          "3c有意思tim哥"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Professional/Narrative",
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 7,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM",
+          "Pop"
+        ],
+        "tempoBPM": 120,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Digital UI SFX",
+          "Whoosh / Transition SFX",
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) Vocal: Male narrator with a bright, energetic tone and moderate-to-fast speech rate. No BGM initially, then an upbeat, mid-tempo electronic pop track fades in with a steady electronic drum beat. SFX: None. (2) Vocal: Narrator continues explaining app steps with clear articulation and high arousal. Music: The BGM persists with a steady 4/4 rhythm and synthesized textures. SFX: Subtle digital UI \"click\" sounds are heard synchronously with on-screen interface interactions. (3) Vocal: The narrator's pitch varies as he emphasizes different app features like map integration and RSVP buttons. Music: BGM continues at a consistent volume level as a supportive bed. SFX: A soft \"whoosh\" sound effect accompanies rapid screen recording transitions. (4) Vocal: The narrator delivers a concluding sentence with a rising, positive intonation. Music: The BGM reaches a final cadence and fades out quickly. SFX: A playful \"ding\" sound accompanies the appearance of the final celebratory text on the black screen."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
-        "Tutorial",
-        "Vlog",
+        "Tutorial / How-to",
         "Tech Review"
       ],
-      "withRealPeople": true,
       "location": {
         "country": [
           "Taiwan"
@@ -19,162 +247,32 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A middle-aged man with glasses, a houndstooth-patterned flat cap, and a white fuzzy patterned sweater is speaking enthusiastically into the camera while holding a silver smartphone. (2) The screen transitions to a screen-recording demonstration of the 'Apple Invite' application on an iPhone, showing the App Store interface and then the app's internal creation process. (3) The man navigates through the app, choosing a red background with gift boxes, typing in the title '威力彩' (Power Lottery), and setting a date of February 8th. (4) The visual flow continues with the screen recording showing weather data, maps of the Songshan District, and options for shared albums and Apple Music integration. (5) A preview screen is shown with 'Attend', 'Decline', and 'Maybe' buttons, followed by an interface for selecting contacts. (6) The video ends with a black screen featuring a cartoon hamster and traditional Chinese text.",
-      "audio_narrative_log": "(1) A male voice starts speaking in Mandarin with a high-pitched, energetic, and promotional tone. Upbeat, mid-tempo electronic background music begins. (2) The vocal continues as the main source, explaining the app's functions. Occasional digital UI sound effects (pops and clicks) are heard as screen elements are tapped. (3) The background music remains consistent in volume and tempo. (4) The speaker concludes with an encouraging remark, and the music fades slightly as the video ends with a brief silence.",
-      "text_narrative_log": "(1) Top left corner displays social media handles: '3c 有意思 tim 哥' and '3ctim'. (2) A disclaimer at the bottom left reads: '未滿 18 歲不得購買或兌領彩券' (Under 18s cannot buy or redeem lottery tickets). (3) Large animated hook text appears: 'Apple 最新活動邀約 App' (Apple's latest event invitation App). (4) Functional subtitles throughout translate the speaker's Mandarin dialogue. (5) On-screen UI text includes '威力彩' (Power Lottery), 'Apple Intelligence', and '祝大家中大獎!' (Wish everyone hits the jackpot!)."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 18,
-      "averageSceneDuration": 3.0,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Hook -> App Demonstration -> Feature Highlights -> Closing CTA"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Head and shoulders",
-        "Hands"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main creator (Tim哥) visible at the start and in a circular inset during the demo.",
-      "mainCharacterDescription": "Male, wearing glasses, a black and white houndstooth cap, and a white knit sweater with a grey geometric pattern."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Studio",
-          "Digital Interface"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "Initially a neutral, slightly out-of-focus indoor studio background; transitions to a dynamic screen-recording background of an iPhone interface.",
-      "lightingStyle": "Bright studio lighting",
-      "weather": "Unknown",
-      "season": "Winter",
+      "sceneCutCount": 15,
+      "averageSceneDuration": 3.6,
       "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "Medium",
-        "language": [
-          "Traditional Chinese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural and bright; the app interface uses high-saturation reds and yellows.",
-      "cameraWork": [
-        "Static",
-        "Screen capture"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "Hamster (Cartoon)"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "iPhone",
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Apple",
-        "iCloud+",
-        "Apple Music",
-        "Apple Intelligence"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut between narration segments",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Enthusiastic and professional",
-        "pitch": "Medium-high",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "UI Pop",
-        "Click"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Step-by-step Tutorial -> Benefit -> Outro",
-      "mainPurpose": "The video serves as a instructional guide to demonstrate the features of a new Apple event invitation app, specifically using the context of organizing a group lottery buy (Power Lottery) to engage the audience and show practical utility.",
-      "visualEmotion": "Energetic and Positive"
+      "narrativeStructure": "Linear: Hook -> Tutorial -> Conclusion",
+      "mainPurpose": "To demonstrate and teach viewers how to use the 'Apple Activity Invitation' app to organize social events, specifically focusing on inviting friends to buy lottery tickets together.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
         "Explicit",
-        "Full"
+        "Integrated"
       ],
-      "endorsementCues": "The entire video is dedicated to explaining the features of an Apple-branded application, with clear brand logos and a focus on product utility.",
+      "endorsementCues": "The host specifically introduces and demonstrates the features of the Apple Activity Invitation app.",
       "endorsementObject": [
-        "Apple",
-        "Apple Invite App"
+        "Apple Activity Invitation"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Creator's distinctive flat cap and enthusiastic 'Tim哥' persona.",
-      "freeDescribe": "The video effectively uses the lottery theme as a hook to demonstrate technical features, making it relevant to local cultural interests in Taiwan."
-    }
+    "freeDescribe": "A typical social media tech tip video featuring a well-known tech influencer demonstrating a specific software feature with high energy."
   }
 }

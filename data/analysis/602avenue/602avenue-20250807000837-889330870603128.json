@@ -1,15 +1,241 @@
 {
   "videoName": "602avenue-20250807000837-889330870603128.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 10,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Dance",
-        "Music"
-      ],
+      "videoDuration": 9.4,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A young woman wearing a gray t-shirt and a lavalier microphone holds a smartphone very close to the camera lens. The phone screen displays a vibrant video of several girls dancing, covered by a bright red card that reads 'Baby DONT Cry' alongside a P NATION logo. The scene is outdoors on what appears to be a bridge or rooftop walkway with a clear sky background. (2) She pulls the phone away to reveal four other young women standing in a line behind her. They are dressed in fashionable, coordinated outfits including pleated skirts, oversized trousers, and stylish tops. They immediately begin a synchronized dance routine involving sharp hand movements and hip sways. (3) An inset video window appears at the top of the frame, showing professional music video footage of the same group dancing in different urban settings. The main group continues their performance with high energy, ending the sequence with smiling faces and diverse hand-heart poses.",
+      "text_narrative_log": "(1) [Subtitle]: Baby DONT Cry妹妹們來了😍. [Slogan]: Baby DONT Cry. [Logo]: P NATION.",
+      "visual_human_presence": {
+        "totalHumanCount": 5,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 5,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 5,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 woman in foreground initially holding a phone, 4 women in the background forming a dance group.",
+        "mainCharacterDescription": "A group of five young Asian women with long dark or blonde hair, wearing trendy Y2K-inspired and casual-chic outfits like gray t-shirts, school-style pleated skirts, and wide-leg cargo pants."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Rooftop / City View",
+          "Outdoor Street"
+        ],
+        "locationTopography": [
+          "Urban High-rise / Skyline"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "An outdoor pedestrian bridge or walkway with gray metallic railings under a bright, overcast sky with soft natural light.",
+        "lightingStyle": [
+          "Natural daylight"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Summer"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Selfie handheld"
+        ],
+        "shotSize": [
+          "Medium full shot",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Picture-in-picture / inset"
+        ],
+        "visualRhythm": [
+          "Rhythm matched to music"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Microphone / lavalier mic"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "P NATION"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 1
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "English"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Rising"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 3,
+        "male_singer_count": 0,
+        "female_singer_count": 3,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "English"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 5,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Impact / Hit SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 5,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 1,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio track opens with a high-energy, polished pop beat characterized by bright synthesizers and a sharp electronic kick drum. Female group vocals harmoniously sing a catchy hook that includes the phrase 'Baby Don't Cry' with a highly upbeat and rhythmic delivery. (2) The tempo remains consistent at a dance-ready pace. The vocals transition into a rhythmic spelling of 'A-B-C-D-E-F Girl,' delivered with high vocal arousal and precise timing matching the four-on-the-floor beat. There are no background noises or environmental sounds, indicating a studio-mastered track. (3) The musical loop continues with dense percussive textures and bright frequency weight. The energy level stays peaked throughout the short segment, concluding with a final resonant synth chord and a percussive impact SFX."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Dance",
+        "Music / Performance / MV",
+        "Promotion / Advertisement / Indoresment"
+      ],
       "location": {
         "country": [
           "Unknown"
@@ -19,156 +245,32 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman in a grey t-shirt holds a smartphone close to the camera lens, displaying a teaser video for the group BABYMONSTER. (2) She pulls the phone away to reveal herself and three other young women standing on a wooden outdoor boardwalk under a cloudy sky. (3) The four women perform a synchronized dance routine while a small video inlay at the top of the frame shows the original music video choreography for comparison.",
-      "audio_narrative_log": "(1) Upbeat K-pop music begins immediately featuring high-energy female vocals performing rhythmic lyrics ('A-B-C-D-E-F-G...'). (2) The music maintains a fast tempo with heavy electronic beats. (3) Slight ambient wind noise is audible in the background throughout the dance performance.",
-      "text_narrative_log": "(1) Decorative Text: 'Baby DONT Cry 妹妹們來了😍' (Baby DONT Cry sisters are here) appears in the center of the frame with a playful and excited tone. (2) Functional Text: 'BABYMONSTER' and 'COMING SOON' are visible on the screen of the handheld smartphone at the start."
-    },
     "temporal_pacing_summary": {
       "sceneCutCount": 1,
-      "averageSceneDuration": 10.0,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro reveal -> Synchronized dance performance"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 4,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 4,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 main female creator in foreground, 3 female backup dancers/friends in midground.",
-      "mainCharacterDescription": "A young woman with long reddish-brown hair wearing a grey t-shirt and green cargo pants."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Outdoor Boardwalk"
-        ],
-        "topography": [
-          "Plain"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A wooden deck or boardwalk with a metal railing, overlooking an open area under an overcast, bright grey sky.",
-      "lightingStyle": "Natural daylight, overcast",
-      "weather": "Cloudy",
-      "season": "Summer",
+      "averageSceneDuration": 9.4,
       "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "Low",
-        "language": [
-          "English",
-          "Chinese"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Handheld"
-      ]
+      "isNarrativeShift": false
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "BABYMONSTER"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "None",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 0,
-        "offscreen": 7,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 7,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Energetic and rhythmic",
-        "pitch": "High-pitched",
-        "loudness": "High",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "English",
-          "Korean"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "K-pop",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum machine"
-      ],
-      "musicSourceType": [
-        "Copyrighted Song"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Wind"
-      ],
-      "audioQuality": "Field"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Action",
-      "mainPurpose": "The video is a dance cover and fan promotion for the K-pop group BABYMONSTER. It uses a 'reveal' hook by showing the group's teaser on a phone before transitioning into a coordinated dance performance by the creators to demonstrate skills and engagement with the music trend.",
-      "visualEmotion": "Energetic and Positive"
+      "narrativeStructure": "Linear: Hook -> Performance -> Closing Pose",
+      "mainPurpose": "The video serves to promote a specific song and music group by showcasing a synchronized dance routine tailored for social media trends, leveraging high-energy visuals and audio.",
+      "visualEmotion": [
+        "energetic",
+        "youthful",
+        "cheerful"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
-        "Implicit",
-        "Integrated"
+        "Explicit",
+        "Full"
       ],
-      "endorsementCues": "Prominent display of BABYMONSTER branding and performance of their choreography.",
+      "endorsementCues": "The presence of a branded phone display featuring a logo and specific song title, combined with a caption introducing the 'sisters', indicates a direct promotion of a musical artist or group.",
       "endorsementObject": [
-        "BABYMONSTER"
+        "P NATION"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Split-screen comparison with original music video",
-      "freeDescribe": "The video aligns with common social media dance challenges where creators mimic K-pop choreography."
-    }
+    "freeDescribe": "This is a typical promotional dance challenge video for a K-pop style music release, using high-quality production and synchronized movement to drive engagement."
   }
 }

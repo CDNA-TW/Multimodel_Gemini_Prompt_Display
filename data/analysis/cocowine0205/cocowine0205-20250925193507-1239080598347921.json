@@ -1,177 +1,291 @@
 {
   "videoName": "cocowine0205-20250925193507-1239080598347921.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 76,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Product Review",
-        "Food Review",
-        "Vlog"
-      ],
+      "videoDuration": 77,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "Taiwan"
+      "visual_narrative_log": "(1) A young woman with long dark hair, wearing a black and white patterned bucket hat and a white off-the-shoulder textured top, stands in a brightly lit Costco freezer aisle. She smiles and points towards the frozen food cabinets while gesturing with her hands. (2) Close-up shot of the woman holding a large red bag of 'Da Cheng Spicy Fried Chicken Breast Strips' in front of the freezer. The lighting is bright and industrial. (3) The scene transitions to an indoor home or studio setting with soft, warm lighting. Two women sit at a white table; one wears a black beret and a black top, and the other remains in the bucket hat. A grey plate of golden-brown fried chicken is placed centrally. They use silver forks to pick up and examine the chicken. (4) Multiple close-up shots show the crispy, breaded texture of the chicken strips. The women take bites, chewing thoughtfully with neutral to positive facial expressions. (5) The woman in the beret talks to the camera, pointing at the plate and the product bag positioned next to them. The background features a blurred living area with plush toys and shelves.",
+      "text_narrative_log": "(1) [Logo]: COSTCO WHOLESALE. [Slogan]: 傳統炸雞最讚. [Variety]: 大成香辣炸柳. (2) [Subtitle]: 大成的雞都滿好吃的. (3) [Subtitle]: 他竟然出了一個. (4) [Variety]: 辣口味的雞柳. [Slogan]: $499. (5) [Subtitle]: 很多人都在討論. (6) [Subtitle]: 討論度這個高 有這麼好吃嗎? 吃看看. (7) [Subtitle]: 1.7公斤非常的重. (8) [Subtitle]: 希望不要讓我們失望. (9) [Subtitle]: 香辣炸雞柳~. (10) [Variety]: 值得推薦. [Variety]: 好辣. (11) [Subtitle]: 首先呢 這個雞柳條呢 一整袋1.7公斤. (12) [Subtitle]: 只要499元. (13) [Variety]: 非常簡單. (14) [Subtitle]: 再來他的料理方式非常簡單. (15) [Subtitle]: 你直接氣炸鍋200度 12分鐘就可以了. (16) [Variety]: 地瓜粉. (17) [Subtitle]: 而且它氣炸鍋 因為它的皮呢. (18) [Subtitle]: 是用那種地瓜粉 如果你很喜歡老式炸雞. (19) [Subtitle]: 那種傳統市場炸的 那種炸雞地瓜粉的. (20) [Subtitle]: 這種皮的話 一定要試一下. (21) [Variety]: 完美的地瓜粉. (22) [Subtitle]: 因為它就是 完美的地瓜粉 那種酥酥顆粒顆粒的皮. (23) [Subtitle]: 它的皮裹的薄薄的. (24) [Subtitle]: 所以你不用擔心. (25) [Subtitle]: 你用因為氣炸鍋 有時候去炸一些冷凍食品. (26) [Subtitle]: 老實說很容易 有一邊軟軟的 對. (27) [Subtitle]: 還要翻面 然後特別去用. (28) [Subtitle]: 不用 它就是直接丟進去12分鐘出來. (29) [Subtitle]: 然後整體都是酥酥脆脆. (30) [Subtitle]: 超級無敵有味道. (31) [Subtitle]: 就是會吃辣的人 應該是微辣. (32) [Subtitle]: 然後怕辣的人 大概是小辣的程度. (33) [Subtitle]: 非常的過癮. (34) [Subtitle]: 重點是它的雞肉 完全不會柴. (35) [Subtitle]: 不會老 非常推薦. (36) [Subtitle]: 放一包在家裡 有時候想吃或當晚餐吃都可以.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Face close-up",
+          "Hands only"
         ],
-        "city": [
-          "None"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A woman wearing a white off-the-shoulder top and a black and white bucket hat stands in the freezer section of a Costco, pointing to and then holding up a large bag of chicken strips. (2) The scene transitions to a home dining setting where the same woman and another woman in a black beret sit behind a table with the chicken product and plates of cooked chicken. (3) The women use forks to hold up pieces of fried chicken to the camera, showing the crispy texture, and then eat them with enthusiastic expressions. (4) Close-up shots of the cooked chicken on a black plate are interspersed with their commentary.",
-      "audio_narrative_log": "(1) Upbeat and energetic pop background music plays continuously. A high-pitched, excited female voice introduces the 'Dachan' chicken strips at Costco. (2) The audio shifts to a dialogue between two females discussing the product's price, weight (1.7kg), and the ease of preparation using an air fryer. (3) Vocal tones remain friendly and persuasive throughout the tasting phase, with clear enunciation of the brand name and positive descriptors of the taste.",
-      "text_narrative_log": "(1) Functional text: 'COSTCO WHOLESALE' and '大成香辣炸雞柳' (Dachan Spicy Chicken Strips) appear as persistent headers. (2) Functional text: '$499' and '1.7公斤' (1.7kg) indicate product details. (3) Decorative/Hook text: '非常簡單' (Very simple), '地瓜粉' (Sweet potato starch), and '值得推薦' (Worth recommending) emphasize product benefits in an enthusiastic tone."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 14,
-      "averageSceneDuration": 5.4,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Store Intro -> Product Display -> Home Cooking/Tasting -> Recommendation"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Upper body",
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "2 main female creators appearing throughout the video.",
-      "mainCharacterDescription": "One woman in a white off-the-shoulder top and bucket hat; one woman in a black beret and black top."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Supermarket",
-          "Indoor Kitchen"
+        "crowdLevel": [
+          "Duo"
         ],
-        "topography": [
-          "None"
+        "countingEvidence": "2 main female presenters appearing throughout the video.",
+        "mainCharacterDescription": "One woman wears a black and white patterned bucket hat and a white off-shoulder top. The other woman wears a black beret and a dark grey top."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Supermarket / Warehouse Store",
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The first location is a Costco freezer aisle with rows of glass doors and various frozen food packages. The second location is a domestic living space with a white table, shelving, and soft interior lighting.",
+        "lightingStyle": [
+          "Bright studio lighting",
+          "Warm indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
         ]
       },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "Costco freezer aisle with frozen goods; a brightly lit home kitchen/dining area with food on the table.",
-      "lightingStyle": "Bright indoor lighting",
-      "weather": "None",
-      "season": "None",
-      "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Panning",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Medium close-up",
+          "Insert shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Insert shot",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
         ],
         "isSubtitled": true
       },
-      "colorTone": "Bright and saturated",
-      "cameraWork": [
-        "Static",
-        "Close-up"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Fried Chicken",
-        "Chicken Strips"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Costco",
-        "大成 (Dachan)"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 2,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and energetic",
-        "pitch": "Medium-high",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Fast food / burger / fries / pizza",
+          "Meat / beef / pork / chicken",
+          "Prepared meal / plated dish"
+        ],
+        "trafficDetect": [
+          "Shopping cart"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Costco",
+          "大成"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Keyboard"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 0,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Professional/Narrative",
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 6,
+        "valence": 7,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 115,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Commercial/Recreational",
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Pop / Bubble SFX",
+          "Ding / Bell SFX",
+          "Whoosh / Transition SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Mixed"
+        ]
+      },
+      "audio_narrative_log": "(1) Upbeat, bright electronic pop music begins with a steady 4-on-the-floor beat. A female voice with a high-pitched, friendly tone excitedly introduces a product. A 'pop' SFX is heard as graphics appear. (2) A sharp 'ding' sound effect triggers a transition. The vocal becomes more narrative and explanatory, maintaining moderate speed. The BGM continues with synthesized melodic patterns. (3) A subtle 'whoosh' SFX marks a change in background texture as the setting shifts. Vocal intensity remains consistent, though the speech rate slightly increases to detail cooking instructions. (4) Brief pauses in speech are filled with the steady rhythm of the BGM. The speaker's tone remains positive and assertive while describing the texture of the food. (5) Final phase includes high-arousal vocal affirmations about the product's taste, layered over the continuous upbeat music until the clip ends abruptly."
     }
   },
-  "high_inference_interpretations": {
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Food Review",
+        "Product Showcase"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 4.27,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Info -> Demonstration -> Social Proof",
-      "mainPurpose": "The video aims to promote Dachan Spicy Chicken Strips available at Costco by demonstrating their convenience and quality. The creators use a 'discovery' narrative at the store followed by a 'tasting' session at home to validate the product's value and taste, specifically targeting Costco shoppers looking for easy-to-cook frozen snacks.",
-      "visualEmotion": "Energetic and joyful"
+      "narrativeStructure": "Montage: Hook -> Setup -> Evidence -> Conclusion",
+      "mainPurpose": "To review and promote the 'Da Cheng Spicy Fried Chicken Breast Strips' available at Costco by demonstrating its preparation simplicity and providing a positive taste testimonial.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
         "Explicit",
-        "Full"
+        "Integrated"
       ],
-      "endorsementCues": "Direct product showcase, brand name callouts, and explicit recommendation.",
+      "endorsementCues": "Direct naming of the brand (Da Cheng) and the retail location (Costco), with clear shots of the product packaging and price.",
       "endorsementObject": [
-        "大成 (Dachan)",
+        "大成",
         "Costco"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-energy short-form video style with bright text overlays.",
-      "freeDescribe": "Effective use of the 'Costco find' trope to drive engagement through perceived value and relatability."
-    }
+    "freeDescribe": "The video uses a typical social media food influencer format with bright colors, energetic narration, and descriptive overlays to drive engagement and product interest."
   }
 }

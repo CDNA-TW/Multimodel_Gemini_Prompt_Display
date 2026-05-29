@@ -1,166 +1,265 @@
 {
   "videoName": "cocowine0205-20250416190336-879647344901157.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 32.5,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Toy Unboxing",
-        "Entertainment"
-      ],
+      "videoDuration": 33,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A young woman stands centered in front of several bright yellow gashapon machines. She wears a fuzzy leopard-print hat and a black outfit. Her facial expression is extremely animated with wide eyes and a smile as she addresses the viewer, using active hand gestures to emphasize her words. (2) The camera transitions to a tight close-up of a gashapon machine display window. It showcases small 'Disney Qposket' boxed figures, including Cinderella and Jasmine. The lighting is artificial and bright, highlighting the colorful packaging and delicate details of the miniature dolls inside the clear plastic machine casing. (3) The woman is shown in a medium shot, reaching out to the blue mechanical dial of the gashapon machine. She twists the knob with a decisive movement. In the next shot, she is seen holding a bright green plastic capsule in both hands, looking into the camera with a playful and expectant expression. (4) A close-up focus on the woman's hands as she pops open the green capsule. Inside is a miniature figurine of Princess Jasmine, still encased in its small purple and blue retail-style box. She holds the tiny item close to the camera, showcasing the 'Qposket' branding and the character design clearly. (5) The scene shifts to a flat yellow surface where three identical boxed Jasmine figurines are lined up in a row. The camera then cuts back to the woman, who pulls a exaggerated 'crying' face, squinting her eyes and pouting to humorously express her frustration at getting three identical items.",
+      "text_narrative_log": "(1) [Subtitle]: 家裡空間不足了嗎?. (2) [Slogan]: 別擔心我們來抽這個. (3) [Slogan]: 超迷你迪士尼公主縮小迷你公仔版. (4) [Subtitle]: 這米粒公仔太吸引人了吧! 正適合我那個滿滿的扭蛋帝國. (5) [Slogan]: 一抽200元. (6) [Subtitle]: 妹妹想要的是愛麗兒 小美人魚 來吧愛麗兒. (7) [Subtitle]: 茉莉花茶. (8) [Subtitle]: 哈哈..三..第三個. 第三個茉莉 我們有三個.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Face close-up"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main female creator",
+        "mainCharacterDescription": "Wearing a grey and black leopard-print fuzzy hat, a black long-sleeved shirt with a character graphic, and black overall straps."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Retail Store",
+          "Toy / Hobby Store"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A gashapon shop interior filled with rows of bright yellow capsule toy machines and various toy displays in the background.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Bright and colorful"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Zoom in"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Insert shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Fast cuts",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Disney",
+          "Bandai Namco",
+          "Qposket"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop"
+        ],
+        "tempoBPM": 124,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Mechanical Click / Latch"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Cartoon / Comedy SFX",
+          "Meme SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The female narrator speaks with a bright, high-pitched energy over a jaunty, upbeat electronic pop background track. Her voice is clear and enthusiastic. (2) A prominent mechanical 'click' and 'clack' sound effect is heard, signifying the physical turning of the gashapon machine's knob. This transient sound is sharp and centered in the mix. (3) The narrator's voice becomes more intense, with rising intonation as she anticipates the contents of the capsule. The music's rhythm is driving, featuring bright synthesizer tones. (4) Comedic 'crying' sound effects are layered in as she reveals her third identical Jasmine figure, contrasted with her earlier cheerful tone to emphasize the bad luck."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Product Showcase",
+        "Comedy",
+        "Short Video"
+      ],
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "Unknown"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman wearing a grey camo fluffy hat and a black long-sleeved shirt stands excitedly in front of a wall of yellow gashapon machines. She gestures towards the machines while speaking directly to the camera. (2) The camera zooms in on a specific gashapon machine featuring Disney Princess Qposket figures. A hand reaches in to turn the dial, and a green plastic ball drops into the collection tray. (3) The woman retrieves the ball, opens it, and reveals a miniature Jasmine figure in a small box. She looks at the camera with a mix of laughter and mock-disappointment. (4) The scene cuts to the woman placing three identical Jasmine mini-figures in a row on a yellow surface, demonstrating her repeated luck or lack thereof.",
-      "audio_narrative_log": "(1) Upbeat, high-tempo pop-style background music begins. A woman's voice is heard speaking in an excited, high-pitched tone in Mandarin. (2) Sound effects of a gashapon machine's mechanical dial clicking and the plastic ball rolling down are audible over the music. (3) The woman laughs and her tone becomes slightly exaggerated and humorous as she discovers the contents of the ball. (4) The music continues at a steady pace until the end of the clip, occasionally accompanied by cartoon-style sound effects.",
-      "text_narrative_log": "(1) Functional Text: '家裡空間不足了嗎？' (Is there not enough space at home?) - Hook question. (2) Functional Text: '別擔心我們來抽這個' (Don't worry, let's draw this) - Instructional. (3) Decorative Text: '超迷你 迪士尼公主 縮小迷你公仔版' (Super mini Disney Princess scaled-down mini figure version) - Product title. (4) Decorative Text: '這米粒公仔太吸引人了！' (This grain-sized figure is so attractive!) - Emotional caption. (5) Functional Text: '一抽 200 元' (200 dollars per draw) - Price information. (6) Decorative Text: '茉莉花茶' (Jasmine Tea) - Humorous pun related to the Jasmine character. (7) Functional Text: '哈哈..三..第三個' (Haha... three... the third one) - Narrative subtitle reflecting the result."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 11,
-      "averageSceneDuration": 2.9,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro -> Gashapon interaction -> Discovery -> Humorous reveal"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Face"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 female main character/creator appearing throughout the video.",
-      "mainCharacterDescription": "A young Asian woman with long black hair, wearing a grey camo fluffy bucket hat, a black long-sleeved top with a spiderweb necklace, and a black puffy skirt."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Toy Store",
-          "Indoor"
-        ],
-        "topography": [
           "None"
         ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A brightly lit interior of a toy or gashapon store. The background is dominated by rows of yellow gashapon machines and shelves stocked with various licensed merchandise like Snoopy and Powerpuff Girls.",
-      "lightingStyle": "Bright indoor commercial lighting",
-      "weather": "None",
-      "season": "Unknown",
-      "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "High Saturation",
-      "cameraWork": [
-        "Static",
-        "Close-up",
-        "Handheld"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Disney",
-        "Qposket",
-        "Bandai Namco",
-        "Snoopy",
-        "Powerpuff Girls"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and humorous",
-        "pitch": "High",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
-        ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Mechanical click",
-        "Cartoon pop",
-        "Bling sound"
-      ],
-      "ambientNoise": [
-        "Indoor store atmosphere"
-      ],
-      "audioQuality": "Field Recording"
-    }
-  },
-  "high_inference_interpretations": {
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 2.3,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Challenge/Action -> Ironic Outcome",
-      "mainPurpose": "To entertain the audience by sharing a relatable and humorous 'gashapon fail' experience. The creator leverages the popularity of Disney Princess collectibles and the emotional 'gamble' of gashapon machines to create engaging lifestyle content.",
-      "visualEmotion": "Energetic and Playful"
+      "narrativeStructure": "Linear: Hook -> Action -> Comedic Reveal",
+      "mainPurpose": "To showcase the tiny collectible Disney Qposket figurines and share the humorous experience of drawing three identical characters in a row.",
+      "visualEmotion": [
+        "energetic",
+        "humorous"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -168,14 +267,13 @@
         "Implicit",
         "Integrated"
       ],
-      "endorsementCues": "Display of specific brand names (Disney, Qposket, Bandai Namco) and the toy store environment in a positive, enthusiastic manner.",
+      "endorsementCues": "The video focuses specifically on a branded product (Disney Qposket) and demonstrates the purchasing process at a retail gashapon machine.",
       "endorsementObject": [
-        "Disney Princess Qposket Mini Figures"
+        "Qposket",
+        "Disney",
+        "Bandai Namco"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-energy presentation style, interactive variety-show text overlays, and self-deprecating humor.",
-      "freeDescribe": "The video aligns with popular 'blind box unboxing' trends and utilizes the 'duplicate item' trope to generate viewer sympathy and amusement."
-    }
+    "freeDescribe": "An engaging, high-energy short vlog utilizing fast-paced editing and comedic sound effects to highlight a niche hobby collection."
   }
 }

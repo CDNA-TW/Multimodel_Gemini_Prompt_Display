@@ -1,180 +1,284 @@
 {
   "videoName": "cocowine0205-20250328142504-1785751072382772.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 52.4,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Shopping Recommendation"
-      ],
+      "videoDuration": 53,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "Taiwan"
+      "visual_narrative_log": "(1) A young woman with long dark hair, wearing a fuzzy grey cardigan over a black top and a heart-shaped necklace, stands inside a bright retail warehouse. She speaks directly to the camera with an animated expression. Behind her are high metal shelves stocked with various boxed items and a large purple aisle sign numbered 31. (2) The camera pans right to show a large refrigerated display table filled with dozens of clear plastic containers of muffins. Each container contains six large muffins. Yellow and white price labels are visible on the edge of the display. The woman points toward the muffins while continuing to speak. (3) The woman picks up a container of chocolate chip muffins, holding it close to the camera to show the details of the baked goods. Her hands grip the plastic edges as she moves the box slightly to highlight different angles. The background shows other shoppers and stacks of bakery items under bright, flat industrial lighting. (4) Several close-up shots follow, focusing on different varieties of muffins including blueberry, coffee walnut with visible nut pieces on top, and banana walnut. The camera moves in a rhythmic, quick-cutting fashion to showcase the textures and flavors. (5) The woman is seen again, now holding the handle of a red shopping cart. She gives a enthusiastic thumbs-up gesture and points at the camera, her facial expressions conveying excitement. The setting remains the busy interior of the warehouse store with distant shoppers blurred in the background.",
+      "text_narrative_log": "(1) [Logo]: COSTCO WHOLESALE. [Subtitle]: 阿寶你看. (2) [Slogan]: 注意新制度 瑪芬可以單買. [Subtitle]: 好市多馬芬現在. (3) [Slogan]: 現在可以買一盒. [Subtitle]: 天啊 她現在終於可以單盒買了. (4) [Subtitle]: 而且他價格沒有變貴 一盒就是135元. (5) [Subtitle]: 這樣子你偶爾想要吃 你就可以買一盒回家放. (6) [Subtitle]: 你就再也不用買12個了2盒. (7) [Subtitle]: 以前跟人家分都超辛苦的. (8) [Subtitle]: 以前一次要買12個那個壓力都超大. (9) [Subtitle]: 現在可以直接買6個回去吃 哇. (10) [Variety]: 咖啡核桃口味. [Subtitle]: 然後現在還有咖啡核桃口味. (11) [Subtitle]: 這是最新的嗎? (12) [Subtitle]: 出了一陣子了. (13) [Subtitle]: 可是因為之前一次都要買12個所以我也很久沒買. (14) [Subtitle]: 現在一次可以只買一盒. (15) [Subtitle]: 這價格真的超划算 代表一個是. (16) [Variety]: 21塊. [Subtitle]: 21塊 哇 超棒. (17) [Subtitle]: 我最愛吃的是. (18) [Variety]: 藍莓口味. [Subtitle]: 藍莓口味 你們呢?. (19) [Variety]: 巧克力. [Subtitle]: 巧克力. (20) [Variety]: 咖啡. [Subtitle]: 咖啡. (21) [Variety]: 胡桃燕麥. [Subtitle]: 胡桃燕麥. (22) [Variety]: 香蕉核桃. [Subtitle]: 香蕉核桃. (23) [Subtitle]: 趕快分享給愛吃瑪芬的朋友. (24) [Subtitle]: 這樣子就可以吃最新鮮的 不用再擔心. (25) [Variety]: 保存的問題. [Subtitle]: 保存的問題了喔 好讚.",
+      "visual_human_presence": {
+        "totalHumanCount": 5,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 3,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Hands only"
         ],
-        "city": [
-          "Unknown"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman with long dark hair, wearing a fuzzy grey cardigan and a black dress, stands in a Costco warehouse store. She gestures excitedly toward the bakery section where packages of muffins are stacked. (2) She picks up a clear plastic container containing six large chocolate muffins, showing it to the camera while speaking. The camera focuses on the product and the price tag indicating $135. (3) The scene cuts between her talking and close-up shots of various muffin flavors, including coffee walnut and chocolate chip, as she walks along the aisle. (4) In the final segment, she pushes a red shopping cart, giving a thumbs-up to the camera while finishing her explanation.",
-      "audio_narrative_log": "(1) Upbeat, medium-tempo electronic background music plays immediately. A female voice speaks with a high-pitched, enthusiastic tone, accompanied by occasional interjections from an off-camera male voice. (2) The background features a steady hum of ambient noise typical of a large warehouse store, including the clattering of shopping carts and muffled background conversations. (3) As the woman describes the muffins and the new pricing policy, the music continues at a consistent volume. (4) The vocals remain energetic until the end, concluding with a cheerful sign-off.",
-      "text_narrative_log": "(1) Functional Text: 'COSTCO WHOLESALE' logo is persistent at the top. Subtitles in Traditional Chinese translate the spoken dialogue throughout. (2) Decorative/Hook Text: Large captions appear frequently, such as '注意新制度 瑪芬可以單買' (Notice the new system, muffins can be bought individually) and '現在可以買一盒' (Now you can buy one box). (3) Content & Tone: Variety-show style text like '21塊' (21 dollars), '超棒' (Awesome), and '保存的問題' (Storage issues) appear in colorful bubbles to emphasize the host's points and create a playful, helpful tone."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 16,
-      "averageSceneDuration": 3.2,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Hook -> Product Demonstration -> Price/Benefit Explanation -> CTA/Outro"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 5,
-      "maleDetectAmount": 2,
-      "femaleDetectAmount": 3,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Upper body",
-        "Hands"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 main female host, 1 off-camera male voice/cameraman, and at least 3 other shoppers visible in the background aisles.",
-      "mainCharacterDescription": "A young East Asian woman with long dark hair, wearing a grey fuzzy cardigan over a black dress with a heart-shaped pendant."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Warehouse Store",
-          "Costco"
+        "crowdLevel": [
+          "Small Group"
         ],
-        "topography": [
-          "None"
+        "countingEvidence": "1 main female creator, 4 shoppers/passers-by in the background aisle.",
+        "mainCharacterDescription": "Young woman with long black hair, wearing a grey textured cardigan over a black top and a silver heart necklace."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Supermarket / Warehouse Store"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "Costco warehouse interior featuring high-bay shelving, industrial pallets, bakery display tables with muffins, and purple aisle signage.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
         ]
       },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "The interior of a Costco warehouse, featuring high ceilings, industrial lighting, and rows of metal shelving units filled with bakery items like muffins and bread.",
-      "lightingStyle": "Bright industrial studio-style lighting from the warehouse ceiling",
-      "weather": "None",
-      "season": "None",
-      "editingPace": "Fast",
-      "textOverlay": {
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Selfie handheld",
+          "Panning"
+        ],
+        "shotSize": [
+          "Medium close-up",
+          "Close-up",
+          "Insert shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Selfie perspective"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Fast cuts",
+          "Meme-style edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
         "density": "High",
-        "language": [
+        "textLanguage": [
           "Traditional Chinese",
           "English"
         ],
         "isSubtitled": true
       },
-      "colorTone": "Natural and warm",
-      "cameraWork": [
-        "Handheld",
-        "Point of View",
-        "Follow shot"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Muffins",
-        "Chocolate",
-        "Walnuts"
-      ],
-      "trafficDetect": [
-        "Shopping cart"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "Costco Wholesale"
-      ],
-      "brandLogos": [
-        "Costco Wholesale",
-        "Kirkland Signature"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 2,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "High-pitched and excited",
-        "pitch": "Medium-high",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Dessert / cake / cookies",
+          "Bread / pastry",
+          "Fruit"
+        ],
+        "trafficDetect": [
+          "Shopping cart"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "COSTCO WHOLESALE",
+          "Kirkland Signature"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Warehouse chatter",
-        "Shopping cart clatter"
-      ],
-      "audioQuality": "Field Recording"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 1,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Meme/Comedy",
+          "Pop"
+        ],
+        "tempoBPM": 124,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Crowd Murmur"
+        ],
+        "crowdNoiseIntensity": 1,
+        "ambientNoiseDetails": [
+          "Commercial/Recreational",
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "Plastic / Bag Rustle"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Pop / Bubble SFX",
+          "Ding / Bell SFX",
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) A female voice begins speaking with high energy and an enthusiastic tone in Taiwanese Mandarin. A bright, upbeat percussive BGM starts with a consistent, fast-paced electronic beat. Faint background room tone of a large retail space is audible. (2) A male voice reacts off-camera with an excited exclamation. The interplay between the female speaker's rapid-fire explanation and the male's supportive interjections creates a lively conversational atmosphere. The BGM remains constant in the background. (3) Soft plastic rustling sounds occur as an object is moved. The female voice maintains a high pitch and positive valence while listing specific information about product pricing. The acoustic environment is consistent with an indoor warehouse. (4) Short, playful cartoon-like sound effects (pops/dings) punctuate the audio track during a rapid list of flavor names. The speech density increases as the speakers alternate quickly between naming items and reacting with 'Wow'. (5) The female voice delivers a concluding call-to-action with high arousal and dominance, ending on a friendly, rising intonation. The music and background store ambience fade out abruptly as the clip concludes."
     }
   },
-  "high_inference_interpretations": {
-    "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Advantage Discovery -> Practical Benefits -> Call to Action",
-      "mainPurpose": "The video aims to inform Costco members about a new policy in the bakery section that allows the purchase of a single 6-count muffin box for $135, rather than requiring the purchase of two boxes. The host emphasizes the convenience for small households and the low cost per unit to encourage viewers to visit and try the muffins.",
-      "visualEmotion": "Energetic and helpful"
-    },
-    "endorsement_analysis": {
-      "isEndorsement": true,
-      "endorsementMethod": [
-        "Implicit",
-        "Integrated"
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Vlog",
+        "Food Review",
+        "Shopping"
       ],
-      "endorsementCues": "Detailed review and recommendation of a specific product change at a named retailer (Costco).",
-      "endorsementObject": [
-        "Costco",
-        "Kirkland Signature"
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 2.9,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
+    "narrative_and_purpose": {
+      "narrativeStructure": "List-based: Hook -> Evidence/Features -> CTA",
+      "mainPurpose": "To inform Costco members about a consumer-friendly change in the bakery's sales policy, specifically highlighting that muffins can now be purchased in single 6-count boxes instead of the previous mandatory 12-count requirement.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-density variety-show style text overlays and rapid scene cuts.",
-      "freeDescribe": "The content leverages a specific niche update (warehouse store policy change) to generate engagement through practical consumer advice."
-    }
+    "endorsement_analysis": {
+      "isEndorsement": false,
+      "endorsementMethod": [
+        "None"
+      ],
+      "endorsementCues": "None",
+      "endorsementObject": [
+        "None"
+      ]
+    },
+    "freeDescribe": "A highly energetic consumer-focused vlog using typical social media editing styles (fast cuts, text overlays, upbeat music) to share shopping tips and product news at Costco."
   }
 }

@@ -1,171 +1,271 @@
 {
   "videoName": "achusan0817-20250810112126-795646443566937.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 54,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Event Highlights"
-      ],
+      "videoDuration": 53,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A large, round, blue mascot with yellow eyes, a pink open mouth, and small wings (Achu) is dancing in a crowded exhibition hall. The mascot moves its body and wings while several people in the background hold up smartphones to film the performance under bright indoor lighting. (2) The scene cuts to a blue and pink booth where the blue mascot is interacting with a young man wearing a tan shirt and black trousers. They both perform synchronized kicking motions toward each other in a playful 'battle' while bystanders watch. (3) The mascot is seen walking through a narrow aisle between booths, surrounded by a dense crowd of attendees. Some people are wearing masks and carrying bags as the mascot wiggles its way through the human traffic in the well-lit convention center. (4) A male staff member in a blue shirt and apron stands next to the mascot, gesturing and touching the mascot's face as if trying to cheer it up. The mascot stands still for a moment before suddenly turning and sprinting away very quickly towards the end of the hall as the crowd watches its rapid departure.",
+      "text_narrative_log": "(1) [Subtitle]: 叛逆叛逆~. (2) [Subtitle]: 跑去跟別人battle??. (3) [Logo]: J1-036 #ACHU IN WONDERLAND. (4) [Subtitle]: 沒有要輸. (5) [Subtitle]: 馬的上班遲到了. (6) [Subtitle]: 太小聲ㄌ. (7) [Subtitle]: 好爽. (8) [Subtitle]: (拍到一半罷工什麼意思). (9) [Subtitle]: 你不要罷工啦. (10) [Subtitle]: 還是你需要掌聲. (11) [Subtitle]: 下班886. (12) [Subtitle]: 衝超快.",
+      "visual_human_presence": {
+        "totalHumanCount": 25,
+        "maleDetectAmount": 12,
+        "femaleDetectAmount": 13,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Crowd"
+        ],
+        "countingEvidence": "1 mascot performer, 1 main staff member, and over 20 attendees in the background crowd.",
+        "mainCharacterDescription": "A blue, round mascot character with angry yellow eyes and a wide mouth. A male staff member in a navy blue apron over a purple t-shirt."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Exhibition / Museum / Gallery"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "An indoor convention center with high ceilings, exposed ventilation pipes, and modular exhibition booths. Signs with 'J1-036' and brand graphics are visible.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Panning"
+        ],
+        "shotSize": [
+          "Medium full shot",
+          "Full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Fast cuts"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Compilation / montage sequence"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Cartoon / animated animal"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "ACHU IN WONDERLAND"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 3,
+        "male_vocal_count": 2,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Chatter",
+          "Laughter",
+          "Applause"
+        ],
+        "crowdNoiseIntensity": 3,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "Footsteps"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with the loud, high-energy voice of a man shouting 'Panni Panni' repeatedly over the background hum of an exhibition crowd. His tone is enthusiastic and playful, projecting clearly above the ambient chatter of several people. (2) A quick 'whoosh' sound effect marks a transition. The man continues to comment on the mascot's actions, his speech rate accelerating as he narrates the mascot 'battling' someone. The sound of light footsteps on a hard floor can be heard. (3) The environment shifts as the mascot moves through a denser crowd, indicated by a slight increase in the volume of overlapping voices and generic indoor room tone. The man's voice remains dominant, interacting with the mascot and maintaining a humorous, narrative tone. (4) A sharp percussive sound occurs when the staff member prompts the crowd to clap. The audio is then dominated by the sound of rhythmic hand clapping and collective laughter from the audience as the mascot makes a final, rapid movement, ending with the man's excited exclamation."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Event / Festival"
+      ],
       "location": {
         "country": [
-          "Taiwan"
+          "Unknown"
         ],
         "city": [
           "Unknown"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A large blue mascot with yellow angry eyes and small wings (the Rebellious Fairy) dances and poses for a crowd in an exhibition hall. (2) The mascot interacts with a male staff member in front of a blue booth backdrop labeled 'Achu in Wonderland'. (3) The mascot is seen moving through a dense crowd of attendees who are filming with their phones. (4) A staff member in a black apron wipes the mascot suit's face and talks to it as if encouraging a tired performer. (5) The mascot stands still, then starts waving its wings and runs away quickly through the crowd towards an exit at the end of its shift.",
-      "audio_narrative_log": "(1) A male host shouts 'Pan Ni, Pan Ni!' (Rebellious, Rebellious) and the crowd cheers in response. (2) Background noise of a busy exhibition hall with echoing voices and footsteps. (3) The host speaks into a microphone, explaining that the mascot is 'on strike' and needs applause to continue. (4) Loud, rhythmic clapping from the audience fills the audio track. (5) High-pitched female laughter and chatter are heard as the mascot runs away.",
-      "text_narrative_log": "(1) Functional Text: '叛逆叛逆～' (Rebellious, rebellious) - Playful hook. (2) Decorative Text: '跑去跟別人battle??' (Going to battle with others??) - Humorous commentary. (3) Decorative Text: '沒有要輸' (Not going to lose) - Determined tone. (4) Decorative Text: '馬的上班遲到ㄌ' (Damn, late for work) - Grumbling/relatable tone. (5) Functional Text: '太小聲ㄌ' (Too quiet) - Instigating tone. (6) Decorative Text: '好爽' (Feels great) - Satisfied tone. (7) Functional Text: '下班886' (Off work, bye-bye) - Cheerful tone."
-    },
     "temporal_pacing_summary": {
       "sceneCutCount": 8,
-      "averageSceneDuration": 6.75,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Interaction -> Conflict (Strike) -> Resolution (Applause) -> Exit"
+      "averageSceneDuration": 6.6,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
     },
-    "visual_human_presence": {
-      "totalHumanCount": 25,
-      "maleDetectAmount": 12,
-      "femaleDetectAmount": 13,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Crowd",
-      "countingEvidence": "1 male host, 1 person in mascot suit, over 20 audience members in the background.",
-      "mainCharacterDescription": "A male host in casual wear and a black apron; a large, blue, plush mascot character with a 'rebellious' facial expression."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Exhibition Hall"
-        ],
-        "topography": [
-          "Plain"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "An exhibition hall with various booths, crowd barriers, and large promotional banners for 'Achu in Wonderland' and '阿啾小劇場'.",
-      "lightingStyle": "Intense studio lights",
-      "weather": "Indoor",
-      "season": "Summer",
-      "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "Medium",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "High Saturation",
-      "cameraWork": [
-        "Static",
-        "Follow shot"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "阿啾小劇場",
-        "Achu in Wonderland"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Fragmented",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 15,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 5,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "High-pitched and excited",
-        "pitch": "Sharp/High",
-        "loudness": "High",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": false,
-      "bgmGenre": "No Music",
-      "bgmBPM": 0,
-      "instrumentFamiliesAudible": [
-        "None"
-      ],
-      "instrumentsAudible": [
-        "None"
-      ],
-      "musicSourceType": [
-        "None"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "Clapping"
-      ],
-      "ambientNoise": [
-        "Crowd",
-        "Studio quiet"
-      ],
-      "audioQuality": "Field Recording"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Interaction -> Climax -> CTA -> Resolution",
-      "mainPurpose": "To promote the mascot character 'Achun' (Rebellious Fairy) by highlighting its funny and rebellious persona during a fan event, encouraging audience engagement and showcasing the mascot's unique personality.",
-      "visualEmotion": "Energetic and Humorous"
+      "narrativeStructure": "Montage: Interaction -> Conflict (Battle) -> Resolution (Applause) -> Exit",
+      "mainPurpose": "To showcase the humorous and rebellious personality of the mascot 'Achu' during an exhibition event to engage and entertain a social media audience.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
         "Implicit",
-        "Full"
+        "Integrated"
       ],
-      "endorsementCues": "The entire video focuses on the mascot character of the '阿啾小劇場' brand and its presence at a specific event.",
+      "endorsementCues": "The video features the mascot and booth of 'ACHU IN WONDERLAND' throughout, serving as promotional content for the brand's appearance at the expo.",
       "endorsementObject": [
-        "阿啾小劇場"
+        "ACHU IN WONDERLAND"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "The mascot's specific angry eyes and the 'Pan Ni' (Rebellious) chant.",
-      "freeDescribe": "The video uses variety-show style captions and high-energy interaction to build a relatable, quirky brand image for the mascot character."
-    }
+    "freeDescribe": "The video uses fast-paced editing and variety-show style subtitles to create a highly engaging, meme-like atmosphere typical of short-form social media content."
   }
 }

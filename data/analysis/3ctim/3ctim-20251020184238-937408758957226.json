@@ -1,14 +1,250 @@
 {
   "videoName": "3ctim-20251020184238-937408758957226.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 51,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Tech Tutorial",
-        "Product Review"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A middle-aged man with glasses and a grey flat cap stands against a plain white wall. He is wearing a light green t-shirt and holds a vivo smartphone in his right hand. The screen shows a lock screen image of a woman. The lighting is bright and even, typical of a professional studio setup. (2) The camera switches to a screen recording of the smartphone's interface. A finger navigates through the settings menu, highlighting 'Shortcut & Accessibility' and then 'AI Subtitles'. The background is the white and grey system menu of the OriginOS. (3) The screen is now split horizontally. The top half shows a YouTube video by MKBHD, while the bottom half displays the AI Subtitles interface. Text is being generated in real-time as the background video plays. Yellow caption overlays appear at the bottom of the main frame. (4) The visual transitions to the smartphone's notes application. The user taps an 'AI Summary' button, and a structured bullet-point list appears on the screen, summarizing the previous content. The background is a clean white digital document. (5) Two smartphones are placed side-by-side on a wooden surface: an iPhone and a vivo phone. The man's hands are visible as he demonstrates a file transfer process between the two devices. Progress bars and transfer confirmation icons appear on both screens.",
+      "text_narrative_log": "(1) [Logo]: 3c有意思tim哥. [Logo]: @3ctim. [Slogan]: vivo OriginOS 6. (2) [Variety]: (大聲歡呼). [Subtitle]: 終於在台灣可以使用拉. (3) [Slogan]: 快點更新. (4) [Variety]: (AI字幕辨識中). (5) [Subtitle]: 點下去之後這邊有個AI摘要. (6) [Variety]: (無痛傳送). [Slogan]: 我要傳送.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main male creator presenting the phone features.",
+        "mainCharacterDescription": "Middle-aged man wearing a grey flat cap, glasses, a light green t-shirt, and a wooden beaded bracelet."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A clean, minimalist indoor studio with a white wall and a wooden table surface used for product demonstrations.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Screen recording / screen capture"
+        ],
+        "shotSize": [
+          "Medium close-up",
+          "Close-up",
+          "Insert shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Top-down / overhead"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Screen recording edit",
+          "Graphic transition"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Japanese food / sushi"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Laptop"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "vivo",
+          "Apple"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 2,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 124,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Pop / Bubble SFX",
+          "Ding / Bell SFX",
+          "Digital UI SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Stingers"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) High-energy male narration starts immediately with a bright, upbeat electronic pop BGM. The voice is enthusiastic and well-articulated. (2) A synthetic 'whoosh' transition sound triggers a shift as the speaker begins detailing system settings. The BGM maintains a steady, driving rhythm. (3) A soft digital 'pop' sound occurs as the UI is interacted with. The background English speech from the YouTube clip is audible but mixed lower than the primary Chinese narration. (4) A high-pitched 'ding' SFX marks the successful activation of the AI Summary feature. The narrator's pitch rises slightly in excitement. (5) A final digital confirmation chime sounds during the file transfer demonstration. The BGM swells slightly before a clean hard cut at the end."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Tech Review",
+        "Tutorial / How-to",
+        "Product Showcase"
+      ],
       "location": {
         "country": [
           "Taiwan"
@@ -18,158 +254,31 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video begins with a middle-aged male host wearing a grey flat cap and a green t-shirt, holding a vivo smartphone and gesturing excitedly towards the camera. (2) The camera transitions to a series of close-up shots of the smartphone screen as the host navigates through the settings menu, specifically selecting 'Shortcuts and Assistance' and then 'AI Subtitles'. (3) A demonstration follows, showing the AI Subtitles feature active over a YouTube video of a person speaking English. (4) The host then demonstrates the 'AI Summary' feature, which extracts key points from the video content into a note-taking app. (5) The final sequence shows a side-by-side comparison of an iPhone and the vivo phone, demonstrating a wireless data transfer process between the two devices.",
-      "audio_narrative_log": "(1) The audio begins with a male voice speaking Mandarin in an enthusiastic and fast-paced tone, accompanied by upbeat, high-tempo electronic background music. (2) As the host begins the technical demonstration, the music continues at a steady volume while he explains each step clearly. (3) During the AI Subtitles demo, a brief segment of a different male voice speaking English is heard from the video being played on the phone. (4) Digital sound effects (SFX) such as 'clicks' and 'swooshes' are heard during screen transitions and feature activations. (5) The music reaches a slight crescendo and then fades out as the video concludes with the host's final remarks.",
-      "text_narrative_log": "(1) Decorative: 'vivo OriginOS 4' appears in large yellow stylized text at the bottom of the screen. (2) Decorative: '(大聲歡呼)' (Cheering loudly) appears as a variety-show style caption. (3) Functional: '終於在台灣 可以使用啦' (Finally available in Taiwan) appears to emphasize the host's speech. (4) Functional: '快點更新' (Update quickly) appears as a call to action. (5) Decorative: '(AI 字幕辨識中)' (AI Subtitles identifying) and '(無痛傳送)' (Painless transfer) appear during specific feature demonstrations to explain the action."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 14,
-      "averageSceneDuration": 3.6,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro -> Feature 1 (AI Subtitles) -> Feature 2 (AI Summary) -> Feature 3 (Cross-device Transfer) -> Conclusion"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main male creator acting as the host.",
-      "mainCharacterDescription": "Middle-aged male with glasses, wearing a grey patterned flat cap, a light green t-shirt with 'ATHLETIC ROOTS' text, and multiple beaded bracelets on both wrists."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Studio"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A simple, clean indoor environment with a plain white or light grey wall, suggesting a professional studio or office setting.",
-      "lightingStyle": "Bright, even studio lighting",
-      "weather": "Unknown",
-      "season": "Unknown",
+      "sceneCutCount": 12,
+      "averageSceneDuration": 4.25,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Chinese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Close-up"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "vivo",
-        "Facebook",
-        "Instagram"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 2,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and professional",
-        "pitch": "Medium-high",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin",
-          "English"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Electronic Drums"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Transition swoosh",
-        "Interface click"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Feature Demo -> Evidence -> CTA",
-      "mainPurpose": "The video serves as a promotional tutorial to inform users in Taiwan about the localized availability of vivo's OriginOS 4. It specifically highlights high-value AI features like real-time subtitle translation and automated summaries, as well as the ease of migrating data from an iPhone to a vivo device, aiming to lower the barrier for potential switchers.",
-      "visualEmotion": "Energetic"
+      "narrativeStructure": "Linear: Hook -> Functional Demonstrations -> Cross-Device Utility -> Conclusion",
+      "mainPurpose": "To showcase the new features of vivo OriginOS 6, specifically focusing on AI-driven subtitles, automated meeting summaries, and seamless cross-platform file transfers to entice current vivo users to update.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "bright"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
-        "Explicit",
-        "Full"
+        "Explicit/Integrated"
       ],
-      "endorsementCues": "The host specifically calls out the brand 'vivo' and the software version 'OriginOS 4', demonstrating its unique selling points.",
+      "endorsementCues": "Direct demonstration of brand-specific software features (OriginOS 6) and verbal calls to action for vivo users.",
       "endorsementObject": [
-        "vivo OriginOS 4"
+        "vivo"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "The host's signature flat cap and the use of '3cTim哥' social media handles in the top-left corner.",
-      "freeDescribe": "The video uses typical 'tech influencer' editing tropes, including fast cuts, beat-synced music, and colorful variety-show captions to maintain high viewer engagement throughout the technical demo."
-    }
+    "freeDescribe": "The video uses high-frequency technical SFX and fast-paced editing typical of social media tech influencers to maintain viewer engagement during software feature explanations."
   }
 }

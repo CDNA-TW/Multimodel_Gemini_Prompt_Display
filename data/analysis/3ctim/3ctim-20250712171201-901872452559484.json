@@ -1,162 +1,286 @@
 {
   "videoName": "3ctim-20250712171201-901872452559484.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 68,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Tech Review",
-        "Vlog"
-      ],
+      "videoDuration": 70,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "Taiwan"
+      "visual_narrative_log": "(1) The video opens with a close-up shot of two premium smartphones, a silver Samsung Galaxy S25 Ultra and a deep blue Fold7, resting on a clean, light-colored table. The camera pans slightly to show the bottom edge details, including the USB-C port and speaker grilles. (2) A male host (Tim哥) with glasses and a gray newsboy cap holds a black Samsung Galaxy Fold7 against a vibrant, multi-colored abstract graphic background. He smiles and gestures with the phone, turning it to catch the light. (3) A fast-paced montage follows, showcasing the Fold7 in various colors: a textured silver ('淬霧銀'), a matte black ('墨葉黑'), and a shimmering deep blue ('海影藍'). The shots feature tight close-ups on the triple-camera module and the metallic hinge. (4) The camera shows a comparative view of the Fold7 and S25 Ultra side-by-side to highlight the thinness of the folded device. Yellow text overlays highlight specific camera specs. (5) A split-screen comparison displays the external screens of the Fold6 and Fold7, showing the larger 8-inch display of the newer model. Hands interact with the screen to show interface responsiveness. (6) The host demonstrates a generative AI feature on the unfolded large screen, showing a 'Before' and 'After' comparison where a blue cloth is removed from an image using AI editing tools. (7) The video concludes with a close-up of a white special edition Fold7 with a green camera accent, followed by the host waving to the camera.",
+      "text_narrative_log": "(1) [Logo]: 3c有意思tim哥. [Logo]: @3ctim. [Variety]: Fold7真的. (2) [Slogan]: 跟S25 Ultra. (3) [Subtitle]: 快速帶大家看一下. [Subtitle]: Samsung Galaxy Fold7. [Subtitle]: 有什麼新功能. (4) [Variety]: 淬霧銀. (5) [Variety]: 墨葉黑. (6) [Variety]: 海影藍. (7) [Subtitle]: Fold7的限定色. [Subtitle]: 商城限定色. (8) [Variety]: Fold7主鏡頭. [Subtitle]: Fold7主鏡頭變兩億畫素. (9) [Slogan]: 而且它超廣角跟S25 Plus一模一樣哦. [Slogan]: 1200萬畫素. (10) [Subtitle]: 薄到跟USB-C已經幾乎差不多. (11) [Variety]: Fold6. [Variety]: Fold7. [Subtitle]: Fold7外螢幕你看是不是升級了. (12) [Subtitle]: 升級到8吋. [Subtitle]: 上一代有螢幕下鏡頭. (13) [Slogan]: Fold7內頁螢幕搭1000萬畫素鏡頭. (14) [Logo]: Fold6. [Logo]: Fold7. [Logo]: S25 Ultra. [Subtitle]: 摺起來很薄. (15) [Variety]: Before. [Variety]: After. [Subtitle]: Fold7你看這次呢修掉的那個部分呢 直接一起就可以展示出來了. (16) [Slogan]: 之後有完整開箱喔.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Head and shoulders",
+          "Face",
+          "Hands only",
+          "Face close-up"
         ],
-        "city": [
-          "Taipei"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video opens with a middle-aged male creator wearing a flat cap and glasses, enthusiastically holding and introducing the Samsung Galaxy Z Fold7. (2) The scene transitions to a series of product shots showcasing the phone in three specific colors: Silver (翠霧銀), Black (墨夜黑), and Blue (海影藍), with the device being rotated to show all sides and hinges. (3) The creator compares the Fold7 side-by-side with a Samsung S25 Ultra and a Fold6, physically aligning them to show differences in camera modules and body thickness. (4) A close-up shot focuses on the bottom edge of the Fold7, showing it is almost as thin as its USB-C port. (5) The creator demonstrates the unfolded 8-inch inner screen and uses a stylus/finger to showcase an AI-driven photo editing feature where objects are removed from an image on the screen.",
-      "audio_narrative_log": "(1) The audio begins with energetic, high-tempo electronic background music that continues throughout the video. (2) An enthusiastic male voice narrates in Mandarin, describing the technical specifications and tactile feel of the phone. (3) Sound effects such as 'whooshes' and 'pings' are synchronized with scene transitions and text pop-ups. (4) In sections showing the showroom, low-level ambient noise of a crowd and distant chatter can be heard, contrasting with the clear studio-quality narration.",
-      "text_narrative_log": "(1) Functional text: Traditional Chinese subtitles translate the spoken dialogue throughout the video. (2) Decorative/Hook text: Large colorful titles like \"Fold7真的\" (Fold7 really), \"Samsung Galaxy Fold7\", and \"升級到8吋\" (Upgraded to 8 inches) appear to highlight key features. (3) Descriptive labels: Specific color names like \"翠霧銀\", \"墨夜黑\", and \"海影藍\" appear as labels when the corresponding device is shown."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 28,
-      "averageSceneDuration": 2.4,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro -> Product Color Showcase -> Specs Comparison -> Feature Demonstration -> Outro"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 3,
-      "maleDetectAmount": 2,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Upper body",
-        "Hands only"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 main male creator; 1 man and 1 woman seen as blurred passers-by in the showroom background.",
-      "mainCharacterDescription": "A middle-aged man with glasses, wearing a dark charcoal flat cap and a grey t-shirt."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 male host (Tim哥) appearing in talking head segments and holding the device.",
+        "mainCharacterDescription": "An adult male wearing glasses, a gray newsboy cap, and a dark t-shirt with a small graphic logo."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
           "Studio",
-          "Showroom"
+          "Digital Interface / Screen Capture"
         ],
-        "topography": [
-          "None"
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "Switching between a clean studio desk setup and a vibrant, colorful abstract digital graphic background for talking head shots.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright",
+          "Warm and vibrant"
         ]
       },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "The video uses two main settings: a studio with a vibrant abstract patterned wall and a bright, minimalist showroom with shelves containing books and a globe.",
-      "lightingStyle": "Bright studio lighting",
-      "weather": "Indoor",
-      "season": "Unknown",
-      "editingPace": "Fast",
-      "textOverlay": {
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Handheld",
+          "Panning",
+          "Zoom in"
+        ],
+        "shotSize": [
+          "Close-up",
+          "Medium close-up",
+          "Extreme close-up",
+          "Insert shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Top-down / overhead",
+          "Side view"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Fast cuts",
+          "Montage",
+          "Split-screen",
+          "Graphic transition",
+          "Speed ramp"
+        ],
+        "visualRhythm": [
+          "Fast pace",
+          "Highly dynamic / rapid montage"
+        ],
+        "takeStructure": [
+          "Multiple shots",
+          "Compilation / montage sequence"
+        ]
+      },
+      "visual_text_overlay": {
         "density": "High",
-        "language": [
+        "textLanguage": [
           "Traditional Chinese",
           "English"
         ],
         "isSubtitled": true
       },
-      "colorTone": "High Saturation",
-      "cameraWork": [
-        "Static",
-        "Close-up",
-        "Follow shot"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Samsung"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Fragmented",
-      "audioTransition": "Hard cut with SFX",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 1,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and professional",
-        "pitch": "Medium",
-        "loudness": "High",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Laptop",
+          "TV / display screen"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Samsung",
+          "Facebook",
+          "Instagram"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic",
-      "bgmBPM": 126,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Whoosh",
-        "Ding",
-        "Click"
-      ],
-      "ambientNoise": [
-        "Crowd chatter"
-      ],
-      "audioQuality": "Studio"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Mechanical Click / Latch",
+          "Object Impact / Thud / Drop"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Ding / Bell SFX",
+          "Pop / Bubble SFX",
+          "Digital UI SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Whoosh / Transition SFX"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a high-energy male Mandarin voice and a rhythmic, upbeat electronic pop BGM. A 'whoosh' SFX signals the start. (2) Vocal delivery is rapid and enthusiastic as the speaker introduces the Samsung Galaxy Fold7. A subtle 'ding' SFX punctuate the first appearance of the device name. (3) As various colors are displayed, short, snappy percussion hits in the BGM sync with the visual cuts. (4) A 'pop' SFX accompanies the transition to the screen comparison segment. The music maintains a consistent, driving tempo. (5) During the AI editing demonstration, the speaker's tone becomes slightly more descriptive and instructional, while the background music ducks slightly to maintain clarity. (6) A final bright 'chime' SFX and a brief synthesizer riser conclude the video as the host gives a closing sign-off."
     }
   },
-  "high_inference_interpretations": {
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Tech Review",
+        "Product Showcase",
+        "Short Video"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "None"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 24,
+      "averageSceneDuration": 2.9,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Feature Highlight -> Comparison -> Function Demo",
-      "mainPurpose": "The video is a tech review and first-look showcase of the Samsung Galaxy Z Fold7, designed to inform potential buyers and tech enthusiasts about its new physical design, color options, and hardware improvements compared to previous generations.",
-      "visualEmotion": "Energetic"
+      "narrativeStructure": "List-based: Hook -> Color Showcase -> Specs Breakdown -> Screen Comparison -> AI Feature Demo -> CTA",
+      "mainPurpose": "To quickly showcase the key upgrades and new features of the Samsung Galaxy Fold7, including its thinner design, 200MP camera, larger screen, and AI capabilities, targeting tech enthusiasts and potential buyers.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -164,14 +288,11 @@
         "Implicit",
         "Integrated"
       ],
-      "endorsementCues": "The creator provides a detailed hands-on demonstration of a new commercial product, likely as part of a review or media event coverage.",
+      "endorsementCues": "The video provides a detailed, positive showcase of a specific new product (Samsung Galaxy Fold7) with brand-specific terminology and promotional messaging.",
       "endorsementObject": [
-        "Samsung Galaxy Z Fold7"
+        "Samsung"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Creator's signature flat cap and fast-paced tech-enthusiast delivery style.",
-      "freeDescribe": "The use of variety-show style text and high-saturation colors target a young, tech-savvy audience interested in flagship mobile devices."
-    }
+    "freeDescribe": "The video utilizes a highly polished social-media-native editing style with rapid cuts, vibrant text overlays, and energetic audio to maintain high engagement throughout the tech review."
   }
 }

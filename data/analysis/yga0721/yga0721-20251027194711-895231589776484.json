@@ -1,177 +1,278 @@
 {
   "videoName": "yga0721-20251027194711-895231589776484.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 60,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Variety Show",
-        "Quiz",
-        "Vlog"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) The video begins in a bright indoor studio setting. A man in the foreground wearing a white t-shirt and a beige vest sits cross-legged on the floor, gesturing with his hands as he speaks. Behind him, four people are seated on a grey sofa; two women and two men. They are holding black writing slates or clipboards. The room is well-lit with professional studio lighting, and a white cloud-shaped pillow sits on the sofa. (2) The camera transitions to a medium close-up of a young woman with long black hair, wearing a white and maroon baseball-style shirt. She is holding a blue marker and a clipboard, pointing her finger upward while smiling and talking. The background shows a light-colored wall with a shelf containing small decorative items. (3) Returning to the wider shot, the man in the beige vest leans forward and then hangs his head in a mock-despairing pose, resting his forehead on his hand. The group behind him on the sofa reacts with laughter and smiles. Text overlays representing quiz options appear at the bottom of the frame. (4) The group on the sofa reveals their answers by holding up their slates toward the camera. Most slates display the letter 'C' written in white, while one person holds a slate with the letter 'A'. A woman in a pink t-shirt and another in a blue denim jacket are now more clearly visible as the camera pans. (5) A close-up of the woman in the blue denim jacket shows her looking toward the man and speaking. The man continues to gesture with his hands, displaying high energy. The scene remains in the same studio environment with bright, natural-looking colors throughout.",
+      "text_narrative_log": "(1) [Slogan]: 蔡阿嘎影片知識王#4. [Slogan]: 查照系列中 蔡阿嘎拿過以下哪張證照?. (2) [Variety]: a. 閩南語檢定. [Variety]: b. 乙級廚師證照. [Variety]: c. 保母證照. (3) [Subtitle]: 唯一知道的證照. [Variety]: 不在上面. (4) [Subtitle]: 社工師證照. (5) [Variety]: (概括承受). [Variety]: (沒有走心). [Slogan]: 算了啦無所謂. [Variety]: (我就沒人愛啊). (6) [Slogan]: 以後面試要考試. (7) [Logo]: HAHABABY. (8) [Subtitle]: a&c比較多啊. [Subtitle]: 你們只有兩個選台語. (9) [Subtitle]: 你台語這麼厲害. [Subtitle]: 保母證照. (10) [Subtitle]: 因為我這個台語是考比較難的. [Subtitle]: 你們記憶力很好嘛. (11) [Subtitle]: 甚至有蘿拉. [Subtitle]: 蘿拉也考到了. (12) [Subtitle]: 可以當廚師. [Subtitle]: 甚至幫忙煮麵. [Subtitle]: 那時候就鋪路鋪好.",
+      "visual_human_presence": {
+        "totalHumanCount": 7,
+        "maleDetectAmount": 3,
+        "femaleDetectAmount": 4,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main host, 6 staff/contestants in the background.",
+        "mainCharacterDescription": "A man in his late 30s with short brown hair, wearing a white t-shirt under a beige utility vest, and blue denim shorts."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A clean, modern studio designed to look like a living room. Features include a grey sofa, wooden flooring, white walls, a white cloud pillow, and a shelving unit with blue mascot plushies.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Panning"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Medium close-up",
+          "Group shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Meme-style edit",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Plush / decoration / toy animal"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Laptop",
+          "Microphone / lavalier mic"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "HAHABABY"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 5,
+        "male_vocal_count": 2,
+        "female_vocal_count": 3,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Comedic/Exaggerated"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 7,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 125,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_vocal_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter",
+          "Chatter"
+        ],
+        "crowdNoiseIntensity": 3,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Mechanical Click / Latch"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Cartoon / Comedy SFX",
+          "Ding / Bell SFX",
+          "Pop / Bubble SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A high-energy male voice introduces a question with a rapid speech rate and an enthusiastic, comedic tone. Underneath, a bright and bouncy electronic background music track plays with a steady 4/4 beat. (2) A sharp 'pop' sound effect occurs as text choices appear. This is followed by a female voice responding with a playful, teasing intonation. The background music continues at a consistent volume. (3) A group burst of laughter erupts, with various female and male voices overlapping in a high-arousal state. The male speaker makes a low-pitched mock-whining sound as a sound effect of a slide whistle plays in the background. (4) A bright 'ding' sound effect signifies the correct answer being revealed. The male voice returns to a high volume, enunciating clearly while the music continues. (5) Multiple voices engage in quick back-and-forth chatter, with the sound of pens being used on slates causing minor high-frequency rustling. The music maintains the energetic pace until the end."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Lifestyle"
+      ],
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "None"
+          "Taipei"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A man in a beige vest sits on the floor in a studio setting, speaking animatedly to the camera and a group behind him. (2) Behind him on a gray sofa, several people hold small whiteboards, listening and reacting. (3) A woman in a red-and-white shirt speaks while the main man looks down as if embarrassed. (4) The scene cuts between various people laughing and the main man's facial expressions. (5) The group holds up their whiteboards to reveal their answers ('A' or 'C'). (6) The main man reveals the correct answer on a laptop screen, leading to more laughter and discussion.",
-      "audio_narrative_log": "(1) Upbeat, fast-paced background music plays throughout. (2) A male voice speaks rapidly in Mandarin with a humorous and energetic tone. (3) Multiple voices of men and women are heard laughing and talking simultaneously. (4) Sound effects such as a 'ding' or variety-show style cues occasionally punctuate the dialogue. (5) The volume remains high and energetic until the end.",
-      "text_narrative_log": "(1) '蔡阿嘎影片知識王#4' - Decorative variety-show title. (2) '老照系列中 蔡阿嘎拿過以下哪張證照?' - Functional question text. (3) Options listed: 'a. 閩南語檢定', 'b. 乙級廚師證照', 'c. 保母證照' - Functional choice text. (4) '(概括承受)', '算了 啦無所謂', '(我就沒人愛阿)' - Decorative emotional captions. (5) '保母證照' - Functional answer text in large green font. (6) '甚至有蘿拉', '甚至幫忙煮麵' - Functional variety-show captions providing context."
     },
     "temporal_pacing_summary": {
-      "sceneCutCount": 18,
-      "averageSceneDuration": 3.3,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Question Intro -> Group Discussion -> Answer Reveal -> Post-reveal Banter"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 6,
-      "maleDetectAmount": 2,
-      "femaleDetectAmount": 4,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Upper body",
-        "Hands only"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 main male creator, 1 male staff member, and 4 female staff members sitting on the sofa.",
-      "mainCharacterDescription": "Adult male with dyed brown hair, wearing a white t-shirt, a beige utility vest, denim shorts, and yellow sneakers."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Studio",
-          "Living Room"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A brightly lit indoor studio designed like a living room with white walls, a gray sofa, stuffed animals, a lamp, and a 'HAHABABY' logo sign.",
-      "lightingStyle": "Studio lighting",
-      "weather": "None",
-      "season": "None",
+      "sceneCutCount": 12,
+      "averageSceneDuration": 5.0,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "High Saturation",
-      "cameraWork": [
-        "Static",
-        "Medium shot",
-        "Close-up"
-      ]
+      "isNarrativeShift": false
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "Plush Toys"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Laptop",
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "HAHABABY"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 6,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 1,
-        "vocal_demographics": {
-          "male_vocal_count": 2,
-          "female_vocal_count": 4,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and Humorous",
-        "pitch": "Normal",
-        "loudness": "Loud",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin",
-          "Taiwanese Hokkien"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat",
-      "bgmBPM": 125,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum kit"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "Variety Show SFX",
-        "Laughter"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Question Setting -> Participant Response -> Reveal -> Commentary",
-      "mainPurpose": "The video is an entertainment piece designed to engage fans through a trivia format. The YouTuber Cai A-ga tests his staff's knowledge of his personal certifications (specifically revealing he has a childcare/nanny license), using humor and fast-paced interaction to build a sense of community and fun around his personal brand.",
-      "visualEmotion": "Energetic"
+      "narrativeStructure": "List-based: Hook -> Question -> Response -> Reveal -> Commentary.",
+      "mainPurpose": "The video is a trivia challenge or quiz game segment from a popular YouTube creator's channel. It aims to entertain the audience through a humorous interaction between the host and his staff/friends while testing knowledge about the host's personal history and past video content.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
-      "isEndorsement": false,
+      "isEndorsement": true,
       "endorsementMethod": [
-        "None"
+        "Implicit",
+        "Integrated"
       ],
-      "endorsementCues": "None",
+      "endorsementCues": "The host and staff are wearing clothing from the 'HAHABABY' brand, and the brand logo is prominently displayed as an overlay.",
       "endorsementObject": [
-        "None"
+        "HAHABABY"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Presence of 'HAHABABY' branding, variety-style heavy text overlays, and the creator's signature high-energy comedic delivery.",
-      "freeDescribe": "The video follows standard Taiwanese YouTube variety trends with emphasis on group dynamics and rapid-fire subtitles."
-    }
+    "freeDescribe": "High-density information and fast-paced editing typical of social media short-form variety content. The use of '蘿拉' in subtitles refers to a specific recurring person in the creator's universe."
   }
 }

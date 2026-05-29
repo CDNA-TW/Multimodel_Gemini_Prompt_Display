@@ -1,15 +1,229 @@
 {
   "videoName": "yga0721-20250629100015-4466633000236611.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 15,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Lifestyle",
-        "Fashion"
-      ],
+      "videoDuration": 13.56,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A young man stands inside a brightly lit train carriage, holding onto a white hand strap. He is wearing a black baseball cap, dark sunglasses, a black utility vest over a black t-shirt, loose black trousers, and chunky white sneakers. To his left, purple padded seats are visible, and the floor is a light wood-grain texture. (2) The man releases the hand strap and performs a quick rhythmic dance movement with his hands before turning toward a foldable purple seat attached to the wall. He reaches down with his right hand and pulls the seat cushion downward into a horizontal position. (3) He sits down on the newly deployed purple seat, resting his olive-green crossbody bag on his lap. He looks directly at the camera, gives a thumbs-up gesture with his right hand, and then transitions into a peace sign, maintaining a cool and composed facial expression.",
+      "text_narrative_log": "(1) [Logo]: JR. (2) [Variety]: SIT DOWN.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 main male character in the foreground, 1 blurred passenger sitting in the background.",
+        "mainCharacterDescription": "The man is wearing a techwear-inspired outfit consisting of a black cap, black sunglasses, a black utility vest with multiple pockets, a black t-shirt, baggy black pants, and white athletic sneakers. He carries an olive-green tactical crossbody bag."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Public Transport Interior"
+        ],
+        "locationTopography": [
+          "Urban High-rise / Skyline"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "The interior of a clean, modern Japanese train car featuring purple fabric seats, white hand straps hanging from the ceiling, and several advertisements on the walls and doors. A large window shows a blurred urban landscape moving past.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Summer"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "Train / metro / HSR"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "JR"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "K-Pop"
+        ],
+        "tempoBPM": 105,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 1,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "Korean"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Urban/Traffic"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Mechanical Click / Latch"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 2,
+        "audioCutFrequency": 1,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a mid-tempo K-Pop track featuring a male vocalist singing in Korean. The music has a clear electronic beat with a rhythmic bassline. In the background, a very faint ambient hum of a moving train is audible, creating a realistic acoustic environment without masking the music. (2) A distinct mechanical 'clack' sound is heard as the foldable seat is pulled down, punctuating the music rhythmically. The vocals continue with a smooth delivery, and the spectral brightness of the track remains consistent. There is no speech from the person on screen. (3) The music enters a more melodic phrase as the person sits. The percussion remains steady while light synthesizer chords are added to the mix. The ambient noise of the train remains a constant, low-level floor beneath the dominant musical signal until the video ends."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Vlog"
+      ],
       "location": {
         "country": [
           "Japan"
@@ -19,152 +233,31 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A man wearing a black beret, sunglasses, and a black utility vest stands in a train car, holding onto a hand strap while looking at the camera. (2) He makes a thumb gesture pointing to the side, then quickly pulls down a purple folding seat. (3) He sits down on the seat, crosses his legs, and poses confidently for the camera while looking slightly away.",
-      "audio_narrative_log": "(1) Upbeat K-pop music with a female vocal and a rhythmic electronic beat begins immediately. (2) The music continues steadily as the main subject stands and gestures. (3) A deep, synthesized male voice says 'Slow down' exactly as the subject begins to sit. (4) The music transitions into a melodic chorus with the same female vocal until the end of the video.",
-      "text_narrative_log": "(1) Decorative/Hook Text: 'SLOW DOWN' appears in bold white font in the center-right of the screen around 0:08, marking the transition from standing to sitting."
-    },
     "temporal_pacing_summary": {
       "sceneCutCount": 2,
-      "averageSceneDuration": 7.5,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro -> Character Action (Seat Folding) -> Posing"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 3,
-      "maleDetectAmount": 2,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 main male creator, 1 male passenger in background, 1 female passenger in background",
-      "mainCharacterDescription": "Male dressed in an urban 'techwear' style: black beret, sunglasses, black t-shirt, black multi-pocket tactical vest, black baggy pants, and chunky grey/white sneakers."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Train Interior"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "The interior of a modern commuter train with yellow vertical poles, purple fabric folding seats, and various advertisement posters on the walls.",
-      "lightingStyle": "Natural daylight from windows",
-      "weather": "Sunny",
-      "season": "Summer",
+      "averageSceneDuration": 4.5,
       "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "Low",
-        "language": [
-          "English"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "Natural and bright",
-      "cameraWork": [
-        "Static"
-      ]
+      "isNarrativeShift": false
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "Medium"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 0,
-        "offscreen": 2,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Melodic and cool",
-        "pitch": "Varied (Low male, Medium-high female)",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Korean",
-          "English"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "K-Pop",
-      "bgmBPM": 120,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum machine"
-      ],
-      "musicSourceType": [
-        "Copyrighted Song"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Setup -> Action -> Pose",
-      "mainPurpose": "To display 'main character energy' and showcase personal fashion style through a highly stylized interaction with a public environment, using music synchronization to enhance the cool aesthetic.",
-      "visualEmotion": "Confident"
+      "narrativeStructure": "Linear: Observation -> Action -> Conclusion",
+      "mainPurpose": "To showcase a stylish outfit and a cool personal moment while traveling on public transportation in Japan, likely for social media engagement.",
+      "visualEmotion": [
+        "calm",
+        "cool",
+        "urban"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
       "endorsementMethod": [
         "None"
       ],
-      "endorsementCues": "None",
+      "endorsementCues": "No specific products are being promoted; the brand logos visible are incidental to the environment.",
       "endorsementObject": [
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Techwear/Streetwear aesthetic, public transport trend",
-      "freeDescribe": "The video uses beat-syncing and speed ramping to turn a simple action (sitting down) into a stylish performance."
-    }
+    "freeDescribe": "The video uses a popular music track to set a trendy mood, matching the urban techwear aesthetic of the subject."
   }
 }

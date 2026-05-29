@@ -1,177 +1,278 @@
 {
   "videoName": "2uncle987-20250912230322-1241908191407898.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 39,
-      "aspectRatio": "9:16",
+      "videoDuration": 38.6,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A middle-aged woman with short brown hair, wearing a black oversized t-shirt, light blue jeans, and black sneakers, stands on a Matrix treadmill in a brightly lit gym. She has a green jade bracelet on her left wrist and looks ahead with a neutral expression. (2) The camera zooms in on the woman's feet as she begins a slow walk on the treadmill belt. A young male coach in a black athletic shirt stands behind her, adjusting the treadmill console, while an older man in a white t-shirt and khaki shorts stands on an adjacent machine. (3) The older man with thinning gray hair and a towel draped around his neck is shown from the side, jogging at a steady pace on his treadmill. The gym environment is clean with multiple machines and large windows in the background. (4) A young woman in a green and black plaid shirt sits near a window with beige blinds, laughing heartily while holding a smartphone. She appears to be narrating the scene, gesturing with her hands as she speaks to the camera. (5) Returning to the exercise floor, the middle-aged woman is now running at a faster pace on the treadmill. The coach remains nearby, monitoring her form. The lighting is warm and consistent throughout the facility. (6) The older man and woman stand together, both stretching their arms high above their heads in a synchronized cool-down movement. Finally, they sit on a padded bench, looking relaxed and satisfied after their workout.",
+      "text_narrative_log": "(1) [Variety]: 督促中...!. (2) [Subtitle]: 把爸媽抓來運動的女兒. (3) [Subtitle]: 他們之前都會自己運動. (4) [Subtitle]: 然後我覺得年紀大了. (5) [Subtitle]: 運動最怕他們受傷. (6) [Subtitle]: 所以我覺得找一個. (7) [Subtitle]: 教練來教他們. (8) [Subtitle]: 怎樣會比較好. (9) [Subtitle]: 不然他們受傷更麻煩. (10) [Subtitle]: 真的不如把身體練好. (11) [Subtitle]: 對把身體練好. (12) [Variety]: :還行嗎?. (13) [Variety]: 小CASE.",
+      "visual_human_presence": {
+        "totalHumanCount": 4,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 3,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face",
+          "Feet / Legs"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main middle-aged woman, 1 main older man, 1 narrator woman, and 1 male fitness coach.",
+        "mainCharacterDescription": "A middle-aged woman in a black shirt and jeans, an older man in a white t-shirt and khaki shorts, and a young woman in a green plaid shirt."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Gym / Fitness Center"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A professional gym environment featuring several high-end Matrix treadmills, weight machines, and large glass windows with roller blinds.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Panning",
+          "Zoom in"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Low angle"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Fast cuts"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Matrix"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 1,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 6,
+        "valence": 8,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Meme/Comedy",
+          "Pop"
+        ],
+        "tempoBPM": 115,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter"
+        ],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Mechanical Click / Latch"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 3,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 4,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) An upbeat, playful electronic BGM with a steady rhythmic pulse begins. The faint mechanical whirring of a treadmill in operation is audible underneath the music, creating a gym-like atmosphere. (2) A young female voice enters, speaking with high energy and frequent laughter. Her speech rate is moderate to fast, with a bright and friendly tone. The music ducks slightly to allow her narration to be clear. (3) The music returns to a higher volume as the narration stops. The rhythmic beat syncs with the visual of the people running. There's a subtle sound of a deep breath or exertion from the exercisers. (4) The audio ends with a short, calm response from a man with a lower-pitched, relaxed voice, followed by a final musical flourish as the track fades out."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
         "Vlog",
-        "Health & Fitness"
+        "Sports / Fitness",
+        "Personal Talk"
       ],
-      "withRealPeople": true,
       "location": {
         "country": [
-          "Taiwan"
+          "Unknown"
         ],
         "city": [
           "Unknown"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video starts with a close-up shot of a woman's legs as she walks on a treadmill. (2) The scene shifts to a middle-aged man in a white t-shirt and khaki shorts also walking on a treadmill, accompanied by a younger man who appears to be a coach. (3) A young woman in a green plaid shirt sits and speaks directly to the camera, smiling and gesturing. (4) The middle-aged couple is shown performing various exercises, including stretching with their arms raised and walking on treadmills. (5) Finally, the middle-aged man is shown sitting by a window, looking at the camera with a satisfied expression.",
-      "audio_narrative_log": "(1) Upbeat, medium-tempo electronic pop music plays throughout the video. (2) A young female voice speaks continuously with a cheerful, friendly, and humorous tone, explaining the context of her parents exercising. (3) Ambient gym sounds, such as the low hum of treadmill motors, are subtly audible in the background. (4) At the end of the video, a middle-aged male voice says a short, confident phrase in response to a question.",
-      "text_narrative_log": "(1) Functional Text: Subtitles in Traditional Chinese throughout the video translating the young woman's speech about bringing her parents to the gym. (2) Decorative/Hook Text: '督促中...' (Supervising...) and '把爸媽抓來運動的女兒' (The daughter who caught her parents to exercise) appear as titles. (3) Emotional Text: '小CASE' (Small case) appears at the end when the father speaks, reflecting a humorous and confident tone."
-    },
     "temporal_pacing_summary": {
       "sceneCutCount": 14,
-      "averageSceneDuration": 2.78,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Workout intro -> Narrative explanation by daughter -> Montage of parents exercising -> Post-workout reaction."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 4,
-      "maleDetectAmount": 2,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 3,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Lower body"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 main creator (daughter), 2 parents (father and mother), and 1 fitness coach assisting.",
-      "mainCharacterDescription": "A young woman in a green and black plaid shirt; a middle-aged woman in a black oversized t-shirt and light-colored jeans; a middle-aged man in a white graphic t-shirt and khaki shorts."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Gym",
-          "Fitness Center"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A modern indoor gym equipped with multiple Matrix brand treadmills, exercise bikes, and other fitness equipment. Large floor-to-ceiling windows look out onto greenery.",
-      "lightingStyle": "Bright, even indoor lighting with natural light from windows.",
-      "weather": "Sunny (visible through the window)",
-      "season": "Unknown",
+      "averageSceneDuration": 2.7,
       "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "Medium",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Warm, natural, and high clarity.",
-      "cameraWork": [
-        "Static",
-        "Handheld follow",
-        "Low angle"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone",
-        "Treadmill",
-        "Exercise Bike"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "MATRIX",
-        "ASICS",
-        "GUCCI"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade",
-      "vocalRatio": "Medium"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Cheerful and humorous",
-        "pitch": "Medium-high",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop",
-      "bgmBPM": 115,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Kit"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Gym quiet"
-      ],
-      "audioQuality": "Field"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Contextual Narration -> Progress Montage -> Conclusion",
-      "mainPurpose": "The video serves as a lighthearted personal vlog documenting the creator's effort to encourage her elderly parents to maintain their health through exercise. By hiring a professional coach, she emphasizes safety and proper technique for seniors, ultimately celebrating their progress and successful workout session with a humorous ending.",
-      "visualEmotion": "Warm, Encouraging, and Humorous"
+      "narrativeStructure": "Montage: Hook -> Narration -> Demonstration -> Result",
+      "mainPurpose": "The video serves as a heartwarming lifestyle vlog documenting a daughter's initiative to ensure her aging parents' physical well-being. By hiring a professional coach at the gym, she emphasizes safety and proper technique in their exercise routine to prevent injuries. The content appeals to viewers through its relatable family dynamic and positive message about proactive health management for seniors.",
+      "visualEmotion": [
+        "warm",
+        "energetic",
+        "humorous"
+      ]
     },
     "endorsement_analysis": {
-      "isEndorsement": false,
+      "isEndorsement": true,
       "endorsementMethod": [
-        "None"
+        "Implicit",
+        "Integrated"
       ],
-      "endorsementCues": "The video focuses on a personal family activity without specific calls to action or product deep-dives.",
+      "endorsementCues": "Prominent display of Matrix fitness equipment throughout the workout session.",
       "endorsementObject": [
-        "None"
+        "Matrix"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Direct-to-camera storytelling, text-heavy overlays with variety-show aesthetics.",
-      "freeDescribe": "The content leverages the 'filial piety' theme common in social media vlogs, using a relatable situation to engage viewers."
-    }
+    "freeDescribe": "A positive family-oriented vlog promoting fitness for the elderly with professional guidance."
   }
 }

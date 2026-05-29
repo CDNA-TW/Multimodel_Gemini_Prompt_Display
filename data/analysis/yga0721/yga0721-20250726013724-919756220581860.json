@@ -1,159 +1,269 @@
 {
   "videoName": "yga0721-20250726013724-919756220581860.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 67,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Sports",
-        "Comedy"
-      ],
+      "videoDuration": 66,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "Japan"
+      "visual_narrative_log": "(1) The scene opens on a bright, snowy ski slope under a clear sky with a visible ski lift and distant trees. A man in yellow overalls and a pink undershirt stands near another man in a grey hoodie, black pants, and a green-lensed helmet who is mounted on a snowboard. A small child in a pink jacket is seated on the board between the snowboarder's legs. The man in yellow points to his own leg with an exaggerated, comedic facial expression. (2) The man in yellow sits down on the front part of the snowboard, positioning himself directly between the snowboarder's legs and the child, creating a vertical stack of three people. He holds a smartphone in his right hand to record himself. The lighting is bright and natural daylight, casting clear shadows on the snow. (3) The snowboard begins to descend the slope. The camera shifts to a selfie POV angle, showing the face of the man in yellow up close as he laughs and screams. The background becomes a blur of snow and movement. A child's face is partially visible next to him, also smiling. (4) A wide shot from behind captures the three-person stack sliding down the hill. A few other skiers are visible in the distance on the wide, groomed trail. The man in yellow continues to film with his phone while the snowboarder maintains balance and control from the back. (5) The final phase shows more close-up selfie shots of the group. The man in yellow and the snowboarder both look into the camera, making peace signs and laughing as they reach the bottom of the run.",
+      "text_narrative_log": "(1) [Subtitle]: POV：當滑雪蔡教練有三隻大腿",
+      "visual_human_presence": {
+        "totalHumanCount": 6,
+        "maleDetectAmount": 4,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 1,
+        "mainCharacterCount": 3,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face close-up",
+          "Hands only"
         ],
-        "city": [
-          "Niigata"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video starts on a snowy slope with three people: a man in a grey hoodie, a man in bright yellow overalls, and a small child in pink snow gear. The man in yellow is gesturing and shouting excitedly towards the camera. (2) The scene transitions to the three of them sitting together on a single snowboard. The man in the grey hoodie is at the back, the man in yellow is in the middle holding the child in pink at the front. (3) They begin sliding down the slope in this tandem position, picking up speed. The camera alternates between a side-along follow shot and a front-facing POV shot of the man in yellow's face, showing extreme excitement and wide-mouthed shouting. (4) They successfully reach the bottom of the slope together, still balanced on the single board, cheering and making peace signs.",
-      "audio_narrative_log": "(1) Energetic male voices are heard shouting 'Da tui!' (meaning 'Big legs' or 'Strong helpers' in slang) repeatedly in an excited, rhythmic tone. (2) As they start moving, the sound of wind and the friction of the snowboard against the snow becomes prominent. (3) Continuous, high-pitched screaming and laughing from both the adult males and the child fill the audio track as they accelerate. (4) The shouting subsides into victorious cheers and a final 'Yeah!' at the end of the run.",
-      "text_narrative_log": "(1) 'POV : 當滑雪絮教練有三隻大腿' - Decorative/Hook Text: Humorously suggests the instructor has three 'powerhouses' or strong helpers helping him slide."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 7,
-      "averageSceneDuration": 9.5,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro/Preparation -> Tandem Snowboarding Action -> Celebration"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 5,
-      "maleDetectAmount": 3,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 1,
-      "mainCharacterCount": 3,
-      "bodyPartVisibility": [
-        "Full body",
-        "Face close-up"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "3 main characters on the board, 2 passers-by visible in the background at the resort.",
-      "mainCharacterDescription": "One man in a grey hoodie and helmet, one man (Cai A-ga) in yellow overalls and pink inner shirt, and one young child in a pink snowsuit."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Outdoor Snow Hill",
-          "Ski Resort"
+        "crowdLevel": [
+          "Small Group"
         ],
-        "topography": [
-          "Hill",
-          "Slope"
+        "countingEvidence": "3 main characters (2 adult males, 1 child), 3 distant skiers in the background.",
+        "mainCharacterDescription": "One male in yellow overalls and a pink shirt; one male in a grey hoodie, helmet, and goggles; one child in a pink winter jacket."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Mountain / Forest / Trail",
+          "Tourist Attraction / Landmark"
+        ],
+        "locationTopography": [
+          "Mountain",
+          "Snowfield / Arctic"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A vast, open snowy ski slope with groomed tracks, evergreen trees on the perimeter, and a functional ski lift with chairs moving.",
+        "lightingStyle": [
+          "Natural daylight"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Winter"
+        ],
+        "colorTone": [
+          "Natural and bright"
         ]
       },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A wide, groomed snowy ski slope under a bright, slightly overcast sky. Ski lifts and resort buildings are visible in the distance.",
-      "lightingStyle": "Natural daylight",
-      "weather": "Cloudy but bright",
-      "season": "Winter",
-      "editingPace": "Fast",
-      "textOverlay": {
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Selfie handheld",
+          "Walking handheld",
+          "Follow shot"
+        ],
+        "shotSize": [
+          "Medium full shot",
+          "Close-up",
+          "Long shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "POV / first-person view",
+          "Low angle"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Meme-style edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
         "density": "Low",
-        "language": [
+        "textLanguage": [
           "Traditional Chinese"
         ],
-        "isSubtitled": false
+        "isSubtitled": true
       },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Follow shot",
-        "POV",
-        "Static"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "Ski Lift"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "Kagura Ski Resort"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 3,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 1,
-        "vocal_demographics": {
-          "male_vocal_count": 2,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 1
-        }
-      },
-      "vocal_qualities": {
-        "tone": "High-pitched and excited",
-        "pitch": "High",
-        "loudness": "Very loud/Shouting",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Action camera"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": false,
-      "bgmGenre": "None",
-      "bgmBPM": 0,
-      "instrumentFamiliesAudible": [
-        "None"
-      ],
-      "instrumentsAudible": [
-        "None"
-      ],
-      "musicSourceType": [
-        "None"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Wind",
-        "Snow sliding"
-      ],
-      "audioQuality": "Field Recording"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 3,
+        "male_vocal_count": 2,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 1
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Comedic/Exaggerated"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": true,
+        "hasStrain": true,
+        "articulationClarity": 3,
+        "intonationAndContour": [
+          "Rising",
+          "Complex"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": true
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter",
+          "Screaming/Yelling"
+        ],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": [
+          "Nature/Outdoor"
+        ],
+        "ambientNoiseIntensity": 3,
+        "incidentalNoiseDetails": [
+          "Liquid Pour / Splash",
+          "Sudden Wind Burst"
+        ],
+        "incidentalNoiseIntensity": 3,
+        "SignalToNoiseRatio": 3,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 3,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) High-arousal male vocals dominate. One speaker shouts 'Dàtuǐ' (thigh) repeatedly with a comedic, strained inflection. A background child's laugh is audible. Ambient wind floor is present. (2) A muffled percussive impact occurs as someone sits down. The voices become more rapid, speaking in short, breathless bursts. (3) A loud, continuous broadband friction noise begins, signifying the snowboard sliding on snow. The vocals transition to high-pitched screaming and ecstatic cheering ('Wooo!'). Wind noise increases in intensity due to movement. (4) The sliding friction sound continues with varying frequency as the speed changes. Voices are heard shouting 'Yawai!' and laughing hysterically. The acoustic environment is bright and noisy with wind and snow textures. (5) The sliding noise subsides as the group slows down. The primary speaker shouts a final celebratory phrase with a high-rising intonation, followed by clear laughter from all three participants."
     }
   },
-  "high_inference_interpretations": {
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Meme / Trend",
+        "Vlog"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 12,
+      "averageSceneDuration": 5.5,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Setup -> Action -> Result",
-      "mainPurpose": "To document and share a funny, high-energy family moment during a skiing trip where the group attempts a chaotic tandem snowboard run.",
-      "visualEmotion": "Energetic and Humorous"
+      "narrativeStructure": "Montage: Setup -> Comedic Performance -> Action Sequence -> Payoff",
+      "mainPurpose": "To entertain the audience with a humorous and unconventional snowboarding stunt, highlighting the camaraderie and fun of the group.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -165,9 +275,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Features Taiwanese YouTuber Cai A-ga (蔡阿嘎) known for high-energy comedy vlogs.",
-      "freeDescribe": "The video relies heavily on vocal energy and physical comedy (tandem snowboarding) for its entertainment value."
-    }
+    "freeDescribe": "The video uses a 'POV' trope to set up a joke about a snowboarder having 'three legs' by stacking people on the board. The high audio energy and chaotic selfie-style filming are characteristic of viral short-form social media content."
   }
 }

@@ -1,174 +1,280 @@
 {
   "videoName": "cocowine0205-20250513144506-1420328646230141.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 63,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Shopping",
-        "Product Review"
-      ],
+      "videoDuration": 60,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A woman with long dark hair, wearing a black tiered midi-dress and light-colored shoes, stands in a warehouse aisle. She points at a blue pet cot with a gray canopy. The background features tall orange industrial shelving units stacked with pallets of goods and Kirkland Signature product boxes. Lighting is bright and consistent. (2) The camera pans to a close-up of a price tag on a shelf displaying the number 899. A hand points to the handwritten-style numbers on the tag. The background shows blurred warehouse inventory. (3) The shot shifts back to the pet cot where the woman is now touching the blue mesh surface of the bed. She is leaning forward, looking down at the product. (4) An extreme close-up focuses on a hand pressing against the blue mesh fabric to demonstrate its texture and density. The lighting remains bright, highlighting the weave of the material. (5) The woman picks up a blue plush crocodile toy from the cot and holds it to her chest while making a playful, slightly defensive facial expression. A male hand enters the frame from the right, pointing at her.",
+      "text_narrative_log": "(1) [Logo]: COSTCO WHOLESALE. [Subtitle]: 這是什麼. [Variety]: 寵物<<$$ 夏日潮狗必備. (2) [Subtitle]: 特價了. [Slogan]: 寵物架高涼床 附棚架. (3) [Subtitle]: 什麼東西特價. (4) [Subtitle]: 每一位狗狗都需一個. (5) [Subtitle]: 折199 然後它是. (6) [Subtitle]: 你知道 多麼的簡易嗎. (7) [Subtitle]: 它用手寫的. (8) [Subtitle]: 它甚至 沒有新標牌. (9) [Subtitle]: 所以它剩這最後一個. (10) [Subtitle]: 啊只剩這一個 不買可惜了. (11) [Subtitle]: 那我們放在這邊. (12) [Subtitle]: 請需要的人 自己來購買. (13) [Subtitle]: 你要進去躺嗎. (14) [Subtitle]: 我覺得最後會是你他在裡面. (15) [Subtitle]: 他材質很舒服哎. (16) [Subtitle]: 摸起來柔軟不比 不比人的差. (17) [Subtitle]: 透氣的網子. (18) [Subtitle]: 對啊 而且這個網子是很密. (19) [Subtitle]: 硬的 但是不會刺. (20) [Subtitle]: 這小棚子真的好可愛哦. (21) [Subtitle]: 不知道耐重幾公斤. (22) [Subtitle]: 覺得養大狗的 可以買. (23) [Subtitle]: 而且它感覺 進貨不多. (24) [Subtitle]: 就特價200塊. (25) [Subtitle]: 700塊 真的很划算. (26) [Subtitle]: 不買血虧啊. (27) [Subtitle]: 你與你的小狗狗. (28) [Subtitle]: 這樣有玩具 又有床 好棒 超可愛的. (29) [Subtitle]: 可愛你也不給買啊. (30) [Subtitle]: 這個講幾次 都沒有買過. (31) [Subtitle]: 沒錯 我就是這種人. (32) [Subtitle]: 哎！這個放回去 放下去 放回去.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body",
+          "Hands only",
+          "Face close-up"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 main female creator in frame, 1 male cameraman's hands visible occasionally.",
+        "mainCharacterDescription": "A young Asian woman with long dark hair, wearing a black long-sleeved tiered dress and light gray flats."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Supermarket / Warehouse Store"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "Costco warehouse interior with high-reaching orange metal shelves, wooden pallets, and large quantities of boxed merchandise (specifically pet supplies).",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Summer"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Panning",
+          "Zoom in"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Extreme close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Plush / decoration / toy animal"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Costco",
+          "Kirkland Signature"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 1,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Casual",
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Drum Kit / Drum Set",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Clothing / Fabric Rustle",
+          "Plastic / Bag Rustle"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Pop / Bubble SFX",
+          "Ding / Bell SFX",
+          "Whoosh / Transition SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) High-energy, upbeat electronic pop music starts with a steady 4/4 drum beat. A female voice asks a question with high arousal and curious pitch. A male voice answers immediately with a fast speech rate and enthusiastic tone. (2) A sharp 'ding' sound effect triggers. The male narrator continues explaining product details with a rising intonation pattern. The music remains consistent in the background. (3) A 'whoosh' transition effect occurs. The female voice speaks again, with a soft texture, while the male voice maintains a high-energy delivery style. Minimal ambient warehouse noise is present below the primary signal. (4) A 'pop' bubble sound effect punctuates the transition as the conversation shifts to humor. The male voice uses more pitch variability and a teasing tone, ending the segment with high positive valence."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Product Showcase",
+        "Shopping",
+        "Lifestyle"
+      ],
       "location": {
         "country": [
-          "Taiwan"
+          "Unknown"
         ],
         "city": [
           "Unknown"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video starts in a large warehouse setting with high shelves. A woman in a black dress stands in front of a shelf pointing at a blue pet bed with a canopy. (2) The camera moves closer to show a price tag on the shelf, then transitions to a close-up of the woman touching and pressing on the blue mesh material of the pet bed. (3) A blue crocodile plush toy is placed on the bed, and the woman interacts with it, eventually hugging the toy while looking towards the camera. (4) The camera shows various angles of the pet bed structure and its material before finishing with a shot of the woman holding the plush toy.",
-      "audio_narrative_log": "(1) Upbeat, rhythmic background music starts immediately with a playful and energetic tempo. A young female voice is heard speaking enthusiastically. (2) A male voice responds off-camera, engaging in a dialogue with the female. The BGM remains consistent in the background. (3) The conversation continues with both voices sounding excited and humorous. Occasional rustling sounds of fabric and the warehouse's ambient low hum are audible beneath the voices and music. (4) The audio concludes with a final humorous exchange between the two speakers as the music fades.",
-      "text_narrative_log": "(1) Functional Text: '寵物露營棚 夏日潮狗必備' (Pet camping tent, summer trendy dog essential) - Descriptive title. (2) Decorative Text: '這什麼' (What is this?) - Hook text appearing in a speech bubble. (3) Functional Text: '寵物架高涼床 附篷架' (Pet elevated cooling bed with canopy) - Product description. (4) Decorative Text: '折199' (Discounted by 199) - Emphasis on price reduction. (5) Decorative Text: '不買血虧' (A huge loss if you don't buy) - High-energy hook to encourage purchase."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 18,
-      "averageSceneDuration": 3.5,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Intro to product -> Close-up inspection of features and price -> Hands-on interaction and demonstration -> Closing humor"
+      "sceneCutCount": 12,
+      "averageSceneDuration": 5.0,
+      "editingPace": "Fast",
+      "isNarrativeShift": false
     },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "1 female main character fully visible; 1 male's hand appears briefly and his voice is constant off-screen",
-      "mainCharacterDescription": "A young Asian woman with long dark hair, wearing a black tiered dress and grey flats."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Warehouse Store"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "Costco warehouse interior with high industrial shelving, numerous boxes of 'Kirkland Signature' products, and price tags.",
-      "lightingStyle": "Bright indoor warehouse lighting",
-      "weather": "Indoor",
-      "season": "Summer (contextually implied by text)",
-      "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Handheld",
-        "Follow shot",
-        "Close-up"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "COSTCO WHOLESALE",
-        "Kirkland Signature"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Friendly, excited, and humorous",
-        "pitch": "Medium-high",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat/Pop",
-      "bgmBPM": 120,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Field Recording"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Feature Presentation -> Price Reveal -> Conclusion",
-      "mainPurpose": "The video is a lifestyle shopping recommendation aimed at pet owners. It highlights a specific 'hidden gem' or discount deal at Costco (a pet canopy bed) and uses a conversational, vlog-style approach to demonstrate the product's quality and value to the audience.",
-      "visualEmotion": "Energetic and cheerful"
+      "narrativeStructure": "List-based: Feature Presentation -> Discount Highlight -> Personal Interaction.",
+      "mainPurpose": "To promote and review a specific pet camping cot on sale at Costco, highlighting its value for money and physical quality through a humorous and energetic shopping vlog style.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "informative"
+      ]
     },
     "endorsement_analysis": {
-      "isEndorsement": true,
+      "isEndorsement": false,
       "endorsementMethod": [
-        "Implicit",
-        "Integrated"
+        "None"
       ],
-      "endorsementCues": "The creator specifically highlights the price tag, brand location (Costco), and urges viewers to buy it before it's gone.",
+      "endorsementCues": "The video appears to be organic user-generated content or a shopping vlog rather than a paid brand endorsement.",
       "endorsementObject": [
-        "COSTCO WHOLESALE"
+        "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Variety-show style captions and a duo-interaction format between the camera person and the host.",
-      "freeDescribe": "The video leverages the 'treasure hunt' aspect of Costco shopping to create engagement through perceived scarcity (last one left) and high value (discounted price)."
-    }
+    "freeDescribe": "The video uses typical social media short-form editing with high-density captions and sound effects to maintain viewer engagement."
   }
 }

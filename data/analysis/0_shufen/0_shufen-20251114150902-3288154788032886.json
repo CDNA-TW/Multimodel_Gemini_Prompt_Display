@@ -1,157 +1,259 @@
 {
   "videoName": "0_shufen-20251114150902-3288154788032886.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 48,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Storytelling"
-      ],
+      "videoDuration": 48.6,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A young woman with long, dark hair and wearing a purple tank top stands in a brightly lit indoor room, facing the camera directly. She smiles broadly, showing her teeth, and begins to speak with animated facial expressions. (2) As she continues talking, she uses frequent hand gestures to emphasize her points. The background features a simple white wall and some out-of-focus household items. (3) The camera remains static in a medium close-up shot as she recounts a story, her eyes moving as she describes past events. (4) She suddenly widens her eyes and brings her right hand up to her mouth in a gesture of surprise or shock, maintaining her focus on the camera. (5) She leans in closer to the camera, laughing and smiling while finishing her narrative, her expressions shifting between excitement and amusement. (6) The video concludes with her laughing heartily, her face filling most of the frame as she delivers the final part of her story.",
+      "text_narrative_log": "(1) [Subtitle]: 我要給我家的狗. (2) [Subtitle]: 笑死. (3) [Subtitle]: 那天我滑到. (4) [Subtitle]: 就是問狗問題. (5) [Subtitle]: 給它. (6) [Subtitle]: 回答問題. (7) [Subtitle]: 兩個選擇. (8) [Subtitle]: 左手或右手. (9) [Subtitle]: 然後我就想. (10) [Subtitle]: 試試看. (11) [Subtitle]: 問我家的狗. (12) [Subtitle]: 我問它. (13) [Subtitle]: 上輩子是人還是狗. (14) [Subtitle]: 它說是人. (15) [Subtitle]: 然後. (16) [Subtitle]: 我問它是男生還是女生. (17) [Subtitle]: 它說是男生. (18) [Subtitle]: 那我再問它. (19) [Subtitle]: 我們上輩子認識嗎?. (20) [Subtitle]: 它說認識. (21) [Subtitle]: 哇. (22) [Subtitle]: 我就問它. (23) [Subtitle]: 那我們上輩子是.. (24) [Subtitle]: 朋友還是情人?. (25) [Subtitle]: 它就說是朋友. (26) [Subtitle]: 那我就問它. (27) [Subtitle]: 那我們是.. (28) [Subtitle]: 普通朋友. (29) [Subtitle]: 還是有點曖昧. (30) [Subtitle]: 它說. (31) [Subtitle]: 我們. (32) [Subtitle]: 有點曖昧. (33) [Subtitle]: 所以我上輩子的. (34) [Subtitle]: 曖昧對象. (35) [Subtitle]: 這一輩子. (36) [Subtitle]: 變成狗了.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Head and shoulders",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 female main creator.",
+        "mainCharacterDescription": "A young Asian woman with long dark hair, wearing a purple spaghetti-strap tank top and a thin necklace with a small pendant."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A plain white wall in an indoor domestic setting with soft, diffused lighting. Some indistinguishable objects are partially visible in the blurry background.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Jump cut",
+          "Fast cuts"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Acoustic/Folk",
+          "Pop"
+        ],
+        "tempoBPM": 120,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "String",
+          "Keyboard"
+        ],
+        "instrumentsAudible": [
+          "Guitar",
+          "Piano"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Cartoon / Comedy SFX",
+          "Applause / Laugh Track SFX",
+          "Surprise SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a high-energy female voice speaking rapidly in Mandarin over an upbeat acoustic guitar and piano BGM track. The music has a clear, rhythmic pulse at a moderate tempo. (2) As the narration continues, her pitch fluctuates to convey excitement while describing a social media challenge. (3) A sudden cartoon-style surprise sound effect triggers as she reaches a plot point in her story. The BGM remains steady in the background. (4) The female voice becomes even more animated, with increased vocal variety as she lists out questions and answers. (5) Toward the end, she laughs audibly as she delivers the punchline of the story. (6) The video concludes with a short, canned laughter sound effect (laugh track) that blends with her own laughter before the audio cuts out."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Personal Talk",
+        "Storytelling",
+        "Comedy"
+      ],
       "location": {
         "country": [
           "Unknown"
         ],
         "city": [
-          "None"
+          "Unknown"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video is a live-action recording of a young woman speaking directly to the camera in a close-up shot. (2) She smiles frequently, uses expressive hand gestures to emphasize her words, and touches her hair occasionally. (3) In the latter half, she covers her mouth while laughing and appears surprised by the story she is telling.",
-      "audio_narrative_log": "(1) A female voice speaks in a high-pitched, energetic, and humorous tone in Mandarin throughout the video. (2) Upbeat, medium-tempo background music plays continuously, maintaining a lighthearted mood. (3) Subtle ambient indoor noise is present but not distracting. (4) A canned laughter sound effect (SFX) triggers at the very end of the video.",
-      "text_narrative_log": "(1) Functional Text: Traditional Chinese subtitles appear at the bottom, transcribing the speaker's dialogue. (2) Decorative/Effect Text: Variety-show style captions such as '笑死' (hilarious), '兩个選擇' (two choices), and '有點曖昧' (a bit of flirtation/ambiguity) appear in the center-bottom to highlight key points of the narrative."
     },
     "temporal_pacing_summary": {
-      "sceneCutCount": 14,
-      "averageSceneDuration": 3.4,
-      "isNarrativeShift": false,
-      "mainActionFlow": "The video follows a constant flow of the creator talking to the camera, using jump cuts to maintain a fast pace."
+      "sceneCutCount": 15,
+      "averageSceneDuration": 3.2,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
     },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full face",
-        "Shoulders",
-        "Hands"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 female main character visible throughout.",
-      "mainCharacterDescription": "An Asian woman with long dark hair, wearing a purple spaghetti-strap top and a thin silver necklace."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Room"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A simple indoor setting with an off-white wall and some blurred objects/laundry on the right side.",
-      "lightingStyle": "Soft natural indoor light",
-      "weather": "Unknown",
-      "season": "Unknown",
-      "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural and bright",
-      "cameraWork": [
-        "Static",
-        "Close-up"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Cheerful and humorous",
-        "pitch": "High",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Traditional Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat/Pop",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Electronic Drums"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "Laughter SFX"
-      ],
-      "ambientNoise": [
-        "Indoor quiet"
-      ],
-      "audioQuality": "Field"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Storytelling -> Climax/Reveal",
-      "mainPurpose": "To share a humorous personal story about 'testing' her dog's identity in a previous life through a choice game, ultimately finding it funny that the dog was supposedly her 'ambiguous/flirty' interest in a past life.",
-      "visualEmotion": "Energetic and lighthearted"
+      "narrativeStructure": "Linear: Setup -> Inciting Incident -> Progressive Complications -> Climax -> Resolution",
+      "mainPurpose": "The video is a comedic storytelling vlog where the creator shares a humorous anecdote about using a viral filter or game to 'talk' to her dog. The intent is to entertain viewers by revealing the funny and unexpected conclusion that her dog was her 'vague romantic interest' in a past life.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -163,9 +265,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-energy talking head style with heavy use of variety-show captions.",
-      "freeDescribe": "The video relies on the charm and storytelling ability of the creator to engage a lifestyle/vlog audience."
-    }
+    "freeDescribe": "The video uses typical short-form social media editing styles, including jump cuts and synchronized subtitles, to maintain high viewer engagement."
   }
 }

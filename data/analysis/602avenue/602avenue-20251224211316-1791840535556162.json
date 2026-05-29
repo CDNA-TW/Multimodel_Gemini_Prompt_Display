@@ -1,158 +1,256 @@
 {
   "videoName": "602avenue-20251224211316-1791840535556162.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 12,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Social Media Challenge",
-        "Roleplay"
-      ],
+      "videoDuration": 12.3,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) The video begins with a medium close-up of a young woman with long, dark, wavy hair. She is wearing a grey and black horizontal-striped zip-up top. Her facial expression is soft, with pinkish eyeshadow and bold red lipstick. She looks directly into the lens, occasionally tilting her head in a suggestive manner. The background consists of a cream-colored wooden wardrobe or closet door with vertical panels. The lighting is soft and even, typical of an indoor home environment, highlighting her facial features and makeup without harsh shadows. (2) As she continues her monologue, she raises her right hand slightly toward her shoulder, adjusting her collar or grazing her neck. Her eyes maintain a steady, slightly longing gaze towards the viewer, enhancing the intimate atmosphere. The camera remains static in a selfie-style perspective. The texture of her hair appears glossy, and the striped pattern of her clothing is distinct against the neutral, light-colored background. No other objects or people are visible in the frame. (3) In the final segment, her expression shifts into a gentle smile as she extends her right hand towards the camera, palm up, in an inviting gesture. Her body leans slightly forward, increasing the sense of physical proximity. The movement is smooth and deliberate. The background remains the same wardrobe structure. The lighting remains warm and flattering, focusing on her inviting facial expression and the hand gesture until the clip ends.",
+      "text_narrative_log": "(1) [Variety]: 🇰🇷韓國爆紅姊姊病Challenge. [Subtitle]: 언니가 불편해? 姊姊讓你不舒服了嗎？. (2) [Subtitle]: 언니가 어려워? 姊姊讓你為難了嗎？. (3) [Subtitle]: 언니가 싫어? 討厭姊姊嗎？. (4) [Subtitle]: 언니가 잘할게~ 姊姊會好好做的~. (5) [Subtitle]: 가자! 走吧！",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 female main character appears in the center of the frame throughout the video.",
+        "mainCharacterDescription": "A young woman with long dark wavy hair, wearing a grey and black striped zip-up top and heavy makeup including red lipstick and pink eyeshadow."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A cream-colored or light beige wooden wardrobe with vertical paneling, providing a neutral and domestic interior setting.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "None"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Korean",
+          "Traditional Chinese",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 2,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Korean"
+        ],
+        "hasBreathiness": true,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Rising"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 1
+      },
+      "vocal_affective": {
+        "arousal": 4,
+        "valence": 7,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop"
+        ],
+        "tempoBPM": 92,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 2,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 2,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 2,
+        "audioCutFrequency": 1,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Low-fi/Phone"
+        ]
+      },
+      "audio_narrative_log": "(1) A female voice with a soft, breathy texture speaks the first phrase with a clear questioning intonation. The pitch is moderate, and the delivery is slow and deliberate. Simultaneously, a bright, acoustic-pop style BGM starts, featuring clean electronic synth plucks and a gentle, steady beat. The environment is quiet, suggesting a controlled indoor room. (2) The speaker delivers the second question phrase. Her voice maintains an intimate and slightly playful tone with high articulation clarity. The music continues at a steady tempo of approximately 90-95 BPM with no structural pauses. There are no incidental noises like rustling or clicks during this segment. (3) The third questioning phrase is spoken with similar soft intensity. The BGM remains consistent in volume and texture underneath the vocal track. The acoustic brightness is moderate, focused on the clarity of the voice. The speaker's arousal level is low but controlled, conveying a sense of role-playing. (4) The voice shifts to a more promising, soothing, and affirmative tone for the fourth phrase. The speech rate remains moderate, perfectly synchronized with the calm rhythm of the background track. The signal-to-noise ratio remains excellent, with the primary signal standing clearly above the quiet noise floor. (5) The final phrase 'Gaja!' is delivered with a slight increase in vocal energy and a rising intonation, acting as a decisive call to action. The music continues its steady pattern until the very end of the recording. The overall production is clean and well-balanced between the vocal and musical tracks."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Meme / Trend",
+        "Selfie / Portrait"
+      ],
       "location": {
         "country": [
-          "South Korea"
+          "Unknown"
         ],
         "city": [
           "None"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A woman with long wavy brown hair and a striped zip-up top looks directly at the camera with a provocative expression while touching her collarbone. (2) She tilts her head and adjusts her shoulder, looking playfully serious as she maintains eye contact. (3) She continues to gaze into the lens while slightly smiling, subtly changing her facial angle. (4) She extends her right hand towards the camera in an inviting gesture as the scene concludes.",
-      "audio_narrative_log": "(1) A female voice speaks in a calm, teasing tone in Korean over a muted, lo-fi beat. (2) The vocal track continues posing questions in a soft, low pitch while the rhythmic BGM remains constant. (3) The music maintains its volume as the speaker continues her soft monologue. (4) The speaker concludes with an enthusiastic 'Kaja!' (Let's go) and the audio track ends abruptly.",
-      "text_narrative_log": "(1) Top banner text '🇰🇷韓國爆紅姊姊病Challenge' acts as the hook for the challenge. (2) Yellow Korean text '언니가 불편해?' and white Chinese translation '姊姊讓你不舒服了嗎？' appear in the center. (3) Sequential captions follow: '언니가 어려워? / 姊姊讓你為難了嗎？', '언니가 싫어? / 討厭姊姊嗎？', '언니가 잘할게~ / 姊姊會好好做的～'. (4) The final text '가자! / 走吧！' appears as the closing call to action."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 5,
-      "averageSceneDuration": 2.4,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Intro -> Series of questions -> Invitation"
+      "sceneCutCount": 0,
+      "averageSceneDuration": 12.3,
+      "editingPace": "Slow",
+      "isNarrativeShift": false
     },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Upper body",
-        "Face",
-        "Hands"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main female creator in frame",
-      "mainCharacterDescription": "Young woman with long dark brown wavy hair, wearing a grey and black horizontal striped zip-up hoodie. Her makeup includes pinkish eyeshadow and bold red lipstick."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Bedroom"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A simple indoor environment featuring cream-colored closet doors with vertical paneling.",
-      "lightingStyle": "Bright studio lighting focusing on the subject's face",
-      "weather": "None",
-      "season": "None",
-      "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "Medium",
-        "language": [
-          "Korean",
-          "Chinese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural/Warm",
-      "cameraWork": [
-        "Static"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Teasing and gentle",
-        "pitch": "Medium-low",
-        "loudness": "Medium",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Korean"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Lo-fi Upbeat",
-      "bgmBPM": 100,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Sequence of Questions -> CTA",
-      "mainPurpose": "The video aims to participate in a trending social media challenge known as the 'Noona' (older sister) challenge. By combining flirtatious visual cues with scripted roleplay dialogue, the creator builds an intimate persona to engage viewers and solicit interaction through the 'older sister' trope.",
-      "visualEmotion": "Playful and Seductive"
+      "narrativeStructure": "List-based: Hook Questions -> Reassurance -> Call to Action",
+      "mainPurpose": "To participate in a popular social media challenge (the 'Older Sister Sickness' or 'Unni-byeong' challenge) by role-playing a caring yet flirtatious older sister figure to engage and charm the audience.",
+      "visualEmotion": [
+        "warm",
+        "flirtatious",
+        "calm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -164,9 +262,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Direct eye contact and specific Korean honorific ('Noona') roleplay",
-      "freeDescribe": "Typical high-engagement short-form video content following East Asian internet trends."
-    }
+    "freeDescribe": "The video uses a single continuous take and intimate framing to build a direct connection with the viewer, typical of short-form social media trends."
   }
 }

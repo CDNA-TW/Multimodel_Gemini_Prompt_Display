@@ -1,14 +1,240 @@
 {
   "videoName": "yga0721-20250611065634-2360894914350137.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 10,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Fashion Showcase",
-        "Short-form Content"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A person wearing grey sweatpants and red patterned socks steps into a pair of brown leather shoes with three velcro straps. The setting is indoors on a light wooden floor next to a grey rug with soft, bright indoor lighting. (2) The scene cuts to the person stepping into mustard yellow suede shoes with white laces and chunky soles; the text 'wander' appears on the left. (3) The person steps into bright blue canvas sneakers with white laces; the text 'ADER' appears above the rug. (4) The person steps into beige chunky sneakers with a prominent wavy midsole design on the light wooden floor. (5) The person steps into off-white leather sneakers with a cream-colored sole; the text 'northwave' appears on the left side of the frame. (6) The person steps into red textured, almost knit-like sneakers with thin laces; the text 'CAMPER' appears above the shoe. (7) The person steps into black chunky trail-style sneakers with a thick sole and complex layered construction on the wooden floor. (8) The camera cuts to a medium shot of a smiling man wearing a blue striped t-shirt and a blue baseball cap, holding the mustard yellow and blue shoes in both hands against a plain white wall.",
+      "text_narrative_log": "(1) [Variety]: wander. (2) [Logo]: ADER. (3) [Logo]: northwave. (4) [Logo]: CAMPER.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Feet / Legs",
+          "Upper body",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 male creator shown from the feet up in cuts, then in full view at the end.",
+        "mainCharacterDescription": "A young man wearing a blue horizontally striped t-shirt, a blue baseball cap, grey pants, and various sneakers."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The primary background is a light-colored wooden floor with a grey area rug and a white door frame; the final scene is a plain white indoor wall.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Close-up",
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Low angle",
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Fast cuts",
+          "Rhythm matched to music"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "ADER",
+          "northwave",
+          "CAMPER"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 3,
+        "speechPauseDensity": 1
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "English"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Rising"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop"
+        ],
+        "tempoBPM": 120,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 1,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "English"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 0,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Impact / Hit SFX",
+          "Pop / Bubble SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 1,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 5,
+        "speechMusicOverlap": 4,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A rhythmic pop track begins with a strong drum beat and male vocals singing 'Honey see you...'. A subtle percussive impact SFX is synchronized with the first footstep on the screen. (2) The song continues with 'look at me' as another rhythmic percussive thud aligns with the second shoe change. The mix is bright and clear with high spectral energy. (3) The vocal phrase 'I'm ready going' plays over a driving electronic beat. A transient 'pop' sound effect marks the transition into the next shoe showcase. (4) The vocals reach 'You will want me' with a playful, high-arousal tone. Each musical beat corresponds to a quick visual cut and a subtle auditory hit SFX. (5) The music continues its upbeat loop as the man's voice delivers a final, isolated, and stylized spoken 'Sexy!' with a playful, high-pitched inflection, ending the audio track abruptly."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Product Showcase",
+        "Fashion / Beauty",
+        "Vlog"
+      ],
       "location": {
         "country": [
           "Unknown"
@@ -18,160 +244,34 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video is a live-action montage starting with a close-up of a person's feet in grey sweatpants stepping onto a grey rug over a wooden floor. With every rhythmic step, the footwear changes instantly: starting with brown leather shoes, then yellow suede moccasins, blue canvas sneakers, beige chunky trainers, white leather sneakers, red mesh sandals, and finally black athletic shoes. (2) Each shoe change is accompanied by a transition effect. (3) At the end, the camera tilts up as a young male jumps into the frame, wearing a blue cap and a striped blue t-shirt, holding up the yellow and blue shoes while smiling excitedly.",
-      "audio_narrative_log": "(1) Upbeat, high-tempo electronic background music starts immediately. (2) Rhythmic 'thump' or 'step' sound effects are played in perfect synchronization with each shoe transition on the screen. (3) As the person jumps into the frame at the end, a male vocal sample shouts 'Sexy!' and the music reaches a peak before cutting off.",
-      "text_narrative_log": "(1) Decorative text 'wander' appears in black during the yellow shoe phase. (2) 'ADER' appears during the blue shoe phase. (3) 'northwave' appears during the white shoe phase. (4) 'CAMPER' appears during the red shoe phase. (5) All text is stylized and positioned near the feet to identify the brands being shown."
-    },
     "temporal_pacing_summary": {
       "sceneCutCount": 7,
-      "averageSceneDuration": 1.4,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Fast-paced shoe showcase -> Full character reveal/Outro"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Hands only",
-        "Feet",
-        "Full torso"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main creator appears first as feet and then fully at the end.",
-      "mainCharacterDescription": "A young male with an expressive face, wearing a blue baseball cap backwards, a blue and white horizontally striped t-shirt with a small logo, and grey fleece sweatpants."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Studio",
-          "Home"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A simple indoor environment featuring light wood flooring, a small grey shag rug, and a plain off-white wall/closet door.",
-      "lightingStyle": "Bright, even indoor lighting",
-      "weather": "None",
-      "season": "None",
+      "averageSceneDuration": 1.25,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "Medium",
-        "language": [
-          "English"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "Natural and bright",
-      "cameraWork": [
-        "Static",
-        "Tilt up"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "The North Face"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut synced to visuals",
-      "vocalRatio": "Low"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and energetic",
-        "pitch": "Medium-high",
-        "loudness": "High",
-        "speed": "Normal",
-        "speechDensity": "Occasional",
-        "language": [
-          "English"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Thud",
-        "Step"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Showcase -> Hook/Reveal",
-      "mainPurpose": "This video serves as a creative footwear collection showcase. It uses a high-energy, beat-synced editing technique to display multiple shoe brands in rapid succession, concluding with a charismatic reveal of the creator to build a personal brand connection with the audience interested in sneaker culture and fashion.",
-      "visualEmotion": "Energetic and playful"
+      "narrativeStructure": "Montage: Hook -> List-based -> Reaction",
+      "mainPurpose": "The video is a fast-paced footwear showcase designed to highlight various sneaker brands and styles. It uses a rhythmic editing style where visual cuts and shoe changes are synchronized perfectly with the beats of a pop song to create an engaging and trendy atmosphere, ending with the creator revealing himself and the products.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
-        "Implicit",
-        "Integrated"
+        "Integrated",
+        "Explicit"
       ],
-      "endorsementCues": "On-screen text labels identify specific brands during close-ups of the shoes.",
+      "endorsementCues": "Clear visual branding/text overlays for multiple shoe companies like ADER, Northwave, and Camper, with the creator physically presenting the products at the end.",
       "endorsementObject": [
-        "wander",
         "ADER",
         "northwave",
         "CAMPER"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Beat-matching transitions with specific brand call-outs.",
-      "freeDescribe": "The video's impact relies on the seamless coordination between the rhythmic audio and the visual cuts, a common trend in viral fashion content."
-    }
+    "freeDescribe": "High production value in synchronization between audio transients and visual cuts. The creator's energetic expression at the end enhances the brand's appeal."
   }
 }

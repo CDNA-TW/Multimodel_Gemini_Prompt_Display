@@ -1,161 +1,259 @@
 {
   "videoName": "3ctim-20251105173121-1614663203210566.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 28,
-      "aspectRatio": "9:16",
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) An Asian man with short black hair and glasses is positioned in the foreground, wearing a black T-shirt and a blue lanyard with a white identification badge. He raises his right hand, gesturing with his index finger while holding a black smartphone in his left hand. The setting is a rooftop balcony with a clear view of numerous high-rise residential buildings and several large yellow construction cranes against a bright sky. (2) The camera pans to the right, revealing a wide perspective of an urban park area with manicured green hedges, patches of dry brown grass, and a paved walkway. A person is seen riding a three-wheeled delivery vehicle along the path. In the distance, a wide river flows past a city skyline with multiple skyscrapers on the far bank. (3) The smartphone is brought into a close-up view, occupying most of the frame. The screen displays a camera application interface showing a highly zoomed-in shot of the delivery person on the path below. The zoom increases until the screen of the delivery person's own smartphone is clearly visible and sharp. (4) The man points at the phone screen to highlight the detail. Small text and icons are visible on the camera UI. The lighting is natural and bright, suggesting the late afternoon sun illuminating the urban landscape and the subject's face.",
+      "text_narrative_log": "(1) [Logo]: vivo. [Slogan]: Brave New Origin. (2) [Slogan]: vivo X100 Pro. [Logo]: ZEISS.",
+      "visual_human_presence": {
+        "totalHumanCount": 3,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Head and shoulders",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main creator, 1 delivery person in distance, 1 reflected person",
+        "mainCharacterDescription": "A middle-aged Asian man with black hair, wearing black-rimmed glasses, a black t-shirt, and a blue vivo lanyard."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Rooftop / City View"
+        ],
+        "locationTopography": [
+          "Urban High-rise / Skyline",
+          "River / Lake Area",
+          "Park / Green Space"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "An urban city view featuring tall residential buildings, construction cranes, a river with a distant skyline, and a landscaped park area with a road.",
+        "lightingStyle": [
+          "Natural daylight"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Autumn"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Panning"
+        ],
+        "shotSize": [
+          "Medium close-up",
+          "Long shot",
+          "Extreme close-up",
+          "Screen / interface close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "English",
+          "Simplified Chinese"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "Scooter / motorcycle"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "vivo",
+          "ZEISS"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 2,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Simplified Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Rising"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Urban/Traffic"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 2,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) A male voice begins speaking with a moderate-to-high pitch and clear articulation, sounding enthusiastic. He is in an outdoor environment with a faint but constant background hum of urban traffic. (2) A second male voice briefly replies in a supportive tone. The primary speaker continues his narration with a fast tempo, describing a visual experiment. (3) The main speaker's volume increases slightly as he highlights the effectiveness of the zoom. The acoustic space sounds open, consistent with an outdoor balcony. (4) The speech ends on a conclusive, high-energy note. No sound effects or background music are present in the audio track."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
         "Tech Review",
-        "Vlog"
+        "Product Showcase"
       ],
-      "withRealPeople": true,
       "location": {
         "country": [
           "China"
         ],
         "city": [
-          "Unknown"
+          "Shenzhen"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A man with black glasses, a black t-shirt, and a grey backpack stands on a high balcony or rooftop, speaking excitedly to the camera while wearing a blue vivo lanyard. (2) He gestures with his hand and then points toward the urban landscape below, which includes a park, construction sites with cranes, and a distant river. (3) He holds up a smartphone (vivo X300 Pro) displaying a camera view that is digitally zooming in on a delivery person riding a scooter in the park far below. (4) The phone's screen reveals extreme detail, showing the delivery person looking at their own phone, while the man on screen continues to comment and express amazement. (5) The camera pans between the man's face and the zoomed-in phone screen to emphasize the distance.",
-      "audio_narrative_log": "(1) A male voice speaks enthusiastically in Mandarin Chinese, accompanied by prominent ambient wind noise and distant city sounds. (2) A second male voice (off-camera) joins the conversation, asking questions and reacting with surprise. (3) The dialogue becomes a back-and-forth exchange of exclamations as they observe the camera's zoom power. (4) No background music is present; the audio consists entirely of field-recorded dialogue and environmental noise.",
-      "text_narrative_log": "(1) Functional Text: 'vivo X300 Pro' and 'ZEISS' are visible on the smartphone's camera interface overlay. (2) Functional Text: Camera parameters like '2428mm', 'f/2.67', and 'ISO 50' appear on the phone screen. (3) Decorative Text: 'vivo Brave New Origin' is printed on the man's lanyard."
     },
     "temporal_pacing_summary": {
-      "sceneCutCount": 6,
-      "averageSceneDuration": 4.6,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro -> Zoom Demonstration -> Peer Reaction -> Outro"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 3,
-      "maleDetectAmount": 3,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Face"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 main host, 1 person visible in the distance via the phone zoom, 1 cameraman partially visible in reflections.",
-      "mainCharacterDescription": "Adult male, wearing black-rimmed glasses, a black T-shirt, a grey backpack, and a blue vivo brand lanyard."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Rooftop",
-          "Outdoor Urban",
-          "Park"
-        ],
-        "topography": [
-          "Plain"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "Modern urban skyline with high-rise residential buildings, construction cranes, a park with manicured bushes and trees, a river in the background, and a blue safety barrier on a nearby construction site.",
-      "lightingStyle": "Natural daylight, golden hour",
-      "weather": "Clear",
-      "season": "Autumn",
+      "sceneCutCount": 3,
+      "averageSceneDuration": 9.3,
       "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "Low",
-        "language": [
-          "English"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Handheld",
-        "Follow shot",
-        "Zoom"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "Scooter",
-        "Bicycle"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "vivo",
-        "ZEISS"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 2,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and informal",
-        "pitch": "Medium",
-        "loudness": "High",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": false,
-      "bgmGenre": "None",
-      "bgmBPM": 0,
-      "instrumentFamiliesAudible": [
-        "None"
-      ],
-      "instrumentsAudible": [
-        "None"
-      ],
-      "musicSourceType": [
-        "None"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Wind",
-        "Urban Ambience"
-      ],
-      "audioQuality": "Field"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Evidence -> Reaction",
-      "mainPurpose": "The video serves as a live demonstration of the telephoto zoom capabilities of the vivo X300 Pro smartphone. It aims to impress the audience by showing how a person far away in a park can be seen clearly (even what is on their phone screen) using the device's camera.",
-      "visualEmotion": "Energetic"
+      "narrativeStructure": "Linear: Introduction -> Field Test -> Result Demonstration",
+      "mainPurpose": "To demonstrate the extreme telephoto zoom capability of the vivo X100 Pro smartphone by zooming in from a distant balcony onto a delivery person's phone screen.",
+      "visualEmotion": [
+        "energetic",
+        "informative"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -163,14 +261,12 @@
         "Explicit",
         "Full"
       ],
-      "endorsementCues": "Host is wearing a vivo brand lanyard and explicitly identifies and demonstrates the product by name.",
+      "endorsementCues": "The speaker is wearing a vivo brand lanyard and badge while showcasing a specific vivo smartphone model's camera features.",
       "endorsementObject": [
-        "vivo"
+        "vivo",
+        "vivo X100 Pro"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Tech influencer style with high-energy dialogue and 'hidden gem' discovery format.",
-      "freeDescribe": "The video uses a 'caught in the act' zoom-in demonstration, which is a popular trope for showing off high-end smartphone cameras."
-    }
+    "freeDescribe": "The video uses a practical, high-contrast demonstration to showcase hardware performance in a relatable urban setting."
   }
 }

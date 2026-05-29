@@ -1,182 +1,279 @@
 {
   "videoName": "3ctim-20250415171116-1228627415563086.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 41,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Tech Review",
-        "Vlog",
-        "News"
-      ],
+      "videoDuration": 40,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A man with glasses, a patterned flat cap, and a mustard-yellow hoodie is centered in a medium shot against a blurred indoor background. He speaks directly to the camera, gesturing frequently with his hands to emphasize his points. (2) The scene cuts to a high-contrast cinematic view of a sleek, black mechanical device, which is revealed to be a robotic exoskeleton. The camera pans across its metallic joints and carbon-fiber-like textures. (3) The exoskeleton is shown standing and walking independently in a bright, spacious exhibition hall with high ceilings and white walls. (4) A man in a wheelchair is seen approaching the device; the exoskeleton assists him in standing upright. (5) The user, now wearing the exoskeleton, walks forward with the aid of walking sticks, demonstrating the device's mobility on a flat floor and subsequently climbing a small set of stairs. (6) Close-up shots highlight green indicator lights and sensors on the frame while the speaker reappears in an inset circle, continuing his explanation.",
+      "text_narrative_log": "(1) [Logo]: f 3c有意思tim哥. [Logo]: @3ctim. [Variety]: 重新站起. [Variety]: 癱瘓患者. (2) [Subtitle]: 不再是夢想. (3) [Subtitle]: 南韓高等科學技術研究院. (4) [Subtitle]: 開發出一款鋁鈦合成的. (5) [Variety]: 外骨骼穿戴輔具. (6) [Subtitle]: 由12顆馬達驅動. (7) [Subtitle]: 並且模擬人體行走時的關節運動. (8) [Subtitle]: 這款外骨骼裝置. (9) [Subtitle]: 可以自行走到使用者面前. (10) [Subtitle]: 協助使用者站起來. (11) [Subtitle]: 並且以每小時3.2公里的速度行走. (12) [Subtitle]: 甚至爬樓梯. (13) [Subtitle]: 為了確保使用者可以平衡. (14) [Subtitle]: 裝置腳底還有上半身都有感測器. (15) [Subtitle]: 每秒監測1000個訊號. (16) [Subtitle]: 並且預測使用者打算做什麼動作. (17) [Subtitle]: 同時機器人的前側鏡頭. (18) [Subtitle]: 還可以分析我們的環境. (19) [Subtitle]: 鑑定樓梯的高度. (20) [Subtitle]: 偵測障礙物. (21) [Subtitle]: 藉此去彌補使用者欠缺的感官能力.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Full body"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 main narrator (Tim哥), 1 demonstrator using the exoskeleton.",
+        "mainCharacterDescription": "The narrator is a middle-aged male with short black hair, wearing glasses, a patterned grey flat cap, and a bright yellow/mustard-colored hoodie."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio",
+          "Exhibition / Museum / Gallery"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A professional studio setup with a soft-focus indoor background for the narrator, and a large, brightly lit high-tech exhibition hall with 'Angel Robotics' branding for the demonstration.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Panning",
+          "Tracking shot"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Low angle"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Montage",
+          "Picture-in-picture / inset"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Compilation / montage sequence"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Cartoon / animated animal"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Other"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Angel Robotics",
+          "KAIST",
+          "EXOLAB"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 6,
+        "valence": 7,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Pop / Bubble SFX",
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a clear, professional male narration in Traditional Chinese. The voice is energetic and enunciated, accompanied by an upbeat electronic background track with a steady synth bassline. A 'pop' SFX emphasizes the initial title card. (2) As the narrator describes the technology, a series of quick 'whoosh' transition SFXs play, matching the fast-paced visual cuts. The BGM remains constant in volume and tempo. (3) During the demonstration of the walking device, the narration continues at a moderate pace, with rhythmic musical accents matching the exoskeleton's steps. (4) The track concludes with a final 'ding' SFX as the narrator finishes his sentence, with the music fading out slightly towards the end."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Tech News / Commentary"
+      ],
       "location": {
         "country": [
           "South Korea"
         ],
         "city": [
-          "Unknown"
+          "None"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video starts with a man in a yellow hoodie and a checkered flat cap speaking enthusiastically to the camera against a grey curtain background. (2) Transitions to close-up shots of a black, futuristic robotic exoskeleton named 'ANGEL SUIT F1', followed by the device walking autonomously in a white studio or lab environment with 'ANGEL ROBOTICS' logos in the background. (3) A man in a wheelchair is shown being assisted by the exoskeleton to stand up. (4) The man is then seen walking across the lab using the exoskeleton and two support poles, including a demonstration of him climbing stairs while the creator appears in a small circular inset at the bottom right corner.",
-      "audio_narrative_log": "(1) A male voice speaks in a fast, energetic tone in Mandarin Chinese over upbeat, electronic background music. (2) The music continues at a steady, rhythmic pace while the male narrator provides a detailed explanation of the technology. (3) Low mechanical sounds of motors and servos are faintly audible as the exoskeleton moves, but the primary focus remains on the narration and the upbeat background track.",
-      "text_narrative_log": "(1) Functional Text: Subtitles in Traditional Chinese throughout the video translating the narration about the 'Angel Suit F1' and its development by KAIST. (2) Hook Text: Large yellow and white text at the beginning says '癱瘓患者' (Paralyzed patients) and '不再是夢想' (No longer a dream). (3) Branding Text: Social media handles '3c有意思tim哥' and '@3ctim' appear at the top left. Technical specs like '每秒監測1000個訊號' (Monitoring 1000 signals per second) appear as the features are described."
     },
     "temporal_pacing_summary": {
       "sceneCutCount": 18,
       "averageSceneDuration": 2.2,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro by creator -> Close-up of technology -> Demonstration of use -> Technical explanation -> Conclusion"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 2,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Head and shoulders"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "1 male creator (Tim), 1 male user of the exoskeleton.",
-      "mainCharacterDescription": "The main creator is a middle-aged male with glasses, wearing a checkered flat cap and a yellow hoodie."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Studio",
-          "Indoor Laboratory"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "Transitions between a simple grey curtain background for the creator's intro and a bright, white-walled technology testing facility with corporate logos like 'Angel Robotics', 'EXO LAB', and 'KAIST'.",
-      "lightingStyle": "Bright studio lights",
-      "weather": "None",
-      "season": "None",
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Chinese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural and bright",
-      "cameraWork": [
-        "Static",
-        "Follow shot",
-        "Close-up"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Robotic Exoskeleton",
-        "Wheelchair",
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Angel Robotics",
-        "EXO LAB",
-        "KAIST",
-        "3c有意思tim哥"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and professional",
-        "pitch": "Normal",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Mechanical whirring"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Introduction of Technology -> Feature Breakdown -> Real-world Application.",
-      "mainPurpose": "The video aims to introduce and generate excitement for the 'ANGEL SUIT F1', a sophisticated robotic exoskeleton developed in South Korea. It highlights the technology's ability to help paralyzed individuals stand, walk, and climb stairs autonomously, positioning it as a significant medical and technological breakthrough.",
-      "visualEmotion": "Optimistic and Energetic"
+      "narrativeStructure": "List-based: Hook -> Technical Specs -> Functional Demo -> Benefits",
+      "mainPurpose": "To report on a significant technological advancement from KAIST in South Korea—a new robotic exoskeleton designed to help paralyzed patients regain mobility and perform daily activities like climbing stairs.",
+      "visualEmotion": [
+        "informative",
+        "energetic",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
-      "isEndorsement": true,
+      "isEndorsement": false,
       "endorsementMethod": [
-        "Implicit",
-        "Integrated"
+        "None"
       ],
-      "endorsementCues": "The creator provides a positive review of the technology, mentioning the developer and technical benefits in a promotional style.",
+      "endorsementCues": "The video is presented as a news or technology review commentary by a known tech influencer (Tim哥).",
       "endorsementObject": [
         "Angel Robotics",
         "KAIST"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "The creator (Tim) uses his signature yellow hoodie and flat cap, along with high-density variety-show style captions.",
-      "freeDescribe": "The video effectively uses B-roll footage of the technology to maintain engagement while the creator narrates the technical specifications."
-    }
+    "freeDescribe": "The video effectively utilizes variety-show style text overlays and quick editing to keep the viewer engaged while presenting complex technical information about medical robotics."
   }
 }

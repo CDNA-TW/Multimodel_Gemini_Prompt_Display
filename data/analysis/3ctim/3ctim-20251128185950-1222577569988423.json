@@ -1,162 +1,271 @@
 {
   "videoName": "3ctim-20251128185950-1222577569988423.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 36,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Tutorial",
-        "Tech Vlog"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) The main creator, a middle-aged man wearing glasses, a flat cap, and a brown sweater, stands in an indoor studio setting. He holds a light-blue Google Pixel smartphone, looking into the camera with an expressive and energetic face. The background is a simple studio wall with a glimpse of a soft furry texture. (2) The scene cuts to a close-up of two smartphones, a Pixel and an iPhone, lying on a table. A hand is seen interacting with the Pixel's screen, navigating through settings. The lighting is bright and even. (3) Rapid shots show the smartphone interface in detail, specifically the Google services and Quick Share Extension update screens. (4) The camera shows a photo of a woman in a white dress being selected on the Pixel. The Quick Share interface identifies a nearby iPhone (3ctim17Pro). (5) On the iPhone screen, an AirDrop-style notification appears. A finger taps 'Accept.' (6) The final phase shows both phones side-by-side, each displaying the same photo, confirming a successful transfer. The creator smiles and gestures towards the devices.",
+      "text_narrative_log": "(1) [Logo]: 3c有意思tim哥. [Logo]: 3ctim. [Slogan]: Pixel 出大事了!. (2) [Variety]: (目前僅Pixel 10系列支援) 可以跟 iPhone 互相傳檔案. (3) [Variety]: 互相傳照片. (4) [Variety]: 首先你要先到設定. (5) [Variety]: 點選你的頭像. (6) [Variety]: 所有服務. (7) [Variety]: 選擇系統服務. (8) [Variety]: Quick Share Extension. (9) [Variety]: 把它按更新. (10) [Variety]: 重新開關機. (11) [Variety]: 選擇快速分享. (12) [Variety]: 選擇傳送. (13) [Variety]: 你的AirDrop要開啟所有人. (14) [Variety]: 按下去. (15) [Variety]: 搞定!!.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Hands only",
+          "Face close-up"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main male creator presenting the content.",
+        "mainCharacterDescription": "Middle-aged man wearing a grey flat cap, round-rimmed glasses, and a brown Roots-branded sweater. He wears a yellow Apple Watch Ultra style watch and a beaded bracelet."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A clean indoor studio with a light-colored wall and some soft textures like a cream-colored furry rug visible in some shots.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Screen / interface close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Top-down / overhead"
+        ],
+        "editingTechniques": [
+          "Fast cuts",
+          "Jump cut",
+          "Screen recording edit",
+          "Graphic transition"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Smartwatch",
+          "TV / display screen"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Pixel",
+          "iPhone",
+          "Google",
+          "Roots"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop"
+        ],
+        "tempoBPM": 124,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Synthesizer",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Digital UI SFX",
+          "Pop / Bubble SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 5,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The speaker opens with an enthusiastic, high-arousal tone, accompanied by an upbeat pop BGM with a strong electronic beat. The acoustic environment is very clean. (2) A transition whoosh SFX triggers a new phase as the speaker begins a technical explanation. The voice is clear and well-enunciated, with high pitch variability for emphasis. (3) A digital click SFX occurs during the mention of the settings menu. The BGM maintains a steady tempo, perfectly mixed under the dominant vocal track. (4) Another UI-style 'pop' SFX marks the initiation of the file transfer. The speaker's arousal remains high, conveying excitement about the feature. (5) As the transfer completes, a celebratory inflection is heard in the voice. The BGM concludes with a rhythmic finale and a quick fade out."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Tech Review",
+        "Tutorial / How-to"
+      ],
       "location": {
         "country": [
-          "Taiwan"
+          "Unknown"
         ],
         "city": [
           "None"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A middle-aged man with glasses and a flat cap holds a purple Google Pixel phone, speaking with a surprised expression. Behind him is a studio setting with soft lighting and acoustic foam panels. (2) Close-up shot of the phone screen showing file transfer interfaces. (3) Transitions to a screen recording of the Android settings menu, highlighting 'Google services' and then 'Quick Share Extension'. (4) The man reappears, holding the Pixel phone and an iPhone side-by-side. (5) Close-up of the iPhone control center, showing AirDrop settings being adjusted to 'Everyone'. (6) Both phones are placed side-by-side on a white surface; a photo is successfully transferred from the Pixel to the iPhone, showing a photo of a woman on both screens. (7) The man smiles and gives a thumbs-up.",
-      "audio_narrative_log": "(1) Upbeat, fast-paced electronic background music starts. A male voice speaks excitedly in Mandarin, with a clear, energetic tone. (2) As the tutorial begins, the music volume remains consistent while the speaker's voice provides step-by-step instructions. (3) Subtle 'click' and 'ding' sound effects (SFX) punctuate menu selections and the successful file transfer. (4) Background remains quiet with minimal ambient noise, suggesting a studio recording environment. (5) The music reaches a slight crescendo at the end as the speaker concludes with an enthusiastic 'Gao ding!' (Done!).",
-      "text_narrative_log": "(1) 'Pixel 出大事了!' (Something big happened to Pixel!) - Hook text, excited tone. (2) '(目前僅Pixel 9系列支援) 可以跟iPhone互相傳檔案跟傳照片' (Currently only Pixel 9 series supported. Can exchange files and photos with iPhone) - Functional text/Hook. (3) '首先你要先到設定' (First, you need to go to settings) - Functional instruction. (4) '點選你的頭像' (Click your avatar), 'Google服務的所有服務裡面' (In all services of Google services), '選擇系統服務' (Select system services), 'Quick Share Extension' - Functional steps. (5) '更新' (Update), '重新開機' (Reboot) - Functional text. (6) 'AirDrop要開啟所有人' (AirDrop needs to be set to everyone) - Functional instruction. (7) '搞定!!' (Done!!) - Enthusiastic decorative text."
-    },
     "temporal_pacing_summary": {
       "sceneCutCount": 18,
       "averageSceneDuration": 2.0,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro/Hook -> Step-by-step tutorial (Screen recording & Handheld) -> Final demonstration and success"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 male main creator presenting and demonstrating",
-      "mainCharacterDescription": "Middle-aged man wearing glasses, a grey checkered flat cap, and a maroon/brown sweatshirt."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Studio"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A studio with blue/grey acoustic foam panels, a wooden chair, and a small plant visible in the wider shots; white desk surface for phone demonstrations.",
-      "lightingStyle": "Bright studio lighting, soft shadows",
-      "weather": "Indoor",
-      "season": "None",
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural, vibrant",
-      "cameraWork": [
-        "Static",
-        "Close-up"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone",
-        "Smartwatch"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Google",
-        "Apple",
-        "Roots"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and professional",
-        "pitch": "Medium",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Click",
-        "Ding",
-        "Swoosh"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Tutorial -> Evidence",
-      "mainPurpose": "To provide a quick tutorial and informative update regarding a new feature for Google Pixel 9 series phones, specifically demonstrating how to transfer files to iPhones using 'Quick Share' and 'AirDrop' interoperability. The video aims to solve a common pain point for multi-platform users.",
-      "visualEmotion": "Energetic and helpful"
+      "narrativeStructure": "Linear: Hook -> Tutorial -> Evidence -> Conclusion",
+      "mainPurpose": "The video serves as a quick tutorial and news update for Google Pixel users, specifically highlighting a new cross-platform file-sharing capability between Pixel 10 series and iPhone via Quick Share.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -164,15 +273,11 @@
         "Implicit",
         "Integrated"
       ],
-      "endorsementCues": "Detailed demonstration of specific product features (Google Pixel 9 series) and social media handles (3ctim) displayed on screen.",
+      "endorsementCues": "Reviewer showcases and promotes the specific functionality of a branded product (Google Pixel).",
       "endorsementObject": [
-        "Google Pixel",
-        "3c有意思tim哥"
+        "Google Pixel"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Opening hook with dramatic visual effect lines; use of 'tim哥' persona; characteristic flat cap.",
-      "freeDescribe": "High production value for a short-form vertical video, utilizing dynamic text and clear audio to maximize engagement."
-    }
+    "freeDescribe": "A highly produced social media tech tutorial with fast pacing and high information density."
   }
 }

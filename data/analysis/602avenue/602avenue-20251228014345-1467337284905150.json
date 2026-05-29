@@ -1,155 +1,260 @@
 {
   "videoName": "602avenue-20251228014345-1467337284905150.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 13,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Dance"
-      ],
+      "videoDuration": 13.0,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A young man and a young woman stand in a bright living room. The man on the left wears a black t-shirt and blue jeans, with a white circular blur over his face. The woman on the right has long brown hair and wears a black crop top under a black and white striped cardigan and grey sweatpants. The room is well-lit with a white sofa and a floral painting on the wall behind them. (2) The couple begins a synchronized dance routine. They simultaneously touch their shoulders with opposite hands and then raise their outside hands high into the air as the background shifts slightly due to fast-cut editing. (3) They continue the dance, crossing their arms over their chests and then raising both hands above their heads, shaking them in a rapid, vibrating motion. Their expressions are cheerful and focused on the rhythmic movements. (4) The woman leans to the side while the man moves in a coordinated hip-swaying motion, concluding with a dynamic gesture towards the camera. The editing maintains a very fast pace, jumping between these specific poses on the beat.",
+      "text_narrative_log": "(1) [Logo]: 🇰🇷. [Variety]: ??座. [Logo]: 🇰🇷. [Logo]: ♍️. [Variety]: ♍️座.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 male main character with face blurred, 1 female main character.",
+        "mainCharacterDescription": "Male: black oversized t-shirt, light blue denim jeans, black belt. Female: black crop top, striped black/white cardigan, grey wide-leg sweatpants, long brown wavy hair."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A clean, modern indoor living room featuring a large white fabric sofa, a framed painting of a large pink flower, and a wall-mounted white air conditioning unit. There's a small orange/blue cushion on the sofa.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Fast cuts",
+          "Jump cut"
+        ],
+        "visualRhythm": [
+          "Rhythm matched to music"
+        ],
+        "takeStructure": [
+          "Compilation / montage sequence"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Simplified Chinese",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM",
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 5,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 0,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Pop / Bubble SFX",
+          "Impact / Hit SFX",
+          "Meme SFX",
+          "Whoosh / Transition SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 5,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a high-energy electronic beat featuring heavy percussive synth kicks and a bright, pluck-style synthesizer melody. The tempo is brisk and consistent. (2) A sharp 'Pop' sound effect occurs simultaneously with a visual transition, followed by a rhythmic sequence where melodic synth chords play on every eighth note. (3) A series of metallic 'shimmer' and 'impact' SFX are triggered rapidly, syncing with the dancers' arm movements. The spectral brightness increases during these transient events. (4) The track concludes with a high-pitched, comical 'Laugh' vocal sample/Meme SFX, which has high spectral energy in the mid-high range, before ending abruptly on a final heavy drum hit."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Short Video",
+        "Dance",
+        "Comedy"
+      ],
       "location": {
         "country": [
-          "South Korea"
+          "Unknown"
         ],
         "city": [
           "Unknown"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young man and a young woman stand side-by-side in a living room; the man has a white censor bar over his eyes. (2) They perform a series of synchronized, rhythmic hand gestures, including pointing upwards, brushing their shoulders, and crossing their arms in time with the music. (3) The video concludes with a more dynamic sequence where they perform a leg-lift and a small synchronized dance turn towards each other while smiling.",
-      "audio_narrative_log": "(1) Upbeat, high-tempo electronic pop music begins immediately with a heavy bass line. (2) Sharp, rhythmic sound effects (resembling a synthesized 'shimmer' or 'ding') play in perfect synchronization with the characters' shoulder-brushing movements. (3) The music continues at a steady pace until the end with no human speech detected.",
-      "text_narrative_log": "(1) Decorative text: '?? 座' (Unknown Sign) appears over the male and '♍ 座' (Virgo) appears over the female, both accompanied by South Korean flag emojis. (2) Functional text: None detected."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 0,
-      "averageSceneDuration": 13.0,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Intro -> Synchronized Hand Choreography -> Final Dance Move"
+      "sceneCutCount": 11,
+      "averageSceneDuration": 1.18,
+      "editingPace": "Fast",
+      "isNarrativeShift": false
     },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "1 male on the left, 1 female on the right, both fully visible and dancing.",
-      "mainCharacterDescription": "The male wears a black oversized t-shirt and light-wash denim jeans; his eyes are censored. The female wears a black crop top under a striped cardigan and grey sweatpants."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Living Room"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A modern indoor setting featuring a beige fabric sofa, an air conditioning unit on the wall, and a large framed painting of a flower.",
-      "lightingStyle": "Bright, even indoor lighting",
-      "weather": "Indoor",
-      "season": "Unknown",
-      "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "Medium",
-        "language": [
-          "Korean",
-          "Emojis"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Air Conditioner"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "None",
-      "vocalRatio": "Low"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 0,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "None",
-        "pitch": "None",
-        "loudness": "None",
-        "speed": "None",
-        "speechDensity": "None",
-        "language": [
-          "None"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic/Pop",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Meme sounds"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Choreography -> Peak action",
-      "mainPurpose": "To participate in a viral social media dance challenge or trend that highlights zodiac sign compatibility or character dynamics, using synchronized movements to engage viewers.",
-      "visualEmotion": "Energetic and Playful"
+      "narrativeStructure": "Montage: Hook -> Activity -> Climax",
+      "mainPurpose": "The video is a synchronized dance challenge intended for social media entertainment. It focuses on the chemistry and coordination between the two individuals, using zodiac sign overlays to likely spark engagement or comparisons regarding personality traits (Virgo vs. an unknown sign).",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -161,9 +266,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Eyes of the male character are intentionally censored; use of astrology symbols as identity markers.",
-      "freeDescribe": "The video relies heavily on trend-participation and 'beat-matching' choreography, which is highly effective for short-form video platform algorithms."
-    }
+    "freeDescribe": "The video utilizes a popular social media editing style where visual jump cuts and rhythmic movements are tightly coupled with synthesized sound effects and a high-energy BGM."
   }
 }

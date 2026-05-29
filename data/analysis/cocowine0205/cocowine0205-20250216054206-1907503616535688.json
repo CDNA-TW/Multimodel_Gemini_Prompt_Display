@@ -1,179 +1,289 @@
 {
   "videoName": "cocowine0205-20250216054206-1907503616535688.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 50,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Product Review"
-      ],
+      "videoDuration": 51,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) Two women are standing in a retail snack aisle with shelves full of colorful Japanese snacks. The woman on the left wears a grey bucket hat and a white-and-grey striped off-the-shoulder shirt; the woman on the right has long black hair and a black outfit with a pearl necklace. They are holding pink bags of Kirby-themed gummy candies towards the camera with excited facial expressions. (2) A close-up shot shows the hand of the woman on the right holding the gummy bag, flipping it to show the back which contains nutritional information and illustrations of different gummy shapes. The lighting is bright and even. (3) The scene shifts to a top-down view where hands are opening a Kirby gummy bag and pouring various translucent pink and yellow gummies onto a brown house-shaped ceramic tray. The tray features a scale-like texture and the brand name 'LE CREUSET' is visible. (4) The camera zooms in on the tray, showcasing individual gummy shapes: Kirby faces with open mouths, stars, moons, and small bomb shapes. The gummies have a soft, matte texture. (5) A close-up shows hands picking up a large hollow star gummy and placing a smaller pink Kirby-face gummy inside the hole, demonstrating a 'character inside' feature. (6) The two women are now in an indoor living room setting, sitting at a table with the gummy tray. They hold up different gummies, smile, and eat them while looking at the camera. The lighting is warm and domestic.",
+      "text_narrative_log": "(1) [Slogan]: 卡比造型軟糖. (2) [Variety]: 超可愛的. (3) [Slogan]: 沒有要放過你錢包. (4) [Slogan]: 13種不同圖案. (5) [Variety]: 超可愛的. (6) [Subtitle]: 四個嘴巴張大的卡比. (7) [Subtitle]: 還有四個不同的小動作. (8) [Subtitle]: 番茄 星星與小炸彈. (9) [Subtitle]: 還有卡比抱著星星三大顆. (10) [Subtitle]: 抱著月亮兩顆. (11) [Subtitle]: 黃色是檸檬 粉紅是蜜桃 紅色是蘋果. (12) [Subtitle]: 嘴巴張大的卡比. (13) [Subtitle]: 還可以吃掉裡面的角色. (14) [Variety]: おいしい. (15) [Subtitle]: 太好吃啦. (16) [Subtitle]: 推薦你也入手這卡比軟糖. (17) [Subtitle]: 它數量雖然不多. (18) [Subtitle]: 可是它的味道非常的好. (19) [Subtitle]: 以及甜度很低 嚼勁很好. (20) [Subtitle]: 桃子味超香. (21) [Subtitle]: 檸檬味帶一點點檸檬香不會太酸. (22) [Subtitle]: 蘋果味就是清雅的蘋果香. (23) [Variety]: 好吃超推.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "2 main female creators appearing throughout the video.",
+        "mainCharacterDescription": "One woman has a grey patterned bucket hat and striped off-the-shoulder top; the other has long black hair and a black top with a white necklace."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Retail Store",
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "First scene is a snack aisle in Don Don Donki with dense shelves of merchandise. Second scene is a clean indoor living area with a white table and a blurred background containing plush toys.",
+        "lightingStyle": [
+          "Bright indoor lighting",
+          "Warm indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Winter"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Handheld",
+          "Zoom in"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Insert shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Top-down / overhead"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Fast cuts"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "Japanese",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Dessert / cake / cookies",
+          "Snack / chips / candy"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Don Don Donki",
+          "Le Creuset",
+          "Kirby"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 0,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Rising"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM",
+          "Anime/J-Pop"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Crowd Murmur"
+        ],
+        "crowdNoiseIntensity": 1,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone",
+          "Commercial/Recreational"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "Plastic / Bag Rustle",
+          "Food Bite / Crunch"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Pop / Bubble SFX",
+          "Ding / Bell SFX",
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a high-pitched, energetic female greeting followed by fast-paced Traditional Chinese speech. An upbeat, major-mode electronic BGM with a steady 4/4 beat plays continuously. Faint ambient chatter from a store is audible in the background. (2) A crisp 'crinkle' sound effect occurs as the plastic bag is presumably handled. The vocal delivery becomes more descriptive, pointing out product features with high melodic variability. (3) A distinct 'pop' and 'slide' sound effect is heard as gummies are poured. The BGM remains steady. The narration shifts to a rhythmic listing of candy shapes. (4) The audio concludes with two female voices interacting, laughing slightly, and providing a final enthusiastic recommendation. The BGM fades out sharply at the end."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Food Review",
+        "Product Showcase"
+      ],
       "location": {
         "country": [
-          "Unknown"
+          "Taiwan"
         ],
         "city": [
           "Unknown"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) Two young women are in a brightly lit candy store, smiling and holding Kirby-themed gummy packages towards the camera. (2) Close-up shots of hands tearing open a pink Bandai Kirby gummy bag and pouring various pastel-colored gummies onto a pink, house-shaped plate. (3) Detailed close-ups of the gummies, showing shapes like Kirby with a wide mouth, stars, and bombs. A hand demonstrates placing a small star gummy inside a larger Kirby gummy's mouth. (4) The women are in a home/studio setting, holding the gummies, talking to the camera with cheerful expressions, and tasting them.",
-      "audio_narrative_log": "(1) Upbeat, high-tempo electronic pop music starts with high-pitched, excited female voices speaking in a store environment. (2) Music continues as clear foley sounds of plastic packaging crinkling and soft gummies hitting a ceramic plate are heard. (3) A calm, descriptive male voice-over enters, narrating the different shapes and colors of the candy over the background music. (4) The female voices return to describe the specific fruit flavors (peach, lemon, apple) and the chewy texture of the gummies while eating.",
-      "text_narrative_log": "(1) Decorative text: '卡比造型軟糖' (Kirby shaped soft candy) and '超級可愛的' (Super cute) with a cheerful tone. (2) Hook text: '13種不同圖案' (13 different patterns) to highlight variety. (3) Functional text: '四個嘴巴張大的卡比' (Four Kirby with wide-open mouths), '黃色是檸檬' (Yellow is lemon), '粉紅是蜜桃' (Pink is peach), '紅色是蘋果' (Red is apple). (4) Call-to-action text: '推薦你也 入手這卡比軟糖' (Recommend you also get this Kirby soft candy)."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 22,
-      "averageSceneDuration": 2.27,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Shop Intro -> Product Unboxing & Detail -> Tasting & Recommendation"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Upper body"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "2 main female creators are presenting the product throughout the video.",
-      "mainCharacterDescription": "One woman has long dark hair wearing a grey top; the other has dark hair, wearing a white off-shoulder striped top and a grey bucket hat or pink beret."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Candy Shop",
-          "Indoor Studio"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "Starts in a shop filled with colorful snack shelves; transitions to a clean indoor room with a table and a pink house-shaped ceramic plate.",
-      "lightingStyle": "Bright, even indoor lighting",
-      "weather": "Indoor",
-      "season": "Unknown",
+      "sceneCutCount": 18,
+      "averageSceneDuration": 2.8,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Chinese",
-          "Japanese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "High Saturation",
-      "cameraWork": [
-        "Static",
-        "Close-up",
-        "Follow shot"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Gummy Candy"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Nintendo",
-        "Bandai",
-        "Le Creuset"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 2,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited, cheerful, and descriptive",
-        "pitch": "Medium-high",
-        "loudness": "Clear",
-        "speed": "Normal",
-        "speechDensity": "Continuous",
-        "language": [
-          "Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Kawaii Pop",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Plastic crinkling",
-        "Clinking"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Evidence -> Review -> CTA",
-      "mainPurpose": "The video serves as an endorsement for Kirby-themed gummy candies by Bandai. It highlights the aesthetic appeal and 'interactive' gameplay of the candies (fitting pieces together) followed by a sensory review of the taste and texture to drive consumer interest.",
-      "visualEmotion": "Energetic and Whimsical"
+      "narrativeStructure": "Montage: Discovery -> Unboxing -> Feature Detail -> Tasting -> Review",
+      "mainPurpose": "The video aims to promote and review Kirby-themed gummy candies by showcasing their variety of shapes, fun interactive features, and pleasant taste profile to attract collectors and fans of the franchise.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
-        "Explicit",
-        "Full"
+        "Implicit Integrated"
       ],
-      "endorsementCues": "Direct display of packaging, detailed product breakdown, and explicit recommendation to buy.",
+      "endorsementCues": "Detailed product unboxing, feature explanation, and a explicit recommendation to purchase.",
       "endorsementObject": [
-        "Bandai",
-        "Kirby"
+        "Kirby Gummy Candy",
+        "Don Don Donki"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-frequency variety-show style text stickers and high-pitched cheerful openings.",
-      "freeDescribe": "The video targets a youthful demographic interested in character merchandise (Kirby) and 'cute' snack trends."
-    }
+    "freeDescribe": "The video uses high-arousal presentation and bright, colorful aesthetics to match the brand identity of the product. The transition from a retail setting to a home setting helps ground the product review in daily life."
   }
 }

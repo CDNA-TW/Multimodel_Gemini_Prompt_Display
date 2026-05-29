@@ -1,180 +1,275 @@
 {
   "videoName": "cocowine0205-20250928142505-890493623765536.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 32.1,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Shopping Recommendation",
-        "Food Review"
-      ],
+      "videoDuration": 31,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "Taiwan"
+      "visual_narrative_log": "(1) A young woman wearing a black and white patterned bucket hat and a white top stands in a Costco aisle. She holds a large red bag of PopCorners while smiling. Behind her are stacked boxes and shelves typical of a wholesale warehouse. (2) She gestures towards a stack of green boxes featuring the character Rex from Toy Story. The camera focuses on the green box as she points to a transparent window showing smaller snack bags inside. She picks up one box and rotates it to show the different sides, including a large illustration of Rex and the product information on the back. (3) The woman holds the box next to her face, smiling broadly and pointing at the price/quantity text overlay. She appears to be addressing the camera directly with an enthusiastic expression as she encourages engagement from viewers.",
+      "text_narrative_log": "(1) [Logo]: COSTCO WHOLESALE. [Slogan]: 爆米花小包 抱抱龍派對箱. [Subtitle]: 如果這個你超愛的話. (2) [Subtitle]: 那你不能錯過它現在的小包裝. [Variety]: 小包裝. (3) [Subtitle]: 大包吃不完 我們來看一下 派對組合. (4) [Subtitle]: 是抱抱龍的 而且它這邊還有一個透明的. (5) [Subtitle]: 所以你以後放東西還可以若隱若現你的食物. (6) [Subtitle]: 然後它裡面的口味是海鹽以及甜辣. (7) [Subtitle]: 它真的口感就是有點鬆鬆的. (8) [Subtitle]: 最重要箱子真的很可愛 看正面 側面. (9) [Subtitle]: 後面是成分表 299元有7包. (10) [Subtitle]: 所以這樣一小包是30塊 你覺得值得嗎 留言告訴我們.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only"
         ],
-        "city": [
-          "None"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A woman wearing a black-and-white patterned bucket hat and a white ruffled top stands in a warehouse aisle holding a large bag of Popcorners. Behind her is a stack of green boxes featuring the character Rex from Toy Story. (2) She puts the bag down and gestures toward the stack of green boxes, eventually picking one up to show the camera. She points to a transparent window in the shape of the character's mouth. (3) She rotates the box to show the side with a full illustration of Rex, the back containing nutritional information and ingredients, and finally holds the box close to the lens for a final appeal.",
-      "audio_narrative_log": "(1) A high-pitched female voice begins speaking in Mandarin with an enthusiastic, inviting tone; upbeat, bouncy electronic background music begins simultaneously. (2) The voice continues at a steady pace as she explains the features of the product, with occasional ambient rustling of the cardboard boxes heard. (3) The music maintains its tempo as the speaker's volume increases slightly when announcing the price and quantity, concluding with a direct question to the audience.",
-      "text_narrative_log": "(1) Functional Text: 'COSTCO WHOLESALE' logo appears at the top. (2) Decorative Hook: '爆米花小包 抱抱龍派對箱' (Popcorn small pack Rex party box) in yellow and red bubble letters. (3) Functional Text: '小包裝' (Small packaging) highlights the portion size. (4) Decorative Text: '是抱抱龍的' (It's Rex's) appears with a playful tone. (5) Functional Text: '299元有7包' (299 NTD for 7 packs) and '一小包是30塊' (One small pack is 30 NTD) for price breakdown. (6) Decorative Text: '留言告訴我們' (Comment and tell us) as a call to action."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 11,
-      "averageSceneDuration": 2.9,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro holding the product -> Close-up demonstration of packaging features -> Price analysis and closing CTA."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Face"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main female creator presenting the product.",
-      "mainCharacterDescription": "The woman is wearing a patterned black and white bucket hat, a white off-the-shoulder top with ruffled sleeves, and blue jeans."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Warehouse",
-          "Costco"
+        "crowdLevel": [
+          "Single"
         ],
-        "topography": [
-          "None"
+        "countingEvidence": "1 main female creator showcasing products.",
+        "mainCharacterDescription": "A young woman with dark hair, wearing a white off-the-shoulder top and a black and white patterned bucket hat."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Supermarket / Warehouse Store"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "The interior of a Costco warehouse, featuring high metal shelving, stacked boxes of snacks, and bright industrial lighting.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
         ]
       },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A typical Costco warehouse aisle with high metal shelving stocked with large quantities of snacks, specifically yellow Cretors popcorn boxes and green Rex-themed boxes.",
-      "lightingStyle": "Bright fluorescent warehouse lighting",
-      "weather": "Indoor",
-      "season": "Unknown",
-      "editingPace": "Fast",
-      "textOverlay": {
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Panning"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
         "density": "High",
-        "language": [
+        "textLanguage": [
           "Traditional Chinese",
           "English"
         ],
         "isSubtitled": true
       },
-      "colorTone": "Bright and High Saturation",
-      "cameraWork": [
-        "Static",
-        "Handheld",
-        "Close-up"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Popcorn",
-        "Snacks"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "COSTCO WHOLESALE",
-        "POPCORNERS",
-        "Disney Pixar Toy Story"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Friendly and humorous",
-        "pitch": "High",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Dinosaur"
+        ],
+        "foodsDetect": [
+          "Snack / chips / candy"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Costco",
+          "PopCorners"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Keyboard"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Electronic Drum"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Field"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop"
+        ],
+        "tempoBPM": 124,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Plastic / Bag Rustle"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) A high-pitched, enthusiastic female voice begins speaking in Mandarin over a bright, rhythmic electronic pop track. The speech rate is fast and energetic, typical of social media product reviews. Faint rustling of plastic is audible as she handles a snack bag. (2) The voice continues without significant pauses, describing the product's packaging and taste. The background music maintains a steady 124 BPM beat with electronic synth textures. The recording has clear vocal presence with a high signal-to-noise ratio. (3) The speaker concludes with an interrogative tone, asking the audience's opinion. The music continues until the end, providing a consistent energetic atmosphere. The audio exhibits a compressed dynamic range suitable for mobile broadcast."
     }
   },
-  "high_inference_interpretations": {
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Product Showcase",
+        "Promotion / Advertisement / Indoresment"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 12,
+      "averageSceneDuration": 2.58,
+      "editingPace": "Fast",
+      "isNarrativeShift": false
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Evidence -> Price Logic -> CTA",
-      "mainPurpose": "The video serves as a product recommendation or 'Costco find' vlog. The creator uses the visual hook of cute 'Rex' (Toy Story) packaging to attract viewers, then proceeds to demonstrate the physical details of the box (transparent mouth, graphics) and finally provides a value-for-money breakdown to help viewers decide if it is worth the purchase.",
-      "visualEmotion": "Energetic"
+      "narrativeStructure": "List-based: Hook -> Feature Showcase -> Pricing -> CTA",
+      "mainPurpose": "To promote a specific PopCorners variety box found at Costco, emphasizing the cute 'Rex' character branding and the value of individual snack packs.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
-        "Implicit",
+        "Explicit",
         "Integrated"
       ],
-      "endorsementCues": "Detailed product demonstration and pricing information presented in a favorable light.",
+      "endorsementCues": "Direct showcasing of a specific brand and product, calling out its features and price point.",
       "endorsementObject": [
         "PopCorners",
         "Costco"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Heavy use of variety-show style large text overlays and a focus on warehouse store deals.",
-      "freeDescribe": "The video targets budget-conscious shoppers and fans of character-themed collectibles."
-    }
+    "freeDescribe": "A typical social media commerce video with high text density and energetic pacing, focusing on visual appeal and price-value proposition."
   }
 }

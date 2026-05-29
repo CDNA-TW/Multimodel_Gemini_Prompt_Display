@@ -1,158 +1,264 @@
 {
   "videoName": "0_shufen-20250904041023-4261504497398681.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 9.1,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Lifestyle"
-      ],
+      "videoDuration": 8.03,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "None"
+      "visual_narrative_log": "(1) A close-up shot of a young woman with long dark hair and straight bangs looking directly into the lens. She wears a beige off-the-shoulder top and has heavy eyelash makeup and red lipstick. She initially has a soft expression then smiles. The background consists of a grey textured wall and a hint of a yellow pillar. (2) The scene cuts to a medium shot in a bedroom. A man with dark hair, wearing a navy blue silk robe, walks out of a brightly lit walk-in closet filled with organized clothing into the darker bedroom area. The bed has a brown quilted coverlet in the foreground. (3) The camera cuts back to a close-up of the woman, who is now smiling broadly, showing her white teeth. She is positioned as if lying down on the grey textured headboard. (4) The final phase shows the man in the dark blue robe walking towards the camera in a very dimly lit room. The lighting is low-key, highlighting only the contours of his face and the opening of his robe against the dark background.",
+      "text_narrative_log": "None",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Face close-up",
+          "Upper body",
+          "Full body"
         ],
-        "city": [
-          "None"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video begins with a close-up of a young woman with long black hair looking directly at the camera; a hand enters the frame from the top right and briefly touches her hair. (2) The scene cuts to a medium-wide shot of a modern bedroom where a man in a dark blue bathrobe walks away from the bed towards a glass-doored closet. (3) It cuts back to the woman in a close-up, now smiling broadly and showing her teeth. (4) The lighting becomes significantly darker as the video cycles through several quick cuts showing the man in the robe walking in a dimly lit hallway or room, focusing on his torso and movement.",
-      "audio_narrative_log": "(1) Upbeat pop music with a strong electronic beat and rhythmic bass starts immediately. A high-pitched, breathy female vocal sings lyrics in English. (2) The music continues with consistent energy and no variation in the soundscape; there is a total absence of ambient environment noise. (3) The track maintains its tempo and vocal presence until the end of the clip, finishing on a sustained musical note.",
-      "text_narrative_log": "(1) Small white watermark text appears in the bottom right corner for the duration of the video, though it is mostly illegible and serves as functional platform identification."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 5,
-      "averageSceneDuration": 1.82,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro close-up -> Room walk-through -> Moody outr"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Face"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "1 female main character in close-up; 1 male main character walking in background and appearing in dark cuts.",
-      "mainCharacterDescription": "The female has long straight black hair, light makeup, and is wearing a beige tube top. The male has dark hair and is wearing a navy blue bathrobe over bare skin."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 female main character in close-ups, 1 male character in medium shots.",
+        "mainCharacterDescription": "The woman has long black hair, bangs, and wears a beige off-the-shoulder top. The man has short dark hair and wears a dark blue belted robe."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
           "Indoor Bedroom",
-          "Hallway"
+          "Indoor Home"
         ],
-        "topography": [
+        "locationTopography": [
           "None"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The bedroom features a grey textured headboard, a brown quilted bedspread, and a walk-in closet with warm interior lighting and visible hanging garments.",
+        "lightingStyle": [
+          "Warm indoor lighting",
+          "Dim / low light"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Warm and vibrant",
+          "Cinematic"
         ]
       },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A contemporary bedroom featuring a grey fabric headboard, neutral-toned walls, and a walk-in closet with dark metal frames and hanging clothes. Later scenes show a dimly lit interior with grey walls.",
-      "lightingStyle": "Mixed: bright soft light on the female and moody, low-key lighting in the transition scenes.",
-      "weather": "None",
-      "season": "None",
-      "editingPace": "Fast",
-      "textOverlay": {
-        "density": "Low",
-        "language": [
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Panning"
+        ],
+        "shotSize": [
+          "Close-up",
+          "Medium shot",
+          "Full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Montage"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "None",
+        "textLanguage": [
           "None"
         ],
         "isSubtitled": false
       },
-      "colorTone": "Cinematic and Muted",
-      "cameraWork": [
-        "Static",
-        "Follow shot"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "Low"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 0,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "High-pitched and breathy",
-        "pitch": "High",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous singing",
-        "language": [
-          "English"
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Copyrighted Song"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 124,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 0,
+        "female_singer_count": 1,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "English"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Percussion",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocal_ratio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 0,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) High-fidelity background music begins immediately with a bright electronic synth lead and a steady kick drum at 124 BPM. A female studio-recorded vocal enters, singing 'And when I walk in...'. The mix is clean with high spectral brightness. (2) The music continues with a heavy bass pulse and rhythmic claps. No environmental noise or foley sounds of footsteps or robe rustling are audible, as the music dominates the track. The vocal melody continues in the upper register. (3) The pop track remains constant in volume and energy. The female singer performs the lyric 'all that I want...', characterized by a melodic and optimistic major-mode tonality. (4) The music transitions into a purely rhythmic electronic beat section with fewer vocal layers. The dynamic range is compressed, typical of social media pop edits, maintaining a high energy level until the end of the clip."
     }
   },
-  "high_inference_interpretations": {
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Lifestyle",
+        "Couple",
+        "Meme / Trend"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 3,
+      "averageSceneDuration": 2.0,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Evidence -> Outr",
-      "mainPurpose": "The video is designed to create a romanticized and 'aesthetic' portrayal of a couple's domestic life. By combining bright, intimate close-ups of the female protagonist with moody, stylized shots of the male protagonist walking through a modern apartment, it evokes a sense of high-end lifestyle and visual attraction, heavily relying on rhythmic beat-sync editing to engage the viewer's emotions.",
-      "visualEmotion": "Romantic and Aesthetic"
+      "narrativeStructure": "Montage: Hook -> Subject Introduction -> Reaction -> Closing Action",
+      "mainPurpose": "The video uses a romantic or suggestive narrative structure to showcase the interaction between a couple. It begins with the woman as the 'hook' looking at the camera, transitions to the man 'walking in' to the room as mentioned in the lyrics, shows the woman's positive reaction, and ends with a dramatic, low-light shot of the man approaching.",
+      "visualEmotion": [
+        "warm",
+        "flirtatious",
+        "cinematic"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -164,9 +270,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Rhythmic quick cuts synced to trending pop music; high contrast between facial close-ups and full-body movement shots.",
-      "freeDescribe": "The video follows a standard 'lifestyle/romance' short-form video template where the focus is on the subjects' physical appeal and the luxury of their environment."
-    }
+    "freeDescribe": "The video relies heavily on the synchronization between the BGM lyrics ('And when I walk in') and the visual action of the male character entering the scene."
   }
 }

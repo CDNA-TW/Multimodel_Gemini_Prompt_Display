@@ -1,178 +1,282 @@
 {
   "videoName": "cocowine0205-20251201000505-1965552957731054.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 37,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Shopping Review",
-        "Promotion"
-      ],
+      "videoDuration": 36.4,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A female host with a white bucket hat, white long-sleeved top, and blue jeans stands in a warehouse supermarket aisle, holding two boxed plush toy sets (a pink rabbit and a blue lamb). She smiles warmly at the camera. The background shows rows of shelving and shoppers. (2) The host shifts the boxes to show their sides while continuing to smile and talk enthusiastically. The camera maintains a medium full shot of her. (3) The camera zooms in to a medium shot as she gestures excitedly with the products. (4) The host turns toward a large pallet display of the products, pointing at the stacks of blue boxes. (5) A close-up shot of the blue lamb plush set inside its packaging, clearly showing the 'HoneyPads' brand and the text '3 Piece Baby Blanket & Toy Gift Set'. (6) The host returns to the center frame, holding the sets and looking directly into the lens with high energy.",
+      "text_narrative_log": "(1) [Logo]: COSTCO WHOLESALE. [Variety]: 大家搶著買. [Slogan]: 黑五好康. [Subtitle]: 超美花布布偶寶寶毯 扯爆只要359元! (2) [Subtitle]: 之前分享效果超好的寶寶毯毯 (3) [Subtitle]: 好市多黑五這次有特價 (4) [Subtitle]: 原本459這次折90元 (5) [Subtitle]: 只要359 (6) [Subtitle]: 本來就很便宜了現在 (7) [Subtitle]: 哇你一定要入 (8) [Subtitle]: 而且好市多因為覺得它銷量很好 (9) [Subtitle]: 它準備了四大箱在賣耶 (10) [Subtitle]: 那有可愛的小羊 (11) [Subtitle]: 然後跟兔子以及白色的小熊 (12) [Subtitle]: 那它這是一個娃娃裡面有被被 (13) [Subtitle]: 還有一個掛包三件組 (14) [Subtitle]: 現在一個只要100出頭 (15) [Subtitle]: 你之前沒有入手現在絕對可以直接入手 (16) [Subtitle]: 送禮最佳360元滿滿的一整組喔 (17) [Subtitle]: 送禮自用兩相宜",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Full body"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 female host as the main creator",
+        "mainCharacterDescription": "A young woman wearing a white 'NY' branded bucket hat, a white knit long-sleeve top, a brown cross-body bag, and light blue denim jeans."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Supermarket / Warehouse Store"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "Large warehouse-style retail environment with high ceilings, industrial lighting, and massive metal shelving units filled with various products in large quantities.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Winter"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Walking handheld",
+          "Zoom in"
+        ],
+        "shotSize": [
+          "Medium full shot",
+          "Medium shot",
+          "Close-up",
+          "Insert shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Zoom in"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Plush / decoration / toy animal"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "COSTCO WHOLESALE",
+          "HoneyPads",
+          "CASUAL LIVING"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Acoustic/Folk"
+        ],
+        "tempoBPM": 122,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "String",
+          "Percussion",
+          "Keyboard"
+        ],
+        "instrumentsAudible": [
+          "Guitar",
+          "Electronic Keyboard / Synthesizer",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Crowd Murmur"
+        ],
+        "crowdNoiseIntensity": 1,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "Plastic / Bag Rustle"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 2,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 5,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) High-energy female vocals enter with an animated and cheerful tone, supported by a bright acoustic guitar-driven pop background music. The audio is crisp with minimal background hum. (2) A subtle 'ding' sound effect highlights the mention of a price. The female voice maintains a fast speech rate with high pitch variability, emphasizing specific promotional words. (3) Slight rustling of product packaging can be heard beneath the narration as the host moves. The music remains steady in volume and tempo. (4) The recording concludes with the music fading out gently after the final enthusiastic call to action."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Shopping",
+        "Product Showcase",
+        "Vlog"
+      ],
       "location": {
         "country": [
-          "Unknown"
+          "Taiwan"
         ],
         "city": [
           "None"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman wearing a white bucket hat and a white long-sleeved shirt stands in the aisle of a Costco warehouse, holding two plush toy and blanket sets. She smiles excitedly at the camera. (2) The camera zooms in on the price tag and the products, which are baby blanket gift sets featuring blue bears and pink rabbits. (3) The woman gestures toward the large inventory of these sets on the warehouse shelves behind her, continuing to speak with high energy and varied facial expressions. (4) Close-up shots of the product packaging and the detailed texture of the plush toys and blankets are shown as she holds them up for the viewer.",
-      "audio_narrative_log": "(1) Upbeat and high-tempo background music starts immediately. A young woman's voice enters, sounding very excited, high-pitched, and fast-paced. (2) The vocal continues as she describes the price discount and the contents of the gift set. Background ambient noise of a busy retail environment is faint but present. (3) The music maintains a constant rhythm through to the end as the woman concludes her recommendation with an enthusiastic tone.",
-      "text_narrative_log": "(1) Decorative Hook: 'COSTCO WHOLESALE' and '大家搶著買' (Everyone is rushing to buy) appears at the top in large colorful fonts. (2) Functional/Hook: '黑五好康' (Black Friday Deals) and '超美毛布偶寶寶毯 扯爆只要359元!' (Super beautiful plush baby blanket, crazy price only 359!) displayed prominently to highlight the deal. (3) Functional: Subtitles at the bottom translate the spoken Mandarin narration throughout the video."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 8,
-      "averageSceneDuration": 4.6,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Intro -> Price Highlight -> Product Close-up -> Recommendation"
+      "sceneCutCount": 9,
+      "averageSceneDuration": 4.0,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
     },
-    "visual_human_presence": {
-      "totalHumanCount": 3,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Face"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 main female creator, 2 blurred shoppers/passers-by in the background.",
-      "mainCharacterDescription": "A young woman with long dark hair, wearing a white bucket hat with a NY logo, a white knit sweater, blue jeans, and a brown crossbody bag."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Warehouse",
-          "Costco"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "Large industrial shelving units filled with stacked boxes of baby blanket gift sets and other warehouse merchandise.",
-      "lightingStyle": "Bright industrial studio-style warehouse lighting.",
-      "weather": "Indoor",
-      "season": "Winter (based on Black Friday context and clothing)",
-      "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Handheld",
-        "Close-up",
-        "Follow shot"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "Plush Bear",
-        "Plush Rabbit"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone (used for filming)"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "COSTCO",
-        "NY (New York Yankees)"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 1,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "High-pitched and excited",
-        "pitch": "High",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat/Pop",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Warehouse background chatter"
-      ],
-      "audioQuality": "Field Recording"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Information -> Recommendation -> Outro",
-      "mainPurpose": "The video serves as a high-energy deal alert or product recommendation for a Black Friday sale at Costco. The creator aims to persuade viewers to purchase a specific '3-piece baby blanket and toy gift set' by highlighting its aesthetic appeal, contents, and significant price reduction from 459 to 359 yuan.",
-      "visualEmotion": "Energetic and Enthusiastic"
+      "narrativeStructure": "List-based: Hook -> Product Introduction -> Price Comparison -> Feature Detail -> CTA.",
+      "mainPurpose": "To showcase and promote a specific baby blanket and toy gift set available at Costco during the Black Friday sale, emphasizing the value, variety, and gift-worthiness of the product.",
+      "visualEmotion": [
+        "energetic",
+        "warm",
+        "informative"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
-        "Implicit",
+        "Explicit",
         "Integrated"
       ],
-      "endorsementCues": "The creator is actively promoting a specific product's price and value within a retail environment.",
+      "endorsementCues": "Direct display of products, mention of specific store name (Costco), and highlight of a promotional price.",
       "endorsementObject": [
-        "Costco Baby Blanket & Toy Gift Set"
+        "COSTCO WHOLESALE",
+        "HoneyPads"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-speed Mandarin narration, enthusiastic facial expressions, and dense colorful text overlays characteristic of Taiwanese 'shopping tip' influencers.",
-      "freeDescribe": "The video effectively uses the 'Black Friday' scarcity hook to drive immediate consumer interest."
-    }
+    "freeDescribe": "A typical high-energy shopping vlog optimized for social media with clear subtitles and a direct focus on value-for-money deals."
   }
 }

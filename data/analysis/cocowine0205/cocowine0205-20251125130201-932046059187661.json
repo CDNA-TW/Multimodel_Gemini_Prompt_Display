@@ -1,166 +1,287 @@
 {
   "videoName": "cocowine0205-20251125130201-932046059187661.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 88,
-      "aspectRatio": "9:16",
+      "videoDuration": 82.2,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) A young woman with long dark hair, wearing a white ruffled top and ripped jeans, walks toward the camera while holding a small white Maltese dog dressed in a blue and white outfit. They are in a modern hallway with a red chair and a glass door leading outside. (2) Close-up shot of a hand holding four small 3D-printed figurines, including a version of the white dog, a smaller brown dog, and two mascot-like figures. (3) Outside the storefront of '3D Shots', the same woman in black and another woman in a blue ruffled dress stand with the white dog. They smile and gesture enthusiastically before walking through the door into the shop. (4) Inside the shop, the lighting is bright and warm with orange accent walls. The two women hold hands and spin around happily, showing off the interior which is filled with shelves of figurines. (5) One woman points at a shelf displaying dozens of realistic 3D-printed human and pet figurines of various sizes. (6) In a white, high-tech photography booth lined with dozens of cameras on vertical rails, the two women pose with the dog while a photographer's arm is visible from the side. (7) A sequence of shots shows the dog sitting alone on a circular platform inside the booth, followed by a computer monitor displaying a rotating 3D mesh and texture map of the dog. (8) Back in a domestic-style setting, the women present the final product: customized 'blind box' packaging featuring a cartoon dog and the finished 3D figurines of themselves and the dog inside a clear acrylic case. (9) Close-up shots highlight the intricate details of the miniature dog figurines on a small rotating display stand, showing the texture of their fur and clothing.",
+      "text_narrative_log": "(1) [Variety]: 想要客製化. [Variety]: 自己的專屬盲盒. [Variety]: 跟我來~. (2) [Variety]: 每個時段只有一組. [Variety]: 所以空間很自在. (3) [Variety]: 還是你. (4) [Subtitle]: 不要側臉唷，要平視著看唷. (5) [Subtitle]: 阿動了，再一次. (6) [Variety]: 完全不會動. (7) [Subtitle]: 帥呆了，這邊可以先預覽. (8) [Slogan]: 我們的專屬盲盒完成了. [Slogan]: 比爾跟66. [Slogan]: 穿鮮豔的顏色. [Slogan]: 阿六4歲組. [Variety]: 細緻. [Logo]: 3D Shots. [Variety]: 獨一無二. [Variety]: 當下寫真公仔呦.",
+      "visual_human_presence": {
+        "totalHumanCount": 3,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face close-up",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "2 main female creators, 1 male photographer/staff member visible during the shooting process.",
+        "mainCharacterDescription": "One woman has long black hair and wears a black cut-out top; the second woman wears a light blue ruffled tiered dress and a zebra-print bucket hat."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Retail Store",
+          "Studio",
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The video moves between a modern minimalist lobby, a retail shop with vibrant orange walls and display shelves, a technical 3D scanning booth with white panels and camera rigs, and a home-like setting with white cabinets and soft lighting.",
+        "lightingStyle": [
+          "Bright studio lighting",
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Warm and vibrant"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Walking handheld",
+          "Panning",
+          "Zoom in"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Full shot",
+          "Macro close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Low angle"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Fast cuts",
+          "Graphic transition"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Dog"
+        ],
+        "foodsDetect": [
+          "Plush / decoration / toy Food"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Camera / DSLR",
+          "Desktop computer / monitor",
+          "Lighting equipment / ring light"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "3D Shots",
+          "NY"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 3,
+        "male_vocal_count": 1,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 9,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone",
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Pop / Bubble SFX",
+          "Ding / Bell SFX",
+          "Camera Shutter / Camera Operation",
+          "Stinger SFX",
+          "Magic sparkle / Magic SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Stingers"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) Fast-paced electronic pop music begins with a bright synth melody. A female narrator speaks with a high-pitched, enthusiastic tone and rapid speech rate. (2) A sharp 'Pop' sound effect triggers as small figurines are presented, followed by a 'Magic sparkle' chime. (3) Multiple camera shutter clicking sound effects occur in rapid succession as the characters pose in the booth. The music continues at a steady 128 BPM. (4) A male voice briefly provides instructions with high clarity and a friendly professional tone. Another round of shutter sound effects follows. (5) A celebratory 'Ta-da' stinger plays as the final blind box product is revealed. The female narration increases in arousal and valence. (6) High-frequency 'Ding' sound effects and 'Whoosh' transitions punctuate the close-up shots of the figurines. The music builds to a final chord before cutting off."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
         "Vlog",
-        "Tutorial",
-        "Promotional"
+        "Lifestyle",
+        "Product Showcase",
+        "Promotion / Advertisement / Indoresment"
       ],
-      "withRealPeople": true,
       "location": {
         "country": [
-          "Unknown"
+          "Taiwan"
         ],
         "city": [
           "Unknown"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A girl in a black top enters a room carrying a small white dog, followed by a close-up of several miniature figurines held in a hand. (2) Two girls, one in a black dress and another in a blue ruffled dress with a zebra-print bucket hat, stand outside a shop titled '3D Shots' and gesture toward the camera before entering. (3) Inside the shop, they dance excitedly in front of shelves filled with various 3D figurines. (4) One girl poses in a 3D scanning booth with the dog while the other watches; the dog is then scanned alone on a circular platform surrounded by numerous cameras. (5) The scanned 3D models are shown on a computer screen for review. (6) The girls sit at a table and unbox the final 3D printed figurines, which are miniature versions of themselves and the dog. (7) Close-up shots show the figurines rotating on a display stand, highlighting details like clothing and hair texture.",
-      "audio_narrative_log": "(1) High-energy, upbeat electronic pop music starts immediately with sparkly sound effects and a high-pitched ding. (2) A female voice speaks in an enthusiastic and rapid tone, inviting the audience. (3) The background music remains continuous while a male voice enters, sounding like a professional photographer giving instructions. (4) Periodic 'click' sound effects simulate a camera shutter during the scanning phase, accompanied by short 'swish' transitions. (5) The female vocals become more expressive during the unboxing, featuring gasps and high-pitched exclamations of delight. (6) The music maintains a steady, bouncy rhythm until the very end, where it fades out after a final celebratory chime.",
-      "text_narrative_log": "(1) '想要客製化自己的專屬盲盒嗎?' (Do you want to customize your own exclusive blind box?) - Hook text, excited tone. (2) '跟我來!' (Follow me!) - Call to action. (3) '3D Shots' - Brand identification. (4) '每個時段都只有一組 所以空間很自在' (Only one group per time slot, so the space is very comfortable) - Functional information. (5) '買那麼多扭蛋公仔 最想要的還是你' (Bought so many capsule toys, the one I want most is still you) - Emotional hook. (6) '我們的專屬盲盒完成了' (Our exclusive blind box is finished) - Informative. (7) '獨一無二 當下寫真公仔喔' (One-of-a-kind portrait figurine) - Decorative/Hook."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 28,
-      "averageSceneDuration": 3.1,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Hook -> In-store experience -> Scanning process -> Unboxing/Reveal -> Recommendation."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 3,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Torso"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "2 main female creators/hosts; 1 male staff member partially visible in the scanning booth and unboxing area.",
-      "mainCharacterDescription": "One woman has long dark hair and wears a black dress with a chest cutout; the second woman wears a light blue ruffled dress and a zebra-patterned bucket hat."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Studio",
-          "Outdoor Street",
-          "Indoor Living Room"
-        ],
-        "topography": [
-          "Plain"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "Features a modern 3D scanning studio with many cameras on vertical poles, a shop storefront with '3D Shots' signage, and a domestic indoor setting with a gray countertop.",
-      "lightingStyle": "Bright studio lighting inside the scanning booth and natural daylight for outdoor shots.",
-      "weather": "Clear",
-      "season": "Summer",
+      "sceneCutCount": 45,
+      "averageSceneDuration": 1.8,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "Medium",
-        "language": [
-          "Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "High Saturation",
-      "cameraWork": [
-        "POV",
-        "Static",
-        "Follow shot"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "Dog"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone",
-        "Computer Monitor",
-        "3D Scanning Camera System"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "3D Shots",
-        "NY"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "Medium"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 2,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and professional",
-        "pitch": "Medium-high",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Dings",
-        "Camera shutter",
-        "Whoosh"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Experience -> Product Reveal -> CTA",
-      "mainPurpose": "The video is a promotional vlog intended to showcase the services of '3D Shots,' a specialty store that creates custom 3D printed miniatures. It effectively highlights the customer journey—from the initial scanning process involving both people and pets to the final unboxing of highly detailed figurines—emphasizing personalization, technology, and the emotional value of capturing a moment in 3D.",
-      "visualEmotion": "Energetic"
+      "narrativeStructure": "Montage: Hook -> Experience/Process -> Result -> Review/CTA",
+      "mainPurpose": "The video aims to promote a personalized 3D printing service named '3D Shots' by showcasing the fun experience of visiting the store, the high-tech photography process, and the high-quality, sentimental value of the final customized 3D figurines and blind box packaging.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "informative",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -168,14 +289,11 @@
         "Explicit",
         "Full"
       ],
-      "endorsementCues": "Detailed display of store name, scanning process walkthrough, and clear recommendation to viewers.",
+      "endorsementCues": "The video explicitly names the brand '3D Shots', shows the storefront, explains the service process in detail, and encourages viewers to visit the shop to make their own figurines.",
       "endorsementObject": [
         "3D Shots"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-energy female duo presenting a 'best friend' vlog style.",
-      "freeDescribe": "The video leverages the popularity of 'blind boxes' and pet-related content to market a high-tech personalized service."
-    }
+    "freeDescribe": "A highly polished promotional vlog utilizing social-media-native editing styles, vibrant text overlays, and energetic sound design to drive engagement for a unique custom product service."
   }
 }

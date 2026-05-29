@@ -1,179 +1,277 @@
 {
   "videoName": "cocowine0205-20250708095117-1181965597181982.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 18,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "News/Review",
-        "Promotional"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) Two women stand outdoors at night in front of a Costco sign. The woman on the left wears a white lace dress and a zebra-pattern bucket hat, gesturing excitedly while the woman on the right in a black dress smiles. (2) The camera pans to a white electric scooter parked nearby with a large green delivery box labeled 'Uber Eats' and '買好市多' (Buy Costco). (3) The scene shifts back to the women standing beside the scooter; the woman in white points at the large green thermal bag with an amazed expression. (4) Close-up shot of the two women as they discuss the details of the service, using hand gestures like the 'OK' sign and thumbs up. The lighting is bright artificial night lighting typical of a parking area.",
+      "text_narrative_log": "(1) [Logo]: COSTCO WHOLESALE. [Variety]: 誇張! [Slogan]: 免會員費 外送好市多! (2) [Slogan]: 用 Uber Eats 也點的到. (3) [Slogan]: 買好市多 點 Uber Eats. (4) [Variety]: 好大一個. (5) [Slogan]: 不用會員卡 也能消費! (6) [Subtitle]: 但是每樣商品 大約貴30%價格. (7) [Variety]: 是你願意嗎?",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "2 main female characters speaking to the camera throughout the video.",
+        "mainCharacterDescription": "One woman wears a white sleeveless lace dress and a zebra-print bucket hat; the other wears a black short-sleeved dress with long dark hair."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Supermarket / Warehouse Store",
+          "Road / Highway / Parking Area"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "Outdoor Costco warehouse storefront at night with a parking lot and rows of scooters in the background.",
+        "lightingStyle": [
+          "Night artificial light"
+        ],
+        "weather": [
+          "Night clear"
+        ],
+        "season": [
+          "Summer"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Panning"
+        ],
+        "shotSize": [
+          "Medium full shot",
+          "Medium shot",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "Scooter / motorcycle"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "Costco"
+        ],
+        "brandLogos": [
+          "COSTCO WHOLESALE",
+          "Uber Eats"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 0,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Comedic/Exaggerated"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Synthesizer",
+          "Electronic"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) A high-pitched female voice speaks with rapid, enthusiastic intonation. Upbeat synthesizer music begins instantly. A light 'whoosh' SFX signals a scene transition. (2) The narrator's pitch rises further as she expresses shock at the delivery box size. There is a very low-level background room tone, but speech is dominant. (3) The second speaker joins in, maintaining the high-arousal tone while explaining the 30% price markup for the delivery service. (4) The audio ends with a direct question to the audience, the music swells slightly before a hard cut at the final second."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Promotion / Advertisement / Indoresment",
+        "Vlog",
+        "Shopping"
+      ],
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "None"
+          "Unknown"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video starts with two women, one in a white lace dress with a zebra-print hat and another in a black dress, standing excitedly in front of a Costco Wholesale sign at night. (2) The camera pans to reveal a white and green Uber Eats delivery scooter-trike with a large cargo box, while the woman in white gestures towards it. (3) The women walk around the large green delivery box, showing its size and the 'Uber Eats' branding. (4) The scene shifts to a close-up of the two women as they talk directly to the camera, using hand gestures to emphasize points. (5) The video ends with them posing with 'thumbs up' and peace signs while looking directly at the viewer.",
-      "audio_narrative_log": "(1) Upbeat, energetic electronic background music begins immediately with a high-pitched, excited female voice speaking in Mandarin. (2) As the speaker highlights the delivery vehicle, the music maintains a steady tempo with minor ambient parking lot sounds like distant engine hums. (3) A distinct 'pop' sound effect occurs when key text information about the price appears. (4) The vocal density remains high as the speaker poses a final question, ending with the music fading out.",
-      "text_narrative_log": "(1) Functional Text: 'COSTCO WHOLESALE' logo appears at the top. Subtitles translate the spoken dialogue throughout. (2) Decorative/Hook Text: '誇張！' (Incredible!) with a shocked emoji at the start. '免會員費 外送好市多！' (No membership fee, Costco delivery!) serves as the main hook. (3) Functional Text: '用 Uber Eats 也點得到' (Can also order via Uber Eats), '大約貴30%價格' (About 30% more expensive), and '你願意買嗎？' (Would you buy it?) used to convey core service details and a call to action."
     },
     "temporal_pacing_summary": {
-      "sceneCutCount": 6,
-      "averageSceneDuration": 3.0,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro Hook -> Showcase Delivery Vehicle -> Price/Service Analysis -> Interactive Outro"
+      "sceneCutCount": 8,
+      "averageSceneDuration": 2.25,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
     },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Torso"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "2 female hosts appearing throughout the video; background is a public parking lot but no clear passers-by are distinct.",
-      "mainCharacterDescription": "One woman wears a white sleeveless lace dress, red sneakers, and a zebra-patterned bucket hat. The second woman wears a black short-sleeved dress with waist cut-outs and black shoes."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Outdoor Parking Lot",
-          "Store Entrance"
-        ],
-        "topography": [
-          "Plain"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "The entrance area of a Costco warehouse at night, featuring parking spaces, metal barriers, and the large red and blue 'COSTCO WHOLESALE' signage.",
-      "lightingStyle": "Artificial outdoor lighting from the store and parking lot lamps.",
-      "weather": "Clear night",
-      "season": "Unknown",
-      "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Vibrant",
-      "cameraWork": [
-        "Static",
-        "Panning",
-        "Handheld"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "Scooter",
-        "Trike"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "COSTCO WHOLESALE",
-        "Uber Eats"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 2,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and energetic",
-        "pitch": "High",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Traditional Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "Pop SFX"
-      ],
-      "ambientNoise": [
-        "Parking lot hum"
-      ],
-      "audioQuality": "Field"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Demonstration -> Comparison -> CTA",
-      "mainPurpose": "To announce and review a new partnership/service where Uber Eats delivers Costco products in Taiwan, specifically highlighting that a membership is not required while warning about the 30% price markup.",
-      "visualEmotion": "Energetic and Surprised"
+      "narrativeStructure": "Montage: Hook -> Demonstration -> Feature Breakdown -> Engagement",
+      "mainPurpose": "To promote the new delivery collaboration between Costco and Uber Eats in Taiwan, highlighting the benefit of no membership requirement while noting the 30% price premium.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "informative"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
-        "Implicit",
-        "Integrated"
+        "Explicit",
+        "Full"
       ],
-      "endorsementCues": "Detailed explanation of a specific service (Uber Eats delivery for Costco) including pricing and convenience factors.",
+      "endorsementCues": "Direct promotion of the delivery service, showing the branded vehicle and mentioning the specific apps involved.",
       "endorsementObject": [
         "Costco",
         "Uber Eats"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-energy dual female hosting with variety-show style subtitles.",
-      "freeDescribe": "The video effectively uses a 'hook' strategy by mentioning the lack of membership fees, which is a significant barrier for many Costco shoppers."
-    }
+    "freeDescribe": "The video utilizes a high-energy short-form social media format to deliver a commercial message, effectively blending information with entertainment."
   }
 }

@@ -1,14 +1,245 @@
 {
   "videoName": "cocowine0205-20250722194712-919615340931962.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 57,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Food Review"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A young woman with long dark hair, wearing a patterned bucket hat and a white lace dress over a black mesh top, stands in a brightly lit supermarket aisle. She holds a transparent plastic container of sushi with both hands, smiling at the camera. Behind her, shelves are filled with red-boxed food items under bright artificial lighting. (2) A tight close-up shot displays the contents of the sushi box. It contains several pieces of bright orange sea urchin, translucent pink sweet shrimp, and glossy red salmon roe resting on a bed of white rice with green shiso leaves. Large graphic text overlays appear around the food. (3) The scene transitions to an indoor dining setting. Two women are seated at a gray marble-textured table. One woman is the same from before, and another has straight dark hair and a black top. They hold chopsticks, eating the sushi and gesturing with their hands while looking directly at the camera in a domestic kitchen setting.",
+      "text_narrative_log": "(1) [Logo]: COSTCO WHOLESALE. [Slogan]: 好市多最新的. (2) [Variety]: 甜蝦海膽散壽司 New. (3) [Variety]: 5個海膽. (4) [Variety]: 然後都跟大拇哥一樣大ya. (5) [Slogan]: 299. (6) [Subtitle]: 我們把它分裝成一份一份. (7) [Subtitle]: 大概可以分四份. (8) [Subtitle]: 這是我裝的. (9) [Subtitle]: 這是阿寶裝的. (10) [Variety]: 滑順不會重口. (11) [Variety]: 很苦澀的味道. (12) [Variety]: 鮭魚的味道. (13) [Variety]: 優等生的範圍. (14) [Variety]: 性價比蠻高. (15) [Variety]: 誠意十足. [Variety]: 嘴裡都是海膽的香氣.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 main creator initially in the store, joined by 1 female friend during the tasting session.",
+        "mainCharacterDescription": "The first woman wears a grey patterned bucket hat and a white lace dress over a black top. The second woman has long dark hair and wears a simple black long-sleeved top."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Supermarket / Warehouse Store",
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "Starts in a Costco warehouse with refrigerated shelves full of meat or seafood boxes. Transitions to a modern, well-lit indoor apartment with a marble-top dining table and kitchen elements in the background.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Handheld",
+          "Zoom in"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Two shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Meme-style edit"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Seafood / fish / shrimp",
+          "Rice / grains",
+          "Japanese food / sushi"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Costco"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 0,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM",
+          "Pop"
+        ],
+        "tempoBPM": 124,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Mechanical Click / Latch"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Ding / Bell SFX",
+          "Pop / Bubble SFX",
+          "Whoosh / Transition SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) A high-pitched female voice speaks with high arousal and a fast speech rate. The background music is an upbeat, high-tempo electronic pop track with a strong, synthesized beat. No significant ambient supermarket noise is heard, suggesting a clean recording or post-production voiceover. (2) A distinct \"ding\" sound effect triggers as promotional text appears on screen. The female speaker's prosody is highly variable, emphasizing specific words with rising intonation. The electronic BGM continues with a consistent, energetic four-on-the-floor rhythm throughout this segment. (3) Two distinct female voices are now audible, engaging in a lively, casual dialogue. Their tones are animated and humorous. The music ducks slightly to favor the speech. Faint percussive clicks from chopsticks hitting ceramic plates are occasionally heard amidst the conversational chatter. (4) The audio concludes with a energetic closing phrase and a final \"pop\" sound effect. The BGM maintains its bright, major-mode tonality until the very end, ensuring a consistently positive and high-energy atmosphere for the review."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Food Review",
+        "Shopping"
+      ],
       "location": {
         "country": [
           "Taiwan"
@@ -18,163 +249,31 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman wearing a bucket hat and a white lace-trimmed top stands inside a Costco store holding a packaged sushi platter. She smiles excitedly and gestures towards the product. (2) The camera cuts to close-up shots of the sushi platter, highlighting the sea urchin, sweet shrimp, and salmon roe on a bed of rice. (3) Transitions to an indoor home setting where the woman and a friend are seated at a dining table. (4) The woman is shown portioning the sushi onto individual plates. (5) Both women use chopsticks to taste the food, nodding and making appreciative facial expressions as they discuss the flavors.",
-      "audio_narrative_log": "(1) High-energy, upbeat electronic background music plays throughout. A female voice with a high-pitched, enthusiastic tone speaks in Mandarin. (2) Frequent use of 'pop' and 'ding' sound effects synchronized with the appearance of text overlays. (3) The audio shifts to a conversational tone as two female voices discuss the taste and texture of the sushi components, with the background music continuing at a moderate volume.",
-      "text_narrative_log": "(1) '好事多最新的 甜蝦海膽散壽司 New' (Costco's newest Sweet Shrimp Uni Chirashi Sushi New) - Hook text, excited tone. (2) '5個海膽' (5 pieces of sea urchin) - Informational text. (3) '299' - Functional text indicating price. (4) '滑順不會重口' (Smooth not heavy) - Descriptive text, evaluative tone. (5) '性價比蠻高' (High cost-performance ratio) - Decorative text, recommendation tone. (6) '誠意十足' (Full of sincerity/Generous) - Effect text, appreciative tone."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 18,
-      "averageSceneDuration": 3.1,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro at store -> Close-up product demo -> Home tasting and review"
+      "sceneCutCount": 12,
+      "averageSceneDuration": 4.75,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
     },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Waist up"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "1 female creator in hat, 1 female friend at home",
-      "mainCharacterDescription": "One woman wears a grey bucket hat and a white lace dress over a black mesh shirt. The second woman has long dark hair and wears a black long-sleeved top."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Costco",
-          "Indoor Home"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "First scene shows commercial warehouse shelves at Costco; second scene is a modern apartment interior with a dining table and kitchen elements visible.",
-      "lightingStyle": "Bright indoor lighting",
-      "weather": "Unknown",
-      "season": "Unknown",
-      "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Follow shot",
-        "Handheld"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Sushi",
-        "Sea Urchin",
-        "Shrimp",
-        "Salmon Roe",
-        "Rice"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "COSTCO"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 2,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Friendly and humorous",
-        "pitch": "High",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Cartoon SFX",
-        "Meme sounds"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Field"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Evidence -> Evaluation -> Conclusion",
-      "mainPurpose": "The video aims to review a new seafood product from Costco, emphasizing its value for money and ingredient quality to encourage viewers to try it.",
-      "visualEmotion": "Energetic"
+      "narrativeStructure": "Linear: Hook -> Information -> Evaluation",
+      "mainPurpose": "The video aims to review and recommend a new seafood sushi product from Costco, highlighting its value, ingredient quality, and taste through a combination of on-site shopping footage and a domestic tasting session.",
+      "visualEmotion": [
+        "energetic",
+        "informative"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
-        "Explicit",
-        "Full"
+        "Implicit",
+        "Integrated"
       ],
-      "endorsementCues": "Directly showing the brand logo, product packaging, and discussing the specific price and taste characteristics.",
+      "endorsementCues": "Detailed product showcase with price points and explicit brand naming (Costco).",
       "endorsementObject": [
-        "COSTCO"
+        "Costco"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-frequency use of variety-show style emotional captions and upbeat, rhythmic editing.",
-      "freeDescribe": "The video follows the standard format of a micro-influencer food review, focusing on 'CP value' (cost-performance) which is a popular metric in Taiwanese consumer culture."
-    }
+    "freeDescribe": "The video effectively uses high-energy vocals and vibrant text overlays to maintain viewer engagement during a standard product review format."
   }
 }

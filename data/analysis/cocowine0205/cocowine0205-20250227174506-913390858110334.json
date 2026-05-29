@@ -1,164 +1,271 @@
 {
   "videoName": "cocowine0205-20250227174506-913390858110334.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 47,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Tutorial",
-        "Food Review"
-      ],
+      "videoDuration": 48,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) In a brightly lit warehouse store, a young woman with long dark hair, wearing a fuzzy grey and black patterned hat and a pink sweater, stands in front of stacks of produce. She holds a large clear plastic box filled with red cherry tomatoes, speaking directly to the camera with an expressive face and hand gestures. (2) Close-up shots alternate between her face and the box of tomatoes. She pulls a single tomato out to compare its size to her thumb, emphasizing its large scale against her hand. Background shows other shoppers and shelves. (3) The scene transitions to a brightly lit modern indoor living room. The woman is now wearing a black beret and a white top with ruffles. She holds the same box of tomatoes and continues her presentation with high energy. (4) A series of close-up shots show her at a table wearing transparent plastic gloves. She uses pink scissors to cut dark, dried fruit into small pieces, then uses a knife to carefully slit a large red cherry tomato along its side on a white cutting board. (5) She demonstrates stuffing the cut fruit into the tomato slit. The final phase shows a heart-shaped pink plate filled with the prepared stuffed tomatoes. She picks one up, eats it, and closes her eyes with a delighted expression.",
+      "text_narrative_log": "(1) [Logo]: COSTCO WHOLESALE. [Subtitle]: 好市多終於又進小番茄. (2) [Subtitle]: 而且它的番茄很棒. (3) [Subtitle]: 因為它超大 你看跟我大拇哥一樣. (4) [Variety]: 包密餞版. [Subtitle]: 就可以包密餞. (5) [Subtitle]: 夜市的密餞番茄不是很貴嗎 50塊一袋. (6) [Subtitle]: 那個密餞一大袋100 然後這個225. (7) [Subtitle]: 自己買密餞包 吃一整週. (8) [Variety]: 超值得. [Subtitle]: 超值得 他真的很大哎. (9) [Subtitle]: 我覺得品相很漂亮 終於進了 趕快買. (10) [Subtitle]: 好市多小番茄無痛升級 超好吃這一盒呢. (11) [Subtitle]: 225元他這一次進的番茄呢. (12) [Subtitle]: 是產銷履歷小番茄非常大 每一個都跟. (13) [Variety]: 大拇哥一樣. [Subtitle]: 大拇哥一樣. (14) [Subtitle]: 這種呢包蜜餞超讚. (15) [Subtitle]: 先把化應子剪小塊小塊的. (16) [Subtitle]: 胖胖小番茄中間切一條. (17) [Subtitle]: 接著再塞進去. (18) [Subtitle]: 自己包超簡單. (19) [Subtitle]: 耶 吃吃看. (20) [Subtitle]: 嗯好吃 好吃好吃.",
+      "visual_human_presence": {
+        "totalHumanCount": 4,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 3,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face close-up",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main female character, 3 distant shoppers in the store background.",
+        "mainCharacterDescription": "A young Asian woman with long black hair, wearing a pink knit sweater and a fuzzy hat in the first half, and a white ruffled top with a black beret in the second half."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Supermarket / Warehouse Store",
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A Costco warehouse store with industrial shelving, produce boxes, and other shoppers, followed by a clean, modern home interior with a sofa and TV visible.",
+        "lightingStyle": [
+          "Bright studio lighting",
+          "Warm indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Warm and vibrant"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Static"
+        ],
+        "shotSize": [
+          "Medium close-up",
+          "Close-up",
+          "Insert shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Jump cut",
+          "Fast cuts",
+          "Montage"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Compilation / montage sequence"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Fruit",
+          "Vegetables",
+          "Snack / chips / candy"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "TV / display screen"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "COSTCO",
+          "KANGOL"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Crowd Murmur"
+        ],
+        "crowdNoiseIntensity": 1,
+        "ambientNoiseDetails": [
+          "Commercial/Recreational",
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Mechanical Click / Latch",
+          "Object Impact / Thud / Drop",
+          "Food Bite / Crunch"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Pop / Bubble SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A high-pitched, enthusiastic female voice begins speaking rapidly in Mandarin, accompanied by a bright, upbeat electronic pop BGM with a steady 4/4 beat. Faint, distant echoes of a large indoor space are present. (2) The vocal continues with high arousal and positive valence, featuring varied intonation as she compares price points. (3) A subtle shift in the background noise occurs as the acoustic environment becomes more intimate and dry. (4) Distinct metallic 'snip' sounds of scissors and the dull 'clack' of a knife hitting a board punctuate the speech. (5) Short, stylized pop-up sound effects coincide with visual transitions. (6) Audibly moist chewing sounds and a soft vocal 'Mmm' signifying satisfaction are heard towards the end, while the music maintains its high energy until the final cut."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Food Review",
+        "Cooking Tutorial",
+        "Lifestyle"
+      ],
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "Unknown"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video starts in a warehouse club setting. A woman wearing a patterned fur hat and purple sweater holds a large transparent box of cherry tomatoes, comparing one tomato's size to her thumb with an excited expression. (2) The scene transitions to an indoor home setting. The same woman, now wearing a black beret and white top, sits at a table with the tomato box and a bag of dried prunes. (3) She uses a knife and scissors to demonstrate cutting the prunes and stuffing them into the sliced cherry tomatoes while wearing plastic gloves. (4) The camera shows a close-up of the finished snacks arranged on a pink plate. (5) She picks one up, eats it, and reacts with a surprised and happy facial expression, covering her mouth as she chews.",
-      "audio_narrative_log": "(1) High-energy upbeat pop music begins immediately. A female voice speaks in an excited, high-pitched tone with audible background noise typical of a busy warehouse. (2) As the scene changes to the home, the background noise disappears, leaving only the music and the clear, steady narration of the woman explaining the recipe. (3) Occasional sound effects (SFX) like a 'ding' or a 'pop' coincide with text appearances. (4) Sound of the woman chewing and an enthusiastic 'Mmm' vocalization are heard at the end.",
-      "text_narrative_log": "(1) Functional Text: '好市多' (Costco), '終於又進小番茄' (Finally cherry tomatoes are back), '225元' (Price). (2) Decorative/Hook Text: '跟大拇哥一樣' (Like a thumb) with a hand emoji, '包蜜餞超讚' (Stuffed with prunes is great), '無痛升級' (Painless upgrade), '超好吃' (Super delicious). (3) The tone of the text is enthusiastic and uses large, colorful fonts common in social media short videos."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 18,
-      "averageSceneDuration": 2.6,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Warehouse Intro -> Recipe Explanation -> Cooking Demo -> Tasting and Review"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 4,
-      "maleDetectAmount": 2,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Face"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 main female creator; approximately 3 male and female shoppers blurred in the warehouse background.",
-      "mainCharacterDescription": "A young woman with long dark hair, wearing a stylish fur hat and purple sweater in the first half, and a black beret with a white sweater in the second half."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Warehouse Store",
-          "Indoor Kitchen"
-        ],
-        "topography": [
           "None"
         ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "First half: A Costco warehouse with high metal shelves, bulk packaging, and signs like 'FRESH PRODUCE'. Second half: A modern home interior with a marble table, a television in the background, and warm lighting.",
-      "lightingStyle": "Mixed: Bright industrial fluorescent lights in the store; soft warm indoor lighting at home.",
-      "weather": "Indoor",
-      "season": "Winter",
-      "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Close-up"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Cherry Tomatoes",
-        "Prunes",
-        "Snack"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "TV",
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Costco Wholesale",
-        "KANGOL"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 1,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "High-pitched and excited",
-        "pitch": "High",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Ding",
-        "Pop"
-      ],
-      "ambientNoise": [
-        "Warehouse crowd chatter"
-      ],
-      "audioQuality": "Mixed"
-    }
-  },
-  "high_inference_interpretations": {
+    "temporal_pacing_summary": {
+      "sceneCutCount": 22,
+      "averageSceneDuration": 2.18,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Demonstration -> Validation",
-      "mainPurpose": "To share a food hack/recipe using cherry tomatoes purchased from Costco. The video aims to inform viewers about the availability of the product and provide an easy, tasty way to prepare it at home.",
-      "visualEmotion": "Energetic and Happy"
+      "narrativeStructure": "Montage: Hook -> Location Intro -> Feature Highlight -> Process Tutorial -> Tasting/Reaction",
+      "mainPurpose": "The video aims to promote cherry tomatoes from Costco by highlighting their exceptional size and value, while providing a simple, appealing tutorial on how to prepare them as a popular snack (stuffed with dried plums). It leverages a high-energy, relatable vlog style to encourage viewers to purchase the product and try the recipe themselves.",
+      "visualEmotion": [
+        "energetic",
+        "warm",
+        "informative"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -166,14 +273,11 @@
         "Implicit",
         "Integrated"
       ],
-      "endorsementCues": "The creator specifically highlights the Costco logo, mentions the price, and showcases the 'Traceable Agricultural Product' (產銷履歷) label on the box.",
+      "endorsementCues": "Direct display of the Costco logo, specific price mentions, and praise for the product's quality and value.",
       "endorsementObject": [
         "Costco"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-energy presentation style with distinctive headwear (KANGOL beret).",
-      "freeDescribe": "The video follows a standard social media 'lifestyle hack' format, combining shopping vlog elements with a quick DIY tutorial."
-    }
+    "freeDescribe": "The high speech density and rapid visual cuts are characteristic of short-form social media content optimized for high retention. The use of 'Variety' style subtitles adds a comedic and engaging layer."
   }
 }

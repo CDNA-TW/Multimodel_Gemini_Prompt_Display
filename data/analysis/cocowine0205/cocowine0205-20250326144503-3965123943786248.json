@@ -1,162 +1,265 @@
 {
   "videoName": "cocowine0205-20250326144503-3965123943786248.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 57.3,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Shopping Recommendation"
-      ],
+      "videoDuration": 56,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "None"
+      "visual_narrative_log": "(1) The video opens in a brightly lit Costco warehouse. A young woman wearing a teal turtleneck, white puffer vest, and a dark beret stands prominently in front of a stack of Samsonite boxes. She gestures enthusiastically towards the products while smiling widely, her eyes bright and mouth open. Large red and white text overlays appear at the top. (2) The camera remains handheld as she points upwards and then back to the suitcase set on display. She continues to speak with high energy, her hands moving frequently to emphasize her points. The background shows rows of warehouse shelves, yellow boxes of Slazenger, and distant shoppers moving through the aisles. (3) A second woman wearing a black vest over a pink blouse enters the frame on the right. They both look at a blue penguin-themed suitcase set. The main woman demonstrates the telescopic handle and points to the accompanying small bags, which are also penguin-themed. (4) The main character opens the zipper of the blue penguin suitcase to reveal the grey interior lining. She points her finger at specific animal patterns, specifically a koala face, on the fabric. The second woman leans in to watch. (5) The woman closes the suitcase and pulls it along the floor to show its maneuverability. She looks back at the camera with an inviting expression, still gesturing with her hands as she delivers her final remarks in the same warehouse setting.",
+      "text_narrative_log": "(1) [Logo]: Costco WHOLESALE. [Subtitle]: 孩童旅行組 一件不用330元 超級大特價. (2) [Subtitle]: 987元 他原價要2,699. (3) [Subtitle]: 比雨說他很想買 可是他體型太大了. (4) [Subtitle]: 所以有小孩子的不要錯過 兒童旅行包 三件組987. (5) [Subtitle]: 然後你看他超可愛的 他是一個企鵝 是推拉行李箱. (6) [Subtitle]: 但它也可以當書包對不對 然後 沒有沒有 它是推拉行李箱. (7) [Subtitle]: 然後接著這個是小包包 然後還有一個最小的是什麼 洗漱包. (8) [Subtitle]: 洗漱包所以這給媽媽用 然後這給兒子用 然後這個就是爸爸拉. (9) [Subtitle]: 好可愛呀 爸爸的東西那麼少 真的哎它很滑哎 它其實很好拉. (10) [Subtitle]: 很可愛超可愛的 然後給你們看它裡面呢 是有這個內層. (11) [Subtitle]: 然後你看還有可愛的小動物 這個無尾熊的臉 有點長 嗯. (12) [Subtitle]: 然後以及就是給你綁一些東西 很簡單但是 超級可愛. (13) [Subtitle]: 如果你的小朋友有個小小行李箱的夢想 可以買給他 真的. (14) [Subtitle]: 最重要是媽媽你可以自己拿走 這個洗漱包超好看.",
+      "visual_human_presence": {
+        "totalHumanCount": 4,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 3,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face close-up",
+          "Hands only",
+          "Full body"
         ],
-        "city": [
-          "None"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A woman in a blue beret and white puffer vest stands in a Costco warehouse, pointing excitedly at a price tag of $987. (2) She pulls a blue penguin-shaped rolling suitcase from a shelf of boxes and demonstrates its movement; she is joined by another woman in a black dress. (3) The camera zooms in as they unzip the suitcase to reveal a grey interior lining with small animal prints (koala, bear). (4) They show a matching backpack and a smaller toiletry pouch, holding them up for the camera while gesturing and smiling.",
-      "audio_narrative_log": "(1) An upbeat, high-tempo pop/electronic track plays as a female voice speaks excitedly in Mandarin, emphasizing the low price of the travel set. (2) The soundscape includes the rustling of plastic and the mechanical sound of a suitcase zipper being opened, overlaid with the conversational tones of two women. (3) The background music remains consistent throughout, with faint ambient echoes characteristic of a large warehouse or store.",
-      "text_narrative_log": "(1) Large 'COSTCO WHOLESALE' logo at the top throughout. (2) Hook text: '孩童旅行組 一件不用330元' (Kids travel set, less than 330 per piece) in purple and yellow. (3) '超級大特價' (Super Great Sale) in red and yellow. (4) Functional price text: '987元 他原價要2699' (987 dollars, original price 2699). (5) Descriptive labels: '兒童旅行包 三件組987' (Kids travel set, 3 pieces 987) and various dialogue transcriptions in blue/white bubbles."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 18,
-      "averageSceneDuration": 3.18,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Intro Hook -> Product Demonstration -> Detailed Interior Look -> Outro Recommendation"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "1 main female host, 1 female friend/co-host appearing midway.",
-      "mainCharacterDescription": "A female with fair skin, wearing a blue Kangol beret, a blue turtleneck sweater, a white puffer vest, and a black tiered skirt."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Warehouse",
-          "Costco"
+        "crowdLevel": [
+          "Small Group"
         ],
-        "topography": [
-          "None"
+        "countingEvidence": "1 main female creator, 1 female friend joining, and at least 2 shoppers in the far background.",
+        "mainCharacterDescription": "A young woman with long dark hair, wearing a dark beret with a kangaroo logo, a teal turtleneck sweater, and a white quilted puffer vest."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Supermarket / Warehouse Store"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "The interior of a large Costco warehouse with tall industrial shelving, stacked cardboard boxes of luggage (Samsonite, Slazenger), and a typical concrete floor.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
         ]
       },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A typical Costco warehouse setting with high industrial shelves, stacks of cardboard boxes containing luggage (Samsonite brand visible), and bright overhead fluorescent lighting.",
-      "lightingStyle": "Intense warehouse lighting",
-      "weather": "Indoor",
-      "season": "Unknown",
-      "editingPace": "Fast",
-      "textOverlay": {
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Insert shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Fast cuts",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
         "density": "High",
-        "language": [
-          "Traditional Chinese"
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
         ],
         "isSubtitled": true
       },
-      "colorTone": "Bright, High Saturation",
-      "cameraWork": [
-        "Static",
-        "Close-up",
-        "Handheld"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "Penguin (product design)",
-        "Koala (lining pattern)"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "Shopping cart"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "COSTCO",
-        "KANGOL",
-        "Samsonite",
-        "Slazenger"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 2,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "High-pitched, enthusiastic, and persuasive",
-        "pitch": "High",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Bird",
+          "Cartoon / animated animal"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Costco",
+          "Samsonite",
+          "Slazenger"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Warehouse hum"
-      ],
-      "audioQuality": "Field"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 3,
+        "male_vocal_count": 1,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 124,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Crowd Murmur"
+        ],
+        "crowdNoiseIntensity": 1,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Mechanical Click / Latch"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Pop / Bubble SFX",
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio starts with a high-energy female voice speaking rapidly in Mandarin, her tone extremely excited and positive. A mid-tempo electronic pop BGM with a bright synth melody and a driving 4/4 drum beat plays continuously. The acoustic space sounds like a large indoor area with very minimal reverb. (2) A sharp 'pop' sound effect triggers a transition. The speaker's pitch rises as she quotes a price. The music continues without change. Another female voice is heard laughing softly in the background, adding to the informal, social atmosphere of the recording. (3) A brief digital 'ding' sound effect occurs as the scene shifts. The main speaker continues her rapid-fire narration. A male voice from off-camera makes a short comment, which the main speaker acknowledges with an even higher pitch of excitement. (4) The sound of a suitcase zipper sliding open is heard faintly against the music. The speaker's voice remains clear and enunciated, maintaining a high level of arousal. The BGM remains steady in the mix, providing a energetic foundation for the speech. (5) The speaker concludes with a series of quick, punchy sentences. The vocal intensity remains high until the very end, where the BGM concludes with a final synthesized chord. The overall production is clean with a high signal-to-noise ratio."
     }
   },
-  "high_inference_interpretations": {
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Shopping",
+        "Vlog"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 14,
+      "averageSceneDuration": 4.0,
+      "editingPace": "Fast",
+      "isNarrativeShift": false
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Evidence -> Detailed Demo -> Summary",
-      "mainPurpose": "The video serves as a deal alert and shopping recommendation aimed at parents. It highlights a significant price drop for a 3-piece kids' travel set at Costco, emphasizing its value, cute penguin design, and practical features to encourage viewers to purchase the item.",
-      "visualEmotion": "Energetic and Joyful"
+      "narrativeStructure": "List-based: Hook -> Price Comparison -> Product Feature Demo -> Recommendation",
+      "mainPurpose": "The video serves as a shopping guide or promotion for a discounted children's luggage set at Costco. It uses a high-energy, vlog-style presentation to highlight the significant price drop and the physical appeal (penguin theme) of the product to encourage viewers to purchase it.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -164,15 +267,12 @@
         "Implicit",
         "Integrated"
       ],
-      "endorsementCues": "The host specifically highlights the price savings and features of the Samsonite/Sammies product at Costco.",
+      "endorsementCues": "The video features a large Costco logo, mentions a specific price deal, and shows a branded Samsonite product being demonstrated by the creator.",
       "endorsementObject": [
-        "COSTCO",
+        "Costco",
         "Samsonite"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-energy Mandarin narration with 'variety-show' style colorful captions.",
-      "freeDescribe": "The video targets a consumerist 'bargain hunting' subculture, specifically 'Costco finds' enthusiasts. The use of Traditional Chinese suggests a target audience in Taiwan."
-    }
+    "freeDescribe": "A typical high-energy social media promotional video focusing on retail deals and product unboxing."
   }
 }

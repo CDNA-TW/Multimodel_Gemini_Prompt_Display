@@ -1,14 +1,236 @@
 {
   "videoName": "2uncle987-20250430055219-901286529149391.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 11,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Entertainment"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) Indoor studio setting. A young boy wearing a denim jacket over a camouflage-patterned shirt and black-rimmed glasses reaches towards a white plastic toy toilet held by an adult. Beside him, a second boy in a green plaid shirt and striped undershirt looks on with a smiling, expectant facial expression. In the background, two adult women stand watching; one wears a black hoodie with a graphic and the other wears a dark dress featuring large colorful polka dots. (2) The lid of the toy toilet suddenly pops open, and a plastic head with a wide, mischievous grin and dark hair springs upward. The group immediately reacts with intense laughter and joy. The boy in glasses is seen being playfully hugged by a young woman with her hair in braided pigtails; both are squinting their eyes while laughing heartily. The camera movement is slightly shaky as it captures the dynamic energy of the laughing people. (3) The camera provides a close-up view of the toy toilet being held by a woman's hands. The sculpted plastic head inside features a stylized beard and a grinning expression. In the background, a man in a blue and white patterned shirt is visible, along with professional studio equipment including a light stand and a camera mounted on a tripod, confirming the environment.",
+      "text_narrative_log": "(1) [Subtitle]: None. [Logo]: None. [Variety]: None. [Slogan]: None.",
+      "visual_human_presence": {
+        "totalHumanCount": 6,
+        "maleDetectAmount": 3,
+        "femaleDetectAmount": 3,
+        "kidsDetectAmount": 2,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "2 main children characters, 3 adult women in the background/holding toy, and 1 man in the background.",
+        "mainCharacterDescription": "Two young boys; one wearing black glasses and a denim jacket, the other wearing a green and brown plaid shirt."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A bright indoor studio with white walls, storage shelves containing boxes, and visible professional filming equipment like lights and a tripod.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "None",
+        "textLanguage": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Camera / DSLR",
+          "Lighting equipment / ring light",
+          "Tripod / stabilizer"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 5,
+        "male_vocal_count": 2,
+        "female_vocal_count": 3,
+        "kids_vocal_count": 2
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Comedic/Exaggerated"
+        ],
+        "vocalLanguage": [
+          "Simplified Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 3,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 9,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter",
+          "Cheering"
+        ],
+        "crowdNoiseIntensity": 4,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Mechanical Click / Latch"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 2,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 2,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with the high-pitched, excited chatter of children and the soft rustling of clothing. A sharp, mechanical 'clink' or 'click' sound is heard, suggesting the manual activation of a toy's internal mechanism. There is no background music present, leaving the acoustic space entirely for human vocalizations. (2) An explosive, high-arousal burst of collective laughter dominates the audio track. Multiple distinct voices, including the bright giggles of children and the fuller laughs of adult females, overlap in a joyful, high-energy mix. The laughter is continuous and energetic, with rapid cadence and no significant pauses, indicating a peak reaction moment. (3) As the initial burst of laughter subsides slightly, a female voice can be clearly heard exclaiming '哇塞' (Wàsāi) with a bright, rising pitch contour that signals surprise and delight. The background remains clean with a very faint indoor room tone, and the sounds of subtle movements and further muffled giggling continue."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Meme / Trend",
+        "Family / Kids"
+      ],
       "location": {
         "country": [
           "Unknown"
@@ -18,158 +240,31 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) Two young boys, one in a striped shirt and plaid flannel and the other in a denim jacket with glasses, watch an adult's hand holding a white toy toilet. (2) The lid of the toy toilet snaps open, and a plastic man's head pops out with a smiling expression; the boys jump back slightly and begin laughing. (3) The camera pans to reveal a group of women in a studio setting laughing along; a woman in a white top with pigtails pulls the boy in the denim jacket into a hug as they both laugh. (4) A close-up shot shows the toy toilet with the head extended, held by a woman with rings, while production crew and equipment are visible in the background.",
-      "audio_narrative_log": "(1) Background studio chatter and a female voice saying \"馬桶\" (toilet). (2) A sudden burst of loud, rhythmic electronic music featuring the \"Skibidi Dop Dop Dop Yes Yes\" vocal hook plays as the toy activates. (3) An immediate explosion of loud, high-pitched laughter from multiple children and women. (4) The laughter continues to resonate as the music plays in the background, mixed with general studio ambient noise.",
-      "text_narrative_log": "(1) None"
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 3,
-      "averageSceneDuration": 2.75,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Setup -> Surprise/Reveal -> Group Reaction"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 8,
-      "maleDetectAmount": 3,
-      "femaleDetectAmount": 5,
-      "kidsDetectAmount": 2,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Hands only",
-        "Full body",
-        "Upper body"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "2 main boys, 5 women (one holding toy, one in apron, two on chairs, one filming), 1 man in background.",
-      "mainCharacterDescription": "Two young boys; one wears a green/brown plaid flannel over a striped shirt, the other wears a denim jacket and black-rimmed glasses."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Studio"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A white-walled indoor studio or office space with shelves, lighting equipment, and a tripod visible in the background.",
-      "lightingStyle": "Intense studio lights",
-      "weather": "Indoor",
-      "season": "Unknown",
+      "sceneCutCount": 2,
+      "averageSceneDuration": 3.6,
       "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "None",
-        "language": [
-          "None"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Pan",
-        "Follow shot",
-        "Static"
-      ]
+      "isNarrativeShift": false
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Camera",
-        "Studio Lighting"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut to music",
-      "vocalRatio": "Medium"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 6,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 1,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 5,
-          "kids_vocal_count": 2
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and hysterical",
-        "pitch": "High",
-        "loudness": "High",
-        "speed": "Normal",
-        "speechDensity": "Occasional narration",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Electronic / Meme Music",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum machine"
-      ],
-      "musicSourceType": [
-        "Copyrighted Song"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Studio quiet",
-        "Clothing rustle"
-      ],
-      "audioQuality": "Field Recording"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Setup -> Surprise -> Collective Reaction",
-      "mainPurpose": "To document and share the genuine, joyful reaction of children to a 'Skibidi Toilet' meme-themed toy in a professional or semi-professional studio environment, likely for social media content.",
-      "visualEmotion": "Humorous"
+      "narrativeStructure": "Montage: Interaction -> Reaction -> Close-up",
+      "mainPurpose": "To capture and showcase the high-energy, humorous reaction of children and adults to a pop-up 'Skibidi Toilet' toy in a studio setting, emphasizing joy and surprise.",
+      "visualEmotion": [
+        "humorous",
+        "energetic",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
-      "isEndorsement": true,
+      "isEndorsement": false,
       "endorsementMethod": [
-        "Implicit",
-        "Full"
+        "None"
       ],
-      "endorsementCues": "The video focuses entirely on the reveal and functionality of the toy to elicit a positive emotional response.",
+      "endorsementCues": "None",
       "endorsementObject": [
-        "Skibidi Toilet Toy"
+        "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Usage of trending internet meme (Skibidi Toilet) to create family-friendly comedic content.",
-      "freeDescribe": "The presence of professional camera equipment in the background suggests this was filmed during a BTS (behind-the-scenes) moment of a larger production or vlog shoot."
-    }
+    "freeDescribe": "The video features a popular 'Skibidi Toilet' themed toy, capitalizing on a current internet trend for children. The genuine laughter and high vocal arousal contribute to its viral appeal."
   }
 }

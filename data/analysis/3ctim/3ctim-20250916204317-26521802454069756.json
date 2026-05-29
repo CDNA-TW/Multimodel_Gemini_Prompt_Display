@@ -1,163 +1,269 @@
 {
   "videoName": "3ctim-20250916204317-26521802454069756.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 87,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Tech Commentary",
-        "Advertisement"
-      ],
+      "videoDuration": 86,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A male creator wearing a white hoodie, blue flat cap, and glasses stands in a bright, modern living room. He speaks with expressive hand gestures. A brief 16:9 landscape shot of a sunny outdoor plaza in Cupertino is shown as an insert. (2) Graphic overlays for iPhone 17 appear with yellow borders and phone icons. The background features a cream-colored sofa and soft, warm indoor lighting. The man continues to gesture vigorously toward the camera. (3) Brightly colored geometric overlays (blue, red, yellow) flash on screen as he discusses pricing. A full-screen infographic appears listing promotional items like glass protectors and mobile cases with the 'miko' brand logo clearly visible. (4) Blue iPhone 17 3D models float on screen alongside text indicating a 1000-dollar discount. Recycling icons and logos for Apple and Android are displayed as he explains a trade-in program. (5) A green QR code appears in the center-left of the frame with the handle @miko168. The man points downward toward the screen's edge during his final call to action before the video ends.",
+      "text_narrative_log": "(1) [Logo]: 3c有意思tim哥. [Logo]: 3ctim. [Subtitle]: 哈囉大家好. (2) [Subtitle]: 現在我人就在美國加州. (3) [Subtitle]: 庫比蒂諾. (4) [Subtitle]: iPhone 17已經正式發表！ (5) [Subtitle]: 相信大家也迫不及待想知道. (6) [Subtitle]: 在台灣去哪裡預約. (7) [Subtitle]: 才是最划算的選擇？ (8) [Slogan]: iPhone 17系列最最優惠就在，米可手機館！ (9) [Subtitle]: 如果你鎖定任何一支的iPhone 17. (10) [Subtitle]: 都可以來米可預約. (11) [Subtitle]: 絕對是最聰明的決定. (12) [Subtitle]: 為什麼這麼說呢？ (13) [Subtitle]: 聽我算筆帳你就懂了. (14) [Variety]: 只要花990元. (15) [Variety]: 市價$3060 專業大全套配件. (16) [Logo]: miko 米可. (17) [Variety]: 新機-$1000 直接減$1000. (18) [Variety]: 全套配件 GET!. (19) [Variety]: 舊機回收再加碼 多折$1000. (20) [Variety]: 現場立即折現. (21) [Variety]: 0元把新機帶回家. (22) [Variety]: 電信綁約超值方案 延長保險優惠. (23) [Slogan]: @miko168.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 male creator speaking to the camera throughout the video.",
+        "mainCharacterDescription": "Male, middle-aged, wearing a white hoodie with a vintage Apple logo, a blue patterned flat cap, and round-rimmed glasses."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Living Room",
+          "Urban Plaza / Square"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A clean, modern living room with a neutral-toned sofa, soft curtains, and a golden decorative lamp. A secondary location shows a paved urban plaza with buildings and a fountain in Cupertino.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Autumn"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Graphic transition",
+          "Meme-style edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Microphone / lavalier mic"
+        ],
+        "landmark": [
+          "Cupertino"
+        ],
+        "brandLogos": [
+          "Apple",
+          "Android",
+          "miko"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 8,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 126,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Ding / Bell SFX",
+          "Sparkle / Magic SFX",
+          "Impact / Hit SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Stingers"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) High-arousal male speech begins with an enthusiastic greeting, 'Hello everyone'. Upbeat, rhythmic pop BGM starts immediately with a clear kick drum and synth melody. A quick 'whoosh' SFX signals the transition to the Cupertino location clip. (2) A sharp 'ding' SFX triggers as the iPhone 17 text appears. The vocal pitch is dynamic, rising to emphasize the announcement of the new phone. The music maintains a steady 126 BPM tempo with bright frequency weight. (3) Continuous 'sparkle' SFX layer over the vocals as price points are mentioned. The narrator’s articulation is extremely clear and enunciated. A percussive 'hit' SFX punctuates the mention of the 990-dollar offer, emphasizing the value proposition. (4) Technical whoosh sounds accompany the sliding of mobile phone icons on the visual track. The BGM complexity increases slightly with additional electronic textures during the trade-in explanation. The speaker's dominance and confidence are high, driving the sales narrative forward. (5) A final 'ding' SFX coincides with the QR code appearance. The music continues at a consistent volume until the very end, where a quick hard cut closes the audio track. The overall mix is clean with professional-grade spectral brightness and minimal noise interference."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Tech Review",
+        "Promotion / Advertisement / Indoresment"
+      ],
       "location": {
         "country": [
-          "Taiwan",
-          "USA"
+          "United States",
+          "Taiwan"
         ],
         "city": [
           "Cupertino"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video begins with a middle-aged man with glasses, a blue cap, and a white hoodie with an Apple logo standing in a brightly lit indoor room, greeting the camera with open hand gestures. (2) There is a brief cut to an outdoor scene showing a modern building under a blue sky with white clouds in Cupertino, California. (3) Returning to the indoor setting, the man continues to speak enthusiastically, with various graphics of the iPhone 17 in multiple colors (black, white, blue, yellow, green) appearing around him. (4) For the remainder of the video, the man remains the central figure, but the screen is frequently overlaid with large, colorful promotional graphics, price points ($990, $3060, $1000), and a detailed infographic listing pre-order benefits. (5) He uses frequent hand gestures to emphasize points, occasionally folding his arms or pointing towards the text overlays. (6) The video concludes with a large QR code and social media contact information displayed on screen.",
-      "audio_narrative_log": "(1) The audio begins with an upbeat, fast-paced electronic pop background track. A male voice (Tim) immediately starts speaking in a high-pitched, energetic, and professional tone, greeting the audience. (2) As the speaker discusses the iPhone 17 release, the music continues at a steady volume, acting as an energetic bed for the narration. (3) Periodic 'whoosh' and 'ding' sound effects are used to highlight the appearance of graphical overlays and price tags. (4) The speaker's delivery is rapid and continuous, with very few pauses, maintaining a persuasive and excited atmosphere throughout. (5) The background music remains consistent in tempo until the very end, where it slightly fades out as the speaker finishes his call to action.",
-      "text_narrative_log": "(1) Functional Text: Traditional Chinese subtitles appear at the bottom of the screen throughout the video, translating the speaker's dialogue. (2) Decorative/Hook Text: Large variety-show style captions appear frequently, such as 'iPhone 17 已經正式發表!' (iPhone 17 has been officially released!), '超划算' (Very cost-effective), '最聰明的決定' (The smartest decision), and 'miko 米可' (brand name). (3) Information Text: Promotional details like '預約客戶享$990保留' ($990 for pre-order retention), '$3060大禮包' ($3060 gift pack), and '$1000' discounts are prominently displayed with energetic colors and fonts. (4) Contact Text: A LINE ID '@miko168' and a QR code appear towards the end."
-    },
     "temporal_pacing_summary": {
       "sceneCutCount": 18,
-      "averageSceneDuration": 4.8,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro -> News Announcement -> Promotional Offer Breakdown -> Trade-in/Bonus Details -> CTA"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Hands only",
-        "Waist up"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main male creator appearing throughout the video.",
-      "mainCharacterDescription": "A middle-aged East Asian man with glasses, wearing a light blue flat cap and a white hoodie featuring a colorful Apple logo on the chest."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Living Room",
-          "Outdoor Street"
-        ],
-        "topography": [
-          "Plain"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "The primary background is a modern, minimalist indoor room with a gray sofa, a thin floor lamp with a golden disk, and a large window with white curtains. A brief outdoor shot shows a corporate-style building with glass windows in a park-like setting.",
-      "lightingStyle": "Bright natural indoor light and studio-quality fill lighting.",
-      "weather": "Sunny",
-      "season": "Unknown",
+      "averageSceneDuration": 4.7,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "High Saturation",
-      "cameraWork": [
-        "Static",
-        "Follow shot"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Apple",
-        "miko 米可"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Energetic and persuasive",
-        "pitch": "Medium-high",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum kit"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "Whoosh",
-        "Pop",
-        "Ding"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Problem/Solution -> Feature Breakdown -> Call to Action",
-      "mainPurpose": "The video serves as a promotional advertisement for a mobile phone retailer called 'miko' (米可). It leverages the hype surrounding the iPhone 17 release to attract customers by detailing exclusive pre-order benefits, including significant price discounts, a $3060 accessory gift pack, and trade-in bonuses, ultimately urging viewers to contact the store via LINE or visit in person.",
-      "visualEmotion": "Energetic"
+      "narrativeStructure": "List-based: Hook -> Problem/Solution -> Reward -> CTA",
+      "mainPurpose": "To promote pre-ordering the iPhone 17 at 'miko' mobile shop by highlighting exclusive discounts and gift packages. The video uses high-energy delivery and colorful graphics to create a sense of urgency and value.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -165,14 +271,11 @@
         "Explicit",
         "Full"
       ],
-      "endorsementCues": "The creator directly addresses the camera to recommend the 'miko' (米可) store, displays their logo, and provides a specific LINE ID for bookings.",
+      "endorsementCues": "The creator explicitly names '米可手機館' (miko) and explains their specific promotional offers and trade-in deals, ending with a QR code for their Line account.",
       "endorsementObject": [
         "miko 米可"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-energy tech influencer persona, frequent use of specific graphic templates for price comparisons.",
-      "freeDescribe": "The video uses typical 'KOL' (Key Opinion Leader) marketing tactics, combining a trusted tech personality with high-value promotional offers to drive sales conversion."
-    }
+    "freeDescribe": "High-quality social media marketing video using classic 'talking head' style mixed with rapid graphic inserts for visual engagement."
   }
 }

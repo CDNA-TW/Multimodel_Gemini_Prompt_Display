@@ -1,15 +1,239 @@
 {
   "videoName": "602avenue-20251004225642-784727458020409.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 75,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Mukbang",
-        "Promotion",
-        "Comedy"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A young woman with long brown hair and red cherry hair clips sits at a white table in a bright indoor setting. In front of her is an array of McDonald's food: two burgers, a large fry, and a drink. To her left is a tablet showing a decibel meter. Behind her stands a person dressed in a red jumpsuit and a black 'Squid Game' mask with a circle, holding a gold-colored pot over her head. (2) The woman attempts to eat quietly, but as she makes sounds or speaks, the masked figure strikes the pot with a ladle, causing her to flinch and laugh. (3) Several close-up shots show the interior of the burgers, detailing the thick beef patties, fried squid cutlets, and shredded cabbage with sauce. (4) The masked figure is revealed to be a young man who takes off the mask and joins the woman in eating the fries and burgers. The woman holds up the 'Korean Squid Burger' wrappers toward the camera to show the branding and details while speaking excitedly.",
+      "text_narrative_log": "(1) [Slogan]: 超過50dB就要被打. Go over 50dB, you get hit. [Logo]: @HanHan. (2) [Variety]: (被自己叫聲嚇到). (3) [Variety]: (士兵傻眼). (4) [Variety]: (過於投入了??). (5) [Subtitle]: 今天要吃麥當勞. [Variety]: (快速). [Variety]: 等待. (6) [Subtitle]: 這是韓系新品韓味雙牛魷魚堡. (7) [Variety]: (憋笑). (8) [Subtitle]: 真的好吃!!! 兩片牛肉排配上魷魚排 根本絕配! [Variety]: (放棄). (9) [Subtitle]: 很爽 這個吃得到魷魚欸 是真的魷魚! 而且韓式特製黑醬OTOKI帶一點酸甜微辣 真的好好吃 這個的靈魂就是高麗菜絲 脆脆的超加分. (10) [Slogan]: 海派魷魚祭 限量. [Subtitle]: 從8月27號到10月7號 第一波開賣「韓味雙牛魷魚堡」與「韓味魷魚堡」 想吃到韓國當地的魷魚漢堡嗎? 那一定要快點衝一波! 連搭配的薯條也好好吃.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 female main creator and 1 male actor appearing as a guard and then himself.",
+        "mainCharacterDescription": "A young Asian woman with long brown hair, wearing a white and green t-shirt and red cherry-shaped hair clips."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A simple indoor room with a white wall and a light-colored wooden table cluttered with fast food items and a digital tablet.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium close-up",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Insert shot"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Fast food / burger / fries / pizza",
+          "Beverage / juice"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Tablet"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "McDonald's"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 1,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Humorous"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter"
+        ],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Food Bite / Crunch",
+          "Metal  Bump "
+        ],
+        "incidentalNoiseIntensity": 3,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Cartoon / Comedy SFX",
+          "Impact / Hit SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) High-pitched female narration in Mandarin starts immediately with high arousal and energetic pitch variability. An upbeat, electronic synth-based comedy track plays in the background. (2) A sharp, loud metallic 'clang' (simulating a pot being struck) occurs suddenly, followed by the woman's surprised laugh. (3) Sound of a crisp, crunchy bite into food is clearly audible, followed by exaggerated chewing sounds. (4) The woman's voice becomes faster and more descriptive, explaining the food's taste, while the rhythmic BGM continues and occasional metallic clangs punctuate her loud reactions. (5) In the final phase, the male voice briefly appears, sounding cheerful, as the woman continues her high-density promotional speech."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Food Review",
+        "Comedy",
+        "Promotion / Advertisement / Indoresment"
+      ],
       "location": {
         "country": [
           "Taiwan"
@@ -19,147 +243,20 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman sits at a wooden table covered with McDonald's burger boxes, fries, and drinks. Behind her, a person stands wearing a red jumpsuit and a black mask with a white circle, holding a gold-colored metal pot over her head. A tablet on the left displays a sound frequency meter. (2) The woman eats a burger, then suddenly widens her eyes and covers her mouth with her hands. The masked figure swings the pot, hitting her on the head. (3) Close-up shots show the interior of a burger with two beef patties and a breaded squid patty. (4) The woman continues to eat various items, including fries and another burger, frequently looking at the tablet and giving thumbs-up gestures. (5) She turns around and pulls the mask off the figure behind her, revealing a young man who then begins eating the food with her. (6) The video ends with her holding up a wrapped burger toward the camera and pointing at it.",
-      "audio_narrative_log": "(1) The sound begins with crisp chewing and swallowing noises. This is interrupted by a sharp, high-pitched female scream, immediately followed by a loud, resonant metallic 'clang' as a pot hits a surface. (2) Upbeat, fast-tempo electronic background music with a strong rhythmic beat begins. (3) Sounds of rustling paper bags and the crunching of fried food are layered over the music. (4) A female voice speaks rapidly in a high-pitched, enthusiastic tone, occasionally dropping to a whisper. (5) The video concludes with the same upbeat music and a final enthusiastic vocal sign-off.",
-      "text_narrative_log": "(1) \"超過50dB就要被打\" (If it exceeds 50dB, you will be hit) - Functional hook text describing the challenge rules. (2) \"(被自己叫聲嚇到)\" (Scared by her own scream) - Decorative caption adding humor. (3) \"這是韓系新品 韓味雙牛魷魚堡\" (This is a new Korean-style product: Korean Double Beef Squid Burger) - Functional text identifying the product. (4) \"真的好吃!\" (Really delicious!) - Decorative emotional text. (5) \"從8月27號到10月7號\" (From August 27 to October 7) - Functional text stating the promotion period. (6) \"限量、售完為止\" (Limited quantity, while supplies last) - Functional disclaimer text."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 24,
-      "averageSceneDuration": 3.1,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Challenge Intro -> Reaction/Scream -> Product Demo/Eating Montage -> Promo Details"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Waist up"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "1 main female creator eating, 1 male dressed as a soldier behind her.",
-      "mainCharacterDescription": "A young woman with long brown hair, wearing a white and green long-sleeved shirt with red cherry hair clips."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Studio"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A simple indoor setting with a plain light-colored wall, a wooden table, and a tablet displaying technical graphs.",
-      "lightingStyle": "Bright studio lighting",
-      "weather": "None",
-      "season": "None",
+      "sceneCutCount": 22,
+      "averageSceneDuration": 3.4,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Bright and Saturated",
-      "cameraWork": [
-        "Static",
-        "Close-up",
-        "Follow shot"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Burger",
-        "French Fries",
-        "Soda"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Tablet",
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "麥當勞"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Fragmented",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "Medium"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Energetic and humorous",
-        "pitch": "Medium-high",
-        "loudness": "High",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drums"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Metallic clang",
-        "Pop sound",
-        "Cartoon SFX"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Challenge -> Reward -> Promotion",
-      "mainPurpose": "This video serves as a creative advertisement for McDonald's limited-time Korean-style burgers. It uses a 'Squid Game' parody (the noise challenge) to grab attention, showcases the product's ingredients through close-ups and ASMR eating sounds, and provides specific promotional dates to encourage immediate purchase.",
-      "visualEmotion": "Energetic and Humorous"
+      "narrativeStructure": "List-based: Hook -> Interaction/Skit -> Detailed Review -> Promotional Info",
+      "mainPurpose": "The video uses a humorous 'Squid Game' themed challenge (decibel limit) to engage viewers while reviewing and promoting McDonald's limited-edition 'Seafood Squid' burger series in Taiwan.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "informative"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -167,14 +264,11 @@
         "Explicit",
         "Full"
       ],
-      "endorsementCues": "Direct display of McDonald's packaging, detailed close-ups of specific menu items, and vocal/textual mention of promotional dates and product names.",
+      "endorsementCues": "Direct display of McDonald's packaging, logo, and verbal promotion of specific campaign dates and items.",
       "endorsementObject": [
-        "麥當勞"
+        "McDonald's"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Noise challenge with sound meter, Squid Game soldier costume, high-energy editing.",
-      "freeDescribe": "The video effectively blends popular culture trends (Squid Game) with the Mukbang genre to create a high-engagement promotional piece."
-    }
+    "freeDescribe": "The video effectively combines viral social trends (Squid Game parody) with traditional food blogging to create a high-retention promotional clip."
   }
 }

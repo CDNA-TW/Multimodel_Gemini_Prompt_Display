@@ -1,164 +1,275 @@
 {
   "videoName": "2uncle987-20251031094705-1934733294104947.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 36,
-      "aspectRatio": "9:16",
+      "videoDuration": 37.0,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
+      "withRealPeople": true,
+      "visual_narrative_log": "(1) The video opens with a medium shot of a young woman on all fours on a light-colored wooden floor. She is wearing a horizontally striped red and white t-shirt and dark denim shorts. Her dark hair hangs down as she vigorously scrubs the floor with a small pink cloth in her right hand. Behind her is a large, plush off-white sectional sofa with several large cushions. The room is brightly lit with warm, indoor lighting, suggesting a domestic living room environment. (2) A cut transitions to the woman sitting comfortably on the sofa, tucked under a white textured blanket. She is holding a clear plastic container filled with golden-brown egg rolls. She takes a bite of one, chewing with a relaxed and slightly mischievous expression. At the top of the frame, large black text with a white outline appears. The background shows a modern apartment interior with built-in shelving and soft ambient lighting. (3) The scene shifts to the woman standing in front of a large, open built-in wardrobe. She is holding two different light blue and black short-sleeved shirts on white plastic hangers, presenting them to the camera. She speaks with an animated expression, gesturing with her hands. At the bottom right, a small green and pink graphic overlay with text appears briefly. The lighting is bright and even, highlighting the textures of the clothing. (4) Another cut shows the woman in the center of the living room, now wearing dark sunglasses and a loose purple t-shirt. She is holding a black remote control like a makeshift microphone, singing and dancing with high energy. She swings a black garment around her head while moving her body rhythmically. An iMac on a desk in the background is visible. (5) A rapid digital glitch effect with horizontal lines and color distortion flashes across the screen for less than a second. (6) The final scene cuts back to the woman on the wooden floor, once again on all fours. Her expression is now one of mock panic as she scrubs the floor even more vigorously. She looks directly into the lens with wide eyes and a forced smile, eventually crawling rapidly toward the camera until her face fills the frame.",
+      "text_narrative_log": "(1) [Subtitle]: 當老公獨旅不在家. (2) [Subtitle]: 一模一樣沒在穿. [Variety]: 帽福季 +1. (3) [Subtitle]: 三宅一生沒在穿. [Variety]: 帽福季 +1.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face",
+          "Hands only",
+          "Face close-up"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main female creator appearing throughout the video.",
+        "mainCharacterDescription": "A young woman with long black hair wearing a striped t-shirt and denim shorts; later she wears a purple t-shirt and sunglasses."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Living Room",
+          "Office / Workplace"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A modern, minimalist home interior featuring a large white sectional sofa, a wooden coffee table, a built-in closet, and a workspace with an iMac.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Medium close-up",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "High angle"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Graphic transition",
+          "Meme-style edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Dessert / cake / cookies",
+          "Snack / chips / candy"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Desktop computer / monitor",
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Nike",
+          "Lee"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Comedic/Exaggerated"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 0,
+        "female_singer_count": 1,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "Traditional Chinese"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Percussion",
+          "Keyboard"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Food Bite / Crunch",
+          "Clothing / Fabric Rustle"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Ding / Bell SFX",
+          "Cartoon / Comedy SFX",
+          "Glitch / Digital Distortion SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 3,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 5,
+        "speechMusicOverlap": 4,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Stingers"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a light, rhythmic scraping sound of a cloth rubbing against a wooden surface. The acoustic texture is clean. An upbeat acoustic guitar strumming maintains a moderate tempo, establishing a domestic and focused atmosphere. (2) A cheerful female voice begins singing a melodic tune in Mandarin. The vocal delivery is playful and clear. The BGM evolves into a fuller pop arrangement with a steady drum beat. A distinct, crispy crunching sound is heard as she eats. (3) The singing stops, and the woman speaks in an excited, high-arousal tone. She exclaims a phrase in Mandarin, followed by a sharp, digital 'ding' sound effect for emphasis. The BGM ducks slightly but remains rhythmic. (4) The audio transitions into a high-energy rock-pop sequence with distorted electric guitar riffs and a powerful drum rhythm. The female vocals return, shouting with high intensity to convey celebration and abandonment. The spectral brightness increases. (5) A short, jarring sound of digital static and electronic hum occurs for less than a second, marking a clear boundary and interruption to the music. (6) A comedic, high-pitched vocal meme sound begins looping rapidly. The music shifts to a fast-paced 'chase' style with bouncy synth notes. Frantic exclamations and rapid rhythmic hand slaps on the floor are audible, concluding with a comedic flourish."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
       "videoGenre": [
-        "Vlog",
         "Comedy",
+        "Meme / Trend",
         "Lifestyle"
       ],
-      "withRealPeople": true,
       "location": {
         "country": [
-          "Unknown"
+          "Taiwan"
         ],
         "city": [
           "Unknown"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video begins with a woman in a striped t-shirt and denim shorts on all fours, wiping a wooden floor with a pink cloth; she has a neutral to slightly tired expression. (2) The scene cuts to her sitting on a large white sectional sofa, wrapped in a blanket, eating snacks from a clear plastic tray while looking content. (3) She is then seen standing in front of a walk-in closet, pulling out various garments on hangers and tossing them aside with a playful, dismissive gesture. (4) The scene shifts to her wearing sunglasses and holding a microphone, dancing and singing energetically on the sofa. (5) Finally, the camera shows a view from behind a closing door, then cuts back to the woman who is now frantically wiping the floor again with a panicked and wide-eyed expression.",
-      "audio_narrative_log": "(1) An upbeat, mid-tempo Mandopop song with female vocals begins. (2) The music continues at a steady volume while the sound of chewing or soft plastic rustling is heard during the couch scene. (3) The female voice speaks in a conversational, slightly humorous tone during the closet scene, accompanied by the sound of hangers clicking. (4) The audio transitions to a high-energy, louder dance track with energetic singing and rhythmic beats. (5) A sharp 'door opening' sound effect occurs, followed by a popular 'Barbecue' meme song which is a fast-paced, high-pitched electronic track with repetitive panicked vocals.",
-      "text_narrative_log": "(1) '當老公獨旅不在家' (When husband is on a solo trip and not at home) appears as a white hook at the top center. (2) '衣某一樣沒在穿' (Clothing I don't wear anyway) and '三宅一生沒在穿' (Issey Miyake I don't wear) appear as subtitles in the middle. (3) '惜福季+1' (Blessing season +1) appears as a small decorative caption. (4) '哇了哇了哇了 BBQ了' (Oh no, it's barbecued/ruined) and '真的完蛋了' (It's really over) appear as functional subtitles at the end."
-    },
     "temporal_pacing_summary": {
       "sceneCutCount": 6,
-      "averageSceneDuration": 6.0,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro (Pretending to clean) -> Middle (Being lazy and messy) -> Outro (Panic cleaning when husband returns)"
+      "averageSceneDuration": 6.16,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
     },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 female main character throughout the video.",
-      "mainCharacterDescription": "A young Asian woman with long dark hair, wearing a red and white striped t-shirt and dark blue denim shorts."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Living Room",
-          "Closet"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A modern, minimalist apartment with a large white sofa, light-colored wooden floors, a wooden coffee table, and a well-organized walk-in closet with many clothes.",
-      "lightingStyle": "Bright, natural indoor lighting.",
-      "weather": "Unknown",
-      "season": "Unknown",
-      "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "Medium",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Handheld"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Snacks",
-        "Bread sticks"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone",
-        "Monitor",
-        "Microphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "RVCA",
-        "Issey Miyake"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Fragmented",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Humorous and high-pitched",
-        "pitch": "High",
-        "loudness": "Medium to High",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Pop and Electronic Meme Music",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Copyrighted Song",
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Door opening",
-        "Meme sounds"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Circular: Hook -> Montage -> Reaction",
-      "mainPurpose": "To create a humorous relatable situation regarding the hidden behavior of a spouse when left alone at home, contrasting a facade of productivity with a reality of leisure and messiness.",
-      "visualEmotion": "Humorous, Energetic, Relatable"
+      "narrativeStructure": "Montage: Context -> Sequence of Actions -> Punchline",
+      "mainPurpose": "The video uses a humorous 'expectation vs. reality' framework to show the freedom a wife feels when her husband is away, contrasting her duty-bound cleaning at the start with her relaxed indulgence and celebration, only to return to a frantic state of cleaning at the end.",
+      "visualEmotion": [
+        "humorous",
+        "energetic",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -170,9 +281,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Use of the 'Barbecue' meme song for the panic scene.",
-      "freeDescribe": "The video relies heavily on Chinese internet culture and common tropes of 'married life' humor."
-    }
+    "freeDescribe": "The video follows a popular short-form social media comedy trend using high-energy music and contrasting visual states to generate engagement."
   }
 }

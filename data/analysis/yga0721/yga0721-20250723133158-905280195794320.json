@@ -1,162 +1,266 @@
 {
   "videoName": "yga0721-20250723133158-905280195794320.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 88,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Product Promotion",
-        "Vlog"
-      ],
+      "videoDuration": 88.5,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) The video opens with a man in a black polo shirt and white over-ear headphones sitting in a studio. He sits behind a professional black microphone and gestures with his hands toward two wooden trays on the table filled with various dried fruits and nuts. The background features shelves packed with colorful character figurines and toys under warm studio lighting. (2) As he begins listing items, large, stylized yellow and white text overlays pop up in the center of the frame, occasionally flashing. He gestures emphatically, pointing upwards and outwards while holding a white piece of paper. (3) He picks up and displays a peach-colored snack bag labeled 'EATON' to the camera. The camera zooms in slightly as he points to the brand logo and the ingredients listed on the back. (4) A large brown wicker picnic basket is brought into the frame from the right. He holds it up, demonstrating its size and handle. (5) A woman in a grey sweatshirt appears on the right side of the frame, interacting with the man. They hold up small yellow tongs shaped like hands and a digital painting kit. The scene switches between close-ups of the items and medium shots of the two hosts. (6) He continues showing various 'EATON' snack bags and gift items, including a framed peach painting, while large promotional text detailing gift tiers appears at the bottom of the screen.",
+      "text_narrative_log": "(1) [Logo]: ON AIR. [Variety]: 嘎阿543. [Subtitle]: 來我跟你唱名一下. (2) [Variety]: 蘋果. [Variety]: 蔓越莓. [Variety]: 草莓. [Variety]: 葡萄. [Variety]: 蜜糖柚皮. [Variety]: 番茄. [Variety]: 楊桃. [Variety]: 檸檬. [Variety]: 芭樂. [Variety]: 紅心芭樂. [Variety]: 情人果. (3) [Slogan]: 台灣在地小農. (4) [Variety]: 支持!! 在地小農. (5) [Slogan]: 嘎！哥！限定組合. (6) [Slogan]: $1799 一起走走野餐組. [Slogan]: 8包1799 限量組合大禮包. (7) [Slogan]: 消費滿1000 贈小手食物夾. (8) [Slogan]: 消費滿1500 贈數字油畫. (9) [Slogan]: 消費滿2000 贈葡萄乾一包. (10) [Slogan]: 滿4000 再送水蜜桃乾一包.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 male main creator in black shirt, 1 female guest in grey sweatshirt appearing later.",
+        "mainCharacterDescription": "An East Asian male with short brown hair, wearing a black button-up polo shirt and large white Apple AirPods Max headphones."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A professional-looking indoor studio with a white wall behind the creator. The shelves behind him are densely populated with collectible figurines, vinyl toys, and 'Bearbrick' style characters, creating a geek/collector aesthetic.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Jump cut",
+          "Graphic transition"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Fruit",
+          "Snack / chips / candy"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Microphone / lavalier mic",
+          "Headphones / earbuds"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "EATON",
+          "Apple"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 1,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter",
+          "Applause"
+        ],
+        "crowdNoiseIntensity": 2,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Plastic / Bag Rustle"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Pop / Bubble SFX",
+          "Whoosh / Transition SFX",
+          "Applause / Laugh Track SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A male voice speaks rapidly and enthusiastically over a rhythmic, electronic-pop BGM. He lists various fruits with high vocal energy and rising intonations. (2) A sharp 'whoosh' SFX accompanies the appearance of graphic text. The speaker's volume is projected and clear, characteristic of professional studio recording. (3) A canned laughter SFX triggers when the male speaker makes a joke about the origin of the fruit, followed by a brief 'cheering' applause track. (4) The rustle of a plastic snack bag is audible as he moves the 'EATON' package near the microphone. (5) A female voice enters with high-pitched excitement ('Aww, so cute!'), reacting to a small gift item, followed by another short laughter SFX burst. (6) The male speaker concludes by detailing promotional prices and gift tiers, maintaining a steady, fast speech rate while the BGM loops consistently in the background."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Promotion / Advertisement / Indoresment",
+        "Product Showcase"
+      ],
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "Unknown"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A male creator in a black shirt and white headphones sits behind a microphone, holding a paper list and gesturing enthusiastically. (2) Chronological sequence showing various dried fruit snacks on wooden trays, followed by the creator holding up 'EATON' branded snack packaging. (3) A female co-host in a striped shirt appears, holding a pair of novelty hand-shaped food tongs. (4) The man displays a woven picnic basket and a numbered oil painting kit. (5) The man holds multiple bags of snacks toward the camera while talking.",
-      "audio_narrative_log": "(1) Upbeat, high-tempo electronic background music plays. A male voice speaks with high energy, rhythmically listing fruit names in Mandarin. (2) Sound effects like 'pop' and 'ting' occur during text overlays, followed by a burst of canned applause SFX. (3) A female voice enters with a bright tone, interacting with the male speaker about gift items. (4) The music and vocals continue at a high-density pace until the end.",
-      "text_narrative_log": "(1) Functional Text: Mandarin subtitles translate the spoken content throughout. (2) Decorative Text: '可嘎 543' branding in the corner; large colorful labels for fruit types like '蘋果', '蔓越莓', '草莓'. (3) Promotional Text: '台灣在地小農' (Taiwan local farmers), '$1799 一起走走野餐組' (Picnic set price), and tiered gift labels like '消費滿1000 贈小手食物夾' (Gift for $1000 spend)."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 42,
-      "averageSceneDuration": 2.1,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Intro -> Product Listing -> Bundle Promotion -> Tiered Gift Reveal"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "1 male creator, 1 female co-host",
-      "mainCharacterDescription": "The male creator is wearing a black polo shirt and white AirPods Max. The female co-host wears a black and white horizontal striped long-sleeve shirt."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Studio"
-        ],
-        "topography": [
           "None"
         ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A studio setting with an 'ON AIR' sign, shelves filled with numerous figurines and collectibles (Funko Pops, etc.).",
-      "lightingStyle": "Bright studio lighting",
-      "weather": "Indoor",
-      "season": "Unknown",
-      "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Vibrant",
-      "cameraWork": [
-        "Static",
-        "Zoom"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Dried Fruit",
-        "Nuts",
-        "Snacks"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Microphone",
-        "Headphones",
-        "Laptop"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "EATON",
-        "Apple"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and persuasive",
-        "pitch": "Moderate-high",
-        "loudness": "High",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Applause",
-        "Pop sounds"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 4.9,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Evidence/Product Listing -> Value Proposition -> Call to Action via Incentives",
-      "mainPurpose": "The video aims to drive sales for a limited edition snack bundle '嘎哥限定組合' from the brand EATON. It utilizes the creator's high energy to showcase the variety of Taiwanese-sourced dried fruits and builds purchase motivation through a tiered gift system including novelty tongs, a painting kit, and extra snack packs.",
-      "visualEmotion": "Energetic"
+      "narrativeStructure": "List-based: Hook -> Product Feature Listing -> Limited Offer Announcement -> Tiered Gift Incentive.",
+      "mainPurpose": "The video is a promotional advertisement for a special snack gift set from the brand 'EATON', specifically curated by the creator 'Ga Ge'. It aims to persuade viewers to purchase a limited edition $1799 bundle by highlighting local ingredients and offering escalating free gifts (tongs, painting kits, extra snacks) based on total spending amount.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -164,14 +268,11 @@
         "Explicit",
         "Full"
       ],
-      "endorsementCues": "Direct display of EATON branded packaging, explicit pricing mention, and specific gift incentives for total purchase amounts.",
+      "endorsementCues": "Direct recommendation of the product, display of the brand name 'EATON', and detailed price/promotional information provided by the host.",
       "endorsementObject": [
         "EATON"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-energy variety show style editing, variety-show style text pop-ups, 'Ga Ge' branding.",
-      "freeDescribe": "Typical influencer marketing in Taiwan, focusing on high CP (Cost-Performance) value and limited-time bundles to create urgency."
-    }
+    "freeDescribe": "High-energy commercial edit with heavy use of variety-show style on-screen text to maintain viewer engagement during a product pitch."
   }
 }

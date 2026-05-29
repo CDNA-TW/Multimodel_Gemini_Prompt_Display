@@ -1,175 +1,278 @@
 {
   "videoName": "cocowine0205-20251202195506-898126756139588.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 40,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Shopping",
-        "Promotion"
-      ],
+      "videoDuration": 42,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "Unknown"
+      "visual_narrative_log": "(1) Two young women are standing inside a brightly lit Costco wholesale warehouse. One woman is wearing a black off-the-shoulder dress with long dark hair, and the other is wearing a black top paired with a white fluffy bucket hat. They are holding two large Sanrio character plush toys, specifically Kuromi and Hello Kitty, which are bundled together with a white strap. Behind them is a large wooden display bin overflowing with numerous similar plush toys. (2) The women interact with the plush toys while speaking enthusiastically to the camera. The woman in the hat points toward the toys while the other holds them up to show their size and texture. The environment features industrial warehouse shelving and signs indicating BLACK FRIDAY sales in the background. Their facial expressions are cheerful and expressive as they communicate the deal. (3) A closer shot focuses on the details of the plushies. Hello Kitty is seen wearing a yellow and pink outfit, while Kuromi features a purple hood with a small grey eye mask accessory. The women's hands are visible as they point out these specific features. The background remains consistent with the retail store setting, showing other shoppers faintly in the distance. (4) The two women continue their high-energy presentation, laughing and gesturing broadly. Text overlays in Traditional Chinese appear on the screen to highlight the price and correct a verbal mistake made during the recording. They look directly at the camera with wide smiles, emphasizing the value of the purchase before the clip concludes.",
+      "text_narrative_log": "(1) [Logo]: COSTCO WHOLESALE. [Variety]: 黑五好康. [Subtitle]: 大家搶著買 三麗鷗18吋趴趴娃娃 竟然不用500元. (2) [Variety]: 口誤修正：一個500元才對!. (3) [Logo]: @HanHan.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Head and shoulders"
         ],
-        "city": [
-          "None"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video starts inside a warehouse-style store with two women standing in front of a large pile of plush toys. One woman wears a white bucket hat and a black off-the-shoulder dress, and the other has long dark hair in a dark top. They are holding oversized Sanrio plushies (Hello Kitty and Kuromi). (2) The camera zooms in as they handle the plushies, showing the 'Black Friday' signage in the background. The women smile, point at the toys, and look at the camera enthusiastically. (3) They continue to hold and hug the toys, moving them around to show different characters while gesturing towards the pricing information displayed on-screen.",
-      "audio_narrative_log": "(1) An enthusiastic male voice provides high-energy narration over an upbeat, fast-paced electronic background track. (2) As the narrator speaks about the price and value of the plushies, the two women on screen chime in with brief laughter and affirmative vocalizations. (3) The background music remains constant throughout, while faint ambient warehouse noise (distant voices and movement) is occasionally audible under the main audio tracks.",
-      "text_narrative_log": "(1) Functional Text: Subtitles at the bottom translate the spoken dialogue about the Sanrio plushies and their price. (2) Decorative/Hook Text: Large, colorful titles appear at the top and bottom including 'COSTCO WHOLESALE', 'Black Friday Deal' (in Chinese characters), and 'Everyone is rushing to buy Sanrio 18-inch lying dolls - surprisingly less than 500 dollars'. (3) Correction Text: A specific overlay appears in the middle of the video stating 'Slip of tongue correction: 500 dollars each is correct!' in a white box with red and black text."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 12,
-      "averageSceneDuration": 3.3,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Intro Hook -> Product Showcase -> Price Breakdown -> Recommendation"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 3,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "2 main female creators in the foreground, 1 blurry passer-by in the background aisle.",
-      "mainCharacterDescription": "One woman is wearing a white NY bucket hat and a black ruffled dress; the second woman has long straight dark hair and is wearing a dark, elegant top."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Warehouse Store"
+        "crowdLevel": [
+          "Duo"
         ],
-        "topography": [
-          "None"
+        "countingEvidence": "2 main female hosts/creators.",
+        "mainCharacterDescription": "One woman with long dark hair in a black off-the-shoulder dress; one woman wearing a white fluffy bucket hat and a black top."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Supermarket / Warehouse Store"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "The interior of a Costco warehouse featuring industrial shelves, a large bin of plush toys, and Black Friday promotional signs.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
         ]
       },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A typical Costco warehouse interior with high ceilings, industrial lighting, and shelves stocked with various products, specifically a large bin filled with plush toys and Black Friday promotional signs.",
-      "lightingStyle": "Bright indoor warehouse lighting",
-      "weather": "Indoor",
-      "season": "Winter (inferred from Black Friday context)",
-      "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Chinese",
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Graphic transition"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
           "English"
         ],
         "isSubtitled": true
       },
-      "colorTone": "Bright and High Saturation",
-      "cameraWork": [
-        "Static",
-        "Follow shot"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "Cat (Hello Kitty Plush)",
-        "Rabbit (My Melody/Kuromi Plush)"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone (implied for filming)"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "COSTCO",
-        "Sanrio"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut with continuous background music",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 2,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Energetic, excited, and persuasive",
-        "pitch": "High (females) and Medium (male narrator)",
-        "loudness": "Loud",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Plush / decoration / toy animal"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Microphone / lavalier mic"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Costco",
+          "Sanrio"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum kit"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Store background"
-      ],
-      "audioQuality": "Field"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 0,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly",
+          "Casual"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 124,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Synthesizer",
+          "Electronic",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Ding / Bell SFX",
+          "Whoosh / Transition SFX"
+        ],
+        "soundEffectsIntensity": 2,
+        "soundEffectsCoverage": 1
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) The segment opens with a high-pitched, energetic female voice delivering a rapid-fire introduction about a Costco sale. The background music is a medium-tempo, upbeat electronic pop track with clear synthesizer melodies and a steady rhythmic beat. The acoustic environment is clean with a very faint indoor room tone typical of a large retail space. (2) A second female voice enters, sharing a similar high arousal and friendly tone. They engage in a fast-paced dialogue, punctuated by the rhythmic pulse of the background music. A subtle digital ding sound effect triggers as a text correction appears on the screen, indicating a post-production edit to highlight specific pricing information. (3) The conversation remains lively as both speakers discuss the specific character names and the bargain price. The vocal prosody is characterized by frequent rising intonations and a high degree of pitch variability, conveying excitement. The background music remains at a consistent volume, providing a steady energetic bed beneath the clear, well-articulated speech. (4) The recording concludes with both women laughing and finishing their enthusiastic pitch. The vocal intensity remains high until the very end, where the speech density tapers off slightly. The background music maintains its tempo and texture throughout the final seconds, eventually fading out as the video terminates. The overall mix is well-balanced with high signal-to-noise ratio."
     }
   },
-  "high_inference_interpretations": {
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Shopping",
+        "Lifestyle",
+        "Product Review"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 8,
+      "averageSceneDuration": 5.25,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Product Feature -> Price Value -> Social Proof",
-      "mainPurpose": "The video serves as a promotional shopping guide, specifically highlighting a Black Friday discount on Sanrio plush toys at Costco. By utilizing high-energy narration, fast-paced editing, and clear price comparisons, it aims to drive urgency and consumer interest in visiting the store for this specific deal.",
-      "visualEmotion": "Energetic and Joyful"
+      "narrativeStructure": "Linear: Hook -> Information -> Correction -> Conclusion",
+      "mainPurpose": "To promote a Black Friday deal on Sanrio plush toys at Costco. The creators use high energy, physical product demonstration, and price anchoring to encourage viewers to visit the store and make a purchase.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "informative"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
-        "Implicit/Integrated"
+        "Explicit",
+        "Full"
       ],
-      "endorsementCues": "Detailed pricing information, specific location (Costco), and positive product demonstration.",
+      "endorsementCues": "The hosts are explicitly showcasing a product from a specific brand (Sanrio) sold at a specific retailer (Costco) during a named sales event (Black Friday).",
       "endorsementObject": [
-        "Costco Wholesale",
+        "Costco",
         "Sanrio"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-speed Mandarin narration with variety-show style text graphics.",
-      "freeDescribe": "The video heavily relies on visual 'anchors' like the Costco logo and Sanrio characters to immediately establish trust and interest with the audience."
-    }
+    "freeDescribe": "The video effectively utilizes standard social-media short-form marketing techniques, including high-energy delivery, text overlays for emphasis, and direct engagement with the product."
   }
 }

@@ -1,157 +1,255 @@
 {
   "videoName": "0_shufen-20250912002603-1449114766806030.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 24,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Commentary",
-        "Lifestyle"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) The video starts with a close-up of a young woman with long black hair, wearing a white leaf-patterned top. She is positioned against a gray upholstered headboard. A pink bunny ear cartoon filter with a bow is overlaid on her head. Her facial expression is calm and neutral as she begins to speak. (2) As she continues speaking, she smiles and looks directly into the camera lens. Her eyes are bright and expressive. Small white dashed marks appear under the bunny ear filter on her cheeks. A translucent volume slider UI element is briefly visible in the lower center of the frame. (3) The woman maintains her eye contact with the camera, tilting her head slightly to the left and right while talking. Her mouth movements are synchronized with the speech. The background lighting is soft and consistent, highlighting her features clearly against the neutral background.",
+      "text_narrative_log": "(1) [Subtitle]: 來台灣有被搭訕嗎. (2) [Variety]: 去台灣. (3) [Variety]: 被搭訕. (4) [Variety]: 有一個. (5) [Variety]: 歪果仁. (6) [Variety]: 以為我是. (7) [Variety]: 台灣女生. (8) [Variety]: 然後. (9) [Variety]: 我是馬來西亞人. (10) [Variety]: 他有點. (11) [Variety]: 驚訝. (12) [Variety]: 之後我們. (13) [Variety]: 交換IG. (14) [Variety]: 我美食的帳號. (15) [Variety]: 嘿嘿. (16) [Variety]: 我對你們多好. (17) [Variety]: 我的IG. (18) [Variety]: 他沒有欸. (19) [Variety]: 哈哈.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Head and shoulders",
+          "Face",
+          "Partial body"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main female creator",
+        "mainCharacterDescription": "A young woman with long dark hair, wearing a white top with green leaf patterns and a pink cartoon bunny filter."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A light-colored, padded upholstered headboard or wall panel in an indoor setting.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Casual"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 2,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 5,
+        "valence": 7,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Lo-fi"
+        ],
+        "tempoBPM": 90,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Percussion",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Pop / Bubble SFX"
+        ],
+        "soundEffectsIntensity": 2,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 2,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A clear female voice with a friendly and casual tone begins speaking in Mandarin. The speech rate is moderate and natural, with clear articulation and stable pitch. A soft, steady electronic background track with a lo-fi pop beat and synthesizer pads plays continuously at a lower volume. (2) A subtle \"pop\" sound effect, likely an intentional post-production addition, occurs as the first few text overlays appear on the screen. The voice remains consistent in its intensity and friendliness, with no significant ambient noise interference, suggesting a controlled indoor recording environment. (3) The speaker's voice rises slightly in pitch and becomes more playful towards the end of the narrative. She lets out a short, light laugh that is captured clearly. The background music maintains its tempo and volume until the clip abruptly ends without a fade-out."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Personal Talk",
+        "Storytelling"
+      ],
       "location": {
         "country": [
-          "Unknown"
+          "Taiwan"
         ],
         "city": [
           "None"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video starts with a close-up of a young woman lying back on a grey textured surface, wearing a green and white patterned bikini top. A digital filter of pink bunny ears and a bow is applied to her head, with small white dots on her cheeks. (2) She looks directly into the camera, smiling and talking while gesturing slightly with her head. A decorative question box with a mouse cursor icon appears over her chest area. (3) Throughout the video, she maintains eye contact, her facial expressions shifting between storytelling and laughing at the end.",
-      "audio_narrative_log": "(1) Upbeat, medium-tempo lo-fi background music with a bouncy electronic melody starts immediately. (2) A young female voice begins speaking in a friendly, conversational tone, narrating a story in Mandarin Chinese. The music remains at a consistent volume behind the vocals. (3) The voice ends with a light, cheerful laugh as the music continues until the clip cuts off.",
-      "text_narrative_log": "(1) '去台灣' (Going to Taiwan) - Hook text, neutral tone. (2) '被搭訕' (Being approached) - Hook text, slightly curious tone. (3) '來台灣有被搭訕嗎' (Were you approached when you came to Taiwan?) - Functional question box text. (4) '有一個 歪果仁' (There was a foreigner) - Narrative subtitle. (5) '可能他以為我是台灣女生吧' (Maybe he thought I was a Taiwanese girl) - Narrative subtitle. (6) '然後我跟他說我是馬來西亞人' (Then I told him I'm Malaysian) - Narrative subtitle. (7) '他有點驚訝' (He was a bit surprised) - Narrative subtitle. (8) '之後我們交換IG' (After that we exchanged IG) - Narrative subtitle. (9) '我給他我美食的帳號' (I gave him my food account) - Narrative subtitle. (10) '嘿嘿' (Hehe) - Decorative emotional text. (11) '我對你們多好' (See how good I am to you) - Playful narrative subtitle. (12) '哈哈' (Haha) - Decorative laughter text."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 1,
-      "averageSceneDuration": 24.0,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Constant talking head video narrating a story with text overlays."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full face",
-        "Shoulders",
-        "Chest"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 female main creator clearly visible in frame.",
-      "mainCharacterDescription": "A young woman with long dark hair, wearing a white and green leafy print bikini top and a pink bunny ear filter."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Bedroom"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A grey textured fabric or headboard behind the subject.",
-      "lightingStyle": "Soft indoor lighting, possibly natural or ring light.",
-      "weather": "None",
-      "season": "None",
+      "sceneCutCount": 0,
+      "averageSceneDuration": 24,
       "editingPace": "Slow",
-      "textOverlay": {
-        "density": "Medium",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural with a slight beauty filter softening the skin.",
-      "cameraWork": [
-        "Static"
-      ]
+      "isNarrativeShift": false
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "None",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Friendly, storytelling, and humorous",
-        "pitch": "Medium-high",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Lo-fi Upbeat",
-      "bgmBPM": 105,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Narrative -> Punchline",
-      "mainPurpose": "To share a playful personal anecdote about a social encounter in Taiwan, highlighting the creator's Malaysian identity and her humorous way of handling being approached by giving out a food-themed Instagram account instead of her personal one.",
-      "visualEmotion": "Cheerful and Humorous"
+      "narrativeStructure": "Linear: Hook -> Narrative -> Conclusion",
+      "mainPurpose": "The video is a casual personal talk where the creator shares a story about being approached by a foreigner in Taiwan who thought she was Taiwanese. She clarifies she is Malaysian and jokingly reveals that she shared her food-focused Instagram account with him instead of her personal one.",
+      "visualEmotion": [
+        "warm",
+        "humorous"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -163,9 +261,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Usage of pink bunny ear filter and friendly, intimate address to her audience.",
-      "freeDescribe": "The video uses a popular vlog format where a creator answers a viewer's question while lying down in a relaxed setting."
-    }
+    "freeDescribe": "Simple portrait vlog with AR filters and stylized text overlays typical of short-form social media interactions."
   }
 }

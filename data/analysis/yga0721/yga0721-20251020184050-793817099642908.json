@@ -1,160 +1,266 @@
 {
   "videoName": "yga0721-20251020184050-793817099642908.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 14,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Food",
-        "Comedy"
-      ],
+      "videoDuration": 13,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) The scene opens in a dimly lit restaurant with warm, golden-yellow lighting reflecting off wood-grained surfaces and dark furniture. A man in his late twenties with brown, messy hair and a white t-shirt sits next to a young boy with dark, thick hair in a black t-shirt. On the table before them are multiple white bowls of food, including a steaming dish of stir-fried meat with green onions, several skewers on a dark rectangular plate, and two half-filled water glasses. Behind them, out-of-focus shelves and dry decorative stalks create a cozy, domestic eatery atmosphere. (2) The camera zooms in slightly as the man picks up a dark, small piece of meat from the center plate using black chopsticks and holds it toward the boy's mouth. The boy, looking curious but cautious, leans forward, opens his mouth wide, and accepts the food while the man watches intently with a slight grin. The boy begins to chew, eyes shifting as he processes the flavor, while the man continues to point at the plate and talk animatedly. (3) Post-production visual effects take over as bright orange and yellow flame graphics erupt on either side of the boy's face to visually represent the spiciness of the food. The boy keeps chewing, nodding slightly as he talks back to the man, his expression relatively calm despite the simulated fire. The man then leans in closer, speaking directly into the boy's ear with a playful, mischievous look, gesturing toward the plate once more as the boy pauses his chewing to listen. (4) A sudden, dramatic shift occurs as large white text with a black outline appears on the screen, revealing the true identity of the meat. The boy's face is subjected to a comical editing effect where his mouth is distorted with digital artifacts, and white speed lines radiate from his head to simulate a shock or horror reaction. The camera cuts to a tight close-up of the boy's wide, frozen eyes as the background is replaced with a stylized, high-contrast graphic meant to convey a meme-like moment of realization and regret.",
+      "text_narrative_log": "(1) [Subtitle]: 貴你 要吃吃看. (2) [Subtitle]: 這個炒螺肉嗎. (3) [Subtitle]: 會辣. 你吃看看. (4) [Subtitle]: 一點點辣. 很香喔. (5) [Subtitle]: 就只是辣辣的肉啊. (6) [Subtitle]: 你你知道這是什麼嗎. (7) [Subtitle]: 蝸牛. (8) [Variety]: 貴鋼入.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 1,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 adult male and 1 young boy acting as the primary subjects.",
+        "mainCharacterDescription": "An adult male in a white t-shirt with brown hair and a young boy with black hair wearing a black shirt."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Restaurant / Dining"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A restaurant setting with wooden textures, decorative dry plants, and a table full of various dishes including skewers and stir-fried meat.",
+        "lightingStyle": [
+          "Warm indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Warm and vibrant"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Zoom in"
+        ],
+        "shotSize": [
+          "Medium close-up",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Graphic transition",
+          "Slow motion",
+          "Meme-style edit"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Meat / beef / pork / chicken",
+          "Rice / grains",
+          "Prepared meal / plated dish",
+          "Vegetables"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 2,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 1
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Comedic/Exaggerated"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 6,
+        "valence": 6,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 122,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Chatter"
+        ],
+        "crowdNoiseIntensity": 1,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "Ceramics / Glass Clink"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Impact / Hit SFX",
+          "Cartoon / Comedy SFX",
+          "Meme SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 4,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a male voice in a moderate pitch and friendly, persuasive tone speaking in Traditional Chinese, accompanied by a low-level background noise floor of a busy restaurant. Underneath the speech, a light, medium-tempo background music track with a playful, major-mode tonality plays softly. The boy responds in a clear, high-pitched voice, questioning the spiciness of the dish while the sounds of cutlery clinking against ceramic bowls are faintly audible in the mix. (2) As the boy eats, there is a brief moment of chewing sounds and a slight intake of breath, signifying a physical interaction with the food. The man's voice continues at a consistent volume, offering more details about the dish with a slightly teasing inflection. The background music remains constant in its upbeat, comedic style, maintaining a stable tempo and spectral brightness as the dialogue continues to overlap with the instrumental melody. (3) A sharp, high-intensity sound effect, similar to a digital whoosh or transition, triggers a shift in the acoustic atmosphere. This is immediately followed by a loud, distorted meme-style impact sound that coincides with the revelation of the meat's identity. The background music is heavily ducked as a resonant, low-frequency boom dominates the spectrum, emphasizing the boy's shocked reaction and adding a dramatic, humorous weight to the final seconds of the clip."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Food Review",
+        "Meme / Trend"
+      ],
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "Unknown"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young man and a young boy sit at a restaurant table filled with stir-fried dishes and skewers. The man uses chopsticks to feed the boy a piece of dark meat. The boy leans in with his mouth open. (2) As the boy chews, a fire animation effect is overlaid on the screen near his mouth to indicate spiciness. The man watches him closely with an expectant expression. (3) The camera zooms in on the boy's face as he talks with food in his mouth. (4) The man points toward the dish and says something. (5) The screen suddenly zooms in tight on the boy's face, a 'shock' filter with white radiating lines and pixelation is applied, and the text '蜗牛' (Snail) appears in large font. (6) The boy continues to eat while looking dazed as the camera repeatedly zooms in and out on him.",
-      "audio_narrative_log": "(1) Lively and upbeat background music plays. A man's voice is heard speaking in an enthusiastic, encouraging tone in Mandarin/Hokkien. The sounds of a busy restaurant, including plates clinking, are audible. (2) The boy's voice is heard responding, sounding slightly muffled as he is eating. (3) The music abruptly shifts to a dramatic, melancholic piano and violin melody at the 0:09 mark when the 'truth' about the food is revealed. (4) The man's voice continues, laughing slightly as he watches the boy's reaction.",
-      "text_narrative_log": "(1) '貴你要吃吃看' - Friendly/Encouraging tone. (2) '這個炒螺肉嗎' - Descriptive/Functional text. (3) '會辣' - Warning/Informative. (4) '你吃看看' - Command/Encouragement. (5) '就只是辣辣的肉' - Neutral/Observational. (6) '你知道這是什麼嗎' - Suspenseful setup. (7) '蝸牛' - Shocking revelation. (8) '貴鋼八' - Humorous/Slang hook."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 12,
-      "averageSceneDuration": 1.16,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Eating Action -> Taste Feedback -> Reveal of Ingredient -> Shocked Reaction"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 1,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "1 adult male and 1 young boy sitting at a dining table.",
-      "mainCharacterDescription": "An adult male wearing a white t-shirt and a young boy with black hair wearing a black shirt."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Restaurant"
-        ],
-        "topography": [
           "None"
         ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A dimly lit indoor restaurant or 'Re Chao' (Taiwanese stir-fry) stall with a visible fish tank and bamboo-style wall decor.",
-      "lightingStyle": "Warm indoor artificial lighting.",
-      "weather": "Indoor",
-      "season": "Unknown",
-      "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Warm/Natural",
-      "cameraWork": [
-        "Static",
-        "Zoom"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Stir-fry",
-        "Skewers",
-        "Snail Meat"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Fragmented",
-      "audioTransition": "Hard cut in music to create comedic timing.",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 1,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 1
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Playful and humorous",
-        "pitch": "Normal",
-        "loudness": "High",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin",
-          "Hokkien"
-        ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat/Comedic followed by Dramatic/Sad Piano",
-      "bgmBPM": 115,
-      "instrumentFamiliesAudible": [
-        "Strings",
-        "Keyboard"
-      ],
-      "instrumentsAudible": [
-        "Piano",
-        "Violin"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Shock accent sound"
-      ],
-      "ambientNoise": [
-        "Restaurant chatter"
-      ],
-      "audioQuality": "Field"
-    }
-  },
-  "high_inference_interpretations": {
+    "temporal_pacing_summary": {
+      "sceneCutCount": 6,
+      "averageSceneDuration": 2.16,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Challenge -> Action -> Climax (Reveal) -> Reaction",
-      "mainPurpose": "To entertain the audience by capturing a humorous family moment where a child is 'tricked' into eating something unusual (snail meat) and recording his funny reaction to both the spice and the revelation of what the food actually was.",
-      "visualEmotion": "Humorous"
+      "narrativeStructure": "Linear: Setup -> Feeding -> Revelation -> Comedic Reaction",
+      "mainPurpose": "To entertain the audience by capturing a child's humorous and genuine reaction to eating snail meat unknowingly. The video relies on the contrast between the boy's initial acceptance and his post-reveal shock, amplified by exaggerated editing and sound effects.",
+      "visualEmotion": [
+        "humorous",
+        "energetic",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -166,9 +272,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Use of dramatic zoom-ins and meme-style editing filters.",
-      "freeDescribe": "The video uses common 'vlog comedy' tropes including fast cuts and sound cues to emphasize the child's reaction."
-    }
+    "freeDescribe": "A classic short-form social media skit leveraging child-parent interaction for comedy."
   }
 }

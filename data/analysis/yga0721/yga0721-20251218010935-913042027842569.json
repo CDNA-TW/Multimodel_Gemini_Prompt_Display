@@ -1,15 +1,254 @@
 {
   "videoName": "yga0721-20251218010935-913042027842569.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 64,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Promotion",
-        "Food"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A man with reddish hair wearing a black jacket with crane embroidery over a white shirt stands in an outdoor park with green grass and trees, gesturing and talking towards the camera with high energy. (2) Extreme close-up of a silver and purple product box labeled 'GREEN GOLD Kudzu Flower' and three small beige pills being held in a palm. (3) The man eats a piece of fried chicken with an exaggerated expression; a woman in a white cardigan and a man in a green sweater stand behind him, also holding chicken. (4) The man displays a golden box while two women appear in a separate scene holding various product packages and smiling brightly. (5) Close-up shots show the intricate gold patterns on a black box and then a single yellow pill with the letter 'G' embossed on it resting on a wooden surface. (6) The man returns to the park setting, holding the products and pointing at the camera excitedly as yellow and white text overlays flash across the screen.",
+      "text_narrative_log": "(1) [Logo]: in士林北投. [Slogan]: 炸雞路跑. [Variety]: 嘎哥優惠碼GA95. (2) [Subtitle]: 是不是很怕圓. [Slogan]: GREENGOLD 葛花纖. (3) [Subtitle]: 1天2顆 大餐前最多4顆. [Variety]: 促進循環. (4) [Variety]: 幫助消化. [Slogan]: 三段式化解. (5) [Slogan]: GREENGOLD9週年祭 全館最低5折起. (6) [Slogan]: 指定套組還送免費體驗 不滿意可以全退. (7) [Variety]: GA95 (英文大寫) 再打95折.",
+      "visual_human_presence": {
+        "totalHumanCount": 5,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 3,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face close-up",
+          "Hands only",
+          "Full body"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main creator, 1 male friend, 1 female friend in background, 2 female models in promotional cut.",
+        "mainCharacterDescription": "Male with dyed reddish-brown hair, wearing a black satin-like jacket with white crane embroidery and a white inner t-shirt."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Park / Garden",
+          "Outdoor Street"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban",
+          "Park / Green Space"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "An outdoor park with mature trees, green lawns, paved walking paths, and distant city buildings/traffic.",
+        "lightingStyle": [
+          "Natural daylight",
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Cloudy / Overcast"
+        ],
+        "season": [
+          "Autumn / Winter"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Extreme close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Fast cuts",
+          "Insert shot"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "text_language": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Fast food / burger / fries / pizza",
+          "Meat / beef / pork / chicken"
+        ],
+        "trafficDetect": [
+          "Car",
+          "Van / shuttle"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "GREEN GOLD",
+          "DIOR"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 4,
+        "male_vocal_count": 2,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 5,
+        "speechPauseDensity": 1
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Comedic/Exaggerated"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter"
+        ],
+        "crowdNoiseIntensity": 1,
+        "ambientNoiseDetails": [
+          "Nature/Outdoor"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Food Bite / Crunch"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Ding / Bell SFX",
+          "Cartoon / Comedy SFX",
+          "Pop / Bubble SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 5,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Stingers"
+        ],
+        "audioEventDensity": 5,
+        "audioCutFrequency": 4,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) High-energy male narration begins with a rapid speech rate and bright pitch. Upbeat electronic pop BGM with a steady 4/4 beat enters. A 'whoosh' SFX signals the start. (2) A 'pop' SFX accompanies the visual transition to the product box. The narrator emphasizes the brand name with increased volume. (3) A distinct 'crunch' sound occurs as a piece of chicken is bitten, followed by a 'boing' cartoon sound effect. (4) The narrator transitions into promo details with a 'ding' SFX. Music maintains constant energy. Short bursts of 'whoosh' sounds separate the promo points. (5) Background female laughter is briefly heard as the narrator jokes. A 'sparkle' SFX plays during the close-up of the yellow pill. (6) The vocal intensity reaches a peak for the final call to action, accompanied by a riser-style SFX leading to the end of the clip."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Promotion / Advertisement / Indoresment",
+        "Comedy",
+        "Meme / Trend"
+      ],
       "location": {
         "country": [
           "Taiwan"
@@ -19,144 +258,20 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A man with reddish-purple hair in a black jacket with bird embroidery talks excitedly to the camera in a park, flanked by a blonde man and a woman. (2) Close-up shots show a silver product box labeled 'GREEN GOLD' and small round capsules held in a hand. (3) The group is shown outdoors eating large pieces of fried chicken, with the main character gesturing towards the camera. (4) The narrator displays different supplement boxes, including a gold-trimmed 'GREEN GOLD' box, while pointing at functional features. (5) High-detail close-up of a yellow tablet with a 'G' logo and a scientific graphic showing formula concentration. (6) The video concludes with the three individuals posing together in the park, waving and pointing toward the screen.",
-      "audio_narrative_log": "(1) High-energy male vocals speaking Mandarin begin immediately, characterized by a fast-paced and persuasive tone. (2) An upbeat, rhythmic electronic background music track plays continuously with a steady tempo. (3) Sound effects of crunching and eating are layered over the speech during close-ups of food consumption. (4) Occasional brief interjections and laughter from other male and female voices are heard, though the primary narrator dominates. (5) The volume of the speech remains high and consistent, with the background music fading slightly at the very end.",
-      "text_narrative_log": "(1) Functional Hook Text: '炸雞路跑' and a discount code '嘎哥優惠碼GA95' appear at the start. (2) Decorative Feature Text: 'GREEN GOLD 葛花纖', '1天2顆', '促進循環', and '幫助消化' are shown as floating captions. (3) Promotional Hook: 'GREENGOLD 9週年祭', '全館最低5折起', and '不滿意可以全退' emphasize sales and guarantees. (4) Content Text: '高濃度 95% 黃金比例薑黃素' provides technical product specifications. (5) Functional Text: Consistent subtitles at the bottom translate the spoken dialogue throughout the video."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 38,
-      "averageSceneDuration": 1.68,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Hook -> Product Feature Presentation -> Benefit Demonstration via Eating -> Sales Promotion Info -> Outro"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 3,
-      "maleDetectAmount": 2,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Face",
-        "Torso"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 main creator (male), 1 male friend, 1 female friend",
-      "mainCharacterDescription": "Male with reddish-purple dyed hair, wearing a white t-shirt under a black zip-up jacket featuring white bird/crane embroidery."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Outdoor Park"
-        ],
-        "topography": [
-          "Plain"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A public park environment with green trees, paved walkways, park benches, and some distant urban structures and parked vehicles.",
-      "lightingStyle": "Natural daylight",
-      "weather": "Overcast",
-      "season": "Spring / Autumn",
+      "sceneCutCount": 22,
+      "averageSceneDuration": 2.9,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Vibrant",
-      "cameraWork": [
-        "POV",
-        "Static",
-        "Handheld"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Fried Chicken"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "GREEN GOLD"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 3,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 2,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "High-pitched and excited",
-        "pitch": "Moderate",
-        "loudness": "High",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Crunching",
-        "Meme sounds"
-      ],
-      "ambientNoise": [
-        "Park quiet"
-      ],
-      "audioQuality": "Field Recording"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Demonstration -> Feature Breakdown -> Promotional CTA",
-      "mainPurpose": "The video is a promotional vlog designed to market 'GREEN GOLD' health supplements. It uses the context of eating greasy fried chicken as a narrative hook to introduce weight management and digestive aid products (Kudzu Flower and Curcumin), leveraging a 9th-anniversary sale and a personal discount code to drive immediate sales.",
-      "visualEmotion": "Energetic and Enthusiastic"
+      "narrativeStructure": "Montage: Hook -> Demonstration -> Promotion -> Technical Details -> CTA",
+      "mainPurpose": "The video is a high-energy advertisement designed to promote Green Gold health supplements. It uses a comedic 'fried chicken run' scenario to illustrate the product's benefits in managing diet and metabolism, followed by a dense list of anniversary discounts and giveaways.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "vibrant"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -164,14 +279,11 @@
         "Explicit",
         "Full"
       ],
-      "endorsementCues": "Direct display of products, verbal recommendation of benefits, discount code 'GA95' provided on screen, and mention of a 9th-anniversary sale.",
+      "endorsementCues": "The creator repeatedly holds the product, demonstrates its use, and provides a specific discount code (GA95).",
       "endorsementObject": [
         "GREEN GOLD"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-speed narration, '嘎哥' (Gaga) branding, variety-show style text graphics.",
-      "freeDescribe": "Classic Taiwanese influencer marketing style focusing on high-energy delivery and direct product benefit claims tied to lifestyle habits (eating out)."
-    }
+    "freeDescribe": "A classic example of Taiwanese creator-led social media advertising, blending lifestyle vlog elements with high-frequency editing and variety-show graphics."
   }
 }

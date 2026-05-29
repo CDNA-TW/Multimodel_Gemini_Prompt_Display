@@ -1,179 +1,283 @@
 {
   "videoName": "yga0721-20251004173136-870885275816547.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 42,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Travel",
-        "Comedy"
-      ],
+      "videoDuration": 42.14,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A young man wearing a maroon beanie and a black-and-white striped sweater is crouching on a rocky lakeshore. He holds a smartphone and slowly lowers it into the clear, shallow water of the lake. The background features a vast lake, green hills, and a few houses under a cloudy sky. (2) The perspective shifts to an underwater view looking up from the phone's camera. The man's face is visible through the water's surface as he smiles and waves his hand. The sky and a building are reflected on the water's surface from below. (3) The scene cuts to a wide landscape shot of the serene lake, which perfectly reflects the surrounding mountains and grey sky. The environment is quiet and natural. (4) Back on the shore, the man is seen sitting on a rock, holding the phone up to film himself or the scenery. He looks at the device while the lake remains calm behind him. (5) Another underwater shot shows the man waving again, emphasizing the clarity of the water. The camera moves slightly as if bobbing in the water. (6) The man shows the phone screen while the device is partially submerged in the water, demonstrating its functionality and the crystal-clear quality of the lake water.",
+      "text_narrative_log": "(1) [Subtitle]: 挪威森林。湖面真的澄清嗎 [Slogan]: iPhone17 防水測試 😎",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only",
+          "Side view"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main creator performing a tech test.",
+        "mainCharacterDescription": "A young male with brown hair, wearing a maroon knit beanie, a white and black horizontal-striped knit sweater over a white collared shirt, and grey-blue jeans."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Lake Area",
+          "Mountain / Forest / Trail",
+          "Outdoor Street"
+        ],
+        "locationTopography": [
+          "Mountain",
+          "Lake / Pond",
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A clear lake in Norway with mountains in the distance and green pastures with small houses on the slopes. The sky is overcast with grey clouds, creating soft lighting.",
+        "lightingStyle": [
+          "Natural daylight",
+          "Dim / low light"
+        ],
+        "weather": [
+          "Cloudy / Overcast"
+        ],
+        "season": [
+          "Autumn"
+        ],
+        "colorTone": [
+          "Natural"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Handheld",
+          "Selfie handheld"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Wide shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Low angle",
+          "Selfie perspective"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Slow cuts"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Low",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Rising"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 6,
+        "valence": 7,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop"
+        ],
+        "tempoBPM": 112,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 1,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "Traditional Chinese"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Nature/Outdoor"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Liquid Pour / Splash"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 3,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 2,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) A male voice speaks with enthusiasm, asking about clarity. The sound of water gently splashing and ripples is audible as an object enters the water. Background music is an upbeat pop track with acoustic elements. (2) The voice becomes slightly muffled, indicating an underwater recording environment. The music continues clearly in the background. (3) The speaker continues to comment on the clarity of the water with a high-pitched, friendly inflection. Ambient outdoor wind is faintly audible. (4) The audio maintains a consistent mix of active narration, splashing water sounds, and pop music through several repeating cycles of submerging and surfacing."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Tech Review",
+        "Vlog",
+        "Travel"
+      ],
       "location": {
         "country": [
           "Norway"
         ],
         "city": [
-          "Unknown"
+          "None"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video begins with a young man in a maroon beanie and a striped vest crouching by a clear lake. He holds a smartphone and dips it into the shallow water over a bed of pebbles. (2) The camera perspective shifts to being underwater, looking up through the clear water at the man's face as he waves and smiles at the lens. (3) There are rapid cuts to various scenic views of the Norwegian landscape, featuring calm lake water reflecting hills with autumn-colored trees and grey clouds. (4) The man is seen again by the water, holding up the phone to show it is still functioning. (5) Another series of scenic shots follows, including a small red wooden cabin on the shoreline and wider views of the valley. (6) The man repeats the action of dipping the phone into the water, with the underwater POV showing him waving and pointing at the camera.",
-      "audio_narrative_log": "(1) The audio starts with the man's voice in Chinese, sounding energetic and inquisitive. (2) An upbeat, rhythmic pop background music track with a strong beat and electronic elements fades in and remains consistent. (3) Distinct splashing and gurgling sound effects are heard whenever the camera/phone enters or exits the water. (4) The man's vocals continue intermittently, reacting to the clarity of the water and the scenery, maintaining a friendly and humorous tone.",
-      "text_narrative_log": "(1) Functional Text: \"挪威森林。湖面真的澄清嗎\" (Norwegian Forest. Is the lake surface really clear?) - questioning tone. (2) Decorative/Hook Text: \"iPhone 17 防水測試 😎\" (iPhone 17 Waterproof Test) - humorous and catchy hook. (3) Functional Text: Subtitles reflecting the man's speech about the water's clarity and his greeting to the camera."
     },
     "temporal_pacing_summary": {
-      "sceneCutCount": 14,
-      "averageSceneDuration": 3.0,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Hook (Phone dip) -> Scenic Montage -> Demonstration/Interaction -> Repeat"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Face",
-        "Hands"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main creator performing the actions",
-      "mainCharacterDescription": "A young male with dark hair, wearing a maroon beanie, a white and black striped sweater vest over a white long-sleeve shirt, blue jeans, and white sneakers."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Outdoor Lake",
-          "Countryside"
-        ],
-        "topography": [
-          "Lake",
-          "Hill",
-          "Plain"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A serene Norwegian landscape featuring a large, still lake that reflects the sky. The surrounding hills are covered in forests showing yellow and brown autumn foliage. A small red traditional cabin is visible on the rocky shore.",
-      "lightingStyle": "Natural light, overcast sky",
-      "weather": "Cloudy",
-      "season": "Autumn",
+      "sceneCutCount": 12,
+      "averageSceneDuration": 3.5,
       "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "Medium",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural, slightly high contrast",
-      "cameraWork": [
-        "POV",
-        "Static",
-        "Underwater",
-        "Follow shot"
-      ]
+      "isNarrativeShift": false
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade between ambient/vocal and music",
-      "vocalRatio": "Medium"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Friendly and humorous",
-        "pitch": "Normal",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Occasional narration",
-        "language": [
-          "Mandarin Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop",
-      "bgmBPM": 115,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drums"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Water splashing",
-        "Underwater muffled sounds"
-      ],
-      "ambientNoise": [
-        "Water",
-        "Wind"
-      ],
-      "audioQuality": "Field Recording"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Action -> Scenery -> Result",
-      "mainPurpose": "To entertain viewers with a humorous 'tech test' while simultaneously acting as a travel vlog showcasing the natural beauty and water clarity of a Norwegian lake.",
-      "visualEmotion": "Calm, Energetic, Humorous"
+      "narrativeStructure": "Linear: Hook -> Evidence -> Demonstration",
+      "mainPurpose": "To demonstrate the waterproof capabilities and camera quality of a smartphone (referred to as iPhone 17) in a scenic and high-clarity natural environment in Norway.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
-      "isEndorsement": false,
+      "isEndorsement": true,
       "endorsementMethod": [
-        "None"
+        "Explicit",
+        "Full"
       ],
-      "endorsementCues": "The 'iPhone 17' mention is a humorous exaggeration/clickbait hook rather than a real product placement.",
+      "endorsementCues": "On-screen text mentions 'iPhone17 waterproof test' and the content revolves around testing the device's features.",
       "endorsementObject": [
-        "None"
+        "iPhone"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Direct engagement with the camera, underwater POV shots, humorous tech hooks.",
-      "freeDescribe": "The video effectively uses high-quality landscape shots contrasted with a playful, low-stakes 'test' to maintain engagement. The use of 'iPhone 17' is a common social media trope to create curiosity."
-    }
+    "freeDescribe": "The video effectively combines travel vlog elements with a product feature demonstration, leveraging the natural beauty and water clarity of Norway."
   }
 }

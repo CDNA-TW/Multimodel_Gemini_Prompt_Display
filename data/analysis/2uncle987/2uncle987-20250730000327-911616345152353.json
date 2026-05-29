@@ -1,163 +1,282 @@
 {
   "videoName": "2uncle987-20250730000327-911616345152353.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 37,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Shopping Guide",
-        "Product Review"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "Japan"
+      "visual_narrative_log": "(1) The video opens in a brightly lit retail environment, identifiable by densely packed shelves of colorful consumer goods in the background. A young woman with her hair tied back, wearing a beige vest over a grey sweatshirt, stands in the center, smiling broadly while holding multiple packages of lip balm. The lighting is bright and overhead, creating a vibrant shopping atmosphere. (2) The camera transitions to series of close-up shots focusing on the packaging of the products. Specifically, the lip balms are branded with Nittoh Tea and Kanro Pure logos. The focus is sharp on the product details, showing flavors like strawberry, peach, and grape. Large text overlays in white and yellow appear on the screen, emphasizing the product names and prices. (3) A scene cut shows a man outdoors during the day, wearing a red quilted jacket. He holds a small lip balm tube and applies it to his lips, making an exaggerated, humorous puckering face afterwards. The background is a slightly blurred city sidewalk. (4) The setting shifts back to the store where the woman shows hand creams and body milk bottles. She holds them up to the lens for clarity. Then, it transitions to an indoor home setting, likely a bedroom with soft, warm lighting. The woman, now in a blue hoodie, is seen applying hand cream and rubbing her hands together, then touching her face to show satisfaction. (5) Close-up shots show the application of peach-scented body milk onto an arm, highlighting the texture of the white cream. The video concludes with a rapid montage of various product shelves in the store, showing a wide range of limited edition items like matcha and peach-flavored cosmetics before returning to the woman holding the products and waving.",
+      "text_narrative_log": "(1) [Variety]: 日本最新 2025 伴手禮. (2) [Slogan]: 唐吉訶德限定 日東紅茶 護唇膏 499日幣. (3) [Slogan]: 唐吉訶德限定 Pure 護唇膏 499日幣. (4) [Subtitle]: 很像喝完奶茶. (5) [Subtitle]: 淡淡的. (6) [Variety]: 還有護手霜和乳液 整體都很滑順保濕. (7) [Slogan]: 日東紅茶 護手霜 600日幣. [Slogan]: 日東紅茶 身體乳液 699日幣. (8) [Variety]: 護手霜滋潤不黏膩 淡淡味道男女都適合. (9) [Subtitle]: 不會黏膩 很好用耶. (10) [Subtitle]: 然後就淡淡的奶茶味道. (11) [Subtitle]: 桃子口味身體乳液 用起來水潤清爽. (12) [Variety]: 最近有要去日本的朋友可以趕快收藏發功起來. (13) [Variety]: 還有日本限定的MOMO URU 桃子、抹茶.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only",
+          "Face close-up",
+          "Partial body"
         ],
-        "city": [
-          "None"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video begins with a female presenter in a retail store (Don Quijote) holding multiple packages of lip creams, smiling and gesturing towards the camera. (2) Close-up shots follow, showing Nittoh Tea and Kanro Pure Gummy themed lip balms on shelves and in hands. (3) A male presenter appears in a red jacket, applying the lip balm and making a satisfied facial expression, gesturing with his hands. (4) The female presenter returns, holding hand creams and body milk bottles of the same brands. (5) Close-ups show the products being squeezed out and applied to hands and arms. (6) The video concludes with the female presenter posing with the products in front of the store display shelves.",
-      "audio_narrative_log": "(1) An upbeat, high-tempo pop music track begins immediately and plays throughout the video. A female voice speaks enthusiastically in Mandarin, introducing the products. (2) During the middle section, a male voice briefly comments on the sensation of the lip balm while he is on screen. (3) The female voiceover continues with a steady flow, describing the prices and scents of the various creams. (4) Background ambient noise is minimal, overshadowed by the music and vocal narration.",
-      "text_narrative_log": "(1) Functional Text: '日本最新伴手禮 2025' (Japan's latest souvenirs 2025) appears as a large hook. (2) Decorative/Hook Text: '唐吉訶德限定' (Don Quijote Limited) highlights exclusivity. (3) Functional Text: Price tags like '499日幣', '600日幣', '699日幣' provide shopping information. (4) Effect Text: Product names like '日東紅茶 護唇膏' (Nittoh Tea Lip Cream) and 'Pure 護唇膏' are displayed to identify the items."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 18,
-      "averageSceneDuration": 2.05,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro Hook -> Product Showcase -> Male Demo -> Hand/Body Care Demo -> Conclusion"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Face only"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "1 main female presenter, 1 male guest tester",
-      "mainCharacterDescription": "A young Asian woman with long dark hair, wearing a beige and blue jacket. The male guest wears a red bomber jacket."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 main female creator and 1 male guest actor.",
+        "mainCharacterDescription": "A young Asian woman with a friendly smile, initially wearing a beige quilted vest over a grey long-sleeve top, later seen in a bright blue hoodie."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
           "Retail Store",
-          "Indoor"
+          "Outdoor Street",
+          "Indoor Bedroom"
         ],
-        "topography": [
-          "None"
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A densely stocked discount store (Don Quijote) with colorful signage and product displays; an outdoor urban sidewalk; a simple indoor room with a bed and white linens.",
+        "lightingStyle": [
+          "Bright indoor lighting",
+          "Natural daylight",
+          "Soft indoor lighting"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Autumn / Winter"
+        ],
+        "colorTone": [
+          "Bright and colorful",
+          "Natural"
         ]
       },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "Densely packed retail shelves of a Don Quijote store filled with colorful Japanese products; later, a simpler indoor background for product testing.",
-      "lightingStyle": "Bright artificial retail lighting",
-      "weather": "Indoor",
-      "season": "None",
-      "editingPace": "Fast",
-      "textOverlay": {
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Medium full shot",
+          "Insert shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Selfie perspective"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Fast cuts",
+          "Split-screen",
+          "Graphic transition"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
         "density": "High",
-        "language": [
+        "textLanguage": [
           "Traditional Chinese",
           "Japanese"
         ],
         "isSubtitled": true
       },
-      "colorTone": "High Saturation",
-      "cameraWork": [
-        "Static",
-        "Close-up"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "唐吉訶德",
-        "日東紅茶",
-        "Kanro",
-        "Pure"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and friendly",
-        "pitch": "High",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Fruit",
+          "Tea"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Nittoh Tea",
+          "Kanro Pure",
+          "MOMO URU",
+          "Don Quijote"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Electronic Drum"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 1,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Pop / Bubble SFX",
+          "Ding / Bell SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Fades"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a high-energy female voice-over, characterized by a fast speech rate and a bright, excited tone. The background music is a high-tempo, major-key electronic pop track with a heavy, synthesized beat. The vocal clarity is very high, suggesting professional recording. (2) A transition is marked by a sudden 'whoosh' sound effect as a male voice briefly interrupts. His tone is comedic and high-pitched, commenting on the scent of the product. The BGM continues uninterrupted in the background, maintaining the high energy. (3) The female narrator returns, describing the features and prices of various hand creams and lotions. Every visual product change is accompanied by a light 'pop' or 'ding' sound effect in the audio mix, used to highlight the transition. The voice is rhythmic and matches the fast editing pace. (4) The final segment features a fast-paced concluding remark from the female narrator, urging viewers to save the video. The BGM swells slightly before fading out quickly with a crisp stop, leaving a clean tail of silence."
     }
   },
-  "high_inference_interpretations": {
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Shopping",
+        "Product Showcase",
+        "Travel",
+        "Beauty / Fashion"
+      ],
+      "location": {
+        "country": [
+          "Japan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 2.05,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Itemized Showcase -> Practical Demo -> Outro Call-to-Action",
-      "mainPurpose": "To showcase and recommend specific new and limited-edition personal care products (lip balms, hand creams) found at Don Quijote in Japan for the year 2025, targeting tourists looking for souvenirs.",
-      "visualEmotion": "Energetic and cheerful"
+      "narrativeStructure": "List-based: Introduction -> Product Catalog -> User Experience -> CTA",
+      "mainPurpose": "To provide a rapid guide to exclusive and affordable souvenir cosmetics found in Japan's Don Quijote stores for the year 2025, emphasizing sensory appeal (scent and texture) and value for money.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -165,16 +284,13 @@
         "Implicit",
         "Integrated"
       ],
-      "endorsementCues": "Detailed pricing, specific location mention (Don Quijote), and positive demonstration of multiple products from the same brands.",
+      "endorsementCues": "The video focuses specifically on products from Nittoh Tea and Kanro Pure available at Don Quijote, listing exact prices and recommending them to viewers.",
       "endorsementObject": [
-        "日東紅茶",
+        "Nittoh Tea",
         "Kanro Pure",
-        "唐吉訶德"
+        "Don Quijote"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Fast-paced retail vlog style with high-density informational text overlays.",
-      "freeDescribe": "The video effectively uses the 'latest' and 'limited' hooks to create urgency and interest in specific Japanese consumer goods."
-    }
+    "freeDescribe": "High-intensity social media edit optimized for quick consumption. The combination of bright visuals, fast audio cues, and clear pricing information makes it highly effective for trend-based shopping recommendations."
   }
 }

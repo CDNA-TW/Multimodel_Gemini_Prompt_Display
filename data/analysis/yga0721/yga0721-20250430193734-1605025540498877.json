@@ -1,160 +1,285 @@
 {
   "videoName": "yga0721-20250430193734-1605025540498877.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 55,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Comedy",
-        "Talk Show"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A person wearing a large, cartoonish yellow and blue mask with prominent eyes and a wide-open mouth sits in a studio setting, speaking into a professional black microphone. They are wearing a light green oversized hoodie. Behind them is a white brick wall and shelves displaying various collectible figurines and toys. (2) The scene cuts to a man in a red and black striped long-sleeve shirt sitting on a brown leather couch, wearing white over-ear headphones. He leans back with his arms crossed, smiling as he listens. A graphic of a green cartoon frog (Keroro) briefly appears near him. (3) A close-up shot shows a pair of hands holding a dark grey, dome-shaped military-style helmet over a light-colored surface. The lighting is focused, casting shadows and emphasizing the matte texture of the helmet. (4) The camera shifts to a person seen from behind, sitting in a dimly lit indoor space that looks like a prayer room or altar. They are wearing a pink hoodie and the dark grey helmet while holding a printed sheet of text, appearing to be chanting or praying before a traditional Buddhist altar decorated with red lights and incense. (5) A woman with long black hair, wearing a white hoodie and a black beanie, is shown in a red armchair. She holds a smartphone and a cushion, gesturing towards her neck as she participates in the conversation. (6) The man in the striped shirt is shown again, now holding a smartphone and reading from it. He then puts the grey helmet on his head, making exaggerated gestures with his hands near his temples as if demonstrating a psychic connection, followed by a wide-mouthed laugh.",
+      "text_narrative_log": "(1) [Subtitle]: 那時候我哥就跟我說. (2) [Subtitle]: 欸你有看過軍曹嗎. (3) [Variety]: 軍曹KERORO. (4) [Subtitle]: 你等一下就會看到. (5) [Subtitle]: 媽媽戴軍曹的帽子. (6) [Subtitle]: 然後我想說那什麼鬼. (7) [Subtitle]: 阿珍在戴著那個軍曹帽. (8) [Subtitle]: 然後在那邊唸經這樣子. (9) [Subtitle]: 我哥就問他說. (10) [Subtitle]: 那個是什麼東西. (11) [Subtitle]: 阿珍就說. (12) [Subtitle]: 他這樣子可以跟上天通靈. (13) [Variety]: ???. (14) [Subtitle]: 它是一個接收器啊. (15) [Subtitle]: 欸我仔細看它上面有4個孔. (16) [Subtitle]: 對所以接收對不對. (17) [Subtitle]: 兩個進來兩個出去嘛. (18) [Slogan]: 本產品每次使用前，請以虔誠心念誦下文. (19) [Slogan]: 病苦業集我因果，生報證受故苦厄，願我今懺解冤仇，醫方明燈願得度. (20) [Subtitle]: 啊!!!. (21) [Subtitle]: 就可以把這個頭盔. (22) [Subtitle]: 戴上去. (23) [Logo]: 完整影片請上蔡阿嘎543頻道收看.",
+      "visual_human_presence": {
+        "totalHumanCount": 4,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 3,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Hands only",
+          "Back view"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 masked person, 1 man in striped shirt, 1 woman in white hoodie, and 1 person at the altar seen from behind.",
+        "mainCharacterDescription": "One male in a yellow character mask and green hoodie; one male in a red/black horizontal striped shirt and blue jeans; one female in a white hoodie and black beanie."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio",
+          "Indoor Living Room",
+          "Temple / Shrine / Church / Religious Site"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A professional studio with white brick walls and toy shelves; a cozy living room with a leather couch; and a traditional Buddhist altar with red lighting and religious icons.",
+        "lightingStyle": [
+          "Bright studio lighting",
+          "Dim / low light",
+          "Warm indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright",
+          "Warm"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Panning"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Medium close-up",
+          "Close-up",
+          "Insert shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Back view",
+          "Low angle"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Fade in / fade out",
+          "Graphic transition"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multi-camera / cutaway"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Beverage / juice"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Microphone / lavalier mic",
+          "Headphones / earbuds",
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "蔡阿嘎543"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 3,
+        "total_distinct_voices": 3,
+        "male_vocal_count": 2,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Humorous",
+          "Casual"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Meme/Comedy",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter"
+        ],
+        "crowdNoiseIntensity": 3,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Clothing / Fabric Rustle",
+          "Object Impact / Thud / Drop"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Pop / Bubble SFX",
+          "Cartoon / Comedy SFX",
+          "Meme SFX",
+          "Applause / Laugh Track SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Stingers"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A high-pitched male voice begins an energetic narration with a comedic tone. An upbeat electronic synthesizer-based background music (BGM) plays at a moderate tempo with a strong percussive beat. (2) Sudden loud laughter from multiple people bursts out. A 'whoosh' transition sound effect (SFX) occurs as the narrator mentions a specific helmet. (3) A cartoonish 'pop' SFX is heard as a graphic appears on screen. The narrator's speech rate is fast, conveying excitement and humor. (4) The BGM continues steadily as a female voice briefly joins, sounding curious. A sharp 'ding' SFX punctuates a humorous point made by the male speaker. (5) As the visual cuts to the altar, the narration takes on a slightly more rhythmic, mock-solemn quality. The BGM remains upbeat, creating a comedic contrast with the religious setting. (6) A final swell in BGM volume and high-arousal laughter from all speakers mark the video's climax. A 'magic sparkle' SFX plays as the helmet is put on, followed by loud cheering."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Storytelling",
+        "Personal Talk"
+      ],
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "Unknown"
+          "None"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video begins with a person wearing a large, cartoonish orange mask with blue hair and big eyes, talking animatedly into a professional microphone in a studio setting. (2) A transition shows a second man in a red and black striped shirt sitting on a brown leather sofa, laughing and reacting. (3) A sequence of insert shots follows, showing hands placing a black helmet over a small bowl, then a person from behind wearing the helmet while reading a text in front of a traditional Buddhist/Taoist altar. (4) The scene returns to the studio where the masked person and the man in the striped shirt continue their humorous conversation, with the man in the striped shirt eventually reading from his phone and gesturing toward his head.",
-      "audio_narrative_log": "(1) Upbeat and playful background music starts as a high-pitched, excited male voice begins telling a story in Mandarin and Taiwanese. (2) Frequent bursts of laughter from both the main speaker and another male off-camera are heard. (3) The soundscape remains consistent with a studio environment, featuring clear vocals and low ambient noise. (4) Towards the end, the music maintains its tempo as the dialogue reaches a peak of laughter and energetic exclamations.",
-      "text_narrative_log": "(1) Functional text: Traditional Chinese subtitles appear at the bottom, transcribing the spoken dialogue. (2) Decorative/Hook text: '軍曹KERORO' appears with a green frog emoji to provide context for a joke. '???' appears on screen to emphasize confusion. (3) Towards the end, a framed box of text titled '本產品每次使用前...' (Before using this product...) provides a humorous set of instructions/prayers. (4) Final hook text: '完整影片請上蔡阿嘎543頻道收看' (Watch the full video on the Tsai A-ga 543 channel)."
     },
     "temporal_pacing_summary": {
       "sceneCutCount": 14,
       "averageSceneDuration": 3.9,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro storytelling -> Humorous insert demonstration -> Reaction and conclusion"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 3,
-      "maleDetectAmount": 2,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Back view"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 masked male speaker, 1 male reactor on sofa, 1 female appearing in white hoodie and briefly seen from behind in pink hoodie.",
-      "mainCharacterDescription": "One person wears a caricature mask and a light green hoodie; the other wears a red/black striped shirt and blue jeans."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Studio",
-          "Indoor Altar"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A studio area with a brown leather couch, figurines, and soundproofing; a second location features a traditional household altar with incense burners and religious texts.",
-      "lightingStyle": "Intense studio lights",
-      "weather": "Unknown",
-      "season": "Unknown",
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "Medium",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "High Saturation",
-      "cameraWork": [
-        "Static",
-        "Close-up"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone",
-        "Microphone",
-        "Headphones"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 2,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "High-pitched and excited",
-        "pitch": "Varied",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Traditional Chinese",
-          "Taiwanese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat",
-      "bgmBPM": 120,
-      "instrumentFamiliesAudible": [
-        "Electronic"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Anecdote -> Visual Proof -> Reaction",
-      "mainPurpose": "To entertain the audience by sharing a humorous family anecdote involving a misunderstanding of a physical object (a 'helmet') used for a religious purpose, using props and editing to enhance the comedy.",
-      "visualEmotion": "Humorous"
+      "narrativeStructure": "Montage: Hook -> Storytelling -> Demonstration -> Climax/Outro",
+      "mainPurpose": "The video is a humorous segment from a podcast or vlog where the creators share a funny family anecdote about a family member using a 'Keroro' helmet for spiritual communication. It uses exaggerated reactions, sound effects, and fast-paced editing to entertain the audience through absurdity and shared laughter.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -166,9 +291,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Fast-paced banter, use of caricature masks, and references to local Taiwanese culture/traditions.",
-      "freeDescribe": "The video uses a high-production studio feel mixed with low-fi home video inserts to create a relatable yet professional comedic atmosphere."
-    }
+    "freeDescribe": "The video's humor stems from the contrast between the serious religious setting (altar) and the ridiculous pop-culture object (Keroro helmet)."
   }
 }

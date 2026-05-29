@@ -1,159 +1,268 @@
 {
   "videoName": "yga0721-20250523150647-1454968552999354.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 68.3,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Podcast",
-        "Commentary",
-        "Comedy"
-      ],
+      "videoDuration": 69,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A person wearing a large, exaggerated yellow deity mask with a blue scalp and black mustache is sitting on a brown leather sofa. They are dressed in a light green long-sleeved shirt and are gesturing animatedly with their right hand while speaking into a professional black microphone mounted on a boom arm. A green and white patterned cushion is on their lap, and the setting is a brightly lit studio with turquoise curtains in the background. (2) The camera cuts to a man with short brown hair wearing white over-ear headphones and a grey t-shirt. He holds a black coffee cup in one hand and points toward the camera with his other hand, laughing and smiling widely. The background features a shelf filled with various character figurines and several framed anime-style posters. (3) A third individual, a woman with long dark hair wearing a white graphic t-shirt, appears sitting on the sofa next to the man in the grey t-shirt. They are both laughing and reacting to the masked character's speech. The masked character occasionally appears as a circular picture-in-picture overlay at the bottom center of the screen, mirroring the ongoing conversation. (4) The scene continues to alternate between medium shots of the man in the grey t-shirt talking and the masked character. The editing is fast-paced with frequent cuts that emphasize the comedic reactions of the participants. The lighting remains bright and consistent throughout the studio space.",
+      "text_narrative_log": "(1) [Subtitle]: 你有去我就會去. (2) [Subtitle]: 然後你沒去我也沒去. (3) [Subtitle]: 哇~他都跟著你. (4) [Subtitle]: 原來如此啊. [Variety]: (>////<). (5) [Subtitle]: 不是啦. (6) [Subtitle]: 對~啦~. (7) [Subtitle]: 我就是想去... (8) [Subtitle]: 你以為大頭佛是想要去參加婚禮祝福人家. (9) [Subtitle]: 它是想要看嘎哥帥帥的樣子. (10) [Subtitle]: 神經病啊. (11) [Subtitle]: 你的喜帖是我的請帖. (12) [Subtitle]: 你要的一切如今都變成我的心碎. (13) [Subtitle]: 我如果真的想看我AI生成就好了. (14) [Subtitle]: 欸他有在AI生成啊. (15) [Subtitle]: 好可怕. (16) [Subtitle]: 不要再造謠了哦. (17) [Subtitle]: 幫我跟嘎哥生成一張婚紗照. (18) [Subtitle]: 旁邊還是大頭佛的臉. (19) [Subtitle]: 想要幻想說... (20) [Subtitle]: 好噁好想吐喔. (21) [Subtitle]: AI請可以幫我只留下我跟嘎哥好不好. (22) [Subtitle]: 哇~~~. (23) [Subtitle]: 那合理啦.",
+      "visual_human_presence": {
+        "totalHumanCount": 3,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main creator in a mask, 1 male co-host, and 1 female guest/co-host appearing later.",
+        "mainCharacterDescription": "One person wearing a large yellow cartoonish deity mask and green shirt; one male co-host with brown hair in a grey t-shirt and white headphones."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Studio"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A podcast studio with a brown leather sofa, turquoise curtains, and shelves filled with various collectible figures and framed pop-art posters.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Picture-in-picture / inset",
+          "Meme-style edit",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Coffee"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Microphone / lavalier mic",
+          "Headphones / earbuds"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Let's Café"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 3,
+        "male_vocal_count": 2,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Comedic/Exaggerated",
+          "Friendly"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Ballad/Sentimental",
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 72,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 1,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "Traditional Chinese"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 3,
+        "beatStrength": 2,
+        "instrumentFamiliesAudible": [
+          "Keyboard",
+          "String"
+        ],
+        "instrumentsAudible": [
+          "Piano"
+        ],
+        "musicSourceType": [
+          "Original Jingle/Brand Theme"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter"
+        ],
+        "crowdNoiseIntensity": 3,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Pop / Bubble SFX",
+          "Ding / Bell SFX",
+          "Cartoon / Comedy SFX",
+          "Applause / Laugh Track SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 2,
+        "speechMusicOverlap": 3,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio segment starts with a male voice speaking in a fast, energetic Traditional Chinese dialect, accompanied by an artificial-sounding laughter track and cartoonish pop SFX. The background is acoustically dead, typical of a studio, with no environmental noise floor. (2) A sharp transition occurs as a second male voice begins singing a dramatic, slow-tempo pop ballad. The voice is emotive and high-pitched, mocking a romantic style. A soft piano melody serves as the background music, creating a contrast to the preceding fast-paced banter. (3) The first speaker returns with a high-pitched, excited interjection, causing the music to cut off abruptly. Multiple voices are heard laughing together, including a faint female laugh. Various 'ding' and comedic sound effects are layered over the voices to highlight specific humorous points in the dialogue. (4) The track concludes with the two main male voices engaging in a loud, synchronized laugh and final enthusiastic remarks. The audio levels are consistently high, and the mix is crisp with clear vocal articulation."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Personal Talk",
+        "Meme / Trend"
+      ],
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "Unknown"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video starts with a person wearing a large, exaggerated Big Head Buddha mask sitting on a brown leather sofa, gesturing with his hands while talking into a professional microphone. (2) At 0:04, the scene cuts to a male host (Tsai Aga) wearing white headphones and holding a black 'Let's Cafe' cup, laughing heartily and pointing towards the camera. (3) Throughout the middle section, the camera cuts frequently between the masked character and the host. At 0:23, a female co-host appears next to the male host, both laughing and reacting to the conversation. (4) The host performs a dramatic singing gesture at 0:25. (5) From 0:37 to the end, the masked character explains a scenario involving AI, and the host and co-host react with a mix of laughter and mock disgust, with the host often holding his coffee cup near his face.",
-      "audio_narrative_log": "(1) Male voice (deep and slightly muffled by the mask) begins speaking with a steady, conversational tone about attending events together. (2) Loud, high-pitched laughter from a second male voice (the host) enters, accompanied by clear, professional-grade studio acoustics. (3) Ambient sound includes the occasional rustling of clothes and the clicking of a cup on a table. (4) At 0:23, the host begins singing a brief, dramatic melody in a mock-serious tone while the female voice laughs in the background. (5) The final phase consists of fast-paced, overlapping dialogue and intense laughter as they discuss 'AI generation', ending with high-energy banter.",
-      "text_narrative_log": "(1) '你有去我就會去' (If you go, I'll go) - Functional dialogue, standard font. (2) '哇～他都跟著你' (Wow, he always follows you) - Functional reaction. (3) '原來如此啊' (So that's how it is) - Functional agreement. (4) '不要再造謠了' (Stop spreading rumors) - Decorative/Hook text with an emotional, slightly defensive tone. (5) '你的喜帖是我的請帖' (Your wedding invitation is my invitation) - Song lyrics appearing as the host sings, conveying a melodramatic tone. (6) '好噁 好想吐喔' (So gross, I want to puke) - Reactive text conveying exaggerated disgust."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 14,
-      "averageSceneDuration": 4.8,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro dialogue -> Mocking/Laughter -> Singing segment -> Final AI-themed banter"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 3,
-      "maleDetectAmount": 2,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Upper body",
-        "Hands only"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 masked male on sofa, 1 male host with headphones, 1 female co-host sitting next to the host.",
-      "mainCharacterDescription": "One male wearing a large Big Head Buddha mask and a light green long-sleeve shirt; one male host in a grey t-shirt with white headphones."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Studio",
-          "Indoor"
-        ],
-        "topography": [
           "None"
         ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A podcast studio setup with a brown leather sofa, soundproofing curtains, professional microphones on boom arms, and shelves filled with collectible figurines and artwork.",
-      "lightingStyle": "Intense studio lights",
-      "weather": "Unknown",
-      "season": "Unknown",
-      "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "High Saturation",
-      "cameraWork": [
-        "Static",
-        "Medium Shot"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Coffee"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Microphone",
-        "Headphones"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Let's Cafe"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 3,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 2,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and humorous",
-        "pitch": "Varied",
-        "loudness": "High",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese",
-          "Hokkien"
-        ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": false,
-      "bgmGenre": "No Music",
-      "bgmBPM": 0,
-      "instrumentFamiliesAudible": [
-        "None"
-      ],
-      "instrumentsAudible": [
-        "None"
-      ],
-      "musicSourceType": [
-        "Live"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
+    "temporal_pacing_summary": {
+      "sceneCutCount": 24,
+      "averageSceneDuration": 2.8,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Random: Hook -> Banter -> Climax",
-      "mainPurpose": "To entertain the audience through a humorous and informal discussion between podcast hosts. The content focuses on interpersonal dynamics and funny hypothetical scenarios like using AI to create fake wedding photos, leveraging the chemistry between the well-known creators.",
-      "visualEmotion": "Humorous"
+      "narrativeStructure": "List-based: Hook -> Comedic Banter -> Song Parody -> Conclusion",
+      "mainPurpose": "To entertain the audience through a humorous podcast-style interaction involving lighthearted teasing and the discussion of AI-generated content or wedding scenarios.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -161,14 +270,11 @@
         "Implicit",
         "Integrated"
       ],
-      "endorsementCues": "The host is prominently holding and drinking from a 'Let's Cafe' branded cup throughout the video.",
+      "endorsementCues": "A 'Let's Café' cup is prominently held and used by one of the main speakers throughout the video.",
       "endorsementObject": [
-        "Let's Cafe"
+        "Let's Café"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Tsai Aga's signature high-energy laughter and the recurring Big Head Buddha character.",
-      "freeDescribe": "The video relies heavily on the 'variety show' style of editing common in Taiwanese YouTube culture, including large, colorful text overlays and dramatic reaction shots."
-    }
+    "freeDescribe": "The video uses typical social media editing styles with heavy subtitles and variety-show SFX to maintain high engagement during a conversation-heavy segment."
   }
 }

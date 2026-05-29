@@ -1,176 +1,276 @@
 {
   "videoName": "cocowine0205-20251227022508-1247878203431344.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 33,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Food Review"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A young woman stands in a bright, cavernous Costco warehouse aisle, surrounded by green snack boxes. She wears a white bucket hat and a cream-colored long-sleeve shirt. She holds a large bag of Sennarido pistachio snacks, featuring a prominent Kumamon bear character. (2) The camera zooms into the packaging of the pistachio bag. The bag is white and green with a large, glossy black bear face looking through a circular transparent window. Tiny individual snack packets are visible inside, each also adorned with miniature Kumamon designs. (3) The woman gestures excitedly with her hands towards the bag, pointing out the limited edition markings. Her facial expression is joyful with a wide smile and bright eyes. The background shows price tags and 'PHARMACY' signs in the distance under warehouse lights. (4) She turns the bag around to reveal the back packaging. It contains nutritional tables and a row of five small Kumamon figures walking along the bottom. She counts them with her index finger, moving it across the plastic surface of the bag. (5) The creator holds the bag up again, posing with it while smiling broadly at the camera. A large Costco Wholesale logo is overlaid at the top of the frame. She gives a thumbs-up gesture with her free hand to emphasize her recommendation.",
+      "text_narrative_log": "(1) [Logo]: COSTCO WHOLESALE. [Subtitle]: 熊本熊限定包裝. [Slogan]: 千成堂綠色酥脆開心果 pistachio. (2) [Subtitle]: 我們之前介紹然後造成超大的轟動. (3) [Subtitle]: 因為很好吃. (4) [Subtitle]: 觀看跟分享啊. (5) [Subtitle]: 以及大家認同就是太好吃. (6) [Subtitle]: 現在超值得買 為什麼呢. (7) [Subtitle]: 他跟熊本熊聯名了各位. (8) [Subtitle]: 而且他是裡面的包裝. (9) [Subtitle]: 也都有小熊本熊. (10) [Subtitle]: 超級可愛的. (11) [Subtitle]: 背面也不馬虎. (12) [Subtitle]: 一整排的熊本熊 1 2 3 4 5. (13) [Subtitle]: 一樣的價格可是多了熊本熊圖案. (14) [Subtitle]: 就是值得. (15) [Subtitle]: 好市多評價超好的開心果零食. (16) [Subtitle]: 真的好可愛喔. [Variety]: 讚!!. [Subtitle]: 熊本熊讚.",
+      "visual_human_presence": {
+        "totalHumanCount": 3,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 female creator, 2 blurred passersby in the background aisle",
+        "mainCharacterDescription": "A young woman wearing a white bucket hat with a NY logo, a white long-sleeved sweater, and blue jeans."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Supermarket / Warehouse Store"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "The interior of a Costco warehouse, showing rows of products, price tags, and industrial shelving.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Graphic transition"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Japanese",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Cartoon / animated animal"
+        ],
+        "foodsDetect": [
+          "Snack / chips / candy"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Costco",
+          "Sennarido"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 0,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 120,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 1,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Pop / Bubble SFX",
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a high-energy female voice speaking rapidly in Mandarin. Her pitch is high and her tone is cheerful. An upbeat, major-mode synthesizer track plays in the background with a steady electronic drum beat. A 'pop' sound effect is heard as text appears. (2) A bubbly 'whoosh' sound effect triggers as the camera cuts to a close-up of the product. The speaker's voice maintains a high arousal level, with clear articulation. The background music continues at a steady 120 BPM tempo, providing a rhythmic base for the speech. (3) A soft, higher-pitched female voice in the background briefly exclaims 'so cute,' blending with the main speaker's narration. The main speaker increases her volume slightly to emphasize the value of the limited edition packaging. The ambient room tone of the warehouse is faintly audible. (4) A 'ding' sound effect marks a new phase as she points to specific details on the bag. The speaker's intonation is complex, with frequent rising contours indicating excitement. The music's harmonic tension is low, keeping the mood light and comedic. (5) The speaker concludes with a definitive, positive tone. A final 'sparkle' sound effect accompanies a graphic on screen. The audio ends abruptly as the speech finishes, with the background music fading out quickly during the final sentence."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Food Review",
+        "Shopping",
+        "Short Video"
+      ],
       "location": {
         "country": [
-          "Unknown"
+          "Taiwan"
         ],
         "city": [
           "None"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A female creator wearing a white bucket hat and a white sweater stands in front of a Costco display, enthusiastically holding a large bag of Sennarido green pistachios featuring Kumamon packaging. (2) The camera zooms in on the product, showcasing the Kumamon character on the front and the smaller individual packets visible through the translucent bag. (3) The creator flips the bag to reveal a row of Kumamon illustrations on the back while continuing to talk and gesture excitedly towards the camera.",
-      "audio_narrative_log": "(1) High-pitched and energetic female vocals speaking Mandarin over an upbeat, bouncy lo-fi background track. Ambient warehouse store noise is muffled in the background. (2) Frequent cartoon-style sound effects (pops and dings) coincide with text appearing on screen. (3) The music maintains a constant tempo as the speaker's tone remains cheerful and persuasive until the end.",
-      "text_narrative_log": "(1) '熊本熊限定包裝 千成堂綠色酥脆開心果 pistachio' (Decorative Hook: Kumamon Limited Edition Packaging Sennarido Green Crispy Pistachio - Excited tone). (2) 'COSTCO WHOLESALE' (Functional: Store branding). (3) '真的好吃' (Decorative: Really tasty! - Enthusiastic tone). (4) Standard Chinese subtitles translating the spoken dialogue appear at the bottom."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 5,
-      "averageSceneDuration": 6.6,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Intro -> Product Demo -> Recommendation"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main female creator visible throughout.",
-      "mainCharacterDescription": "A young female with long dark hair, wearing a white New York Yankees logo bucket hat, a white long-sleeved sweater, and jeans."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Warehouse Store"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A Costco warehouse aisle with high shelves, stacked green boxes of pistachios, and store signage like 'PHARMACY' in the distance.",
-      "lightingStyle": "Bright indoor warehouse lighting",
-      "weather": "None",
-      "season": "None",
+      "sceneCutCount": 8,
+      "averageSceneDuration": 4.1,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Handheld"
-      ]
+      "isNarrativeShift": false
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Pistachios"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "COSTCO",
-        "Sennarido",
-        "Kumamon"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "High-pitched and excited",
-        "pitch": "High",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Lo-fi",
-      "bgmBPM": 115,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Electronic Synth",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "Cartoon SFX",
-        "Pop sounds"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Field Recording"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Evidence -> Recommendation",
-      "mainPurpose": "To showcase and recommend a specific limited edition snack (Sennarido Kumamon Pistachios) available at Costco, leveraging the popularity of the Kumamon character and the creator's previous positive experience with the brand.",
-      "visualEmotion": "Energetic and Happy"
+      "narrativeStructure": "List-based: Introduction -> Feature Highlight -> Value Proposition -> Call to Action",
+      "mainPurpose": "To recommend and promote a specific brand of pistachio snacks sold at Costco, emphasizing the new limited-edition Kumamon collaboration packaging to entice viewers to purchase.",
+      "visualEmotion": [
+        "energetic",
+        "warm",
+        "informative"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
-        "Implicit",
+        "Explicit",
         "Integrated"
       ],
-      "endorsementCues": "The creator specifically holds, demonstrates, and praises the product while standing in the retail location.",
+      "endorsementCues": "The creator is specifically highlighting a product's features and limited edition packaging to encourage buying at a specific retailer (Costco).",
       "endorsementObject": [
-        "Sennarido",
-        "Costco"
+        "Costco",
+        "Sennarido"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-energy variety-show style editing with pop-up text and cartoon SFX.",
-      "freeDescribe": "The video targets Costco shoppers and fans of Japanese snacks/mascots, focusing on the novelty of the packaging design."
-    }
+    "freeDescribe": "A typical social media product recommendation video using high-energy presentation and cute mascot elements."
   }
 }

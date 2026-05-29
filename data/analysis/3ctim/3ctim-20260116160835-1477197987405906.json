@@ -1,174 +1,280 @@
 {
   "videoName": "3ctim-20260116160835-1477197987405906.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 41,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Performance",
-        "Concert",
-        "Music Video"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "Taiwan"
+      "visual_narrative_log": "(1) The scene opens on a brightly lit concert stage where three young women are posing for the audience. The central figure wears a black halter top and blue track pants, her arm raised high. To her left, another woman in a black crop top and camo pants strikes a pose, and to her right, a woman in a floral corset-style top and white mini-skirt holds a microphone. The background is a large LED screen displaying a red circular graphic overlaying a blue-tinted forest scene. (2) The visual transitions into a dynamic dance sequence with rapid camera cuts. The performers move energetically in sync with a rhythmic beat. The lighting shifts to emphasize the movement, with spotlights catching their hair and outfits. They are seen in various shot sizes, from full-body group shots to medium close-ups focusing on their facial expressions of intense concentration and joy. (3) The performance continues with more members appearing on stage. They perform intricate hand movements and footwork. One member in a black tank top and camo shorts joins the group for a coordinated pose. The background visuals shift to a lighter purple and pink tone with the letter 'B' prominently displayed. The video ends with a collective group pose, the performers smiling toward the camera as stage lights flash.",
+      "text_narrative_log": "(1) [Logo]: BABY MONSTER. (2) [Logo]: BM. (3) [Logo]: BABYMONSTER.",
+      "visual_human_presence": {
+        "totalHumanCount": 7,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 7,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 7,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face close-up",
+          "Partial body"
         ],
-        "city": [
-          "Taipei"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) Three female performers stand on a stage with a large LED background displaying tree silhouettes and red patterns; the center performer wears blue pants and a black tank top, the right one wears a floral top and white skirt, and the left one wears camo pants. (2) The performer in blue pants raises her right arm high while the right performer holds a microphone and interacts with the crowd. (3) The performers transition into a high-energy dance routine with synchronized arm movements and hip sways as the background colors shift to bright teal and red. (4) A scene cut shows a performer in a red-and-black crop top and black mini-skirt performing a rap verse with aggressive hand gestures. (5) Various members are shown in quick succession performing solo dance parts and singing into microphones. (6) The video ends with a group pose where four members are visible on screen, leaning against each other or posing towards the camera.",
-      "audio_narrative_log": "(1) The sound starts with intense, high-pitched screaming from a large crowd mixed with a heavy, fast-tempo hip-hop beat featuring deep bass and electronic synths. (2) A female voice shouts 'Taipei wo ai ni!' in a high-energy tone, followed by melodic singing and rapid-fire rapping by multiple female vocalists. (3) The music maintains a constant, aggressive rhythm with percussive hits synced to the beat. (4) The track concludes with a final vocal flourish and sustained crowd cheering as the music cuts out.",
-      "text_narrative_log": "(1) 'BABYMONSTER' appears as decorative text on the performers' clothing, specifically on the black tank top and the red-and-black crop top. (2) 'BABY' appears in large, stylized red letters on the background LED screen during the latter half of the performance. (3) No functional subtitles are present."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 18,
-      "averageSceneDuration": 2.2,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro interaction -> High-energy dance performance -> Ending group pose"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 6,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 6,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 6,
-      "bodyPartVisibility": [
-        "Full body",
-        "Mid-shot",
-        "Waist-up"
-      ],
-      "crowdLevel": "Small Group / Crowd",
-      "countingEvidence": "6 main performers visible during various cuts and final group pose; crowd is heard but not clearly seen.",
-      "mainCharacterDescription": "Female K-pop group members wearing streetwear-inspired stage outfits including crop tops, mini-skirts, baggy cargo pants, and boots."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Stage"
+        "crowdLevel": [
+          "Small Group"
         ],
-        "topography": [
+        "countingEvidence": "7 female performers on stage at various times.",
+        "mainCharacterDescription": "The main characters are members of a girl group, dressed in a mix of streetwear and feminine stage outfits including halter tops, crop tops, blue track pants, camo pants, floral corsets, and white skirts."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Stage / Performance Venue"
+        ],
+        "locationTopography": [
           "None"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A large concert stage equipped with high-resolution LED screens displaying changing graphics: a red circle with trees, a dark forest, and a purple background with brand initials.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Warm and vibrant"
         ]
       },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A massive LED screen displaying dynamic graphics including tree silhouettes, red circular patterns, and the text 'BABY'.",
-      "lightingStyle": "Intense studio lights, flashing stage lights, and colorful LED backlighting.",
-      "weather": "None",
-      "season": "None",
-      "editingPace": "Fast",
-      "textOverlay": {
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Zoom in",
+          "Zoom out",
+          "Panning"
+        ],
+        "shotSize": [
+          "Full shot",
+          "Medium shot",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "Low angle"
+        ],
+        "editingTechniques": [
+          "Fast cuts",
+          "Straight cut",
+          "Reaction shot"
+        ],
+        "visualRhythm": [
+          "Highly dynamic / rapid montage"
+        ],
+        "takeStructure": [
+          "Compilation / montage sequence"
+        ]
+      },
+      "visual_text_overlay": {
         "density": "Low",
-        "language": [
+        "textLanguage": [
           "English"
         ],
         "isSubtitled": false
       },
-      "colorTone": "High Saturation",
-      "cameraWork": [
-        "Follow shot",
-        "Static",
-        "Zoom"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Microphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "BABYMONSTER"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade",
-      "vocalRatio": "Medium"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 6,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 100,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 6,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "High-pitched and excited",
-        "pitch": "Sharp",
-        "loudness": "Loud",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "English",
-          "Chinese"
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Microphone / lavalier mic",
+          "Lighting equipment / ring light"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "BABYMONSTER"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Electronic Drums"
-      ],
-      "musicSourceType": [
-        "Copyrighted Song"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Crowd cheering"
-      ],
-      "audioQuality": "Field Recording"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 7,
+        "total_distinct_voices": 8,
+        "male_vocal_count": 0,
+        "female_vocal_count": 7,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "English",
+          "Korean"
+        ],
+        "hasBreathiness": true,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Rising"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": true
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Hip-Hop/Trap"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 7,
+        "male_singer_count": 0,
+        "female_singer_count": 7,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "English",
+          "Korean"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 5,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 3
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Cheering",
+          "Screaming/Yelling",
+          "Applause"
+        ],
+        "crowdNoiseIntensity": 4,
+        "ambientNoiseDetails": [
+          "Commercial/Recreational"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Impact / Hit SFX"
+        ],
+        "soundEffectsIntensity": 2,
+        "soundEffectsCoverage": 1
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 4,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a high-pitched, soaring female vocal run that sustains over several seconds, accompanied by intense, high-arousal crowd cheering and screaming. A rhythmic electronic beat with a heavy kick drum provides a consistent foundation. (2) A sharp transition occurs as the music shifts into a fast-tempo hip-hop section with prominent bass and percussive synthesizer stabs. The vocals become more rapid and rhythmic, mimicking a rap delivery with clear articulation and high energy. The crowd noise remains present but slightly ducked under the music. (3) The phase changes with a melodic vocal hook entering, featuring multiple female voices in harmony. The beat continues with high-frequency percussion hits. The overall acoustic environment is characterized by the bright, sharp frequencies typical of a live concert mix, concluding with a final crescendo of vocals and music followed by a swell in audience applause."
     }
   },
-  "high_inference_interpretations": {
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Music / Performance / MV"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 2.2,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Performance -> Pose",
-      "mainPurpose": "To showcase a live performance of the group BABYMONSTER, highlighting their dance skills, vocal ability, and stage presence to promote their music and concert tour.",
-      "visualEmotion": "Energetic"
+      "narrativeStructure": "Montage: Hook -> High-Energy Performance -> Final Pose",
+      "mainPurpose": "To showcase a live performance highlight from the girl group BABYMONSTER, emphasizing their vocal talent, dance coordination, and stage presence to engage fans and promote the group.",
+      "visualEmotion": [
+        "energetic",
+        "joyful",
+        "vibrant"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
-        "Explicit and Full"
+        "Explicit/Full"
       ],
-      "endorsementCues": "Performers are wearing brand-identified clothing and performing their own music.",
+      "endorsementCues": "Prominent branding of 'BABYMONSTER' on clothing and background screens.",
       "endorsementObject": [
         "BABYMONSTER"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-energy rap transitions, signature 'BABYMONSTER' branding on stage and clothes.",
-      "freeDescribe": "The video captures the peak energy of a live concert, utilizing fast cuts to match the intensity of the hip-hop choreography."
-    }
+    "freeDescribe": "This is a high-energy concert fancam or official highlight clip of the K-pop group BABYMONSTER. The fast editing and high-fidelity audio suggest it's intended for social media promotion."
   }
 }

@@ -1,158 +1,265 @@
 {
   "videoName": "602avenue-20251009134537-1613408876362831.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 15,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Tutorial",
-        "Educational"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A young woman with long dark hair wearing a light blue ribbed shirt stands in a brightly lit indoor living room. To her left, a man in a white t-shirt sits with a large yellow sad emoji covering his face. The woman looks at the camera with an expressive smile and gestures towards the man as she introduces the first Korean phrase. (2) The scene jump-cuts to a slightly closer shot. The woman moves her hands outward in an open gesture while maintaining eye contact with the viewer. The background features a framed painting and a white wall, providing a clean studio-like atmosphere. (3) Another jump-cut occurs as the woman brings her hands together in front of her chest, then gestures to the side. Her facial expression remains energetic and teaching-oriented. The man beside her remains seated and relatively still. (4) The woman points her fingers toward the camera in a rhythmic motion. She tilts her head slightly to the right, showing a playful and engaging educational tone. The lighting is consistent and flat across both characters. (5) She raises one hand to point at her temple, suggesting knowledge or thought. Her mouth is open in a clear articulation pose. The text list at the top of the frame remains static throughout these transitions. (6) The woman brings both hands together in a prayer-like gesture near her chin, tilting her head and closing her eyes slightly to convey sincerity. The man in the white shirt leans slightly towards her. (7) She bows her head deeply toward the camera in a respectful manner. Her hair falls forward, and her hands remain clasped in front of her. The emoji on the man's face remains stationary. (8) The camera cuts to the final shot where the woman smiles widely and makes 'OK' signs with both hands, bringing them up near her face. She looks happy and concludes the educational segment with high energy.",
+      "text_narrative_log": "(1) [Slogan]: Excuse me - Jeogiyo 저기요 Maybe - Amadoyo 아마도요 Yes - Ne 네 / No - Aniyo 아니요 I don't know - Mollayo 몰라요 I know - Aryayo 알아요 Sorry - Juesonghamnida 죄송합니다 Thank you - Gamsahamnida 감사합니다 It's okay - Gwaenchanayo 괜찮아요. [Subtitle]: 不好意思 - Jeogiyo. (2) [Subtitle]: 有可能 - Amadoyo. (3) [Subtitle]: 是 - Ne 不是 - Aniyo. (4) [Subtitle]: 不知道 - Mollayo. (5) [Subtitle]: 我知道 - Aryayo. (6) [Subtitle]: 對不起 - Juesonghamnida. (7) [Subtitle]: 謝謝 - Gamsahamnida. (8) [Subtitle]: 沒關係 - Gwaenchanayo.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 main female creator, 1 male sitting next to her with his face covered by an emoji.",
+        "mainCharacterDescription": "A young woman with long, straight dark hair, wearing a light blue short-sleeved ribbed top and a blue digital watch."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A clean indoor setting with a white wall, a dark brown door frame, and a framed traditional-style painting hanging on the wall.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium close-up",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Jump cut",
+          "Fast cuts"
+        ],
+        "visualRhythm": [
+          "Rhythm matched to music"
+        ],
+        "takeStructure": [
+          "Compilation / montage sequence"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Simplified Chinese",
+          "Traditional Chinese",
+          "English",
+          "Korean"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartwatch / wearable"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly"
+        ],
+        "vocalLanguage": [
+          "English",
+          "Korean"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 115,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 0,
+        "female_singer_count": 1,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "English",
+          "Korean"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Drum Kit / Drum Set"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a catchy, upbeat electronic pop track. A female voice sings in a bright, rhythmic tone, delivering the English and Korean words for 'Excuse me.' The tempo is steady and moderate. (2) The vocals continue seamlessly with the next phrase, 'Maybe,' maintain high clarity and an enthusiastic pitch contour. The BGM features a synthesized bassline and a simple electronic drum beat. (3) The rhythmic delivery stays consistent as the voice sings 'Yes' and 'No' in both languages. The phrasing is clipped and precise to match the musical timing. (4) The singer transitions to 'I don't know,' with the vocal energy remaining high. There are no background noises, indicating a clean studio recording. (5) The phrase 'I know' is delivered with a rising intonation. The electronic music remains constant in the background without significant structural shifts. (6) The vocal tone becomes slightly more soft but still rhythmic for 'Sorry,' matching the visual prayer gesture. The percussion remains the dominant instrumental element. (7) 'Thank you' is sung with a melodic lilt. The female voice demonstrates excellent articulation and a friendly, positive valence. (8) The final phrase 'It's okay' concludes the loop. The music maintains its energetic beat until the very end of the clip, with no fade-out."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Education / Knowledge",
+        "Tutorial / How-to"
+      ],
       "location": {
         "country": [
           "Unknown"
         ],
         "city": [
-          "None"
+          "Unknown"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman with long dark hair in a light blue top and a man in a white t-shirt sit side-by-side on a white sofa. The man's face is obscured by a yellow 'pleading face' emoji. (2) As the video progresses, the woman makes rhythmic hand gestures and facial expressions corresponding to the beat, while the man remains relatively still but gestures occasionally. (3) The duo continues to face the camera, ending the sequence with both individuals making 'OK' hand signs towards the screen.",
-      "audio_narrative_log": "(1) A mid-tempo acoustic track featuring a piano and light percussion begins. A male voice starts singing English words followed by their Korean phonetic translations. (2) The singing continues rhythmically, delivering pairs of phrases like 'Excuse me - Jeogiyo' and 'Maybe - Amadoyo'. No ambient noise is present. (3) The song reaches its conclusion with a final phrase and the music fades out.",
-      "text_narrative_log": "(1) Functional Text: A static list of nine English phrases and their Korean romanized/script equivalents is displayed at the top center throughout the video. (2) Decorative/Hook Text: Dynamic captions appear at the bottom center, synchronized with the audio, showing Chinese translations and Korean phonetics like '不好意思 - Jeogiyo' (polite/informative tone) and '有可能 - Amadoyo' (informative tone). (3) Functional Text: This pattern continues for phrases like '是 - Ne', '不是 - Aniyo', '不知道 - Mollayo', '我知道 - Aryayo', '對不起 - Juesonghamnida', '謝謝 - Gamsahamnida', and '沒關係 - Gwaenchanayo'."
     },
     "temporal_pacing_summary": {
-      "sceneCutCount": 1,
-      "averageSceneDuration": 15.0,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Intro -> Musical Language List -> Outro"
+      "sceneCutCount": 7,
+      "averageSceneDuration": 1.8,
+      "editingPace": "Fast",
+      "isNarrativeShift": false
     },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "1 female main character, 1 male character with face obscured by emoji.",
-      "mainCharacterDescription": "The main female character has long, dark hair and is wearing a light blue, vertically ribbed short-sleeved top and a gold necklace. The male character is wearing a white t-shirt and a blue smartwatch."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Studio"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A simple indoor setting with a white sofa and a plain white background wall, suggesting a clean, controlled environment.",
-      "lightingStyle": "Bright, even studio lighting",
-      "weather": "Unknown",
-      "season": "Unknown",
-      "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "English",
-          "Chinese",
-          "Korean"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone",
-        "Smartwatch"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "None",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 0,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Steady and melodic",
-        "pitch": "Normal",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "English",
-          "Korean"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat/Educational",
-      "bgmBPM": 105,
-      "instrumentFamiliesAudible": [
-        "Keyboard",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Piano"
-      ],
-      "musicSourceType": [
-        "Copyrighted Song"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> List-based -> CTA",
-      "mainPurpose": "The video serves as an educational tool for language learning, specifically teaching basic Korean phrases to a Chinese-speaking audience through a catchy, rhythmic song. The visual presence of the duo provides an engaging, relatable context, while the high-density text overlays ensure the educational content is clearly delivered.",
-      "visualEmotion": "Energetic and Friendly"
+      "narrativeStructure": "List-based: Phrase 1 -> Phrase 2 -> Phrase 3 -> Phrase 4 -> Phrase 5 -> Phrase 6 -> Phrase 7 -> Phrase 8",
+      "mainPurpose": "To teach common Korean phrases to English and Chinese speakers using a catchy, rhythmic song format that aids memorization.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -164,9 +271,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Use of rhythmic hand gestures to teach language, emoji face coverage for one character.",
-      "freeDescribe": "The video is a typical short-form social media educational clip, using beat-syncing and clear visual aids to maximize retention of information."
-    }
+    "freeDescribe": "The video uses a high-arousal musical approach to educational content, utilizing jump cuts to synchronize visual changes with the audio beat."
   }
 }

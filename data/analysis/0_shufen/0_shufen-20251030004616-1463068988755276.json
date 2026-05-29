@@ -1,159 +1,263 @@
 {
   "videoName": "0_shufen-20251030004616-1463068988755276.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 7,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Comedy"
-      ],
+      "videoDuration": 8,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A young woman with long dark hair, wearing a blue scoop-neck top and a white cardigan, is walking through a crowded night market. She has sunglasses perched on her head and looks directly at the camera with a neutral expression. The background is a street with numerous stalls selling various goods under warm artificial lighting. (2) She stops walking and turns her head slightly, looking around with a hint of skepticism. Her facial expressions transition from a blank look to one of slight suspicion as if reacting to an off-screen person. The camera remains at eye-level, capturing her upper body. (3) The camera performs a quick digital zoom or jump cut as she faces the camera again. Her expression shifts to a mischievous or blunt look as she speaks the final phrase. The background remains the same bustling street scene with blurred passers-by and glowing shop signs.",
+      "text_narrative_log": "(1) [Subtitle]: 欸. (2) [Variety]: (有怪人). [Subtitle]: 請問妳是台灣人嗎？ (3) [Subtitle]: 是啊. [Variety]: (對陌生人不能太坦承). [Subtitle]: 幹麻……？ [Variety]: (好想報警). (4) [Subtitle]: 那我問妳. [Variety]: (想套路我？). (5) [Variety]: !!. [Subtitle]: 台語「我愛你」怎麼說？ (6) [Subtitle]: 幹你娘.",
+      "visual_human_presence": {
+        "totalHumanCount": 3,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Face close-up"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main female creator, at least 2 distant blurred figures in the background street.",
+        "mainCharacterDescription": "A young woman with long straight dark hair, wearing a light blue low-cut top, a white open cardigan, and sunglasses on her head."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Market / Night Market",
+          "Outdoor Street"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A vibrant outdoor night market street lined with various retail stalls displaying clothes and accessories under warm, glowing street lights and shop signs.",
+        "lightingStyle": [
+          "Night artificial light",
+          "Warm indoor lighting"
+        ],
+        "weather": [
+          "Night clear"
+        ],
+        "season": [
+          "Autumn"
+        ],
+        "colorTone": [
+          "Warm and vibrant"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Walking handheld",
+          "Digital zoom"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Medium close-up",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 1,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Casual",
+          "Sarcastic/Teasing",
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 6,
+        "valence": 5,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 120,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Crowd Murmur"
+        ],
+        "crowdNoiseIntensity": 1,
+        "ambientNoiseDetails": [
+          "Urban/Traffic"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "Other"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 2,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Mixed"
+        ]
+      },
+      "audio_narrative_log": "(1) A male voice speaks with a slightly excited, inquisitive tone, asking a question in Mandarin. The background contains faint urban street noise and a low-volume, upbeat electronic BGM track. (2) A female voice responds briefly with a neutral-to-wary tone. The BGM continues steadily. (3) The male voice asks a second, more playful question. The acoustic texture remains consistent with a field recording in a public space. (4) The female voice delivers a final, sharp, and loud exclamation, functioning as a punchline. The audio ends abruptly after this delivery."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Meme / Trend"
+      ],
       "location": {
         "country": [
-          "Taiwan"
+          "Unknown"
         ],
         "city": [
           "Unknown"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman with long dark hair, wearing a light blue top and white cardigan, is walking through an outdoor evening street market with shops in the background. She initially looks slightly confused and looks towards the camera. (2) She stops and listens, maintaining a neutral but attentive facial expression while nodding slightly. (3) She looks directly into the lens, smiles subtly, and delivers a quick verbal response with a playful yet sharp expression before the video ends.",
-      "audio_narrative_log": "(1) Upbeat, medium-tempo background music plays alongside the ambient noise of a busy street. A male voice speaks in Mandarin with a polite but inquisitive tone. (2) The female voice responds briefly and neutrally in Mandarin. (3) The male voice asks a follow-up question, and the female voice responds loudly and sharply with a three-syllable Taiwanese Hokkien phrase as the music continues to play.",
-      "text_narrative_log": "(1) (有怪人) - Decorative text indicating suspicion of a 'weirdo' in a humorous tone. (2) (對陌生人不能太坦承) - Contextual hook text about not being too honest with strangers. (3) 請問妳是台灣人嗎？ - Functional text translating the male's question: 'Are you Taiwanese?'. (4) 是啊 幹嘛... - Functional text translating the female's response: 'Yes, what for?'. (5) (想套路我？) - Decorative text questioning if he's trying to trap her. (6) 台語「我愛你」怎麼說 - Functional text asking how to say 'I love you' in Taiwanese. (7) 幹你娘 - Functional/Decorative text for the punchline swear word."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 4,
-      "averageSceneDuration": 1.75,
-      "isNarrativeShift": true,
-      "mainActionFlow": "The video follows a conversational flow: Walking Intro -> Encounter/Question -> Subverted Punchline."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main female creator on screen; male presence is only audible off-screen.",
-      "mainCharacterDescription": "A young woman with long dark straight hair, wearing a white knit cardigan over a light blue low-cut top."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Outdoor Street",
-          "Market"
-        ],
-        "topography": [
-          "Plain"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "An outdoor evening street market with various shopfronts, hanging merchandise, and street lighting.",
-      "lightingStyle": "Natural dusk light mixed with warm artificial street/shop lighting.",
-      "weather": "Clear",
-      "season": "Unknown",
+      "sceneCutCount": 3,
+      "averageSceneDuration": 2.6,
       "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "POV",
-        "Follow shot"
-      ]
+      "isNarrativeShift": false
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Casual and humorous",
-        "pitch": "Moderate (Male), Medium-high (Female)",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin",
-          "Hokkien"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat",
-      "bgmBPM": 110,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Traffic",
-        "Street"
-      ],
-      "audioQuality": "Field"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
       "narrativeStructure": "Linear: Hook -> Interaction -> Punchline",
-      "mainPurpose": "To create a short comedy skit based on a common linguistic prank where an innocent translation request ('How do you say I love you?') is met with a cultural curse word, creating a humorous subversion of expectations.",
-      "visualEmotion": "Humorous"
+      "mainPurpose": "To entertain the audience through a humorous subversion of a typical street pick-up or interview scenario, where a translation request results in an unexpected curse word.",
+      "visualEmotion": [
+        "humorous",
+        "energetic"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -165,9 +269,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Heavy use of variety-show style internal monologue text overlays.",
-      "freeDescribe": "The video relies heavily on the juxtaposition between the woman's attractive appearance and her 'rough' verbal response for comedic effect."
-    }
+    "freeDescribe": "A typical short-form comedy skit featuring a 'street interview' format common on social media platforms like TikTok or Reels."
   }
 }

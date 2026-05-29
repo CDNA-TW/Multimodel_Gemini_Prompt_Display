@@ -1,175 +1,275 @@
 {
   "videoName": "602avenue-20251128234900-889313887344869.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 10,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Food",
-        "Comedy"
-      ],
+      "videoDuration": 10.33,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) The scene begins with a close-up shot focusing on a white bowl containing a small amount of orange-colored liquid. A fair-skinned hand enters the frame, holding a crispy piece of golden-brown fried dough (youtiao) and dipping it into the broth. The background is a dark, cluttered tabletop of a restaurant, with metal tongs and white plates visible. (2) The camera cuts to a medium shot of a young person wearing a beige baseball cap and a light-colored t-shirt. They look directly into the camera with a serious, intense expression while holding a piece of youtiao with metal tongs in front of their face. The background features traditional-style Chinese decor with wooden lattices and warm ambient lighting. (3) The shot changes to a medium close-up of another young woman with long dark hair, wearing a black top. She is shown happily biting into a piece of the soaked youtiao, closing her eyes as she chews. The lighting is bright and warm, highlighting the texture of the food and the person's satisfied facial expression.",
+      "text_narrative_log": "(1) [Slogan]: 油條沾火鍋湯頭吃 是否邪教!?. [Variety]: Yes 💢 / No 😋. (2) [Subtitle]: (台灣朋友). (3) [Subtitle]: 📷 韓國人.",
+      "visual_human_presence": {
+        "totalHumanCount": 3,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Hands only",
+          "Face",
+          "Head and shoulders",
+          "Upper body"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 hand dipping food in phase 1, 1 female character in phase 2, 1 female character in phase 3.",
+        "mainCharacterDescription": "A young woman wearing a beige cap and light t-shirt with a focused expression; another young woman with long dark hair wearing a black outfit eating food."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Restaurant / Dining"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The interior of a hotpot restaurant featuring dark tabletops, traditional wooden wall decorations, and warm studio-like artificial lighting.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Warm and vibrant"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Close-up",
+          "Medium shot",
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "High angle",
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Soup / hotpot / curry",
+          "Bread / pastry",
+          "Chinese Food"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 0,
+        "female_singer_count": 1,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "Korean"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 0,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocal_ratio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 0,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio consists entirely of a high-energy, rhythmic K-pop style electronic track. It features a bright, synthesized bass line and crisp electronic drums. A female vocal sample repetitively chants rhythmic syllables in Korean, synchronized perfectly with the driving 4/4 beat. There is no foreground human speech or ambient environmental noise, indicating a clean, post-produced master track used for social media content. The music maintains a constant tempo and intensity throughout the entire duration."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Food Review",
+        "Meme / Trend"
+      ],
       "location": {
         "country": [
-          "Unknown"
+          "Taiwan"
         ],
         "city": [
           "None"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video begins with a close-up shot of a hand dipping a piece of fried dough stick (Youtiao) into a small bowl of hot pot broth. (2) The scene cuts to a young woman wearing a baseball cap (labeled as Taiwanese friend) who looks at the food with an expression of disgust and skepticism. (3) The scene cuts to another young woman (labeled as Korean person) who eagerly takes a large bite of the dipped fried dough stick, smiling and nodding with satisfaction while chewing. (4) The camera remains on the Korean woman as she continues to enjoy the food, showing a clear contrast to the previous reaction.",
-      "audio_narrative_log": "(1) An upbeat, fast-paced K-pop or electronic track with high-pitched female vocal samples starts immediately. The music is rhythmic and energetic. (2) The same music continues at a consistent volume throughout the video, providing a rhythmic backdrop to the visual cuts. (3) No direct dialogue or ambient restaurant noise is audible; the music track is the sole audio component.",
-      "text_narrative_log": "(1) \"油條沾火鍋湯頭吃是否邪教!?\" (Is dipping fried dough in hot pot broth heresy!?) - This is a central hook text in black and white boxes. (2) \"Yes 💢 / No 😌\" - A functional hook prompting a choice. (3) \"（台灣朋友）\" (Taiwanese friend) - Descriptive text identifying the first person. (4) \"🇰🇷 韓國人\" (Korean person) - Descriptive text identifying the second person."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 4,
-      "averageSceneDuration": 2.5,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro action -> Negative reaction -> Positive reaction"
+      "sceneCutCount": 2,
+      "averageSceneDuration": 3.4,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
     },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Hands only",
-        "Full body",
-        "Face"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "One female main character as the 'Taiwanese friend' and one female main character as the 'Korean person'.",
-      "mainCharacterDescription": "One woman is wearing a beige baseball cap and a light-colored t-shirt; the other has long dark hair and is wearing a dark top."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Restaurant"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A typical hot pot restaurant setting with wooden-styled wall decor and various dishes, spoons, and chopsticks on a black table.",
-      "lightingStyle": "Warm indoor lighting",
-      "weather": "Not applicable",
-      "season": "Unknown",
-      "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese",
-          "Korean (Flag Emoji)"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Close-up"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Youtiao",
-        "Hot pot broth",
-        "Dumplings"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "None",
-      "vocalRatio": "Low"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 0,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "None",
-        "pitch": "None",
-        "loudness": "None",
-        "speed": "None",
-        "speechDensity": "None",
-        "language": [
-          "None"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat K-Pop / Electronic",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Copyrighted Song"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Point-of-View -> Counter-Point",
-      "mainPurpose": "The video aims to highlight cultural differences in eating habits, specifically focusing on the controversial practice of dipping fried dough in hot pot broth. It uses the contrasting reactions of a 'Taiwanese friend' (disgust) and a 'Korean person' (enjoyment) to spark engagement and debate among viewers about culinary 'heresy'.",
-      "visualEmotion": "Humorous"
+      "narrativeStructure": "List-based: Action -> Reaction 1 -> Reaction 2",
+      "mainPurpose": "To playfully question a controversial food-eating habit—dipping fried dough into hotpot broth—by contrasting the intense/skeptical reaction of a Taiwanese friend with the joyful acceptance of a Korean friend, encouraging audience engagement on the topic.",
+      "visualEmotion": [
+        "humorous",
+        "energetic",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
       "endorsementMethod": [
         "None"
       ],
-      "endorsementCues": "No specific brand or product is promoted beyond general food items.",
+      "endorsementCues": "None",
       "endorsementObject": [
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-contrast reaction shots with cultural labeling.",
-      "freeDescribe": "The video relies heavily on cultural stereotypes (Taiwanese vs. Korean food preferences) to generate relatable or controversial social media content."
-    }
+    "freeDescribe": "The video utilizes a popular social media format where a question is posed to the audience, followed by character reactions that represent different cultural or personal viewpoints on food etiquette."
   }
 }

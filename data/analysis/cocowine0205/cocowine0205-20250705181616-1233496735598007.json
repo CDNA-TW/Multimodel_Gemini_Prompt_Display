@@ -1,183 +1,279 @@
 {
   "videoName": "cocowine0205-20250705181616-1233496735598007.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 68,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Product Review"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) The video begins in a large warehouse retail setting, likely a Costco, characterized by tall industrial shelving stacked with bulk goods. A young woman with long black hair, wearing a white puffed-sleeve shirt under a black vest, stands in an aisle. She holds a large purple product box featuring taro coconut soup and gestures toward the camera with an expressive face and hand movements. The lighting is bright and typical of a commercial warehouse. (2) The camera transitions to high-granularity close-ups of the product packaging, which displays high-resolution images of a bowl of purple taro soup with oats. Details like the brand name 'Great Day' and 'Quaker' are visible. A shot of the store shelf shows a yellow price tag of 399. The camera work is handheld but stable, focusing on the text and ingredient illustrations. (3) The scene shifts to a well-lit indoor living room. Two women, including the one from the warehouse, sit at a table. The second woman has bangs and wears a teal turtleneck. They are shown tasting the product from small black bowls using plastic spoons. Their facial expressions are animated and joyful as they give thumbs up and point to the ingredients in the bowls. Plush toys and a sofa are visible in the background.",
+      "text_narrative_log": "(1) [Logo]: COSTCO WHOLESALE. [Variety]: 話題必買新品. (2) [Subtitle]: 芋頭燕麥椰奶露. (3) [Subtitle]: 他竟然出了甜點. (4) [Subtitle]: 而且他加桂格燕麥. (5) [Subtitle]: 399元. [Variety]: 最新上的. (6) [Variety]: 滿分10分!. (7) [Variety]: 超級驚豔的甜點. (8) [Slogan]: 推薦給你們沒有葉配真的好吃.",
+      "visual_human_presence": {
+        "totalHumanCount": 3,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Head and shoulders",
+          "Upper body"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "2 main female creators, 1 male passerby blurred in the background aisle.",
+        "mainCharacterDescription": "One woman with long black hair in a white shirt and black vest; another woman with straight bangs in a dark teal turtleneck."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Supermarket / Warehouse Store",
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "Industrial warehouse shelves with bulk products and domestic living room with table and plush decor.",
+        "lightingStyle": [
+          "Bright indoor lighting",
+          "Warm indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Panning"
+        ],
+        "shotSize": [
+          "Medium close-up",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Meme-style edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Plush / decoration / toy animal"
+        ],
+        "foodsDetect": [
+          "Dessert / cake / cookies",
+          "Prepared meal / plated dish"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Costco",
+          "得意的一天",
+          "桂格"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 0,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 125,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 3,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Ceramics / Glass  Clink"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Pop / Bubble SFX",
+          "Ding / Bell SFX",
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A female voice begins a rapid, high-energy narration with a bright, conversational tone. The background music is an upbeat electronic pop track with a persistent, steady beat. The acoustic environment is clean with minimal room tone. (2) A distinct 'ding' sound effect triggers a new phase as price information is discussed. The narrator’s pitch variability increases to emphasize the product's value. The upbeat BGM maintains a constant tempo in the background. (3) The audio shifts to a dual-vocal conversation between two women. Their speech is characterized by high arousal and positive valence. Frequent short, percussive sounds of spoons clinking against ceramic bowls are heard over the BGM. (4) A bubbly 'pop' sound effect occurs as the women give their final recommendation. The speech rate remains fast, and the music swells slightly before a hard cut at the end of the clip."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Food Review",
+        "Shopping",
+        "Product Showcase"
+      ],
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "Unknown"
+          "None"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman in a black vest over a white shirt is standing in a Costco warehouse store. She holds up a large purple box of 'Great Day Taro Coconut Soup with Oats' and points to it with excitement. (2) The camera zooms in on the product box, detailing the 'Quaker' brand and serving suggestions. (3) The scene shifts to an indoor dining setting. Two women are sitting at a table with a bowl of the taro soup. They use spoons to show the thick texture and ingredients (taro chunks and oats). They give thumbs-up gestures and smile broadly at the camera.",
-      "audio_narrative_log": "(1) Upbeat and energetic electronic background music begins. A high-pitched, enthusiastic female voice speaks in Mandarin, introducing a new product at Costco. Ambient sounds of a busy warehouse can be heard faintly. (2) As the scene transitions, a second female voice is heard joining the discussion with equal excitement. (3) The audio remains clear as they taste the food; soft clinking of spoons against the bowl and more vocal expressions of satisfaction ('Mmm', 'Oh') are heard. Bright sound effects like 'dings' and 'pops' are used to emphasize text appearances.",
-      "text_narrative_log": "(1) Functional Text: Subtitles in Traditional Chinese translating the speakers' dialogue about the taro coconut soup. (2) Decorative/Effect Text: Large, colorful titles appear including 'COSTCO WHOLESALE', '話題必買新品' (Must-buy new products), '滿分10分!' (Full marks 10 points!), and '沒有業配真的好吃' (No sponsorship, really delicious). These have an enthusiastic and encouraging tone."
     },
     "temporal_pacing_summary": {
       "sceneCutCount": 14,
       "averageSceneDuration": 4.8,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro at retail store -> Product close-up -> In-home tasting and review"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Torso",
-        "Hands only"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "Two main female creators shown throughout the review.",
-      "mainCharacterDescription": "One woman has long black hair and wears a black vest; the other has black hair with purple ribbons and wears a teal turtleneck."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Warehouse Store",
-          "Indoor Apartment"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A Costco warehouse with tall shelving units and pallet-stacked goods; followed by a home dining room with a wooden table, shelving, and a TV.",
-      "lightingStyle": "Bright commercial lighting and warm domestic lighting.",
-      "weather": "None",
-      "season": "Unknown",
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Bright and Natural",
-      "cameraWork": [
-        "Static",
-        "Handheld",
-        "Close-up"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Taro Coconut Soup",
-        "Oats",
-        "Dessert Bowl"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "TV",
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "COSTCO",
-        "Quaker",
-        "Great Day",
-        "BT21"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 2,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Enthusiastic and friendly",
-        "pitch": "High-pitched",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum kit"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Cartoon SFX",
-        "Ding",
-        "Pop"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Introduction -> Product Features -> Tasting Test -> Rating/Conclusion",
-      "mainPurpose": "The video aims to provide a highly positive, authentic review of a new dessert product found at Costco Taiwan. By showing the purchase in-store and then doing a detailed taste test at home, the creators aim to influence their audience to buy the product based on its flavor and convenience.",
-      "visualEmotion": "Energetic and Joyful"
+      "narrativeStructure": "List-based: Discovery -> Demonstration -> Tasting -> Evaluation",
+      "mainPurpose": "The video serves to introduce and review a new taro coconut dessert found at Costco. By combining on-site shopping footage with an at-home taste test, the creators demonstrate the product's practical features, value for money, and sensory appeal to encourage their audience to purchase it.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
       "endorsementMethod": [
         "None"
       ],
-      "endorsementCues": "The creators explicitly state in the text and dialogue that there is 'No sponsorship' (沒有業配).",
+      "endorsementCues": "The narrator explicitly states 'no sponsorship' (沒有葉配) at the end of the video.",
       "endorsementObject": [
-        "Great Day",
-        "Quaker"
+        "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-energy presentation style common in Taiwanese lifestyle vlogs, combined with variety-show style dynamic text overlays.",
-      "freeDescribe": "The use of 'No sponsorship' claims is a common tactic to build trust with the audience, emphasizing authenticity in the clustering of user-generated reviews."
-    }
+    "freeDescribe": "Typical social-media review style with high visual/audio density to maintain user attention."
   }
 }

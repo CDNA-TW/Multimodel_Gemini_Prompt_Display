@@ -1,174 +1,270 @@
 {
   "videoName": "yga0721-20250912072517-1393799935822109.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 88,
-      "aspectRatio": "1:1",
-      "videoGenre": [
-        "Vlog",
-        "Comedy",
-        "Parody"
-      ],
+      "videoDuration": 86,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) The video begins with a woman standing centered in front of a neutral-colored curtain background. She is wearing a white long-sleeved shirt and holding a stack of papers. Her expression is serious as she looks down at the papers and begins to read. Large yellow text overlays the top of the frame. (2) A man wearing a black t-shirt suddenly enters from the right side of the frame, smiling broadly and gesturing excitedly towards the woman. He appears to be cheering or reacting to what she is reading. The woman looks at him and maintains a slight smile. (3) The camera remains static as the woman continues to read from the papers, occasionally looking up at the camera. The man remains in the frame, sometimes leaning in or pointing at the papers. (4) In the final phase, the man becomes even more energetic, throwing the papers into the air and raising his arms in celebration. The woman smiles and laughs at his antics. The background remains the same throughout.",
+      "text_narrative_log": "(1) [Logo]: 真相 PART 3. [Subtitle]: 劇本4 頻繁高額消費事件. [Slogan]: 嘎哥把逆轉劇本寫好了 接下來就靠你至己了+0. (2) [Subtitle]: 沒錯 Yes 這我扛! (3) [Subtitle]: 合理! 太合理了 太合理了. (4) [Variety]: Action. (5) [Subtitle]: 我想對ANDY說. (6) [Subtitle]: 頻道給你 閨蜜給你 淑惠給你 群海給你. (7) [Logo]: @aler017. (8) [Variety]: Bravo. (9) [Subtitle]: 劇本太完美了.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 female main speaker reading from a script, 1 male reactor entering later.",
+        "mainCharacterDescription": "The main woman has long brown hair and wears a clean, white button-down long-sleeved shirt. The male character wears a simple black t-shirt."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A simple indoor setting with vertical-pleated beige or light grey curtains acting as a backdrop, creating a studio-like or home-office feel.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Instagram"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 1,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Acoustic/Folk"
+        ],
+        "tempoBPM": 95,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 2,
+        "instrumentFamiliesAudible": [
+          "String"
+        ],
+        "instrumentsAudible": [
+          "Guitar"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Paper / Page Rustle"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Meme SFX",
+          "Whoosh / Transition SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 2,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio begins with a female voice speaking in a calm, steady narrative tone with clear articulation. A soft acoustic guitar melody plays in the background. (2) Suddenly, a loud male voice enters with an energetic shout ('Yes!'), creating a high arousal spike. The background guitar continues uninterrupted. (3) The female voice resumes her narrative, maintaining a moderate pitch and tempo. (4) The male voice interrupts again at the end with repeated high-pitched cheering and shouting ('Bravo!'), accompanied by the sound of papers rustling as they are thrown. The overall mix is clean with studio-grade clarity."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Storytelling",
+        "Meme / Trend"
+      ],
       "location": {
         "country": [
-          "Taiwan"
+          "None"
         ],
         "city": [
           "None"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video begins with a split-screen view. The upper half shows a woman in a white button-down shirt standing against a plain background, while the lower half displays large text overlays. (2) The woman holds a stack of papers (a script) and looks down as if reading, maintaining a serious expression. (3) A man enters the frame from the right side, wearing a black shirt, and begins gesturing wildly towards the woman, pointing and shouting with an exaggeratedly joyful expression. (4) Scene transitions to another 'script' phase where the woman continues reading, then occasionally looks up at the camera. (5) The man reappears, throwing papers into the air and celebrating enthusiastically. Both characters end the video laughing and waving towards the camera.",
-      "audio_narrative_log": "(1) Upbeat, synthesized pop background music plays with a moderate tempo. (2) A female voice begins speaking in a calm, steady narrative tone, reading text from a script. (3) A male voice abruptly enters, shouting with high energy and excitement, using words like 'Yes!', 'Bravo!', and 'Woo!'. (4) The woman's voice returns, maintaining a slightly more emotional but still scripted tone. (5) The male voice dominates the final section with loud cheering, laughter, and celebratory exclamations as the music reaches its peak volume.",
-      "text_narrative_log": "(1) '真相 PART 3' (Truth Part 3) - Hook. (2) '劇本 4 頻繁高額消費事件' (Script 4: Frequent High-Value Consumption Incident) - Title text. (3) '劇本 4+5 嘎哥把逆轉劇本寫好了 接下來就靠你至已了 +0' (Script 4+5: Brother Ga has written the reversal script, now it's up to you +0) - Hook text. (4) Multiple lines of functional subtitles appearing in white/yellow, detailing a narrative about money, 'Lola', and 'Andy'. (5) '劇本 5 我想對ANDY說' (Script 5: I want to say to Andy). (6) 'Bravo', 'Yes', '怎麼輸?' (How can we lose?) - Emotional decorative text."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 14,
-      "averageSceneDuration": 6.2,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro Hook -> Scripted Reading -> Interrupted Celebration -> Scripted Reading -> Final Celebration"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Upper body",
-        "Hands"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "1 main female creator reading the script, 1 male co-creator appearing from off-screen.",
-      "mainCharacterDescription": "A woman with long brown hair wearing a clean white long-sleeved shirt, appearing professional yet ironic."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Studio",
-          "Indoor Office"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A simple indoor setting with light-colored, vertically pleated curtains serving as a neutral backdrop.",
-      "lightingStyle": "Bright studio lighting",
-      "weather": "Indoor",
-      "season": "None",
+      "sceneCutCount": 8,
+      "averageSceneDuration": 10.75,
       "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static"
-      ]
+      "isNarrativeShift": false
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut between narration and shouting",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Sarcastic, humorous, and high-pitched shouting",
-        "pitch": "Mix of medium (female) and high (male)",
-        "loudness": "High",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Traditional Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Parody Pop",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Paper rustling",
-        "Celebratory cheering"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Script 4 reading -> Script 5 reading -> Outro",
-      "mainPurpose": "This video is a satirical parody of serious 'truth-revealing' videos often seen in the influencer community. The content uses a 'scripted' format to mock recent controversies involving internet personalities (referencing names like Lola and Andy), turning what might be a serious narrative into a comedic performance for entertainment.",
-      "visualEmotion": "Humorous and Energetic"
+      "narrativeStructure": "List-based: Hook -> Evidence -> Response -> Final CTA",
+      "mainPurpose": "The video is a humorous skit or meta-commentary where a woman reads a fictionalized 'script' about a controversy, while the man (the creator) reacts with over-the-top enthusiasm to his own writing. It aims to entertain followers by parodying 'truth-revealing' videos.",
+      "visualEmotion": [
+        "humorous",
+        "energetic",
+        "informative"
+      ]
     },
     "endorsement_analysis": {
-      "isEndorsement": false,
+      "isEndorsement": true,
       "endorsementMethod": [
-        "None"
+        "Implicit",
+        "Integrated"
       ],
-      "endorsementCues": "While the characters mention a social media account at the end, it is presented as part of the skit's conclusion rather than a paid commercial placement.",
+      "endorsementCues": "The inclusion of an Instagram handle and call to follow in the text overlays and verbal cues suggests self-promotion or brand endorsement.",
       "endorsementObject": [
-        "None"
+        "aler017"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Cai A-ga's signature shouting style and white shirt aesthetics often used in his scripted parodies.",
-      "freeDescribe": "The video heavily relies on meta-humor and knowledge of current events in the Taiwanese YouTube sphere to be fully understood."
-    }
+    "freeDescribe": "The video uses a 'variety show' editing style with large, colorful text to emphasize key phrases. The contrast between the woman's serious reading and the man's wild reactions is the primary source of humor."
   }
 }

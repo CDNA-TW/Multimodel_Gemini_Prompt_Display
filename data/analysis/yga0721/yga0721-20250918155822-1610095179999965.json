@@ -1,175 +1,281 @@
 {
   "videoName": "yga0721-20250918155822-1610095179999965.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 42.0,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Product Review",
-        "Tutorial"
-      ],
+      "videoDuration": 42.13,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A man with dark, styled hair, wearing a black zip-up hoodie featuring \"Taiwan\" text and a logo on the chest, stands in a brightly lit bathroom setting. He holds a white, multi-layered plastic clothes hanger that currently holds several shirts. He looks into the camera with an animated expression, gesturing with his hands to introduce the product. The background consists of cream-colored tiles and a metal towel rack.\n(2) The camera cuts to a tight close-up of the white hanger mechanism. A hand is seen pressing a small plastic tab, which triggers the hanger arms to snap shut with a visible mechanical movement. The background is a soft-focus blur of the bathroom tiles, keeping the focus entirely on the white plastic object and its functional components.\n(3) The scene transitions to a different indoor setting, a retail store with shelves filled with white merchandise. The man is now wearing a vibrant red bomber jacket over a blue hoodie. He holds the hanger product in its original clear plastic retail packaging, pointing at the label. The lighting here is bright and even, typical of a commercial shopping environment.\n(4) Returning to the tiled bathroom, the man provides a step-by-step demonstration. He takes a pink t-shirt and slides the collapsed hanger into the neck opening. He then pushes a lever, causing the hanger arms to expand outward and lock into place inside the shirt. His hands are moving quickly and efficiently, showing the ease of use.\n(5) The man demonstrates the \"lazy\" feature by holding the main frame of the rack which holds eight different colored t-shirts. He presses a central release button, and all eight hangers fold down at once, letting the shirts slide off into a pile. He reacts with a wide-eyed, joyful expression and a thumbs-up gesture, appearing very impressed.",
+      "text_narrative_log": "(1) [Slogan]: 日本3coins 神奇懶人衣架. (2) [Subtitle]: 推薦大家如果有來日本. (3) [Subtitle]: 3coins 必買好用衣架. (4) [Subtitle]: 嘎哥示範怎麼用. (5) [Subtitle]: 掛衣服很簡單. (6) [Subtitle]: 插進去、打開、固定. (7) [Subtitle]: 不用另外拿衣架. (8) [Subtitle]: 8件衣服一起收. (9) [Variety]: 喔!. (10) [Subtitle]: 這是什麼懶人福音啦. (11) [Subtitle]: 單拿1件 壓這裡. (12) [Subtitle]: 收右邊4件 轉右邊. (13) [Subtitle]: 收左邊4件 轉左邊. (14) [Subtitle]: 這種神奇發明誰想的? 很懶耶. (15) [Subtitle]: 這要找嘎哥業配吧.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main male creator presenting the product.",
+        "mainCharacterDescription": "An East Asian male with short dark hair, wearing a black hoodie with 'Taiwan' text or a red bomber jacket."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Bathroom",
+          "Retail Store"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A tiled bathroom with a chrome towel rack and a retail store interior with shelves and white merchandise.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Handheld",
+          "Panning"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Fast cuts"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Other"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "3coins"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM",
+          "Pop"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Mechanical Click / Latch"
+        ],
+        "incidentalNoiseIntensity": 3,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Impact / Hit SFX",
+          "Pop / Bubble SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Fades"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) High-energy electronic background music begins with a driving 4/4 beat and prominent synthesized bass. A male voice with a bright, forward timbre starts speaking rapidly in Traditional Chinese. The speech is highly articulated with frequent pitch shifts, indicating high arousal and enthusiasm. No significant ambient noise is present.\n(2) A sharp, percussive \"click-clack\" sound effect is heard, synced with the visual operation of the plastic hanger mechanism. This transient sound has a high spectral centroid and short decay. The BGM maintains its tempo and volume, while the speaker's tone remains consistently energetic and fast-paced.\n(3) A quick, synthesized \"whoosh\" sound effect marks a transition to a retail store segment. The speaker continues his narration, mentioning \"3coins\" with a rising intonation. The acoustic floor shifts slightly to include faint, distant chatter and room resonance characteristic of a commercial space.\n(4) Recurrent mechanical \"click\" sounds are layered over the BGM as the speaker describes the process of inserting and locking the hanger. The vocal delivery is rhythmic, matching the pace of the music. Each word is sharply enunciated. There is a high signal-to-noise ratio with the voice and music being the primary layers.\n(5) A rapid series of mechanical clicks occurs as the device releases multiple shirts simultaneously. The speaker's volume swells into a high-pitched exclamation of surprise and joy. The BGM continues its upbeat loop before a final hard cut as the demonstration concludes, leaving a lasting impression of efficiency."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Product Showcase",
+        "Lifestyle",
+        "Comedy"
+      ],
       "location": {
         "country": [
-          "Japan"
+          "Japan",
+          "Taiwan"
         ],
         "city": [
           "None"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A man with brown hair wearing a black hoodie stands in a bathroom setting, demonstrating a white multi-hook hanger by hanging several shirts on it. (2) The scene cuts to the same man in a red jacket inside a 3coins store in Japan, holding the packaged product and gesturing excitedly. (3) Back in the bathroom, he demonstrates the 'magic' feature by pressing a button, causing the clothes to drop off the hangers instantly. (4) He then shows a step-by-step process of inserting the hanger into shirts and expanding the arms. (5) He demonstrates the individual release mechanism and the split-side release function while pointing at the specific buttons on the hanger frame.",
-      "audio_narrative_log": "(1) Upbeat and quirky background music starts with a male voice speaking enthusiastically in Mandarin. (2) Frequent mechanical clicking and snapping sounds are heard as he operates the plastic hanger mechanism. (3) The vocal tone remains high-pitched and energetic throughout, with specific sound effects (like a 'whoosh') used during transitions. (4) The music continues steadily until the end of the clip.",
-      "text_narrative_log": "(1) '日本3coins 神奇懶人衣架' (Japan 3coins Magic Lazy Hanger) - Title hook. (2) '推薦大家如果有來日本 3coins 必買好用衣架' (Recommend to everyone, if you come to Japan, must buy this 3coins hanger) - Recommendation. (3) '嘎哥示範怎麼用' (Ga Ge demonstrates how to use) - Character intro. (4) '掛衣服很簡單 插進去、打開、固定 不用另外拿衣架' (Hanging clothes is easy: insert, open, fix; no need for extra hangers) - Functional instruction. (5) '8件衣服一起收' (Collect 8 pieces of clothing together) - Feature highlight. (6) '這是什麼懶人福音啦' (What kind of gospel for lazy people is this) - Emotional reaction. (7) '收右邊4件 轉右邊 收左邊4件 轉左邊' (Collect 4 on the right, turn right; 4 on the left, turn left) - Instructional. (8) '這神奇發明誰想的? 很懶耶 這要找嘎哥業配吧' (Who thought of this magic invention? So lazy. Should find Ga Ge for a sponsorship) - Closing hook."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 18,
-      "averageSceneDuration": 2.3,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro -> Store Reveal -> Practical Feature Demo -> Closing Commentary"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Upper body",
-        "Hands only"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main creator (Cai A-ga) throughout the video.",
-      "mainCharacterDescription": "A middle-aged Asian male with dyed brown hair, wearing a red bomber jacket in the store and a black 'Taiwan' branded hoodie during the demo."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Bathroom",
-          "Retail Store"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "One scene is inside a bathroom with beige tiles and a towel rack; another is inside a brightly lit 3coins retail store with shelves full of household goods.",
-      "lightingStyle": "Bright indoor lighting",
-      "weather": "Unknown",
-      "season": "Unknown",
+      "sceneCutCount": 12,
+      "averageSceneDuration": 3.5,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Close-up"
-      ]
+      "isNarrativeShift": true
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "3coins"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and humorous",
-        "pitch": "High",
-        "loudness": "High",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Kit"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Mechanical clicks",
-        "Whoosh"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Field"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage -> List-based: Hook -> Feature Demo 1 -> Feature Demo 2 -> CTA",
-      "mainPurpose": "To showcase and review a specific 'lazy' household product from the Japanese brand 3coins, demonstrating its efficiency in hanging and collecting laundry to save time and effort.",
-      "visualEmotion": "Energetic"
+      "narrativeStructure": "List-based: Hook -> Problem Solving -> Feature Demonstration -> Emotional Payoff -> Brand CTA.",
+      "mainPurpose": "The video aims to promote a specific space-saving clothes hanger from the Japanese brand 3coins by demonstrating its efficiency and ease of use through a humorous and high-energy presentation style.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "informative"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
-        "Implicit",
-        "Integrated"
+        "Explicit",
+        "Full"
       ],
-      "endorsementCues": "Direct recommendation of the product and brand (3coins) as a 'must-buy'.",
+      "endorsementCues": "The creator directly holds the product packaging, mentions the brand 3coins, and highlights its benefits to encourage viewers to purchase it.",
       "endorsementObject": [
         "3coins"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-energy presentation style of Taiwanese influencer Cai A-ga (嘎哥).",
-      "freeDescribe": "The video uses fast-paced editing and prominent text overlays to keep viewers engaged with a simple product demonstration."
-    }
+    "freeDescribe": "The fast editing pace and high vocal energy are optimized for short-form social media engagement, effectively making a mundane household tool seem exciting."
   }
 }

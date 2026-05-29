@@ -1,156 +1,261 @@
 {
   "videoName": "0_shufen-20250907041415-776152268880837.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 20,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Comedy",
-        "Storytelling"
-      ],
+      "videoDuration": 19,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "None"
+      "visual_narrative_log": "(1) The video begins with a close-up shot of a young woman with long dark hair, wearing glasses and a low-cut pink top. She is seated inside the passenger side of a car, looking directly into the lens and speaking with animated facial expressions. Her hands are occasionally visible as she gestures while talking. The background shows the interior of a vehicle with bright, natural light coming through the windows. (2) As she continues her story, her expression shifts to a more playful tone. She raises her hand to her chin in a thinking pose. Small pink heart icons are digitally added around her head, and her eyes remain focused on the camera. (3) The shot zooms in significantly on her face. Digital blue tear streaks are overlaid on her cheeks to indicate a crying or distressed emotion. Numerous text captions in different fonts and sizes appear across the screen, creating a cluttered, variety-show aesthetic as she expresses physical discomfort through her facial contortions and squinted eyes.",
+      "text_narrative_log": "(1) [Variety]: 幹. [Slogan]: 曖昧對象. (2) [Slogan]: 約會. (3) [Subtitle]: 結果. (4) [Subtitle]: 我才發現. (5) [Variety]: 居然. (6) [Subtitle]: 這種地方. (7) [Subtitle]: 臨陣脫逃. (8) [Subtitle]: 他卻說. (9) [Slogan]: 來都來了. (10) [Subtitle]: 我也. (11) [Subtitle]: 隨便啦. (12) [Slogan]: 來都. (13) [Subtitle]: 然後我們就.. (14) [Subtitle]: 一起. (15) [Slogan]: 健身. (16) [Subtitle]: 我現在. (17) [Subtitle]: 全身都好痛啊.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Face close-up",
+          "Upper body",
+          "Hands only"
         ],
-        "city": [
-          "None"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman with long wavy dark hair, wearing large-frame purple-tinted glasses and a low-cut pink shirt, is sitting in the driver's seat of a car, speaking directly to the camera. (2) As she recounts her story, pink heart animations and digital blush effects appear on her face; she touches her mouth with her finger and looks playfully at the camera. (3) The camera zooms in significantly on her mouth and lower face as she continues the dialogue. (4) The scene shifts back to her full face with animated blue tear stickers flowing from her eyes and a barrage of floating text captions appearing as she expresses physical exhaustion and distress.",
-      "audio_narrative_log": "(1) A single female voice speaks in a conversational, slightly dramatic Mandarin tone over a light, upbeat electronic background track with a steady beat. (2) A subtle melodic 'ding' sound effect plays when the heart animations appear on screen. (3) The music maintains its tempo as the speaker's tone shifts from narrative to a more exaggerated, high-pitched complaining style. (4) The audio concludes with the female speaker making a soft groaning sound of physical pain amidst the continuing background music.",
-      "text_narrative_log": "(1) Functional Text: Subtitles translate the dialogue describing a date that turned into a gym session: 'Yesterday my crush asked me out...', 'Actually it was this kind of place...', 'Together we worked out...', 'Now my whole body hurts!'. (2) Decorative/Effect Text: Large yellow and white variety-show style captions highlight keywords like 'Crush' (曖昧對象), 'Date' (約會), and 'Gym' (健身). (3) Floating barrage text (danmu) appears at the end with characters like '5555' (representing crying) and words like 'Painful' (痛苦) and 'Sad' (難過) to emphasize the emotional tone."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 4,
-      "averageSceneDuration": 5.0,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Hook -> Context Setting -> Expectation vs Reality Reveal -> Humorous Result"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Waist up"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main female creator visible in the car seat",
-      "mainCharacterDescription": "A young woman with long dark hair, wearing purple glasses and a pink v-neck top."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Car Interior"
+        "crowdLevel": [
+          "Single"
         ],
-        "topography": [
-          "None"
+        "countingEvidence": "1 main female creator in a car",
+        "mainCharacterDescription": "A young woman with long black hair, bangs, wearing purple-rimmed glasses and a bright pink V-neck top."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Car / Van Interior"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "The interior of a modern car with greyish-white seats and seatbelts visible behind the subject.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Summer"
+        ],
+        "colorTone": [
+          "Natural and bright"
         ]
       },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "The interior of a modern car, specifically the driver or passenger seat with leather upholstery and a seatbelt visible.",
-      "lightingStyle": "Natural daylight coming through car windows",
-      "weather": "Sunny",
-      "season": "Unknown",
-      "editingPace": "Moderate",
-      "textOverlay": {
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Selfie handheld"
+        ],
+        "shotSize": [
+          "Medium close-up",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Jump cut",
+          "Graphic transition",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
         "density": "High",
-        "language": [
-          "Chinese"
+        "textLanguage": [
+          "Traditional Chinese"
         ],
         "isSubtitled": true
       },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Digital Zoom"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "Car"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Smooth cross-fade",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Friendly, humorous, and expressive",
-        "pitch": "Medium-high",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Chinese"
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "Car"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop",
-      "bgmBPM": 120,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Keyboard"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "Cartoon SFX"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Field Recording"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Comedic/Exaggerated"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 6,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Meme/Comedy"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Pop / Bubble SFX",
+          "Impact / Hit SFX",
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) A high-pitched, energetic female voice starts speaking in Mandarin with a fast tempo. The background features a bouncy, electronic comedy-style BGM with a steady 4/4 beat. The recording is very clean with high vocal clarity. (2) A sharp 'pop' sound effect occurs as the speaker's tone becomes more playful and storytelling-focused. The music remains consistent in the background, providing a lighthearted atmosphere. (3) A sudden 'thud' or impact sound effect triggers a transition. The speaker's voice shifts to an exaggerated whining tone, mimicking pain or fatigue. The speech rate increases further with several short, clipped phrases to match the rapid text appearing on screen."
     }
   },
-  "high_inference_interpretations": {
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Storytelling",
+        "Personal Talk"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 6,
+      "averageSceneDuration": 3.1,
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Storytelling -> Plot Twist -> Emotional Response",
-      "mainPurpose": "To entertain the audience by sharing a humorous 'expectation vs. reality' anecdote about a date that unexpectedly turned into a strenuous workout session, using relatable social media tropes like 'since we are already here'.",
-      "visualEmotion": "Humorous and playful"
+      "narrativeStructure": "Linear: Hook -> Narrative Twist -> Resolution/Complaint",
+      "mainPurpose": "To humorously recount a personal anecdote where a potential romantic date unexpectedly turned into an intense workout session, leaving the creator physically exhausted and sore.",
+      "visualEmotion": [
+        "humorous",
+        "energetic",
+        "animated"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -162,9 +267,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Use of heavy variety-show style text barrage and facial filters to emphasize emotional shifts.",
-      "freeDescribe": "The video follows a popular short-form storytelling format where the creator talks about a personal fail or funny encounter to build engagement."
-    }
+    "freeDescribe": "The video uses typical social media editing tropes, such as variety-show text overlays and sound effects, to enhance the comedic effect of the storytelling."
   }
 }

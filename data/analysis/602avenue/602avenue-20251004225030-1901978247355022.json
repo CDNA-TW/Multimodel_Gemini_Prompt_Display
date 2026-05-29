@@ -1,155 +1,259 @@
 {
   "videoName": "602avenue-20251004225030-1901978247355022.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 19,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Dance Challenge"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "None"
+      "visual_narrative_log": "(1) The video begins in an indoor living room setting with bright white lighting. A young woman with long, dark brown hair wearing a white floral-patterned dress is positioned in the foreground, dancing towards the camera with a bright smile. Behind her, a man is partially visible, his arms raised high as he moves in synchronization with the woman. (2) As the dance continues, the woman performs various hand gestures, including a thumbs-up and pointing movements, maintaining eye contact with the lens. The background features a beige fabric sofa, a white Hello Kitty-themed pillow, and a framed floral artwork on the wall. (3) The camera then cuts to focus primarily on the man, whose face is obscured by a large yellow laughing emoji overlay. He is wearing a grey textured short-sleeved polo shirt and khaki pants, dancing energetically by himself. (4) In the final phase, the woman jumps back into the frame beside the man. Both characters smile broadly and make peace signs with their hands towards the camera, concluding the short sequence in a cheerful manner.",
+      "text_narrative_log": "(1) [Subtitle]: 她男朋友是哪國人？ [Slogan]: POV boyfriend reveal. [Variety]: (她=🇰🇷韓國人). (2) [Variety]: ( ? ? ? ).",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face"
         ],
-        "city": [
-          "None"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman with long dark hair, wearing a white floral puff-sleeve dress, dances playfully in front of a male companion whose arms are initially seen outstretched behind her. She smiles brightly and makes finger-heart gestures. (2) The scene takes place in a minimalist living room with a white sofa and a floral painting. (3) The man, wearing a grey textured polo shirt and khaki pants, steps out and begins dancing with exaggerated, humorous movements. His face is completely obscured by a large yellow laughing emoji. (4) The woman moves back into the frame, and they both continue dancing until the end of the clip.",
-      "audio_narrative_log": "(1) A high-pitched, energetic female vocal track begins immediately, singing a rhythmic J-pop style song with a fast tempo. (2) The music features bright synth beats and an upbeat pop rhythm. (3) There are no live vocals, ambient environmental noises, or additional sound effects detected; the audio consists entirely of the pre-recorded music track.",
-      "text_narrative_log": "(1) 'POV 她男友是哪國人？ boyfriend reveal' (Hook): Asking the audience to guess the boyfriend's nationality. (2) '( 她 = 🇰🇷 韓國人 )' (Functional): Clarifying that the female is Korean. (3) '( ???? )' (Hook): Creating suspense regarding the boyfriend's background while he dances."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 2,
-      "averageSceneDuration": 6.3,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro dance by female -> Reveal of dancing boyfriend -> Duo dancing outro."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "1 female main character in dress, 1 male boyfriend in grey polo.",
-      "mainCharacterDescription": "A Korean woman in a floral summer dress and a man in a grey polo shirt with a smartwatch."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 female main creator, 1 male partner",
+        "mainCharacterDescription": "A young woman with long brown hair in a floral dress and a man in a grey polo shirt and khaki pants."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
           "Indoor Living Room"
         ],
-        "topography": [
+        "locationTopography": [
           "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A clean, modern indoor living room with a neutral-colored couch, a decorative pillow, and a framed painting on the wall.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
         ]
       },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A clean white living room featuring a cream-colored sectional sofa, a Hello Kitty plush, an air conditioning unit on the wall, and a framed floral painting.",
-      "lightingStyle": "Natural bright indoor light",
-      "weather": "Indoor",
-      "season": "Unknown",
-      "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "Medium",
-        "language": [
-          "Chinese",
-          "English"
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
         ],
-        "isSubtitled": false
+        "shotSize": [
+          "Medium full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Rhythm matched to music"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
       },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartwatch"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "None",
-      "vocalRatio": "Low"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 0,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
       },
-      "vocal_qualities": {
-        "tone": "High-pitched and energetic",
-        "pitch": "High",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking (as lyrics)",
-        "language": [
-          "Japanese"
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat J-Pop",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum machine"
-      ],
-      "musicSourceType": [
-        "Copyrighted Song"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop",
+          "Anime/J-Pop"
+        ],
+        "tempoBPM": 132,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 0,
+        "female_singer_count": 1,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "Japanese"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 0,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 2,
+        "audioCutFrequency": 0,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio track begins with an upbeat, high-tempo J-pop song featuring a female vocalist singing in Japanese. The production is polished, with a strong electronic drum beat and shimmering synthesizer layers that create a joyful, high-energy atmosphere throughout the phase. (2) The song continues without interruption, maintaining a consistent rhythm and melodic structure. No spoken dialogue or environmental sound effects are present, leaving the music as the sole acoustic element. The vocal delivery remains energetic and bright until the track fades out."
     }
   },
-  "high_inference_interpretations": {
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Meme / Trend",
+        "Selfie / Portrait"
+      ],
+      "location": {
+        "country": [
+          "Unknown"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 1,
+      "averageSceneDuration": 9.5,
+      "editingPace": "Moderate",
+      "isNarrativeShift": false
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Action -> Mystery",
-      "mainPurpose": "To engage viewers through a trending social media challenge format ('boyfriend reveal'). The video leverages curiosity about the couple's cross-cultural relationship (Korean female) and the boyfriend's hidden identity to encourage comments and likes.",
-      "visualEmotion": "Cheerful and Humorous"
+      "narrativeStructure": "Linear: Hook -> Evidence",
+      "mainPurpose": "The video follows a social media trend where the creator reveals their partner's identity or nationality in a humorous way. It uses an upbeat dance and text overlays to build curiosity and engage the audience.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -161,9 +265,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Usage of emoji to hide faces, trending POV text format.",
-      "freeDescribe": "The video relies heavily on the 'mystery' element and the contrast between the woman's graceful dancing and the man's humorous movements."
-    }
+    "freeDescribe": "The video is a typical short-form social trend using high-energy music to frame a personal reveal."
   }
 }

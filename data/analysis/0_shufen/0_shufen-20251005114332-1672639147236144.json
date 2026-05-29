@@ -1,169 +1,264 @@
 {
   "videoName": "0_shufen-20251005114332-1672639147236144.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 13,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Humor"
-      ],
+      "videoDuration": 13.0,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) The video opens with a medium close-up of a young woman with long, dark, flowing hair, wearing a lavender-colored camisole with thin straps. She is positioned centrally in front of a plain, off-white interior wall with bright, even lighting illuminating her face. She looks directly into the lens and points her index finger downward toward a stylized text overlay appearing near her chest area. (2) As she continues to address the viewer, she uses animated hand gestures, including raising her hand and pointing upwards to emphasize her points. Her facial expressions are highly mobile, transitioning between a neutral storytelling look and a slightly exaggerated frown to convey a sense of mock disappointment or frustration. The camera, held in a selfie position, exhibits slight handheld tremors. (3) Toward the end of the sequence, she makes a visible thumb-down gesture to signal disapproval, then brings her hand up to touch her chin and cheek thoughtfully. Her gaze remains fixed on the camera, maintaining a direct connection with the audience. The background remains a consistent, uncluttered indoor environment throughout the duration of the clip without any visible objects.",
+      "text_narrative_log": "(1) [Variety]: 淦. (2) [Subtitle]: 我被騙了. (3) [Subtitle]: 最近又有...一個男生. (4) [Subtitle]: 約我去吃吃到飽. (5) [Subtitle]: 然後呢那天我們去吃到飽過後. (6) [Subtitle]: 他根本就騙我啊!. (7) [Subtitle]: 他整晚沒有讓我吃飽啊!.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Face",
+          "Upper body",
+          "Face close-up"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "One female character speaking directly to the camera in a selfie shot.",
+        "mainCharacterDescription": "A young woman with long dark hair, wearing a lavender thin-strap camisole and clear makeup."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A plain, off-white or light beige wall, suggesting a simple domestic or studio environment.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Selfie handheld"
+        ],
+        "shotSize": [
+          "Medium close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Comedic/Exaggerated"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 6,
+        "valence": 4,
+        "dominance": 5,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Applause / Laugh Track SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 1
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 2,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 2,
+        "audioCutFrequency": 2,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) A solo female voice dominates the audio track, speaking Mandarin with a clear and professional articulation. Her tone is conversational and engaging, characterized by a moderate speech rate and a natural, mid-range pitch. There is a faint, constant indoor room tone background, but the voice remains the primary high-fidelity signal with a strong signal-to-noise ratio. (2) The speaker’s prosody becomes more dynamic as the narrative progresses, with noticeable shifts in pitch variability and intonation to highlight specific parts of her story. There are no background music tracks or external noises, allowing the listener to focus entirely on the nuances of her vocal delivery, which exhibits no signs of roughness or strain. (3) In the final moments, the vocal delivery reaches a comedic punchline, marked by a slight increase in arousal and volume as she emphasizes her dissatisfaction. This is immediately followed by the insertion of a post-production sound effect: a short, bright laugh track representing a crowd's amusement, marking the comedic nature of the clip."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Storytelling",
+        "Short Video"
+      ],
       "location": {
         "country": [
-          "Unknown"
+          "Taiwan"
         ],
         "city": [
           "Unknown"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman with long dark hair and light makeup, wearing a purple spaghetti-strap top, looks directly into the camera in an indoor setting. She starts speaking with an expressive face, using her right hand to gesture while pointing towards her hair and face. (2) As she continues to speak, her expression shifts from narrative to more animated and slightly aggrieved for comedic effect. She moves her head and shoulders while maintaining eye contact with the lens. (3) Toward the end, she adjusts her facial expression to a playful and slightly pouting look while delivering the final part of her speech.",
-      "audio_narrative_log": "(1) A young female voice begins speaking Mandarin in a conversational and expressive tone. Behind her, a medium-tempo electronic background music with a steady drum beat starts playing. (2) The vocal continues at a consistent volume, conveying a storytelling rhythm. There is no significant ambient noise, suggesting a quiet indoor recording environment. (3) As the speech concludes, a classic sitcom-style 'laugh track' or canned laughter sound effect (SFX) plays briefly before the audio ends.",
-      "text_narrative_log": "(1) Functional Text: '淦' (Gàn), '我被騙了' (I was scammed/tricked) - appearing as a hook with an emotional tone of frustration. (2) Functional Text: '最近又有一個男生約我去吃吃到飽' (Recently another guy asked me out for all-you-can-eat) - providing narrative context. (3) Functional Text: '那天我們吃到飽過後' (That day after we finished the all-you-can-eat), '他根本就騙我啊！' (He basically just tricked me!), '他整晚沒有讓我吃飽啊！' (He didn't let me eat my fill all night!) - building up to a humorous punchline/innuendo."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 0,
-      "averageSceneDuration": 13.0,
-      "isNarrativeShift": false,
-      "mainActionFlow": "The creator delivers a monologue directly to the camera from start to finish without any cuts."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 female main character in a close-up/medium shot.",
-      "mainCharacterDescription": "A young Asian woman with long dark hair, wearing a lavender-colored camisole and a thin necklace."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Room"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A simple indoor room with a plain off-white or light-colored wall and a door frame visible on the left.",
-      "lightingStyle": "Bright indoor lighting, likely from a ring light or ceiling light.",
-      "weather": "None",
-      "season": "Unknown",
+      "sceneCutCount": 5,
+      "averageSceneDuration": 2.6,
       "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "Medium",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static"
-      ]
+      "isNarrativeShift": false
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "None",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Expressive and humorous",
-        "pitch": "Medium",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic",
-      "bgmBPM": 120,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "Laugh track"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Context -> Storytelling -> Punchline",
-      "mainPurpose": "The video is designed for entertainment, specifically utilizing a short narrative joke. The creator tells a story about a date at an 'all-you-can-eat' buffet that ends with a suggestive double entendre about not being 'full' at the end of the night, aimed at engaging the audience with adult-oriented humor.",
-      "visualEmotion": "Humorous and Playful"
+      "narrativeStructure": "Linear: Hook -> Narrative Setup -> Punchline",
+      "mainPurpose": "The video is a short comedic monologue where the creator shares a humorous anecdote about being 'scammed' on a date. She explains that a man took her to an all-you-can-eat restaurant but didn't actually let her eat her fill, using a play on words to create a humorous and relatable dating story for her audience.",
+      "visualEmotion": [
+        "humorous",
+        "expressive"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
       "endorsementMethod": [
         "None"
       ],
-      "endorsementCues": "None",
+      "endorsementCues": "Personal storytelling with no product placement.",
       "endorsementObject": [
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Storytelling directly to the lens with stylized captions and laugh track SFX.",
-      "freeDescribe": "The video relies heavily on linguistic puns and the charisma of the creator to deliver a common trope of adult-themed internet humor."
-    }
+    "freeDescribe": "A typical social-media conversational video relying on the creator's personality and a comedic punchline to drive engagement."
   }
 }

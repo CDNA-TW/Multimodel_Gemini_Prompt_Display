@@ -1,166 +1,276 @@
 {
   "videoName": "cocowine0205-20250716170054-2364847440681608.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 56,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Food Review",
-        "Shopping Haul"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) The video begins in a Costco retail store with bright overhead lighting. A young woman with long black hair, wearing a white blouse under a black vest, stands before a refrigerated display case. She reaches for and opens a transparent glass door, exposing shelves filled with boxed food items. (2) A close-up shot focuses on her hands holding a blue and gold product package labeled 'My Humble House Wasabi Clams.' The packaging is detailed with images of the food and gold-lettered branding. (3) The scene transitions to an indoor home setting, likely a living room, with softer, warmer lighting. Two women sit at a table; the first woman is now accompanied by a second woman with bangs and a teal turtleneck. They hold the same product package toward the camera. (4) Multiple individual transparent plastic sachets of the product are shown spread out on a white marbled surface, revealing the contents of marinated clams and green edamame. (5) One of the women pours the contents of a sachet onto a blue ceramic plate. They then use wooden chopsticks to pick up the food, bringing it close to the camera to show texture, before tasting it. They interact with each other, gesturing with their hands while talking and smiling against a backdrop of a domestic interior with a TV and sofa.",
+      "text_narrative_log": "(1) [Logo]: COSTCO WHOLESALE. [Subtitle]: 你要買什麼. (2) [Variety]: 蛤. [Slogan]: 寒舍集團 銅板價. 55元山葵花蛤. (3) [Subtitle]: 我要蛤. 拿一個而且它是寒舍集團的哎. (4) [Slogan]: 寒舍集團 山葵烏薩奇. (5) [Subtitle]: 蛤. 蛤. 6入329 總共有6包. 每包是54.8元. (6) [Subtitle]: 竟然55塊就可以在好市多買到寒舍集團的小菜. 山葵花蛤. (7) [Subtitle]: 裡面主要的成分就是花蛤毛豆仁. (8) [Subtitle]: 然後它聞起來雖然有山葵的香味 可是吃起來完全沒有山葵的任何味道或辛辣感. (9) [Subtitle]: 偏甜口的涼拌花蛤配毛豆. (10) [Subtitle]: 咀嚼過後的味道有點像是那個年貨烤魷魚絲的味道. (11) [Subtitle]: 想要當下酒菜鹹鹹的人可能就不搭 可是只需要55塊就可以買到100公克的小菜. (12) [Subtitle]: 真的很方便 也可以試試看喔. 它裡面有6袋 每個單獨包裝真的很棒. (13) [Subtitle]: 很大的肉喔 但是就是甜.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Head and shoulders",
+          "Hands only",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "2 main female creators throughout the shopping and review segments.",
+        "mainCharacterDescription": "The first woman has long black hair and wears a white shirt with a black vest. The second woman has black hair with bangs and wears a teal turtleneck sweater."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Supermarket / Warehouse Store",
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The initial background shows a large commercial refrigerator at Costco. The later background is a cozy home living room with a television, a grey sofa, and character-themed pillows (BT21).",
+        "lightingStyle": [
+          "Bright indoor lighting",
+          "Warm indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Winter"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Insert shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Insert shot"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Seafood / fish / shrimp",
+          "Vegetables",
+          "Prepared meal / plated dish"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "TV / display screen"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "COSTCO",
+          "My Humble House Group"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 3,
+        "male_vocal_count": 1,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Animated/Excited",
+          "Casual"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Meme/Comedy",
+          "Electronic/EDM"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Commercial/Recreational",
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 2,
+        "incidentalNoiseDetails": [
+          "Plastic / Bag Rustle",
+          "Mechanical Click / Latch",
+          "Other"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Pop / Bubble SFX",
+          "Ding / Bell SFX",
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Mixed"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio starts with a female voice speaking in a clear, energetic, and high-pitched tone, asking a question. A brief male-sounding voice replies with a single syllable '蛤' (ha). The sound of a refrigerator door opening creates a metallic and suction-like noise. (2) Upbeat, high-tempo background music with a strong electronic beat and playful percussion begins. A female narrator delivers information about the price and quantity of the product with a fast speech rate and high vocal arousal, showing dynamic pitch variability. (3) The audio environment shifts to an indoor room tone with less reverb. Two female voices engage in a lively conversation, discussing the product's flavor profile. Their speech is characterized by frequent laughter, expressive intonation, and a friendly, informal tone. (4) Distinct sound effects are audible, including the crisp rustling of plastic packets being handled and the subtle clicking of wooden chopsticks against a ceramic plate. The BGM maintains a consistent, joyful energy throughout the review segment, while the vocals remain the primary signal with high clarity and a professional broadcast quality."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Food Review",
+        "Shopping",
+        "Vlog"
+      ],
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "None"
+          "Unknown"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video starts in a Costco supermarket; a young woman with long dark hair is looking at frozen goods. (2) She points to and picks up a box of 'Wasabi Clams' by the Humble House Group. (3) The scene transitions to an indoor home setting where two women are sitting at a table. (4) They open a small vacuum-sealed plastic pouch of clams and pour it onto a blue plate. (5) They use chopsticks to pick up the clams and edamame, showing close-ups of the meat, and then taste the food while reacting to the flavor.",
-      "audio_narrative_log": "(1) Upbeat, high-tempo pop music starts immediately. A female voice asks a question, followed by another female voice excitedly identifying a product. (2) The music continues at a consistent volume as the narrator provides details about the price and brand. Occasional 'ding' and 'pop' sound effects play when text appears. (3) In the tasting section, the narrator's voice becomes more descriptive, explaining the flavor profile. (4) The audio concludes with a cheerful sign-off over the fading music.",
-      "text_narrative_log": "(1) '你要買什麼' (What do you want to buy?) - functional dialogue subtitle. (2) '寒舍集團 銅板價' (Humble House Group, bargain price) - decorative hook text. (3) '55元山葵花蛤' ($55 Wasabi Clams) - factual/hook text. (4) '6入 329 總共有6包' (6 packs for 329, total 6 bags) - functional text. (5) '裡面主要的成分就是花蛤 毛豆仁' (Main ingredients: clams and edamame) - functional description. (6) '偏甜口的涼拌花蛤配毛豆' (Sweet-tasting cold clam salad with edamame) - descriptive text."
     },
     "temporal_pacing_summary": {
       "sceneCutCount": 18,
       "averageSceneDuration": 3.1,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Shopping Discovery -> Product Close-ups -> Home Tasting -> Final Review"
+      "editingPace": "Moderate",
+      "isNarrativeShift": true
     },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only",
-        "Face"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "2 main female presenters appearing in the tasting segment.",
-      "mainCharacterDescription": "One woman is wearing a white shirt under a black vest; the second woman is wearing a turquoise turtleneck with purple hair bows."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Studio",
-          "Supermarket"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "First part is a supermarket aisle with refrigerated glass cases (Costco); the second part is a clean indoor living room with a grey sofa and a wooden dining table.",
-      "lightingStyle": "Bright indoor lighting and supermarket fluorescent lights.",
-      "weather": "Indoor",
-      "season": "Unknown",
-      "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural and Bright",
-      "cameraWork": [
-        "Static",
-        "POV",
-        "Close-up"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Clams",
-        "Edamame",
-        "Frozen Food"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "COSTCO",
-        "寒舍集團",
-        "Humble House"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 2,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited, friendly, and informative",
-        "pitch": "Normal to High",
-        "loudness": "Clear and consistent",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Electronic Drums"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Ding",
-        "Pop",
-        "Meme sounds"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Price/Value Evidence -> Sensory Experience -> CTA",
-      "mainPurpose": "The video is a product recommendation vlog designed to inform viewers about a high-value frozen appetizer (Wasabi Clams) available at Costco. By emphasizing the collaboration with the reputable 'Humble House Group' and breaking down the price to a per-bag cost, the creators aim to persuade viewers of the product's affordability and taste quality.",
-      "visualEmotion": "Energetic and Positive"
+      "narrativeStructure": "Linear: Hook -> Evidence -> Review -> Conclusion",
+      "mainPurpose": "The video is a product review and shopping recommendation for 'Wasabi Clams' produced by My Humble House Group and sold at Costco. It aims to inform viewers about the product's cost-effectiveness, packaging convenience, and specific taste characteristics (noting it is sweeter and less spicy than expected).",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -168,16 +278,12 @@
         "Explicit",
         "Full"
       ],
-      "endorsementCues": "Detailed pricing breakdown, clear brand logo display, and positive taste review with a call to 'try it out'.",
+      "endorsementCues": "Direct display of product packaging, pricing, and a detailed taste test review with brand mentions.",
       "endorsementObject": [
-        "COSTCO",
-        "寒舍集團",
-        "Humble House"
+        "My Humble House Group",
+        "Costco"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-density variety-show style text overlays and fast-paced editing cuts.",
-      "freeDescribe": "The video follows the 'Costco Must-Buy' content trend popular in East Asian social media, focusing heavily on price-to-performance ratio."
-    }
+    "freeDescribe": "The video uses typical social media food review editing styles, including text overlays and upbeat music, to engage the audience. The split between the retail setting and the home review provides a complete consumer journey."
   }
 }

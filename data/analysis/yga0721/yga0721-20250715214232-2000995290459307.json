@@ -1,175 +1,271 @@
 {
   "videoName": "yga0721-20250715214232-2000995290459307.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 57,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Podcast",
-        "Comedy",
-        "Conversation"
-      ],
+      "videoDuration": 56,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A person wearing a yellow cartoon mask with blue hair and a black hoodie sits in a red armchair, gesturing while speaking into a professional microphone. The setting is a room with light blue curtains. (2) The shot cuts to a man with brown hair and headphones wearing a white T-shirt with graphic designs, also speaking into a microphone. (3) The camera alternates between the masked figure and the man as they engage in a lively conversation. (4) A woman with long hair wearing a white sweater is briefly shown sitting on a leather sofa, laughing. (5) The man in the white T-shirt continues his explanation, gesturing with his hands and holding up three fingers, while various Chinese subtitles and numerical overlays appear on the screen. (6) The video concludes with a full-screen graphic featuring text overlays and a small thumbnail of the man in the corner.",
+      "text_narrative_log": "(1) [Subtitle]: 其實我現在最羨慕你的是. (2) [Subtitle]: 你的心律. (3) [Subtitle]: 你一定很常可以達到. (4) [Subtitle]: 130 150. (5) [Subtitle]: 因為如果你不特別去運動. (6) [Subtitle]: 你的心律要達到130. (7) [Subtitle]: 很難. (8) [Subtitle]: 但你平常弄啊弄. (9) [Subtitle]: 你們沒有到130嗎？. (10) [Subtitle]: 不會維持30分鐘以上啦. (11) [Subtitle]: 是要維持三十分鐘. (12) [Subtitle]: 那我不用跑步了. (13) [Subtitle]: 因為這樣每天弄就好. (14) [Subtitle]: 原來要三十分鐘. (15) [Subtitle]: 那我們沒辦法. (16) [Subtitle]: 我三分鐘而已啊. (17) [Subtitle]: 不算. (18) [Subtitle]: 那個弄不算啦. (19) [Subtitle]: 嘎哥333法則. (20) [Subtitle]: 三公分. (21) [Subtitle]: 三分鐘. (22) [Subtitle]: 一個禮拜三次. (23) [Subtitle]: 嘎哥的333法則. (24) [Subtitle]: 就是維持你體態. (25) [Subtitle]: 良好的一個標準. (26) [Subtitle]: 333. (27) [Subtitle]: 記住了喔. (28) [Subtitle]: 你這小老弟三公分. (29) [Subtitle]: 弄一次只有三分鐘. (30) [Subtitle]: 但是你每個禮拜可以弄三次. (31) [Subtitle]: 嘎哥333. (32) [Subtitle]: 刷起來嘎哥333. (33) [Subtitle]: 其實也不容易. (34) [Subtitle]: 是說這個年紀的發言嗎. (35) [Slogan]: 完整影片請上. (36) [Slogan]: 蔡阿嘎543頻道收看. (37) [Slogan]: 聊天室這邊給我刷起來. (38) [Subtitle]: 40歲的發言. (39) [Subtitle]: 333.",
+      "visual_human_presence": {
+        "totalHumanCount": 3,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body",
+          "Upper body",
+          "Face"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 man in a mask, 1 man in a white T-shirt, and 1 woman sitting on a sofa.",
+        "mainCharacterDescription": "The main characters are a person in a yellow cartoon mask with blue hair wearing a black hoodie, and a man with brown hair wearing headphones and a white T-shirt with colorful graphics."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Living Room",
+          "Studio"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The video shifts between a space with light blue vertical curtains and a more decorated room featuring a leather sofa, bookshelves with cartoon figurines, and a brick-patterned wall section.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Medium full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Microphone / lavalier mic",
+          "Headphones / earbuds"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 3,
+        "male_vocal_count": 2,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Comedic/Exaggerated"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Meme/Comedy",
+          "Pop"
+        ],
+        "tempoBPM": 120,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Laughter"
+        ],
+        "crowdNoiseIntensity": 3,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 4,
+        "speechMusicOverlap": 4,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 3,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) The video begins with a male voice speaking in a casual, conversational tone with moderate pitch and high clarity. (2) A second male voice interrupts with a slightly higher pitch, followed by loud, collective laughter from multiple people including a female voice. (3) An upbeat, major-mode electronic background track with a strong 4/4 beat begins to play. (4) The primary male speaker continues to speak rapidly and energetically, explaining a concept while the background laughter and music continue. (5) A cartoonish sound effect triggers briefly to emphasize a comedic point. (6) The vocal energy remains high with frequent pitch shifts indicating humor and excitement until the audio ends."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Comedy",
+        "Personal Talk",
+        "Meme / Trend"
+      ],
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "None"
+          "Unknown"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A person wearing a large cartoon mask with blue hair and a yellow face is sitting in a red armchair, gesturing while speaking into a professional microphone. (2) The scene cuts to a man with brown hair wearing large white headphones and a white graphic t-shirt, who is laughing and gesturing excitedly with his hands, specifically holding up three fingers. (3) Brief shots of a woman sitting on a grey couch in the background appear. (4) The video concludes with a white end screen featuring a channel avatar and instructional text.",
-      "audio_narrative_log": "(1) The video starts with a male voice speaking in a conversational, somewhat deep tone while ambient studio silence is maintained. (2) Another male voice enters, characterized by a higher pitch and frequent bursts of loud, energetic laughter. (3) The acoustic environment is dominated by the sound of multiple people laughing together in a studio setting. (4) In the final few seconds, a fast-paced, upbeat electronic background music track fades in for the outro.",
-      "text_narrative_log": "(1) Functional white subtitles appear at the bottom throughout the video, translating the spoken dialogue into Traditional Chinese. (2) Decorative variety-show style text like \"不算\" (Doesn't count) appears briefly with a humorous tone. (3) Large, bold decorative text \"嘎哥333法則\" (Ga Ge's 333 rule) and specific terms like \"三公分\" (3cm), \"三分鐘\" (3 mins), and \"一星期三次\" (3 times a week) pop up to emphasize the punchline. (4) The end screen displays functional text \"完整影片請上蔡阿嘎543頻道收看\" (Watch full video on Cai A Ga 543 channel) and \"聊天室這邊給我刷起來\" (Spam the chat room)."
     },
     "temporal_pacing_summary": {
-      "sceneCutCount": 14,
-      "averageSceneDuration": 4.07,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro dialogue -> Humorous rule revelation with high-energy laughter -> Outro call to action"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 3,
-      "maleDetectAmount": 2,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Upper body",
-        "Hands"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 masked male speaker, 1 male speaker in white t-shirt, 1 female laughing in background",
-      "mainCharacterDescription": "One character wears a oversized cartoonish head mask and a black hoodie. The other is a young man with brown hair wearing a white graphic t-shirt and white over-ear headphones."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Studio",
-          "Indoor"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A studio set designed to look like a living room, featuring curtains, bookshelves with various cartoon figurines (like Pinocchio), a red armchair, and soundproofing panels.",
-      "lightingStyle": "Bright studio lighting",
-      "weather": "None",
-      "season": "None",
+      "sceneCutCount": 12,
+      "averageSceneDuration": 4.6,
       "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Multiple Camera Angles"
-      ]
+      "isNarrativeShift": false
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Microphone",
-        "Headphones",
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 3,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 2,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Humorous and boisterous",
-        "pitch": "Varied",
-        "loudness": "High during laughter",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Traditional Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "Group Laughter"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Humorous Explanation -> Outro CTA",
-      "mainPurpose": "This is a promotional short clip for a podcast. It uses a high-energy, humorous exchange about personal health and sexual self-deprecation (the '333 rule') to entertain the audience and entice them to watch the full episode on the 'Cai A Ga 543' channel.",
-      "visualEmotion": "Energetic and Humorous"
+      "narrativeStructure": "List-based: Introduction -> Discussion -> Rule Explanation -> CTA",
+      "mainPurpose": "The video serves as a comedic short or highlight from a talk show/podcast where the participants joke about health metrics like heart rate, leading into the presentation of a humorous '333 rule'. The intent is to entertain through relatable yet slightly adult-humor dialogue.",
+      "visualEmotion": [
+        "energetic",
+        "humorous"
+      ]
     },
     "endorsement_analysis": {
-      "isEndorsement": true,
+      "isEndorsement": false,
       "endorsementMethod": [
-        "Explicit",
-        "Full"
+        "None"
       ],
-      "endorsementCues": "The video ends with a clear call to action to watch the full video on a specific YouTube channel.",
+      "endorsementCues": "None",
       "endorsementObject": [
-        "蔡阿嘎543"
+        "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-pitched enthusiastic laughter, the iconic cartoon mask, and variety-show style kinetic typography.",
-      "freeDescribe": "The video relies heavily on the personality and established humor style of a well-known Taiwanese influencer (Cai A Ga), using quick cuts and visual text to keep the viewer engaged."
-    }
+    "freeDescribe": "The video relies heavily on the chemistry between the speakers and the comedic timing of the dialogue and subtitles."
   }
 }

@@ -1,14 +1,241 @@
 {
   "videoName": "khshu_-20250916093852-1214215293648441.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 10,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Fashion"
-      ],
+      "videoDuration": 9,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) In a minimalist indoor setting with light-wood paneled walls and a tall black-framed window, a young woman with long dark hair in a ponytail smiles at the camera. She wears a white off-the-shoulder crop top and light-wash blue jeans, leaning slightly forward with her hands behind her back. (2) The scene shifts to a collage-style frame where the central woman is surrounded by multiple cut-out images of herself in different outfits, including a black oversized t-shirt and a white graphic tee. A separate image of a couple sitting on a sofa appears in the foreground. (3) A close-up shot features the woman leaning against a neutral-toned wall, wearing a black tank top and a black-and-white striped headscarf. Her expression is serious and stylized, looking directly into the lens. (4) The shot returns to the original room. The woman is now wearing a lavender-blue off-the-shoulder top and off-white trousers. She stands with her arms crossed, looking at the camera with a confident half-smile. (5) A rapid sequence shows the woman in the white off-the-shoulder top again, with the image of a couple in denim and black clothing layered at the bottom of the screen as a visual overlay. (6) The woman appears in a black tank top and a long, high-slotted black denim skirt. She turns her head to look over her shoulder. An overlay of her in a light blue summer dress is placed to the side as she poses in the room.",
+      "text_narrative_log": "None",
+      "visual_human_presence": {
+        "totalHumanCount": 3,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Full body",
+          "Face close-up",
+          "Partial body"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main female creator, 1 man and 1 woman appearing in photo/cutout overlays",
+        "mainCharacterDescription": "A young Asian woman with long dark hair, wearing a variety of fashionable casual outfits including off-shoulder tops, jeans, and a tank top with a headscarf."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Home",
+          "Studio"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The primary background is a minimalist interior with vertical wood-paneled closet doors and a black-window frame. Secondary backgrounds include a neutral-toned wall for close-ups and various digital overlays of different scenes.",
+        "lightingStyle": [
+          "Bright indoor lighting",
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Summer"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Medium full shot",
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Montage",
+          "Graphic transition",
+          "Picture-in-picture / inset"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "None",
+        "textLanguage": [
+          "None"
+        ],
+        "isSubtitled": false
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 2,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "English"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 6,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Hip-Hop/Trap",
+          "Pop"
+        ],
+        "tempoBPM": 115,
+        "mode": [
+          "Minor / Aeolian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 1,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "English"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 5,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Percussion",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Drum Kit / Drum Set",
+          "Electronic Keyboard / Synthesizer"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Impact / Hit SFX"
+        ],
+        "soundEffectsIntensity": 4,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 5,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 3,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 3,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) High-tempo, rhythmic BGM begins with a prominent electronic kick drum and a sharp synthesizer pluck. A distinct 'whoosh' sound effect accompanies the first visual change. (2) A processed male vocal sample enters, delivering rhythmic lyrics with a confident, high-arousal tone over a heavy sub-bass line. The beat is crisp and dominant. (3) The BGM continues with a consistent, energetic loop. The percussion layers are dense, featuring sharp hi-hats and snares that synchronize with the visual cuts. (4) Another synthesized transition SFX is heard, marking the final sequence. The music maintains its intensity through the end of the clip, providing a high-energy auditory bed."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Beauty / Fashion"
+      ],
       "location": {
         "country": [
           "Unknown"
@@ -18,157 +245,31 @@
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman with dark hair tied back, wearing a white off-shoulder crop top and light blue jeans, leans toward the camera smiling. Around her, a collage of smaller images appears, showing her in different outfits and one image of a man and woman sitting together. (2) The scene cuts to her posing against a plain wall wearing a black tank top and a black-and-white striped bandana. (3) She reappears in a light blue off-shoulder top with her arms crossed, smiling playfully. (4) Another cut shows her in a white sheer top over a dark bra, smiling. (5) Back in the white off-shoulder top, she turns her body to the side. (6) The final shot shows her in a black tank top and a long black skirt, posing with her back partially to the camera.",
-      "audio_narrative_log": "(1) An upbeat hip-hop song begins with a heavy rhythmic beat and a male voice rapping lyrics about 'clink the glasses' and 'check the asses'. (2) The music continues with a consistent high-energy tempo through the visual transitions. (3) No ambient environmental noise or artificial sound effects are present; the audio is a high-quality studio track.",
-      "text_narrative_log": "(1) Decorative text in non-English characters appears on a black shirt within the visual montage. (2) Functional text 'tote a' appears on a white graphic t-shirt in the montage collage."
-    },
     "temporal_pacing_summary": {
       "sceneCutCount": 6,
-      "averageSceneDuration": 1.66,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Intro -> Rapid Outfit Montage -> Final Pose"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 3,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Upper body",
-        "Waist up"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 main female creator, 1 man and 1 woman appearing in a static image cutout in the montage.",
-      "mainCharacterDescription": "A young woman with long dark hair, wearing various modern fashion items including off-shoulder tops, denim jeans, and a bandana."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Room",
-          "Studio"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A room with large wooden wardrobe doors, a minimalist neutral wall, and a glimpse of a dark interior through a doorway.",
-      "lightingStyle": "Bright studio lighting with soft shadows.",
-      "weather": "None",
-      "season": "None",
+      "averageSceneDuration": 1.5,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "Medium",
-        "language": [
-          "English",
-          "Unknown"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Follow shot"
-      ]
+      "isNarrativeShift": false
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "None",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 0,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Energetic and rhythmic",
-        "pitch": "Medium",
-        "loudness": "High",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "English"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Hip-hop",
-      "bgmBPM": 95,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Drum machine",
-        "Synthesizer"
-      ],
-      "musicSourceType": [
-        "Copyrighted Song"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Fast-paced Transformation Showcase",
-      "mainPurpose": "The video is a fashion lookbook designed to showcase the creator's style and a variety of outfits. By utilizing a high-energy hip-hop track and syncing visual cuts to the beat, it creates an engaging, trendy atmosphere intended to inspire viewers' fashion choices and build the creator's personal brand as a style influencer.",
-      "visualEmotion": "Energetic and confident"
+      "narrativeStructure": "Montage: Hook -> Multi-outfit Showcase -> Stylized Pose",
+      "mainPurpose": "To showcase a series of trendy fashion outfits and personal style through a dynamic, music-synchronized editing style intended to engage and inspire viewers.",
+      "visualEmotion": [
+        "energetic",
+        "confident",
+        "cheerful"
+      ]
     },
     "endorsement_analysis": {
-      "isEndorsement": true,
+      "isEndorsement": false,
       "endorsementMethod": [
-        "Implicit",
-        "Integrated"
+        "None"
       ],
-      "endorsementCues": "The structured presentation of multiple outfits in a short timeframe is characteristic of a clothing showcase or lookbook format.",
+      "endorsementCues": "No specific product or brand is explicitly promoted or mentioned as the focus.",
       "endorsementObject": [
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Beat-synced outfit transitions with collage overlays.",
-      "freeDescribe": "The video relies heavily on contemporary editing trends common on short-form video platforms to maintain high viewer retention."
-    }
+    "freeDescribe": "The video utilizes social-media native editing techniques such as cutout overlays and beat-matched transitions to create a fast-paced fashion showcase."
   }
 }

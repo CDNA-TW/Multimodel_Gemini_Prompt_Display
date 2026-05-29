@@ -1,164 +1,279 @@
 {
   "videoName": "achusan0817-20260102024041-908347338342616.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 54,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Animation",
-        "Vlog",
-        "Promotion"
-      ],
+      "videoDuration": 55,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) Animation phase. A centered, cute cartoon ice cream cone with large eyes and a pink swirl is shown against a pink and brown background. A bald man with an angry or determined expression appears from the chest up, wearing a black shirt and clutching his stomach in front of a neutral tan wall. (2) A small, blue, bat-like creature with yellow eyes and fangs (the Rebel Fairy) appears behind the bald man's head, hovering and speaking to him. The man's expression shifts between frustration and resistance. (3) The scene cuts back to the animated ice cream with the blue bat character now popping out of the cone. The man is shown again with a more heroic, determined facial expression against a dynamic purple-streaked background. (4) Live-action transition. A real-life blue plush coin purse, shaped like the bat character, is shown in various real-world settings: resting on a small wooden bench outside, hanging as a keychain on a man's jacket and then a grey backpack, and being held by hands to show a plastic card slot on the back. (5) A hand pours several metal coins into the open mouth of the plush purse. The video ends with a shot of an orange-and-white cat lying on a grey couch, with the plush purse placed on its back.",
+      "text_narrative_log": "(1) [Subtitle]: Oh My God. 這個冰淇淋看起來也太好吃了吧. [Slogan]: 柑橘味. NT$ 50. 本日限定. (2) [Subtitle]: 但是現在在減肥. 不行 要忍住. 不可以吃任何甜食. [Variety]: 叛逆叛逆. (3) [Subtitle]: 減肥是明天的事. 但是過了這個冰淇淋. 就沒有這個冰淇淋了喔 叛逆. [Variety]: 叛逆. (4) [Subtitle]: 這什麼無意義的句子. 看看這個柑橘口味的冰淇淋. 多有食慾啊. 而且重點它還是本日限定呢 叛逆. [Logo]: もちろん大好き アイスクリーム. (5) [Subtitle]: 哼 叛逆仙子. 抱歉了 我現在身上沒有帶錢. 我已經長大了. 學會控制自己的情緒了. 不會再被叛逆仙子給誘惑. (6) [Subtitle]: 你有帶錢啊叛逆. 蛤 沒有啊 我沒有帶. 我就是零錢包啊叛逆. (7) [Subtitle]: 什麼都. 叛逆仙子經典造型伸縮零錢包二代. 掛在任何地方 都可可愛愛. (8) [Subtitle]: 背面還可以放悠遊卡 信用卡. 或是你推的小卡. 叛逆仙子實體化讓你日常花錢 叛逆叛逆. (9) [Logo]: もちろん大好き 叛逆叛逆. [Subtitle]: 卡特島市集 1/10-11 首賣.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 2,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only",
+          "Torso"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 animated male main character, 1 real person (hands and partial body) demonstrating the product.",
+        "mainCharacterDescription": "An animated bald man wearing a plain black t-shirt, initially looking hungry and determined."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Animation / Graphic Background",
+          "Indoor Living Room",
+          "Outdoor Street"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "The video starts with flat, graphic backgrounds for the animation. Later, it transitions to a blurred outdoor garden setting with miniature plants and an indoor living room with a grey sofa.",
+        "lightingStyle": [
+          "Flat animation lighting",
+          "Bright indoor lighting",
+          "Natural daylight"
+        ],
+        "weather": [
+          "Sunny / Clear",
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Winter"
+        ],
+        "colorTone": [
+          "Animation vivid colors",
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Panning",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Extreme close-up",
+          "Insert shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "High angle",
+          "POV / first-person view"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Fast cuts",
+          "Subtitled social-media edit"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Japanese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Cat"
+        ],
+        "foodsDetect": [
+          "Dessert / cake / cookies"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "卡特島"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 2,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 2,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Comedic/Exaggerated",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": true,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 6,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Meme/Comedy",
+          "Pop"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 0,
+        "female_singer_count": 1,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "Japanese"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Metal  Bump ",
+          "Mechanical Click / Latch"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Impact / Hit SFX",
+          "Cartoon / Comedy SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 2
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) High-pitched vocal exclamation 'Oh my God' followed by a deep-voiced male narration speaking Traditional Chinese with a determined tone. Background is quiet. (2) At ~0:05, a secondary, higher-pitched, raspy, and mischievous voice enters, representing the bat character. The two voices engage in a rapid back-and-forth dialogue. (3) An upbeat, high-tempo J-Pop/Meme style song with female Japanese vocals and synth beats begins as the dialogue continues. (4) A short impact SFX marks the transition at ~0:32. (5) Narration becomes more energetic and promotional. Audible clinking of metal coins and the sound of a zipper sliding occur as the product is demonstrated. The upbeat music continues until the end."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Promotion / Advertisement / Indoresment",
+        "Comedy",
+        "Meme / Trend"
+      ],
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "Unknown"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) Animation starts with a close-up of a citrus-flavored ice cream with wide eyes against a pastel background. (2) A bald animated man appears with a grumpy expression, touching his stomach in a conflicted manner. (3) A small blue creature with bat wings and a mischievous face appears behind the man's head, whispering to him. (4) The man crosses his arms and looks determined, then looks surprised as the creature reappears closer. (5) Transition to live-action shots where the blue creature is revealed as a physical plush coin purse. (6) The plushie is shown clipped to a green jacket, then to a grey backpack, and finally its back pocket is shown holding various cards. (7) A person's hands pour coins into the open purse on a wooden table. (8) The purse is placed on top of a sleeping ginger and white cat.",
-      "audio_narrative_log": "(1) Energetic male voice speaks in Mandarin, sounding excited about ice cream, over upbeat, electronic BGM. (2) The voice becomes deeper and more frustrated as the animated man describes his diet. (3) A high-pitched, mocking voice enters, representing the creature's temptation. (4) An upbeat J-pop style song with female vocals singing 'Mochiron Daisuki Ice Cream' plays briefly. (5) Dialogue between the grumpy male voice and the high-pitched voice continues. (6) The high-pitched voice dominates the second half, narrating product features with high enthusiasm over continuous, fast-paced electronic music.",
-      "text_narrative_log": "(1) Functional Text: 'Oh My God', 'This ice cream looks too delicious' (Traditional Chinese). (2) Functional Text: 'But I'm on a diet now... can't eat any sweets'. (3) Decorative Text: 'Panni Panni' (叛逆叛逆) in stylized font. (4) Functional Text: 'I don't have money on me... I've grown up... I can control my emotions'. (5) Decorative Text: 'Pannishi' (叛逆仙子) as a character name. (6) Functional Text: 'Pannishi Classic Retractable Coin Purse 2nd Gen', 'Can be hung anywhere', 'Back can hold EasyCard, credit cards'. (7) Functional Text: 'Sale dates 1/10-11'."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 22,
-      "averageSceneDuration": 2.45,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Hook (Animated Diet struggle) -> Conflict (Creature temptation) -> Resolution (Product reveal) -> Live-action Features Demo -> CTA"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 2,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Hands only",
-        "Back view",
-        "Torso"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 animated male protagonist in the first half; 1 real male actor shown partially (hands, back, torso) in the live-action demo.",
-      "mainCharacterDescription": "An animated bald man with thick eyebrows and a black t-shirt who is struggling with a diet."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Outdoor Street",
-          "Studio",
-          "Living Room"
-        ],
-        "topography": [
           "None"
         ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "The video starts with a flat graphic background for the animation, then moves to real-world locations including a street with plants, a room with a wooden closet, and a sofa area with a cat.",
-      "lightingStyle": "Bright, even lighting in both animated and live-action segments.",
-      "weather": "Clear",
-      "season": "Unknown",
-      "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese",
-          "Japanese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "High Saturation",
-      "cameraWork": [
-        "Static",
-        "Close-up",
-        "POV"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "Cat"
-      ],
-      "foodsDetect": [
-        "Ice Cream"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "叛逆仙子"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Enthusiastic and mischievous",
-        "pitch": "Deep for man, high for creature",
-        "loudness": "Normal",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin",
-          "Japanese"
-        ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat J-pop",
-      "bgmBPM": 130,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drums"
-      ],
-      "musicSourceType": [
-        "Copyrighted Song"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "Pop"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 3.0,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Intervention -> Product Integration -> CTA",
-      "mainPurpose": "The video serves as a promotional advertisement for a plush coin purse based on the 'Pannishi' (Rebellious Fairy) character. It uses a comedic animated scenario about the internal conflict of dieting to hook the viewer, then introduces the character mascot as a physical, functional item (a coin purse). The purpose is to demonstrate the product's practicality and aesthetic appeal to drive sales for an upcoming market event.",
-      "visualEmotion": "Humorous and Energetic"
+      "narrativeStructure": "Linear: Hook -> Conflict -> Product Reveal -> Feature Showcase -> CTA",
+      "mainPurpose": "The video uses a comedic animated skit about resisting the temptation of 'Limited Edition' ice cream while on a diet to introduce a character-themed coin purse. It transitions from animation to live-action to demonstrate the product's physical features, such as the card slot and coin storage, ultimately promoting its first sale at an upcoming market.",
+      "visualEmotion": [
+        "energetic",
+        "humorous",
+        "cute"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
@@ -166,14 +281,11 @@
         "Explicit",
         "Full"
       ],
-      "endorsementCues": "The video explicitly names the product, demonstrates its features for nearly half its duration, and provides specific sale dates and locations.",
+      "endorsementCues": "The video explicitly names the product, shows its features, and provides specific dates for its first sale.",
       "endorsementObject": [
-        "叛逆仙子"
+        "叛逆仙子經典造型伸縮零錢包二代"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "The character 'Pannishi' and the 'Panni Panni' catchphrase.",
-      "freeDescribe": "The video follows a popular trend in Asian social media where short, comedic animated skits are used to build a brand identity for merchandise."
-    }
+    "freeDescribe": "The video effectively bridges animation and live-action to build brand personality for a character-based product."
   }
 }

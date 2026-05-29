@@ -1,156 +1,252 @@
 {
   "videoName": "602avenue-20251225215225-785117034638651.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 11,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Lifestyle"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) The shot is a static, full-body capture of two individuals on an urban pedestrian bridge. On the left, a young woman with long, dark hair smiles at the camera; she wears a voluminous beige fur jacket over a grey mini dress with grey leg warmers and black boots. She carries a cream-colored handbag and shifts her weight playfully. To her right, a taller man stands with his arms crossed, wearing a dark puffer jacket and brown knitwear; his face is covered by a pink circular cat emoji. The background features a tall city building with a large colorful mural of a cartoon king. The lighting is bright and even natural daylight, and text overlays indicate their relationship status and height. The scene remains visually consistent without any cuts or camera movement, focusing on the contrast in height between the two figures.",
+      "text_narrative_log": "(1) [Subtitle]: 女友 🇰🇷. [Slogan]: 157CM. [Subtitle]: 男友? 🤔. [Slogan]: ??? CM.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Full body"
+        ],
+        "crowdLevel": [
+          "Duo"
+        ],
+        "countingEvidence": "1 female main character, 1 male main character with face obscured.",
+        "mainCharacterDescription": "Female has long dark hair, wearing a beige fluffy fur coat and grey dress. Male wears a black puffer jacket and dark pants."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Outdoor Street"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A pedestrian bridge with a metal safety railing. In the background, there are multi-story city buildings and a large billboard featuring a cartoon illustration of a king holding a glass. Street traffic is partially visible below.",
+        "lightingStyle": [
+          "Natural daylight"
+        ],
+        "weather": [
+          "Sunny / Clear"
+        ],
+        "season": [
+          "Winter"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static"
+        ],
+        "shotSize": [
+          "Full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "None"
+        ],
+        "visualRhythm": [
+          "Natural pace"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English",
+          "Emoji / Symbols"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "Car"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 0,
+        "total_distinct_voices": 0,
+        "male_vocal_count": 0,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 0,
+        "pitchVariability": 0,
+        "intensityAndLoudness": 0,
+        "speechRate": 0,
+        "speechPauseDensity": 0
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "None"
+        ],
+        "vocalLanguage": [
+          "None"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 0,
+        "intonationAndContour": [
+          "None"
+        ],
+        "speakingRisingRatio": 0,
+        "speakingFallingRatio": 0
+      },
+      "vocal_affective": {
+        "arousal": 0,
+        "valence": 0,
+        "dominance": 0,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 1,
+        "male_singer_count": 0,
+        "female_singer_count": 1,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "Thai"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Synthesizer",
+          "Electronic"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Copyrighted/Commercial"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 0,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 5,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 0,
+        "vocalRatio": 0,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 5,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 3,
+        "audioCutFrequency": 0,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Compressed/Broadcast"
+        ]
+      },
+      "audio_narrative_log": "(1) The audio consists solely of a high-tempo, energetic pop song featuring a female vocalist singing in an upbeat, melodic tone. The lyrics are in Thai, and the production style is modern with a clean, synthesized beat and prominent electronic instrumentation. There is no background noise from the street or environment, suggesting the original environmental audio has been replaced by this studio-produced track. The vocal delivery is consistent in pitch and arousal throughout, maintaining a joyful and playful valence that complements the swaying movements of the female subject. No sound effects or transitions interrupt the continuous musical flow."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Selfie / Portrait"
+      ],
       "location": {
         "country": [
           "Japan"
         ],
         "city": [
-          "Osaka"
+          "Unknown"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman in a beige fur coat and a man in a black puffer jacket stand outdoors on a balcony with a city background. The woman smiles and poses while the man remains still with his arms crossed and his face covered by an emoji. (2) The woman begins to dance playfully, shifting her weight and lifting her legs rhythmically. (3) She continues her cheerful movements, looking directly at the camera with a joyful expression while the man stays in his static pose.",
-      "audio_narrative_log": "(1) An upbeat, rhythmic Thai pop song starts immediately with female vocals singing in a bright, melodic tone. (2) The music maintains a steady, energetic tempo with a clear electronic beat. (3) The song continues consistently throughout the video with no detectable ambient city noise or sound effects, sounding like a studio-quality track.",
-      "text_narrative_log": "(1) Functional/Hook Text: '女友 157CM' (Girlfriend 157CM) appears above the woman with a camera emoji. (2) Functional/Hook Text: '男友? ??? CM' (Boyfriend? ??? CM) appears above the man with a thinking emoji, creating a height comparison hook."
     },
     "temporal_pacing_summary": {
       "sceneCutCount": 0,
       "averageSceneDuration": 11.0,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Intro -> Playful Dancing -> Outro"
+      "editingPace": "Slow",
+      "isNarrativeShift": false
     },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "1 female main character dancing, 1 male standing beside her",
-      "mainCharacterDescription": "The woman has long brown hair and is wearing a luxurious beige fur coat over a gray knit dress and black boots. The man is wearing a black puffer jacket over a brown sweater and black trousers."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Outdoor Street",
-          "Urban"
-        ],
-        "topography": [
-          "Plain"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A bustling urban backdrop in Osaka's Dotonbori area, featuring large commercial billboards (including a Kirin beer sign), a canal/river with bridges, and city buildings under daylight.",
-      "lightingStyle": "Natural daylight",
-      "weather": "Overcast",
-      "season": "Winter",
-      "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "Medium",
-        "language": [
-          "Chinese"
-        ],
-        "isSubtitled": false
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "Dotonbori"
-      ],
-      "brandLogos": [
-        "Gucci",
-        "Kirin"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "None",
-      "vocalRatio": "Low"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 0,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Friendly and excited",
-        "pitch": "High-pitched",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Thai"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Thai Pop",
-      "bgmBPM": 105,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Electronic Drums"
-      ],
-      "musicSourceType": [
-        "Copyrighted Song"
-      ],
-      "rhythmSync": "High(Beat-sync)",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "None"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Action",
-      "mainPurpose": "The video is designed to showcase the playful dynamic of a couple, specifically highlighting their height difference as a curiosity 'hook'. It utilizes a popular, catchy Thai song to create a cheerful 'vibe' while the woman performs a trending social media dance style against a recognizable Japanese travel background.",
-      "visualEmotion": "Cheerful"
+      "narrativeStructure": "Linear: Observation -> Hook",
+      "mainPurpose": "The video is a social-media portrait designed to showcase the physical height difference between a couple. It uses text overlays to pique curiosity about the male subject's height while presenting a cheerful, fashionable aesthetic in a popular urban setting.",
+      "visualEmotion": [
+        "warm",
+        "energetic"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -162,9 +258,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Face-covering emoji for the male partner to maintain privacy.",
-      "freeDescribe": "The use of height-specific text tags is a common trope in East Asian social media to drive engagement and comments about couple dynamics."
-    }
+    "freeDescribe": "The video leverages a popular social media trend of comparing height differences. The use of a Thai pop song over a visual recorded in Japan suggests a cross-cultural aesthetic choice common in short-form content."
   }
 }

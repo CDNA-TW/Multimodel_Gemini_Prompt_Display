@@ -1,153 +1,253 @@
 {
   "videoName": "0_shufen-20250305064036-1430336078496526.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
       "videoDuration": 40,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Storytelling"
-      ],
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A young woman with dark hair and a large black bow is lying on a light-colored, patterned bedsheet or pillow. She is wearing a navy blue garment with a white sailor-style V-neck trim. The camera is held in a close-up selfie perspective, focusing on her face and upper chest. (2) Her facial expressions convey discomfort and weariness; she frequently blinks, looks away from the lens, and her eyes appear slightly watery. Her mouth moves as she speaks directly to the camera, though she remains physically still in her reclined position. (3) The background is a soft-focus indoor setting, likely a bedroom, with warm, natural-looking indoor lighting. Intermittent text subtitles appear in white font across the middle of the frame, changing as she continues her monologue. (4) The shot remains static in its framing, with minor handheld shaking typical of a selfie recording. No other characters or significant objects enter the frame throughout the duration.",
+      "text_narrative_log": "(1) [Subtitle]: 出門前吃胃藥了. 今天胃痛的要死. (2) [Subtitle]: 但藥效還沒開始, 還要出門工作. (3) [Subtitle]: 一路上捂著肚子, 上了MRT. (4) [Subtitle]: 幸好有位子坐. 今天的香水是吉祥牌如意油. (5) [Subtitle]: 結果呢, 有一個人叫我起來, 讓位給老人家. (6) [Subtitle]: 我看了一眼, 旁邊兩個博愛座, 明明有兩個位子. (7) [Subtitle]: 是上天派人來考驗我嗎. 然後我實在是沒力氣了. (8) [Subtitle]: 想了一下自己的處境, 我看著他, 我跟他說, 直接說明, 我的胃好痛啊. (9) [Subtitle]: 我以為他會繼續問其他人, 然後他也不問其他人. (10) [Subtitle]: 為什麼他只問我? 看到車廂內, 我看起來比較健康嗎? (11) [Subtitle]: 他只叫我起來, 我已經不是第一次被人叫讓位了. (12) [Subtitle]: 我自己也看看情況, 我不是坐在博愛座, 我坐在普通的座位. (13) [Subtitle]: 比我需要的人我一定會讓. 我的胃真的很痛. (14) [Subtitle]: 上次更慘. 不是我不想讓. 坐著也無緣無故被罵. (15) [Subtitle]: 坐在位置上真的壓力很大. ???",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 1,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Face close-up",
+          "Upper body"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main female character recorded via selfie camera.",
+        "mainCharacterDescription": "A young Asian woman with long black hair, bangs, and a prominent black bow accessory, wearing a navy blue and white uniform-style top."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Indoor Bedroom"
+        ],
+        "locationTopography": [
+          "None"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A patterned bedsheet or large pillow with light beige and orange geometric or floral designs, slightly out of focus.",
+        "lightingStyle": [
+          "Soft indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Selfie handheld"
+        ],
+        "shotSize": [
+          "Close-up"
+        ],
+        "cameraAngles": [
+          "High angle"
+        ],
+        "editingTechniques": [
+          "Single continuous take"
+        ],
+        "visualRhythm": [
+          "Slow pace"
+        ],
+        "takeStructure": [
+          "Single continuous take"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "None"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 0,
+        "female_vocal_count": 1,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 2,
+        "pitchVariability": 2,
+        "intensityAndLoudness": 2,
+        "speechRate": 2,
+        "speechPauseDensity": 4
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Calm",
+          "Anxious"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": true,
+        "hasRoughness": false,
+        "hasStrain": true,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Falling"
+        ],
+        "speakingRisingRatio": 1,
+        "speakingFallingRatio": 4
+      },
+      "vocal_affective": {
+        "arousal": 2,
+        "valence": 3,
+        "dominance": 3,
+        "hasVocalTension": true
+      },
+      "music_basic_features": {
+        "musicPresence": false,
+        "bgmGenre": [
+          "None"
+        ],
+        "tempoBPM": 0,
+        "mode": [
+          "None"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 0,
+        "beatStrength": 0,
+        "instrumentFamiliesAudible": [
+          "None"
+        ],
+        "instrumentsAudible": [
+          "None"
+        ],
+        "musicSourceType": [
+          "None"
+        ],
+        "harmonicTensionLevel": 0
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "StudioSilence"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 5,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 2,
+        "acousticDynamism": 2,
+        "noisinessAndPercussiveness": 1,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 0,
+        "musicDuration": 0,
+        "speechMusicOverlap": 0,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "None"
+        ],
+        "audioEventDensity": 2,
+        "audioCutFrequency": 0,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A solo female voice speaks in a soft, low-volume tone that borders on a whisper. The speech rate is slow and deliberate, with a noticeable lack of energy, suggesting physical exhaustion or illness. (2) There are significant pauses between phrases as she recounts her story, creating a heavy, somber atmosphere. No background music or distracting ambient noise is present, leaving the focus entirely on the vocal nuances and breathing. (3) The tone remains consistently vulnerable and slightly strained, maintaining a level of intimacy as if speaking privately to the listener. The recording environment is exceptionally quiet, with high tonal clarity and no incidental sound events."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Storytelling",
+        "Personal Talk",
+        "Vlog"
+      ],
       "location": {
         "country": [
           "Taiwan"
         ],
         "city": [
-          "None"
+          "Unknown"
         ]
       }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman with long dark hair and a large black bow is lying down on a bed, looking directly at the camera with a tired and pained expression. (2) As she narrates her story, her facial expressions shift between discomfort and mild frustration, though she remains in the same lying position. (3) The scene stays static throughout the entire video, focusing on her upper body and face as she continues to recount her experience.",
-      "audio_narrative_log": "(1) A soft female voice begins speaking in Mandarin with a weary and slightly high-pitched tone, conveying exhaustion. No background music is present. (2) The voice continues at a slow pace, with natural pauses for breath, maintaining the same volume and tone as she narrates a personal encounter. (3) The audio remains focused solely on the vocal narration with minimal ambient room noise until the end.",
-      "text_narrative_log": "(1) Functional Text: Subtitles in Traditional Chinese translate the spoken story about having a stomachache and having to work. (2) Decorative/Hook Text: Large white captions appear centrally, such as '今天胃痛的要死' (Stomach hurts like hell today) and '結果呢' (And then what?), used to emphasize the emotional peaks of the story. (3) Sequence Text: Smaller captions detail the timeline: taking medicine, boarding the MRT, and being asked to give up a seat."
     },
     "temporal_pacing_summary": {
       "sceneCutCount": 0,
-      "averageSceneDuration": 40.0,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Constant talking while lying down"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 1,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Face",
-        "Upper body"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 female creator visible on screen throughout the video",
-      "mainCharacterDescription": "A young woman with long black hair, wearing a large black bow headband and a navy blue sailor-style top with a white collar."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Bedroom"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "A bed with patterned sheets in soft colors, suggesting a private, domestic setting.",
-      "lightingStyle": "Soft natural indoor lighting",
-      "weather": "None",
-      "season": "None",
+      "averageSceneDuration": 40,
       "editingPace": "Slow",
-      "textOverlay": {
-        "density": "Medium",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static"
-      ]
+      "isNarrativeShift": false
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "None"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "None",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Weary and vulnerable",
-        "pitch": "Medium",
-        "loudness": "Soft",
-        "speed": "Slow",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": false,
-      "bgmGenre": "None",
-      "bgmBPM": 0,
-      "instrumentFamiliesAudible": [
-        "None"
-      ],
-      "instrumentsAudible": [
-        "None"
-      ],
-      "musicSourceType": [
-        "None"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Linear: Hook -> Experience -> Reflection",
-      "mainPurpose": "To share a personal and vulnerable experience regarding the social pressure of giving up seats on public transport while suffering from an 'invisible' illness. The creator aims to connect with her audience by expressing her frustration and physical discomfort through a first-person narrative.",
-      "visualEmotion": "Tired and Vulnerable"
+      "narrativeStructure": "List-based: Situation -> Conflict -> Reflection",
+      "mainPurpose": "To share a personal and vulnerable experience regarding the social pressure and misunderstandings surrounding priority seating on public transport while dealing with invisible illness or pain.",
+      "visualEmotion": [
+        "tired",
+        "vulnerable",
+        "somber"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": false,
@@ -159,9 +259,6 @@
         "None"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Sailor-style aesthetic and signature large hair bow.",
-      "freeDescribe": "The video uses a very intimate angle (lying down on a bed) to enhance the feeling of vulnerability and sickness described in the narration."
-    }
+    "freeDescribe": "The video uses a very intimate, low-energy presentation to evoke sympathy and highlight a social issue regarding priority seating."
   }
 }

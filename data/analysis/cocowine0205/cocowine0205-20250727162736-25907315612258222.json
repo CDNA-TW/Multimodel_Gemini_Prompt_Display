@@ -1,176 +1,283 @@
 {
   "videoName": "cocowine0205-20250727162736-25907315612258222.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 41,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Food Review",
-        "Product Recommendation"
-      ],
+      "videoDuration": 41.72,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
-      "location": {
-        "country": [
-          "Unknown"
+      "visual_narrative_log": "(1) A young woman with long black hair, wearing a white cardigan over a horizontal striped top, stands in a brightly lit grocery aisle in front of a glass-door freezer. She gestures toward the freezer with her hand, looking directly at the camera with a smiling expression. (2) The scene shifts to close-up shots of the freezer interior, displaying stacks of yellow and white boxes. A price tag of $299 is prominently visible. A metal ice cream scooper enters the frame and scoops out a round ball of pale yellow and white swirled ice cream from a large rectangular container. (3) The setting changes to an indoor domestic environment where two women are seated at a table. The first woman is now wearing a light blue top, and a second woman next to her wears a beige top and a pink beret. They are holding small bowls and spoons, actively eating the ice cream and talking. The background shows a shelf with some plush toys and domestic items.",
+      "text_narrative_log": "(1) [Logo]: COSTCO WHOLESALE. [Subtitle]: 年輕人. (2) [Subtitle]: 現在年輕人都愛流行這個. [Slogan]: 北海道十勝牛乳. [Logo]: Threads. [Variety]: Threads 上爆紅. [Slogan]: 柚香優格冰淇淋. (3) [Subtitle]: 它吃起來呢就是酸酸甜甜的優格冰. [Variety]: 佈滿了冰淇淋. (4) [Subtitle]: 然後我們都覺得柚子呢雖然它佈滿了冰淇淋. [Variety]: 多多乳酸菌的味道. (5) [Subtitle]: 但吃起來沒什麼柚香的味道反而比較像那種多多乳酸菌的味道. [Variety]: 乳酸菌口味的冰淇淋. (6) [Subtitle]: 所以你平常很愛什麼多多綠乳酸菌. [Variety]: 非常的綿密. (7) [Subtitle]: 然後或者或是優格之類的你都會非常愛. [Variety]: 性價比還蠻高的. (8) [Subtitle]: 因為它對我們來說就是一個乳酸菌口味的冰淇淋. [Variety]: 會有點小失望. (9) [Subtitle]: 然後口感呢非常的綿密. (10) [Subtitle]: 整體來說呢性價比還蠻高的. (11) [Subtitle]: 如果你喜歡乳酸菌或多多的話一定要嘗試看看. (12) [Subtitle]: 但如果你很愛很愛柚子你是衝著柚子來的話你可能會有一點小失望. (13) [Subtitle]: 因為它比較沒有那種柚子層次跟香味.",
+      "visual_human_presence": {
+        "totalHumanCount": 2,
+        "maleDetectAmount": 0,
+        "femaleDetectAmount": 2,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 2,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Face",
+          "Hands only"
         ],
-        "city": [
-          "None"
-        ]
-      }
-    },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) A young woman with long dark hair, wearing a white cardigan over a striped top, stands in the freezer aisle of a Costco warehouse, gesturing toward the ice cream section. (2) Close-up shots feature boxes of Niseko Yuzu Yogurt Ice Cream and a large tub of the yellow-swirled white ice cream. (3) Two women (one in a blue top, one in a floral dress and pink beret) sit at a marble-topped table, using a metal scoop to serve the ice cream into pink bowls and tasting it while looking at the camera.",
-      "audio_narrative_log": "(1) An upbeat, high-tempo pop/vlog-style BGM starts. A young woman's voice is heard narrating with an excited and clear tone. (2) The sound of a freezer door opening and closing is audible. (3) The audio transitions to a conversational dialogue between two females. They speak in a friendly, review-oriented manner, discussing the flavor profile. The metallic clicking and scraping sounds of an ice cream scoop are heard distinctly.",
-      "text_narrative_log": "(1) Functional Text: 'COSTCO WHOLESALE' logo appears at the top. (2) Hook Text: 'Threads 上爆紅' (Viral on Threads) and '柚香優格冰淇淋' (Yuzu Yogurt Ice Cream) are displayed in large, colorful fonts. (3) Decorative Text: Captions like '乳酸菌口味的冰淇淋' (Lactic acid bacteria flavor ice cream), '非常的綿密' (Very creamy), and '性價比還蠻高的' (High cost-performance ratio) appear to emphasize the review points."
-    },
-    "temporal_pacing_summary": {
-      "sceneCutCount": 12,
-      "averageSceneDuration": 3.4,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro at store -> Close-up product shots -> In-depth tasting and review at home."
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 2,
-      "maleDetectAmount": 0,
-      "femaleDetectAmount": 2,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 2,
-      "bodyPartVisibility": [
-        "Full body",
-        "Upper body",
-        "Hands only"
-      ],
-      "crowdLevel": "Duo",
-      "countingEvidence": "1 female at the store (main creator), 2 females at the table during the tasting (including the creator).",
-      "mainCharacterDescription": "One woman has long dark hair and wears a white cardigan; the second woman wears a floral dress and a pink beret."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Indoor Studio",
-          "Supermarket"
+        "crowdLevel": [
+          "Duo"
         ],
-        "topography": [
-          "None"
+        "countingEvidence": "Two primary female creators appear throughout the video, first one alone at the store and then both together during the review.",
+        "mainCharacterDescription": "The first woman has long dark hair and wears a white cardigan then a blue top. The second woman wears a beige top and a pink beret."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Retail Store",
+          "Indoor Living Room"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": true,
+        "backgroundDescribe": "A Costco warehouse freezer section with refrigerated products and price labels, transitioning to a home interior with tables and shelves containing plushies.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
         ]
       },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A Costco warehouse freezer section followed by a domestic interior featuring a marble table and plush toys in the background.",
-      "lightingStyle": "Bright studio lighting and fluorescent supermarket lighting.",
-      "weather": "Unknown",
-      "season": "Unknown",
-      "editingPace": "Moderate",
-      "textOverlay": {
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Static",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Insert shot"
+        ],
+        "cameraAngles": [
+          "Eye-level"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Speed ramp"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
         "density": "High",
-        "language": [
+        "textLanguage": [
           "Traditional Chinese"
         ],
         "isSubtitled": true
       },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Static",
-        "Close-up"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "Ice Cream",
-        "Yogurt"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "None"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "COSTCO",
-        "Niseko"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 2,
-        "offscreen": 0,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 0,
-          "female_vocal_count": 2,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Energetic and descriptive",
-        "pitch": "Medium-high",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "None"
+        ],
+        "foodsDetect": [
+          "Dessert / cake / cookies",
+          "Dairy / yogurt / cheese ",
+          "Prepared meal / plated dish"
+        ],
+        "trafficDetect": [
+          "Shopping cart"
+        ],
+        "techDetect": [
+          "None"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "COSTCO",
+          "Niseko",
+          "Threads"
+        ],
+        "instrumentsVisible": [
+          "None"
         ]
       }
     },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Keyboard",
-        "Electronic"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Electric Piano"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "Ice cream scoop scraping"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 0,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 3,
+        "intensityAndLoudness": 3,
+        "speechRate": 3,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Animated/Excited"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 4,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 6,
+        "valence": 7,
+        "dominance": 6,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM",
+          "Pop"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 1
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "None"
+        ],
+        "crowdNoiseIntensity": 0,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Metal  Bump ",
+          "Mechanical Click / Latch"
+        ],
+        "incidentalNoiseIntensity": 2,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Ding / Bell SFX",
+          "Pop / Bubble SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 3
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 3,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 3,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Studio"
+        ]
+      },
+      "audio_narrative_log": "(1) A high-pitched, energetic female voice begins the narration over a bright, rhythmic electronic pop background track with a steady synth bass and a four-on-the-floor beat. (2) A sharp mechanical click sound is heard, indicating the opening of a freezer door, followed by a soft metallic scraping sound as an ice cream scooper interacts with the product. (3) The vocal track transitions to a conversational dialogue between two female voices. The primary speaker maintains a friendly, narrative tone with moderate speed. (4) Frequent soft digital 'pop' sound effects punctuate the transitions between different points of the review, while the background music continues at a constant tempo of 128 BPM throughout the entire segment."
     }
   },
-  "high_inference_interpretations": {
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Food Review",
+        "Shopping",
+        "Vlog"
+      ],
+      "location": {
+        "country": [
+          "Taiwan"
+        ],
+        "city": [
+          "Unknown"
+        ]
+      }
+    },
+    "temporal_pacing_summary": {
+      "sceneCutCount": 18,
+      "averageSceneDuration": 2.3,
+      "editingPace": "Fast",
+      "isNarrativeShift": true
+    },
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Intro -> Demonstration -> Evaluation",
-      "mainPurpose": "The video is a consumer review of a specific food product (Niseko Yuzu Yogurt Ice Cream) found at Costco. It aims to validate a social media trend ('Threads viral') by providing a first-hand taste test and evaluating the flavor, texture, and value for money.",
-      "visualEmotion": "Cheerful and Energetic"
+      "narrativeStructure": "Linear: Hook -> Product Introduction -> Experience/Review -> Conclusion.",
+      "mainPurpose": "The video serves as a lifestyle review and recommendation of Niseko Yogurt Ice Cream found at Costco. It aims to inform viewers of its popularity on social media (Threads) and provide a detailed taste evaluation, noting that the flavor profile is more akin to lactic acid drinks (like Yakult) than fresh yuzu, ultimately helping potential buyers decide on its value.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
-        "Explicit",
+        "Implicit",
         "Integrated"
       ],
-      "endorsementCues": "Detailed product demonstration, brand name prominently displayed, and positive evaluation of taste and value.",
+      "endorsementCues": "Detailed product showcase, mentioning specific price points, and expressing high cost-performance ratio suggests a promotional review.",
       "endorsementObject": [
-        "Niseko 柚香優格冰淇淋"
+        "Niseko",
+        "Costco"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-density variety show style captions and a casual dialogue-based review style.",
-      "freeDescribe": "The video leverages current social media trends (Threads) to attract viewers looking for trending food recommendations."
-    }
+    "freeDescribe": "The video uses high-density text overlays and upbeat music to maintain high audience engagement typical of short-form social media content."
   }
 }

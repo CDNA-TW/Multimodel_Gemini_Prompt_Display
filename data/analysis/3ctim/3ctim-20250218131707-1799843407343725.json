@@ -1,188 +1,288 @@
 {
   "videoName": "3ctim-20250218131707-1799843407343725.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 57,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Product Showcase"
-      ],
+      "videoDuration": 57.0,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) The scene opens in a brightly lit exhibition hall. A large blue wall with the white text \"Ecosystem\" is prominently featured. Numerous white square panels are mounted on the wall, each displaying a different mobile accessory, such as phone cases and earbud cases with various colorful cartoon and brand designs. (2) The camera zooms in on a specific phone case designed to look exactly like a Hershey's milk chocolate bar, including the brown color and white logo. A hand enters the frame from the left to point at the details of the case. (3) The focus shifts to a circular earbud case that mimics a Korean \"Hetbahn\" instant rice container, complete with red and white packaging graphics. The background remains consistent with the blue exhibition wall and other products. (4) A series of quick cuts showcases diverse phone cases: one pink case with cartoon dinosaurs labeled \"Joguman\", a yellow case featuring Tweety Bird from Looney Tunes, and a cream-colored case shaped like a Croc shoe with miniature charms attached. (5) The camera pans down to a flat table surface where multiple colorful phone backplates and clear cases with different graphic inserts are organized in a neat grid for display. The lighting is bright and professional throughout.",
+      "text_narrative_log": "(1) [Logo]: 3c有意思tim哥. [Logo]: @3ctim. (2) [Subtitle]: 這是Ecosystem回收材料做的周邊產品. (3) [Subtitle]: 包含你看, 巧克力造型的手機殼. (4) [Subtitle]: 然後這個也很可愛, 它是耳機的保護殼. (5) [Subtitle]: JOGUMAN我最喜歡的. (6) [Subtitle]: 樂一通. (7) [Subtitle]: 還有你可以看到這裡, 很可愛. (8) [Subtitle]: 你看這裡, Tom and Jerry的. (9) [Subtitle]: 這個也很可愛, 我很喜歡. (10) [Subtitle]: 也是我很喜歡的角色. (11) [Subtitle]: 你看這個. (12) [Subtitle]: 它有很多可愛的面板. (13) [Subtitle]: 有沒有.",
+      "visual_human_presence": {
+        "totalHumanCount": 1,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 0,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Single"
+        ],
+        "countingEvidence": "1 main creator (narrator) whose hand is visible interacting with objects.",
+        "mainCharacterDescription": "The main character is the narrator, only visible by his hand pointing at the tech accessories."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Exhibition / Museum / Gallery"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A large, professional exhibition booth featuring a bright blue wall labeled 'Ecosystem' with white square mounting panels for product displays and a gray table for additional items.",
+        "lightingStyle": [
+          "Bright studio lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Not visually inferable"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Panning",
+          "Zoom in",
+          "Handheld"
+        ],
+        "shotSize": [
+          "Medium close-up",
+          "Close-up",
+          "Macro close-up"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "High angle"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Montage"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "Medium",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Bird",
+          "Cartoon / animated animal"
+        ],
+        "foodsDetect": [
+          "Dessert / cake / cookies",
+          "Rice / grains",
+          "Fast food / burger / fries / pizza"
+        ],
+        "trafficDetect": [
+          "None"
+        ],
+        "techDetect": [
+          "Smartphone",
+          "Headphones / earbuds"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "Hershey's",
+          "Looney Tunes",
+          "Tom and Jerry",
+          "Samsung"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 1,
+        "male_vocal_count": 1,
+        "female_vocal_count": 0,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 3,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 3,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Friendly",
+          "Animated/Excited",
+          "Professional/Narrative"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 3,
+        "speakingFallingRatio": 2
+      },
+      "vocal_affective": {
+        "arousal": 7,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Electronic/EDM",
+          "Pop"
+        ],
+        "tempoBPM": 124,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Keyboard / Synthesizer",
+          "Electronic Drum / E-drum"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Crowd Murmur"
+        ],
+        "crowdNoiseIntensity": 1,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone",
+          "Commercial/Recreational"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "None"
+        ],
+        "incidentalNoiseIntensity": 0,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "None"
+        ],
+        "soundEffectsIntensity": 0,
+        "soundEffectsCoverage": 0
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 3,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 4,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": false,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 0,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) A male narrator begins speaking with a high level of enthusiasm and professional clarity, introducing the 'Ecosystem' recycled materials. An upbeat electronic pop BGM supports the voice with a consistent 4/4 drum machine beat and bright synthesizer pads. (2) As the narrator describes the Hershey's themed case, his pitch rises slightly to convey excitement. The BGM maintains a steady tempo, creating an energetic and commercial atmosphere typical of a product vlog. (3) The narration continues at a relatively fast pace without significant pauses, transitioning smoothly between descriptions of various brands. The acoustic environment is clean, with very faint background murmurs from the exhibition hall barely audible under the music and speech. (4) Toward the end, the speaker's tone remains positive and engaging, concluding with a conversational question. The music and voice are mixed with high clarity until the clip reaches its conclusion."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Tech Review",
+        "Product Showcase",
+        "Vlog"
+      ],
       "location": {
         "country": [
-          "Unknown"
+          "South Korea"
         ],
         "city": [
           "Unknown"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video starts with a POV shot panning across a blue wall display titled 'Ecosystem', featuring various phone and earbud cases mounted on white pedestals. (2) The camera moves closer to highlight a dark brown Hershey's chocolate bar phone case and a white circular Galaxy Buds case shaped like a CJ Hetbahn rice bowl. (3) Transitions show close-ups of pastel-colored Joguman dinosaur cases and a yellow Tweety Bird Looney Tunes case. (4) A hand enters the frame to point at a cream-colored phone case designed like a Crocs shoe, adorned with charms including Mickey Mouse. (5) The video concludes with a montage of various transparent cases with sticker-like designs and several sleek, solid-colored official Samsung phone cases laid out on a table.",
-      "audio_narrative_log": "(1) Upbeat, medium-tempo electronic background music begins. An offscreen male voice starts speaking in Mandarin with an energetic and friendly tone. (2) The music continues as the narrator describes the recycled material accessories, specifically naming 'Ecosystem', 'Hershey's', and 'Joguman'. (3) The soundscape remains consistent with a mix of the upbeat BGM and the narrator's enthusiastic commentary until the video ends.",
-      "text_narrative_log": "(1) Functional text in the top left corner displays social media handles '3c有意思tim哥' and '@3ctim'. (2) Decorative hook text and captions appear in Traditional Chinese and English identifying brands and products such as 'Hershey's', 'Galaxy Buds3', 'Joguman', 'Looney Tunes', and 'Tom & Jerry'. (3) Subtitles in Traditional Chinese provide a literal translation of the spoken narration throughout the video."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 16,
-      "averageSceneDuration": 3.5,
-      "isNarrativeShift": false,
-      "mainActionFlow": "Intro -> Product Demo Sequence -> Conclusion"
+      "sceneCutCount": 14,
+      "averageSceneDuration": 4.07,
+      "editingPace": "Fast",
+      "isNarrativeShift": false
     },
-    "visual_human_presence": {
-      "totalHumanCount": 1,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 0,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Hands only"
-      ],
-      "crowdLevel": "Single",
-      "countingEvidence": "1 main creator's hands visible interacting with objects",
-      "mainCharacterDescription": "The main character is only seen via their hands; the individual is the offscreen narrator 'Tim'."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Exhibition Booth",
-          "Indoor Studio"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": true,
-      "backgroundDescribe": "A large, bright blue exhibition wall with 'Ecosystem' text and individual product mounts; a secondary scene features a grey tabletop displaying various phone case panels.",
-      "lightingStyle": "Bright studio lights",
-      "weather": "None",
-      "season": "None",
-      "editingPace": "Moderate",
-      "textOverlay": {
-        "density": "Medium",
-        "language": [
-          "Traditional Chinese",
-          "English"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "High Saturation",
-      "cameraWork": [
-        "POV",
-        "Handheld",
-        "Close-up"
-      ]
-    },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "Dinosaur",
-        "Bird",
-        "Cat",
-        "Mouse"
-      ],
-      "foodsDetect": [
-        "Chocolate",
-        "Rice"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone Case",
-        "Earbud Case"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Samsung",
-        "Hershey's",
-        "CJ Hetbahn",
-        "Crocs",
-        "Looney Tunes",
-        "Tom & Jerry",
-        "Mickey Mouse"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Hard cut",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 0,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 0,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 0,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Enthusiastic and professional",
-        "pitch": "Normal",
-        "loudness": "Normal",
-        "speed": "Normal",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Electronic",
-      "bgmBPM": 124,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Studio quiet"
-      ],
-      "audioQuality": "Studio"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "List-based: Hook -> Feature Showcase -> Summary",
-      "mainPurpose": "The video serves to showcase a diverse and creative range of accessories within the Samsung ecosystem, highlighting collaborations with popular global brands like Hershey's and Disney to appeal to a broad consumer base.",
-      "visualEmotion": "Energetic"
+      "narrativeStructure": "List-based: Hook -> Feature 1 -> Feature 2 -> Feature 3 -> Summary",
+      "mainPurpose": "To showcase a diverse range of creative and eco-friendly mobile accessories (Samsung Ecosystem) at an exhibition booth, highlighting the unique collaborative designs with popular brands and characters.",
+      "visualEmotion": [
+        "energetic",
+        "informative",
+        "warm"
+      ]
     },
     "endorsement_analysis": {
       "isEndorsement": true,
       "endorsementMethod": [
-        "Explicit",
-        "Full"
+        "Implicit",
+        "Integrated"
       ],
-      "endorsementCues": "The narrator provides direct descriptions and positive commentary on specific branded accessories, clearly showcasing them as products available in the ecosystem.",
+      "endorsementCues": "The video specifically showcases Samsung Ecosystem products and collaborative brands in a favorable, promotional light at a tech booth.",
       "endorsementObject": [
         "Samsung",
         "Hershey's",
-        "Crocs",
-        "Looney Tunes",
-        "Tom & Jerry"
+        "Joguman",
+        "Looney Tunes"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "Consistent use of '3c有意思tim哥' social media overlay and energetic Mandarin narration style.",
-      "freeDescribe": "The video utilizes a POV/vlog style typical of tech influencers, creating a sense of immediacy and discovery as the viewer 'tours' the accessory wall."
-    }
+    "freeDescribe": "The video effectively uses a high-energy vlog style to maintain viewer interest while displaying multiple products in a short timeframe. The focus on 'recycled materials' adds a sustainable marketing angle to the tech accessory showcase."
   }
 }

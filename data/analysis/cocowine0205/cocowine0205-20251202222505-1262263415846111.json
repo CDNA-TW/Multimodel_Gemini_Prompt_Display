@@ -1,178 +1,281 @@
 {
   "videoName": "cocowine0205-20251202222505-1262263415846111.mp4",
-  "low_inference_observations": {
+  "low_inference": {
     "basic_metadata": {
-      "videoDuration": 40,
-      "aspectRatio": "9:16",
-      "videoGenre": [
-        "Vlog",
-        "Shopping Haul",
-        "Promotion"
-      ],
+      "videoDuration": 40.1,
+      "aspectRatio": "9:16"
+    },
+    "visual_base": {
       "withRealPeople": true,
+      "visual_narrative_log": "(1) A young woman with long dark hair, wearing a white sheer blouse over a blue top and black trousers, stands in a brightly lit warehouse store. She holds a large, white, packaged pillow. The background is filled with rows of pink and yellow boxes on pallets. (2) The camera cuts to a cardboard bin filled with white pillows. Two shoppers in casual winter clothing are seen from behind, inspecting the merchandise. Above them, a large 'BLACK FRIDAY' price tag shows a discount. (3) The woman returns to the frame, holding the pillow close to her face and smiling. She points to the brand label 'HOTEL GRAND' on the pillow. The setting shows high industrial ceilings and store signage in the distance. (4) Close-up shot of the woman gesturing towards the pillow's texture while continuing to talk. A second person's hand enters the frame briefly to touch the pillow. The background remains the busy store aisle. (5) A high-angle panning shot shows two large, nearly empty cardboard shipping bins. Only a few rolled-up pillows remain at the bottom, suggesting high demand. (6) The woman is shown again in a medium shot, holding the pillow and waving her hand enthusiastically toward the camera, gesturing for viewers to hurry. The store environment is visible with shoppers and carts moving in the background.",
+      "text_narrative_log": "(1) [Logo]: COSTCO WHOLESALE. [Variety]: 黑五好康. 大家搶著買. 黑五太便宜. 搶爆375元白鵝毛枕. (2) [Slogan]: $749. BLACK FRIDAY. (3) [Subtitle]: 2入749，一個只要375元. [Logo]: HOTEL GRAND. (4) [Variety]: 飯店等級枕頭. (5) [Variety]: 快被拿空了. [Variety]: 趕快來黑五.",
+      "visual_human_presence": {
+        "totalHumanCount": 5,
+        "maleDetectAmount": 1,
+        "femaleDetectAmount": 4,
+        "kidsDetectAmount": 0,
+        "mainCharacterCount": 1,
+        "bodyPartVisibility": [
+          "Upper body",
+          "Full body",
+          "Face close-up",
+          "Hands only"
+        ],
+        "crowdLevel": [
+          "Small Group"
+        ],
+        "countingEvidence": "1 main female creator, 2 female shoppers at the bin, 1 male staff/passerby in the background, 1 off-screen hand visible.",
+        "mainCharacterDescription": "A young Asian woman with long straight black hair, wearing a white lace-trimmed sheer top over a blue tank top and black trousers."
+      },
+      "visual_scene_and_style": {
+        "locationCategory": [
+          "Supermarket / Warehouse Store"
+        ],
+        "locationTopography": [
+          "Plain / Flat Urban"
+        ],
+        "isMultipleBackground": false,
+        "backgroundDescribe": "A typical Costco warehouse interior with high industrial ceilings, large steel pallet racking, and bulk merchandise in boxes. Signage for 'Pharmacy' and 'Optical' is visible in the background.",
+        "lightingStyle": [
+          "Bright indoor lighting"
+        ],
+        "weather": [
+          "Indoor / not visible"
+        ],
+        "season": [
+          "Autumn / Winter"
+        ],
+        "colorTone": [
+          "Natural and bright"
+        ]
+      },
+      "visual_filming_and_editing": {
+        "cameraMovement": [
+          "Handheld",
+          "Panning"
+        ],
+        "shotSize": [
+          "Medium shot",
+          "Close-up",
+          "Full shot"
+        ],
+        "cameraAngles": [
+          "Eye-level",
+          "High angle"
+        ],
+        "editingTechniques": [
+          "Straight cut",
+          "Jump cut",
+          "Fast cuts"
+        ],
+        "visualRhythm": [
+          "Fast pace"
+        ],
+        "takeStructure": [
+          "Multiple shots"
+        ]
+      },
+      "visual_text_overlay": {
+        "density": "High",
+        "textLanguage": [
+          "Traditional Chinese",
+          "English"
+        ],
+        "isSubtitled": true
+      },
+      "visual_objects_and_brands": {
+        "animalDetect": [
+          "Other Mammals"
+        ],
+        "foodsDetect": [
+          "None"
+        ],
+        "trafficDetect": [
+          "Shopping cart"
+        ],
+        "techDetect": [
+          "Lighting equipment / ring light"
+        ],
+        "landmark": [
+          "None"
+        ],
+        "brandLogos": [
+          "COSTCO",
+          "HOTEL GRAND"
+        ],
+        "instrumentsVisible": [
+          "None"
+        ]
+      }
+    },
+    "audio_base": {
+      "vocal_census": {
+        "dominant_speakers_count": 1,
+        "total_distinct_voices": 2,
+        "male_vocal_count": 0,
+        "female_vocal_count": 2,
+        "kids_vocal_count": 0
+      },
+      "vocal_prosody": {
+        "pitchLevel": 4,
+        "pitchVariability": 4,
+        "intensityAndLoudness": 4,
+        "speechRate": 4,
+        "speechPauseDensity": 2
+      },
+      "vocal_voice_quality": {
+        "tone": [
+          "Animated/Excited",
+          "Friendly"
+        ],
+        "vocalLanguage": [
+          "Traditional Chinese"
+        ],
+        "hasBreathiness": false,
+        "hasRoughness": false,
+        "hasStrain": false,
+        "articulationClarity": 5,
+        "intonationAndContour": [
+          "Complex"
+        ],
+        "speakingRisingRatio": 4,
+        "speakingFallingRatio": 3
+      },
+      "vocal_affective": {
+        "arousal": 8,
+        "valence": 8,
+        "dominance": 7,
+        "hasVocalTension": false
+      },
+      "music_basic_features": {
+        "musicPresence": true,
+        "bgmGenre": [
+          "Pop"
+        ],
+        "tempoBPM": 128,
+        "mode": [
+          "Major / Ionian"
+        ]
+      },
+      "music_vocal_census": {
+        "total_singer_count": 0,
+        "male_singer_count": 0,
+        "female_singer_count": 0,
+        "kids_singer_count": 0,
+        "bgmLanguage": [
+          "None"
+        ]
+      },
+      "music_structures": {
+        "musicPauseDensity": 1,
+        "beatStrength": 4,
+        "instrumentFamiliesAudible": [
+          "Electronic",
+          "Synthesizer",
+          "Percussion"
+        ],
+        "instrumentsAudible": [
+          "Electronic Drum / E-drum",
+          "Electronic Keyboard / Synthesizer",
+          "None"
+        ],
+        "musicSourceType": [
+          "Stock/Royalty-Free"
+        ],
+        "harmonicTensionLevel": 2
+      },
+      "noise_and_SFX_detect": {
+        "crowdNoiseDetails": [
+          "Crowd Murmur"
+        ],
+        "crowdNoiseIntensity": 1,
+        "ambientNoiseDetails": [
+          "Indoor/RoomTone"
+        ],
+        "ambientNoiseIntensity": 1,
+        "incidentalNoiseDetails": [
+          "Plastic / Bag Rustle"
+        ],
+        "incidentalNoiseIntensity": 1,
+        "SignalToNoiseRatio": 4,
+        "soundEffectsDetails": [
+          "Whoosh / Transition SFX",
+          "Ding / Bell SFX",
+          "Pop / Bubble SFX"
+        ],
+        "soundEffectsIntensity": 3,
+        "soundEffectsCoverage": 4
+      },
+      "spectral_and_acoustic": {
+        "spectralCentroidBrightness": 4,
+        "acousticDynamism": 4,
+        "noisinessAndPercussiveness": 3,
+        "harmonicsToNoiseRatio": 4,
+        "hasAudioDistortion": false
+      },
+      "editing_and_production_style": {
+        "speechDensity": 4,
+        "vocalRatio": 5,
+        "musicToSpeechLoudRatio": 2,
+        "musicDuration": 5,
+        "speechMusicOverlap": 5,
+        "isAudioEditingFragmented": true,
+        "hasStrategicSilence": false,
+        "audioTransition": [
+          "Hard cut",
+          "Stingers"
+        ],
+        "audioEventDensity": 4,
+        "audioCutFrequency": 4,
+        "dynamicRange": 2,
+        "audioQuality": [
+          "Field Recording"
+        ]
+      },
+      "audio_narrative_log": "(1) High-arousal female narration begins with a bright, energetic tone and rapid speech rate. A high-tempo electronic pop track with a strong 4/4 beat starts simultaneously. Background store murmur is extremely faint. (2) A sharp 'ding' sound effect triggers as the price tag is visually highlighted. The voice continues to describe the deal with rising intonations. (3) A subtle 'pop' sound effect occurs as a variety-style text overlay appears. The narration transitions into a dialogue-style explanation between the main speaker and an off-camera female listener. (4) Sound of plastic rustling is audible as the pillow is manipulated. A brief 'whoosh' transition effect occurs during a scene cut. (5) The female voice maintains high intensity and arousal, emphasizing the limited stock. The background music maintains a constant volume and energy. (6) A final electronic stinger sound effect concludes the narration as the speaker gives a closing recommendation."
+    }
+  },
+  "high_inference": {
+    "content_identity": {
+      "videoGenre": [
+        "Shopping",
+        "Product Showcase",
+        "Short Video"
+      ],
       "location": {
         "country": [
-          "Taiwan"
+          "Unknown"
         ],
         "city": [
           "Unknown"
         ]
       }
     },
-    "perceptual_narrative_logs": {
-      "visual_narrative_log": "(1) The video starts with a young woman standing in a Costco warehouse, holding a large white pillow with a 'Costco Wholesale' logo overlay at the top. (2) There is a quick cut to shoppers in the background grabbing pillows from a large cardboard bin near a 'Black Friday' sale sign. (3) The woman is then seen holding the 'Hotel Grand White Goose Down Chamber Pillow', gesturing toward it and pointing out details on the packaging while talking. (4) The camera pans to show two large, nearly empty cardboard bins that previously held the pillows. (5) The woman returns to the frame, waving and gesturing toward the camera to encourage viewers to visit the store.",
-      "audio_narrative_log": "(1) Upbeat and energetic pop-style BGM starts immediately. A high-pitched, excited female voice shouts an introductory hook about everyone buying pillows. (2) The soundscape shifts to a mix of the music and a live field recording. A male voice (off-camera) is heard conversing with the woman. They discuss the price reduction (749 NTD for two) and the quality of the goose down compared to duck down. (3) Ambient supermarket noise (distant chatter, movement) is audible in the background. (4) The music remains constant until the end, with the female and male voices concluding with enthusiastic remarks about the value.",
-      "text_narrative_log": "(1) Functional Text: 'COSTCO WHOLESALE' logo at the top throughout the intro. (2) Hook Text: '大家搶著買' (Everyone's grabbing them), '黑五太便宜' (Black Friday too cheap), and '搶爆375元白鵝毛枕' (Grabbed 375 NTD White Goose Feather Pillow) in large yellow and white fonts. (3) Functional Text: Subtitles tracking the spoken conversation about prices and material quality. (4) Functional Text: Price tags on screen showing '749' and 'BLACK FRIDAY' headers."
-    },
     "temporal_pacing_summary": {
-      "sceneCutCount": 6,
-      "averageSceneDuration": 6.6,
-      "isNarrativeShift": true,
-      "mainActionFlow": "Intro Hook -> Product Demonstration -> Social Proof (Empty Bins) -> Call to Action"
-    },
-    "visual_human_presence": {
-      "totalHumanCount": 5,
-      "maleDetectAmount": 1,
-      "femaleDetectAmount": 4,
-      "kidsDetectAmount": 0,
-      "mainCharacterCount": 1,
-      "bodyPartVisibility": [
-        "Full body",
-        "Hands only"
-      ],
-      "crowdLevel": "Small Group",
-      "countingEvidence": "1 main female creator, 3 female shoppers in the background, 1 male shopper in the background.",
-      "mainCharacterDescription": "A young woman with long dark hair, wearing a white blouse with puffy sleeves and a black overall dress."
-    },
-    "visual_scene_and_style": {
-      "locationCategory": {
-        "category": [
-          "Warehouse Store",
-          "Costco"
-        ],
-        "topography": [
-          "None"
-        ]
-      },
-      "isMultipleBackground": false,
-      "backgroundDescribe": "The interior of a Costco warehouse, filled with pallets of goods, price signs, and shoppers with carts.",
-      "lightingStyle": "Bright industrial warehouse lighting",
-      "weather": "Indoor",
-      "season": "Winter (indicated by Black Friday context)",
+      "sceneCutCount": 8,
+      "averageSceneDuration": 5.0,
       "editingPace": "Fast",
-      "textOverlay": {
-        "density": "High",
-        "language": [
-          "Traditional Chinese"
-        ],
-        "isSubtitled": true
-      },
-      "colorTone": "Natural",
-      "cameraWork": [
-        "Handheld",
-        "Follow shot",
-        "Pan"
-      ]
+      "isNarrativeShift": false
     },
-    "visual_objects_and_brands": {
-      "animalDetect": [
-        "None"
-      ],
-      "foodsDetect": [
-        "None"
-      ],
-      "trafficDetect": [
-        "None"
-      ],
-      "techDetect": [
-        "Smartphone"
-      ],
-      "landmark": [
-        "None"
-      ],
-      "brandLogos": [
-        "Costco Wholesale",
-        "Hotel Grand",
-        "Pokka"
-      ],
-      "instrumentsVisible": [
-        "None"
-      ]
-    },
-    "audio_production_style": {
-      "audioContinuity": "Continuous",
-      "audioTransition": "Cross-fade",
-      "vocalRatio": "High"
-    },
-    "audio_vocal_characterization": {
-      "speaker_inventory": {
-        "onscreen": 1,
-        "offscreen": 1,
-        "backgroundCrowdVoices": 2,
-        "vocal_demographics": {
-          "male_vocal_count": 1,
-          "female_vocal_count": 1,
-          "kids_vocal_count": 0
-        }
-      },
-      "vocal_qualities": {
-        "tone": "Excited and enthusiastic",
-        "pitch": "Medium-high",
-        "loudness": "Loud",
-        "speed": "Fast",
-        "speechDensity": "Continuous talking",
-        "language": [
-          "Mandarin Chinese"
-        ]
-      }
-    },
-    "audio_music_and_environment": {
-      "bgmPresence": true,
-      "bgmGenre": "Upbeat Pop",
-      "bgmBPM": 128,
-      "instrumentFamiliesAudible": [
-        "Electronic",
-        "Percussion"
-      ],
-      "instrumentsAudible": [
-        "Synthesizer",
-        "Drum Machine"
-      ],
-      "musicSourceType": [
-        "Stock"
-      ],
-      "rhythmSync": "Low",
-      "soundEffects": [
-        "None"
-      ],
-      "ambientNoise": [
-        "Supermarket chatter",
-        "Cart movement"
-      ],
-      "audioQuality": "Field"
-    }
-  },
-  "high_inference_interpretations": {
     "narrative_and_purpose": {
-      "narrativeStructure": "Montage: Hook -> Detail -> Proof -> CTA",
-      "mainPurpose": "To promote a specific Black Friday deal at Costco (the Hotel Grand White Goose Down Pillow) by highlighting the low price (375 NTD per unit) and the high demand (empty bins), using an energetic and relatable vlog style to drive consumer action.",
-      "visualEmotion": "Energetic and Urgent"
+      "narrativeStructure": "List-based: Hook -> Feature Highlight -> Social Proof -> Scarcity -> CTA",
+      "mainPurpose": "To promote a specific Black Friday discount on Hotel Grand white goose down pillows at Costco, using an energetic and informative vlog style to drive immediate purchase behavior by highlighting price and quality.",
+      "visualEmotion": [
+        "energetic",
+        "informative"
+      ]
     },
     "endorsement_analysis": {
-      "isEndorsement": true,
+      "isEndorsement": false,
       "endorsementMethod": [
-        "Explicit",
-        "Full"
+        "None"
       ],
-      "endorsementCues": "Direct mention of the store, the product brand, the specific price discount, and a clear call to action for viewers to buy the product.",
+      "endorsementCues": "While promoting a store and product, the style is more akin to consumer news or personal shopping advice rather than a sponsored advertisement.",
       "endorsementObject": [
         "Costco",
         "Hotel Grand"
       ]
     },
-    "social_sociology_tags": {
-      "uniqueSignatures": "High-energy opening with 'Everyone is buying' hook, variety-show style large text overlays.",
-      "freeDescribe": "The video utilizes social proof by showing empty product bins to create a sense of scarcity and urgency typical of Black Friday marketing."
-    }
+    "freeDescribe": "The video uses typical social media short-form editing with high-density text overlays and energetic audio to maintain viewer engagement."
   }
 }

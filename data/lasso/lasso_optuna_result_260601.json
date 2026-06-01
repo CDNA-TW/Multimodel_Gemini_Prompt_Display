@@ -1,0 +1,276 @@
+{
+  "audio": {
+    "0": {
+      "pos": [
+        "videoDuration (+4.156)",
+        "vocalSpeed=Extremely fast (+0.386)",
+        "audioTransition=Hard cut sync with visuals (+0.252)",
+        "videoGenre=challenge (+0.201)",
+        "soundEffects=sparkle sfx (+0.190)"
+      ],
+      "neg": [
+        "vocalLoudness=Clear and audible (-0.829)",
+        "videoGenre=tech news (-0.738)",
+        "soundEffects=digital ping (-0.544)",
+        "speechDensity=Other (-0.485)",
+        "videoGenre=tech review (-0.441)"
+      ]
+    },
+    "1": {
+      "pos": [
+        "audioQuality=Studio (+0.928)",
+        "vocalRatio=High (+0.597)",
+        "videoGenre=animation (+0.584)",
+        "speechDensity=Continuous talking (+0.453)",
+        "vocalLoudness=Normal (+0.408)"
+      ],
+      "neg": [
+        "videoDuration (-0.809)",
+        "videoGenre=tech review (-0.554)",
+        "audioTransition=None (-0.496)",
+        "videoGenre=shopping (-0.470)",
+        "vocalPitch=Medium (-0.436)"
+      ]
+    },
+    "2": {
+      "pos": [
+        "videoGenre=tech review (+0.967)",
+        "vocalRatio=High (+0.628)",
+        "videoGenre=tech news (+0.617)",
+        "visualEmotion=Energetic (+0.472)",
+        "videoGenre=tutorial (+0.381)"
+      ],
+      "neg": [
+        "female_vocal_count (-1.486)",
+        "videoDuration (-0.725)",
+        "vocalPitch=High (-0.452)",
+        "sceneCutCount (-0.413)",
+        "videoGenre=comedy (-0.393)"
+      ]
+    },
+    "3": {
+      "pos": [
+        "videoGenre=food review (+0.713)",
+        "videoGenre=product review (+0.501)",
+        "videoGenre=shopping (+0.456)",
+        "speechDensity=Continuous talking (+0.363)",
+        "bgmBPM (+0.342)"
+      ],
+      "neg": [
+        "videoDuration (-0.704)",
+        "male_vocal_count (-0.571)",
+        "videoGenre=tech review (-0.500)",
+        "videoGenre=comedy (-0.474)",
+        "audioQuality=Studio (-0.455)"
+      ]
+    },
+    "4": {
+      "pos": [
+        "speechDensity=None (+0.537)",
+        "vocalLanguage=english (+0.533)",
+        "vocalRatio=Low (+0.445)",
+        "videoGenre=mukbang (+0.333)",
+        "videoGenre=short video (+0.303)"
+      ],
+      "neg": [
+        "vocalLanguage=mandarin (-1.001)",
+        "videoDuration (-0.905)",
+        "vocalRatio=High (-0.858)",
+        "vocalLanguage=mandarin chinese (-0.679)",
+        "vocalLanguage=chinese (-0.610)"
+      ]
+    },
+    "5": {
+      "pos": [
+        "male_vocal_count (+0.466)",
+        "videoGenre=podcast (+0.445)",
+        "onscreen (+0.399)",
+        "vocalLoudness=High (+0.357)",
+        "vocalLoudness=Loud (+0.298)"
+      ],
+      "neg": [
+        "videoGenre=product review (-0.853)",
+        "sceneCutCount (-0.637)",
+        "videoDuration (-0.481)",
+        "videoGenre=tech review (-0.388)",
+        "vocalLoudness=Normal (-0.375)"
+      ]
+    },
+    "6": {
+      "pos": [
+        "vocalLanguage=mandarin (+0.693)",
+        "vocalLanguage=chinese (+0.603)",
+        "vocalSpeed=Normal (+0.513)",
+        "videoGenre=comedy (+0.490)",
+        "vocalLanguage=korean (+0.404)"
+      ],
+      "neg": [
+        "male_vocal_count (-1.145)",
+        "videoDuration (-1.038)",
+        "vocalLanguage=english (-0.926)",
+        "onscreen (-0.548)",
+        "isEndorsement (-0.496)"
+      ]
+    }
+  },
+  "visual": {
+    "0": {
+      "pos": [
+        "femaleDetectAmount (+1.902)",
+        "animalDetect=dog (+0.402)",
+        "videoGenre=unboxing (+0.312)",
+        "techDetect=smartphone (+0.311)",
+        "videoGenre=promotional (+0.291)"
+      ],
+      "neg": [
+        "maleDetectAmount (-2.313)",
+        "brandLogos=costco (-0.759)",
+        "brandLogos=costco wholesale (-0.490)",
+        "videoGenre=prank (-0.457)",
+        "crowdLevel=Single (-0.405)"
+      ]
+    },
+    "1": {
+      "pos": [
+        "brandLogos=roots (+1.499)",
+        "videoGenre=tech review (+1.275)",
+        "brandLogos=miko (+0.802)",
+        "brandLogos=facebook (+0.773)",
+        "videoGenre=tech news (+0.773)"
+      ],
+      "neg": [
+        "videoGenre=comedy (-0.479)",
+        "textDensity=Low (-0.391)",
+        "visualEmotion=Energetic and Playful (-0.370)",
+        "country=south korea (-0.286)"
+      ]
+    },
+    "2": {
+      "pos": [
+        "brandLogos=costco (+2.753)",
+        "brandLogos=costco wholesale (+2.490)",
+        "videoGenre=shopping (+0.613)",
+        "locationCategory=supermarket (+0.584)",
+        "locationCategory=warehouse (+0.439)"
+      ],
+      "neg": [
+        "cameraWork=medium shot (-0.325)",
+        "foodsDetect=seafood (-0.197)",
+        "cameraWork=top-down (-0.179)",
+        "techDetect=oven (-0.172)",
+        "foodsDetect=supplements (-0.153)"
+      ]
+    },
+    "3": {
+      "pos": [
+        "videoGenre=animation (+1.303)",
+        "locationCategory=indoor exhibition hall (+0.250)",
+        "locationCategory=warehouse (+0.231)",
+        "visualEmotion=Energetic and Playful (+0.222)",
+        "videoGenre=skit (+0.214)"
+      ],
+      "neg": [
+        "withRealPeople (-0.386)",
+        "foodsDetect=milk tea (-0.248)",
+        "videoGenre=meme (-0.144)",
+        "season=Spring (based on text 4/17-5/15) (-0.106)"
+      ]
+    },
+    "4": {
+      "pos": [
+        "videoGenre=food review (+0.501)",
+        "videoGenre=travel (+0.365)",
+        "editingPace=Fast (+0.341)",
+        "locationCategory=indoor kitchen (+0.326)",
+        "videoGenre=tutorial (+0.293)"
+      ],
+      "neg": [
+        "brandLogos=costco (-0.942)",
+        "videoDuration (-0.817)",
+        "brandLogos=costco wholesale (-0.761)",
+        "textDensity=Low (-0.482)",
+        "season=None (-0.356)"
+      ]
+    },
+    "5": {
+      "pos": [
+        "techDetect=microphone (+0.657)",
+        "textDensity=None (+0.525)",
+        "textDensity=Low (+0.470)",
+        "trafficDetect=car (+0.403)",
+        "videoGenre=dance (+0.367)"
+      ],
+      "neg": [
+        "textDensity=High (-0.518)",
+        "videoDuration (-0.415)",
+        "videoGenre=podcast (-0.352)",
+        "locationCategory=ski resort (-0.351)",
+        "bodyPartVisibility=head and shoulders (-0.343)"
+      ]
+    },
+    "6": {
+      "pos": [
+        "videoDuration (+1.181)",
+        "videoGenre=comedy (+0.965)",
+        "maleDetectAmount (+0.809)",
+        "techDetect=headphones (+0.490)",
+        "country=taiwan (+0.464)"
+      ],
+      "neg": [
+        "brandLogos=costco (-1.038)",
+        "femaleDetectAmount (-0.780)",
+        "brandLogos=costco wholesale (-0.745)",
+        "videoGenre=animation (-0.740)",
+        "videoGenre=tech review (-0.618)"
+      ]
+    },
+    "7": {
+      "pos": [
+        "kidsDetectAmount (+1.553)",
+        "country=japan (+0.771)",
+        "videoGenre=family (+0.379)",
+        "locationCategory=closet (+0.332)",
+        "locationCategory=indoor bathroom (+0.295)"
+      ],
+      "neg": [
+        "femaleDetectAmount (-0.754)",
+        "videoDuration (-0.404)",
+        "videoGenre=animation (-0.387)",
+        "cameraWork=static (-0.361)",
+        "crowdLevel=Single (-0.265)"
+      ]
+    },
+    "8": {
+      "pos": [
+        "crowdLevel=Single (+0.487)",
+        "cameraWork=pov (+0.479)",
+        "locationCategory=indoor bedroom (+0.369)",
+        "videoGenre=storytelling (+0.273)",
+        "videoGenre=humor (+0.260)"
+      ],
+      "neg": [
+        "videoDuration (-1.841)",
+        "isEndorsement (-0.563)",
+        "bodyPartVisibility=hands only (-0.495)",
+        "country=south korea (-0.459)",
+        "locationCategory=studio (-0.256)"
+      ]
+    },
+    "9": {
+      "pos": [
+        "videoGenre=mukbang (+0.844)",
+        "country=south korea (+0.540)",
+        "foodsDetect=beer (+0.363)",
+        "locationCategory=indoor studio (+0.297)",
+        "videoGenre=vlog (+0.293)"
+      ],
+      "neg": [
+        "brandLogos=costco (-0.821)",
+        "brandLogos=costco wholesale (-0.611)",
+        "brandLogos=apple (-0.540)",
+        "crowdLevel=Small Group (-0.488)",
+        "textDensity=Low (-0.441)"
+      ]
+    }
+  }
+}

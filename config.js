@@ -20,6 +20,11 @@ export const APP_CONFIG = {
         video_info_dir: "./data/Top200_VideoInfo", // 存放 {ig_id}-FullVideoInfo.csv 的資料夾
         video_details_dir: "./data/json_description", // 存放合併後 {ig_id}.json 的資料夾
         ig_names: "./data/ownerid_mapping.csv",
+        lasso_features: "./data/lasso/lasso_optuna_result_260601.json",
+        audio_lasso_csv: "./data/lasso/cluster_result_audio_HT0601.csv",
+        visual_lasso_csv: "./data/lasso/cluster_result_visual_HT0601.csv",
+        audio_compare: "./data/lasso/cluster_compare_audio.json",
+        visual_compare: "./data/lasso/cluster_compare_visual.json",
     },
     // 下拉選單選項
     MODES: [

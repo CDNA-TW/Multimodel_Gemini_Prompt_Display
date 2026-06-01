@@ -259,12 +259,19 @@ export async function renderClusterView(type) {
                 html += `<div class="w-[240px] shrink-0 p-3 border-l border-slate-800/30"><span class="text-slate-600 italic text-xs">-</span></div>`;
                 return;
             }
+            // merge pos/neg, parse coefficient, sort by |coef| descending
+            const parseCoef = (s) => parseFloat(s.match(/\(([+-]?\d+\.?\d*)\)\s*$/)?.[1] ?? "0");
+            const all = [
+                ...(entry.pos || []).map((f) => ({ f, coef: parseCoef(f) })),
+                ...(entry.neg || []).map((f) => ({ f, coef: parseCoef(f) })),
+            ].sort((a, b) => Math.abs(b.coef) - Math.abs(a.coef));
+
             html += `<div class="w-[240px] shrink-0 p-3 border-l border-slate-800/30"><div class="text-[12px] space-y-0.5">`;
-            entry.pos?.forEach((f) => { html += `<div class="text-emerald-400">▲ ${f}</div>`; });
-            if (entry.pos?.length && entry.neg?.length) {
-                html += `<div class="border-t border-slate-700/40 my-1"></div>`;
-            }
-            entry.neg?.forEach((f) => { html += `<div class="text-rose-400">▼ ${f}</div>`; });
+            all.forEach(({ f, coef }) => {
+                const cls = coef >= 0 ? "text-emerald-400" : "text-rose-400";
+                const arrow = coef >= 0 ? "▲" : "▼";
+                html += `<div class="${cls}">${arrow} ${f}</div>`;
+            });
             html += `</div></div>`;
         });
         html += `</div>`;

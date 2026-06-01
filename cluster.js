@@ -255,6 +255,25 @@ export async function renderClusterView(type) {
         });
         html += `</div>`;
 
+        // ── Rows: KeyBERT / TF-IDF wordcloud images ─────────────────────────
+        const wcBase = `./data/lasso/wordcloud/${type}_kmeans_lables`;
+        [
+            { label: "KeyBERT",  key: "keybert" },
+            { label: "TF-IDF",   key: "tfidf"   },
+        ].forEach(({ label, key }) => {
+            html += `<div class="flex border-b border-slate-700 hover:bg-slate-800/20 transition">
+                <div class="w-[130px] shrink-0 p-3 sticky-col-header font-semibold text-violet-300 text-[13px] border-r border-slate-800 bg-slate-900/90 shadow-sm flex items-start">${label}</div>`;
+            clusterIds.forEach((cid) => {
+                const src = `${wcBase}_${key}_top_30_elbow_mix_cluster_${cid}.png`;
+                html += `<div class="w-[240px] shrink-0 p-2 border-l border-slate-800/30">
+                    <img src="${src}" alt="${label} cluster ${cid}"
+                         class="w-full rounded"
+                         onerror="this.parentElement.innerHTML='<span class=\\'text-slate-600 italic text-xs\\'>-</span>'" />
+                </div>`;
+            });
+            html += `</div>`;
+        });
+
         // ── Rows: Feature stats ──────────────────────────────────────────────
         for (const [path, info] of Object.entries(leafPaths)) {
             html += `<div class="flex border-b border-slate-800/50 hover:bg-slate-800/20 transition">

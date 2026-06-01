@@ -82,6 +82,19 @@ async function getLassoFeatures(type) {
     return data[type] || {};
 }
 
+// Returns group name/description JSON for the given type (null if not available)
+async function getGroupNames(type) {
+    const key = `groupNames_${type}`;
+    if (_cache[key] !== undefined) return _cache[key];
+    const pathKey = `${type}_group_names`;
+    if (!APP_CONFIG.DATA_PATHS[pathKey]) { _cache[key] = null; return null; }
+    try {
+        const data = await fetchJson(APP_CONFIG.DATA_PATHS[pathKey]);
+        _cache[key] = data;
+        return data;
+    } catch { _cache[key] = null; return null; }
+}
+
 // Returns the cluster_compare JSON
 async function getStatsData(type) {
     const key = `stats_${type}`;
@@ -184,10 +197,11 @@ export async function renderClusterView(type) {
     }
 
     try {
-        const [clusterData, lassoFeatures, statsData] = await Promise.all([
+        const [clusterData, lassoFeatures, statsData, groupNames] = await Promise.all([
             getClusterGroups(type),
             getLassoFeatures(type),
             getStatsData(type),
+            getGroupNames(type),
         ]);
 
         if (!clusterData) throw new Error("無法載入分群 CSV");
@@ -254,6 +268,26 @@ export async function renderClusterView(type) {
             html += `</div></div>`;
         });
         html += `</div>`;
+
+        // ── Rows: Group name / description ──────────────────────────────────
+        if (groupNames) {
+            [
+                { label: "Group Name\n(GPT)",     field: "group_name_GPT",    color: "text-pink-300"   },
+                { label: "Group Desc\n(GPT)",     field: "group_des_GPT",     color: "text-pink-300"   },
+                { label: "Group Name\n(Gemini)",  field: "group_name_Gemini", color: "text-teal-300"   },
+                { label: "Group Desc\n(Gemini)",  field: "group_des_Gemini",  color: "text-teal-300"   },
+            ].forEach(({ label, field, color }) => {
+                html += `<div class="flex border-b border-slate-700 hover:bg-slate-800/20 transition">
+                    <div class="w-[130px] shrink-0 p-3 sticky-col-header font-semibold ${color} text-[12px] border-r border-slate-800 bg-slate-900/90 shadow-sm flex items-start whitespace-pre-line">${label}</div>`;
+                clusterIds.forEach((cid) => {
+                    const val = groupNames[cid]?.[field] || "";
+                    html += `<div class="w-[240px] shrink-0 p-3 border-l border-slate-800/30 text-[12px] text-slate-200 leading-relaxed">
+                        ${val || '<span class="text-slate-600 italic">-</span>'}
+                    </div>`;
+                });
+                html += `</div>`;
+            });
+        }
 
         // ── Rows: KeyBERT / TF-IDF wordcloud images ─────────────────────────
         const wcBase = `./data/lasso/wordcloud/${type}_kmeans_lables`;

@@ -25,6 +25,7 @@ export const APP_CONFIG = {
         visual_lasso_csv: "./data/lasso/cluster_result_visual_HT0601.csv",
         audio_compare: "./data/lasso/cluster_compare_audio.json",
         visual_compare: "./data/lasso/cluster_compare_visual.json",
+        visual_group_names: "./data/lasso/group_name_visual.json",
     },
     // 下拉選單選項
     MODES: [

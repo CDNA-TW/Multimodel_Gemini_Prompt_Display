@@ -162,4 +162,4 @@ python3 -m http.server 8000
 
 ## GitHub Pages
 
-網址：https://annahung31.github.io/Multimodel_Gemini_Prompt_Display/
+網址：https://CDNA-TW.github.io/Multimodel_Gemini_Prompt_Display/

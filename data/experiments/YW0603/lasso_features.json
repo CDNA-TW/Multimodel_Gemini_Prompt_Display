@@ -1,0 +1,230 @@
+{
+  "visual": {
+    "0": {
+      "pos": [
+        "femaleDetectAmount (+0.5858)",
+        "crowdLevel=single (+0.5634)",
+        "videoGenre=selfie / portrait (+0.4026)",
+        "textLanguage=emoji / symbols (+0.3103)",
+        "visualEmotion=flirtatious (+0.2937)"
+      ],
+      "neg": [
+        "maleDetectAmount (-1.5394)",
+        "videoGenre=tech review (-0.7305)",
+        "kidsDetectAmount (-0.6624)",
+        "locationCategory=supermarket / warehouse store (-0.6078)",
+        "videoGenre=tech news / commentary (-0.5964)"
+      ]
+    },
+    "1": {
+      "pos": [
+        "brandLogos=costco (+1.5344)",
+        "femaleDetectAmount (+1.1092)",
+        "locationCategory=supermarket / warehouse store (+0.6581)",
+        "brandLogos=costco wholesale (+0.6137)",
+        "endorsementObject=costco (+0.5528)"
+      ],
+      "neg": [
+        "maleDetectAmount (-1.7009)",
+        "kidsDetectAmount (-0.4335)",
+        "videoGenre=tech review (-0.4148)",
+        "videoGenre=comedy (-0.3512)",
+        "textDensity=Low (-0.3068)"
+      ]
+    },
+    "2": {
+      "pos": [
+        "techDetect=headphones / earbuds (+0.6426)",
+        "maleDetectAmount (+0.6088)",
+        "visualEmotion=humorous (+0.5955)",
+        "shotSize=medium shot (+0.4881)",
+        "videoGenre=comedy (+0.4624)"
+      ],
+      "neg": [
+        "brandLogos=costco (-0.8222)",
+        "videoGenre=family / kids (-0.6252)",
+        "lightingStyle=night artificial light (-0.5722)",
+        "videoGenre=tech review (-0.5264)",
+        "locationCategory=entertainment venue (-0.4845)"
+      ]
+    },
+    "3": {
+      "pos": [
+        "kidsDetectAmount (+0.797)",
+        "videoGenre=family / kids (+0.7252)",
+        "withRealPeople (+0.5808)",
+        "country=japan (+0.564)",
+        "bodyPartVisibility=full body (+0.5375)"
+      ],
+      "neg": [
+        "brandLogos=costco (-0.4999)",
+        "trafficDetect=scooter / motorcycle (-0.4458)",
+        "cameraMovement=selfie handheld (-0.4115)",
+        "bodyPartVisibility=back view (-0.3764)",
+        "videoGenre=selfie / portrait (-0.3572)"
+      ]
+    },
+    "4": {
+      "pos": [
+        "videoGenre=tech review (+1.4076)",
+        "videoGenre=tech news / commentary (+1.2306)",
+        "brandLogos=roots (+0.9208)",
+        "brandLogos=samsung (+0.4833)",
+        "endorsementObject=miko (+0.4239)"
+      ],
+      "neg": [
+        "videoGenre=promotion / advertisement / indoresment (-0.4431)",
+        "visualEmotion=humorous (-0.4426)",
+        "kidsDetectAmount (-0.3425)",
+        "femaleDetectAmount (-0.3336)",
+        "videoGenre=shopping (-0.3195)"
+      ]
+    }
+  },
+  "audio": {
+    "0": {
+      "pos": [
+        "female_vocal_count (+0.4674)",
+        "instrumentsAudible=electronic keyboard / synthesizer (+0.3962)",
+        "endorsementObject=costco wholesale (+0.3774)",
+        "soundEffectsDetails=ding / bell sfx (+0.374)",
+        "musicSourceType=stock/royalty-free (+0.3559)"
+      ],
+      "neg": [
+        "videoDuration (-0.8802)",
+        "videoGenre=tech review (-0.7529)",
+        "videoGenre=comedy (-0.4854)",
+        "country=japan (-0.3842)",
+        "audioEventDensity (-0.346)"
+      ]
+    },
+    "1": {
+      "pos": [
+        "beatStrength (+0.7928)",
+        "videoGenre=meme / trend (+0.3268)",
+        "musicToSpeechLoudRatio (+0.3016)",
+        "audioTransition=hard cut (+0.2945)",
+        "incidentalNoiseDetails=mechanical click / latch (+0.2741)"
+      ],
+      "neg": [
+        "speechDensity (-1.0445)",
+        "vocalLanguage=traditional chinese (-0.7481)",
+        "intonationAndContour=complex (-0.4195)",
+        "country=taiwan (-0.4125)",
+        "bgmGenre=pop (-0.3959)"
+      ]
+    },
+    "2": {
+      "pos": [
+        "videoDuration (+1.1109)",
+        "videoGenre=food review (+0.608)",
+        "vocalRatio (+0.5486)",
+        "endorsementObject=costco (+0.3498)",
+        "endorsementMethod=explicit (+0.2932)"
+      ],
+      "neg": [
+        "videoGenre=promotion / advertisement / indoresment (-0.5469)",
+        "hasVocalTension (-0.3951)",
+        "noisinessAndPercussiveness (-0.2642)",
+        "videoGenre=tech review (-0.2574)",
+        "vocalTone=professional/narrative (-0.2543)"
+      ]
+    },
+    "3": {
+      "pos": [
+        "videoDuration (+1.5364)",
+        "isEndorsement (+0.7754)",
+        "soundEffectsDetails=whoosh / transition sfx (+0.5454)",
+        "videoGenre=comedy (+0.4398)",
+        "soundEffectsDetails=cartoon / comedy sfx (+0.3907)"
+      ],
+      "neg": [
+        "videoGenre=food review (-0.8182)",
+        "crowdNoiseDetails=applause (-0.3876)",
+        "ambientNoiseDetails=outdoor/nature (-0.3693)",
+        "dynamicRange (-0.3573)",
+        "videoGenre=vlog (-0.2927)"
+      ]
+    },
+    "4": {
+      "pos": [
+        "speechRate (+0.609)",
+        "incidentalNoiseDetails=plastic / bag rustle (+0.4965)",
+        "videoGenre=food review (+0.4595)",
+        "incidentalNoiseDetails=food bite / crunch (+0.4402)",
+        "speechMusicOverlap (+0.3315)"
+      ],
+      "neg": [
+        "endorsementObject=costco wholesale (-0.4889)",
+        "total_distinct_voices (-0.4374)",
+        "videoGenre=tech review (-0.3411)",
+        "videoDuration (-0.3364)",
+        "intensityAndLoudness (-0.297)"
+      ]
+    },
+    "5": {
+      "pos": [
+        "intensityAndLoudness (+0.9342)",
+        "sceneCutCount (+0.8489)",
+        "videoGenre=shopping (+0.819)",
+        "videoDuration (+0.6219)",
+        "country=japan (+0.3512)"
+      ],
+      "neg": [
+        "pitchLevel (-0.5596)",
+        "female_vocal_count (-0.4706)",
+        "soundEffectsDetails=other (-0.3645)",
+        "videoGenre=tech review (-0.3601)",
+        "soundEffectsDetails=ding / bell sfx (-0.3455)"
+      ]
+    },
+    "6": {
+      "pos": [
+        "noisinessAndPercussiveness (+0.4787)",
+        "crowdNoiseDetails=laughter (+0.4713)",
+        "vocalLanguage=traditional chinese (+0.3743)",
+        "dominant_speakers_count (+0.3739)",
+        "audioEventDensity (+0.3653)"
+      ],
+      "neg": [
+        "visualEmotion=informative (-0.5025)",
+        "vocalTone=aggressive (-0.4358)",
+        "videoGenre=shopping (-0.3315)",
+        "instrumentsAudible=acoustic guitar (-0.3242)",
+        "videoGenre=dance (-0.3206)"
+      ]
+    },
+    "7": {
+      "pos": [
+        "speechDensity (+0.956)",
+        "vocalLanguage=traditional chinese (+0.386)",
+        "audioQuality=mixed (+0.3113)",
+        "pitchVariability (+0.2957)",
+        "audioTransition=cross-fade (+0.2783)"
+      ],
+      "neg": [
+        "videoDuration (-0.7376)",
+        "intensityAndLoudness (-0.5906)",
+        "editingPace=Fast (-0.4488)",
+        "incidentalNoiseDetails=plastic / bag rustle (-0.383)",
+        "incidentalNoiseDetails=food bite / crunch (-0.3509)"
+      ]
+    },
+    "8": {
+      "pos": [
+        "dominance (+1.0757)",
+        "vocalRatio (+0.7781)",
+        "vocalLanguage=traditional chinese (+0.7493)",
+        "videoGenre=tech review (+0.7001)",
+        "videoGenre=tech news / commentary (+0.5868)"
+      ],
+      "neg": [
+        "pitchLevel (-1.0642)",
+        "female_vocal_count (-0.987)",
+        "endorsementObject=costco (-0.7258)",
+        "videoDuration (-0.7067)",
+        "sceneCutCount (-0.3484)"
+      ]
+    }
+  }
+}

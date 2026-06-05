@@ -168,12 +168,17 @@ def copy_wordcloud(wc_dir, dest_dir):
     Detect keybert / tfidf PNGs by regex, copy to dest_dir as
     keybert_cluster_{n}.png / tfidf_cluster_{n}.png
     """
+    filter_word = ''
+    if 'audio' in dest_dir:
+        filter_word = 'audio'
+    elif 'visual' in dest_dir:
+        filter_word = 'visual'
     os.makedirs(dest_dir, exist_ok=True)
     copied = 0
     for f in glob.glob(os.path.join(wc_dir, "*.png")):
         fname = os.path.basename(f).lower()
         for method in ("keybert", "tfidf"):
-            if method in fname:
+            if method in fname and filter_word in fname:
                 m = re.search(r"cluster[_\-]?(\d+)", fname)
                 if m:
                     dst = os.path.join(dest_dir, f"{method}_cluster_{m.group(1)}.png")

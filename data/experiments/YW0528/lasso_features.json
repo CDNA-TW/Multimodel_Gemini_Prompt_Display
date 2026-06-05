@@ -1,0 +1,262 @@
+{
+  "visual": {
+    "0": {
+      "pos": [
+        "kidsDetectAmount (+1.2761)",
+        "country=japan (+0.6726)",
+        "videoGenre=family (+0.5975)",
+        "brandLogos=hahababy (+0.401)",
+        "techDetect=arcade machine (+0.3553)"
+      ],
+      "neg": [
+        "brandLogos=costco (-0.4186)",
+        "trafficDetect=motorcycle (-0.3832)",
+        "brandLogos=costco wholesale (-0.3765)",
+        "cameraWork=zoom-in (-0.3401)",
+        "videoGenre=event coverage (-0.3158)"
+      ]
+    },
+    "1": {
+      "pos": [
+        "mainCharacterCount (+0.4208)",
+        "videoGenre=beauty (+0.4016)",
+        "videoGenre=tutorial (+0.3914)",
+        "videoGenre=promotion (+0.3008)",
+        "femaleDetectAmount (+0.2919)"
+      ],
+      "neg": [
+        "crowdLevel=Single (-0.7627)",
+        "brandLogos=costco (-0.7113)",
+        "kidsDetectAmount (-0.6669)",
+        "brandLogos=costco wholesale (-0.6053)",
+        "techDetect=microphone (-0.5831)"
+      ]
+    },
+    "2": {
+      "pos": [
+        "brandLogos=costco (+0.9846)",
+        "brandLogos=costco wholesale (+0.8198)",
+        "mainCharacterCount (+0.4578)",
+        "isSubtitled (+0.4526)",
+        "brandLogos=kangol (+0.4439)"
+      ],
+      "neg": [
+        "maleDetectAmount (-0.8691)",
+        "locationCategory=studio (-0.5521)",
+        "foodsDetect=cake (-0.4639)",
+        "crowdLevel=Single (-0.4172)",
+        "foodsDetect=eggs (-0.3629)"
+      ]
+    },
+    "3": {
+      "pos": [
+        "videoGenre=food review (+0.6679)",
+        "videoGenre=mukbang (+0.635)",
+        "sceneCutCount (+0.6307)",
+        "country=south korea (+0.5284)",
+        "videoGenre=food (+0.5002)"
+      ],
+      "neg": [
+        "brandLogos=costco (-1.0022)",
+        "brandLogos=costco wholesale (-0.8297)",
+        "kidsDetectAmount (-0.5969)",
+        "brandLogos=apple (-0.4447)",
+        "crowdLevel=Small Group (-0.4268)"
+      ]
+    },
+    "4": {
+      "pos": [
+        "brandLogos=costco (+0.857)",
+        "brandLogos=costco wholesale (+0.7572)",
+        "foodsDetect=matcha (+0.4048)",
+        "cameraWork=panning (+0.3876)",
+        "videoGenre=food review (+0.3627)"
+      ],
+      "neg": [
+        "country=japan (-0.3592)",
+        "brandLogos=kangol (-0.3535)",
+        "weather=Unknown (-0.3106)",
+        "foodsDetect=beef (-0.2987)",
+        "locationCategory=indoor kitchen (-0.2703)"
+      ]
+    },
+    "5": {
+      "pos": [
+        "brandLogos=roots (+1.3419)",
+        "videoGenre=tech review (+1.2323)",
+        "maleDetectAmount (+0.6594)",
+        "videoGenre=tech news (+0.6054)",
+        "brandLogos=facebook (+0.5872)"
+      ],
+      "neg": [
+        "femaleDetectAmount (-1.0322)",
+        "colorTone=Cinematic (-0.4218)",
+        "videoGenre=comedy (-0.4118)",
+        "kidsDetectAmount (-0.4058)",
+        "locationCategory=indoor mall (-0.3483)"
+      ]
+    },
+    "6": {
+      "pos": [
+        "videoGenre=shopping guide (+0.4261)",
+        "brandLogos=kleenex (+0.3887)",
+        "brandLogos=puma (+0.2528)",
+        "locationCategory=living room (+0.2353)",
+        "sceneCutCount (+0.2335)"
+      ],
+      "neg": [
+        "isNarrativeShift (-0.4325)",
+        "bodyPartVisibility=full body (-0.236)",
+        "cameraWork=static (-0.2044)",
+        "bodyPartVisibility=face (-0.1672)",
+        "visualEmotion=Energetic and Enthusiastic (-0.1127)"
+      ]
+    },
+    "7": {
+      "pos": [
+        "maleDetectAmount (+1.2035)",
+        "videoGenre=animation (+0.5105)",
+        "videoGenre=comedy (+0.4662)",
+        "techDetect=microphone (+0.4447)",
+        "videoDuration (+0.3792)"
+      ],
+      "neg": [
+        "brandLogos=costco (-0.7891)",
+        "brandLogos=costco wholesale (-0.6828)",
+        "videoGenre=tech review (-0.6446)",
+        "femaleDetectAmount (-0.6444)",
+        "brandLogos=louis vuitton (-0.6142)"
+      ]
+    },
+    "8": {
+      "pos": [
+        "videoGenre=storytelling (+0.3943)",
+        "editingPace=Slow (+0.3165)",
+        "bodyPartVisibility=upper body (+0.2525)",
+        "crowdLevel=Single (+0.2314)",
+        "videoGenre=skincare (+0.2283)"
+      ],
+      "neg": [
+        "videoDuration (-1.6436)",
+        "kidsDetectAmount (-0.5584)",
+        "locationCategory=studio (-0.3515)",
+        "isEndorsement (-0.3464)",
+        "videoGenre=food (-0.3299)"
+      ]
+    }
+  },
+  "audio": {
+    "0": {
+      "pos": [
+        "videoGenre=food review (+0.6202)",
+        "isNarrativeShift (+0.4546)",
+        "female_vocal_count (+0.4511)",
+        "speechDensity=Continuous talking (+0.4098)",
+        "offscreen (+0.3913)"
+      ],
+      "neg": [
+        "male_vocal_count (-0.8494)",
+        "rhythmSync=Low (-0.4156)",
+        "videoGenre=tech review (-0.4133)",
+        "vocalLanguage=korean (-0.3901)",
+        "videoGenre=mukbang (-0.3379)"
+      ]
+    },
+    "1": {
+      "pos": [
+        "isEndorsement (+0.7159)",
+        "vocalRatio=High (+0.5985)",
+        "bgmBPM (+0.5793)",
+        "videoGenre=shopping (+0.4464)",
+        "videoGenre=vlog (+0.4364)"
+      ],
+      "neg": [
+        "videoGenre=tech review (-0.7176)",
+        "videoDuration (-0.4465)",
+        "videoGenre=travel (-0.4365)",
+        "ambientNoise=wind (-0.3763)",
+        "onscreen (-0.3571)"
+      ]
+    },
+    "2": {
+      "pos": [
+        "videoGenre=tech review (+0.8723)",
+        "male_vocal_count (+0.7579)",
+        "videoGenre=tech news (+0.5136)",
+        "videoGenre=tech commentary (+0.4911)",
+        "vocalPitch=Normal (+0.4781)"
+      ],
+      "neg": [
+        "female_vocal_count (-1.7653)",
+        "offscreen (-0.4956)",
+        "vocalLanguage=english (-0.3548)",
+        "sceneCutCount (-0.306)",
+        "bgmGenre=Other (-0.2906)"
+      ]
+    },
+    "3": {
+      "pos": [
+        "sceneCutCount (+0.6113)",
+        "videoGenre=mukbang (+0.5667)",
+        "videoDuration (+0.443)",
+        "bgmGenre=Upbeat Pop (+0.4273)",
+        "speechDensity=Continuous talking (+0.3788)"
+      ],
+      "neg": [
+        "male_vocal_count (-0.7394)",
+        "soundEffects=sparkle sound (-0.4181)",
+        "videoGenre=shopping (-0.2658)",
+        "onscreen (-0.2576)",
+        "country=taiwan (-0.1977)"
+      ]
+    },
+    "4": {
+      "pos": [
+        "videoDuration (+1.1534)",
+        "male_vocal_count (+0.6932)",
+        "onscreen (+0.5326)",
+        "vocalLoudness=High (+0.3613)",
+        "vocalLanguage=japanese (+0.3401)"
+      ],
+      "neg": [
+        "soundEffects=crunching (-0.4063)",
+        "vocalLoudness=Normal (-0.3842)",
+        "rhythmSync=High(Beat-sync) (-0.3653)",
+        "visualEmotion=Cheerful and Humorous (-0.3153)",
+        "videoGenre=food review (-0.3152)"
+      ]
+    },
+    "5": {
+      "pos": [
+        "vocalSpeed=Normal (+0.6471)",
+        "videoGenre=comedy (+0.633)",
+        "vocalLanguage=mandarin (+0.4193)",
+        "vocalLoudness=Normal (+0.3734)",
+        "vocalLanguage=chinese (+0.3404)"
+      ],
+      "neg": [
+        "male_vocal_count (-0.5766)",
+        "videoDuration (-0.4154)",
+        "videoGenre=tech review (-0.4115)",
+        "videoGenre=food review (-0.396)",
+        "bgmBPM (-0.3477)"
+      ]
+    },
+    "6": {
+      "pos": [
+        "videoGenre=travel (+0.5899)",
+        "vocalLanguage=english (+0.4753)",
+        "rhythmSync=High(Beat-sync) (+0.3474)",
+        "videoGenre=music video (+0.3104)",
+        "vocalPitch=Deep (+0.3086)"
+      ],
+      "neg": [
+        "videoDuration (-0.9942)",
+        "vocalRatio=High (-0.8955)",
+        "speechDensity=Continuous talking (-0.8031)",
+        "onscreen (-0.38)",
+        "speechDensity=Continuous (-0.3279)"
+      ]
+    }
+  }
+}

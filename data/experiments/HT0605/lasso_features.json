@@ -1,0 +1,267 @@
+{
+  "audio": {
+    "0": {
+      "pos": [
+        "videoDuration (+4.434)",
+        "sceneCutCount (+0.420)",
+        "vocalTone=calm (+0.261)",
+        "instrumentsAudible=electric guitar (+0.259)",
+        "bgmGenre=ballad/sentimental (+0.214)"
+      ],
+      "neg": [
+        "visualEmotion=professional (-0.907)",
+        "videoGenre=tech review (-0.463)",
+        "videoGenre=tech news / commentary (-0.360)",
+        "city=oslo (-0.358)",
+        "musicPauseDensity (-0.305)"
+      ]
+    },
+    "1": {
+      "pos": [
+        "videoGenre=animation (+0.665)",
+        "isEndorsement (+0.602)",
+        "audioCutFrequency (+0.462)",
+        "vocalLanguage=traditional chinese (+0.446)",
+        "speechMusicOverlap (+0.408)"
+      ],
+      "neg": [
+        "videoDuration (-1.107)",
+        "videoGenre=tech review (-1.002)",
+        "endorsementObject=costco (-0.499)",
+        "videoGenre=tech news / commentary (-0.438)",
+        "speakingRisingRatio (-0.369)"
+      ]
+    },
+    "2": {
+      "pos": [
+        "videoGenre=tech news / commentary (+1.087)",
+        "videoGenre=tech review (+0.986)",
+        "visualEmotion=informative (+0.534)",
+        "endorsementObject=miko (+0.529)",
+        "vocalTone=professional/narrative (+0.437)"
+      ],
+      "neg": [
+        "female_vocal_count (-0.980)",
+        "videoDuration (-0.809)",
+        "endorsementObject=costco (-0.525)",
+        "videoGenre=food review (-0.508)",
+        "vocalLanguage=simplified chinese (-0.479)"
+      ]
+    },
+    "3": {
+      "pos": [
+        "videoGenre=food review (+0.699)",
+        "pitchLevel (+0.630)",
+        "videoGenre=product showcase (+0.463)",
+        "vocalTone=friendly (+0.419)",
+        "videoGenre=shopping (+0.362)"
+      ],
+      "neg": [
+        "videoGenre=tech review (-0.756)",
+        "videoDuration (-0.750)",
+        "videoGenre=comedy (-0.459)",
+        "sceneCutCount (-0.440)",
+        "videoGenre=personal talk (-0.430)"
+      ]
+    },
+    "4": {
+      "pos": [
+        "musicToSpeechLoudRatio (+0.469)",
+        "beatStrength (+0.431)",
+        "incidentalNoiseDetails=plastic / bag rustle (+0.285)"
+      ],
+      "neg": [
+        "vocalLanguage=traditional chinese (-1.278)",
+        "speechDensity (-0.952)",
+        "videoDuration (-0.619)",
+        "endorsementMethod=implicit integrated (-0.405)",
+        "videoGenre=shopping (-0.324)"
+      ]
+    },
+    "5": {
+      "pos": [
+        "valence (+0.884)",
+        "crowdNoiseDetails=laughter (+0.672)",
+        "dominant_speakers_count (+0.465)",
+        "vocalLanguage=traditional chinese (+0.452)",
+        "videoGenre=personal talk (+0.377)"
+      ],
+      "neg": [
+        "videoDuration (-1.143)",
+        "pitchLevel (-0.667)",
+        "vocalLanguage=korean (-0.500)",
+        "videoGenre=selfie / portrait (-0.479)",
+        "musicSourceType=meme/comedy (-0.368)"
+      ]
+    },
+    "6": {
+      "pos": [
+        "vocalLanguage=traditional chinese (+0.829)",
+        "incidentalNoiseDetails=liquid pour / splash (+0.421)",
+        "audioQuality=studio (+0.342)",
+        "speakingFallingRatio (+0.336)",
+        "videoGenre=music / performance / mv (+0.298)"
+      ],
+      "neg": [
+        "videoDuration (-1.475)",
+        "male_vocal_count (-0.640)",
+        "videoGenre=product showcase (-0.595)",
+        "total_distinct_voices (-0.546)",
+        "endorsementObject=costco (-0.527)"
+      ]
+    }
+  },
+  "visual": {
+    "0": {
+      "pos": [
+        "femaleDetectAmount (+1.623)",
+        "videoGenre=beauty / fashion (+0.465)",
+        "videoGenre=product showcase (+0.395)",
+        "animalDetect=dog (+0.358)",
+        "textLanguage=traditional chinese (+0.320)"
+      ],
+      "neg": [
+        "maleDetectAmount (-1.325)",
+        "brandLogos=costco (-0.615)",
+        "locationCategory=supermarket / warehouse store (-0.490)",
+        "crowdLevel=single (-0.455)",
+        "brandLogos=costco wholesale (-0.454)"
+      ]
+    },
+    "1": {
+      "pos": [
+        "videoGenre=tech review (+1.345)",
+        "videoGenre=tech news / commentary (+1.306)",
+        "brandLogos=roots (+1.006)",
+        "textLanguage=english (+0.635)",
+        "endorsementObject=miko (+0.374)"
+      ],
+      "neg": [
+        "bodyPartVisibility=partial body (-0.306)",
+        "videoGenre=promotion / advertisement / indoresment (-0.277)"
+      ]
+    },
+    "2": {
+      "pos": [
+        "brandLogos=costco (+2.264)",
+        "brandLogos=costco wholesale (+1.359)",
+        "videoGenre=shopping (+0.840)",
+        "locationCategory=supermarket / warehouse store (+0.833)",
+        "endorsementObject=costco (+0.587)"
+      ],
+      "neg": [
+        "editingTechniques=slow motion (-0.584)",
+        "bodyPartVisibility=full body (-0.203)",
+        "cameraAngles=pov / first-person view (-0.162)"
+      ]
+    },
+    "3": {
+      "pos": [
+        "videoGenre=animation (+0.810)",
+        "lightingStyle=flat animation lighting (+0.577)",
+        "locationCategory=animation / graphic background (+0.562)",
+        "locationCategory=exhibition / museum / gallery (+0.375)",
+        "videoGenre=event / festival (+0.325)"
+      ],
+      "neg": [
+        "editingTechniques=loop / replay (-0.449)",
+        "brandLogos=instagram (-0.218)"
+      ]
+    },
+    "4": {
+      "pos": [
+        "editingPace=Fast (+0.531)",
+        "locationTopography=plain / flat urban (+0.375)",
+        "textLanguage=traditional chinese (+0.361)",
+        "cameraMovement=static (+0.331)"
+      ],
+      "neg": [
+        "videoDuration (-0.863)",
+        "videoGenre=tech review (-0.718)",
+        "brandLogos=costco (-0.563)",
+        "locationCategory=supermarket / warehouse store (-0.514)",
+        "endorsementObject=hahababy (-0.431)"
+      ]
+    },
+    "5": {
+      "pos": [
+        "textDensity=Low (+0.370)",
+        "isEndorsement (+0.342)",
+        "videoGenre=event / festival (+0.306)",
+        "textLanguage=korean (+0.304)",
+        "editingTechniques=dissolve (+0.267)"
+      ],
+      "neg": [
+        "textLanguage=traditional chinese (-0.818)",
+        "textDensity=High (-0.533)",
+        "country=taiwan (-0.436)",
+        "kidsDetectAmount (-0.337)",
+        "videoGenre=selfie / portrait (-0.332)"
+      ]
+    },
+    "6": {
+      "pos": [
+        "videoDuration (+1.241)",
+        "maleDetectAmount (+0.778)",
+        "videoGenre=comedy (+0.762)",
+        "visualEmotion=humorous (+0.672)",
+        "techDetect=headphones / earbuds (+0.541)"
+      ],
+      "neg": [
+        "brandLogos=costco (-0.874)",
+        "femaleDetectAmount (-0.633)",
+        "videoGenre=tech review (-0.596)",
+        "country=unknown (-0.539)",
+        "videoGenre=family / kids (-0.420)"
+      ]
+    },
+    "7": {
+      "pos": [
+        "kidsDetectAmount (+1.428)",
+        "country=japan (+0.639)",
+        "bodyPartVisibility=upper body (+0.362)",
+        "textLanguage=traditional chinese (+0.307)",
+        "lightingStyle=warm indoor lighting (+0.265)"
+      ],
+      "neg": [
+        "femaleDetectAmount (-1.133)",
+        "textDensity=High (-0.667)",
+        "locationCategory=stage / performance venue (-0.503)",
+        "endorsementMethod=explicit (-0.297)",
+        "textLanguage=english (-0.294)"
+      ]
+    },
+    "8": {
+      "pos": [
+        "crowdLevel=single (+0.495)",
+        "bodyPartVisibility=face close-up (+0.476)",
+        "videoGenre=selfie / portrait (+0.383)",
+        "videoGenre=storytelling (+0.350)",
+        "videoGenre=comedy (+0.342)"
+      ],
+      "neg": [
+        "videoDuration (-0.971)",
+        "textLanguage=korean (-0.441)",
+        "editingPace=Fast (-0.360)",
+        "locationCategory=studio (-0.341)",
+        "textLanguage=emoji / symbols (-0.287)"
+      ]
+    },
+    "9": {
+      "pos": [
+        "textLanguage=emoji / symbols (+1.315)",
+        "textLanguage=korean (+0.508)",
+        "bodyPartVisibility=hands only (+0.508)",
+        "locationCategory=indoor home (+0.449)",
+        "videoGenre=food review (+0.447)"
+      ],
+      "neg": [
+        "brandLogos=costco (-0.645)",
+        "mainCharacterCount (-0.485)",
+        "editingTechniques=graphic transition (-0.378)",
+        "cameraMovement=panning (-0.377)",
+        "kidsDetectAmount (-0.350)"
+      ]
+    }
+  }
+}

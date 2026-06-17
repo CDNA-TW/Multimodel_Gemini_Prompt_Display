@@ -1,0 +1,188 @@
+{
+  "audio": {
+    "0": {
+      "pos": [
+        "vocalRatio (+0.627)",
+        "speechRate (+0.396)",
+        "dominance (+0.340)",
+        "dominant_speakers_count (+0.300)",
+        "speechPauseDensity (+0.283)"
+      ],
+      "neg": [
+        "valence (-0.497)",
+        "kids_vocal_count (-0.399)",
+        "musicToSpeechLoudRatio (-0.320)",
+        "SignalToNoiseRatio (-0.252)",
+        "incidentalNoiseDetails=clothing / fabric rustle (-0.224)"
+      ]
+    },
+    "1": {
+      "pos": [
+        "vocalTone=comedic/exaggerated (+0.614)",
+        "soundEffectsDetails=cartoon / comedy sfx (+0.477)",
+        "soundEffectsDetails=impact / hit sfx (+0.267)",
+        "audioQuality=field recording (+0.214)",
+        "vocalTone=casual (+0.212)"
+      ],
+      "neg": [
+        "incidentalNoiseDetails=liquid pour / splash (-0.401)",
+        "hasBreathiness (-0.245)",
+        "incidentalNoiseDetails=mechanical click / latch (-0.237)",
+        "kids_vocal_count (-0.224)",
+        "ambientNoiseDetails=indoor/roomtone (-0.201)"
+      ]
+    },
+    "2": {
+      "pos": [
+        "acousticDynamism (+0.374)",
+        "instrumentsAudible=drum kit / drum set (+0.332)",
+        "instrumentsAudible=electronic drum / e-drum (+0.308)",
+        "audioTransition=hard cut (+0.254)",
+        "intensityAndLoudness (+0.240)"
+      ],
+      "neg": [
+        "vocalTone=friendly (-0.430)",
+        "male_vocal_count (-0.370)",
+        "speechPauseDensity (-0.338)",
+        "intonationAndContour=complex (-0.327)",
+        "soundEffectsDetails=applause / laugh track sfx (-0.276)"
+      ]
+    },
+    "3": {
+      "pos": [
+        "pitchLevel (+0.409)",
+        "kids_vocal_count (+0.344)",
+        "soundEffectsIntensity (+0.325)",
+        "speakingRisingRatio (+0.195)"
+      ],
+      "neg": [
+        "intensityAndLoudness (-0.396)",
+        "vocalRatio (-0.367)",
+        "speechRate (-0.360)",
+        "soundEffectsCoverage (-0.326)",
+        "musicMode=minor / aeolian (-0.323)"
+      ]
+    },
+    "4": {
+      "pos": [
+        "valence (+0.336)",
+        "soundEffectsCoverage (+0.245)",
+        "SignalToNoiseRatio (+0.231)",
+        "bgmGenre=electronic/edm (+0.196)",
+        "ambientNoiseDetails=indoor/roomtone (+0.184)"
+      ],
+      "neg": [
+        "dominant_speakers_count (-0.252)",
+        "vocalTone=comedic/exaggerated (-0.200)",
+        "hasStrategicSilence (-0.176)",
+        "vocalTone=casual (-0.160)",
+        "vocalRatio (-0.155)"
+      ]
+    }
+  },
+  "visual": {
+    "0": {
+      "pos": [
+        "bodyPartVisibility=full body (+0.525)",
+        "techDetect=action camera (+0.335)",
+        "visualRhythm=fast pace (+0.314)"
+      ],
+      "neg": [
+        "locationCategory=supermarket / warehouse store (-0.875)",
+        "visualEmotion=informative (-0.808)",
+        "videoGenre=food review (-0.580)",
+        "foodsDetect=rice / grains (-0.506)",
+        "videoGenre=tech review (-0.485)"
+      ]
+    },
+    "1": {
+      "pos": [
+        "colorTone=cinematic (+0.472)",
+        "trafficDetect=train / metro / hsr (+0.411)",
+        "locationCategory=shopping mall / department store (+0.346)",
+        "locationCategory=office / workplace (+0.339)",
+        "trafficDetect=bicycle (+0.338)"
+      ],
+      "neg": [
+        "videoGenre=food review (-0.493)",
+        "videoGenre=product showcase (-0.403)",
+        "sceneCutCount (-0.388)",
+        "videoGenre=animation (-0.364)",
+        "foodsDetect=soup / hotpot / curry (-0.350)"
+      ]
+    },
+    "2": {
+      "pos": [
+        "editingTechniques=freeze frame (+0.349)",
+        "locationCategory=park / garden (+0.297)",
+        "city=tainan (+0.268)",
+        "season=winter (+0.247)",
+        "trafficDetect=truck (+0.235)"
+      ],
+      "neg": [
+        "isNarrativeShift (-0.436)",
+        "videoDuration (-0.164)"
+      ]
+    },
+    "3": {
+      "pos": [
+        "videoGenre=food review (+1.834)",
+        "foodsDetect=meat / beef / pork / chicken (+0.732)",
+        "foodsDetect=dessert / cake / cookies (+0.463)",
+        "brandLogos=ariel (+0.392)",
+        "bodyPartVisibility=hands only (+0.351)"
+      ],
+      "neg": [
+        "techDetect=tv / display screen (-0.552)",
+        "videoGenre=beauty / fashion (-0.547)",
+        "colorTone=cinematic (-0.524)",
+        "shotSize=wide shot (-0.497)",
+        "videoGenre=comedy (-0.482)"
+      ]
+    },
+    "4": {
+      "pos": [
+        "visualEmotion=humorous (+0.899)",
+        "videoGenre=comedy (+0.688)",
+        "weather=indoor / not visible (+0.520)",
+        "city=fukuoka (+0.380)"
+      ],
+      "neg": [
+        "videoGenre=food review (-0.696)",
+        "bodyPartVisibility=full body (-0.545)",
+        "videoGenre=beauty / fashion (-0.484)",
+        "isMultipleBackground (-0.474)",
+        "locationCategory=cafe / tea shop (-0.430)"
+      ]
+    },
+    "5": {
+      "pos": [
+        "shotSize=wide shot (+0.473)",
+        "lightingStyle=bright indoor lighting (+0.444)",
+        "brandLogos=ikea (+0.273)",
+        "visualRhythm=natural pace (+0.222)",
+        "city=sydney (+0.220)"
+      ],
+      "neg": [
+        "locationTopography=plain / flat urban (-0.319)",
+        "shotSize=long shot (-0.205)"
+      ]
+    },
+    "6": {
+      "pos": [
+        "visualEmotion=informative (+0.691)",
+        "videoGenre=tech review (+0.545)",
+        "videoGenre=product showcase (+0.528)",
+        "isEndorsement (+0.448)",
+        "videoGenre=beauty / fashion (+0.425)"
+      ],
+      "neg": [
+        "videoGenre=food review (-1.042)",
+        "videoGenre=personal talk (-0.502)",
+        "lightingStyle=neon / colored light (-0.465)",
+        "lightingStyle=natural daylight (-0.402)",
+        "foodsDetect=meat / beef / pork / chicken (-0.369)"
+      ]
+    }
+  }
+}

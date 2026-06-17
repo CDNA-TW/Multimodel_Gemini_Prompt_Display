@@ -8,7 +8,8 @@ Usage:
         --label "HT 2026-06-01" \
         --visual_csv path/to/cluster_result_visual.csv \
         --audio_csv  path/to/cluster_result_audio.csv \
-        --lasso      path/to/lasso_optuna_result.xlsx \
+        --lasso_audio  path/to/lasso_v20_audio-only_result.xlsx \
+        --lasso_visual path/to/lasso_v20_visual-only_result.xlsx \
         --group_name_visual path/to/group_name_visual.xlsx \
         --wordcloud_dir     path/to/wordcloud/ \
         [--json_desc ./data/json_description]   # default
@@ -74,22 +75,59 @@ def aggregate_section(videos_data, section_path):
     result = {}
     for key in all_keys:
         vals = [s[key] for s in samples if key in s]
-        if not vals:
+        # skip nested dicts — they are handled as their own sub-section
+        non_dict = [v for v in vals if not isinstance(v, dict)]
+        if not non_dict:
             continue
-        result[key] = agg_numeric(vals) if is_scale_int(vals) else agg_categorical(vals)
+        result[key] = agg_numeric(non_dict) if is_scale_int(non_dict) else agg_categorical(non_dict)
     return {k: v for k, v in result.items() if v is not None}
 
 
-SECTIONS = {
-    "basic_metadata":          "low_inference_observations.basic_metadata",
-    "temporal_pacing":         "low_inference_observations.temporal_pacing_summary",
-    "visual_human_presence":   "low_inference_observations.visual_human_presence",
-    "visual_scene_and_style":  "low_inference_observations.visual_scene_and_style",
-    "visual_objects_and_brands": "low_inference_observations.visual_objects_and_brands",
-    "audio_production_style":  "low_inference_observations.audio_production_style",
-    "audio_vocal":             "low_inference_observations.audio_vocal_characterization.vocal_qualities",
-    "audio_music":             "low_inference_observations.audio_music_and_environment",
-}
+def discover_sections(media_map):
+    """Recursively walk video JSONs and collect every dict-node path as a section.
+
+    Works with any JSON schema: auto-discovers all top-level dict keys so it
+    handles both v07 (low_inference_observations) and v20 (low_inference /
+    high_inference) without any hardcoded paths.
+    Section names strip the top-level container key to stay concise.
+    """
+    def get_node(d, path_parts):
+        for p in path_parts:
+            d = d.get(p) if isinstance(d, dict) else None
+        return d
+
+    def walk(path_parts):
+        sections = {}
+        nodes = [get_node(v, path_parts) for v in media_map.values()]
+        nodes = [n for n in nodes if isinstance(n, dict)]
+        if not nodes:
+            return sections
+
+        has_scalar = any(
+            not isinstance(n.get(k), dict)
+            for n in nodes for k in n
+            if n.get(k) is not None
+        )
+        if has_scalar:
+            full_path = ".".join(path_parts)
+            # Strip the outermost container key to keep names concise
+            rel_parts = path_parts[1:]
+            section_name = "_".join(rel_parts) if rel_parts else path_parts[0]
+            sections[section_name] = full_path
+
+        dict_keys = sorted({k for n in nodes for k, v in n.items() if isinstance(v, dict)})
+        for subkey in dict_keys:
+            sections.update(walk(path_parts + [subkey]))
+
+        return sections
+
+    # Auto-detect all top-level dict-valued keys across videos
+    sample = next(iter(media_map.values()), {})
+    top_keys = sorted(k for k, v in sample.items() if isinstance(v, dict))
+    all_sections = {}
+    for key in top_keys:
+        all_sections.update(walk([key]))
+    return all_sections
 
 
 # ── Core converters ───────────────────────────────────────────────────────────
@@ -106,8 +144,34 @@ def build_media_map(json_desc_dir):
     return media_map
 
 
-def generate_cluster_compare(csv_path, label_col, media_map):
+def normalize_cluster_csv(csv_path, type_name):
+    """Load CSV and normalize column names for Python + JS compatibility.
+
+    Handles two formats:
+      old — file, {type}_kmeans_lables, id
+      new — file_id, label_id, label, [text]
+    Returns (normalized_df, label_col).
+    """
     df = pd.read_csv(csv_path)
+    label_col = f"{type_name}_kmeans_lables"
+
+    if "file" not in df.columns and "file_id" in df.columns:
+        df = df.rename(columns={"file_id": "file"})
+
+    if label_col not in df.columns:
+        if "label_id" in df.columns:
+            df = df.rename(columns={"label_id": label_col})
+        elif "label" in df.columns:
+            df = df.rename(columns={"label": label_col})
+
+    # id column = ig_id (first segment) used by cluster.js for creator lookup
+    if "id" not in df.columns and "file" in df.columns:
+        df["id"] = df["file"].apply(lambda x: str(x).split("-")[0])
+
+    return df, label_col
+
+
+def generate_cluster_compare(df, label_col, media_map, sections):
     df["_lid"] = df["file"].apply(last_seg)
     output = {}
     for label in sorted(df[label_col].unique()):
@@ -116,7 +180,7 @@ def generate_cluster_compare(csv_path, label_col, media_map):
         n_total, n_matched = len(group_df), len(videos)
         print(f"    cluster {label}: {n_total} videos, {n_matched} matched")
         stats = {k: v for k, v in
-                 ((k, aggregate_section(videos, p)) for k, p in SECTIONS.items()) if v}
+                 ((k, aggregate_section(videos, p)) for k, p in sections.items()) if v}
         output[f"cluster_{label}"] = {
             "metadata": {"cluster_label": str(label),
                          "video_count": n_total, "matched_count": n_matched},
@@ -216,7 +280,8 @@ def main():
     parser.add_argument("--label",  default=None,  help='Display label, e.g. "HT 2026-06-01"')
     parser.add_argument("--visual_csv",        default=None)
     parser.add_argument("--audio_csv",         default=None)
-    parser.add_argument("--lasso",             default=None, help="lasso_optuna_result.xlsx")
+    parser.add_argument("--lasso_audio",        default=None, help="lasso result xlsx for audio")
+    parser.add_argument("--lasso_visual",       default=None, help="lasso result xlsx for visual")
     parser.add_argument("--group_name_visual", default=None)
     parser.add_argument("--group_name_audio",  default=None)
     parser.add_argument("--wordcloud_dir",     default=None)
@@ -233,11 +298,15 @@ def main():
     print(f"Loading json_description from {args.json_desc} ...")
     media_map = build_media_map(args.json_desc)
     print(f"  {len(media_map)} videos loaded")
+    sections = discover_sections(media_map)
+    print(f"  {len(sections)} sections discovered: {list(sections.keys())}")
 
     # Convert lasso xlsx → shared lasso_features.json
-    if args.lasso:
-        print(f"\nConverting lasso xlsx: {args.lasso}")
-        lasso_data = convert_lasso_xlsx(args.lasso)
+    lasso_data = {}
+    for lasso_path in filter(None, [args.lasso_audio, args.lasso_visual]):
+        print(f"\nConverting lasso xlsx: {lasso_path}")
+        lasso_data.update(convert_lasso_xlsx(lasso_path))
+    if lasso_data:
         out = os.path.join(exp_dir, "lasso_features.json")
         with open(out, "w", encoding="utf-8") as fp:
             json.dump(lasso_data, fp, ensure_ascii=False, indent=2)
@@ -246,24 +315,25 @@ def main():
     # Process each type
     type_cfgs = []
     if args.visual_csv:
-        type_cfgs.append(("visual", args.visual_csv, "visual_kmeans_lables", args.group_name_visual))
+        type_cfgs.append(("visual", args.visual_csv, args.group_name_visual))
     if args.audio_csv:
-        type_cfgs.append(("audio",  args.audio_csv,  "audio_kmeans_lables",  args.group_name_audio))
+        type_cfgs.append(("audio",  args.audio_csv,  args.group_name_audio))
 
     available_types = []
-    for type_name, csv_path, label_col, group_name_path in type_cfgs:
+    for type_name, csv_path, group_name_path in type_cfgs:
         print(f"\nProcessing {type_name} ...")
         type_dir = os.path.join(exp_dir, type_name)
         os.makedirs(type_dir, exist_ok=True)
 
-        # Copy cluster CSV
+        # Normalize and save cluster CSV
+        df_csv, label_col = normalize_cluster_csv(csv_path, type_name)
         dst = os.path.join(type_dir, "cluster_result.csv")
-        shutil.copy2(csv_path, dst)
-        print(f"  Copied cluster CSV → {dst}")
+        df_csv.to_csv(dst, index=False)
+        print(f"  Saved cluster CSV → {dst} (label_col={label_col})")
 
         # Generate cluster_compare.json
         print(f"  Generating cluster_compare.json ...")
-        compare = generate_cluster_compare(csv_path, label_col, media_map)
+        compare = generate_cluster_compare(df_csv, label_col, media_map, sections)
         out = os.path.join(type_dir, "cluster_compare.json")
         with open(out, "w", encoding="utf-8") as fp:
             json.dump(compare, fp, ensure_ascii=False, indent=2)

@@ -1,0 +1,266 @@
+{
+  "audio": {
+    "0": {
+      "pos": [
+        "speechDensity (+0.758)",
+        "speechRate (+0.521)",
+        "audioEventDensity (+0.467)",
+        "audioCutFrequency (+0.359)",
+        "soundEffectsDetails=whoosh / transition sfx (+0.327)"
+      ],
+      "neg": [
+        "speechPauseDensity (-0.590)",
+        "harmonicsToNoiseRatio (-0.262)",
+        "noisinessAndPercussiveness (-0.259)",
+        "audioTransition=hard cut (-0.214)",
+        "instrumentsAudible=electronic drum / e-drum (-0.196)"
+      ]
+    },
+    "1": {
+      "pos": [
+        "articulationClarity (+0.454)",
+        "isAudioEditingFragmented (+0.425)",
+        "vocalLanguage=traditional chinese (+0.419)",
+        "tempoBPM (+0.313)",
+        "pitchLevel (+0.304)"
+      ],
+      "neg": [
+        "intensityAndLoudness (-0.533)",
+        "audioEventDensity (-0.502)",
+        "audioQuality=field recording (-0.334)",
+        "hasStrain (-0.316)"
+      ]
+    },
+    "2": {
+      "pos": [
+        "dominance (+0.939)",
+        "speechPauseDensity (+0.796)",
+        "articulationClarity (+0.709)",
+        "vocalTone=professional/narrative (+0.439)",
+        "male_vocal_count (+0.367)"
+      ],
+      "neg": [
+        "female_vocal_count (-1.711)",
+        "pitchLevel (-0.662)",
+        "vocalTone=comedic/exaggerated (-0.567)",
+        "beatStrength (-0.418)",
+        "incidentalNoiseDetails=liquid pour / splash (-0.410)"
+      ]
+    },
+    "3": {
+      "pos": [
+        "pitchLevel (+0.670)",
+        "vocalRatio (+0.666)",
+        "female_vocal_count (+0.504)",
+        "vocalTone=friendly (+0.390)",
+        "speechMusicOverlap (+0.360)"
+      ],
+      "neg": [
+        "crowdNoiseDetails=laughter (-0.783)",
+        "vocalTone=professional/narrative (-0.555)",
+        "male_vocal_count (-0.539)",
+        "soundEffectsDetails=applause / laugh track sfx (-0.485)",
+        "ambientNoiseDetails=studiosilence (-0.378)"
+      ]
+    },
+    "4": {
+      "pos": [
+        "musicToSpeechLoudRatio (+0.721)",
+        "audioTransition=hard cut (+0.282)",
+        "beatStrength (+0.276)"
+      ],
+      "neg": [
+        "vocalLanguage=traditional chinese (-1.313)",
+        "speechDensity (-1.069)",
+        "bgmGenre=pop (-0.413)",
+        "vocalLanguage=simplified chinese (-0.407)",
+        "vocalTone=professional/narrative (-0.396)"
+      ]
+    },
+    "5": {
+      "pos": [
+        "valence (+0.887)",
+        "crowdNoiseDetails=laughter (+0.573)",
+        "vocalTone=comedic/exaggerated (+0.385)",
+        "speechPauseDensity (+0.376)",
+        "dominant_speakers_count (+0.332)"
+      ],
+      "neg": [
+        "soundEffectsIntensity (-0.398)",
+        "vocalLanguage=korean (-0.375)",
+        "pitchLevel (-0.360)",
+        "soundEffectsDetails=whoosh / transition sfx (-0.345)",
+        "musicSourceType=meme/comedy (-0.345)"
+      ]
+    },
+    "6": {
+      "pos": [
+        "vocalLanguage=traditional chinese (+0.956)",
+        "vocalLanguage=mandarin (+0.417)",
+        "vocalLanguage=korean (+0.393)",
+        "speakingFallingRatio (+0.358)",
+        "vocalLanguage=simplified chinese (+0.345)"
+      ],
+      "neg": [
+        "total_distinct_voices (-0.777)",
+        "vocalTone=professional/narrative (-0.476)",
+        "male_vocal_count (-0.471)",
+        "dominance (-0.321)",
+        "instrumentFamiliesAudible=synthesizer (-0.304)"
+      ]
+    }
+  },
+  "visual": {
+    "0": {
+      "pos": [
+        "femaleDetectAmount (+1.623)",
+        "videoGenre=beauty / fashion (+0.465)",
+        "videoGenre=product showcase (+0.395)",
+        "animalDetect=dog (+0.358)",
+        "textLanguage=traditional chinese (+0.320)"
+      ],
+      "neg": [
+        "maleDetectAmount (-1.325)",
+        "brandLogos=costco (-0.615)",
+        "locationCategory=supermarket / warehouse store (-0.490)",
+        "crowdLevel=single (-0.455)",
+        "brandLogos=costco wholesale (-0.454)"
+      ]
+    },
+    "1": {
+      "pos": [
+        "videoGenre=tech review (+1.344)",
+        "videoGenre=tech news / commentary (+1.306)",
+        "brandLogos=roots (+1.006)",
+        "textLanguage=english (+0.636)",
+        "endorsementObject=miko (+0.377)"
+      ],
+      "neg": [
+        "bodyPartVisibility=partial body (-0.306)",
+        "videoGenre=promotion / advertisement / indoresment (-0.277)"
+      ]
+    },
+    "2": {
+      "pos": [
+        "brandLogos=costco (+2.261)",
+        "brandLogos=costco wholesale (+1.358)",
+        "videoGenre=shopping (+0.840)",
+        "locationCategory=supermarket / warehouse store (+0.834)",
+        "endorsementObject=costco (+0.590)"
+      ],
+      "neg": [
+        "editingTechniques=slow motion (-0.584)",
+        "bodyPartVisibility=full body (-0.204)",
+        "cameraAngles=pov / first-person view (-0.163)"
+      ]
+    },
+    "3": {
+      "pos": [
+        "videoGenre=animation (+0.810)",
+        "lightingStyle=flat animation lighting (+0.577)",
+        "locationCategory=animation / graphic background (+0.562)",
+        "locationCategory=exhibition / museum / gallery (+0.375)",
+        "videoGenre=event / festival (+0.325)"
+      ],
+      "neg": [
+        "editingTechniques=loop / replay (-0.449)",
+        "brandLogos=instagram (-0.218)"
+      ]
+    },
+    "4": {
+      "pos": [
+        "editingPace=Fast (+0.531)",
+        "locationTopography=plain / flat urban (+0.375)",
+        "textLanguage=traditional chinese (+0.361)",
+        "cameraMovement=static (+0.331)"
+      ],
+      "neg": [
+        "videoDuration (-0.863)",
+        "videoGenre=tech review (-0.718)",
+        "brandLogos=costco (-0.563)",
+        "locationCategory=supermarket / warehouse store (-0.514)",
+        "endorsementObject=hahababy (-0.431)"
+      ]
+    },
+    "5": {
+      "pos": [
+        "textDensity=Low (+0.370)",
+        "isEndorsement (+0.342)",
+        "videoGenre=event / festival (+0.306)",
+        "textLanguage=korean (+0.304)",
+        "editingTechniques=dissolve (+0.267)"
+      ],
+      "neg": [
+        "textLanguage=traditional chinese (-0.818)",
+        "textDensity=High (-0.533)",
+        "country=taiwan (-0.436)",
+        "kidsDetectAmount (-0.337)",
+        "videoGenre=selfie / portrait (-0.332)"
+      ]
+    },
+    "6": {
+      "pos": [
+        "videoDuration (+1.241)",
+        "maleDetectAmount (+0.779)",
+        "videoGenre=comedy (+0.762)",
+        "visualEmotion=humorous (+0.673)",
+        "techDetect=headphones / earbuds (+0.541)"
+      ],
+      "neg": [
+        "brandLogos=costco (-0.874)",
+        "femaleDetectAmount (-0.634)",
+        "videoGenre=tech review (-0.596)",
+        "country=unknown (-0.539)",
+        "videoGenre=family / kids (-0.420)"
+      ]
+    },
+    "7": {
+      "pos": [
+        "kidsDetectAmount (+1.428)",
+        "country=japan (+0.639)",
+        "bodyPartVisibility=upper body (+0.362)",
+        "textLanguage=traditional chinese (+0.307)",
+        "lightingStyle=warm indoor lighting (+0.265)"
+      ],
+      "neg": [
+        "femaleDetectAmount (-1.133)",
+        "textDensity=High (-0.667)",
+        "locationCategory=stage / performance venue (-0.503)",
+        "endorsementMethod=explicit (-0.297)",
+        "textLanguage=english (-0.294)"
+      ]
+    },
+    "8": {
+      "pos": [
+        "crowdLevel=single (+0.495)",
+        "bodyPartVisibility=face close-up (+0.476)",
+        "videoGenre=selfie / portrait (+0.383)",
+        "videoGenre=storytelling (+0.350)",
+        "videoGenre=comedy (+0.342)"
+      ],
+      "neg": [
+        "videoDuration (-0.971)",
+        "textLanguage=korean (-0.441)",
+        "editingPace=Fast (-0.360)",
+        "locationCategory=studio (-0.341)",
+        "textLanguage=emoji / symbols (-0.287)"
+      ]
+    },
+    "9": {
+      "pos": [
+        "textLanguage=emoji / symbols (+1.315)",
+        "textLanguage=korean (+0.508)",
+        "bodyPartVisibility=hands only (+0.508)",
+        "locationCategory=indoor home (+0.449)",
+        "videoGenre=food review (+0.446)"
+      ],
+      "neg": [
+        "brandLogos=costco (-0.645)",
+        "mainCharacterCount (-0.485)",
+        "editingTechniques=graphic transition (-0.378)",
+        "cameraMovement=panning (-0.377)",
+        "kidsDetectAmount (-0.350)"
+      ]
+    }
+  }
+}

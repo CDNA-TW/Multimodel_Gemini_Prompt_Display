@@ -1,0 +1,269 @@
+{
+  "audio": {
+    "0": {
+      "pos": [
+        "vocalLanguage=traditional chinese (+0.668)",
+        "videoGenre=storytelling (+0.546)",
+        "videoGenre=vlog (+0.489)",
+        "vocalTone=comedic/exaggerated (+0.488)",
+        "speechDensity (+0.470)"
+      ],
+      "neg": [
+        "endorsementObject=costco (-0.661)",
+        "videoGenre=shopping (-0.652)",
+        "videoGenre=tech news / commentary (-0.492)",
+        "incidentalNoiseDetails=food bite / crunch (-0.482)",
+        "videoGenre=tech review (-0.402)"
+      ]
+    },
+    "1": {
+      "pos": [
+        "musicToSpeechLoudRatio (+0.736)",
+        "incidentalNoiseDetails=clothing / fabric rustle (+0.335)",
+        "visualEmotion=warm (+0.297)",
+        "incidentalNoiseDetails=plastic / bag rustle (+0.284)"
+      ],
+      "neg": [
+        "speechDensity (-1.605)",
+        "videoDuration (-0.691)",
+        "bgmGenre=pop (-0.417)",
+        "audioTransition=stingers (-0.412)",
+        "vocalTone=casual (-0.386)"
+      ]
+    },
+    "2": {
+      "pos": [
+        "videoGenre=food review (+2.110)",
+        "vocalRatio (+1.049)",
+        "endorsementObject=costco (+0.523)",
+        "visualEmotion=informative (+0.459)",
+        "ambientNoiseDetails=commercial/recreational (+0.301)"
+      ],
+      "neg": [
+        "vocalTone=professional/narrative (-0.298)",
+        "videoGenre=lifestyle (-0.298)",
+        "videoGenre=meme / trend (-0.281)",
+        "bgmGenre=anime/j-pop (-0.277)",
+        "country=south korea (-0.263)"
+      ]
+    },
+    "3": {
+      "pos": [
+        "videoGenre=tech review (+1.178)",
+        "videoGenre=tech news / commentary (+0.868)",
+        "vocalTone=professional/narrative (+0.664)",
+        "vocalLanguage=traditional chinese (+0.355)",
+        "videoGenre=tutorial / how-to (+0.329)"
+      ],
+      "neg": [
+        "female_vocal_count (-1.102)",
+        "videoGenre=shopping (-0.765)",
+        "incidentalNoiseDetails=liquid pour / splash (-0.514)",
+        "videoGenre=promotion / advertisement / indoresment (-0.396)",
+        "visualEmotion=humorous (-0.388)"
+      ]
+    },
+    "4": {
+      "pos": [
+        "speechMusicOverlap (+1.181)",
+        "pitchLevel (+0.641)",
+        "videoGenre=shopping (+0.626)",
+        "videoGenre=product showcase (+0.403)",
+        "speechPauseDensity (+0.402)"
+      ],
+      "neg": [
+        "videoGenre=food review (-1.178)",
+        "musicToSpeechLoudRatio (-0.532)",
+        "videoGenre=tech review (-0.466)",
+        "isNarrativeShift (-0.371)",
+        "videoGenre=short video (-0.359)"
+      ]
+    },
+    "5": {
+      "pos": [
+        "videoGenre=food review (+0.794)",
+        "incidentalNoiseIntensity (+0.607)",
+        "speechDensity (+0.422)",
+        "videoGenre=cooking tutorial (+0.349)",
+        "pitchLevel (+0.343)"
+      ],
+      "neg": [
+        "videoGenre=shopping (-0.711)",
+        "endorsementObject=costco (-0.439)",
+        "incidentalNoiseDetails=object impact / thud / drop (-0.316)",
+        "videoDuration (-0.303)",
+        "crowdNoiseIntensity (-0.284)"
+      ]
+    },
+    "6": {
+      "pos": [
+        "sceneCutCount (+1.388)",
+        "endorsementObject=costco (+0.662)",
+        "endorsementObject=costco wholesale (+0.534)",
+        "audioEventDensity (+0.477)",
+        "videoGenre=shopping (+0.260)"
+      ],
+      "neg": [
+        "musicPauseDensity (-0.647)",
+        "visualEmotion=warm (-0.447)",
+        "incidentalNoiseIntensity (-0.388)",
+        "speechPauseDensity (-0.328)",
+        "female_vocal_count (-0.279)"
+      ]
+    },
+    "7": {
+      "pos": [
+        "visualEmotion=informative (+0.628)",
+        "videoGenre=beauty / fashion (+0.582)",
+        "incidentalNoiseDetails=liquid pour / splash (+0.571)",
+        "endorsementMethod=full (+0.491)",
+        "soundEffectsDetails=whoosh / transition sfx (+0.489)"
+      ],
+      "neg": [
+        "videoGenre=food review (-0.511)",
+        "videoGenre=tech review (-0.509)",
+        "endorsementObject=costco (-0.289)",
+        "videoGenre=tech news / commentary (-0.283)",
+        "vocalTone=aggressive (-0.283)"
+      ]
+    },
+    "8": {
+      "pos": [
+        "speechDensity (+0.965)",
+        "noisinessAndPercussiveness (+0.411)",
+        "kids_vocal_count (+0.368)",
+        "audioQuality=field recording (+0.305)",
+        "crowdNoiseDetails=cheering (+0.278)"
+      ],
+      "neg": [
+        "videoGenre=food review (-0.625)",
+        "vocalRatio (-0.544)",
+        "vocalTone=professional/narrative (-0.481)",
+        "endorsementObject=costco (-0.425)",
+        "videoDuration (-0.385)"
+      ]
+    }
+  },
+  "visual": {
+    "0": {
+      "pos": [
+        "sceneCutCount (+0.472)",
+        "locationCategory=supermarket / warehouse store (+0.420)",
+        "foodsDetect=alcohol (+0.382)",
+        "visualRhythm=very fast pace (+0.353)",
+        "brandLogos=quaker (+0.307)"
+      ],
+      "neg": [
+        "bodyPartVisibility=upper body (-0.257)"
+      ]
+    },
+    "1": {
+      "pos": [
+        "videoGenre=tech review (+1.712)",
+        "videoGenre=tech news / commentary (+1.396)",
+        "brandLogos=roots (+0.765)",
+        "brandLogos=samsung (+0.498)",
+        "brandLogos=miko (+0.478)"
+      ],
+      "neg": [
+        "brandLogos=pokémon (-0.256)",
+        "locationCategory=rooftop / city view (-0.255)"
+      ]
+    },
+    "2": {
+      "pos": [
+        "cameraMovement=selfie handheld (+0.363)",
+        "locationCategory=indoor living room (+0.293)",
+        "takeStructure=single continuous take (+0.275)",
+        "visualRhythm=natural pace (+0.258)"
+      ],
+      "neg": [
+        "videoDuration (-2.321)",
+        "videoGenre=food review (-0.605)",
+        "textDensity=High (-0.517)",
+        "videoGenre=family / kids (-0.335)",
+        "mainCharacterCount (-0.310)"
+      ]
+    },
+    "3": {
+      "pos": [
+        "videoGenre=food review (+2.116)",
+        "visualEmotion=humorous (+0.411)",
+        "foodsDetect=noodles / ramen / pasta (+0.356)",
+        "bodyPartVisibility=hands only (+0.354)",
+        "cameraMovement=static (+0.351)"
+      ],
+      "neg": [
+        "brandLogos=costco (-2.076)",
+        "brandLogos=costco wholesale (-1.007)",
+        "isMultipleBackground (-0.481)",
+        "videoGenre=shopping (-0.433)",
+        "videoGenre=beauty / fashion (-0.415)"
+      ]
+    },
+    "4": {
+      "pos": [
+        "brandLogos=costco (+2.140)",
+        "brandLogos=costco wholesale (+1.359)",
+        "locationCategory=supermarket / warehouse store (+0.835)",
+        "videoGenre=food review (+0.514)",
+        "bodyPartVisibility=upper body (+0.417)"
+      ],
+      "neg": [
+        "sceneCutCount (-0.567)",
+        "visualRhythm=very fast pace (-0.316)",
+        "foodsDetect=fruit (-0.295)",
+        "foodsDetect=alcohol (-0.223)",
+        "foodsDetect=beverage / juice (-0.201)"
+      ]
+    },
+    "5": {
+      "pos": [
+        "bodyPartVisibility=full body (+0.532)",
+        "locationCategory=toy / hobby store (+0.370)",
+        "videoGenre=family / kids (+0.334)",
+        "visualEmotion=warm (+0.331)",
+        "videoGenre=travel (+0.327)"
+      ],
+      "neg": [
+        "videoGenre=food review (-0.867)",
+        "brandLogos=costco (-0.864)",
+        "shotSize=extreme close-up (-0.511)",
+        "foodsDetect=tea (-0.467)",
+        "techDetect=laptop (-0.441)"
+      ]
+    },
+    "6": {
+      "pos": [
+        "videoDuration (+0.952)",
+        "videoGenre=comedy (+0.439)",
+        "locationCategory=animation / graphic background (+0.406)",
+        "techDetect=headphones / earbuds (+0.347)",
+        "brandLogos=hahababy (+0.334)"
+      ],
+      "neg": [
+        "videoGenre=food review (-0.880)",
+        "videoGenre=tech review (-0.549)",
+        "videoGenre=tech news / commentary (-0.534)",
+        "locationCategory=supermarket / warehouse store (-0.517)",
+        "crowdLevel=single (-0.507)"
+      ]
+    },
+    "7": {
+      "pos": [
+        "bodyPartVisibility=hands only (+0.743)",
+        "videoGenre=promotion / advertisement / indoresment (+0.639)",
+        "videoGenre=beauty / fashion (+0.634)",
+        "cameraMovement=handheld (+0.415)",
+        "cameraMovement=static (+0.372)"
+      ],
+      "neg": [
+        "maleDetectAmount (-1.031)",
+        "videoGenre=food review (-0.630)",
+        "videoGenre=tech review (-0.498)",
+        "brandLogos=costco wholesale (-0.453)",
+        "brandLogos=costco (-0.403)"
+      ]
+    }
+  }
+}

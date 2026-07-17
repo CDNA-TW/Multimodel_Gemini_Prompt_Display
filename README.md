@@ -22,18 +22,21 @@ python3 -m http.server 8000
 | 檔案 | 說明 | 範例檔名 |
 |------|------|----------|
 | **cluster_result CSV** | 每部影片的分群結果，每種 type (audio/visual) 一份 | `cluster_result_visual_HT0601.csv` |
-| **lasso xlsx** | Lasso 特徵選取結果，包含 audio/visual 兩個 sheet | `lasso_optuna_result_260601.xlsx` |
+| **lasso xlsx** | Lasso 特徵選取結果，每種 type (audio/visual) 一份，各自可含多個 cluster sheet | `lasso_v20_audio-only_result.xlsx` |
 | **group_name xlsx** | 每個 group 的 GPT/Gemini 命名與描述 | `group_name_visual_HT_20260601.xlsx` |
 | **wordcloud 圖片** | KeyBERT 和 TF-IDF 文字雲，每個 cluster 各一張 | `*keybert*cluster_0.png`, `*tfidf*cluster_0.png` |
 
 #### cluster_result CSV 欄位需求
 
-| 欄位名稱 | 說明 |
-|----------|------|
-| `file` | 影片檔名，格式：`{ig_id}-{datetime}-{video_id}` |
-| `id` | 創作者 ig_id |
-| `audio_kmeans_lables` | audio 分群編號（audio CSV 用） |
-| `visual_kmeans_lables` | visual 分群編號（visual CSV 用） |
+支援新舊兩種欄位格式，腳本會自動轉換（`normalize_cluster_csv`）：
+
+| 格式 | 欄位名稱 | 說明 |
+|------|----------|------|
+| 舊 | `file` | 影片檔名，格式：`{ig_id}-{datetime}-{video_id}` |
+| 舊 | `id` | 創作者 ig_id（若缺少會自動從 `file` 第一段補上） |
+| 舊 | `audio_kmeans_lables` / `visual_kmeans_lables` | 分群編號 |
+| 新 | `file_id` | 同 `file`，會自動改名 |
+| 新 | `label_id` 或 `label` | 分群編號，會自動改名為 `{type}_kmeans_lables` |
 
 #### lasso xlsx 欄位需求（每個 sheet）
 
@@ -100,15 +103,17 @@ python3 setup_experiment.py \
     --label "HT 2026-06-01" \
     --visual_csv  path/to/cluster_result_visual_HT0601.csv \
     --audio_csv   path/to/cluster_result_audio_HT0601.csv \
-    --lasso       path/to/lasso_optuna_result_260601.xlsx \
+    --lasso_audio  path/to/lasso_v20_audio-only_result.xlsx \
+    --lasso_visual path/to/lasso_v20_visual-only_result.xlsx \
     --group_name_visual path/to/group_name_visual_HT_20260601.xlsx \
     --wordcloud_dir     path/to/wordcloud/
 ```
 
-> 只有 visual 時可省略 `--audio_csv`，反之亦然
+> 只有 visual 時可省略 `--audio_csv`，反之亦然；`--lasso_audio` / `--lasso_visual` 也各自可省略
 
 腳本會自動：
-- 產生 `data/experiments/{name}/lasso_features.json`
+- 產生 `data/experiments/{name}/lasso_features.json`（合併 `--lasso_audio` 和 `--lasso_visual`）
+- 掃描 `data/json_description/` 自動偵測所有可統計的 section（相容 v07 `low_inference_observations` 與 v20 schema，不需寫死路徑）
 - 產生 `data/experiments/{name}/{type}/cluster_compare.json`（統計每個 group 的 feature 分布）
 - 產生 `data/experiments/{name}/{type}/group_names.json`
 - 複製 wordcloud 圖片並重新命名為 `keybert_cluster_{n}.png` / `tfidf_cluster_{n}.png`

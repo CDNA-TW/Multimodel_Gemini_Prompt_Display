@@ -25,19 +25,39 @@ async function fetchJson(url) {
     return r.json();
 }
 
+// RFC4180 parser: handles quoted fields with embedded commas/newlines and "" escapes,
+// which a plain split("\n") breaks on (e.g. multi-line audio_text descriptions).
+function parseCSV(text) {
+    text = text.replace(/^﻿/, "");
+    const table = [];
+    let row = [], field = "", inQuotes = false;
+    for (let i = 0; i < text.length; i++) {
+        const c = text[i];
+        if (inQuotes) {
+            if (c === '"') { if (text[i + 1] === '"') { field += '"'; i++; } else inQuotes = false; }
+            else field += c;
+        } else if (c === '"') inQuotes = true;
+        else if (c === ",") { row.push(field); field = ""; }
+        else if (c === "\n" || c === "\r") {
+            if (c === "\r" && text[i + 1] === "\n") i++;
+            row.push(field); field = "";
+            if (row.length > 1 || row[0] !== "") table.push(row);
+            row = [];
+        } else field += c;
+    }
+    if (field !== "" || row.length) { row.push(field); table.push(row); }
+    return table;
+}
+
 async function fetchCSVRows(url) {
     const r = await fetch(url);
     if (!r.ok) throw new Error(`Failed to load ${url}`);
-    const text = await r.text();
-    const rows = text.split(/\r?\n/).filter((l) => l.trim());
-    const headers = rows[0]
-        .replace(/^﻿/, "")
-        .split(",")
-        .map((h) => h.trim().replace(/"/g, ""));
-    return rows.slice(1).map((row) => {
-        const cols = row.split(/,(?=(?:(?:[^"]*"){2})*[^"]*$)/);
+    const table = parseCSV(await r.text());
+    if (!table.length) return [];
+    const headers = table[0].map((h) => h.trim());
+    return table.slice(1).map((cols) => {
         const obj = {};
-        headers.forEach((h, i) => { obj[h] = (cols[i] || "").trim().replace(/"/g, ""); });
+        headers.forEach((h, i) => { obj[h] = (cols[i] || "").trim(); });
         return obj;
     });
 }

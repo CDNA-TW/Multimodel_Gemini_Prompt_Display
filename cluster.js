@@ -98,8 +98,12 @@ async function getClusterGroups(expId, type) {
 
 async function getLassoFeatures(expId, type) {
     const key = `lasso_${expId}`;
-    if (!_cache[key]) _cache[key] = await fetchJson(paths(expId, type).lasso_features);
-    return _cache[key][type] || {};
+    if (_cache[key] === undefined) {
+        try {
+            _cache[key] = await fetchJson(paths(expId, type).lasso_features);
+        } catch { _cache[key] = null; }
+    }
+    return _cache[key]?.[type] || {};
 }
 
 async function getStatsData(expId, type) {

@@ -41,23 +41,39 @@ def agg_numeric(vals):
     }
 
 
+MAX_CATEGORICAL_VALUE_LEN = 80  # longer than this reads as a one-off sentence, not a category
+
+
 def agg_categorical(vals):
     counts = Counter()
     for v in vals:
         if v is None:
             continue
-        if isinstance(v, list):
-            for item in v:
-                if item:
-                    counts[str(item)] += 1
-        else:
-            counts[str(v)] += 1
+        items = v if isinstance(v, list) else [v]
+        for item in items:
+            if item and len(str(item)) <= MAX_CATEGORICAL_VALUE_LEN:
+                counts[str(item)] += 1
     return dict(counts.most_common(20))
 
 
 def is_scale_int(vals):
     nums = [v for v in vals if isinstance(v, (int, float)) and not isinstance(v, bool)]
     return len(nums) > len(vals) * 0.5
+
+
+def is_free_text(vals):
+    """Long-form descriptive fields (freeDescribe, mainPurpose, narrative
+    logs, ...) are near-unique per video, so agg_categorical degenerates
+    into a pile of count=1 sentence fragments that the UI then renders as
+    bogus single-video "groups". Detect and skip them instead: mostly
+    long strings, or almost every value distinct.
+    """
+    strs = [v for v in vals if isinstance(v, str) and v]
+    if not strs:
+        return False
+    avg_len = sum(len(s) for s in strs) / len(strs)
+    uniqueness = len(set(strs)) / len(strs)
+    return avg_len > 60 or uniqueness > 0.9
 
 
 def aggregate_section(videos_data, section_path):
@@ -77,7 +93,7 @@ def aggregate_section(videos_data, section_path):
         vals = [s[key] for s in samples if key in s]
         # skip nested dicts — they are handled as their own sub-section
         non_dict = [v for v in vals if not isinstance(v, dict)]
-        if not non_dict:
+        if not non_dict or is_free_text(non_dict):
             continue
         result[key] = agg_numeric(non_dict) if is_scale_int(non_dict) else agg_categorical(non_dict)
     return {k: v for k, v in result.items() if v is not None}

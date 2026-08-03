@@ -2,7 +2,8 @@ import json
 import glob
 import os
 
-SRC = '/home/ftp_246/data_5/tiffany/multimodal_2026/ig_video_prompt/mvp_test_v20'
+#SRC = '/home/ftp_246/data_5/tiffany/multimodal_2026/ig_video_prompt/mvp_test_v20'
+SRC = '/home/ftp_246/data_5/多模態2026_ig_top200/Prompt_Description/Fullset_v20'
 DST = './data/json_description_v20'
 
 os.makedirs(DST, exist_ok=True)

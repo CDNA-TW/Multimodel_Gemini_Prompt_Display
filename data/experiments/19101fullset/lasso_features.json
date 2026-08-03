@@ -1,0 +1,176 @@
+{
+  "audio": {
+    "0": {
+      "pos": [
+        "articulationClarity (+0.924)",
+        "speechDensity (+0.814)",
+        "vocalRatio (+0.698)",
+        "vocalLanguage=traditional chinese (+0.692)",
+        "speechRate (+0.286)"
+      ],
+      "neg": [
+        "kids_vocal_count (-0.326)",
+        "arousal (-0.316)",
+        "musicToSpeechLoudRatio (-0.300)",
+        "speakingRisingRatio (-0.298)",
+        "dominant_speakers_count (-0.276)"
+      ]
+    },
+    "1": {
+      "pos": [
+        "arousal (+0.574)",
+        "beatStrength (+0.434)",
+        "pitchLevel (+0.349)",
+        "noisinessAndPercussiveness (+0.302)"
+      ],
+      "neg": [
+        "vocalLanguage=traditional chinese (-1.736)",
+        "speechDensity (-1.163)",
+        "vocalLanguage=mandarin (-0.597)",
+        "dominance (-0.565)",
+        "pitchVariability (-0.548)"
+      ]
+    },
+    "2": {
+      "pos": [
+        "vocalLanguage=traditional chinese (+1.220)",
+        "pitchVariability (+0.558)",
+        "vocalLanguage=mandarin (+0.491)",
+        "valence (+0.464)",
+        "speakingRisingRatio (+0.351)"
+      ],
+      "neg": [
+        "dominance (-0.629)",
+        "articulationClarity (-0.562)",
+        "vocalRatio (-0.515)",
+        "vocalTone=professional/narrative (-0.422)",
+        "speechRate (-0.342)"
+      ]
+    },
+    "3": {
+      "pos": [
+        "dominance (+0.577)",
+        "speechDensity (+0.552)",
+        "vocalLanguage=traditional chinese (+0.398)",
+        "soundEffectsDetails=whoosh / transition sfx (+0.319)",
+        "speechRate (+0.260)"
+      ],
+      "neg": [
+        "speechPauseDensity (-0.284)",
+        "tempoBPM (-0.279)",
+        "articulationClarity (-0.236)",
+        "musicToSpeechLoudRatio (-0.209)",
+        "soundEffectsIntensity (-0.193)"
+      ]
+    }
+  },
+  "visual": {
+    "0": {
+      "pos": [
+        "maleDetectAmount (+0.941)",
+        "textLanguage=traditional chinese (+0.827)",
+        "endorsementObject=miko (+0.479)",
+        "videoGenre=gaming (+0.375)"
+      ],
+      "neg": [
+        "brandLogos=drx dermatology clinic (-1.122)",
+        "femaleDetectAmount (-0.996)",
+        "videoGenre=cosplay (-0.643)",
+        "videoDuration (-0.613)",
+        "brandLogos=drx (-0.496)"
+      ]
+    },
+    "1": {
+      "pos": [
+        "femaleDetectAmount (+1.845)",
+        "textLanguage=traditional chinese (+0.931)",
+        "withRealPeople (+0.529)"
+      ],
+      "neg": [
+        "maleDetectAmount (-2.666)",
+        "brandLogos=drx dermatology clinic (-0.714)",
+        "videoGenre=family / kids (-0.665)",
+        "videoDuration (-0.554)",
+        "textDensity=None (-0.520)"
+      ]
+    },
+    "2": {
+      "pos": [
+        "femaleDetectAmount (+0.568)",
+        "textDensity=Low (+0.509)",
+        "textLanguage=english (+0.402)",
+        "instrumentsVisible=flute (+0.331)"
+      ],
+      "neg": [
+        "textLanguage=traditional chinese (-1.761)",
+        "sceneCutCount (-0.771)",
+        "textDensity=High (-0.610)",
+        "country=taiwan (-0.585)",
+        "textLanguage=simplified chinese (-0.502)"
+      ]
+    },
+    "3": {
+      "pos": [
+        "maleDetectAmount (+1.082)",
+        "textLanguage=traditional chinese (+0.815)",
+        "visualEmotion=humorous (+0.338)",
+        "videoGenre=comedy (+0.283)"
+      ],
+      "neg": [
+        "femaleDetectAmount (-1.166)",
+        "videoDuration (-1.045)",
+        "kidsDetectAmount (-0.635)",
+        "brandLogos=drx dermatology clinic (-0.430)",
+        "videoGenre=education / knowledge (-0.374)"
+      ]
+    },
+    "4": {
+      "pos": [
+        "textLanguage=traditional chinese (+0.842)",
+        "kidsDetectAmount (+0.777)",
+        "visualEmotion=warm (+0.575)",
+        "videoGenre=family / kids (+0.562)",
+        "city=kaohsiung (+0.476)"
+      ],
+      "neg": [
+        "videoDuration (-0.960)",
+        "maleDetectAmount (-0.722)",
+        "instrumentsVisible=flute (-0.381)",
+        "videoGenre=beauty / fashion (-0.353)",
+        "locationCategory=studio (-0.339)"
+      ]
+    },
+    "5": {
+      "pos": [
+        "videoDuration (+2.624)",
+        "sceneCutCount (+0.478)",
+        "visualEmotion=humorous (+0.370)",
+        "textLanguage=traditional chinese (+0.310)",
+        "brandLogos=dove (+0.218)"
+      ],
+      "neg": [
+        "textDensity=None (-1.111)",
+        "textDensity=Low (-0.576)",
+        "endorsementObject=drx dermatology clinic (-0.473)",
+        "brandLogos=pansci (-0.412)",
+        "editingTechniques=rhythm matched to music (-0.321)"
+      ]
+    },
+    "6": {
+      "pos": [
+        "brandLogos=drx dermatology clinic (+1.328)",
+        "locationTopography=urban high-rise / skyline (+0.874)",
+        "endorsementObject=drx dermatology clinic (+0.788)",
+        "textLanguage=traditional chinese (+0.780)",
+        "femaleDetectAmount (+0.738)"
+      ],
+      "neg": [
+        "maleDetectAmount (-1.383)",
+        "mainCharacterCount (-0.594)",
+        "bodyPartVisibility=full body (-0.577)",
+        "foodsDetect=meat / beef / pork / chicken (-0.547)",
+        "techDetect=laptop (-0.504)"
+      ]
+    }
+  }
+}

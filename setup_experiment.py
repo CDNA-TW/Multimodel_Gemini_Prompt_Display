@@ -225,14 +225,31 @@ def convert_lasso_xlsx(path):
     return result
 
 
+def _load_group_name_rows(path):
+    """Read group_label/group_name-*/group_des-* rows from .xlsx, .csv, or
+    .json (the json case accepts either a list of the same flat records, or
+    the already-nested {label: {...}} shape) -- dispatches on extension."""
+    path = str(path)
+    if path.endswith(".xlsx"):
+        import openpyxl
+        wb = openpyxl.load_workbook(path)
+        ws = wb.active
+        headers = [c.value for c in ws[1]]
+        return [dict(zip(headers, row)) for row in ws.iter_rows(min_row=2, values_only=True)]
+    if path.endswith(".csv"):
+        return pd.read_csv(path).to_dict(orient="records")
+    if path.endswith(".json"):
+        with open(path, encoding="utf-8") as f:
+            data = json.load(f)
+        if isinstance(data, list):
+            return data
+        return [{"group_label": label, **fields} for label, fields in data.items()]
+    raise ValueError(f"Unsupported group_name file format (expected .xlsx/.csv/.json): {path}")
+
+
 def convert_group_name_xlsx(path):
-    import openpyxl
-    wb = openpyxl.load_workbook(path)
-    ws = wb.active
-    headers = [c.value for c in ws[1]]
     result = {}
-    for row in ws.iter_rows(min_row=2, values_only=True):
-        d = dict(zip(headers, row))
+    for d in _load_group_name_rows(path):
         label = str(d["group_label"])
         result[label] = {
             "group_name_GPT":    d.get("group_name-GPT") or "",

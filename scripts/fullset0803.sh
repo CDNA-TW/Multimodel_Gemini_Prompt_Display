@@ -11,5 +11,5 @@ python3 setup_experiment.py \
     --lasso_visual /home/hthung/multimodal-analysis/exp/res/19101fullset/lasso/lasso_v20_visual-shared_result.xlsx \
     --group_name_visual /home/hthung/multimodal-analysis/exp/res/19101fullset/group_name_visual_top350.xlsx \
     --group_name_audio  /home/hthung/multimodal-analysis/exp/res/19101fullset/group_name_audio_top350.xlsx \
-    --wordcloud_dir /home/hthung/multimodal-analysis/exp/res/19101fullset/keywords_wordcloud \
+    --wordcloud_dir /home/hthung/multimodal-analysis/exp/res/19101fullset/keywords_wordcloud/wordcloud \
     --json_desc ./data/json_description_v20

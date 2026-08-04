@@ -77,6 +77,9 @@
         }
       },
       "endorsement_analysis": {
+        "isEndorsement": {
+          "True": 4227
+        },
         "endorsementMethod": {
           "Explicit": 3268,
           "Full": 2447,
@@ -93,9 +96,6 @@
           "Implicit Full": 1,
           "Implicit and Integrated": 1,
           "Explicit and Integrated": 1
-        },
-        "isEndorsement": {
-          "True": 4227
         },
         "endorsementObject": {
           "None": 2127,
@@ -145,17 +145,13 @@
         }
       },
       "temporal_pacing_summary": {
+        "isNarrativeShift": {
+          "True": 4903
+        },
         "editingPace": {
           "Fast": 4097,
           "Moderate": 2181,
           "Slow": 210
-        },
-        "sceneCutCount": {
-          "min": 0.0,
-          "max": 62.0,
-          "mean": 17.83,
-          "avg": 17.83,
-          "std": 9.59
         },
         "averageSceneDuration": {
           "min": 0.84,
@@ -164,56 +160,15 @@
           "avg": 4.86,
           "std": 8.03
         },
-        "isNarrativeShift": {
-          "True": 4903
+        "sceneCutCount": {
+          "min": 0.0,
+          "max": 62.0,
+          "mean": 17.83,
+          "avg": 17.83,
+          "std": 9.59
         }
       },
       "audio_base_editing_and_production_style": {
-        "speechDensity": {
-          "min": 0.0,
-          "max": 5.0,
-          "mean": 3.99,
-          "avg": 3.99,
-          "std": 0.28
-        },
-        "hasStrategicSilence": {
-          "True": 233
-        },
-        "audioCutFrequency": {
-          "min": 0.0,
-          "max": 5.0,
-          "mean": 3.0,
-          "avg": 3.0,
-          "std": 1.04
-        },
-        "musicDuration": {
-          "min": 0.0,
-          "max": 5.0,
-          "mean": 4.83,
-          "avg": 4.83,
-          "std": 0.85
-        },
-        "dynamicRange": {
-          "min": 1.0,
-          "max": 4.0,
-          "mean": 2.52,
-          "avg": 2.52,
-          "std": 0.5
-        },
-        "vocalRatio": {
-          "min": 0.0,
-          "max": 5.0,
-          "mean": 4.75,
-          "avg": 4.75,
-          "std": 0.47
-        },
-        "speechMusicOverlap": {
-          "min": 0.0,
-          "max": 5.0,
-          "mean": 4.77,
-          "avg": 4.77,
-          "std": 0.91
-        },
         "audioEventDensity": {
           "min": 2.0,
           "max": 5.0,
@@ -221,25 +176,19 @@
           "avg": 3.76,
           "std": 0.53
         },
-        "audioQuality": {
-          "Studio": 4899,
-          "Field Recording": 708,
-          "Compressed/Broadcast": 619,
-          "Mixed": 304,
-          "Low-fi/Phone": 25,
-          "Vlog-style post-production": 1,
-          "Vlog Recording": 1,
-          "Vlog": 1
-        },
-        "isAudioEditingFragmented": {
-          "True": 3872
-        },
-        "musicToSpeechLoudRatio": {
+        "speechDensity": {
           "min": 0.0,
           "max": 5.0,
-          "mean": 1.92,
-          "avg": 1.92,
-          "std": 0.42
+          "mean": 3.99,
+          "avg": 3.99,
+          "std": 0.28
+        },
+        "vocalRatio": {
+          "min": 0.0,
+          "max": 5.0,
+          "mean": 4.75,
+          "avg": 4.75,
+          "std": 0.47
         },
         "audioTransition": {
           "Hard cut": 5568,
@@ -255,11 +204,66 @@
           "Whoosh": 1,
           "Record Scratch": 1,
           "Pop / Bubble SFX": 1
+        },
+        "audioQuality": {
+          "Studio": 4899,
+          "Field Recording": 708,
+          "Compressed/Broadcast": 619,
+          "Mixed": 304,
+          "Low-fi/Phone": 25,
+          "Vlog-style post-production": 1,
+          "Vlog Recording": 1,
+          "Vlog": 1
+        },
+        "hasStrategicSilence": {
+          "True": 233
+        },
+        "musicDuration": {
+          "min": 0.0,
+          "max": 5.0,
+          "mean": 4.83,
+          "avg": 4.83,
+          "std": 0.85
+        },
+        "dynamicRange": {
+          "min": 1.0,
+          "max": 4.0,
+          "mean": 2.52,
+          "avg": 2.52,
+          "std": 0.5
+        },
+        "audioCutFrequency": {
+          "min": 0.0,
+          "max": 5.0,
+          "mean": 3.0,
+          "avg": 3.0,
+          "std": 1.04
+        },
+        "musicToSpeechLoudRatio": {
+          "min": 0.0,
+          "max": 5.0,
+          "mean": 1.92,
+          "avg": 1.92,
+          "std": 0.42
+        },
+        "speechMusicOverlap": {
+          "min": 0.0,
+          "max": 5.0,
+          "mean": 4.77,
+          "avg": 4.77,
+          "std": 0.91
+        },
+        "isAudioEditingFragmented": {
+          "True": 3872
         }
       },
       "audio_base_music_basic_features": {
-        "musicPresence": {
-          "True": 6313
+        "mode": {
+          "Major / Ionian": 6221,
+          "None": 175,
+          "Minor / Aeolian": 92,
+          "Pentatonic/Traditional": 4,
+          "Atonal/Ambiguous": 4
         },
         "tempoBPM": {
           "min": 0.0,
@@ -267,13 +271,6 @@
           "mean": 114.03,
           "avg": 114.03,
           "std": 22.78
-        },
-        "mode": {
-          "Major / Ionian": 6221,
-          "None": 175,
-          "Minor / Aeolian": 92,
-          "Pentatonic/Traditional": 4,
-          "Atonal/Ambiguous": 4
         },
         "bgmGenre": {
           "Pop": 4514,
@@ -296,6 +293,9 @@
           "Acoustic / Folk": 7,
           "Comedy": 6,
           "Lofi": 5
+        },
+        "musicPresence": {
+          "True": 6313
         }
       },
       "audio_base_music_structures": {
@@ -306,12 +306,31 @@
           "avg": 1.64,
           "std": 0.58
         },
-        "beatStrength": {
+        "instrumentFamiliesAudible": {
+          "Percussion": 4489,
+          "Synthesizer": 3717,
+          "Electronic": 3371,
+          "String": 2249,
+          "Keyboard": 854,
+          "None": 176,
+          "Strings": 77,
+          "Acoustic": 70,
+          "Woodwind": 23,
+          "Brass": 18,
+          "Piano": 12,
+          "Acoustic Guitar": 12,
+          "Acoustic/Folk": 11,
+          "Guitar": 9,
+          "Orchestral": 6,
+          "Drums": 1,
+          "Other Chinese Instrument": 1
+        },
+        "musicPauseDensity": {
           "min": 0.0,
-          "max": 5.0,
-          "mean": 3.21,
-          "avg": 3.21,
-          "std": 0.93
+          "max": 4.0,
+          "mean": 0.85,
+          "avg": 0.85,
+          "std": 0.41
         },
         "instrumentsAudible": {
           "Electronic Keyboard / Synthesizer": 3945,
@@ -335,6 +354,13 @@
           "Shaker": 14,
           "Chinese Drum": 14
         },
+        "beatStrength": {
+          "min": 0.0,
+          "max": 5.0,
+          "mean": 3.21,
+          "avg": 3.21,
+          "std": 0.93
+        },
         "musicSourceType": {
           "Stock/Royalty-Free": 6022,
           "Copyrighted/Commercial": 213,
@@ -347,56 +373,9 @@
           "Stock / Royalty-Free": 2,
           "Commercial": 2,
           "Commercial/Copyrighted": 2
-        },
-        "musicPauseDensity": {
-          "min": 0.0,
-          "max": 4.0,
-          "mean": 0.85,
-          "avg": 0.85,
-          "std": 0.41
-        },
-        "instrumentFamiliesAudible": {
-          "Percussion": 4489,
-          "Synthesizer": 3717,
-          "Electronic": 3371,
-          "String": 2249,
-          "Keyboard": 854,
-          "None": 176,
-          "Strings": 77,
-          "Acoustic": 70,
-          "Woodwind": 23,
-          "Brass": 18,
-          "Piano": 12,
-          "Acoustic Guitar": 12,
-          "Acoustic/Folk": 11,
-          "Guitar": 9,
-          "Orchestral": 6,
-          "Drums": 1,
-          "Other Chinese Instrument": 1
         }
       },
       "audio_base_music_vocal_census": {
-        "female_singer_count": {
-          "min": 0.0,
-          "max": 6.0,
-          "mean": 0.03,
-          "avg": 0.03,
-          "std": 0.21
-        },
-        "bgmLanguage": {
-          "None": 6227,
-          "English": 134,
-          "Traditional Chinese": 72,
-          "Japanese": 26,
-          "Korean": 21,
-          "Other": 11,
-          "Mandarin": 5,
-          "Thai": 4,
-          "Unknown": 2,
-          "Simplified Chinese": 2,
-          "French": 2,
-          "German": 1
-        },
         "male_singer_count": {
           "min": 0.0,
           "max": 6.0,
@@ -417,62 +396,50 @@
           "mean": 0.0,
           "avg": 0.0,
           "std": 0.07
+        },
+        "bgmLanguage": {
+          "None": 6227,
+          "English": 134,
+          "Traditional Chinese": 72,
+          "Japanese": 26,
+          "Korean": 21,
+          "Other": 11,
+          "Mandarin": 5,
+          "Thai": 4,
+          "Unknown": 2,
+          "Simplified Chinese": 2,
+          "French": 2,
+          "German": 1
+        },
+        "female_singer_count": {
+          "min": 0.0,
+          "max": 6.0,
+          "mean": 0.03,
+          "avg": 0.03,
+          "std": 0.21
         }
       },
       "audio_base_noise_and_SFX_detect": {
-        "soundEffectsDetails": {
-          "Whoosh / Transition SFX": 3680,
-          "Ding / Bell SFX": 3196,
-          "Pop / Bubble SFX": 3106,
-          "Cartoon / Comedy SFX": 1644,
-          "Digital UI SFX": 1324,
-          "None": 956,
-          "Impact / Hit SFX": 802,
-          "Sparkle / Magic SFX": 278,
-          "Meme SFX": 215,
-          "Applause / Laugh Track SFX": 145,
-          "Other": 86,
-          "Camera Shutter / Camera Operation": 48,
-          "Stinger SFX": 36,
-          "Human Vocal SFX": 27,
-          "Record Scratch SFX": 20,
-          "Cinematic Boom SFX": 20,
-          "Glitch / Digital Distortion SFX": 16,
-          "Riser / Build-up SFX": 14,
-          "Rewind / Tape Stop SFX": 12,
-          "Liquid Pour / Splash": 8
-        },
-        "soundEffectsCoverage": {
-          "min": 0.0,
+        "SignalToNoiseRatio": {
+          "min": 3.0,
           "max": 5.0,
-          "mean": 2.21,
-          "avg": 2.21,
-          "std": 1.33
+          "mean": 4.54,
+          "avg": 4.54,
+          "std": 0.5
         },
-        "incidentalNoiseIntensity": {
-          "min": 0.0,
-          "max": 5.0,
-          "mean": 0.94,
-          "avg": 0.94,
-          "std": 0.95
-        },
-        "crowdNoiseDetails": {
-          "None": 4967,
-          "Laughter": 889,
-          "Crowd Murmur": 455,
-          "Chatter": 413,
-          "Cheering": 232,
-          "Applause": 132,
-          "Screaming/Yelling": 35,
-          "Other": 2,
-          "Chanting": 1
-        },
-        "ambientNoiseIntensity": {
+        "crowdNoiseIntensity": {
           "min": 0.0,
           "max": 4.0,
-          "mean": 0.99,
-          "avg": 0.99,
-          "std": 0.45
+          "mean": 0.42,
+          "avg": 0.42,
+          "std": 0.82
+        },
+        "soundEffectsIntensity": {
+          "min": 0.0,
+          "max": 5.0,
+          "mean": 2.44,
+          "avg": 2.44,
+          "std": 1.17
         },
         "incidentalNoiseDetails": {
           "None": 2908,
@@ -496,26 +463,12 @@
           "Animal Sound / Barking": 27,
           "Metal Bump ": 23
         },
-        "SignalToNoiseRatio": {
-          "min": 3.0,
-          "max": 5.0,
-          "mean": 4.54,
-          "avg": 4.54,
-          "std": 0.5
-        },
-        "soundEffectsIntensity": {
+        "soundEffectsCoverage": {
           "min": 0.0,
           "max": 5.0,
-          "mean": 2.44,
-          "avg": 2.44,
-          "std": 1.17
-        },
-        "crowdNoiseIntensity": {
-          "min": 0.0,
-          "max": 4.0,
-          "mean": 0.42,
-          "avg": 0.42,
-          "std": 0.82
+          "mean": 2.21,
+          "avg": 2.21,
+          "std": 1.33
         },
         "ambientNoiseDetails": {
           "StudioSilence": 4244,
@@ -534,10 +487,63 @@
           "Outdoor/Pop-up Market": 1,
           "Outdoor/Light Traffic": 1,
           "Outdoor/Traffic": 1
+        },
+        "incidentalNoiseIntensity": {
+          "min": 0.0,
+          "max": 5.0,
+          "mean": 0.94,
+          "avg": 0.94,
+          "std": 0.95
+        },
+        "ambientNoiseIntensity": {
+          "min": 0.0,
+          "max": 4.0,
+          "mean": 0.99,
+          "avg": 0.99,
+          "std": 0.45
+        },
+        "soundEffectsDetails": {
+          "Whoosh / Transition SFX": 3680,
+          "Ding / Bell SFX": 3196,
+          "Pop / Bubble SFX": 3106,
+          "Cartoon / Comedy SFX": 1644,
+          "Digital UI SFX": 1324,
+          "None": 956,
+          "Impact / Hit SFX": 802,
+          "Sparkle / Magic SFX": 278,
+          "Meme SFX": 215,
+          "Applause / Laugh Track SFX": 145,
+          "Other": 86,
+          "Camera Shutter / Camera Operation": 48,
+          "Stinger SFX": 36,
+          "Human Vocal SFX": 27,
+          "Record Scratch SFX": 20,
+          "Cinematic Boom SFX": 20,
+          "Glitch / Digital Distortion SFX": 16,
+          "Riser / Build-up SFX": 14,
+          "Rewind / Tape Stop SFX": 12,
+          "Liquid Pour / Splash": 8
+        },
+        "crowdNoiseDetails": {
+          "None": 4967,
+          "Laughter": 889,
+          "Crowd Murmur": 455,
+          "Chatter": 413,
+          "Cheering": 232,
+          "Applause": 132,
+          "Screaming/Yelling": 35,
+          "Other": 2,
+          "Chanting": 1
         }
       },
       "audio_base_spectral_and_acoustic": {
-        "hasAudioDistortion": {},
+        "acousticDynamism": {
+          "min": 1.0,
+          "max": 5.0,
+          "mean": 3.65,
+          "avg": 3.65,
+          "std": 0.52
+        },
         "noisinessAndPercussiveness": {
           "min": 1.0,
           "max": 5.0,
@@ -552,13 +558,7 @@
           "avg": 4.32,
           "std": 0.47
         },
-        "acousticDynamism": {
-          "min": 1.0,
-          "max": 5.0,
-          "mean": 3.65,
-          "avg": 3.65,
-          "std": 0.52
-        },
+        "hasAudioDistortion": {},
         "spectralCentroidBrightness": {
           "min": 2.0,
           "max": 4.0,
@@ -568,13 +568,6 @@
         }
       },
       "audio_base_vocal_affective": {
-        "arousal": {
-          "min": 0.0,
-          "max": 9.0,
-          "mean": 6.43,
-          "avg": 6.43,
-          "std": 0.95
-        },
         "dominance": {
           "min": 0.0,
           "max": 9.0,
@@ -582,18 +575,32 @@
           "avg": 6.28,
           "std": 0.76
         },
-        "hasVocalTension": {
-          "True": 246
-        },
         "valence": {
           "min": 0.0,
           "max": 9.0,
           "mean": 7.07,
           "avg": 7.07,
           "std": 1.07
+        },
+        "hasVocalTension": {
+          "True": 246
+        },
+        "arousal": {
+          "min": 0.0,
+          "max": 9.0,
+          "mean": 6.43,
+          "avg": 6.43,
+          "std": 0.95
         }
       },
       "audio_base_vocal_census": {
+        "male_vocal_count": {
+          "min": 0.0,
+          "max": 7.0,
+          "mean": 0.81,
+          "avg": 0.81,
+          "std": 0.81
+        },
         "female_vocal_count": {
           "min": 0.0,
           "max": 8.0,
@@ -601,12 +608,12 @@
           "avg": 0.82,
           "std": 0.78
         },
-        "dominant_speakers_count": {
+        "total_distinct_voices": {
           "min": 0.0,
-          "max": 11.0,
-          "mean": 1.25,
-          "avg": 1.25,
-          "std": 0.57
+          "max": 12.0,
+          "mean": 1.66,
+          "avg": 1.66,
+          "std": 1.0
         },
         "kids_vocal_count": {
           "min": 0.0,
@@ -615,29 +622,15 @@
           "avg": 0.03,
           "std": 0.21
         },
-        "male_vocal_count": {
+        "dominant_speakers_count": {
           "min": 0.0,
-          "max": 7.0,
-          "mean": 0.81,
-          "avg": 0.81,
-          "std": 0.81
-        },
-        "total_distinct_voices": {
-          "min": 0.0,
-          "max": 12.0,
-          "mean": 1.66,
-          "avg": 1.66,
-          "std": 1.0
+          "max": 11.0,
+          "mean": 1.25,
+          "avg": 1.25,
+          "std": 0.57
         }
       },
       "audio_base_vocal_prosody": {
-        "intensityAndLoudness": {
-          "min": 0.0,
-          "max": 5.0,
-          "mean": 3.33,
-          "avg": 3.33,
-          "std": 0.48
-        },
         "speechPauseDensity": {
           "min": 0.0,
           "max": 4.0,
@@ -652,56 +645,34 @@
           "avg": 3.63,
           "std": 0.5
         },
-        "pitchLevel": {
-          "min": 0.0,
-          "max": 4.0,
-          "mean": 3.16,
-          "avg": 3.16,
-          "std": 0.43
-        },
         "pitchVariability": {
           "min": 0.0,
           "max": 5.0,
           "mean": 3.69,
           "avg": 3.69,
           "std": 0.49
+        },
+        "intensityAndLoudness": {
+          "min": 0.0,
+          "max": 5.0,
+          "mean": 3.33,
+          "avg": 3.33,
+          "std": 0.48
+        },
+        "pitchLevel": {
+          "min": 0.0,
+          "max": 4.0,
+          "mean": 3.16,
+          "avg": 3.16,
+          "std": 0.43
         }
       },
       "audio_base_vocal_voice_quality": {
-        "intonationAndContour": {
-          "Complex": 5864,
-          "Level": 426,
-          "Rising": 206,
-          "Falling": 66,
-          "None": 5,
-          "rising": 1
-        },
-        "speakingFallingRatio": {
-          "min": 0.0,
-          "max": 4.0,
-          "mean": 2.6,
-          "avg": 2.6,
-          "std": 0.52
-        },
-        "vocalLanguage": {
-          "Traditional Chinese": 6195,
-          "English": 347,
-          "Mandarin": 269,
-          "Japanese": 66,
-          "Korean": 34,
-          "Simplified Chinese": 32,
-          "Other": 11,
-          "Mandarin Chinese": 9,
-          "None": 5,
-          "Thai": 4,
-          "French": 4,
-          "Hokkien": 2,
-          "Spanish": 1,
-          "Cantonese": 1,
-          "Taiwanese Hokkien": 1
-        },
         "hasBreathiness": {
           "True": 142
+        },
+        "hasRoughness": {
+          "True": 35
         },
         "tone": {
           "Animated/Excited": 4683,
@@ -725,8 +696,22 @@
           "Narrative/Professional": 4,
           "Confident": 2
         },
-        "hasStrain": {
-          "True": 165
+        "vocalLanguage": {
+          "Traditional Chinese": 6195,
+          "English": 347,
+          "Mandarin": 269,
+          "Japanese": 66,
+          "Korean": 34,
+          "Simplified Chinese": 32,
+          "Other": 11,
+          "Mandarin Chinese": 9,
+          "None": 5,
+          "Thai": 4,
+          "French": 4,
+          "Hokkien": 2,
+          "Spanish": 1,
+          "Cantonese": 1,
+          "Taiwanese Hokkien": 1
         },
         "articulationClarity": {
           "min": 0.0,
@@ -735,31 +720,46 @@
           "avg": 4.58,
           "std": 0.51
         },
+        "intonationAndContour": {
+          "Complex": 5864,
+          "Level": 426,
+          "Rising": 206,
+          "Falling": 66,
+          "None": 5,
+          "rising": 1
+        },
+        "hasStrain": {
+          "True": 165
+        },
+        "speakingFallingRatio": {
+          "min": 0.0,
+          "max": 4.0,
+          "mean": 2.6,
+          "avg": 2.6,
+          "std": 0.52
+        },
         "speakingRisingRatio": {
           "min": 0.0,
           "max": 4.0,
           "mean": 2.96,
           "avg": 2.96,
           "std": 0.46
-        },
-        "hasRoughness": {
-          "True": 35
         }
       },
       "basic_metadata": {
-        "videoDuration": {
-          "min": 5.0,
-          "max": 160.0,
-          "mean": 51.58,
-          "avg": 51.58,
-          "std": 17.29
-        },
         "aspectRatio": {
           "9:16": 6410,
           "16:9": 66,
           "1:1": 10,
           "4:3": 1,
           "3:4": 1
+        },
+        "videoDuration": {
+          "min": 5.0,
+          "max": 160.0,
+          "mean": 51.58,
+          "avg": 51.58,
+          "std": 17.29
         }
       },
       "visual_base": {
@@ -768,6 +768,17 @@
         }
       },
       "visual_base_visual_filming_and_editing": {
+        "visualRhythm": {
+          "Fast pace": 4042,
+          "Natural pace": 2145,
+          "Rhythm matched to speech": 257,
+          "Rhythm matched to music": 75,
+          "Highly dynamic / rapid montage": 67,
+          "Slow pace": 12,
+          "Very fast pace": 11,
+          "Single continuous take": 3,
+          "Very slow pace": 1
+        },
         "cameraAngles": {
           "Eye-level": 6472,
           "High angle": 1434,
@@ -789,40 +800,6 @@
           "Macro close-up": 1,
           "Point of view": 1,
           "Worm's-eye view": 1
-        },
-        "shotSize": {
-          "Medium shot": 4862,
-          "Close-up": 4691,
-          "Medium close-up": 2644,
-          "Full shot": 1412,
-          "Extreme close-up": 1183,
-          "Insert shot": 858,
-          "Wide shot": 543,
-          "Medium full shot": 509,
-          "Long shot": 295,
-          "Screen / interface close-up": 279,
-          "Macro close-up": 226,
-          "Extreme long shot": 73,
-          "POV / first-person view": 31,
-          "Group shot": 31,
-          "Establishing shot": 25,
-          "Face close-up": 24,
-          "Two shot": 23,
-          "Screen recording / screen capture": 19,
-          "Point of view": 12,
-          "Top-down / overhead": 5
-        },
-        "takeStructure": {
-          "Multiple shots": 5377,
-          "Compilation / montage sequence": 598,
-          "Multi-camera / cutaway": 364,
-          "Single continuous take": 227,
-          "Screen capture sequence": 47,
-          "Looped short-form sequence": 40,
-          "Scene-to-scene sequence": 16,
-          "Shot-reverse-shot structure": 5,
-          "Montage sequence": 4,
-          "Screen recording edit": 1
         },
         "editingTechniques": {
           "Straight cut": 5503,
@@ -846,6 +823,28 @@
           "None": 27,
           "Fade out": 27
         },
+        "shotSize": {
+          "Medium shot": 4862,
+          "Close-up": 4691,
+          "Medium close-up": 2644,
+          "Full shot": 1412,
+          "Extreme close-up": 1183,
+          "Insert shot": 858,
+          "Wide shot": 543,
+          "Medium full shot": 509,
+          "Long shot": 295,
+          "Screen / interface close-up": 279,
+          "Macro close-up": 226,
+          "Extreme long shot": 73,
+          "POV / first-person view": 31,
+          "Group shot": 31,
+          "Establishing shot": 25,
+          "Face close-up": 24,
+          "Two shot": 23,
+          "Screen recording / screen capture": 19,
+          "Point of view": 12,
+          "Top-down / overhead": 5
+        },
         "cameraMovement": {
           "Static": 5807,
           "Handheld": 2536,
@@ -868,25 +867,40 @@
           "None": 5,
           "Whip pan": 4
         },
-        "visualRhythm": {
-          "Fast pace": 4042,
-          "Natural pace": 2145,
-          "Rhythm matched to speech": 257,
-          "Rhythm matched to music": 75,
-          "Highly dynamic / rapid montage": 67,
-          "Slow pace": 12,
-          "Very fast pace": 11,
-          "Single continuous take": 3,
-          "Very slow pace": 1
+        "takeStructure": {
+          "Multiple shots": 5377,
+          "Compilation / montage sequence": 598,
+          "Multi-camera / cutaway": 364,
+          "Single continuous take": 227,
+          "Screen capture sequence": 47,
+          "Looped short-form sequence": 40,
+          "Scene-to-scene sequence": 16,
+          "Shot-reverse-shot structure": 5,
+          "Montage sequence": 4,
+          "Screen recording edit": 1
         }
       },
       "visual_base_visual_human_presence": {
+        "mainCharacterCount": {
+          "min": 0.0,
+          "max": 10.0,
+          "mean": 1.24,
+          "avg": 1.24,
+          "std": 0.64
+        },
         "kidsDetectAmount": {
           "min": 0.0,
           "max": 35.0,
           "mean": 0.14,
           "avg": 0.14,
           "std": 0.82
+        },
+        "crowdLevel": {
+          "Single": 3302,
+          "Small Group": 1518,
+          "Duo": 1165,
+          "Crowd": 438,
+          "None": 86
         },
         "maleDetectAmount": {
           "min": 0.0,
@@ -895,12 +909,19 @@
           "avg": 1.58,
           "std": 2.6
         },
-        "crowdLevel": {
-          "Single": 3302,
-          "Small Group": 1518,
-          "Duo": 1165,
-          "Crowd": 438,
-          "None": 86
+        "femaleDetectAmount": {
+          "min": 0.0,
+          "max": 50.0,
+          "mean": 1.75,
+          "avg": 1.75,
+          "std": 2.81
+        },
+        "totalHumanCount": {
+          "min": 0.0,
+          "max": 100.0,
+          "mean": 3.54,
+          "avg": 3.54,
+          "std": 5.25
         },
         "bodyPartVisibility": {
           "Upper body": 5405,
@@ -916,52 +937,9 @@
           "Torso": 65,
           "None": 59,
           "Hands": 7
-        },
-        "totalHumanCount": {
-          "min": 0.0,
-          "max": 100.0,
-          "mean": 3.54,
-          "avg": 3.54,
-          "std": 5.25
-        },
-        "mainCharacterCount": {
-          "min": 0.0,
-          "max": 10.0,
-          "mean": 1.24,
-          "avg": 1.24,
-          "std": 0.64
-        },
-        "femaleDetectAmount": {
-          "min": 0.0,
-          "max": 50.0,
-          "mean": 1.75,
-          "avg": 1.75,
-          "std": 2.81
         }
       },
       "visual_base_visual_objects_and_brands": {
-        "landmark": {
-          "None": 5998,
-          "Taipei 101": 58,
-          "Statue of Liberty": 15,
-          "Tokyo Skytree": 7,
-          "Mount Fuji": 5,
-          "Tokyo Tower": 5,
-          "Duomo di Milano": 4,
-          "Ximending": 4,
-          "Universal Studios Japan": 4,
-          "Matterhorn": 4,
-          "Victoria Harbour": 3,
-          "Zhongshan Station": 3,
-          "Dubai Frame": 3,
-          "Jeju Island": 3,
-          "Guishan Island": 3,
-          "Milan Cathedral": 3,
-          "Eiffel Tower": 3,
-          "Taipei Dome": 3,
-          "Dream Mall": 3,
-          "Costco": 3
-        },
         "animalDetect": {
           "None": 5319,
           "Cartoon / animated animal": 317,
@@ -984,71 +962,27 @@
           "Cow": 9,
           "Snake": 7
         },
-        "foodsDetect": {
-          "None": 3755,
-          "Meat / beef / pork / chicken": 865,
-          "Vegetables": 864,
-          "Dessert / cake / cookies": 767,
-          "Beverage / juice": 660,
-          "Fruit": 467,
-          "Seafood / fish / shrimp": 466,
-          "Prepared meal / plated dish": 385,
-          "Rice / grains": 381,
-          "Snack / chips / candy": 375,
-          "Soup / hotpot / curry": 367,
-          "Bread / pastry": 350,
-          "Noodles / ramen / pasta": 349,
-          "Egg": 314,
-          "Coffee": 275,
-          "Tea": 256,
-          "Fast food / burger / fries / pizza": 240,
-          "Condiments / sauce": 233,
-          "Alcohol": 165,
-          "Dairy / yogurt / cheese ": 161
-        },
-        "instrumentsVisible": {
-          "None": 6372,
-          "Piano": 42,
-          "Electronic Keyboard / Synthesizer": 27,
-          "Guitar": 25,
-          "Drum Kit / Drum Set": 16,
-          "Electric Guitar": 9,
-          "Violin": 7,
-          "Flute": 6,
-          "Other Percussion Instrument": 4,
-          "Chinese Drum": 4,
-          "Other Woodwind Instrument": 4,
-          "Gong": 3,
-          "Xylophone": 3,
-          "Saxophone": 2,
-          "Trumpet": 2,
-          "Electric Bass": 2,
-          "Other String Instrument": 2,
-          "Cello": 2,
-          "Harmonica": 1,
-          "Triangle": 1
-        },
-        "techDetect": {
-          "Smartphone": 2600,
-          "None": 2177,
-          "Microphone / lavalier mic": 1180,
-          "Laptop": 565,
-          "Desktop computer / monitor": 531,
-          "TV / display screen": 386,
-          "Kitchen appliance": 302,
-          "Home appliance": 299,
-          "Headphones / earbuds": 271,
-          "Lighting equipment / ring light": 240,
-          "Camera / DSLR": 188,
-          "Other": 187,
-          "Smartwatch / wearable": 179,
-          "Tablet": 171,
-          "Keyboard / mouse": 131,
-          "Tripod / stabilizer": 85,
-          "Tech on packaging / logo": 63,
-          "Speaker / audio device": 55,
-          "Action camera": 46,
-          "Smartwatch": 46
+        "landmark": {
+          "None": 5998,
+          "Taipei 101": 58,
+          "Statue of Liberty": 15,
+          "Tokyo Skytree": 7,
+          "Mount Fuji": 5,
+          "Tokyo Tower": 5,
+          "Duomo di Milano": 4,
+          "Ximending": 4,
+          "Universal Studios Japan": 4,
+          "Matterhorn": 4,
+          "Victoria Harbour": 3,
+          "Zhongshan Station": 3,
+          "Dubai Frame": 3,
+          "Jeju Island": 3,
+          "Guishan Island": 3,
+          "Milan Cathedral": 3,
+          "Eiffel Tower": 3,
+          "Taipei Dome": 3,
+          "Dream Mall": 3,
+          "Costco": 3
         },
         "brandLogos": {
           "None": 1075,
@@ -1072,6 +1006,28 @@
           "7-Eleven": 42,
           "葳老闆的辣雞湯": 42
         },
+        "instrumentsVisible": {
+          "None": 6372,
+          "Piano": 42,
+          "Electronic Keyboard / Synthesizer": 27,
+          "Guitar": 25,
+          "Drum Kit / Drum Set": 16,
+          "Electric Guitar": 9,
+          "Violin": 7,
+          "Flute": 6,
+          "Other Percussion Instrument": 4,
+          "Chinese Drum": 4,
+          "Other Woodwind Instrument": 4,
+          "Gong": 3,
+          "Xylophone": 3,
+          "Saxophone": 2,
+          "Trumpet": 2,
+          "Electric Bass": 2,
+          "Other String Instrument": 2,
+          "Cello": 2,
+          "Harmonica": 1,
+          "Triangle": 1
+        },
         "trafficDetect": {
           "None": 5245,
           "Car": 622,
@@ -1093,6 +1049,50 @@
           "Traffic on packaging / logo": 6,
           "Cartoon / animated Traffic": 4,
           "Scooter": 2
+        },
+        "foodsDetect": {
+          "None": 3755,
+          "Meat / beef / pork / chicken": 865,
+          "Vegetables": 864,
+          "Dessert / cake / cookies": 767,
+          "Beverage / juice": 660,
+          "Fruit": 467,
+          "Seafood / fish / shrimp": 466,
+          "Prepared meal / plated dish": 385,
+          "Rice / grains": 381,
+          "Snack / chips / candy": 375,
+          "Soup / hotpot / curry": 367,
+          "Bread / pastry": 350,
+          "Noodles / ramen / pasta": 349,
+          "Egg": 314,
+          "Coffee": 275,
+          "Tea": 256,
+          "Fast food / burger / fries / pizza": 240,
+          "Condiments / sauce": 233,
+          "Alcohol": 165,
+          "Dairy / yogurt / cheese ": 161
+        },
+        "techDetect": {
+          "Smartphone": 2600,
+          "None": 2177,
+          "Microphone / lavalier mic": 1180,
+          "Laptop": 565,
+          "Desktop computer / monitor": 531,
+          "TV / display screen": 386,
+          "Kitchen appliance": 302,
+          "Home appliance": 299,
+          "Headphones / earbuds": 271,
+          "Lighting equipment / ring light": 240,
+          "Camera / DSLR": 188,
+          "Other": 187,
+          "Smartwatch / wearable": 179,
+          "Tablet": 171,
+          "Keyboard / mouse": 131,
+          "Tripod / stabilizer": 85,
+          "Tech on packaging / logo": 63,
+          "Speaker / audio device": 55,
+          "Action camera": 46,
+          "Smartwatch": 46
         }
       },
       "visual_base_visual_scene_and_style": {
@@ -1108,8 +1108,27 @@
           "Summer / Autumn": 3,
           "Winter / Spring": 1
         },
-        "isMultipleBackground": {
-          "True": 4243
+        "locationCategory": {
+          "Studio": 2115,
+          "Outdoor Street": 1349,
+          "Indoor Home": 1328,
+          "Indoor Living Room": 1215,
+          "Office / Workplace": 777,
+          "Restaurant / Dining": 737,
+          "Retail Store": 639,
+          "Digital Interface / Screen Capture": 523,
+          "Indoor Kitchen": 502,
+          "Park / Garden": 307,
+          "Indoor Bedroom": 298,
+          "Animation / Graphic Background": 257,
+          "Stage / Performance Venue": 253,
+          "Supermarket / Warehouse Store": 231,
+          "Car / Van Interior": 196,
+          "Cafe / Tea Shop": 177,
+          "Indoor Bathroom": 172,
+          "Event Venue / Convention Hall": 163,
+          "Shopping Mall / Department Store": 160,
+          "Tourist Attraction / Landmark": 144
         },
         "locationTopography": {
           "Plain / Flat Urban": 2528,
@@ -1132,26 +1151,6 @@
           "Island": 17,
           "Desert / Sand": 13,
           "Valley": 12
-        },
-        "lightingStyle": {
-          "Bright indoor lighting": 3312,
-          "Bright studio lighting": 2516,
-          "Natural daylight": 1748,
-          "Warm indoor lighting": 617,
-          "Night artificial light": 316,
-          "Mixed natural and artificial light": 283,
-          "Flat animation lighting": 189,
-          "Dim / low light": 166,
-          "Neon / colored light": 165,
-          "Soft indoor lighting": 162,
-          "High-contrast cinematic lighting": 108,
-          "Cloudy / Overcast": 21,
-          "Backlit / silhouette": 7,
-          "Bright and colorful": 2,
-          "Sunset / Golden hour": 1,
-          "Cinematic": 1,
-          "Bright natural light": 1,
-          "Bright retail lighting": 1
         },
         "weather": {
           "Indoor / not visible": 4181,
@@ -1186,33 +1185,31 @@
           "Night artificial light": 1,
           "Clean": 1
         },
-        "locationCategory": {
-          "Studio": 2115,
-          "Outdoor Street": 1349,
-          "Indoor Home": 1328,
-          "Indoor Living Room": 1215,
-          "Office / Workplace": 777,
-          "Restaurant / Dining": 737,
-          "Retail Store": 639,
-          "Digital Interface / Screen Capture": 523,
-          "Indoor Kitchen": 502,
-          "Park / Garden": 307,
-          "Indoor Bedroom": 298,
-          "Animation / Graphic Background": 257,
-          "Stage / Performance Venue": 253,
-          "Supermarket / Warehouse Store": 231,
-          "Car / Van Interior": 196,
-          "Cafe / Tea Shop": 177,
-          "Indoor Bathroom": 172,
-          "Event Venue / Convention Hall": 163,
-          "Shopping Mall / Department Store": 160,
-          "Tourist Attraction / Landmark": 144
+        "lightingStyle": {
+          "Bright indoor lighting": 3312,
+          "Bright studio lighting": 2516,
+          "Natural daylight": 1748,
+          "Warm indoor lighting": 617,
+          "Night artificial light": 316,
+          "Mixed natural and artificial light": 283,
+          "Flat animation lighting": 189,
+          "Dim / low light": 166,
+          "Neon / colored light": 165,
+          "Soft indoor lighting": 162,
+          "High-contrast cinematic lighting": 108,
+          "Cloudy / Overcast": 21,
+          "Backlit / silhouette": 7,
+          "Bright and colorful": 2,
+          "Sunset / Golden hour": 1,
+          "Cinematic": 1,
+          "Bright natural light": 1,
+          "Bright retail lighting": 1
+        },
+        "isMultipleBackground": {
+          "True": 4243
         }
       },
       "visual_base_visual_text_overlay": {
-        "isSubtitled": {
-          "True": 6426
-        },
         "textLanguage": {
           "Traditional Chinese": 6451,
           "English": 4351,
@@ -1232,6 +1229,9 @@
           "Medium": 2205,
           "Low": 28,
           "None": 3
+        },
+        "isSubtitled": {
+          "True": 6426
         }
       }
     }
@@ -1314,6 +1314,9 @@
         }
       },
       "endorsement_analysis": {
+        "isEndorsement": {
+          "True": 1393
+        },
         "endorsementMethod": {
           "None": 2783,
           "Integrated": 818,
@@ -1328,31 +1331,6 @@
           "Explicit / Integrated": 2,
           "Implicit/Integrated": 1,
           "Explicit and Full": 1
-        },
-        "isEndorsement": {
-          "True": 1393
-        },
-        "endorsementCues": {
-          "None": 2284,
-          "No specific products or brands are promoted.": 3,
-          "No explicit brand mentions or promotional calls to action are present.": 2,
-          "No products are promoted; the clothing logo appears as a standard personal item.": 1,
-          "There are no specific brand promotions or products highlighted as endorsements.": 1,
-          "Clothing brand visible but not presented as a formal advertisement.": 1,
-          "Personal purchase unboxing format without explicit sponsorship disclosure.": 1,
-          "Personal unboxing and hobby showcase without explicit promotional script.": 1,
-          "No brands are mentioned or clearly displayed.": 1,
-          "Prominent branding on equipment handles throughout the training sequence.": 1,
-          "No products or services are explicitly or implicitly endorsed.": 1,
-          "Visibility of professional gym equipment and branded fitness apparel.": 1,
-          "No specific products or services are being promoted; it's a comedic skit.": 1,
-          "No explicit promotion; brand logos are incidental clothing wear.": 1,
-          "Branded clothing is worn but not explicitly promoted.": 1,
-          "Visible luxury branding on the subject's earrings (Chanel logos).": 1,
-          "No specific brand mention or promotional call-to-action is present.": 1,
-          "No explicit call to action or verbal endorsement of a product is present.": 1,
-          "Subject is wearing Chanel brand earrings clearly showcased to the camera.": 1,
-          "Prominent display of a Chanel handbag and posing in front of a ZARA store.": 1
         },
         "endorsementObject": {
           "None": 2775,
@@ -1375,31 +1353,31 @@
           "Nintendo Switch": 8,
           "美上美皮膚科診所": 8,
           "Flash Wolves": 8
+        },
+        "endorsementCues": {
+          "None": 2284,
+          "No specific products or brands are promoted.": 3,
+          "No explicit brand mentions or promotional calls to action are present.": 2,
+          "No products are promoted; the clothing logo appears as a standard personal item.": 1,
+          "There are no specific brand promotions or products highlighted as endorsements.": 1,
+          "Clothing brand visible but not presented as a formal advertisement.": 1,
+          "Personal purchase unboxing format without explicit sponsorship disclosure.": 1,
+          "Personal unboxing and hobby showcase without explicit promotional script.": 1,
+          "No brands are mentioned or clearly displayed.": 1,
+          "Prominent branding on equipment handles throughout the training sequence.": 1,
+          "No products or services are explicitly or implicitly endorsed.": 1,
+          "Visibility of professional gym equipment and branded fitness apparel.": 1,
+          "No specific products or services are being promoted; it's a comedic skit.": 1,
+          "No explicit promotion; brand logos are incidental clothing wear.": 1,
+          "Branded clothing is worn but not explicitly promoted.": 1,
+          "Visible luxury branding on the subject's earrings (Chanel logos).": 1,
+          "No specific brand mention or promotional call-to-action is present.": 1,
+          "No explicit call to action or verbal endorsement of a product is present.": 1,
+          "Subject is wearing Chanel brand earrings clearly showcased to the camera.": 1,
+          "Prominent display of a Chanel handbag and posing in front of a ZARA store.": 1
         }
       },
       "narrative_and_purpose": {
-        "visualEmotion": {
-          "energetic": 3329,
-          "warm": 2594,
-          "humorous": 1768,
-          "informative": 1134,
-          "calm": 346,
-          "joyful": 207,
-          "flirtatious": 131,
-          "cheerful": 124,
-          "tense": 95,
-          "confident": 95,
-          "focused": 89,
-          "Energetic": 54,
-          "Humorous": 51,
-          "vibrant": 49,
-          "professional": 45,
-          "cool": 44,
-          "playful": 42,
-          "Warm": 39,
-          "dramatic": 35,
-          "peaceful": 21
-        },
         "narrativeStructure": {
           "Linear: Hook -> Evidence": 43,
           "Montage: Hook -> Demonstration -> Resolution": 17,
@@ -1421,20 +1399,38 @@
           "List-based: Hook -> Evidence -> Conclusion": 7,
           "Montage: Hook -> Transition -> Result": 7,
           "Linear: Performance -> Conclusion": 7
+        },
+        "visualEmotion": {
+          "energetic": 3329,
+          "warm": 2594,
+          "humorous": 1768,
+          "informative": 1134,
+          "calm": 346,
+          "joyful": 207,
+          "flirtatious": 131,
+          "cheerful": 124,
+          "tense": 95,
+          "confident": 95,
+          "focused": 89,
+          "Energetic": 54,
+          "Humorous": 51,
+          "vibrant": 49,
+          "professional": 45,
+          "cool": 44,
+          "playful": 42,
+          "Warm": 39,
+          "dramatic": 35,
+          "peaceful": 21
         }
       },
       "temporal_pacing_summary": {
+        "isNarrativeShift": {
+          "True": 1911
+        },
         "editingPace": {
           "Moderate": 1786,
           "Fast": 1623,
           "Slow": 770
-        },
-        "sceneCutCount": {
-          "min": 0.0,
-          "max": 85.0,
-          "mean": 9.17,
-          "avg": 9.17,
-          "std": 10.69
         },
         "averageSceneDuration": {
           "min": 0.58,
@@ -1443,11 +1439,22 @@
           "avg": 6.58,
           "std": 10.23
         },
-        "isNarrativeShift": {
-          "True": 1911
+        "sceneCutCount": {
+          "min": 0.0,
+          "max": 85.0,
+          "mean": 9.17,
+          "avg": 9.17,
+          "std": 10.69
         }
       },
       "audio_base_editing_and_production_style": {
+        "audioEventDensity": {
+          "min": 0.0,
+          "max": 5.0,
+          "mean": 3.01,
+          "avg": 3.01,
+          "std": 0.97
+        },
         "speechDensity": {
           "min": 0.0,
           "max": 5.0,
@@ -1455,15 +1462,38 @@
           "avg": 0.79,
           "std": 1.4
         },
-        "hasStrategicSilence": {
-          "True": 240
-        },
-        "audioCutFrequency": {
+        "vocalRatio": {
           "min": 0.0,
           "max": 5.0,
-          "mean": 1.73,
-          "avg": 1.73,
-          "std": 1.5
+          "mean": 1.17,
+          "avg": 1.17,
+          "std": 1.85
+        },
+        "audioTransition": {
+          "Hard cut": 2886,
+          "None": 1061,
+          "Fade out": 218,
+          "Stingers": 103,
+          "Fades": 41,
+          "Cross-fade": 37,
+          "Fade in": 10,
+          "Fade in / fade out": 6,
+          "Whoosh / Transition SFX": 3,
+          "Risers": 2,
+          "Whoosh": 1
+        },
+        "audioQuality": {
+          "Studio": 1928,
+          "Compressed/Broadcast": 1720,
+          "Field Recording": 349,
+          "Mixed": 166,
+          "Low-fi/Phone": 15,
+          "None": 6,
+          "Compressed / Broadcast": 2,
+          "Indoor/RoomTone": 1
+        },
+        "hasStrategicSilence": {
+          "True": 240
         },
         "musicDuration": {
           "min": 0.0,
@@ -1479,39 +1509,12 @@
           "avg": 2.65,
           "std": 0.56
         },
-        "vocalRatio": {
+        "audioCutFrequency": {
           "min": 0.0,
           "max": 5.0,
-          "mean": 1.17,
-          "avg": 1.17,
-          "std": 1.85
-        },
-        "speechMusicOverlap": {
-          "min": 0.0,
-          "max": 5.0,
-          "mean": 0.94,
-          "avg": 0.94,
-          "std": 1.78
-        },
-        "audioEventDensity": {
-          "min": 0.0,
-          "max": 5.0,
-          "mean": 3.01,
-          "avg": 3.01,
-          "std": 0.97
-        },
-        "audioQuality": {
-          "Studio": 1928,
-          "Compressed/Broadcast": 1720,
-          "Field Recording": 349,
-          "Mixed": 166,
-          "Low-fi/Phone": 15,
-          "None": 6,
-          "Compressed / Broadcast": 2,
-          "Indoor/RoomTone": 1
-        },
-        "isAudioEditingFragmented": {
-          "True": 1162
+          "mean": 1.73,
+          "avg": 1.73,
+          "std": 1.5
         },
         "musicToSpeechLoudRatio": {
           "min": 0.0,
@@ -1520,31 +1523,18 @@
           "avg": 1.58,
           "std": 1.94
         },
-        "audioTransition": {
-          "Hard cut": 2886,
-          "None": 1061,
-          "Fade out": 218,
-          "Stingers": 103,
-          "Fades": 41,
-          "Cross-fade": 37,
-          "Fade in": 10,
-          "Fade in / fade out": 6,
-          "Whoosh / Transition SFX": 3,
-          "Risers": 2,
-          "Whoosh": 1
+        "speechMusicOverlap": {
+          "min": 0.0,
+          "max": 5.0,
+          "mean": 0.94,
+          "avg": 0.94,
+          "std": 1.78
+        },
+        "isAudioEditingFragmented": {
+          "True": 1162
         }
       },
       "audio_base_music_basic_features": {
-        "musicPresence": {
-          "True": 3973
-        },
-        "tempoBPM": {
-          "min": 0.0,
-          "max": 220.0,
-          "mean": 114.42,
-          "avg": 114.42,
-          "std": 31.22
-        },
         "mode": {
           "Major / Ionian": 3542,
           "Minor / Aeolian": 400,
@@ -1553,6 +1543,13 @@
           "Atonal/Ambiguous": 9,
           "Chromatic/Dissonant": 9,
           "Unknown": 1
+        },
+        "tempoBPM": {
+          "min": 0.0,
+          "max": 220.0,
+          "mean": 114.42,
+          "avg": 114.42,
+          "std": 31.22
         },
         "bgmGenre": {
           "Pop": 1990,
@@ -1575,6 +1572,9 @@
           "R&B/Soul": 32,
           "Anime / J-Pop": 21,
           "Comedy": 4
+        },
+        "musicPresence": {
+          "True": 3973
         }
       },
       "audio_base_music_structures": {
@@ -1585,12 +1585,34 @@
           "avg": 1.74,
           "std": 0.77
         },
-        "beatStrength": {
+        "instrumentFamiliesAudible": {
+          "Percussion": 3216,
+          "Synthesizer": 2600,
+          "Electronic": 2477,
+          "String": 997,
+          "Keyboard": 639,
+          "None": 213,
+          "Woodwind": 183,
+          "Brass": 117,
+          "Strings": 22,
+          "Acoustic": 8,
+          "Orchestral": 5,
+          "Drums": 4,
+          "Electric": 3,
+          "Guitar": 3,
+          "Piano": 2,
+          "Electric Guitar": 2,
+          "Other Chinese Instrument": 1,
+          "Bass": 1,
+          "Acoustic Guitar": 1,
+          "Other Electronic Instrument": 1
+        },
+        "musicPauseDensity": {
           "min": 0.0,
           "max": 5.0,
-          "mean": 3.65,
-          "avg": 3.65,
-          "std": 1.16
+          "mean": 0.78,
+          "avg": 0.78,
+          "std": 0.51
         },
         "instrumentsAudible": {
           "Electronic Keyboard / Synthesizer": 2864,
@@ -1614,6 +1636,13 @@
           "Other Woodwind Instrument": 20,
           "Double Bass / Contrabass": 20
         },
+        "beatStrength": {
+          "min": 0.0,
+          "max": 5.0,
+          "mean": 3.65,
+          "avg": 3.65,
+          "std": 1.16
+        },
         "musicSourceType": {
           "Copyrighted/Commercial": 1859,
           "Stock/Royalty-Free": 1722,
@@ -1628,64 +1657,9 @@
           "Studio/Royalty-Free": 1,
           "Cover / Remix": 1,
           "Commercial/Copyrighted": 1
-        },
-        "musicPauseDensity": {
-          "min": 0.0,
-          "max": 5.0,
-          "mean": 0.78,
-          "avg": 0.78,
-          "std": 0.51
-        },
-        "instrumentFamiliesAudible": {
-          "Percussion": 3216,
-          "Synthesizer": 2600,
-          "Electronic": 2477,
-          "String": 997,
-          "Keyboard": 639,
-          "None": 213,
-          "Woodwind": 183,
-          "Brass": 117,
-          "Strings": 22,
-          "Acoustic": 8,
-          "Orchestral": 5,
-          "Drums": 4,
-          "Electric": 3,
-          "Guitar": 3,
-          "Piano": 2,
-          "Electric Guitar": 2,
-          "Other Chinese Instrument": 1,
-          "Bass": 1,
-          "Acoustic Guitar": 1,
-          "Other Electronic Instrument": 1
         }
       },
       "audio_base_music_vocal_census": {
-        "female_singer_count": {
-          "min": 0.0,
-          "max": 15.0,
-          "mean": 0.37,
-          "avg": 0.37,
-          "std": 0.75
-        },
-        "bgmLanguage": {
-          "None": 1992,
-          "English": 1513,
-          "Japanese": 287,
-          "Korean": 244,
-          "Other": 97,
-          "Traditional Chinese": 90,
-          "Simplified Chinese": 31,
-          "Mandarin": 21,
-          "Vietnamese": 14,
-          "Unknown": 13,
-          "Spanish": 10,
-          "Italian": 5,
-          "Portuguese": 4,
-          "French": 4,
-          "Thai": 2,
-          "Turkish": 1,
-          "Russian": 1
-        },
         "male_singer_count": {
           "min": 0.0,
           "max": 7.0,
@@ -1706,63 +1680,55 @@
           "mean": 0.01,
           "avg": 0.01,
           "std": 0.19
+        },
+        "bgmLanguage": {
+          "None": 1992,
+          "English": 1513,
+          "Japanese": 287,
+          "Korean": 244,
+          "Other": 97,
+          "Traditional Chinese": 90,
+          "Simplified Chinese": 31,
+          "Mandarin": 21,
+          "Vietnamese": 14,
+          "Unknown": 13,
+          "Spanish": 10,
+          "Italian": 5,
+          "Portuguese": 4,
+          "French": 4,
+          "Thai": 2,
+          "Turkish": 1,
+          "Russian": 1
+        },
+        "female_singer_count": {
+          "min": 0.0,
+          "max": 15.0,
+          "mean": 0.37,
+          "avg": 0.37,
+          "std": 0.75
         }
       },
       "audio_base_noise_and_SFX_detect": {
-        "soundEffectsDetails": {
-          "None": 2049,
-          "Whoosh / Transition SFX": 912,
-          "Impact / Hit SFX": 812,
-          "Pop / Bubble SFX": 646,
-          "Ding / Bell SFX": 596,
-          "Cartoon / Comedy SFX": 521,
-          "Digital UI SFX": 266,
-          "Meme SFX": 102,
-          "Sparkle / Magic SFX": 87,
-          "Other": 86,
-          "Human Vocal SFX": 51,
-          "Applause / Laugh Track SFX": 26,
-          "Camera Shutter / Camera Operation": 20,
-          "Stinger SFX": 20,
-          "Cinematic Boom SFX": 18,
-          "Rewind / Tape Stop SFX": 13,
-          "Riser / Build-up SFX": 9,
-          "Mechanical Click / Latch": 9,
-          "Glitch / Digital Distortion SFX": 8,
-          "Record Scratch SFX": 6
-        },
-        "soundEffectsCoverage": {
+        "SignalToNoiseRatio": {
           "min": 0.0,
           "max": 5.0,
-          "mean": 1.34,
-          "avg": 1.34,
+          "mean": 4.64,
+          "avg": 4.64,
+          "std": 0.53
+        },
+        "crowdNoiseIntensity": {
+          "min": 0.0,
+          "max": 5.0,
+          "mean": 0.32,
+          "avg": 0.32,
+          "std": 0.88
+        },
+        "soundEffectsIntensity": {
+          "min": 0.0,
+          "max": 5.0,
+          "mean": 1.55,
+          "avg": 1.55,
           "std": 1.62
-        },
-        "incidentalNoiseIntensity": {
-          "min": 0.0,
-          "max": 5.0,
-          "mean": 0.66,
-          "avg": 0.66,
-          "std": 1.08
-        },
-        "crowdNoiseDetails": {
-          "None": 3594,
-          "Cheering": 263,
-          "Laughter": 247,
-          "Crowd Murmur": 169,
-          "Applause": 107,
-          "Chatter": 95,
-          "Screaming/Yelling": 91,
-          "Chanting": 12,
-          "Other": 2,
-          "Applause / Laugh Track SFX": 1
-        },
-        "ambientNoiseIntensity": {
-          "min": 0.0,
-          "max": 4.0,
-          "mean": 0.74,
-          "avg": 0.74,
-          "std": 0.62
         },
         "incidentalNoiseDetails": {
           "None": 2872,
@@ -1786,26 +1752,12 @@
           "Ceramics / Glass Clink": 14,
           "Firecrackers / Fireworks / Explosion": 13
         },
-        "SignalToNoiseRatio": {
+        "soundEffectsCoverage": {
           "min": 0.0,
           "max": 5.0,
-          "mean": 4.64,
-          "avg": 4.64,
-          "std": 0.53
-        },
-        "soundEffectsIntensity": {
-          "min": 0.0,
-          "max": 5.0,
-          "mean": 1.55,
-          "avg": 1.55,
+          "mean": 1.34,
+          "avg": 1.34,
           "std": 1.62
-        },
-        "crowdNoiseIntensity": {
-          "min": 0.0,
-          "max": 5.0,
-          "mean": 0.32,
-          "avg": 0.32,
-          "std": 0.88
         },
         "ambientNoiseDetails": {
           "StudioSilence": 2949,
@@ -1825,11 +1777,63 @@
           "Outdoor/PointSource": 1,
           "Harbor / Waterfront": 1,
           "Outdoor/Street": 1
+        },
+        "incidentalNoiseIntensity": {
+          "min": 0.0,
+          "max": 5.0,
+          "mean": 0.66,
+          "avg": 0.66,
+          "std": 1.08
+        },
+        "ambientNoiseIntensity": {
+          "min": 0.0,
+          "max": 4.0,
+          "mean": 0.74,
+          "avg": 0.74,
+          "std": 0.62
+        },
+        "soundEffectsDetails": {
+          "None": 2049,
+          "Whoosh / Transition SFX": 912,
+          "Impact / Hit SFX": 812,
+          "Pop / Bubble SFX": 646,
+          "Ding / Bell SFX": 596,
+          "Cartoon / Comedy SFX": 521,
+          "Digital UI SFX": 266,
+          "Meme SFX": 102,
+          "Sparkle / Magic SFX": 87,
+          "Other": 86,
+          "Human Vocal SFX": 51,
+          "Applause / Laugh Track SFX": 26,
+          "Camera Shutter / Camera Operation": 20,
+          "Stinger SFX": 20,
+          "Cinematic Boom SFX": 18,
+          "Rewind / Tape Stop SFX": 13,
+          "Riser / Build-up SFX": 9,
+          "Mechanical Click / Latch": 9,
+          "Glitch / Digital Distortion SFX": 8,
+          "Record Scratch SFX": 6
+        },
+        "crowdNoiseDetails": {
+          "None": 3594,
+          "Cheering": 263,
+          "Laughter": 247,
+          "Crowd Murmur": 169,
+          "Applause": 107,
+          "Chatter": 95,
+          "Screaming/Yelling": 91,
+          "Chanting": 12,
+          "Other": 2,
+          "Applause / Laugh Track SFX": 1
         }
       },
       "audio_base_spectral_and_acoustic": {
-        "hasAudioDistortion": {
-          "True": 14
+        "acousticDynamism": {
+          "min": 0.0,
+          "max": 5.0,
+          "mean": 3.44,
+          "avg": 3.44,
+          "std": 0.68
         },
         "noisinessAndPercussiveness": {
           "min": 0.0,
@@ -1845,12 +1849,8 @@
           "avg": 4.33,
           "std": 0.59
         },
-        "acousticDynamism": {
-          "min": 0.0,
-          "max": 5.0,
-          "mean": 3.44,
-          "avg": 3.44,
-          "std": 0.68
+        "hasAudioDistortion": {
+          "True": 14
         },
         "spectralCentroidBrightness": {
           "min": 0.0,
@@ -1861,13 +1861,6 @@
         }
       },
       "audio_base_vocal_affective": {
-        "arousal": {
-          "min": 0.0,
-          "max": 9.0,
-          "mean": 2.39,
-          "avg": 2.39,
-          "std": 3.32
-        },
         "dominance": {
           "min": 0.0,
           "max": 9.0,
@@ -1875,18 +1868,32 @@
           "avg": 2.08,
           "std": 2.86
         },
-        "hasVocalTension": {
-          "True": 246
-        },
         "valence": {
           "min": 0.0,
           "max": 9.0,
           "mean": 2.52,
           "avg": 2.52,
           "std": 3.51
+        },
+        "hasVocalTension": {
+          "True": 246
+        },
+        "arousal": {
+          "min": 0.0,
+          "max": 9.0,
+          "mean": 2.39,
+          "avg": 2.39,
+          "std": 3.32
         }
       },
       "audio_base_vocal_census": {
+        "male_vocal_count": {
+          "min": 0.0,
+          "max": 10.0,
+          "mean": 0.27,
+          "avg": 0.27,
+          "std": 0.67
+        },
         "female_vocal_count": {
           "min": 0.0,
           "max": 15.0,
@@ -1894,12 +1901,12 @@
           "avg": 0.34,
           "std": 0.85
         },
-        "dominant_speakers_count": {
+        "total_distinct_voices": {
           "min": 0.0,
-          "max": 10.0,
-          "mean": 0.34,
-          "avg": 0.34,
-          "std": 0.68
+          "max": 20.0,
+          "mean": 0.66,
+          "avg": 0.66,
+          "std": 1.32
         },
         "kids_vocal_count": {
           "min": 0.0,
@@ -1908,29 +1915,15 @@
           "avg": 0.03,
           "std": 0.25
         },
-        "male_vocal_count": {
+        "dominant_speakers_count": {
           "min": 0.0,
           "max": 10.0,
-          "mean": 0.27,
-          "avg": 0.27,
-          "std": 0.67
-        },
-        "total_distinct_voices": {
-          "min": 0.0,
-          "max": 20.0,
-          "mean": 0.66,
-          "avg": 0.66,
-          "std": 1.32
+          "mean": 0.34,
+          "avg": 0.34,
+          "std": 0.68
         }
       },
       "audio_base_vocal_prosody": {
-        "intensityAndLoudness": {
-          "min": 0.0,
-          "max": 5.0,
-          "mean": 1.21,
-          "avg": 1.21,
-          "std": 1.69
-        },
         "speechPauseDensity": {
           "min": 0.0,
           "max": 5.0,
@@ -1945,55 +1938,34 @@
           "avg": 1.08,
           "std": 1.59
         },
-        "pitchLevel": {
-          "min": 0.0,
-          "max": 5.0,
-          "mean": 1.16,
-          "avg": 1.16,
-          "std": 1.62
-        },
         "pitchVariability": {
           "min": 0.0,
           "max": 5.0,
           "mean": 1.23,
           "avg": 1.23,
           "std": 1.73
+        },
+        "intensityAndLoudness": {
+          "min": 0.0,
+          "max": 5.0,
+          "mean": 1.21,
+          "avg": 1.21,
+          "std": 1.69
+        },
+        "pitchLevel": {
+          "min": 0.0,
+          "max": 5.0,
+          "mean": 1.16,
+          "avg": 1.16,
+          "std": 1.62
         }
       },
       "audio_base_vocal_voice_quality": {
-        "intonationAndContour": {
-          "None": 2749,
-          "Complex": 1005,
-          "Rising": 248,
-          "Level": 118,
-          "Falling": 67
-        },
-        "speakingFallingRatio": {
-          "min": 0.0,
-          "max": 5.0,
-          "mean": 0.79,
-          "avg": 0.79,
-          "std": 1.2
-        },
-        "vocalLanguage": {
-          "None": 2869,
-          "English": 575,
-          "Traditional Chinese": 476,
-          "Japanese": 135,
-          "Korean": 92,
-          "Mandarin": 79,
-          "Other": 50,
-          "Simplified Chinese": 33,
-          "Unknown": 10,
-          "Vietnamese": 5,
-          "Spanish": 5,
-          "Thai": 3,
-          "French": 2,
-          "Hokkien": 1,
-          "Italian": 1
-        },
         "hasBreathiness": {
           "True": 137
+        },
+        "hasRoughness": {
+          "True": 76
         },
         "tone": {
           "None": 2696,
@@ -2014,8 +1986,22 @@
           "Amused": 1,
           "Exaggerated": 1
         },
-        "hasStrain": {
-          "True": 190
+        "vocalLanguage": {
+          "None": 2869,
+          "English": 575,
+          "Traditional Chinese": 476,
+          "Japanese": 135,
+          "Korean": 92,
+          "Mandarin": 79,
+          "Other": 50,
+          "Simplified Chinese": 33,
+          "Unknown": 10,
+          "Vietnamese": 5,
+          "Spanish": 5,
+          "Thai": 3,
+          "French": 2,
+          "Hokkien": 1,
+          "Italian": 1
         },
         "articulationClarity": {
           "min": 0.0,
@@ -2024,25 +2010,32 @@
           "avg": 1.35,
           "std": 1.96
         },
+        "intonationAndContour": {
+          "None": 2749,
+          "Complex": 1005,
+          "Rising": 248,
+          "Level": 118,
+          "Falling": 67
+        },
+        "hasStrain": {
+          "True": 190
+        },
+        "speakingFallingRatio": {
+          "min": 0.0,
+          "max": 5.0,
+          "mean": 0.79,
+          "avg": 0.79,
+          "std": 1.2
+        },
         "speakingRisingRatio": {
           "min": 0.0,
           "max": 5.0,
           "mean": 1.0,
           "avg": 1.0,
           "std": 1.48
-        },
-        "hasRoughness": {
-          "True": 76
         }
       },
       "basic_metadata": {
-        "videoDuration": {
-          "min": 1.0,
-          "max": 243.0,
-          "mean": 28.74,
-          "avg": 28.74,
-          "std": 24.75
-        },
         "aspectRatio": {
           "9:16": 4025,
           "16:9": 73,
@@ -2052,6 +2045,13 @@
           "4:5": 2,
           "21:9": 2,
           "Other": 1
+        },
+        "videoDuration": {
+          "min": 1.0,
+          "max": 243.0,
+          "mean": 28.74,
+          "avg": 28.74,
+          "std": 24.75
         }
       },
       "visual_base": {
@@ -2060,6 +2060,18 @@
         }
       },
       "visual_base_visual_filming_and_editing": {
+        "visualRhythm": {
+          "Natural pace": 1544,
+          "Fast pace": 1517,
+          "Rhythm matched to music": 982,
+          "Slow pace": 109,
+          "Highly dynamic / rapid montage": 85,
+          "Very slow pace": 45,
+          "Single continuous take": 28,
+          "Very fast pace": 8,
+          "Rhythm matched to speech": 8,
+          "Moderate pace": 1
+        },
         "cameraAngles": {
           "Eye-level": 3929,
           "High angle": 706,
@@ -2079,38 +2091,6 @@
           "None": 1,
           "Top-down": 1,
           "Aerial view": 1
-        },
-        "shotSize": {
-          "Medium shot": 2640,
-          "Close-up": 1946,
-          "Full shot": 1362,
-          "Medium full shot": 947,
-          "Medium close-up": 701,
-          "Wide shot": 358,
-          "Extreme close-up": 312,
-          "Long shot": 234,
-          "Insert shot": 144,
-          "Extreme long shot": 42,
-          "Macro close-up": 37,
-          "Screen / interface close-up": 33,
-          "Establishing shot": 27,
-          "POV / first-person view": 25,
-          "Group shot": 16,
-          "Face close-up": 14,
-          "Top-down / overhead": 8,
-          "High angle": 4,
-          "High shot": 3,
-          "Point of view": 3
-        },
-        "takeStructure": {
-          "Multiple shots": 2721,
-          "Single continuous take": 795,
-          "Compilation / montage sequence": 581,
-          "Looped short-form sequence": 94,
-          "Multi-camera / cutaway": 37,
-          "Screen capture sequence": 19,
-          "Scene-to-scene sequence": 10,
-          "Montage sequence": 7
         },
         "editingTechniques": {
           "Straight cut": 3000,
@@ -2134,6 +2114,28 @@
           "Rhythm matched to music": 37,
           "Slow cuts": 35
         },
+        "shotSize": {
+          "Medium shot": 2640,
+          "Close-up": 1946,
+          "Full shot": 1362,
+          "Medium full shot": 947,
+          "Medium close-up": 701,
+          "Wide shot": 358,
+          "Extreme close-up": 312,
+          "Long shot": 234,
+          "Insert shot": 144,
+          "Extreme long shot": 42,
+          "Macro close-up": 37,
+          "Screen / interface close-up": 33,
+          "Establishing shot": 27,
+          "POV / first-person view": 25,
+          "Group shot": 16,
+          "Face close-up": 14,
+          "Top-down / overhead": 8,
+          "High angle": 4,
+          "High shot": 3,
+          "Point of view": 3
+        },
         "cameraMovement": {
           "Static": 3428,
           "Panning": 1105,
@@ -2156,26 +2158,38 @@
           "None": 10,
           "Whip pan": 9
         },
-        "visualRhythm": {
-          "Natural pace": 1544,
-          "Fast pace": 1517,
-          "Rhythm matched to music": 982,
-          "Slow pace": 109,
-          "Highly dynamic / rapid montage": 85,
-          "Very slow pace": 45,
-          "Single continuous take": 28,
-          "Very fast pace": 8,
-          "Rhythm matched to speech": 8,
-          "Moderate pace": 1
+        "takeStructure": {
+          "Multiple shots": 2721,
+          "Single continuous take": 795,
+          "Compilation / montage sequence": 581,
+          "Looped short-form sequence": 94,
+          "Multi-camera / cutaway": 37,
+          "Screen capture sequence": 19,
+          "Scene-to-scene sequence": 10,
+          "Montage sequence": 7
         }
       },
       "visual_base_visual_human_presence": {
+        "mainCharacterCount": {
+          "min": 0.0,
+          "max": 15.0,
+          "mean": 1.31,
+          "avg": 1.31,
+          "std": 1.17
+        },
         "kidsDetectAmount": {
           "min": 0.0,
           "max": 15.0,
           "mean": 0.16,
           "avg": 0.16,
           "std": 0.72
+        },
+        "crowdLevel": {
+          "Single": 1714,
+          "Small Group": 864,
+          "Duo": 798,
+          "None": 427,
+          "Crowd": 385
         },
         "maleDetectAmount": {
           "min": 0.0,
@@ -2184,12 +2198,19 @@
           "avg": 1.52,
           "std": 4.0
         },
-        "crowdLevel": {
-          "Single": 1714,
-          "Small Group": 864,
-          "Duo": 798,
-          "None": 427,
-          "Crowd": 385
+        "femaleDetectAmount": {
+          "min": 0.0,
+          "max": 100.0,
+          "mean": 2.18,
+          "avg": 2.18,
+          "std": 4.47
+        },
+        "totalHumanCount": {
+          "min": 0.0,
+          "max": 200.0,
+          "mean": 4.01,
+          "avg": 4.01,
+          "std": 8.61
         },
         "bodyPartVisibility": {
           "Upper body": 2556,
@@ -2207,52 +2228,9 @@
           "Medium full shot": 12,
           "Medium close-up": 2,
           "Legs": 2
-        },
-        "totalHumanCount": {
-          "min": 0.0,
-          "max": 200.0,
-          "mean": 4.01,
-          "avg": 4.01,
-          "std": 8.61
-        },
-        "mainCharacterCount": {
-          "min": 0.0,
-          "max": 15.0,
-          "mean": 1.31,
-          "avg": 1.31,
-          "std": 1.17
-        },
-        "femaleDetectAmount": {
-          "min": 0.0,
-          "max": 100.0,
-          "mean": 2.18,
-          "avg": 2.18,
-          "std": 4.47
         }
       },
       "visual_base_visual_objects_and_brands": {
-        "landmark": {
-          "None": 3786,
-          "Taipei 101": 37,
-          "Tokyo Tower": 12,
-          "Tokyo Skytree": 8,
-          "Victoria Harbour": 7,
-          "Tokyo Station": 7,
-          "Mount Fuji": 7,
-          "Hong Kong Observation Wheel": 5,
-          "Hong Kong Disneyland": 5,
-          "Colosseum": 5,
-          "Shibuya Crossing": 5,
-          "Taipei Dome": 4,
-          "Duomo di Milano": 4,
-          "Gyeongbokgung Palace": 4,
-          "Hong Kong Disneyland Castle": 3,
-          "Senso-ji Temple": 3,
-          "Trevi Fountain": 3,
-          "Sapporo TV Tower": 3,
-          "Hakata Station": 3,
-          "Canal City Hakata": 3
-        },
         "animalDetect": {
           "None": 3099,
           "Cartoon / animated animal": 331,
@@ -2275,71 +2253,27 @@
           "Other": 5,
           "Snake": 4
         },
-        "foodsDetect": {
-          "None": 3040,
-          "Beverage / juice": 347,
-          "Dessert / cake / cookies": 282,
-          "Vegetables": 234,
-          "Meat / beef / pork / chicken": 231,
-          "Fruit": 181,
-          "Snack / chips / candy": 148,
-          "Coffee": 142,
-          "Seafood / fish / shrimp": 136,
-          "Prepared meal / plated dish": 129,
-          "Bread / pastry": 122,
-          "Soup / hotpot / curry": 122,
-          "Noodles / ramen / pasta": 115,
-          "Rice / grains": 104,
-          "Alcohol": 99,
-          "Fast food / burger / fries / pizza": 87,
-          "Egg": 83,
-          "Tea": 82,
-          "Condiments / sauce": 81,
-          "Japanese food / sushi": 45
-        },
-        "instrumentsVisible": {
-          "None": 3912,
-          "Flute": 98,
-          "Piano": 78,
-          "Drum Kit / Drum Set": 36,
-          "Electronic Keyboard / Synthesizer": 36,
-          "Violin": 33,
-          "Electric Guitar": 20,
-          "Other Woodwind Instrument": 14,
-          "Guitar": 13,
-          "Cello": 10,
-          "Trumpet": 9,
-          "Other Percussion Instrument": 7,
-          "Electric Bass": 7,
-          "Saxophone": 6,
-          "Double Bass / Contrabass": 4,
-          "Harmonica": 2,
-          "Other String Instrument": 2,
-          "Other Keyboard Instrument": 2,
-          "Electronic Drum / E-drum": 2,
-          "Erhu": 1
-        },
-        "techDetect": {
-          "None": 2410,
-          "Smartphone": 833,
-          "TV / display screen": 270,
-          "Microphone / lavalier mic": 262,
-          "Home appliance": 182,
-          "Lighting equipment / ring light": 157,
-          "Kitchen appliance": 134,
-          "Desktop computer / monitor": 133,
-          "Camera / DSLR": 111,
-          "Other": 105,
-          "Laptop": 97,
-          "Headphones / earbuds": 81,
-          "Game console / controller": 65,
-          "Keyboard / mouse": 60,
-          "Smartwatch / wearable": 53,
-          "Tripod / stabilizer": 50,
-          "Speaker / audio device": 33,
-          "Tablet": 32,
-          "Action camera": 30,
-          "Electronic Keyboard / Synthesizer": 22
+        "landmark": {
+          "None": 3786,
+          "Taipei 101": 37,
+          "Tokyo Tower": 12,
+          "Tokyo Skytree": 8,
+          "Victoria Harbour": 7,
+          "Tokyo Station": 7,
+          "Mount Fuji": 7,
+          "Hong Kong Observation Wheel": 5,
+          "Hong Kong Disneyland": 5,
+          "Colosseum": 5,
+          "Shibuya Crossing": 5,
+          "Taipei Dome": 4,
+          "Duomo di Milano": 4,
+          "Gyeongbokgung Palace": 4,
+          "Hong Kong Disneyland Castle": 3,
+          "Senso-ji Temple": 3,
+          "Trevi Fountain": 3,
+          "Sapporo TV Tower": 3,
+          "Hakata Station": 3,
+          "Canal City Hakata": 3
         },
         "brandLogos": {
           "None": 2000,
@@ -2363,6 +2297,28 @@
           "DRX Series Skincare": 21,
           "MOCHI DAD": 21
         },
+        "instrumentsVisible": {
+          "None": 3912,
+          "Flute": 98,
+          "Piano": 78,
+          "Drum Kit / Drum Set": 36,
+          "Electronic Keyboard / Synthesizer": 36,
+          "Violin": 33,
+          "Electric Guitar": 20,
+          "Other Woodwind Instrument": 14,
+          "Guitar": 13,
+          "Cello": 10,
+          "Trumpet": 9,
+          "Other Percussion Instrument": 7,
+          "Electric Bass": 7,
+          "Saxophone": 6,
+          "Double Bass / Contrabass": 4,
+          "Harmonica": 2,
+          "Other String Instrument": 2,
+          "Other Keyboard Instrument": 2,
+          "Electronic Drum / E-drum": 2,
+          "Erhu": 1
+        },
         "trafficDetect": {
           "None": 3543,
           "Car": 316,
@@ -2384,6 +2340,50 @@
           "Electric vehicle": 2,
           "Traffic on packaging / logo": 2,
           "Rocket / spacecraft": 1
+        },
+        "foodsDetect": {
+          "None": 3040,
+          "Beverage / juice": 347,
+          "Dessert / cake / cookies": 282,
+          "Vegetables": 234,
+          "Meat / beef / pork / chicken": 231,
+          "Fruit": 181,
+          "Snack / chips / candy": 148,
+          "Coffee": 142,
+          "Seafood / fish / shrimp": 136,
+          "Prepared meal / plated dish": 129,
+          "Bread / pastry": 122,
+          "Soup / hotpot / curry": 122,
+          "Noodles / ramen / pasta": 115,
+          "Rice / grains": 104,
+          "Alcohol": 99,
+          "Fast food / burger / fries / pizza": 87,
+          "Egg": 83,
+          "Tea": 82,
+          "Condiments / sauce": 81,
+          "Japanese food / sushi": 45
+        },
+        "techDetect": {
+          "None": 2410,
+          "Smartphone": 833,
+          "TV / display screen": 270,
+          "Microphone / lavalier mic": 262,
+          "Home appliance": 182,
+          "Lighting equipment / ring light": 157,
+          "Kitchen appliance": 134,
+          "Desktop computer / monitor": 133,
+          "Camera / DSLR": 111,
+          "Other": 105,
+          "Laptop": 97,
+          "Headphones / earbuds": 81,
+          "Game console / controller": 65,
+          "Keyboard / mouse": 60,
+          "Smartwatch / wearable": 53,
+          "Tripod / stabilizer": 50,
+          "Speaker / audio device": 33,
+          "Tablet": 32,
+          "Action camera": 30,
+          "Electronic Keyboard / Synthesizer": 22
         }
       },
       "visual_base_visual_scene_and_style": {
@@ -2398,8 +2398,27 @@
           "Spring": 45,
           "Summer / Autumn": 3
         },
-        "isMultipleBackground": {
-          "True": 1728
+        "locationCategory": {
+          "Indoor Home": 853,
+          "Outdoor Street": 688,
+          "Indoor Living Room": 545,
+          "Studio": 481,
+          "Retail Store": 313,
+          "Indoor Bedroom": 286,
+          "Stage / Performance Venue": 274,
+          "Restaurant / Dining": 274,
+          "Park / Garden": 232,
+          "Indoor Kitchen": 224,
+          "Animation / Graphic Background": 223,
+          "Tourist Attraction / Landmark": 199,
+          "Office / Workplace": 162,
+          "Hotel / Accommodation": 160,
+          "Urban Plaza / Square": 155,
+          "Shopping Mall / Department Store": 143,
+          "Sports / Fitness Venue": 130,
+          "Rooftop / City View": 130,
+          "Event Venue / Convention Hall": 127,
+          "Cafe / Tea Shop": 118
         },
         "locationTopography": {
           "None": 1781,
@@ -2422,28 +2441,6 @@
           "Island": 11,
           "Canyon / Gorge": 10,
           "Mountain / Forest / Trail": 8
-        },
-        "lightingStyle": {
-          "Bright indoor lighting": 1965,
-          "Natural daylight": 1242,
-          "Bright studio lighting": 772,
-          "Warm indoor lighting": 400,
-          "Night artificial light": 290,
-          "Flat animation lighting": 233,
-          "Mixed natural and artificial light": 184,
-          "Neon / colored light": 179,
-          "High-contrast cinematic lighting": 118,
-          "Dim / low light": 103,
-          "Soft indoor lighting": 79,
-          "Backlit / silhouette": 19,
-          "Cloudy / Overcast": 14,
-          "Bright natural lighting": 1,
-          "Cinematic": 1,
-          "Bright daylight": 1,
-          "Bright and colorful": 1,
-          "Bright retail lighting": 1,
-          "Bright outdoor lighting": 1,
-          "Bright stadium lighting": 1
         },
         "weather": {
           "Indoor / not visible": 2542,
@@ -2480,33 +2477,33 @@
           "Night artificial light": 1,
           "Teal and Orange": 1
         },
-        "locationCategory": {
-          "Indoor Home": 853,
-          "Outdoor Street": 688,
-          "Indoor Living Room": 545,
-          "Studio": 481,
-          "Retail Store": 313,
-          "Indoor Bedroom": 286,
-          "Stage / Performance Venue": 274,
-          "Restaurant / Dining": 274,
-          "Park / Garden": 232,
-          "Indoor Kitchen": 224,
-          "Animation / Graphic Background": 223,
-          "Tourist Attraction / Landmark": 199,
-          "Office / Workplace": 162,
-          "Hotel / Accommodation": 160,
-          "Urban Plaza / Square": 155,
-          "Shopping Mall / Department Store": 143,
-          "Sports / Fitness Venue": 130,
-          "Rooftop / City View": 130,
-          "Event Venue / Convention Hall": 127,
-          "Cafe / Tea Shop": 118
+        "lightingStyle": {
+          "Bright indoor lighting": 1965,
+          "Natural daylight": 1242,
+          "Bright studio lighting": 772,
+          "Warm indoor lighting": 400,
+          "Night artificial light": 290,
+          "Flat animation lighting": 233,
+          "Mixed natural and artificial light": 184,
+          "Neon / colored light": 179,
+          "High-contrast cinematic lighting": 118,
+          "Dim / low light": 103,
+          "Soft indoor lighting": 79,
+          "Backlit / silhouette": 19,
+          "Cloudy / Overcast": 14,
+          "Bright natural lighting": 1,
+          "Cinematic": 1,
+          "Bright daylight": 1,
+          "Bright and colorful": 1,
+          "Bright retail lighting": 1,
+          "Bright outdoor lighting": 1,
+          "Bright stadium lighting": 1
+        },
+        "isMultipleBackground": {
+          "True": 1728
         }
       },
       "visual_base_visual_text_overlay": {
-        "isSubtitled": {
-          "True": 2037
-        },
         "textLanguage": {
           "English": 2564,
           "Traditional Chinese": 2268,
@@ -2527,6 +2524,9 @@
           "Low": 1416,
           "None": 676,
           "High": 626
+        },
+        "isSubtitled": {
+          "True": 2037
         }
       }
     }
@@ -2609,6 +2609,9 @@
         }
       },
       "endorsement_analysis": {
+        "isEndorsement": {
+          "True": 1259
+        },
         "endorsementMethod": {
           "None": 3738,
           "Integrated": 818,
@@ -2623,31 +2626,6 @@
           "Explicit / Full": 1,
           "Integrated (Promotion)": 1,
           "Explicit / Integrated": 1
-        },
-        "isEndorsement": {
-          "True": 1259
-        },
-        "endorsementCues": {
-          "None": 2835,
-          "None detected": 5,
-          "No specific products or brands are promoted.": 4,
-          "No products or services are explicitly promoted.": 2,
-          "No products or brands are explicitly or implicitly promoted.": 2,
-          "No clear product placement or brand promotion identified.": 2,
-          "No specific brand promotion or call to action is present.": 2,
-          "Clothing with logos is worn but not presented as a commercial promotion.": 1,
-          "None detected; the content focuses on entertainment and personal performance.": 1,
-          "No specific commercial products or brands are promoted as the focus.": 1,
-          "No brands or products are featured or discussed.": 1,
-          "Text and speech explicitly ask viewers to download the song '殊途' by his father.": 1,
-          "No products or brands are explicitly showcased or promoted.": 1,
-          "No products are featured as the focus of the video.": 1,
-          "No specific product promotion or CTA; brands are background elements.": 1,
-          "No products or services are specifically promoted.": 1,
-          "None detected; the focus is on personal interaction and comedy.": 1,
-          "Direct mention of brand features, on-screen slogan, and final logo reveal.": 1,
-          "No verbal or textual endorsement present, though equipment brand is visible.": 1,
-          "No brand-specific promotion or direct product appeal detected.": 1
         },
         "endorsementObject": {
           "None": 3701,
@@ -2670,6 +2648,28 @@
           "7-ELEVEN": 6,
           "iPhone": 6,
           "Shopee": 6
+        },
+        "endorsementCues": {
+          "None": 2835,
+          "None detected": 5,
+          "No specific products or brands are promoted.": 4,
+          "No products or services are explicitly promoted.": 2,
+          "No products or brands are explicitly or implicitly promoted.": 2,
+          "No clear product placement or brand promotion identified.": 2,
+          "No specific brand promotion or call to action is present.": 2,
+          "Clothing with logos is worn but not presented as a commercial promotion.": 1,
+          "None detected; the content focuses on entertainment and personal performance.": 1,
+          "No specific commercial products or brands are promoted as the focus.": 1,
+          "No brands or products are featured or discussed.": 1,
+          "Text and speech explicitly ask viewers to download the song '殊途' by his father.": 1,
+          "No products or brands are explicitly showcased or promoted.": 1,
+          "No products are featured as the focus of the video.": 1,
+          "No specific product promotion or CTA; brands are background elements.": 1,
+          "No products or services are specifically promoted.": 1,
+          "None detected; the focus is on personal interaction and comedy.": 1,
+          "Direct mention of brand features, on-screen slogan, and final logo reveal.": 1,
+          "No verbal or textual endorsement present, though equipment brand is visible.": 1,
+          "No brand-specific promotion or direct product appeal detected.": 1
         }
       },
       "narrative_and_purpose": {
@@ -2697,17 +2697,13 @@
         }
       },
       "temporal_pacing_summary": {
+        "isNarrativeShift": {
+          "True": 3403
+        },
         "editingPace": {
           "Fast": 2396,
           "Moderate": 2198,
           "Slow": 405
-        },
-        "sceneCutCount": {
-          "min": 0.0,
-          "max": 65.0,
-          "mean": 12.11,
-          "avg": 12.11,
-          "std": 8.74
         },
         "averageSceneDuration": {
           "min": 0.71,
@@ -2716,11 +2712,22 @@
           "avg": 5.8,
           "std": 7.23
         },
-        "isNarrativeShift": {
-          "True": 3403
+        "sceneCutCount": {
+          "min": 0.0,
+          "max": 65.0,
+          "mean": 12.11,
+          "avg": 12.11,
+          "std": 8.74
         }
       },
       "audio_base_editing_and_production_style": {
+        "audioEventDensity": {
+          "min": 1.0,
+          "max": 5.0,
+          "mean": 3.74,
+          "avg": 3.74,
+          "std": 0.62
+        },
         "speechDensity": {
           "min": 0.0,
           "max": 5.0,
@@ -2728,15 +2735,39 @@
           "avg": 3.63,
           "std": 0.78
         },
-        "hasStrategicSilence": {
-          "True": 387
-        },
-        "audioCutFrequency": {
+        "vocalRatio": {
           "min": 0.0,
           "max": 5.0,
-          "mean": 2.86,
-          "avg": 2.86,
-          "std": 1.13
+          "mean": 4.28,
+          "avg": 4.28,
+          "std": 0.86
+        },
+        "audioTransition": {
+          "Hard cut": 4442,
+          "Stingers": 427,
+          "None": 407,
+          "Fade out": 227,
+          "Cross-fade": 191,
+          "Fades": 126,
+          "Whoosh / Transition SFX": 34,
+          "Fade in": 15,
+          "Fade in / fade out": 6,
+          "Risers": 3,
+          "Fast cuts": 1,
+          "Impact / Hit SFX": 1
+        },
+        "audioQuality": {
+          "Studio": 2004,
+          "Field Recording": 1984,
+          "Compressed/Broadcast": 511,
+          "Mixed": 419,
+          "Low-fi/Phone": 119,
+          "Indoor/RoomTone": 3,
+          "Live Performance": 1,
+          "Vlog": 1
+        },
+        "hasStrategicSilence": {
+          "True": 387
         },
         "musicDuration": {
           "min": 0.0,
@@ -2752,39 +2783,12 @@
           "avg": 2.74,
           "std": 0.46
         },
-        "vocalRatio": {
+        "audioCutFrequency": {
           "min": 0.0,
           "max": 5.0,
-          "mean": 4.28,
-          "avg": 4.28,
-          "std": 0.86
-        },
-        "speechMusicOverlap": {
-          "min": 0.0,
-          "max": 5.0,
-          "mean": 3.88,
-          "avg": 3.88,
-          "std": 1.82
-        },
-        "audioEventDensity": {
-          "min": 1.0,
-          "max": 5.0,
-          "mean": 3.74,
-          "avg": 3.74,
-          "std": 0.62
-        },
-        "audioQuality": {
-          "Studio": 2004,
-          "Field Recording": 1984,
-          "Compressed/Broadcast": 511,
-          "Mixed": 419,
-          "Low-fi/Phone": 119,
-          "Indoor/RoomTone": 3,
-          "Live Performance": 1,
-          "Vlog": 1
-        },
-        "isAudioEditingFragmented": {
-          "True": 3255
+          "mean": 2.86,
+          "avg": 2.86,
+          "std": 1.13
         },
         "musicToSpeechLoudRatio": {
           "min": 0.0,
@@ -2793,32 +2797,18 @@
           "avg": 1.91,
           "std": 0.89
         },
-        "audioTransition": {
-          "Hard cut": 4442,
-          "Stingers": 427,
-          "None": 407,
-          "Fade out": 227,
-          "Cross-fade": 191,
-          "Fades": 126,
-          "Whoosh / Transition SFX": 34,
-          "Fade in": 15,
-          "Fade in / fade out": 6,
-          "Risers": 3,
-          "Fast cuts": 1,
-          "Impact / Hit SFX": 1
+        "speechMusicOverlap": {
+          "min": 0.0,
+          "max": 5.0,
+          "mean": 3.88,
+          "avg": 3.88,
+          "std": 1.82
+        },
+        "isAudioEditingFragmented": {
+          "True": 3255
         }
       },
       "audio_base_music_basic_features": {
-        "musicPresence": {
-          "True": 4364
-        },
-        "tempoBPM": {
-          "min": 0.0,
-          "max": 170.0,
-          "mean": 103.23,
-          "avg": 103.23,
-          "std": 41.68
-        },
         "mode": {
           "Major / Ionian": 4181,
           "None": 637,
@@ -2826,6 +2816,13 @@
           "Pentatonic/Traditional": 10,
           "Atonal/Ambiguous": 7,
           "Chromatic/Dissonant": 6
+        },
+        "tempoBPM": {
+          "min": 0.0,
+          "max": 170.0,
+          "mean": 103.23,
+          "avg": 103.23,
+          "std": 41.68
         },
         "bgmGenre": {
           "Pop": 2333,
@@ -2848,6 +2845,9 @@
           "Comedy": 13,
           "R&B/Soul": 8,
           "Comedy/Meme": 6
+        },
+        "musicPresence": {
+          "True": 4364
         }
       },
       "audio_base_music_structures": {
@@ -2858,12 +2858,30 @@
           "avg": 1.53,
           "std": 0.82
         },
-        "beatStrength": {
+        "instrumentFamiliesAudible": {
+          "Percussion": 2899,
+          "Synthesizer": 2650,
+          "Electronic": 2280,
+          "String": 1255,
+          "Keyboard": 680,
+          "None": 650,
+          "Woodwind": 70,
+          "Brass": 53,
+          "Strings": 48,
+          "Acoustic": 37,
+          "Piano": 14,
+          "Orchestral": 7,
+          "Acoustic/Folk": 4,
+          "Guitar": 3,
+          "Electric": 2,
+          "Acoustic Guitar": 2
+        },
+        "musicPauseDensity": {
           "min": 0.0,
           "max": 5.0,
-          "mean": 2.95,
-          "avg": 2.95,
-          "std": 1.37
+          "mean": 0.88,
+          "avg": 0.88,
+          "std": 0.61
         },
         "instrumentsAudible": {
           "Electronic Keyboard / Synthesizer": 2919,
@@ -2887,6 +2905,13 @@
           "Xylophone": 16,
           "Timpani": 12
         },
+        "beatStrength": {
+          "min": 0.0,
+          "max": 5.0,
+          "mean": 2.95,
+          "avg": 2.95,
+          "std": 1.37
+        },
         "musicSourceType": {
           "Stock/Royalty-Free": 3579,
           "None": 635,
@@ -2900,58 +2925,9 @@
           "Commercial": 1,
           "Meme": 1,
           "Commercial/Copyrighted": 1
-        },
-        "musicPauseDensity": {
-          "min": 0.0,
-          "max": 5.0,
-          "mean": 0.88,
-          "avg": 0.88,
-          "std": 0.61
-        },
-        "instrumentFamiliesAudible": {
-          "Percussion": 2899,
-          "Synthesizer": 2650,
-          "Electronic": 2280,
-          "String": 1255,
-          "Keyboard": 680,
-          "None": 650,
-          "Woodwind": 70,
-          "Brass": 53,
-          "Strings": 48,
-          "Acoustic": 37,
-          "Piano": 14,
-          "Orchestral": 7,
-          "Acoustic/Folk": 4,
-          "Guitar": 3,
-          "Electric": 2,
-          "Acoustic Guitar": 2
         }
       },
       "audio_base_music_vocal_census": {
-        "female_singer_count": {
-          "min": 0.0,
-          "max": 13.0,
-          "mean": 0.11,
-          "avg": 0.11,
-          "std": 0.47
-        },
-        "bgmLanguage": {
-          "None": 4234,
-          "Traditional Chinese": 333,
-          "English": 278,
-          "Japanese": 87,
-          "Mandarin": 42,
-          "Korean": 40,
-          "Other": 20,
-          "Simplified Chinese": 20,
-          "Unknown": 5,
-          "Thai": 2,
-          "French": 2,
-          "Portuguese": 1,
-          "German": 1,
-          "Cantonese": 1,
-          "Spanish": 1
-        },
         "male_singer_count": {
           "min": 0.0,
           "max": 5.0,
@@ -2972,63 +2948,53 @@
           "mean": 0.01,
           "avg": 0.01,
           "std": 0.21
+        },
+        "bgmLanguage": {
+          "None": 4234,
+          "Traditional Chinese": 333,
+          "English": 278,
+          "Japanese": 87,
+          "Mandarin": 42,
+          "Korean": 40,
+          "Other": 20,
+          "Simplified Chinese": 20,
+          "Unknown": 5,
+          "Thai": 2,
+          "French": 2,
+          "Portuguese": 1,
+          "German": 1,
+          "Cantonese": 1,
+          "Spanish": 1
+        },
+        "female_singer_count": {
+          "min": 0.0,
+          "max": 13.0,
+          "mean": 0.11,
+          "avg": 0.11,
+          "std": 0.47
         }
       },
       "audio_base_noise_and_SFX_detect": {
-        "soundEffectsDetails": {
-          "Cartoon / Comedy SFX": 2297,
-          "Ding / Bell SFX": 1826,
-          "Whoosh / Transition SFX": 1668,
-          "Pop / Bubble SFX": 1509,
-          "None": 1175,
-          "Impact / Hit SFX": 1013,
-          "Digital UI SFX": 376,
-          "Meme SFX": 356,
-          "Applause / Laugh Track SFX": 258,
-          "Sparkle / Magic SFX": 104,
-          "Other": 87,
-          "Stinger SFX": 35,
-          "Human Vocal SFX": 34,
-          "Glitch / Digital Distortion SFX": 24,
-          "Rewind / Tape Stop SFX": 19,
-          "Record Scratch SFX": 17,
-          "Camera Shutter / Camera Operation": 13,
-          "Cinematic Boom SFX": 13,
-          "Riser / Build-up SFX": 10,
-          "Laugh Track SFX": 6
+        "SignalToNoiseRatio": {
+          "min": 2.0,
+          "max": 5.0,
+          "mean": 4.26,
+          "avg": 4.26,
+          "std": 0.45
         },
-        "soundEffectsCoverage": {
+        "crowdNoiseIntensity": {
           "min": 0.0,
           "max": 5.0,
-          "mean": 2.03,
-          "avg": 2.03,
-          "std": 1.48
+          "mean": 1.0,
+          "avg": 1.0,
+          "std": 1.22
         },
-        "incidentalNoiseIntensity": {
+        "soundEffectsIntensity": {
           "min": 0.0,
           "max": 5.0,
-          "mean": 1.24,
-          "avg": 1.24,
-          "std": 1.05
-        },
-        "crowdNoiseDetails": {
-          "None": 2747,
-          "Laughter": 1781,
-          "Chatter": 593,
-          "Cheering": 515,
-          "Crowd Murmur": 272,
-          "Applause": 247,
-          "Screaming/Yelling": 126,
-          "Chanting": 12,
-          "Applause / Laugh Track SFX": 1,
-          "Other": 1
-        },
-        "ambientNoiseIntensity": {
-          "min": 0.0,
-          "max": 5.0,
-          "mean": 1.15,
-          "avg": 1.15,
-          "std": 0.47
+          "mean": 2.34,
+          "avg": 2.34,
+          "std": 1.44
         },
         "incidentalNoiseDetails": {
           "None": 1635,
@@ -3052,26 +3018,12 @@
           "Sudden Wind Burst": 29,
           "Ceramics / Glass Clink": 23
         },
-        "SignalToNoiseRatio": {
-          "min": 2.0,
-          "max": 5.0,
-          "mean": 4.26,
-          "avg": 4.26,
-          "std": 0.45
-        },
-        "soundEffectsIntensity": {
+        "soundEffectsCoverage": {
           "min": 0.0,
           "max": 5.0,
-          "mean": 2.34,
-          "avg": 2.34,
-          "std": 1.44
-        },
-        "crowdNoiseIntensity": {
-          "min": 0.0,
-          "max": 5.0,
-          "mean": 1.0,
-          "avg": 1.0,
-          "std": 1.22
+          "mean": 2.03,
+          "avg": 2.03,
+          "std": 1.48
         },
         "ambientNoiseDetails": {
           "Indoor/RoomTone": 2565,
@@ -3087,11 +3039,63 @@
           "Industrial/Manufacturing": 1,
           "Outdoor": 1,
           "Outdoor/Wave Sound": 1
+        },
+        "incidentalNoiseIntensity": {
+          "min": 0.0,
+          "max": 5.0,
+          "mean": 1.24,
+          "avg": 1.24,
+          "std": 1.05
+        },
+        "ambientNoiseIntensity": {
+          "min": 0.0,
+          "max": 5.0,
+          "mean": 1.15,
+          "avg": 1.15,
+          "std": 0.47
+        },
+        "soundEffectsDetails": {
+          "Cartoon / Comedy SFX": 2297,
+          "Ding / Bell SFX": 1826,
+          "Whoosh / Transition SFX": 1668,
+          "Pop / Bubble SFX": 1509,
+          "None": 1175,
+          "Impact / Hit SFX": 1013,
+          "Digital UI SFX": 376,
+          "Meme SFX": 356,
+          "Applause / Laugh Track SFX": 258,
+          "Sparkle / Magic SFX": 104,
+          "Other": 87,
+          "Stinger SFX": 35,
+          "Human Vocal SFX": 34,
+          "Glitch / Digital Distortion SFX": 24,
+          "Rewind / Tape Stop SFX": 19,
+          "Record Scratch SFX": 17,
+          "Camera Shutter / Camera Operation": 13,
+          "Cinematic Boom SFX": 13,
+          "Riser / Build-up SFX": 10,
+          "Laugh Track SFX": 6
+        },
+        "crowdNoiseDetails": {
+          "None": 2747,
+          "Laughter": 1781,
+          "Chatter": 593,
+          "Cheering": 515,
+          "Crowd Murmur": 272,
+          "Applause": 247,
+          "Screaming/Yelling": 126,
+          "Chanting": 12,
+          "Applause / Laugh Track SFX": 1,
+          "Other": 1
         }
       },
       "audio_base_spectral_and_acoustic": {
-        "hasAudioDistortion": {
-          "True": 12
+        "acousticDynamism": {
+          "min": 1.0,
+          "max": 5.0,
+          "mean": 3.68,
+          "avg": 3.68,
+          "std": 0.53
         },
         "noisinessAndPercussiveness": {
           "min": 1.0,
@@ -3107,12 +3111,8 @@
           "avg": 4.04,
           "std": 0.27
         },
-        "acousticDynamism": {
-          "min": 1.0,
-          "max": 5.0,
-          "mean": 3.68,
-          "avg": 3.68,
-          "std": 0.53
+        "hasAudioDistortion": {
+          "True": 12
         },
         "spectralCentroidBrightness": {
           "min": 2.0,
@@ -3123,13 +3123,6 @@
         }
       },
       "audio_base_vocal_affective": {
-        "arousal": {
-          "min": 0.0,
-          "max": 9.0,
-          "mean": 6.66,
-          "avg": 6.66,
-          "std": 1.2
-        },
         "dominance": {
           "min": 0.0,
           "max": 9.0,
@@ -3137,18 +3130,32 @@
           "avg": 5.72,
           "std": 0.96
         },
-        "hasVocalTension": {
-          "True": 782
-        },
         "valence": {
           "min": 0.0,
           "max": 9.0,
           "mean": 7.2,
           "avg": 7.2,
           "std": 1.39
+        },
+        "hasVocalTension": {
+          "True": 782
+        },
+        "arousal": {
+          "min": 0.0,
+          "max": 9.0,
+          "mean": 6.66,
+          "avg": 6.66,
+          "std": 1.2
         }
       },
       "audio_base_vocal_census": {
+        "male_vocal_count": {
+          "min": 0.0,
+          "max": 10.0,
+          "mean": 1.21,
+          "avg": 1.21,
+          "std": 1.05
+        },
         "female_vocal_count": {
           "min": 0.0,
           "max": 20.0,
@@ -3156,12 +3163,12 @@
           "avg": 1.12,
           "std": 1.17
         },
-        "dominant_speakers_count": {
+        "total_distinct_voices": {
           "min": 0.0,
-          "max": 12.0,
-          "mean": 1.67,
-          "avg": 1.67,
-          "std": 0.87
+          "max": 25.0,
+          "mean": 2.47,
+          "avg": 2.47,
+          "std": 1.59
         },
         "kids_vocal_count": {
           "min": 0.0,
@@ -3170,29 +3177,15 @@
           "avg": 0.26,
           "std": 0.66
         },
-        "male_vocal_count": {
+        "dominant_speakers_count": {
           "min": 0.0,
-          "max": 10.0,
-          "mean": 1.21,
-          "avg": 1.21,
-          "std": 1.05
-        },
-        "total_distinct_voices": {
-          "min": 0.0,
-          "max": 25.0,
-          "mean": 2.47,
-          "avg": 2.47,
-          "std": 1.59
+          "max": 12.0,
+          "mean": 1.67,
+          "avg": 1.67,
+          "std": 0.87
         }
       },
       "audio_base_vocal_prosody": {
-        "intensityAndLoudness": {
-          "min": 0.0,
-          "max": 5.0,
-          "mean": 3.42,
-          "avg": 3.42,
-          "std": 0.61
-        },
         "speechPauseDensity": {
           "min": 0.0,
           "max": 4.0,
@@ -3207,60 +3200,34 @@
           "avg": 3.47,
           "std": 0.62
         },
-        "pitchLevel": {
-          "min": 0.0,
-          "max": 5.0,
-          "mean": 3.2,
-          "avg": 3.2,
-          "std": 0.59
-        },
         "pitchVariability": {
           "min": 0.0,
           "max": 5.0,
           "mean": 3.8,
           "avg": 3.8,
           "std": 0.57
+        },
+        "intensityAndLoudness": {
+          "min": 0.0,
+          "max": 5.0,
+          "mean": 3.42,
+          "avg": 3.42,
+          "std": 0.61
+        },
+        "pitchLevel": {
+          "min": 0.0,
+          "max": 5.0,
+          "mean": 3.2,
+          "avg": 3.2,
+          "std": 0.59
         }
       },
       "audio_base_vocal_voice_quality": {
-        "intonationAndContour": {
-          "Complex": 4492,
-          "Rising": 308,
-          "Level": 158,
-          "None": 50,
-          "Falling": 42
-        },
-        "speakingFallingRatio": {
-          "min": 0.0,
-          "max": 4.0,
-          "mean": 2.48,
-          "avg": 2.48,
-          "std": 0.61
-        },
-        "vocalLanguage": {
-          "Traditional Chinese": 4472,
-          "English": 499,
-          "Mandarin": 293,
-          "Simplified Chinese": 129,
-          "Japanese": 128,
-          "None": 55,
-          "Korean": 53,
-          "Other": 45,
-          "Thai": 7,
-          "Mandarin Chinese": 7,
-          "Hokkien": 4,
-          "Cantonese": 4,
-          "Taiwanese": 3,
-          "Taiwanese Hokkien": 3,
-          "French": 2,
-          "Italian": 1,
-          "Vietnamese": 1,
-          "Unknown": 1,
-          "Portuguese": 1,
-          "German": 1
-        },
         "hasBreathiness": {
           "True": 265
+        },
+        "hasRoughness": {
+          "True": 159
         },
         "tone": {
           "Animated/Excited": 4059,
@@ -3284,8 +3251,27 @@
           "Informative": 1,
           "Dramatic": 1
         },
-        "hasStrain": {
-          "True": 593
+        "vocalLanguage": {
+          "Traditional Chinese": 4472,
+          "English": 499,
+          "Mandarin": 293,
+          "Simplified Chinese": 129,
+          "Japanese": 128,
+          "None": 55,
+          "Korean": 53,
+          "Other": 45,
+          "Thai": 7,
+          "Mandarin Chinese": 7,
+          "Hokkien": 4,
+          "Cantonese": 4,
+          "Taiwanese": 3,
+          "Taiwanese Hokkien": 3,
+          "French": 2,
+          "Italian": 1,
+          "Vietnamese": 1,
+          "Unknown": 1,
+          "Portuguese": 1,
+          "German": 1
         },
         "articulationClarity": {
           "min": 0.0,
@@ -3294,31 +3280,45 @@
           "avg": 4.01,
           "std": 0.54
         },
+        "intonationAndContour": {
+          "Complex": 4492,
+          "Rising": 308,
+          "Level": 158,
+          "None": 50,
+          "Falling": 42
+        },
+        "hasStrain": {
+          "True": 593
+        },
+        "speakingFallingRatio": {
+          "min": 0.0,
+          "max": 4.0,
+          "mean": 2.48,
+          "avg": 2.48,
+          "std": 0.61
+        },
         "speakingRisingRatio": {
           "min": 0.0,
           "max": 5.0,
           "mean": 3.07,
           "avg": 3.07,
           "std": 0.59
-        },
-        "hasRoughness": {
-          "True": 159
         }
       },
       "basic_metadata": {
-        "videoDuration": {
-          "min": 3.0,
-          "max": 158.0,
-          "mean": 42.77,
-          "avg": 42.77,
-          "std": 20.8
-        },
         "aspectRatio": {
           "9:16": 4877,
           "16:9": 105,
           "1:1": 12,
           "4:3": 4,
           "3:4": 1
+        },
+        "videoDuration": {
+          "min": 3.0,
+          "max": 158.0,
+          "mean": 42.77,
+          "avg": 42.77,
+          "std": 20.8
         }
       },
       "visual_base": {
@@ -3327,6 +3327,17 @@
         }
       },
       "visual_base_visual_filming_and_editing": {
+        "visualRhythm": {
+          "Fast pace": 2407,
+          "Natural pace": 2279,
+          "Rhythm matched to music": 202,
+          "Rhythm matched to speech": 91,
+          "Highly dynamic / rapid montage": 77,
+          "Slow pace": 10,
+          "Very fast pace": 9,
+          "Single continuous take": 5,
+          "Very slow pace": 2
+        },
         "cameraAngles": {
           "Eye-level": 4845,
           "High angle": 979,
@@ -3348,40 +3359,6 @@
           "Third-person perspective": 1,
           "eye-level": 1,
           "Point of view": 1
-        },
-        "shotSize": {
-          "Medium shot": 3755,
-          "Close-up": 3051,
-          "Medium close-up": 1741,
-          "Full shot": 1256,
-          "Medium full shot": 871,
-          "Extreme close-up": 249,
-          "Insert shot": 240,
-          "Wide shot": 218,
-          "Long shot": 207,
-          "Screen / interface close-up": 122,
-          "POV / first-person view": 43,
-          "Two shot": 36,
-          "Group shot": 35,
-          "Macro close-up": 31,
-          "Face close-up": 27,
-          "Extreme long shot": 26,
-          "High angle": 10,
-          "Top-down / overhead": 8,
-          "Point of view": 7,
-          "Establishing shot": 4
-        },
-        "takeStructure": {
-          "Multiple shots": 3965,
-          "Compilation / montage sequence": 395,
-          "Single continuous take": 391,
-          "Multi-camera / cutaway": 192,
-          "Screen capture sequence": 85,
-          "Looped short-form sequence": 52,
-          "Scene-to-scene sequence": 10,
-          "Shot-reverse-shot structure": 2,
-          "Montage sequence": 2,
-          "multiple shots": 1
         },
         "editingTechniques": {
           "Straight cut": 4068,
@@ -3405,6 +3382,28 @@
           "Dissolve": 27,
           "Fade out": 24
         },
+        "shotSize": {
+          "Medium shot": 3755,
+          "Close-up": 3051,
+          "Medium close-up": 1741,
+          "Full shot": 1256,
+          "Medium full shot": 871,
+          "Extreme close-up": 249,
+          "Insert shot": 240,
+          "Wide shot": 218,
+          "Long shot": 207,
+          "Screen / interface close-up": 122,
+          "POV / first-person view": 43,
+          "Two shot": 36,
+          "Group shot": 35,
+          "Macro close-up": 31,
+          "Face close-up": 27,
+          "Extreme long shot": 26,
+          "High angle": 10,
+          "Top-down / overhead": 8,
+          "Point of view": 7,
+          "Establishing shot": 4
+        },
         "cameraMovement": {
           "Static": 3379,
           "Handheld": 2499,
@@ -3427,25 +3426,40 @@
           "None": 6,
           "Rotating camera": 4
         },
-        "visualRhythm": {
-          "Fast pace": 2407,
-          "Natural pace": 2279,
-          "Rhythm matched to music": 202,
-          "Rhythm matched to speech": 91,
-          "Highly dynamic / rapid montage": 77,
-          "Slow pace": 10,
-          "Very fast pace": 9,
-          "Single continuous take": 5,
-          "Very slow pace": 2
+        "takeStructure": {
+          "Multiple shots": 3965,
+          "Compilation / montage sequence": 395,
+          "Single continuous take": 391,
+          "Multi-camera / cutaway": 192,
+          "Screen capture sequence": 85,
+          "Looped short-form sequence": 52,
+          "Scene-to-scene sequence": 10,
+          "Shot-reverse-shot structure": 2,
+          "Montage sequence": 2,
+          "multiple shots": 1
         }
       },
       "visual_base_visual_human_presence": {
+        "mainCharacterCount": {
+          "min": 0.0,
+          "max": 20.0,
+          "mean": 1.63,
+          "avg": 1.63,
+          "std": 1.08
+        },
         "kidsDetectAmount": {
           "min": 0.0,
           "max": 18.0,
           "mean": 0.38,
           "avg": 0.38,
           "std": 1.02
+        },
+        "crowdLevel": {
+          "Small Group": 1871,
+          "Single": 1389,
+          "Duo": 1272,
+          "Crowd": 355,
+          "None": 125
         },
         "maleDetectAmount": {
           "min": 0.0,
@@ -3454,12 +3468,19 @@
           "avg": 1.92,
           "std": 2.98
         },
-        "crowdLevel": {
-          "Small Group": 1871,
-          "Single": 1389,
-          "Duo": 1272,
-          "Crowd": 355,
-          "None": 125
+        "femaleDetectAmount": {
+          "min": 0.0,
+          "max": 60.0,
+          "mean": 1.86,
+          "avg": 1.86,
+          "std": 3.14
+        },
+        "totalHumanCount": {
+          "min": 0.0,
+          "max": 100.0,
+          "mean": 3.99,
+          "avg": 3.99,
+          "std": 5.92
         },
         "bodyPartVisibility": {
           "Upper body": 4043,
@@ -3478,52 +3499,9 @@
           "Hands": 3,
           "Medium shot": 1,
           "Close-up": 1
-        },
-        "totalHumanCount": {
-          "min": 0.0,
-          "max": 100.0,
-          "mean": 3.99,
-          "avg": 3.99,
-          "std": 5.92
-        },
-        "mainCharacterCount": {
-          "min": 0.0,
-          "max": 20.0,
-          "mean": 1.63,
-          "avg": 1.63,
-          "std": 1.08
-        },
-        "femaleDetectAmount": {
-          "min": 0.0,
-          "max": 60.0,
-          "mean": 1.86,
-          "avg": 1.86,
-          "std": 3.14
         }
       },
       "visual_base_visual_objects_and_brands": {
-        "landmark": {
-          "None": 4784,
-          "Taipei 101": 9,
-          "Taipei Dome": 9,
-          "Eiffel Tower": 8,
-          "Ximending": 4,
-          "Sun Moon Lake": 3,
-          "Arc de Triomphe": 3,
-          "Tokyo Skytree": 3,
-          "Hong Kong Disneyland": 3,
-          "Kaohsiung Music Center": 3,
-          "National Taiwan University": 2,
-          "Taipei Main Station": 2,
-          "Wuling": 2,
-          "Notre-Dame de Paris": 2,
-          "Mount Fuji": 2,
-          "Huashan 1914 Creative Park": 2,
-          "Dongdaemun Design Plaza": 2,
-          "Universal Studios Singapore": 2,
-          "Jewel Changi Airport": 2,
-          "Place de la Concorde": 2
-        },
         "animalDetect": {
           "None": 3801,
           "Cat": 316,
@@ -3546,71 +3524,27 @@
           "Pig": 6,
           "Snake": 5
         },
-        "foodsDetect": {
-          "None": 3416,
-          "Beverage / juice": 438,
-          "Dessert / cake / cookies": 278,
-          "Vegetables": 241,
-          "Meat / beef / pork / chicken": 240,
-          "Snack / chips / candy": 236,
-          "Fruit": 217,
-          "Prepared meal / plated dish": 187,
-          "Fast food / burger / fries / pizza": 117,
-          "Soup / hotpot / curry": 115,
-          "Noodles / ramen / pasta": 103,
-          "Bread / pastry": 100,
-          "Rice / grains": 97,
-          "Seafood / fish / shrimp": 95,
-          "Coffee": 88,
-          "Alcohol": 82,
-          "Tea": 76,
-          "Egg": 60,
-          "Milk": 51,
-          "Chinese Food": 48
-        },
-        "instrumentsVisible": {
-          "None": 4804,
-          "Electronic Keyboard / Synthesizer": 52,
-          "Piano": 51,
-          "Guitar": 29,
-          "Flute": 28,
-          "Drum Kit / Drum Set": 25,
-          "Electric Guitar": 18,
-          "Violin": 17,
-          "Electric Bass": 9,
-          "Other Percussion Instrument": 7,
-          "Cello": 6,
-          "Other Woodwind Instrument": 4,
-          "Gong": 3,
-          "Trumpet": 2,
-          "Chinese Drum": 2,
-          "Trombone": 2,
-          "Other Keyboard Instrument": 2,
-          "Recorder": 1,
-          "Other String Instrument": 1,
-          "Muyu": 1
-        },
-        "techDetect": {
-          "Smartphone": 2012,
-          "None": 1859,
-          "Microphone / lavalier mic": 742,
-          "TV / display screen": 385,
-          "Desktop computer / monitor": 288,
-          "Headphones / earbuds": 243,
-          "Laptop": 173,
-          "Home appliance": 172,
-          "Lighting equipment / ring light": 159,
-          "Camera / DSLR": 156,
-          "Other": 108,
-          "Smartwatch / wearable": 103,
-          "Tripod / stabilizer": 82,
-          "Tablet": 81,
-          "Kitchen appliance": 81,
-          "Keyboard / mouse": 76,
-          "Action camera": 55,
-          "Speaker / audio device": 48,
-          "Smartwatch": 33,
-          "Game console / controller": 27
+        "landmark": {
+          "None": 4784,
+          "Taipei 101": 9,
+          "Taipei Dome": 9,
+          "Eiffel Tower": 8,
+          "Ximending": 4,
+          "Sun Moon Lake": 3,
+          "Arc de Triomphe": 3,
+          "Tokyo Skytree": 3,
+          "Hong Kong Disneyland": 3,
+          "Kaohsiung Music Center": 3,
+          "National Taiwan University": 2,
+          "Taipei Main Station": 2,
+          "Wuling": 2,
+          "Notre-Dame de Paris": 2,
+          "Mount Fuji": 2,
+          "Huashan 1914 Creative Park": 2,
+          "Dongdaemun Design Plaza": 2,
+          "Universal Studios Singapore": 2,
+          "Jewel Changi Airport": 2,
+          "Place de la Concorde": 2
         },
         "brandLogos": {
           "None": 2276,
@@ -3634,6 +3568,28 @@
           "7-Eleven": 22,
           "Sony": 22
         },
+        "instrumentsVisible": {
+          "None": 4804,
+          "Electronic Keyboard / Synthesizer": 52,
+          "Piano": 51,
+          "Guitar": 29,
+          "Flute": 28,
+          "Drum Kit / Drum Set": 25,
+          "Electric Guitar": 18,
+          "Violin": 17,
+          "Electric Bass": 9,
+          "Other Percussion Instrument": 7,
+          "Cello": 6,
+          "Other Woodwind Instrument": 4,
+          "Gong": 3,
+          "Trumpet": 2,
+          "Chinese Drum": 2,
+          "Trombone": 2,
+          "Other Keyboard Instrument": 2,
+          "Recorder": 1,
+          "Other String Instrument": 1,
+          "Muyu": 1
+        },
         "trafficDetect": {
           "None": 4187,
           "Car": 441,
@@ -3655,6 +3611,50 @@
           "Traffic on packaging / logo": 3,
           "Cartoon / animated Traffic": 3,
           "Scooter": 3
+        },
+        "foodsDetect": {
+          "None": 3416,
+          "Beverage / juice": 438,
+          "Dessert / cake / cookies": 278,
+          "Vegetables": 241,
+          "Meat / beef / pork / chicken": 240,
+          "Snack / chips / candy": 236,
+          "Fruit": 217,
+          "Prepared meal / plated dish": 187,
+          "Fast food / burger / fries / pizza": 117,
+          "Soup / hotpot / curry": 115,
+          "Noodles / ramen / pasta": 103,
+          "Bread / pastry": 100,
+          "Rice / grains": 97,
+          "Seafood / fish / shrimp": 95,
+          "Coffee": 88,
+          "Alcohol": 82,
+          "Tea": 76,
+          "Egg": 60,
+          "Milk": 51,
+          "Chinese Food": 48
+        },
+        "techDetect": {
+          "Smartphone": 2012,
+          "None": 1859,
+          "Microphone / lavalier mic": 742,
+          "TV / display screen": 385,
+          "Desktop computer / monitor": 288,
+          "Headphones / earbuds": 243,
+          "Laptop": 173,
+          "Home appliance": 172,
+          "Lighting equipment / ring light": 159,
+          "Camera / DSLR": 156,
+          "Other": 108,
+          "Smartwatch / wearable": 103,
+          "Tripod / stabilizer": 82,
+          "Tablet": 81,
+          "Kitchen appliance": 81,
+          "Keyboard / mouse": 76,
+          "Action camera": 55,
+          "Speaker / audio device": 48,
+          "Smartwatch": 33,
+          "Game console / controller": 27
         }
       },
       "visual_base_visual_scene_and_style": {
@@ -3669,8 +3669,27 @@
           "Spring": 25,
           "Summer / Autumn": 3
         },
-        "isMultipleBackground": {
-          "True": 2403
+        "locationCategory": {
+          "Indoor Home": 1177,
+          "Indoor Living Room": 1051,
+          "Outdoor Street": 754,
+          "Studio": 648,
+          "Restaurant / Dining": 383,
+          "Indoor Bedroom": 311,
+          "Retail Store": 310,
+          "Office / Workplace": 285,
+          "Digital Interface / Screen Capture": 280,
+          "Stage / Performance Venue": 279,
+          "Indoor Kitchen": 276,
+          "Park / Garden": 244,
+          "Sports / Fitness Venue": 154,
+          "Event Venue / Convention Hall": 144,
+          "Car / Van Interior": 135,
+          "Tourist Attraction / Landmark": 126,
+          "Gym / Fitness Center": 123,
+          "Indoor Bathroom": 115,
+          "Urban Plaza / Square": 110,
+          "Animation / Graphic Background": 107
         },
         "locationTopography": {
           "Plain / Flat Urban": 2130,
@@ -3693,25 +3712,6 @@
           "Desert / Sand": 9,
           "Underwater": 7,
           "Mountain / Forest / Trail": 6
-        },
-        "lightingStyle": {
-          "Bright indoor lighting": 2841,
-          "Natural daylight": 1226,
-          "Bright studio lighting": 835,
-          "Warm indoor lighting": 476,
-          "Night artificial light": 291,
-          "Mixed natural and artificial light": 192,
-          "Dim / low light": 150,
-          "Neon / colored light": 146,
-          "Flat animation lighting": 113,
-          "Soft indoor lighting": 97,
-          "High-contrast cinematic lighting": 66,
-          "Cloudy / Overcast": 20,
-          "Backlit / silhouette": 3,
-          "Bright retail lighting": 1,
-          "Bright natural daylight": 1,
-          "Bright stadium lighting": 1,
-          "Bright natural and artificial light": 1
         },
         "weather": {
           "Indoor / not visible": 3451,
@@ -3746,33 +3746,30 @@
           "Pastel": 10,
           "Blue": 1
         },
-        "locationCategory": {
-          "Indoor Home": 1177,
-          "Indoor Living Room": 1051,
-          "Outdoor Street": 754,
-          "Studio": 648,
-          "Restaurant / Dining": 383,
-          "Indoor Bedroom": 311,
-          "Retail Store": 310,
-          "Office / Workplace": 285,
-          "Digital Interface / Screen Capture": 280,
-          "Stage / Performance Venue": 279,
-          "Indoor Kitchen": 276,
-          "Park / Garden": 244,
-          "Sports / Fitness Venue": 154,
-          "Event Venue / Convention Hall": 144,
-          "Car / Van Interior": 135,
-          "Tourist Attraction / Landmark": 126,
-          "Gym / Fitness Center": 123,
-          "Indoor Bathroom": 115,
-          "Urban Plaza / Square": 110,
-          "Animation / Graphic Background": 107
+        "lightingStyle": {
+          "Bright indoor lighting": 2841,
+          "Natural daylight": 1226,
+          "Bright studio lighting": 835,
+          "Warm indoor lighting": 476,
+          "Night artificial light": 291,
+          "Mixed natural and artificial light": 192,
+          "Dim / low light": 150,
+          "Neon / colored light": 146,
+          "Flat animation lighting": 113,
+          "Soft indoor lighting": 97,
+          "High-contrast cinematic lighting": 66,
+          "Cloudy / Overcast": 20,
+          "Backlit / silhouette": 3,
+          "Bright retail lighting": 1,
+          "Bright natural daylight": 1,
+          "Bright stadium lighting": 1,
+          "Bright natural and artificial light": 1
+        },
+        "isMultipleBackground": {
+          "True": 2403
         }
       },
       "visual_base_visual_text_overlay": {
-        "isSubtitled": {
-          "True": 4568
-        },
         "textLanguage": {
           "Traditional Chinese": 4648,
           "English": 2560,
@@ -3796,6 +3793,9 @@
           "Low": 348,
           "None": 168,
           "None / Low / Medium / High": 1
+        },
+        "isSubtitled": {
+          "True": 4568
         }
       }
     }
@@ -3878,6 +3878,9 @@
         }
       },
       "endorsement_analysis": {
+        "isEndorsement": {
+          "True": 2265
+        },
         "endorsementMethod": {
           "Explicit": 1829,
           "Full": 1329,
@@ -3894,9 +3897,6 @@
           "Explicit and Integrated": 2,
           "Explicit / Full": 2,
           "Explicit/Full": 2
-        },
-        "isEndorsement": {
-          "True": 2265
         },
         "endorsementObject": {
           "None": 1133,
@@ -3946,17 +3946,13 @@
         }
       },
       "temporal_pacing_summary": {
+        "isNarrativeShift": {
+          "True": 2841
+        },
         "editingPace": {
           "Fast": 2507,
           "Moderate": 860,
           "Slow": 59
-        },
-        "sceneCutCount": {
-          "min": 0.0,
-          "max": 149.0,
-          "mean": 29.79,
-          "avg": 29.79,
-          "std": 13.78
         },
         "averageSceneDuration": {
           "min": 0.7,
@@ -3965,11 +3961,22 @@
           "avg": 5.57,
           "std": 12.1
         },
-        "isNarrativeShift": {
-          "True": 2841
+        "sceneCutCount": {
+          "min": 0.0,
+          "max": 149.0,
+          "mean": 29.79,
+          "avg": 29.79,
+          "std": 13.78
         }
       },
       "audio_base_editing_and_production_style": {
+        "audioEventDensity": {
+          "min": 2.0,
+          "max": 5.0,
+          "mean": 3.94,
+          "avg": 3.94,
+          "std": 0.48
+        },
         "speechDensity": {
           "min": 0.0,
           "max": 5.0,
@@ -3977,15 +3984,42 @@
           "avg": 3.96,
           "std": 0.44
         },
-        "hasStrategicSilence": {
-          "True": 249
-        },
-        "audioCutFrequency": {
+        "vocalRatio": {
           "min": 0.0,
           "max": 5.0,
-          "mean": 3.43,
-          "avg": 3.43,
-          "std": 0.82
+          "mean": 4.6,
+          "avg": 4.6,
+          "std": 0.54
+        },
+        "audioTransition": {
+          "Hard cut": 3187,
+          "Cross-fade": 563,
+          "Stingers": 555,
+          "Fade out": 303,
+          "Fades": 264,
+          "Whoosh / Transition SFX": 88,
+          "None": 69,
+          "Risers": 16,
+          "Fade in / fade out": 10,
+          "Fade in": 5,
+          "Risere": 1,
+          "Pop / Bubble SFX": 1
+        },
+        "audioQuality": {
+          "Studio": 2160,
+          "Field Recording": 644,
+          "Compressed/Broadcast": 394,
+          "Mixed": 324,
+          "Low-fi/Phone": 12,
+          "Live Performance": 2,
+          "Unknown": 1,
+          "Vlog": 1,
+          "Vlog/Phone": 1,
+          "Vlog-style post-production": 1,
+          "Vlog-style": 1
+        },
+        "hasStrategicSilence": {
+          "True": 249
         },
         "musicDuration": {
           "min": 0.0,
@@ -4001,42 +4035,12 @@
           "avg": 2.62,
           "std": 0.5
         },
-        "vocalRatio": {
+        "audioCutFrequency": {
           "min": 0.0,
           "max": 5.0,
-          "mean": 4.6,
-          "avg": 4.6,
-          "std": 0.54
-        },
-        "speechMusicOverlap": {
-          "min": 0.0,
-          "max": 5.0,
-          "mean": 4.77,
-          "avg": 4.77,
-          "std": 0.84
-        },
-        "audioEventDensity": {
-          "min": 2.0,
-          "max": 5.0,
-          "mean": 3.94,
-          "avg": 3.94,
-          "std": 0.48
-        },
-        "audioQuality": {
-          "Studio": 2160,
-          "Field Recording": 644,
-          "Compressed/Broadcast": 394,
-          "Mixed": 324,
-          "Low-fi/Phone": 12,
-          "Live Performance": 2,
-          "Unknown": 1,
-          "Vlog": 1,
-          "Vlog/Phone": 1,
-          "Vlog-style post-production": 1,
-          "Vlog-style": 1
-        },
-        "isAudioEditingFragmented": {
-          "True": 2733
+          "mean": 3.43,
+          "avg": 3.43,
+          "std": 0.82
         },
         "musicToSpeechLoudRatio": {
           "min": 0.0,
@@ -4045,32 +4049,18 @@
           "avg": 2.0,
           "std": 0.41
         },
-        "audioTransition": {
-          "Hard cut": 3187,
-          "Cross-fade": 563,
-          "Stingers": 555,
-          "Fade out": 303,
-          "Fades": 264,
-          "Whoosh / Transition SFX": 88,
-          "None": 69,
-          "Risers": 16,
-          "Fade in / fade out": 10,
-          "Fade in": 5,
-          "Risere": 1,
-          "Pop / Bubble SFX": 1
+        "speechMusicOverlap": {
+          "min": 0.0,
+          "max": 5.0,
+          "mean": 4.77,
+          "avg": 4.77,
+          "std": 0.84
+        },
+        "isAudioEditingFragmented": {
+          "True": 2733
         }
       },
       "audio_base_music_basic_features": {
-        "musicPresence": {
-          "True": 3364
-        },
-        "tempoBPM": {
-          "min": 0.0,
-          "max": 170.0,
-          "mean": 116.86,
-          "avg": 116.86,
-          "std": 20.52
-        },
         "mode": {
           "Major / Ionian": 3278,
           "Minor / Aeolian": 74,
@@ -4078,6 +4068,13 @@
           "Pentatonic/Traditional": 10,
           "Atonal/Ambiguous": 4,
           "Chromatic/Dissonant": 1
+        },
+        "tempoBPM": {
+          "min": 0.0,
+          "max": 170.0,
+          "mean": 116.86,
+          "avg": 116.86,
+          "std": 20.52
         },
         "bgmGenre": {
           "Pop": 2553,
@@ -4100,6 +4097,9 @@
           "Comedy": 6,
           "Orchestral": 3,
           "Comedy/Meme": 2
+        },
+        "musicPresence": {
+          "True": 3364
         }
       },
       "audio_base_music_structures": {
@@ -4110,12 +4110,34 @@
           "avg": 1.83,
           "std": 0.58
         },
-        "beatStrength": {
+        "instrumentFamiliesAudible": {
+          "Percussion": 2499,
+          "Synthesizer": 2140,
+          "Electronic": 1939,
+          "String": 1095,
+          "Keyboard": 562,
+          "None": 66,
+          "Acoustic": 43,
+          "Strings": 40,
+          "Brass": 31,
+          "Woodwind": 21,
+          "Piano": 12,
+          "Guitar": 7,
+          "Acoustic Guitar": 5,
+          "Acoustic/Folk": 4,
+          "Electric Guitar": 3,
+          "Orchestral": 3,
+          "Ambient": 1,
+          "Drums": 1,
+          "Bass": 1,
+          "Other Chinese Instrument": 1
+        },
+        "musicPauseDensity": {
           "min": 0.0,
-          "max": 5.0,
-          "mean": 3.36,
-          "avg": 3.36,
-          "std": 0.86
+          "max": 4.0,
+          "mean": 0.99,
+          "avg": 0.99,
+          "std": 0.41
         },
         "instrumentsAudible": {
           "Electronic Keyboard / Synthesizer": 2272,
@@ -4139,6 +4161,13 @@
           "Other Percussion Instrument": 14,
           "Flute": 12
         },
+        "beatStrength": {
+          "min": 0.0,
+          "max": 5.0,
+          "mean": 3.36,
+          "avg": 3.36,
+          "std": 0.86
+        },
         "musicSourceType": {
           "Stock/Royalty-Free": 3052,
           "Copyrighted/Commercial": 224,
@@ -4151,60 +4180,9 @@
           "Commercial/Copyrighted": 2,
           "Mixed": 2,
           "Meme/Comedy": 1
-        },
-        "musicPauseDensity": {
-          "min": 0.0,
-          "max": 4.0,
-          "mean": 0.99,
-          "avg": 0.99,
-          "std": 0.41
-        },
-        "instrumentFamiliesAudible": {
-          "Percussion": 2499,
-          "Synthesizer": 2140,
-          "Electronic": 1939,
-          "String": 1095,
-          "Keyboard": 562,
-          "None": 66,
-          "Acoustic": 43,
-          "Strings": 40,
-          "Brass": 31,
-          "Woodwind": 21,
-          "Piano": 12,
-          "Guitar": 7,
-          "Acoustic Guitar": 5,
-          "Acoustic/Folk": 4,
-          "Electric Guitar": 3,
-          "Orchestral": 3,
-          "Ambient": 1,
-          "Drums": 1,
-          "Bass": 1,
-          "Other Chinese Instrument": 1
         }
       },
       "audio_base_music_vocal_census": {
-        "female_singer_count": {
-          "min": 0.0,
-          "max": 9.0,
-          "mean": 0.08,
-          "avg": 0.08,
-          "std": 0.37
-        },
-        "bgmLanguage": {
-          "None": 3082,
-          "English": 156,
-          "Traditional Chinese": 150,
-          "Japanese": 30,
-          "Korean": 18,
-          "Other": 11,
-          "Mandarin": 8,
-          "French": 4,
-          "Simplified Chinese": 3,
-          "Unknown": 2,
-          "Cantonese": 1,
-          "Italian": 1,
-          "German": 1
-        },
         "male_singer_count": {
           "min": 0.0,
           "max": 5.0,
@@ -4225,63 +4203,51 @@
           "mean": 0.0,
           "avg": 0.0,
           "std": 0.06
+        },
+        "bgmLanguage": {
+          "None": 3082,
+          "English": 156,
+          "Traditional Chinese": 150,
+          "Japanese": 30,
+          "Korean": 18,
+          "Other": 11,
+          "Mandarin": 8,
+          "French": 4,
+          "Simplified Chinese": 3,
+          "Unknown": 2,
+          "Cantonese": 1,
+          "Italian": 1,
+          "German": 1
+        },
+        "female_singer_count": {
+          "min": 0.0,
+          "max": 9.0,
+          "mean": 0.08,
+          "avg": 0.08,
+          "std": 0.37
         }
       },
       "audio_base_noise_and_SFX_detect": {
-        "soundEffectsDetails": {
-          "Whoosh / Transition SFX": 2513,
-          "Ding / Bell SFX": 2245,
-          "Pop / Bubble SFX": 1834,
-          "Cartoon / Comedy SFX": 1529,
-          "Impact / Hit SFX": 623,
-          "Digital UI SFX": 622,
-          "Meme SFX": 239,
-          "None": 221,
-          "Sparkle / Magic SFX": 171,
-          "Applause / Laugh Track SFX": 144,
-          "Camera Shutter / Camera Operation": 30,
-          "Other": 29,
-          "Record Scratch SFX": 17,
-          "Cinematic Boom SFX": 15,
-          "Stinger SFX": 15,
-          "Glitch / Digital Distortion SFX": 13,
-          "Rewind / Tape Stop SFX": 12,
-          "Riser / Build-up SFX": 9,
-          "Human Vocal SFX": 8,
-          "Transition SFX": 4
+        "SignalToNoiseRatio": {
+          "min": 3.0,
+          "max": 5.0,
+          "mean": 4.35,
+          "avg": 4.35,
+          "std": 0.48
         },
-        "soundEffectsCoverage": {
+        "crowdNoiseIntensity": {
+          "min": 0.0,
+          "max": 4.0,
+          "mean": 0.83,
+          "avg": 0.83,
+          "std": 1.1
+        },
+        "soundEffectsIntensity": {
           "min": 0.0,
           "max": 5.0,
-          "mean": 2.79,
-          "avg": 2.79,
-          "std": 1.21
-        },
-        "incidentalNoiseIntensity": {
-          "min": 0.0,
-          "max": 4.0,
-          "mean": 1.31,
-          "avg": 1.31,
-          "std": 0.93
-        },
-        "crowdNoiseDetails": {
-          "None": 2017,
-          "Laughter": 1083,
-          "Chatter": 478,
-          "Cheering": 328,
-          "Applause": 194,
-          "Crowd Murmur": 191,
-          "Screaming/Yelling": 54,
-          "Chanting": 3,
-          "Applause / Laugh Track SFX": 1,
-          "Music": 1
-        },
-        "ambientNoiseIntensity": {
-          "min": 0.0,
-          "max": 4.0,
-          "mean": 1.09,
-          "avg": 1.09,
-          "std": 0.45
+          "mean": 2.89,
+          "avg": 2.89,
+          "std": 0.98
         },
         "incidentalNoiseDetails": {
           "Mechanical Click / Latch": 1345,
@@ -4305,26 +4271,12 @@
           "Metal Bump": 21,
           "Ceramics / Glass Clink": 17
         },
-        "SignalToNoiseRatio": {
-          "min": 3.0,
-          "max": 5.0,
-          "mean": 4.35,
-          "avg": 4.35,
-          "std": 0.48
-        },
-        "soundEffectsIntensity": {
+        "soundEffectsCoverage": {
           "min": 0.0,
           "max": 5.0,
-          "mean": 2.89,
-          "avg": 2.89,
-          "std": 0.98
-        },
-        "crowdNoiseIntensity": {
-          "min": 0.0,
-          "max": 4.0,
-          "mean": 0.83,
-          "avg": 0.83,
-          "std": 1.1
+          "mean": 2.79,
+          "avg": 2.79,
+          "std": 1.21
         },
         "ambientNoiseDetails": {
           "StudioSilence": 1892,
@@ -4339,11 +4291,63 @@
           "None": 2,
           "Other": 2,
           "Outdoor/Waterfront": 1
+        },
+        "incidentalNoiseIntensity": {
+          "min": 0.0,
+          "max": 4.0,
+          "mean": 1.31,
+          "avg": 1.31,
+          "std": 0.93
+        },
+        "ambientNoiseIntensity": {
+          "min": 0.0,
+          "max": 4.0,
+          "mean": 1.09,
+          "avg": 1.09,
+          "std": 0.45
+        },
+        "soundEffectsDetails": {
+          "Whoosh / Transition SFX": 2513,
+          "Ding / Bell SFX": 2245,
+          "Pop / Bubble SFX": 1834,
+          "Cartoon / Comedy SFX": 1529,
+          "Impact / Hit SFX": 623,
+          "Digital UI SFX": 622,
+          "Meme SFX": 239,
+          "None": 221,
+          "Sparkle / Magic SFX": 171,
+          "Applause / Laugh Track SFX": 144,
+          "Camera Shutter / Camera Operation": 30,
+          "Other": 29,
+          "Record Scratch SFX": 17,
+          "Cinematic Boom SFX": 15,
+          "Stinger SFX": 15,
+          "Glitch / Digital Distortion SFX": 13,
+          "Rewind / Tape Stop SFX": 12,
+          "Riser / Build-up SFX": 9,
+          "Human Vocal SFX": 8,
+          "Transition SFX": 4
+        },
+        "crowdNoiseDetails": {
+          "None": 2017,
+          "Laughter": 1083,
+          "Chatter": 478,
+          "Cheering": 328,
+          "Applause": 194,
+          "Crowd Murmur": 191,
+          "Screaming/Yelling": 54,
+          "Chanting": 3,
+          "Applause / Laugh Track SFX": 1,
+          "Music": 1
         }
       },
       "audio_base_spectral_and_acoustic": {
-        "hasAudioDistortion": {
-          "True": 2
+        "acousticDynamism": {
+          "min": 2.0,
+          "max": 5.0,
+          "mean": 3.8,
+          "avg": 3.8,
+          "std": 0.43
         },
         "noisinessAndPercussiveness": {
           "min": 1.0,
@@ -4359,12 +4363,8 @@
           "avg": 4.2,
           "std": 0.4
         },
-        "acousticDynamism": {
-          "min": 2.0,
-          "max": 5.0,
-          "mean": 3.8,
-          "avg": 3.8,
-          "std": 0.43
+        "hasAudioDistortion": {
+          "True": 2
         },
         "spectralCentroidBrightness": {
           "min": 2.0,
@@ -4375,13 +4375,6 @@
         }
       },
       "audio_base_vocal_affective": {
-        "arousal": {
-          "min": 0.0,
-          "max": 9.0,
-          "mean": 6.73,
-          "avg": 6.73,
-          "std": 0.88
-        },
         "dominance": {
           "min": 0.0,
           "max": 9.0,
@@ -4389,18 +4382,32 @@
           "avg": 6.2,
           "std": 0.82
         },
-        "hasVocalTension": {
-          "True": 286
-        },
         "valence": {
           "min": 0.0,
           "max": 9.0,
           "mean": 7.3,
           "avg": 7.3,
           "std": 1.03
+        },
+        "hasVocalTension": {
+          "True": 286
+        },
+        "arousal": {
+          "min": 0.0,
+          "max": 9.0,
+          "mean": 6.73,
+          "avg": 6.73,
+          "std": 0.88
         }
       },
       "audio_base_vocal_census": {
+        "male_vocal_count": {
+          "min": 0.0,
+          "max": 12.0,
+          "mean": 1.24,
+          "avg": 1.24,
+          "std": 1.14
+        },
         "female_vocal_count": {
           "min": 0.0,
           "max": 14.0,
@@ -4408,12 +4415,12 @@
           "avg": 1.09,
           "std": 1.08
         },
-        "dominant_speakers_count": {
+        "total_distinct_voices": {
           "min": 0.0,
-          "max": 11.0,
-          "mean": 1.57,
-          "avg": 1.57,
-          "std": 0.88
+          "max": 22.0,
+          "mean": 2.43,
+          "avg": 2.43,
+          "std": 1.71
         },
         "kids_vocal_count": {
           "min": 0.0,
@@ -4422,29 +4429,15 @@
           "avg": 0.15,
           "std": 0.48
         },
-        "male_vocal_count": {
+        "dominant_speakers_count": {
           "min": 0.0,
-          "max": 12.0,
-          "mean": 1.24,
-          "avg": 1.24,
-          "std": 1.14
-        },
-        "total_distinct_voices": {
-          "min": 0.0,
-          "max": 22.0,
-          "mean": 2.43,
-          "avg": 2.43,
-          "std": 1.71
+          "max": 11.0,
+          "mean": 1.57,
+          "avg": 1.57,
+          "std": 0.88
         }
       },
       "audio_base_vocal_prosody": {
-        "intensityAndLoudness": {
-          "min": 0.0,
-          "max": 5.0,
-          "mean": 3.46,
-          "avg": 3.46,
-          "std": 0.52
-        },
         "speechPauseDensity": {
           "min": 0.0,
           "max": 4.0,
@@ -4459,61 +4452,34 @@
           "avg": 3.73,
           "std": 0.5
         },
-        "pitchLevel": {
-          "min": 0.0,
-          "max": 4.0,
-          "mean": 3.18,
-          "avg": 3.18,
-          "std": 0.45
-        },
         "pitchVariability": {
           "min": 0.0,
           "max": 5.0,
           "mean": 3.84,
           "avg": 3.84,
           "std": 0.41
+        },
+        "intensityAndLoudness": {
+          "min": 0.0,
+          "max": 5.0,
+          "mean": 3.46,
+          "avg": 3.46,
+          "std": 0.52
+        },
+        "pitchLevel": {
+          "min": 0.0,
+          "max": 4.0,
+          "mean": 3.18,
+          "avg": 3.18,
+          "std": 0.45
         }
       },
       "audio_base_vocal_voice_quality": {
-        "intonationAndContour": {
-          "Complex": 3236,
-          "Rising": 106,
-          "Level": 98,
-          "Falling": 20,
-          "None": 6,
-          "rising": 1,
-          "falling": 1
-        },
-        "speakingFallingRatio": {
-          "min": 0.0,
-          "max": 4.0,
-          "mean": 2.57,
-          "avg": 2.57,
-          "std": 0.52
-        },
-        "vocalLanguage": {
-          "Traditional Chinese": 3293,
-          "English": 327,
-          "Mandarin": 131,
-          "Japanese": 59,
-          "Korean": 37,
-          "Other": 23,
-          "Simplified Chinese": 9,
-          "None": 6,
-          "Hokkien": 5,
-          "Spanish": 4,
-          "French": 4,
-          "Cantonese": 3,
-          "Mandarin Chinese": 3,
-          "Thai": 3,
-          "Taiwanese Hokkien": 2,
-          "Arabic": 2,
-          "Minnan": 1,
-          "Min Nan": 1,
-          "Italian": 1
-        },
         "hasBreathiness": {
           "True": 139
+        },
+        "hasRoughness": {
+          "True": 41
         },
         "tone": {
           "Animated/Excited": 2951,
@@ -4537,8 +4503,26 @@
           "Dramatic": 1,
           "Teasing": 1
         },
-        "hasStrain": {
-          "True": 217
+        "vocalLanguage": {
+          "Traditional Chinese": 3293,
+          "English": 327,
+          "Mandarin": 131,
+          "Japanese": 59,
+          "Korean": 37,
+          "Other": 23,
+          "Simplified Chinese": 9,
+          "None": 6,
+          "Hokkien": 5,
+          "Spanish": 4,
+          "French": 4,
+          "Cantonese": 3,
+          "Mandarin Chinese": 3,
+          "Thai": 3,
+          "Taiwanese Hokkien": 2,
+          "Arabic": 2,
+          "Minnan": 1,
+          "Min Nan": 1,
+          "Italian": 1
         },
         "articulationClarity": {
           "min": 0.0,
@@ -4547,30 +4531,46 @@
           "avg": 4.38,
           "std": 0.53
         },
+        "intonationAndContour": {
+          "Complex": 3236,
+          "Rising": 106,
+          "Level": 98,
+          "Falling": 20,
+          "None": 6,
+          "rising": 1,
+          "falling": 1
+        },
+        "hasStrain": {
+          "True": 217
+        },
+        "speakingFallingRatio": {
+          "min": 0.0,
+          "max": 4.0,
+          "mean": 2.57,
+          "avg": 2.57,
+          "std": 0.52
+        },
         "speakingRisingRatio": {
           "min": 0.0,
           "max": 5.0,
           "mean": 3.06,
           "avg": 3.06,
           "std": 0.44
-        },
-        "hasRoughness": {
-          "True": 41
         }
       },
       "basic_metadata": {
+        "aspectRatio": {
+          "9:16": 3375,
+          "16:9": 47,
+          "4:3": 2,
+          "1:1": 2
+        },
         "videoDuration": {
           "min": 21.0,
           "max": 294.0,
           "mean": 106.0,
           "avg": 106.0,
           "std": 32.01
-        },
-        "aspectRatio": {
-          "9:16": 3375,
-          "16:9": 47,
-          "4:3": 2,
-          "1:1": 2
         }
       },
       "visual_base": {
@@ -4579,6 +4579,15 @@
         }
       },
       "visual_base_visual_filming_and_editing": {
+        "visualRhythm": {
+          "Fast pace": 2453,
+          "Natural pace": 805,
+          "Highly dynamic / rapid montage": 94,
+          "Rhythm matched to speech": 77,
+          "Rhythm matched to music": 71,
+          "Very fast pace": 29,
+          "Slow pace": 8
+        },
         "cameraAngles": {
           "Eye-level": 3429,
           "High angle": 899,
@@ -4600,39 +4609,6 @@
           "Worm's-eye view": 1,
           "POV": 1,
           "Point-of-view": 1
-        },
-        "shotSize": {
-          "Medium shot": 2900,
-          "Close-up": 2774,
-          "Medium close-up": 1233,
-          "Full shot": 1182,
-          "Extreme close-up": 556,
-          "Insert shot": 493,
-          "Medium full shot": 458,
-          "Wide shot": 246,
-          "Long shot": 208,
-          "Macro close-up": 105,
-          "Screen / interface close-up": 87,
-          "Extreme long shot": 38,
-          "Two shot": 37,
-          "Group shot": 33,
-          "POV / first-person view": 23,
-          "Face close-up": 20,
-          "Establishing shot": 13,
-          "Point of view": 9,
-          "Screen recording / screen capture": 5,
-          "Drone / aerial view": 3
-        },
-        "takeStructure": {
-          "Multiple shots": 2897,
-          "Compilation / montage sequence": 458,
-          "Multi-camera / cutaway": 149,
-          "Single continuous take": 42,
-          "Looped short-form sequence": 23,
-          "Screen capture sequence": 23,
-          "Scene-to-scene sequence": 13,
-          "Montage sequence": 1,
-          "Screen recording edit": 1
         },
         "editingTechniques": {
           "Straight cut": 2784,
@@ -4656,6 +4632,28 @@
           "Slow cuts": 18,
           "Cutaway": 16
         },
+        "shotSize": {
+          "Medium shot": 2900,
+          "Close-up": 2774,
+          "Medium close-up": 1233,
+          "Full shot": 1182,
+          "Extreme close-up": 556,
+          "Insert shot": 493,
+          "Medium full shot": 458,
+          "Wide shot": 246,
+          "Long shot": 208,
+          "Macro close-up": 105,
+          "Screen / interface close-up": 87,
+          "Extreme long shot": 38,
+          "Two shot": 37,
+          "Group shot": 33,
+          "POV / first-person view": 23,
+          "Face close-up": 20,
+          "Establishing shot": 13,
+          "Point of view": 9,
+          "Screen recording / screen capture": 5,
+          "Drone / aerial view": 3
+        },
         "cameraMovement": {
           "Static": 2854,
           "Handheld": 1888,
@@ -4678,23 +4676,39 @@
           "POV / first-person view": 5,
           "None": 3
         },
-        "visualRhythm": {
-          "Fast pace": 2453,
-          "Natural pace": 805,
-          "Highly dynamic / rapid montage": 94,
-          "Rhythm matched to speech": 77,
-          "Rhythm matched to music": 71,
-          "Very fast pace": 29,
-          "Slow pace": 8
+        "takeStructure": {
+          "Multiple shots": 2897,
+          "Compilation / montage sequence": 458,
+          "Multi-camera / cutaway": 149,
+          "Single continuous take": 42,
+          "Looped short-form sequence": 23,
+          "Screen capture sequence": 23,
+          "Scene-to-scene sequence": 13,
+          "Montage sequence": 1,
+          "Screen recording edit": 1
         }
       },
       "visual_base_visual_human_presence": {
+        "mainCharacterCount": {
+          "min": 0.0,
+          "max": 11.0,
+          "mean": 1.51,
+          "avg": 1.51,
+          "std": 0.93
+        },
         "kidsDetectAmount": {
           "min": 0.0,
           "max": 120.0,
           "mean": 0.35,
           "avg": 0.35,
           "std": 2.26
+        },
+        "crowdLevel": {
+          "Small Group": 1216,
+          "Single": 1131,
+          "Duo": 705,
+          "Crowd": 354,
+          "None": 36
         },
         "maleDetectAmount": {
           "min": 0.0,
@@ -4703,12 +4717,19 @@
           "avg": 2.43,
           "std": 4.71
         },
-        "crowdLevel": {
-          "Small Group": 1216,
-          "Single": 1131,
-          "Duo": 705,
-          "Crowd": 354,
-          "None": 36
+        "femaleDetectAmount": {
+          "min": 0.0,
+          "max": 113.0,
+          "mean": 2.34,
+          "avg": 2.34,
+          "std": 4.46
+        },
+        "totalHumanCount": {
+          "min": 0.0,
+          "max": 200.0,
+          "mean": 5.05,
+          "avg": 5.05,
+          "std": 8.85
         },
         "bodyPartVisibility": {
           "Upper body": 3136,
@@ -4725,52 +4746,9 @@
           "None": 30,
           "Hands": 4,
           "Medium shot": 3
-        },
-        "totalHumanCount": {
-          "min": 0.0,
-          "max": 200.0,
-          "mean": 5.05,
-          "avg": 5.05,
-          "std": 8.85
-        },
-        "mainCharacterCount": {
-          "min": 0.0,
-          "max": 11.0,
-          "mean": 1.51,
-          "avg": 1.51,
-          "std": 0.93
-        },
-        "femaleDetectAmount": {
-          "min": 0.0,
-          "max": 113.0,
-          "mean": 2.34,
-          "avg": 2.34,
-          "std": 4.46
         }
       },
       "visual_base_visual_objects_and_brands": {
-        "landmark": {
-          "None": 3112,
-          "Taipei 101": 51,
-          "Tokyo Tower": 5,
-          "Victoria Harbour": 4,
-          "Pyramid of Khufu": 4,
-          "Hong Kong Disneyland": 4,
-          "Matterhorn": 4,
-          "Mount Fuji": 3,
-          "Taipei Dome": 3,
-          "JUNGLIA OKINAWA": 2,
-          "Chiang Kai-shek Memorial Hall": 2,
-          "Myeong-dong": 2,
-          "Wat Arun": 2,
-          "Nanjichang Night Market": 2,
-          "Shibuya Crossing": 2,
-          "National Taiwan Science Education Center": 2,
-          "Christ the Redeemer": 2,
-          "Tokyo Disneyland": 2,
-          "Ningxia Night Market": 2,
-          "Eiffel Tower": 2
-        },
         "animalDetect": {
           "None": 2577,
           "Cat": 221,
@@ -4793,71 +4771,27 @@
           "Monkey / ape": 7,
           "Cow": 5
         },
-        "foodsDetect": {
-          "None": 1846,
-          "Beverage / juice": 521,
-          "Meat / beef / pork / chicken": 423,
-          "Dessert / cake / cookies": 388,
-          "Vegetables": 384,
-          "Snack / chips / candy": 298,
-          "Fruit": 281,
-          "Seafood / fish / shrimp": 246,
-          "Prepared meal / plated dish": 221,
-          "Noodles / ramen / pasta": 184,
-          "Coffee": 181,
-          "Rice / grains": 169,
-          "Bread / pastry": 165,
-          "Soup / hotpot / curry": 161,
-          "Alcohol": 152,
-          "Egg": 148,
-          "Tea": 139,
-          "Fast food / burger / fries / pizza": 125,
-          "Condiments / sauce": 116,
-          "Milk": 97
-        },
-        "instrumentsVisible": {
-          "None": 3258,
-          "Piano": 66,
-          "Electronic Keyboard / Synthesizer": 37,
-          "Guitar": 25,
-          "Violin": 22,
-          "Drum Kit / Drum Set": 18,
-          "Electric Guitar": 15,
-          "Gong": 9,
-          "Other Percussion Instrument": 9,
-          "Cello": 9,
-          "Chinese Drum": 8,
-          "Double Bass / Contrabass": 6,
-          "Trumpet": 5,
-          "Electric Bass": 4,
-          "Other Woodwind Instrument": 3,
-          "Other String Instrument": 3,
-          "Acoustic Guitar": 3,
-          "Trombone": 3,
-          "Flute": 2,
-          "Harp": 2
-        },
-        "techDetect": {
-          "Smartphone": 1883,
-          "Microphone / lavalier mic": 861,
-          "None": 722,
-          "Laptop": 355,
-          "Desktop computer / monitor": 318,
-          "TV / display screen": 316,
-          "Home appliance": 237,
-          "Camera / DSLR": 210,
-          "Kitchen appliance": 207,
-          "Lighting equipment / ring light": 194,
-          "Headphones / earbuds": 187,
-          "Other": 126,
-          "Smartwatch / wearable": 114,
-          "Tablet": 104,
-          "Keyboard / mouse": 84,
-          "Action camera": 67,
-          "Tripod / stabilizer": 60,
-          "Speaker / audio device": 44,
-          "Game console / controller": 30,
-          "Tech on packaging / logo": 21
+        "landmark": {
+          "None": 3112,
+          "Taipei 101": 51,
+          "Tokyo Tower": 5,
+          "Victoria Harbour": 4,
+          "Pyramid of Khufu": 4,
+          "Hong Kong Disneyland": 4,
+          "Matterhorn": 4,
+          "Mount Fuji": 3,
+          "Taipei Dome": 3,
+          "JUNGLIA OKINAWA": 2,
+          "Chiang Kai-shek Memorial Hall": 2,
+          "Myeong-dong": 2,
+          "Wat Arun": 2,
+          "Nanjichang Night Market": 2,
+          "Shibuya Crossing": 2,
+          "National Taiwan Science Education Center": 2,
+          "Christ the Redeemer": 2,
+          "Tokyo Disneyland": 2,
+          "Ningxia Night Market": 2,
+          "Eiffel Tower": 2
         },
         "brandLogos": {
           "None": 499,
@@ -4881,6 +4815,28 @@
           "Coca-Cola": 24,
           "Dyson": 23
         },
+        "instrumentsVisible": {
+          "None": 3258,
+          "Piano": 66,
+          "Electronic Keyboard / Synthesizer": 37,
+          "Guitar": 25,
+          "Violin": 22,
+          "Drum Kit / Drum Set": 18,
+          "Electric Guitar": 15,
+          "Gong": 9,
+          "Other Percussion Instrument": 9,
+          "Cello": 9,
+          "Chinese Drum": 8,
+          "Double Bass / Contrabass": 6,
+          "Trumpet": 5,
+          "Electric Bass": 4,
+          "Other Woodwind Instrument": 3,
+          "Other String Instrument": 3,
+          "Acoustic Guitar": 3,
+          "Trombone": 3,
+          "Flute": 2,
+          "Harp": 2
+        },
         "trafficDetect": {
           "None": 2491,
           "Car": 557,
@@ -4902,6 +4858,50 @@
           "SUV": 3,
           "Traffic infrastructure": 3,
           "Scooter": 3
+        },
+        "foodsDetect": {
+          "None": 1846,
+          "Beverage / juice": 521,
+          "Meat / beef / pork / chicken": 423,
+          "Dessert / cake / cookies": 388,
+          "Vegetables": 384,
+          "Snack / chips / candy": 298,
+          "Fruit": 281,
+          "Seafood / fish / shrimp": 246,
+          "Prepared meal / plated dish": 221,
+          "Noodles / ramen / pasta": 184,
+          "Coffee": 181,
+          "Rice / grains": 169,
+          "Bread / pastry": 165,
+          "Soup / hotpot / curry": 161,
+          "Alcohol": 152,
+          "Egg": 148,
+          "Tea": 139,
+          "Fast food / burger / fries / pizza": 125,
+          "Condiments / sauce": 116,
+          "Milk": 97
+        },
+        "techDetect": {
+          "Smartphone": 1883,
+          "Microphone / lavalier mic": 861,
+          "None": 722,
+          "Laptop": 355,
+          "Desktop computer / monitor": 318,
+          "TV / display screen": 316,
+          "Home appliance": 237,
+          "Camera / DSLR": 210,
+          "Kitchen appliance": 207,
+          "Lighting equipment / ring light": 194,
+          "Headphones / earbuds": 187,
+          "Other": 126,
+          "Smartwatch / wearable": 114,
+          "Tablet": 104,
+          "Keyboard / mouse": 84,
+          "Action camera": 67,
+          "Tripod / stabilizer": 60,
+          "Speaker / audio device": 44,
+          "Game console / controller": 30,
+          "Tech on packaging / logo": 21
         }
       },
       "visual_base_visual_scene_and_style": {
@@ -4915,8 +4915,27 @@
           "Spring / Summer": 36,
           "Not applicable": 35
         },
-        "isMultipleBackground": {
-          "True": 2442
+        "locationCategory": {
+          "Studio": 956,
+          "Indoor Home": 933,
+          "Outdoor Street": 902,
+          "Indoor Living Room": 746,
+          "Retail Store": 386,
+          "Office / Workplace": 356,
+          "Indoor Kitchen": 352,
+          "Restaurant / Dining": 315,
+          "Digital Interface / Screen Capture": 252,
+          "Indoor Bedroom": 221,
+          "Park / Garden": 219,
+          "Stage / Performance Venue": 191,
+          "Indoor Bathroom": 177,
+          "Car / Van Interior": 144,
+          "Mountain / Forest / Trail": 125,
+          "Supermarket / Warehouse Store": 125,
+          "Cafe / Tea Shop": 106,
+          "Animation / Graphic Background": 102,
+          "Exhibition / Museum / Gallery": 99,
+          "Urban Plaza / Square": 98
         },
         "locationTopography": {
           "Plain / Flat Urban": 1563,
@@ -4939,28 +4958,6 @@
           "Valley": 11,
           "Mountain / Forest / Trail": 8,
           "Underwater": 6
-        },
-        "lightingStyle": {
-          "Bright indoor lighting": 1934,
-          "Bright studio lighting": 1289,
-          "Natural daylight": 1049,
-          "Warm indoor lighting": 344,
-          "Night artificial light": 265,
-          "Mixed natural and artificial light": 226,
-          "Dim / low light": 139,
-          "Neon / colored light": 137,
-          "High-contrast cinematic lighting": 74,
-          "Soft indoor lighting": 72,
-          "Flat animation lighting": 48,
-          "Cloudy / Overcast": 11,
-          "Bright retail lighting": 2,
-          "Backlit / silhouette": 2,
-          "Cinematic": 1,
-          "Sunset / Golden Hour": 1,
-          "Bright office lighting": 1,
-          "Bright natural lighting": 1,
-          "Overcast": 1,
-          "Cinematic lighting": 1
         },
         "weather": {
           "Indoor / not visible": 2126,
@@ -4995,33 +4992,33 @@
           "Vivid colors": 1,
           "White": 1
         },
-        "locationCategory": {
-          "Studio": 956,
-          "Indoor Home": 933,
-          "Outdoor Street": 902,
-          "Indoor Living Room": 746,
-          "Retail Store": 386,
-          "Office / Workplace": 356,
-          "Indoor Kitchen": 352,
-          "Restaurant / Dining": 315,
-          "Digital Interface / Screen Capture": 252,
-          "Indoor Bedroom": 221,
-          "Park / Garden": 219,
-          "Stage / Performance Venue": 191,
-          "Indoor Bathroom": 177,
-          "Car / Van Interior": 144,
-          "Mountain / Forest / Trail": 125,
-          "Supermarket / Warehouse Store": 125,
-          "Cafe / Tea Shop": 106,
-          "Animation / Graphic Background": 102,
-          "Exhibition / Museum / Gallery": 99,
-          "Urban Plaza / Square": 98
+        "lightingStyle": {
+          "Bright indoor lighting": 1934,
+          "Bright studio lighting": 1289,
+          "Natural daylight": 1049,
+          "Warm indoor lighting": 344,
+          "Night artificial light": 265,
+          "Mixed natural and artificial light": 226,
+          "Dim / low light": 139,
+          "Neon / colored light": 137,
+          "High-contrast cinematic lighting": 74,
+          "Soft indoor lighting": 72,
+          "Flat animation lighting": 48,
+          "Cloudy / Overcast": 11,
+          "Bright retail lighting": 2,
+          "Backlit / silhouette": 2,
+          "Cinematic": 1,
+          "Sunset / Golden Hour": 1,
+          "Bright office lighting": 1,
+          "Bright natural lighting": 1,
+          "Overcast": 1,
+          "Cinematic lighting": 1
+        },
+        "isMultipleBackground": {
+          "True": 2442
         }
       },
       "visual_base_visual_text_overlay": {
-        "isSubtitled": {
-          "True": 3396
-        },
         "textLanguage": {
           "Traditional Chinese": 3390,
           "English": 2583,
@@ -5040,6 +5037,9 @@
           "Medium": 837,
           "Low": 23,
           "None": 6
+        },
+        "isSubtitled": {
+          "True": 3396
         }
       }
     }
